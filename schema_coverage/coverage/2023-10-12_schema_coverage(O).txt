@@ -1,0 +1,17 @@
+	property	All	Zenodo	AccessClinicalData@NIAID	NCBI+SRA	ClinEpiDB	ImmPort	VEuPathDB	LINCS	Data+Discovery+Engine	Dryad+Digital+Repository	Vivli	Harvard+Dataverse	HuBMAP	Mendeley	NCBI+GEO	Omics+Discovery+Index+(OmicsDI)
+0	isRelatedTo	428	0	4	0	0	0	0	424	0	0	0	0	0	0	0	0
+1	isSimilarTo	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2	isBasisFor	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3	nctid	6	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0
+4	abstract	727	0	6	0	0	721	0	0	0	0	0	0	0	0	0	0
+5	aggregateRating	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6	creator	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7	hasPart	40993	0	5	0	0	0	0	0	0	40988	0	0	0	0	0	0
+8	inLanguage	40458	40458	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9	isAccessibleForFree	56156	0	0	0	0	0	0	0	0	54208	0	0	1948	0	0	0
+10	isPartOf	4	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+11	version	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12	alternateName	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+13	mainEntityOfPage	6	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0
+14	sameAs	1873475	0	0	0	0	721	0	0	0	0	0	0	0	0	0	1872754
+15	relationship	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

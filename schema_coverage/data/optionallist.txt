@@ -1,0 +1,16 @@
+isRelatedTo
+isSimilarTo
+isBasisFor
+nctid
+abstract
+aggregateRating
+creator
+hasPart
+inLanguage
+isAccessibleForFree
+isPartOf
+version
+alternateName
+mainEntityOfPage
+sameAs
+relationship
