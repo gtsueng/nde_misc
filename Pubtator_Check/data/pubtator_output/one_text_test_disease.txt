@@ -1,0 +1,8 @@
+OMICSDI_S-EPMC4645191|t|Complete Genome Sequence of Bartonella ancashensis Strain 20.00, Isolated from the Blood of a Patient with Verruga Peruana.
+OMICSDI_S-EPMC4645191|a|Here we present the complete genome sequence of Bartonella ancashensis strain 20.00, isolated from the blood of a Peruvian patient with verruga peruana, known as Carrion's disease. Bartonella ancashensis is a Gram-negative bacillus, phylogenetically most similar to Bartonella bacilliformis, the causative agent of Oroya fever and verruga peruana.
+OMICSDI_S-EPMC4645191	107	122	Verruga Peruana	Disease	MESH:D001474
+OMICSDI_S-EPMC4645191	260	275	verruga peruana	Disease	MESH:D001474
+OMICSDI_S-EPMC4645191	286	303	Carrion's disease	Disease	MESH:D001474
+OMICSDI_S-EPMC4645191	439	450	Oroya fever	Disease	MESH:D001474
+OMICSDI_S-EPMC4645191	455	470	verruga peruana	Disease	MESH:D001474
+
