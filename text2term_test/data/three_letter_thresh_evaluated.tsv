@@ -1,0 +1,124 @@
+	Source Term ID	Source Term	Mapped Term Label	Mapped Term CURIE	Mapped Term IRI	Mapping Score	Tags	Evaluation
+0	http://ccb.hms.harvard.edu/t2t/R4M5P5PZMSo	cat	Felis catus	NCBITAXON:9685	http://purl.obolibrary.org/obo/NCBITaxon_9685	0.96	None	great
+1	http://ccb.hms.harvard.edu/t2t/R4M5P5PZMSo	cat	Catopuma badia	NCBITAXON:61454	http://purl.obolibrary.org/obo/NCBITaxon_61454	0.632	None	poor
+2	http://ccb.hms.harvard.edu/t2t/R4M5P5PZMSo	cat	Felis margarita	NCBITAXON:61378	http://purl.obolibrary.org/obo/NCBITaxon_61378	0.628	None	poor
+3	http://ccb.hms.harvard.edu/t2t/REXvvRpGqwT	dog	Canis lupus familiaris	NCBITAXON:9615	http://purl.obolibrary.org/obo/NCBITaxon_9615	0.993	None	great
+4	http://ccb.hms.harvard.edu/t2t/REXvvRpGqwT	dog	Ctenocephalides canis	NCBITAXON:50434	http://purl.obolibrary.org/obo/NCBITaxon_50434	0.701	None	poor
+5	http://ccb.hms.harvard.edu/t2t/REXvvRpGqwT	dog	Rosa canina	NCBITAXON:74635	http://purl.obolibrary.org/obo/NCBITaxon_74635	0.698	None	poor
+6	http://ccb.hms.harvard.edu/t2t/RyANADrmpp6	owl	Strix uralensis	NCBITAXON:36305	http://purl.obolibrary.org/obo/NCBITaxon_36305	0.805	None	too specific
+7	http://ccb.hms.harvard.edu/t2t/RyANADrmpp6	owl	Brahmaea certhia	NCBITAXON:119244	http://purl.obolibrary.org/obo/NCBITaxon_119244	0.796	None	poor
+8	http://ccb.hms.harvard.edu/t2t/RyANADrmpp6	owl	Tyto alba	NCBITAXON:56313	http://purl.obolibrary.org/obo/NCBITaxon_56313	0.795	None	poor
+9	http://ccb.hms.harvard.edu/t2t/RHeMofySixn	fox	Euthrix fox fox	NCBITAXON:624159	http://purl.obolibrary.org/obo/NCBITaxon_624159	0.844	None	too specific
+10	http://ccb.hms.harvard.edu/t2t/RHeMofySixn	fox	Vulpes vulpes	NCBITAXON:9627	http://purl.obolibrary.org/obo/NCBITaxon_9627	0.823	None	great
+11	http://ccb.hms.harvard.edu/t2t/RHeMofySixn	fox	Alopias vulpinus	NCBITAXON:7852	http://purl.obolibrary.org/obo/NCBITaxon_7852	0.801	None	poor
+12	http://ccb.hms.harvard.edu/t2t/R7CCqAAPjLQ	elk	Cervus canadensis	NCBITAXON:1574408	http://purl.obolibrary.org/obo/NCBITaxon_1574408	0.977	None	great
+13	http://ccb.hms.harvard.edu/t2t/R7CCqAAPjLQ	elk	Alces alces	NCBITAXON:9852	http://purl.obolibrary.org/obo/NCBITaxon_9852	0.977	None	great
+14	http://ccb.hms.harvard.edu/t2t/R7CCqAAPjLQ	elk	Cervus canadensis nannodes	NCBITAXON:65382	http://purl.obolibrary.org/obo/NCBITaxon_65382	0.753	None	too specific
+15	http://ccb.hms.harvard.edu/t2t/RDNfMFfG4nq	cow	Bos taurus	NCBITAXON:9913	http://purl.obolibrary.org/obo/NCBITaxon_9913	0.954	None	great
+16	http://ccb.hms.harvard.edu/t2t/RDNfMFfG4nq	cow	Eleotris picta	NCBITAXON:308077	http://purl.obolibrary.org/obo/NCBITaxon_308077	0.674	None	poor
+17	http://ccb.hms.harvard.edu/t2t/RDNfMFfG4nq	cow	Proceratophrys avelinoi	NCBITAXON:377301	http://purl.obolibrary.org/obo/NCBITaxon_377301	0.655	None	poor
+18	http://ccb.hms.harvard.edu/t2t/RDLE3EmqP6t	pig	Sus scrofa	NCBITAXON:9823	http://purl.obolibrary.org/obo/NCBITaxon_9823	0.98	None	a touch broad
+19	http://ccb.hms.harvard.edu/t2t/RDLE3EmqP6t	pig	Scotoplanes globosa	NCBITAXON:2665651	http://purl.obolibrary.org/obo/NCBITaxon_2665651	0.79	None	poor
+20	http://ccb.hms.harvard.edu/t2t/RDLE3EmqP6t	pig	Lithobates grylio	NCBITAXON:190277	http://purl.obolibrary.org/obo/NCBITaxon_190277	0.698	None	poor
+21	http://ccb.hms.harvard.edu/t2t/R3jpoS6xdrL	hen	Ceratophyllus gallinae	NCBITAXON:217689	http://purl.obolibrary.org/obo/NCBITaxon_217689	0.655	None	poor
+22	http://ccb.hms.harvard.edu/t2t/R3jpoS6xdrL	hen	Henia	NCBITAXON:126935	http://purl.obolibrary.org/obo/NCBITaxon_126935	0.591	None	poor
+23	http://ccb.hms.harvard.edu/t2t/R3jpoS6xdrL	hen	Chenopodiastrum murale	NCBITAXON:46091	http://purl.obolibrary.org/obo/NCBITaxon_46091	0.589	None	poor
+24	http://ccb.hms.harvard.edu/t2t/REbcbLij7hb	ant	Myrmeleontidae	NCBITAXON:27427	http://purl.obolibrary.org/obo/NCBITaxon_27427	0.543	None	too broad
+25	http://ccb.hms.harvard.edu/t2t/REbcbLij7hb	ant	Myrmecophaga tridactyla	NCBITAXON:71006	http://purl.obolibrary.org/obo/NCBITaxon_71006	0.537	None	poor
+26	http://ccb.hms.harvard.edu/t2t/REbcbLij7hb	ant	Microhyla ornata	NCBITAXON:143526	http://purl.obolibrary.org/obo/NCBITaxon_143526	0.535	None	poor
+27	http://ccb.hms.harvard.edu/t2t/RBoSJ6RMy4m	rat	Rattus	NCBITAXON:10114	http://purl.obolibrary.org/obo/NCBITaxon_10114	0.969	None	great
+28	http://ccb.hms.harvard.edu/t2t/RBoSJ6RMy4m	rat	Rattus norvegicus	NCBITAXON:10116	http://purl.obolibrary.org/obo/NCBITaxon_10116	0.969	None	great
+29	http://ccb.hms.harvard.edu/t2t/RBoSJ6RMy4m	rat	Scapteromys aquaticus	NCBITAXON:241146	http://purl.obolibrary.org/obo/NCBITaxon_241146	0.628	None	poor
+30	http://ccb.hms.harvard.edu/t2t/RJkX5BvnkvW	eel	Myroconger compressus	NCBITAXON:556240	http://purl.obolibrary.org/obo/NCBITaxon_556240	0.837	None	too specific
+31	http://ccb.hms.harvard.edu/t2t/RJkX5BvnkvW	eel	Ophichthys fossorius	NCBITAXON:2793286	http://purl.obolibrary.org/obo/NCBITaxon_2793286	0.747	None	too specific
+32	http://ccb.hms.harvard.edu/t2t/RJkX5BvnkvW	eel	Ophichthys cuchia	NCBITAXON:2793285	http://purl.obolibrary.org/obo/NCBITaxon_2793285	0.747	None	too specific
+33	http://ccb.hms.harvard.edu/t2t/RHU5FH4qWiT	bat	Lasiurus borealis	NCBITAXON:258930	http://purl.obolibrary.org/obo/NCBITaxon_258930	0.698	None	too specific
+34	http://ccb.hms.harvard.edu/t2t/RHU5FH4qWiT	bat	Patiria miniata	NCBITAXON:46514	http://purl.obolibrary.org/obo/NCBITaxon_46514	0.67	None	poor
+35	http://ccb.hms.harvard.edu/t2t/RHU5FH4qWiT	bat	Afronycteris nana	NCBITAXON:568927	http://purl.obolibrary.org/obo/NCBITaxon_568927	0.642	None	poor
+36	http://ccb.hms.harvard.edu/t2t/RFE9ZTo7qoc	ewe	Anansus ewe	NCBITAXON:2068845	http://purl.obolibrary.org/obo/NCBITaxon_2068845	0.746	None	poor
+37	http://ccb.hms.harvard.edu/t2t/RFE9ZTo7qoc	ewe	Chroicocephalus ridibundus	NCBITAXON:1192867	http://purl.obolibrary.org/obo/NCBITaxon_1192867	0.475	None	poor
+38	http://ccb.hms.harvard.edu/t2t/RFE9ZTo7qoc	ewe	Larus argentatus	NCBITAXON:35669	http://purl.obolibrary.org/obo/NCBITaxon_35669	0.438	None	poor
+39	http://ccb.hms.harvard.edu/t2t/RFUgpon5HWE	emu	Dromaius novaehollandiae	NCBITAXON:8790	http://purl.obolibrary.org/obo/NCBITaxon_8790	0.98	None	great
+40	http://ccb.hms.harvard.edu/t2t/RFUgpon5HWE	emu	Dromaiidae	NCBITAXON:8788	http://purl.obolibrary.org/obo/NCBITaxon_8788	0.695	None	poor
+41	http://ccb.hms.harvard.edu/t2t/RFUgpon5HWE	emu	Emus	NCBITAXON:1401316	http://purl.obolibrary.org/obo/NCBITaxon_1401316	0.695	None	poor
+42	http://ccb.hms.harvard.edu/t2t/RCeToEqif6d	yak	Bos grunniens	NCBITAXON:30521	http://purl.obolibrary.org/obo/NCBITaxon_30521	0.996	None	good
+43	http://ccb.hms.harvard.edu/t2t/RCeToEqif6d	yak	Yak enterovirus	NCBITAXON:1604871	http://purl.obolibrary.org/obo/NCBITaxon_1604871	0.742	None	poor
+44	http://ccb.hms.harvard.edu/t2t/RCeToEqif6d	yak	Yak astrovirus	NCBITAXON:1604873	http://purl.obolibrary.org/obo/NCBITaxon_1604873	0.738	None	poor
+45	http://ccb.hms.harvard.edu/t2t/RK4JiEnkvJk	sow	Hyperomyzus lactucae	NCBITAXON:330460	http://purl.obolibrary.org/obo/NCBITaxon_330460	0.529	None	poor
+46	http://ccb.hms.harvard.edu/t2t/RK4JiEnkvJk	sow	Chenopodiastrum hybridum	NCBITAXON:434243	http://purl.obolibrary.org/obo/NCBITaxon_434243	0.46	None	poor
+47	http://ccb.hms.harvard.edu/t2t/RK4JiEnkvJk	sow	Sowerbaea	NCBITAXON:51480	http://purl.obolibrary.org/obo/NCBITaxon_51480	0.436	None	poor
+48	http://ccb.hms.harvard.edu/t2t/RGNrdu72syh	CAT	Felis catus	NCBITAXON:9685	http://purl.obolibrary.org/obo/NCBITaxon_9685	0.96	None	great
+49	http://ccb.hms.harvard.edu/t2t/RGNrdu72syh	CAT	Catopuma badia	NCBITAXON:61454	http://purl.obolibrary.org/obo/NCBITaxon_61454	0.632	None	poor
+50	http://ccb.hms.harvard.edu/t2t/RGNrdu72syh	CAT	Felis margarita	NCBITAXON:61378	http://purl.obolibrary.org/obo/NCBITaxon_61378	0.628	None	poor
+51	http://ccb.hms.harvard.edu/t2t/RGiPM2RqK5c	Dog	Canis lupus familiaris	NCBITAXON:9615	http://purl.obolibrary.org/obo/NCBITaxon_9615	0.993	None	great
+52	http://ccb.hms.harvard.edu/t2t/RGiPM2RqK5c	Dog	Ctenocephalides canis	NCBITAXON:50434	http://purl.obolibrary.org/obo/NCBITaxon_50434	0.701	None	poor
+53	http://ccb.hms.harvard.edu/t2t/RGiPM2RqK5c	Dog	Rosa canina	NCBITAXON:74635	http://purl.obolibrary.org/obo/NCBITaxon_74635	0.698	None	poor
+54	http://ccb.hms.harvard.edu/t2t/REjmECZtcA8	OWL	Strix uralensis	NCBITAXON:36305	http://purl.obolibrary.org/obo/NCBITaxon_36305	0.805	None	too specific
+55	http://ccb.hms.harvard.edu/t2t/REjmECZtcA8	OWL	Brahmaea certhia	NCBITAXON:119244	http://purl.obolibrary.org/obo/NCBITaxon_119244	0.796	None	poor
+56	http://ccb.hms.harvard.edu/t2t/REjmECZtcA8	OWL	Tyto alba	NCBITAXON:56313	http://purl.obolibrary.org/obo/NCBITaxon_56313	0.795	None	poor
+57	http://ccb.hms.harvard.edu/t2t/R5bC76dr8zB	Fox	Euthrix fox fox	NCBITAXON:624159	http://purl.obolibrary.org/obo/NCBITaxon_624159	0.844	None	too specific
+58	http://ccb.hms.harvard.edu/t2t/R5bC76dr8zB	Fox	Vulpes vulpes	NCBITAXON:9627	http://purl.obolibrary.org/obo/NCBITaxon_9627	0.823	None	great
+59	http://ccb.hms.harvard.edu/t2t/R5bC76dr8zB	Fox	Alopias vulpinus	NCBITAXON:7852	http://purl.obolibrary.org/obo/NCBITaxon_7852	0.801	None	poor
+60	http://ccb.hms.harvard.edu/t2t/R6iFWPDkpRE	Elk	Cervus canadensis	NCBITAXON:1574408	http://purl.obolibrary.org/obo/NCBITaxon_1574408	0.977	None	great
+61	http://ccb.hms.harvard.edu/t2t/R6iFWPDkpRE	Elk	Alces alces	NCBITAXON:9852	http://purl.obolibrary.org/obo/NCBITaxon_9852	0.977	None	great
+62	http://ccb.hms.harvard.edu/t2t/R6iFWPDkpRE	Elk	Cervus canadensis nannodes	NCBITAXON:65382	http://purl.obolibrary.org/obo/NCBITaxon_65382	0.753	None	too specific
+63	http://ccb.hms.harvard.edu/t2t/RgjRKbDUxYt	Cow	Bos taurus	NCBITAXON:9913	http://purl.obolibrary.org/obo/NCBITaxon_9913	0.954	None	great
+64	http://ccb.hms.harvard.edu/t2t/RgjRKbDUxYt	Cow	Eleotris picta	NCBITAXON:308077	http://purl.obolibrary.org/obo/NCBITaxon_308077	0.674	None	poor
+65	http://ccb.hms.harvard.edu/t2t/RgjRKbDUxYt	Cow	Proceratophrys avelinoi	NCBITAXON:377301	http://purl.obolibrary.org/obo/NCBITaxon_377301	0.655	None	poor
+66	http://ccb.hms.harvard.edu/t2t/RG3t3xo2sAS	Pig	Sus scrofa	NCBITAXON:9823	http://purl.obolibrary.org/obo/NCBITaxon_9823	0.98	None	a touch broad
+67	http://ccb.hms.harvard.edu/t2t/RG3t3xo2sAS	Pig	Scotoplanes globosa	NCBITAXON:2665651	http://purl.obolibrary.org/obo/NCBITaxon_2665651	0.79	None	poor
+68	http://ccb.hms.harvard.edu/t2t/RG3t3xo2sAS	Pig	Lithobates grylio	NCBITAXON:190277	http://purl.obolibrary.org/obo/NCBITaxon_190277	0.698	None	poor
+69	http://ccb.hms.harvard.edu/t2t/RGEjMagsMUc	Hen	Ceratophyllus gallinae	NCBITAXON:217689	http://purl.obolibrary.org/obo/NCBITaxon_217689	0.655	None	poor
+70	http://ccb.hms.harvard.edu/t2t/RGEjMagsMUc	Hen	Henia	NCBITAXON:126935	http://purl.obolibrary.org/obo/NCBITaxon_126935	0.591	None	poor
+71	http://ccb.hms.harvard.edu/t2t/RGEjMagsMUc	Hen	Chenopodiastrum murale	NCBITAXON:46091	http://purl.obolibrary.org/obo/NCBITaxon_46091	0.589	None	poor
+72	http://ccb.hms.harvard.edu/t2t/R3LKwVSuvrp	Ant	Myrmeleontidae	NCBITAXON:27427	http://purl.obolibrary.org/obo/NCBITaxon_27427	0.543	None	too broad
+73	http://ccb.hms.harvard.edu/t2t/R3LKwVSuvrp	Ant	Myrmecophaga tridactyla	NCBITAXON:71006	http://purl.obolibrary.org/obo/NCBITaxon_71006	0.537	None	poor
+74	http://ccb.hms.harvard.edu/t2t/R3LKwVSuvrp	Ant	Microhyla ornata	NCBITAXON:143526	http://purl.obolibrary.org/obo/NCBITaxon_143526	0.535	None	poor
+75	http://ccb.hms.harvard.edu/t2t/RB748ZYFjgr	Rat	Rattus	NCBITAXON:10114	http://purl.obolibrary.org/obo/NCBITaxon_10114	0.969	None	great
+76	http://ccb.hms.harvard.edu/t2t/RB748ZYFjgr	Rat	Rattus norvegicus	NCBITAXON:10116	http://purl.obolibrary.org/obo/NCBITaxon_10116	0.969	None	great
+77	http://ccb.hms.harvard.edu/t2t/RB748ZYFjgr	Rat	Scapteromys aquaticus	NCBITAXON:241146	http://purl.obolibrary.org/obo/NCBITaxon_241146	0.628	None	poor
+78	http://ccb.hms.harvard.edu/t2t/R5cauFecXHZ	Eel	Myroconger compressus	NCBITAXON:556240	http://purl.obolibrary.org/obo/NCBITaxon_556240	0.837	None	too specific
+79	http://ccb.hms.harvard.edu/t2t/R5cauFecXHZ	Eel	Ophichthys fossorius	NCBITAXON:2793286	http://purl.obolibrary.org/obo/NCBITaxon_2793286	0.747	None	too specific
+80	http://ccb.hms.harvard.edu/t2t/R5cauFecXHZ	Eel	Ophichthys cuchia	NCBITAXON:2793285	http://purl.obolibrary.org/obo/NCBITaxon_2793285	0.747	None	too specific
+81	http://ccb.hms.harvard.edu/t2t/R3i4gRmWHX6	Bat	Lasiurus borealis	NCBITAXON:258930	http://purl.obolibrary.org/obo/NCBITaxon_258930	0.698	None	too specific
+82	http://ccb.hms.harvard.edu/t2t/R3i4gRmWHX6	Bat	Patiria miniata	NCBITAXON:46514	http://purl.obolibrary.org/obo/NCBITaxon_46514	0.67	None	poor
+83	http://ccb.hms.harvard.edu/t2t/R3i4gRmWHX6	Bat	Afronycteris nana	NCBITAXON:568927	http://purl.obolibrary.org/obo/NCBITaxon_568927	0.642	None	poor
+84	http://ccb.hms.harvard.edu/t2t/R45Y5GP32nf	Ewe	Anansus ewe	NCBITAXON:2068845	http://purl.obolibrary.org/obo/NCBITaxon_2068845	0.746	None	poor
+85	http://ccb.hms.harvard.edu/t2t/R45Y5GP32nf	Ewe	Chroicocephalus ridibundus	NCBITAXON:1192867	http://purl.obolibrary.org/obo/NCBITaxon_1192867	0.475	None	poor
+86	http://ccb.hms.harvard.edu/t2t/R45Y5GP32nf	Ewe	Larus argentatus	NCBITAXON:35669	http://purl.obolibrary.org/obo/NCBITaxon_35669	0.438	None	poor
+87	http://ccb.hms.harvard.edu/t2t/R7R5RJCX5A4	Emu	Dromaius novaehollandiae	NCBITAXON:8790	http://purl.obolibrary.org/obo/NCBITaxon_8790	0.98	None	great
+88	http://ccb.hms.harvard.edu/t2t/R7R5RJCX5A4	Emu	Dromaiidae	NCBITAXON:8788	http://purl.obolibrary.org/obo/NCBITaxon_8788	0.695	None	poor
+89	http://ccb.hms.harvard.edu/t2t/R7R5RJCX5A4	Emu	Emus	NCBITAXON:1401316	http://purl.obolibrary.org/obo/NCBITaxon_1401316	0.695	None	poor
+90	http://ccb.hms.harvard.edu/t2t/RBS8moFgx87	Yak	Bos grunniens	NCBITAXON:30521	http://purl.obolibrary.org/obo/NCBITaxon_30521	0.996	None	good
+91	http://ccb.hms.harvard.edu/t2t/RBS8moFgx87	Yak	Yak enterovirus	NCBITAXON:1604871	http://purl.obolibrary.org/obo/NCBITaxon_1604871	0.742	None	poor
+92	http://ccb.hms.harvard.edu/t2t/RBS8moFgx87	Yak	Yak astrovirus	NCBITAXON:1604873	http://purl.obolibrary.org/obo/NCBITaxon_1604873	0.738	None	poor
+93	http://ccb.hms.harvard.edu/t2t/R9BFSdr8jTR	Sow	Hyperomyzus lactucae	NCBITAXON:330460	http://purl.obolibrary.org/obo/NCBITaxon_330460	0.529	None	poor
+94	http://ccb.hms.harvard.edu/t2t/R9BFSdr8jTR	Sow	Chenopodiastrum hybridum	NCBITAXON:434243	http://purl.obolibrary.org/obo/NCBITaxon_434243	0.46	None	poor
+95	http://ccb.hms.harvard.edu/t2t/R9BFSdr8jTR	Sow	Sowerbaea	NCBITAXON:51480	http://purl.obolibrary.org/obo/NCBITaxon_51480	0.436	None	poor
+96	http://ccb.hms.harvard.edu/t2t/RG7t3kbXFC2	eye	Polymixia japonica	NCBITAXON:81385	http://purl.obolibrary.org/obo/NCBITaxon_81385	0.699	None	poor
+97	http://ccb.hms.harvard.edu/t2t/RG7t3kbXFC2	eye	eye metagenome	NCBITAXON:1830148	http://purl.obolibrary.org/obo/NCBITaxon_1830148	0.651	None	poor
+98	http://ccb.hms.harvard.edu/t2t/RG7t3kbXFC2	eye	Schedophilus labyrinthicus	NCBITAXON:443716	http://purl.obolibrary.org/obo/NCBITaxon_443716	0.65	None	poor
+99	http://ccb.hms.harvard.edu/t2t/RN5X2gvecqV	hit	Photorhabdus sp. HIT	NCBITAXON:229782	http://purl.obolibrary.org/obo/NCBITaxon_229782	0.501	None	poor
+100	http://ccb.hms.harvard.edu/t2t/RN5X2gvecqV	hit	Hitobia	NCBITAXON:2337751	http://purl.obolibrary.org/obo/NCBITaxon_2337751	0.499	None	poor
+101	http://ccb.hms.harvard.edu/t2t/RN5X2gvecqV	hit	Hitobia sp.	NCBITAXON:2978828	http://purl.obolibrary.org/obo/NCBITaxon_2978828	0.491	None	poor
+102	http://ccb.hms.harvard.edu/t2t/RCjFctfnizq	man	Annona reticulata	NCBITAXON:301862	http://purl.obolibrary.org/obo/NCBITaxon_301862	0.696	None	poor
+103	http://ccb.hms.harvard.edu/t2t/RCjFctfnizq	man	Vitex trifolia	NCBITAXON:204215	http://purl.obolibrary.org/obo/NCBITaxon_204215	0.551	None	poor
+104	http://ccb.hms.harvard.edu/t2t/RCjFctfnizq	man	Mania	NCBITAXON:753251	http://purl.obolibrary.org/obo/NCBITaxon_753251	0.548	None	poor
+105	http://ccb.hms.harvard.edu/t2t/RHmchqhHJ7s	boy	Aboma etheostoma	NCBITAXON:203277	http://purl.obolibrary.org/obo/NCBITaxon_203277	0.697	None	poor
+106	http://ccb.hms.harvard.edu/t2t/RHmchqhHJ7s	boy	Boyania	NCBITAXON:1277816	http://purl.obolibrary.org/obo/NCBITaxon_1277816	0.476	None	poor
+107	http://ccb.hms.harvard.edu/t2t/RHmchqhHJ7s	boy	Boyeria	NCBITAXON:126226	http://purl.obolibrary.org/obo/NCBITaxon_126226	0.453	None	poor
+108	http://ccb.hms.harvard.edu/t2t/RDQjF6TJvWW	car	Car	NCBITAXON:201850	http://purl.obolibrary.org/obo/NCBITaxon_201850	0.992	None	good
+109	http://ccb.hms.harvard.edu/t2t/RDQjF6TJvWW	car	Caryocar	NCBITAXON:72384	http://purl.obolibrary.org/obo/NCBITaxon_72384	0.652	None	poor
+110	http://ccb.hms.harvard.edu/t2t/RDQjF6TJvWW	car	Car pini	NCBITAXON:201851	http://purl.obolibrary.org/obo/NCBITaxon_201851	0.632	None	poor
+111	http://ccb.hms.harvard.edu/t2t/R88cZT3iRYq	ass	Equus asinus	NCBITAXON:9793	http://purl.obolibrary.org/obo/NCBITaxon_9793	0.969	None	great
+112	http://ccb.hms.harvard.edu/t2t/R88cZT3iRYq	ass	Liopropoma fasciatum	NCBITAXON:546525	http://purl.obolibrary.org/obo/NCBITaxon_546525	0.713	None	poor
+113	http://ccb.hms.harvard.edu/t2t/R88cZT3iRYq	ass	class	NCBITAXON:CLASS	http://purl.obolibrary.org/obo/NCBITaxon_class	0.599	None	poor
+114	http://ccb.hms.harvard.edu/t2t/RFPu9N2NWnp	but	Butis	NCBITAXON:86225	http://purl.obolibrary.org/obo/NCBITaxon_86225	0.587	None	poor
+115	http://ccb.hms.harvard.edu/t2t/RFPu9N2NWnp	but	Butis butis	NCBITAXON:150292	http://purl.obolibrary.org/obo/NCBITaxon_150292	0.587	None	poor
+116	http://ccb.hms.harvard.edu/t2t/RFPu9N2NWnp	but	Butia	NCBITAXON:169979	http://purl.obolibrary.org/obo/NCBITaxon_169979	0.585	None	poor
+117	http://ccb.hms.harvard.edu/t2t/RwmvAVbuJC4	why	Bacillus phage WhyPhy	NCBITAXON:2801480	http://purl.obolibrary.org/obo/NCBITaxon_2801480	0.66	None	poor
+118	http://ccb.hms.harvard.edu/t2t/RwmvAVbuJC4	why	Bundooravirus whyphy	NCBITAXON:2955558	http://purl.obolibrary.org/obo/NCBITaxon_2955558	0.553	None	poor
+119	http://ccb.hms.harvard.edu/t2t/RwmvAVbuJC4	why	Whymperia	NCBITAXON:540335	http://purl.obolibrary.org/obo/NCBITaxon_540335	0.545	None	poor
+120	http://ccb.hms.harvard.edu/t2t/R9jJaAtTvZc	Moo	Moomoovirus moomoo	NCBITAXON:2956200	http://purl.obolibrary.org/obo/NCBITaxon_2956200	0.712	None	poor
+121	http://ccb.hms.harvard.edu/t2t/R9jJaAtTvZc	Moo	Mycobacterium phage MooMoo	NCBITAXON:2108127	http://purl.obolibrary.org/obo/NCBITaxon_2108127	0.636	None	poor
+122	http://ccb.hms.harvard.edu/t2t/R9jJaAtTvZc	Moo	Moonvirus moon	NCBITAXON:1985342	http://purl.obolibrary.org/obo/NCBITaxon_1985342	0.568	None	poor

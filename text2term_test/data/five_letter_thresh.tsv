@@ -1,0 +1,100 @@
+	Source Term ID	original mapped term	Mapped Term Label	Mapped Term CURIE	Mapped Term IRI	Original Mapping Score	Tags	Source Term	Evaluation
+6	http://ccb.hms.harvard.edu/t2t/R4TETiNZMQ7	mouse	Mus musculus	NCBITAXON:10090	http://purl.obolibrary.org/obo/NCBITaxon_10090	0.999	None	mouse	great
+7	http://ccb.hms.harvard.edu/t2t/R4TETiNZMQ7	mouse	Mus <genus>	NCBITAXON:10088	http://purl.obolibrary.org/obo/NCBITaxon_10088	0.999	None	mouse	good
+8	http://ccb.hms.harvard.edu/t2t/R4TETiNZMQ7	mouse	Polyplax serrata	NCBITAXON:468196	http://purl.obolibrary.org/obo/NCBITaxon_468196	0.852	None	mouse	poor
+108	http://ccb.hms.harvard.edu/t2t/R7Eh7VS57VF	Yeast	Saccharomyces pastorianus	NCBITAXON:27292	http://purl.obolibrary.org/obo/NCBITaxon_27292	0.793	None	yeast	too specific
+109	http://ccb.hms.harvard.edu/t2t/R7Eh7VS57VF	Yeast	Pichia sp. Yeast 2	NCBITAXON:553839	http://purl.obolibrary.org/obo/NCBITaxon_553839	0.758	None	yeast	too specific
+110	http://ccb.hms.harvard.edu/t2t/R7Eh7VS57VF	Yeast	uncultured yeast	NCBITAXON:447265	http://purl.obolibrary.org/obo/NCBITaxon_447265	0.742	None	yeast	too specific
+150	http://ccb.hms.harvard.edu/t2t/RANmfhDh7Ns	flies	Diptera	NCBITAXON:7147	http://purl.obolibrary.org/obo/NCBITaxon_7147	0.996	None	flies	great
+151	http://ccb.hms.harvard.edu/t2t/RANmfhDh7Ns	flies	Streblidae	NCBITAXON:81697	http://purl.obolibrary.org/obo/NCBITaxon_81697	0.831	None	flies	poor
+152	http://ccb.hms.harvard.edu/t2t/RANmfhDh7Ns	flies	Oestridae	NCBITAXON:7387	http://purl.obolibrary.org/obo/NCBITaxon_7387	0.811	None	flies	poor
+645	http://ccb.hms.harvard.edu/t2t/RJKxPxCHcYY	NANOS	Nanos <eukaryotes>	NCBITAXON:2605937	http://purl.obolibrary.org/obo/NCBITaxon_2605937	0.999	None	nanos	"Context-dependent (in most cases, Nanos is a gene so these would be false positives)"
+646	http://ccb.hms.harvard.edu/t2t/RJKxPxCHcYY	NANOS	Nanos <beetles>	NCBITAXON:490857	http://purl.obolibrary.org/obo/NCBITaxon_490857	0.999	None	nanos	There was at least one record mentioning nanos beetles
+647	http://ccb.hms.harvard.edu/t2t/RJKxPxCHcYY	NANOS	Nanos sp.	NCBITAXON:3050895	http://purl.obolibrary.org/obo/NCBITaxon_3050895	0.976	None	nanos	"Context-dependent (in most cases, Nanos is a gene so these would be false positives)"
+738	http://ccb.hms.harvard.edu/t2t/RAdnmimHDi7	wheat	Triticum aestivum	NCBITAXON:4565	http://purl.obolibrary.org/obo/NCBITaxon_4565	0.996	None	wheat	great
+739	http://ccb.hms.harvard.edu/t2t/RAdnmimHDi7	wheat	Triticum turgidum	NCBITAXON:4571	http://purl.obolibrary.org/obo/NCBITaxon_4571	0.874	None	wheat	good
+740	http://ccb.hms.harvard.edu/t2t/RAdnmimHDi7	wheat	Triticum aestivum x Triticum timopheevi	NCBITAXON:4566	http://purl.obolibrary.org/obo/NCBITaxon_4566	0.835	None	wheat	good
+1044	http://ccb.hms.harvard.edu/t2t/RHNhFgvnEoL	NB508	Niphargus sp. NB508	NCBITAXON:1719261	http://purl.obolibrary.org/obo/NCBITaxon_1719261	0.706	None	nb508	"poor, Most cases are a cell line"
+1045	http://ccb.hms.harvard.edu/t2t/RHNhFgvnEoL	NB508	Niphargus sp. NB500	NCBITAXON:2518101	http://purl.obolibrary.org/obo/NCBITaxon_2518101	0.478	None	nb508	"poor, Most cases are a cell line"
+1046	http://ccb.hms.harvard.edu/t2t/RHNhFgvnEoL	NB508	fungal sp. ARIZ B508	NCBITAXON:594903	http://purl.obolibrary.org/obo/NCBITaxon_594903	0.401	None	nb508	"poor, Most cases are a cell line"
+2469	http://ccb.hms.harvard.edu/t2t/RFzEZDDEHMQ	Helix	Helix	NCBITAXON:6534	http://purl.obolibrary.org/obo/NCBITaxon_6534	0.999	None	helix	
+2470	http://ccb.hms.harvard.edu/t2t/RFzEZDDEHMQ	Helix	Hedera helix subsp. helix	NCBITAXON:196337	http://purl.obolibrary.org/obo/NCBITaxon_196337	0.849	None	helix	
+2471	http://ccb.hms.harvard.edu/t2t/RFzEZDDEHMQ	Helix	Lestes helix	NCBITAXON:1407192	http://purl.obolibrary.org/obo/NCBITaxon_1407192	0.75	None	helix	
+2604	http://ccb.hms.harvard.edu/t2t/RAdj3E3cfdZ	Fungi	Fungi	NCBITAXON:4751	http://purl.obolibrary.org/obo/NCBITaxon_4751	0.997	None	fungi	great
+2605	http://ccb.hms.harvard.edu/t2t/RAdj3E3cfdZ	Fungi	fungal sp.	NCBITAXON:1709941	http://purl.obolibrary.org/obo/NCBITaxon_1709941	0.975	None	fungi	good
+2606	http://ccb.hms.harvard.edu/t2t/RAdj3E3cfdZ	Fungi	Ascomycota	NCBITAXON:4890	http://purl.obolibrary.org/obo/NCBITaxon_4890	0.772	None	fungi	too specific
+2715	http://ccb.hms.harvard.edu/t2t/R6LBBc2NnHx	Cocoa	Theobroma cacao	NCBITAXON:3641	http://purl.obolibrary.org/obo/NCBITaxon_3641	1	None	cocoa	great
+2716	http://ccb.hms.harvard.edu/t2t/R6LBBc2NnHx	Cocoa	Ocoa	NCBITAXON:240531	http://purl.obolibrary.org/obo/NCBITaxon_240531	0.776	None	cocoa	poor
+2717	http://ccb.hms.harvard.edu/t2t/R6LBBc2NnHx	Cocoa	Bocoa	NCBITAXON:149636	http://purl.obolibrary.org/obo/NCBITaxon_149636	0.701	None	cocoa	poor
+3471	http://ccb.hms.harvard.edu/t2t/R5wz8kH9oBT	hydra	Hydra	NCBITAXON:6083	http://purl.obolibrary.org/obo/NCBITaxon_6083	0.997	None	hydra	great
+3472	http://ccb.hms.harvard.edu/t2t/R5wz8kH9oBT	hydra	Hydra sp.	NCBITAXON:6086	http://purl.obolibrary.org/obo/NCBITaxon_6086	0.973	None	hydra	great
+3473	http://ccb.hms.harvard.edu/t2t/R5wz8kH9oBT	hydra	Hydridae	NCBITAXON:6080	http://purl.obolibrary.org/obo/NCBITaxon_6080	0.818	None	hydra	ok
+4518	http://ccb.hms.harvard.edu/t2t/R3o6J5uWwnE	lemon	Citrus limon	NCBITAXON:2708	http://purl.obolibrary.org/obo/NCBITaxon_2708	0.998	None	lemon	great
+4519	http://ccb.hms.harvard.edu/t2t/R3o6J5uWwnE	lemon	Lemonia	NCBITAXON:119278	http://purl.obolibrary.org/obo/NCBITaxon_119278	0.769	None	lemon	too specific
+4520	http://ccb.hms.harvard.edu/t2t/R3o6J5uWwnE	lemon	Citrus limonia	NCBITAXON:171249	http://purl.obolibrary.org/obo/NCBITaxon_171249	0.749	None	lemon	too specific
+4548	http://ccb.hms.harvard.edu/t2t/R5tJHgs7RM9	alexa	Alexa	NCBITAXON:149625	http://purl.obolibrary.org/obo/NCBITaxon_149625	0.996	None	alexa	"Poor EXTRACT pull, most Alexa cases are Amazon Alexa"
+4549	http://ccb.hms.harvard.edu/t2t/R5tJHgs7RM9	alexa	Alexania	NCBITAXON:1502575	http://purl.obolibrary.org/obo/NCBITaxon_1502575	0.654	None	alexa	
+4550	http://ccb.hms.harvard.edu/t2t/R5tJHgs7RM9	alexa	Aplexa	NCBITAXON:264260	http://purl.obolibrary.org/obo/NCBITaxon_264260	0.64	None	alexa	poor
+5852	http://ccb.hms.harvard.edu/t2t/RGbNAn6UMgx	Ramie	Boehmeria nivea	NCBITAXON:83906	http://purl.obolibrary.org/obo/NCBITaxon_83906	0.999	None	ramie	
+5853	http://ccb.hms.harvard.edu/t2t/RGbNAn6UMgx	Ramie	Ramiella	NCBITAXON:1783326	http://purl.obolibrary.org/obo/NCBITaxon_1783326	0.703	None	ramie	
+5854	http://ccb.hms.harvard.edu/t2t/RGbNAn6UMgx	Ramie	Ramie mosaic virus	NCBITAXON:486809	http://purl.obolibrary.org/obo/NCBITaxon_486809	0.668	None	ramie	
+6980	http://ccb.hms.harvard.edu/t2t/RH6Y8g6QGBh	peach	Prunus persica	NCBITAXON:3760	http://purl.obolibrary.org/obo/NCBITaxon_3760	0.994	None	peach	
+6981	http://ccb.hms.harvard.edu/t2t/RH6Y8g6QGBh	peach	Peach virus 1	NCBITAXON:2721273	http://purl.obolibrary.org/obo/NCBITaxon_2721273	0.858	None	peach	
+6982	http://ccb.hms.harvard.edu/t2t/RH6Y8g6QGBh	peach	Halocynthia pyriformis	NCBITAXON:247438	http://purl.obolibrary.org/obo/NCBITaxon_247438	0.839	None	peach	
+8448	http://ccb.hms.harvard.edu/t2t/R7j6vXJ7BEd	HydRA	Hydra	NCBITAXON:6083	http://purl.obolibrary.org/obo/NCBITaxon_6083	0.997	None	hydra	
+8449	http://ccb.hms.harvard.edu/t2t/R7j6vXJ7BEd	HydRA	Hydra sp.	NCBITAXON:6086	http://purl.obolibrary.org/obo/NCBITaxon_6086	0.973	None	hydra	
+8450	http://ccb.hms.harvard.edu/t2t/R7j6vXJ7BEd	HydRA	Hydridae	NCBITAXON:6080	http://purl.obolibrary.org/obo/NCBITaxon_6080	0.818	None	hydra	
+9078	http://ccb.hms.harvard.edu/t2t/RCCA3wLLozq	Cre X	Crepis cretica	NCBITAXON:509654	http://purl.obolibrary.org/obo/NCBITaxon_509654	0.489	None	cre x	
+9079	http://ccb.hms.harvard.edu/t2t/RCCA3wLLozq	Cre X	Cressa cretica	NCBITAXON:1465651	http://purl.obolibrary.org/obo/NCBITaxon_1465651	0.469	None	cre x	
+9080	http://ccb.hms.harvard.edu/t2t/RCCA3wLLozq	Cre X	Crella	NCBITAXON:252960	http://purl.obolibrary.org/obo/NCBITaxon_252960	0.461	None	cre x	
+9933	http://ccb.hms.harvard.edu/t2t/R5vCY8ZRHgD	geron	Geron	NCBITAXON:2659668	http://purl.obolibrary.org/obo/NCBITaxon_2659668	0.998	None	geron	
+9934	http://ccb.hms.harvard.edu/t2t/R5vCY8ZRHgD	geron	Spialia geron	NCBITAXON:2705557	http://purl.obolibrary.org/obo/NCBITaxon_2705557	0.655	None	geron	
+9935	http://ccb.hms.harvard.edu/t2t/R5vCY8ZRHgD	geron	Gerontha	NCBITAXON:753329	http://purl.obolibrary.org/obo/NCBITaxon_753329	0.64	None	geron	
+10194	http://ccb.hms.harvard.edu/t2t/R6zAgcfbaTA	HHV-6	Human betaherpesvirus 6	NCBITAXON:10368	http://purl.obolibrary.org/obo/NCBITaxon_10368	0.49	None	hhv-6	
+10195	http://ccb.hms.harvard.edu/t2t/R6zAgcfbaTA	HHV-6	Gonatocerus sp. 6 HHVO-2006	NCBITAXON:364630	http://purl.obolibrary.org/obo/NCBITaxon_364630	0.474	None	hhv-6	
+10196	http://ccb.hms.harvard.edu/t2t/R6zAgcfbaTA	HHV-6	uncultured bacterium HHV35	NCBITAXON:558689	http://purl.obolibrary.org/obo/NCBITaxon_558689	0.384	None	hhv-6	
+10555	http://ccb.hms.harvard.edu/t2t/RJwxQQGj7xk	cre x	Crepis cretica	NCBITAXON:509654	http://purl.obolibrary.org/obo/NCBITaxon_509654	0.489	None	cre x	
+10556	http://ccb.hms.harvard.edu/t2t/RJwxQQGj7xk	cre x	Cressa cretica	NCBITAXON:1465651	http://purl.obolibrary.org/obo/NCBITaxon_1465651	0.469	None	cre x	
+10557	http://ccb.hms.harvard.edu/t2t/RJwxQQGj7xk	cre x	Crella	NCBITAXON:252960	http://purl.obolibrary.org/obo/NCBITaxon_252960	0.461	None	cre x	
+10699	http://ccb.hms.harvard.edu/t2t/RJqCyx3fzQx	Nihon	Nihon	NCBITAXON:1616893	http://purl.obolibrary.org/obo/NCBITaxon_1616893	0.994	None	nihon	
+10700	http://ccb.hms.harvard.edu/t2t/RJqCyx3fzQx	Nihon	Nihonella	NCBITAXON:2813485	http://purl.obolibrary.org/obo/NCBITaxon_2813485	0.787	None	nihon	
+10701	http://ccb.hms.harvard.edu/t2t/RJqCyx3fzQx	Nihon	Nihon japonicum	NCBITAXON:363802	http://purl.obolibrary.org/obo/NCBITaxon_363802	0.681	None	nihon	
+10834	http://ccb.hms.harvard.edu/t2t/R76jGfSNAME	PCV-2	Peanut clump virus	NCBITAXON:28355	http://purl.obolibrary.org/obo/NCBITaxon_28355	0.518	None	pcv-2	
+10835	http://ccb.hms.harvard.edu/t2t/R76jGfSNAME	PCV-2	Cloning vector pCV1	NCBITAXON:1856670	http://purl.obolibrary.org/obo/NCBITaxon_1856670	0.368	None	pcv-2	
+10836	http://ccb.hms.harvard.edu/t2t/R76jGfSNAME	PCV-2	Mini PCV-like virus	NCBITAXON:2137787	http://purl.obolibrary.org/obo/NCBITaxon_2137787	0.367	None	pcv-2	
+12199	http://ccb.hms.harvard.edu/t2t/RB46gp8Gbzz	PsarA	Psara	NCBITAXON:581986	http://purl.obolibrary.org/obo/NCBITaxon_581986	0.997	None	psara	
+12200	http://ccb.hms.harvard.edu/t2t/RB46gp8Gbzz	PsarA	Psarus	NCBITAXON:273394	http://purl.obolibrary.org/obo/NCBITaxon_273394	0.69	None	psara	
+12201	http://ccb.hms.harvard.edu/t2t/RB46gp8Gbzz	PsarA	unclassified Psara	NCBITAXON:2619316	http://purl.obolibrary.org/obo/NCBITaxon_2619316	0.602	None	psara	
+13600	http://ccb.hms.harvard.edu/t2t/R3AGvWtbHDQ	Vitis	Vitis	NCBITAXON:3603	http://purl.obolibrary.org/obo/NCBITaxon_3603	0.998	None	vitis	
+13601	http://ccb.hms.harvard.edu/t2t/R3AGvWtbHDQ	Vitis	Vitis sp.	NCBITAXON:3604	http://purl.obolibrary.org/obo/NCBITaxon_3604	0.969	None	vitis	
+13602	http://ccb.hms.harvard.edu/t2t/R3AGvWtbHDQ	Vitis	Vitis vinifera x Vitis riparia	NCBITAXON:1745941	http://purl.obolibrary.org/obo/NCBITaxon_1745941	0.742	None	vitis	
+15412	http://ccb.hms.harvard.edu/t2t/RKo22QWTVVH	PEARs	Pyrus	NCBITAXON:3766	http://purl.obolibrary.org/obo/NCBITaxon_3766	0.99	None	pears	
+15413	http://ccb.hms.harvard.edu/t2t/RKo22QWTVVH	PEARs	Pyrus communis	NCBITAXON:23211	http://purl.obolibrary.org/obo/NCBITaxon_23211	0.661	None	pears	
+15414	http://ccb.hms.harvard.edu/t2t/RKo22QWTVVH	PEARs	Pearsonia	NCBITAXON:140940	http://purl.obolibrary.org/obo/NCBITaxon_140940	0.659	None	pears	
+18357	http://ccb.hms.harvard.edu/t2t/R97Nh9B9uUv	Seila	Seila	NCBITAXON:1502563	http://purl.obolibrary.org/obo/NCBITaxon_1502563	0.999	None	seila	
+18358	http://ccb.hms.harvard.edu/t2t/R97Nh9B9uUv	Seila	Seila adamsii	NCBITAXON:2510239	http://purl.obolibrary.org/obo/NCBITaxon_2510239	0.573	None	seila	
+18359	http://ccb.hms.harvard.edu/t2t/R97Nh9B9uUv	Seila	Seila morishimai	NCBITAXON:1502564	http://purl.obolibrary.org/obo/NCBITaxon_1502564	0.549	None	seila	
+18696	http://ccb.hms.harvard.edu/t2t/R43EZeYZCBo	DELTA	Delta	NCBITAXON:998453	http://purl.obolibrary.org/obo/NCBITaxon_998453	0.999	None	delta	
+18697	http://ccb.hms.harvard.edu/t2t/R43EZeYZCBo	DELTA	Delta sp.	NCBITAXON:2970953	http://purl.obolibrary.org/obo/NCBITaxon_2970953	0.977	None	delta	
+18698	http://ccb.hms.harvard.edu/t2t/R43EZeYZCBo	DELTA	Cadella delta	NCBITAXON:1230560	http://purl.obolibrary.org/obo/NCBITaxon_1230560	0.775	None	delta	
+19596	http://ccb.hms.harvard.edu/t2t/RHPfVpQsrRy	panda	Panda	NCBITAXON:212257	http://purl.obolibrary.org/obo/NCBITaxon_212257	0.999	None	panda	
+19597	http://ccb.hms.harvard.edu/t2t/RHPfVpQsrRy	panda	Ailurus fulgens	NCBITAXON:9649	http://purl.obolibrary.org/obo/NCBITaxon_9649	0.806	None	panda	
+19598	http://ccb.hms.harvard.edu/t2t/RHPfVpQsrRy	panda	Thaumatophyllum bipinnatifidum	NCBITAXON:292307	http://purl.obolibrary.org/obo/NCBITaxon_292307	0.74	None	panda	
+20764	http://ccb.hms.harvard.edu/t2t/R6gWbe9ypJ9	SORIs	Sporisorium sorghi	NCBITAXON:63387	http://purl.obolibrary.org/obo/NCBITaxon_63387	0.617	None	soris	
+20765	http://ccb.hms.harvard.edu/t2t/R6gWbe9ypJ9	SORIs	Soridium	NCBITAXON:1944127	http://purl.obolibrary.org/obo/NCBITaxon_1944127	0.611	None	soris	
+20766	http://ccb.hms.harvard.edu/t2t/R6gWbe9ypJ9	SORIs	Porzana carolina	NCBITAXON:261200	http://purl.obolibrary.org/obo/NCBITaxon_261200	0.608	None	soris	
+20935	http://ccb.hms.harvard.edu/t2t/RD7ZaGHvfWE	BmNPV	Spodoptera littoralis nucleopolyhedrovirus	NCBITAXON:10456	http://purl.obolibrary.org/obo/NCBITaxon_10456	0.538	None	bmnpv	
+20936	http://ccb.hms.harvard.edu/t2t/RD7ZaGHvfWE	BmNPV	Spodoptera frugiperda multiple nucleopolyhedrovirus	NCBITAXON:10455	http://purl.obolibrary.org/obo/NCBITaxon_10455	0.517	None	bmnpv	
+20937	http://ccb.hms.harvard.edu/t2t/RD7ZaGHvfWE	BmNPV	uncultured bacterium BMNP	NCBITAXON:153467	http://purl.obolibrary.org/obo/NCBITaxon_153467	0.494	None	bmnpv	
+21133	http://ccb.hms.harvard.edu/t2t/REtPeZA6MyN	oryza	Oryza	NCBITAXON:4527	http://purl.obolibrary.org/obo/NCBITaxon_4527	0.969	None	oryza	
+21134	http://ccb.hms.harvard.edu/t2t/REtPeZA6MyN	oryza	Oryza sp.	NCBITAXON:52841	http://purl.obolibrary.org/obo/NCBITaxon_52841	0.951	None	oryza	
+21135	http://ccb.hms.harvard.edu/t2t/REtPeZA6MyN	oryza	Oryza alta	NCBITAXON:52545	http://purl.obolibrary.org/obo/NCBITaxon_52545	0.759	None	oryza	
+24789	http://ccb.hms.harvard.edu/t2t/RB88NGmsjKr	All E	Phage E	NCBITAXON:48224	http://purl.obolibrary.org/obo/NCBITaxon_48224	0.642	None	all e	
+24790	http://ccb.hms.harvard.edu/t2t/RB88NGmsjKr	All E	Bacillus sp. E	NCBITAXON:170488	http://purl.obolibrary.org/obo/NCBITaxon_170488	0.626	None	all e	
+24791	http://ccb.hms.harvard.edu/t2t/RB88NGmsjKr	All E	Cinara sp. E	NCBITAXON:97052	http://purl.obolibrary.org/obo/NCBITaxon_97052	0.591	None	all e	
+25519	http://ccb.hms.harvard.edu/t2t/RFFoHdf65j8	APE_A	Hominoidea	NCBITAXON:314295	http://purl.obolibrary.org/obo/NCBITaxon_314295	0.915	None	ape_a	
+25520	http://ccb.hms.harvard.edu/t2t/RFFoHdf65j8	APE_A	Alocasia macrorrhizos	NCBITAXON:4456	http://purl.obolibrary.org/obo/NCBITaxon_4456	0.915	None	ape_a	
+25521	http://ccb.hms.harvard.edu/t2t/RFFoHdf65j8	APE_A	Apera	NCBITAXON:325524	http://purl.obolibrary.org/obo/NCBITaxon_325524	0.593	None	ape_a	
+25725	http://ccb.hms.harvard.edu/t2t/REkQHLShBT3	newts	Salamandridae	NCBITAXON:8314	http://purl.obolibrary.org/obo/NCBITaxon_8314	0.987	None	newts	
+25726	http://ccb.hms.harvard.edu/t2t/REkQHLShBT3	newts	Taricha	NCBITAXON:8320	http://purl.obolibrary.org/obo/NCBITaxon_8320	0.777	None	newts	
+25727	http://ccb.hms.harvard.edu/t2t/REkQHLShBT3	newts	Tylototriton	NCBITAXON:129884	http://purl.obolibrary.org/obo/NCBITaxon_129884	0.741	None	newts	
