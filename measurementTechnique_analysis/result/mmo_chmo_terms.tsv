@@ -1,0 +1,494 @@
+	Original term	Syn1	Syn2	Syn3
+0	PBS	PBS	PBS system	PBS
+1	gel permeation chromatography	gel permeation chromatography	gel permeation chromatography	gel permeation chromatography detection
+2	SPM	SPM	SPM	SPM
+3	fluorescence resonance energy transfer	fluorescence resonance energy transfer	fluorescence resonance energy transfer tests	fluorescence resonance energy transfer design
+4	FRET	FRET study	FRET testing	FRET identification
+5	centrifugation	centrifugation administration	centrifugation	centrifugation surveillance
+6	gas chromatography with mass spectrometric detection	gas chromatography with mass spectrometric detection	gas chromatography with mass spectrometric detection	gas chromatography with mass spectrometric detection
+7	synchrotrons	synchrotrons design	synchrotrons sampling	synchrotrons sampling
+8	ion source	ion source sampling	ion source tests	ion source tests
+9	dark-field optical microscope	dark-field optical microscope study	dark-field optical microscope	dark-field optical microscope
+10	spectrograph	spectrograph	spectrograph analysis	spectrograph assessment
+11	LCMS	LCMS method	LCMS approach	LCMS
+12	gas chromatography/mass spectrometry	gas chromatography/mass spectrometry identification	gas chromatography/mass spectrometry	gas chromatography/mass spectrometry
+13	RT-PCR	RT-PCR	RT-PCR	RT-PCR
+14	PCR	PCR	PCR study	PCR
+15	imaging assay	imaging assay testing	imaging assay surveillance	imaging assay review
+16	SNOM	SNOM	SNOM testing	SNOM review
+17	magnetic resonance imaging	magnetic resonance imaging	magnetic resonance imaging method	magnetic resonance imaging surveillance
+18	uplc-ms	uplc-ms surveillance	uplc-ms detection	uplc-ms tests
+19	atomic force microscope	atomic force microscope analysis	atomic force microscope	atomic force microscope
+20	material transformations	material transformations	material transformations approach	material transformations
+21	transmission electron microscopy	transmission electron microscopy analysis	transmission electron microscopy process	transmission electron microscopy identification
+22	AFM	AFM	AFM method	AFM
+23	GCMS	GCMS	GCMS	GCMS
+24	packed column	packed column assessment	packed column assessment	packed column design
+25	electroporation	electroporation detection	electroporation process	electroporation
+26	dimethylsulfoxyde	dimethylsulfoxyde	dimethylsulfoxyde identification	dimethylsulfoxyde
+27	laser capture microdissection	laser capture microdissection	laser capture microdissection surveillance	laser capture microdissection approach
+28	spectrum plot	spectrum plot process	spectrum plot	spectrum plot surveillance
+29	NIC microscopy	NIC microscopy	NIC microscopy tests	NIC microscopy
+30	northern blot	northern blot	northern blot	northern blot testing
+31	assay	assay	assay	assay identification
+32	high-pressure liquid chromatography	high-pressure liquid chromatography identification	high-pressure liquid chromatography testing	high-pressure liquid chromatography process
+33	X-ray source	X-ray source sampling	X-ray source	X-ray source review
+34	syringe pump	syringe pump diagnostic	syringe pump	syringe pump surveillance
+35	transmitted light microscopy	transmitted light microscopy process	transmitted light microscopy method	transmitted light microscopy
+36	protein expression assay	protein expression assay tests	protein expression assay	protein expression assay
+37	molecular electronic absorption spectroscopy	molecular electronic absorption spectroscopy design	molecular electronic absorption spectroscopy	molecular electronic absorption spectroscopy assessment
+38	UPLC/MS	UPLC/MS system	UPLC/MS testing	UPLC/MS design
+39	IHC	IHC	IHC process	IHC
+40	light microscope	light microscope design	light microscope	light microscope detection
+41	X-ray computed tomography	X-ray computed tomography identification	X-ray computed tomography method	X-ray computed tomography
+42	GC	GC approach	GC surveillance	GC detection
+43	qPCR	qPCR surveillance	qPCR	qPCR sampling
+44	biologic assay	biologic assay analysis	biologic assay	biologic assay
+45	dark-field microscopy	dark-field microscopy	dark-field microscopy tests	dark-field microscopy study
+46	graphite furnace atomic absorption spectrometry	graphite furnace atomic absorption spectrometry administration	graphite furnace atomic absorption spectrometry approach	graphite furnace atomic absorption spectrometry system
+47	material acquisition	material acquisition	material acquisition	material acquisition
+48	SFM	SFM	SFM	SFM
+49	laser-capture microdissection	laser-capture microdissection study	laser-capture microdissection diagnostic	laser-capture microdissection
+50	darkfield optical microscopy	darkfield optical microscopy	darkfield optical microscopy	darkfield optical microscopy tests
+51	information entity	information entity detection	information entity detection	information entity approach
+52	spectrum	spectrum testing	spectrum design	spectrum
+53	nuclear magnetic resonance imaging	nuclear magnetic resonance imaging administration	nuclear magnetic resonance imaging diagnostic	nuclear magnetic resonance imaging method
+54	scanning force microscopy	scanning force microscopy	scanning force microscopy	scanning force microscopy tests
+55	protective clothing	protective clothing	protective clothing	protective clothing
+56	mass spectroscopy	mass spectroscopy sampling	mass spectroscopy	mass spectroscopy tests
+57	cell proliferation assay	cell proliferation assay	cell proliferation assay	cell proliferation assay
+58	open-tubular column	open-tubular column analysis	open-tubular column diagnostic	open-tubular column design
+59	high-performance liquid chromatography	high-performance liquid chromatography	high-performance liquid chromatography method	high-performance liquid chromatography
+60	ultra-performance liquid chromatography-mass spectrometry	ultra-performance liquid chromatography-mass spectrometry	ultra-performance liquid chromatography-mass spectrometry administration	ultra-performance liquid chromatography-mass spectrometry
+61	electron-multiplying CCD	electron-multiplying CCD	electron-multiplying CCD	electron-multiplying CCD
+62	autoradiography	autoradiography	autoradiography testing	autoradiography administration
+63	GFAAS	GFAAS	GFAAS administration	GFAAS study
+64	Karl–Fischer titration	Karl–Fischer titration	Karl–Fischer titration review	Karl–Fischer titration
+65	double mass spectrometry	double mass spectrometry	double mass spectrometry	double mass spectrometry
+66	titration calorimetry	titration calorimetry	titration calorimetry	titration calorimetry tests
+67	precipitation	precipitation study	precipitation study	precipitation
+68	spectra	spectra assessment	spectra administration	spectra process
+69	uplc-mass spec	uplc-mass spec design	uplc-mass spec approach	uplc-mass spec
+70	preparative column chromatography	preparative column chromatography diagnostic	preparative column chromatography identification	preparative column chromatography
+71	biological assay	biological assay analysis	biological assay study	biological assay analysis
+72	RI detector	RI detector	RI detector assessment	RI detector surveillance
+73	TEM	TEM testing	TEM	TEM
+74	enzyme-linked immunosorbent spot assay	enzyme-linked immunosorbent spot assay detection	enzyme-linked immunosorbent spot assay sampling	enzyme-linked immunosorbent spot assay system
+75	ion detector	ion detector process	ion detector system	ion detector
+76	western	western administration	western	western analysis
+77	device	device diagnostic	device review	device
+78	electrocardiography	electrocardiography	electrocardiography	electrocardiography
+79	colorimetric method	colorimetric method	colorimetric method process	colorimetric method
+80	phosphate-buffered salt solution	phosphate-buffered salt solution	phosphate-buffered salt solution detection	phosphate-buffered salt solution
+81	laser-scanning confocal microscope	laser-scanning confocal microscope tests	laser-scanning confocal microscope design	laser-scanning confocal microscope
+82	nuclear magnetic resonance spectrometry	nuclear magnetic resonance spectrometry	nuclear magnetic resonance spectrometry assessment	nuclear magnetic resonance spectrometry
+83	Karl-Fischer titration	Karl-Fischer titration design	Karl-Fischer titration study	Karl-Fischer titration approach
+84	DMSO	DMSO	DMSO system	DMSO approach
+85	LC/MS	LC/MS	LC/MS	LC/MS administration
+86	spectrophotometer	spectrophotometer analysis	spectrophotometer surveillance	spectrophotometer assessment
+87	real-time polymerase chain reaction assay	real-time polymerase chain reaction assay surveillance	real-time polymerase chain reaction assay sampling	real-time polymerase chain reaction assay detection
+88	liquid chromatography	liquid chromatography approach	liquid chromatography surveillance	liquid chromatography method
+89	IP	IP	IP system	IP
+90	dimetil sulfoxido	dimetil sulfoxido	dimetil sulfoxido detection	dimetil sulfoxido
+91	ELISPOT assay	ELISPOT assay administration	ELISPOT assay sampling	ELISPOT assay method
+92	affinity chromatography	affinity chromatography	affinity chromatography	affinity chromatography
+93	autoclave	autoclave	autoclave	autoclave
+94	superconducting quantum interference device magnetometer	superconducting quantum interference device magnetometer	superconducting quantum interference device magnetometer	superconducting quantum interference device magnetometer process
+95	QCM	QCM method	QCM tests	QCM
+96	Nomarski interference contrast microscopy	Nomarski interference contrast microscopy	Nomarski interference contrast microscopy testing	Nomarski interference contrast microscopy sampling
+97	scientific observation	scientific observation	scientific observation	scientific observation
+98	scanning electron microscope	scanning electron microscope	scanning electron microscope process	scanning electron microscope
+99	PBS solution	PBS solution	PBS solution	PBS solution administration
+100	transcription profiling by high throughput sequencing	transcription profiling by high throughput sequencing	transcription profiling by high throughput sequencing	transcription profiling by high throughput sequencing analysis
+101	N/A	N/A approach	N/A analysis	N/A assessment
+102	LC-MS/MS	LC-MS/MS administration	LC-MS/MS	LC-MS/MS
+103	ultra performance liquid chromatography-mass spectrometry	ultra performance liquid chromatography-mass spectrometry	ultra performance liquid chromatography-mass spectrometry	ultra performance liquid chromatography-mass spectrometry surveillance
+104	bright-field microscopy	bright-field microscopy	bright-field microscopy diagnostic	bright-field microscopy review
+105	EKG	EKG	EKG review	EKG administration
+106	storage	storage	storage	storage
+107	sample preparative method	sample preparative method analysis	sample preparative method tests	sample preparative method
+108	AC	AC surveillance	AC administration	AC
+109	RNA-seq	RNA-seq analysis	RNA-seq	RNA-seq design
+110	BRET	BRET tests	BRET testing	BRET detection
+111	column chromatography	column chromatography	column chromatography identification	column chromatography
+112	material processing	material processing	material processing	material processing
+113	detector	detector sampling	detector study	detector process
+114	inductively coupled plasma mass spectrometry	inductively coupled plasma mass spectrometry testing	inductively coupled plasma mass spectrometry method	inductively coupled plasma mass spectrometry system
+115	microscopy	microscopy detection	microscopy	microscopy
+116	Bradford protein assay	Bradford protein assay	Bradford protein assay	Bradford protein assay
+117	HPLC	HPLC	HPLC process	HPLC system
+118	fluorescence detection	fluorescence detection review	fluorescence detection assessment	fluorescence detection
+119	MS/MS	MS/MS	MS/MS	MS/MS
+120	superconducting quantum interference device (SQUID) magnetometer	superconducting quantum interference device (SQUID) magnetometer system	superconducting quantum interference device (SQUID) magnetometer	superconducting quantum interference device (SQUID) magnetometer sampling
+121	nuclear magnetic resonance spectroscopy	nuclear magnetic resonance spectroscopy	nuclear magnetic resonance spectroscopy	nuclear magnetic resonance spectroscopy surveillance
+122	sensor	sensor	sensor sampling	sensor
+123	microscope	microscope analysis	microscope diagnostic	microscope diagnostic
+124	laser	laser	laser detection	laser system
+125	measuring	measuring	measuring	measuring testing
+126	colourimetry	colourimetry detection	colourimetry method	colourimetry
+127	liquid chromatography tandem mass spectroscopy	liquid chromatography tandem mass spectroscopy sampling	liquid chromatography tandem mass spectroscopy design	liquid chromatography tandem mass spectroscopy method
+128	northern	northern	northern identification	northern
+129	electrocardiogram	electrocardiogram	electrocardiogram testing	electrocardiogram
+130	TLC	TLC	TLC	TLC
+131	x-ray generator	x-ray generator diagnostic	x-ray generator surveillance	x-ray generator design
+132	instrument	instrument approach	instrument analysis	instrument system
+133	computed tomography	computed tomography identification	computed tomography	computed tomography
+134	MRI	MRI	MRI diagnostic	MRI
+135	MS-MS	MS-MS review	MS-MS analysis	MS-MS tests
+136	filtration	filtration	filtration	filtration approach
+137	graphite-furnace atomic-absorption spectroscopy	graphite-furnace atomic-absorption spectroscopy identification	graphite-furnace atomic-absorption spectroscopy	graphite-furnace atomic-absorption spectroscopy system
+138	HPLC-MS	HPLC-MS surveillance	HPLC-MS	HPLC-MS diagnostic
+139	darkfield microscopy	darkfield microscopy testing	darkfield microscopy	darkfield microscopy
+140	solubility	solubility assessment	solubility identification	solubility diagnostic
+141	quartz crystal microbalance	quartz crystal microbalance	quartz crystal microbalance system	quartz crystal microbalance sampling
+142	aperture-NSOM	aperture-NSOM	aperture-NSOM administration	aperture-NSOM approach
+143	dmso	dmso	dmso process	dmso approach
+144	aperture SNOM	aperture SNOM	aperture SNOM identification	aperture SNOM method
+145	gas column chromatography	gas column chromatography	gas column chromatography process	gas column chromatography assessment
+146	real-time PCR	real-time PCR testing	real-time PCR	real-time PCR design
+147	vapor-phase chromatography	vapor-phase chromatography design	vapor-phase chromatography assessment	vapor-phase chromatography
+148	molecular absorption spectrophotometry	molecular absorption spectrophotometry approach	molecular absorption spectrophotometry testing	molecular absorption spectrophotometry
+149	liquid chromatography-tandem mass spectrometry	liquid chromatography-tandem mass spectrometry	liquid chromatography-tandem mass spectrometry assessment	liquid chromatography-tandem mass spectrometry method
+150	Not4Curation	Not4Curation	Not4Curation system	Not4Curation
+151	Q-PCR	Q-PCR	Q-PCR	Q-PCR
+152	protein immunoblot assay	protein immunoblot assay method	protein immunoblot assay study	protein immunoblot assay process
+153	western blot assay	western blot assay administration	western blot assay	western blot assay
+154	tandem-MS	tandem-MS assessment	tandem-MS analysis	tandem-MS
+155	flame AAS	flame AAS study	flame AAS	flame AAS
+156	osmometry	osmometry assessment	osmometry	osmometry
+157	process	process	process design	process surveillance
+158	PBS buffer	PBS buffer	PBS buffer	PBS buffer
+159	extraction	extraction	extraction sampling	extraction approach
+160	high performance liquid chromatography-mass spectroscopy	high performance liquid chromatography-mass spectroscopy	high performance liquid chromatography-mass spectroscopy tests	high performance liquid chromatography-mass spectroscopy
+161	TIRF microscopy	TIRF microscopy	TIRF microscopy	TIRF microscopy
+162	electron-multiplying charge-coupled device	electron-multiplying charge-coupled device	electron-multiplying charge-coupled device administration	electron-multiplying charge-coupled device design
+163	fluorescence microscopy assay	fluorescence microscopy assay	fluorescence microscopy assay identification	fluorescence microscopy assay method
+164	study assay	study assay method	study assay	study assay
+165	phosphate buffer solution	phosphate buffer solution	phosphate buffer solution identification	phosphate buffer solution
+166	scanning near-field optical microscopy	scanning near-field optical microscopy sampling	scanning near-field optical microscopy	scanning near-field optical microscopy surveillance
+167	graphite furnace atomic absorption spectroscopy	graphite furnace atomic absorption spectroscopy	graphite furnace atomic absorption spectroscopy tests	graphite furnace atomic absorption spectroscopy
+168	gas chromatography mass spectroscopy	gas chromatography mass spectroscopy design	gas chromatography mass spectroscopy	gas chromatography mass spectroscopy
+169	fluorescence microscopy	fluorescence microscopy detection	fluorescence microscopy	fluorescence microscopy analysis
+170	nanotube	nanotube	nanotube tests	nanotube system
+171	scanning-probe microscopy	scanning-probe microscopy	scanning-probe microscopy	scanning-probe microscopy
+172	carbon nanotube	carbon nanotube tests	carbon nanotube	carbon nanotube identification
+173	TIRFM	TIRFM tests	TIRFM	TIRFM process
+174	differential interference contrast microscopy	differential interference contrast microscopy	differential interference contrast microscopy tests	differential interference contrast microscopy
+175	reflectron	reflectron detection	reflectron assessment	reflectron diagnostic
+176	evaporative light scattering detector	evaporative light scattering detector identification	evaporative light scattering detector	evaporative light scattering detector detection
+177	GLC	GLC	GLC	GLC
+178	isolation objective	isolation objective process	isolation objective review	isolation objective review
+179	material entity	material entity	material entity	material entity
+180	nanoparticle	nanoparticle	nanoparticle approach	nanoparticle approach
+181	FM	FM	FM	FM
+182	aperture-SNOM	aperture-SNOM	aperture-SNOM study	aperture-SNOM
+183	histology	histology diagnostic	histology testing	histology
+184	dialysis	dialysis	dialysis analysis	dialysis
+185	protein expression	protein expression detection	protein expression tests	protein expression detection
+186	LSCM	LSCM	LSCM surveillance	LSCM
+187	L3Vision CCD	L3Vision CCD testing	L3Vision CCD	L3Vision CCD assessment
+188	planned process	planned process approach	planned process	planned process method
+189	fluorescence microscopic imaging	fluorescence microscopic imaging	fluorescence microscopic imaging	fluorescence microscopic imaging study
+190	F-AAS	F-AAS identification	F-AAS	F-AAS review
+191	fluorescence resonance energy transfer assay	fluorescence resonance energy transfer assay	fluorescence resonance energy transfer assay identification	fluorescence resonance energy transfer assay
+192	atomic-force microscopy	atomic-force microscopy diagnostic	atomic-force microscopy sampling	atomic-force microscopy
+193	autosampler	autosampler surveillance	autosampler	autosampler
+194	elution	elution detection	elution	elution review
+195	flow cytometric analysis	flow cytometric analysis sampling	flow cytometric analysis	flow cytometric analysis
+196	mixture	mixture	mixture	mixture
+197	dimethyl sulphoxide	dimethyl sulphoxide	dimethyl sulphoxide review	dimethyl sulphoxide
+198	ultra performance LC-MS	ultra performance LC-MS identification	ultra performance LC-MS	ultra performance LC-MS design
+199	purification	purification	purification	purification diagnostic
+200	role	role	role	role
+201	bioluminescence resonance energy transfer	bioluminescence resonance energy transfer design	bioluminescence resonance energy transfer	bioluminescence resonance energy transfer
+202	information content entity	information content entity	information content entity	information content entity
+203	EMCCD	EMCCD design	EMCCD method	EMCCD approach
+204	activation	activation surveillance	activation	activation
+205	refractive-index detector	refractive-index detector tests	refractive-index detector	refractive-index detector
+206	matrix	matrix	matrix detection	matrix
+207	gas-solid column chromatography	gas-solid column chromatography process	gas-solid column chromatography	gas-solid column chromatography
+208	ribonucleic acid sequencing assay	ribonucleic acid sequencing assay detection	ribonucleic acid sequencing assay	ribonucleic acid sequencing assay
+209	ChIP	ChIP testing	ChIP study	ChIP
+210	high pressure liquid chromatography	high pressure liquid chromatography identification	high pressure liquid chromatography	high pressure liquid chromatography
+211	material component separation	material component separation administration	material component separation analysis	material component separation
+212	fluorescence-activated cell sorting	fluorescence-activated cell sorting approach	fluorescence-activated cell sorting	fluorescence-activated cell sorting
+213	flow cytometric studies	flow cytometric studies administration	flow cytometric studies sampling	flow cytometric studies method
+214	LC	LC	LC study	LC
+215	serial analysis of gene expression assay	serial analysis of gene expression assay testing	serial analysis of gene expression assay	serial analysis of gene expression assay
+216	SEM	SEM	SEM design	SEM
+217	(CH3)2SO	(CH3)2SO	(CH3)2SO administration	(CH3)2SO system
+218	light microscopy	light microscopy	light microscopy identification	light microscopy
+219	Dimethyl sulfoxide	Dimethyl sulfoxide	Dimethyl sulfoxide testing	Dimethyl sulfoxide
+220	dark-field optical microscopy	dark-field optical microscopy	dark-field optical microscopy surveillance	dark-field optical microscopy
+221	principal component analysis	principal component analysis testing	principal component analysis	principal component analysis
+222	ChIP-chip	ChIP-chip process	ChIP-chip	ChIP-chip system
+223	high-performance liquid chromatography-mass spectrometry	high-performance liquid chromatography-mass spectrometry approach	high-performance liquid chromatography-mass spectrometry surveillance	high-performance liquid chromatography-mass spectrometry
+224	electropermeabilization	electropermeabilization design	electropermeabilization	electropermeabilization
+225	sample preparation step	sample preparation step	sample preparation step	sample preparation step
+226	tandem mass spectroscopy	tandem mass spectroscopy review	tandem mass spectroscopy study	tandem mass spectroscopy
+227	sulfinylbis(methane)	sulfinylbis(methane) analysis	sulfinylbis(methane) administration	sulfinylbis(methane) sampling
+228	nuclear magnetic resonance (NMR) spectroscopy	nuclear magnetic resonance (NMR) spectroscopy	nuclear magnetic resonance (NMR) spectroscopy	nuclear magnetic resonance (NMR) spectroscopy testing
+229	optical microscopy	optical microscopy assessment	optical microscopy	optical microscopy administration
+230	hemocytometer	hemocytometer	hemocytometer	hemocytometer
+231	quality	quality	quality system	quality administration
+232	sample preparation for assay	sample preparation for assay	sample preparation for assay process	sample preparation for assay
+233	computational method	computational method	computational method review	computational method
+234	immunohistochemistry	immunohistochemistry testing	immunohistochemistry	immunohistochemistry analysis
+235	GC-MS	GC-MS	GC-MS	GC-MS
+236	aperture NSOM	aperture NSOM review	aperture NSOM	aperture NSOM
+237	gas-liquid chromatography	gas-liquid chromatography	gas-liquid chromatography	gas-liquid chromatography
+238	hemacytometer	hemacytometer analysis	hemacytometer	hemacytometer
+239	electron microscopy	electron microscopy	electron microscopy	electron microscopy
+240	LCMSMS	LCMSMS tests	LCMSMS	LCMSMS method
+241	colorimetric analysis	colorimetric analysis	colorimetric analysis	colorimetric analysis
+242	preparative chromatography	preparative chromatography	preparative chromatography	preparative chromatography
+243	pump function	pump function	pump function	pump function assessment
+244	spectrophotometry	spectrophotometry	spectrophotometry testing	spectrophotometry analysis
+245	mass spectrometer	mass spectrometer approach	mass spectrometer	mass spectrometer
+246	quantitative real time polymerase chain reaction	quantitative real time polymerase chain reaction	quantitative real time polymerase chain reaction method	quantitative real time polymerase chain reaction surveillance
+247	anion-exchange chromatography	anion-exchange chromatography analysis	anion-exchange chromatography	anion-exchange chromatography
+248	fluorescence (FL) detection	fluorescence (FL) detection approach	fluorescence (FL) detection process	fluorescence (FL) detection review
+249	L3CCD	L3CCD	L3CCD	L3CCD
+250	superconducting quantum interference magnetometer	superconducting quantum interference magnetometer diagnostic	superconducting quantum interference magnetometer	superconducting quantum interference magnetometer testing
+251	methylsulfinylmethane	methylsulfinylmethane design	methylsulfinylmethane	methylsulfinylmethane
+252	gel electrophoresis	gel electrophoresis identification	gel electrophoresis	gel electrophoresis detection
+253	ICPMS	ICPMS method	ICPMS	ICPMS
+254	atomic force microscopy	atomic force microscopy	atomic force microscopy testing	atomic force microscopy sampling
+255	S(O)Me2	S(O)Me2	S(O)Me2 detection	S(O)Me2 review
+256	pulse oximetry	pulse oximetry	pulse oximetry approach	pulse oximetry
+257	washing	washing administration	washing	washing
+258	charge coupled device	charge coupled device	charge coupled device	charge coupled device
+259	FACS	FACS sampling	FACS review	FACS administration
+260	spectroscope	spectroscope sampling	spectroscope process	spectroscope approach
+261	chromatographic analysis	chromatographic analysis study	chromatographic analysis	chromatographic analysis study
+262	Karl Fischer titration	Karl Fischer titration review	Karl Fischer titration	Karl Fischer titration
+263	light amplification by the stimulated emission of radiation	light amplification by the stimulated emission of radiation	light amplification by the stimulated emission of radiation approach	light amplification by the stimulated emission of radiation
+264	electron multiplying charge coupled device	electron multiplying charge coupled device assessment	electron multiplying charge coupled device method	electron multiplying charge coupled device
+265	scale	scale	scale design	scale
+266	gas chromatography mass spectrometry	gas chromatography mass spectrometry	gas chromatography mass spectrometry	gas chromatography mass spectrometry
+267	fluorescence activated cell sorting	fluorescence activated cell sorting	fluorescence activated cell sorting testing	fluorescence activated cell sorting
+268	NMR	NMR identification	NMR	NMR detection
+269	NMR spectroscopy	NMR spectroscopy	NMR spectroscopy	NMR spectroscopy testing
+270	Ultra Performance Liquid Chromatography/Mass Spectrometry	Ultra Performance Liquid Chromatography/Mass Spectrometry	Ultra Performance Liquid Chromatography/Mass Spectrometry sampling	Ultra Performance Liquid Chromatography/Mass Spectrometry
+271	electrophoresis	electrophoresis design	electrophoresis	electrophoresis
+272	scanning probe microscope	scanning probe microscope design	scanning probe microscope surveillance	scanning probe microscope
+273	superconducting quantum interference device	superconducting quantum interference device	superconducting quantum interference device	superconducting quantum interference device sampling
+274	labeling	labeling design	labeling	labeling
+275	LC MS	LC MS identification	LC MS assessment	LC MS
+276	confocal microscope	confocal microscope	confocal microscope approach	confocal microscope testing
+277	radioimmunoassay	radioimmunoassay	radioimmunoassay identification	radioimmunoassay tests
+278	immunoprecipitation	immunoprecipitation	immunoprecipitation system	immunoprecipitation
+279	LC-MS-MS	LC-MS-MS sampling	LC-MS-MS	LC-MS-MS surveillance
+280	GF-AAS	GF-AAS process	GF-AAS	GF-AAS identification
+281	GPC	GPC	GPC	GPC
+282	high performance liquid chromatography mass spectrometry	high performance liquid chromatography mass spectrometry design	high performance liquid chromatography mass spectrometry assessment	high performance liquid chromatography mass spectrometry identification
+283	mass spectrometry	mass spectrometry	mass spectrometry	mass spectrometry analysis
+284	CT scan	CT scan analysis	CT scan assessment	CT scan process
+285	gas chromatography oven	gas chromatography oven	gas chromatography oven system	gas chromatography oven
+286	thin-layer chromatography	thin-layer chromatography	thin-layer chromatography process	thin-layer chromatography
+287	anatomization	anatomization review	anatomization	anatomization process
+288	RIA	RIA identification	RIA surveillance	RIA analysis
+289	polymerase chain reaction assay	polymerase chain reaction assay testing	polymerase chain reaction assay surveillance	polymerase chain reaction assay identification
+290	liquid scintillation counter	liquid scintillation counter	liquid scintillation counter review	liquid scintillation counter study
+291	gas chromatography	gas chromatography method	gas chromatography	gas chromatography
+292	microplate photometer	microplate photometer diagnostic	microplate photometer	microplate photometer process
+293	capillary column	capillary column	capillary column	capillary column administration
+294	calorimeter	calorimeter process	calorimeter	calorimeter testing
+295	inductively coupled plasma-mass spectrometry	inductively coupled plasma-mass spectrometry	inductively coupled plasma-mass spectrometry identification	inductively coupled plasma-mass spectrometry
+296	NSOM	NSOM testing	NSOM	NSOM study
+297	dark field optical microscope	dark field optical microscope diagnostic	dark field optical microscope study	dark field optical microscope
+298	fermentation	fermentation	fermentation	fermentation system
+299	reverse transcription polymerase chain reaction assay	reverse transcription polymerase chain reaction assay	reverse transcription polymerase chain reaction assay	reverse transcription polymerase chain reaction assay
+300	histological assay	histological assay	histological assay	histological assay
+301	gas chromatography-mass spectrometry	gas chromatography-mass spectrometry	gas chromatography-mass spectrometry design	gas chromatography-mass spectrometry
+302	whole transcriptome sequencing	whole transcriptome sequencing approach	whole transcriptome sequencing design	whole transcriptome sequencing approach
+303	high performance liquid chromatography-mass spectrometry	high performance liquid chromatography-mass spectrometry	high performance liquid chromatography-mass spectrometry	high performance liquid chromatography-mass spectrometry testing
+304	transmission EM	transmission EM system	transmission EM assessment	transmission EM design
+305	chromatin immunoprecipitation	chromatin immunoprecipitation sampling	chromatin immunoprecipitation surveillance	chromatin immunoprecipitation
+306	material maintenance	material maintenance system	material maintenance	material maintenance testing
+307	EM	EM	EM	EM surveillance
+308	liquid chromatography mass spectrometry	liquid chromatography mass spectrometry approach	liquid chromatography mass spectrometry	liquid chromatography mass spectrometry
+309	NIC	NIC	NIC detection	NIC detection
+310	ETAAS	ETAAS method	ETAAS	ETAAS
+311	electrophoretic analysis	electrophoretic analysis	electrophoretic analysis design	electrophoretic analysis analysis
+312	Northern blot assay	Northern blot assay assessment	Northern blot assay	Northern blot assay method
+313	scanning probe microscopy	scanning probe microscopy study	scanning probe microscopy tests	scanning probe microscopy
+314	CCD	CCD	CCD	CCD
+315	scanning electronic microscopy	scanning electronic microscopy	scanning electronic microscopy	scanning electronic microscopy
+316	phosphate-buffered saline (PBS) solution	phosphate-buffered saline (PBS) solution process	phosphate-buffered saline (PBS) solution sampling	phosphate-buffered saline (PBS) solution
+317	high pressure liquid chromatography-mass spectrometry	high pressure liquid chromatography-mass spectrometry	high pressure liquid chromatography-mass spectrometry	high pressure liquid chromatography-mass spectrometry
+318	bioassay	bioassay sampling	bioassay diagnostic	bioassay
+319	biological standardization	biological standardization	biological standardization	biological standardization
+320	anion exchange chromatography	anion exchange chromatography diagnostic	anion exchange chromatography	anion exchange chromatography
+321	liquid scintillation counting	liquid scintillation counting identification	liquid scintillation counting detection	liquid scintillation counting detection
+322	ultra-performance LC-MS	ultra-performance LC-MS analysis	ultra-performance LC-MS	ultra-performance LC-MS
+323	density gradient centrifugation	density gradient centrifugation	density gradient centrifugation review	density gradient centrifugation
+324	MS2	MS2 analysis	MS2 sampling	MS2 detection
+325	CAT scan	CAT scan	CAT scan	CAT scan approach
+326	laser confocal scanning microscopy	laser confocal scanning microscopy	laser confocal scanning microscopy	laser confocal scanning microscopy
+327	bright field microscopy	bright field microscopy	bright field microscopy tests	bright field microscopy detection
+328	gas-liquid column chromatography	gas-liquid column chromatography detection	gas-liquid column chromatography	gas-liquid column chromatography
+329	chromatography	chromatography	chromatography	chromatography
+330	CCD array	CCD array identification	CCD array tests	CCD array
+331	ChIP-on-chip	ChIP-on-chip	ChIP-on-chip approach	ChIP-on-chip
+332	ECG	ECG study	ECG design	ECG
+333	isothermal titration microcalorimetry	isothermal titration microcalorimetry	isothermal titration microcalorimetry review	isothermal titration microcalorimetry
+334	DIC	DIC	DIC process	DIC testing
+335	computed axial tomography	computed axial tomography sampling	computed axial tomography	computed axial tomography diagnostic
+336	PCA	PCA study	PCA	PCA method
+337	high performance liquid chromatography	high performance liquid chromatography	high performance liquid chromatography review	high performance liquid chromatography
+338	dimethyli sulfoxidum	dimethyli sulfoxidum analysis	dimethyli sulfoxidum	dimethyli sulfoxidum
+339	electron multiplying CCD	electron multiplying CCD	electron multiplying CCD	electron multiplying CCD assessment
+340	histopathology	histopathology process	histopathology system	histopathology process
+341	fluorescence imaging	fluorescence imaging administration	fluorescence imaging analysis	fluorescence imaging design
+342	rinsing	rinsing surveillance	rinsing diagnostic	rinsing
+343	optical microscope	optical microscope assessment	optical microscope assessment	optical microscope system
+344	UPLC-MS	UPLC-MS	UPLC-MS design	UPLC-MS testing
+345	total internal reflection fluorescence microscopy	total internal reflection fluorescence microscopy	total internal reflection fluorescence microscopy method	total internal reflection fluorescence microscopy
+346	DIMETHYL SULFOXIDE	DIMETHYL SULFOXIDE	DIMETHYL SULFOXIDE	DIMETHYL SULFOXIDE tests
+347	synchrotron	synchrotron	synchrotron design	synchrotron
+348	tomography	tomography	tomography review	tomography analysis
+349	microwave synthesis system	microwave synthesis system	microwave synthesis system assessment	microwave synthesis system
+350	haemocytometer	haemocytometer	haemocytometer	haemocytometer approach
+351	ion-exchange column	ion-exchange column tests	ion-exchange column design	ion-exchange column method
+352	high performance liquid chromatography mass spectroscopy	high performance liquid chromatography mass spectroscopy diagnostic	high performance liquid chromatography mass spectroscopy	high performance liquid chromatography mass spectroscopy diagnostic
+353	inductively coupled plasma-mass spectroscopy	inductively coupled plasma-mass spectroscopy	inductively coupled plasma-mass spectroscopy review	inductively coupled plasma-mass spectroscopy
+354	real time polymerase chain reaction assay	real time polymerase chain reaction assay	real time polymerase chain reaction assay	real time polymerase chain reaction assay
+355	light microscopy assay	light microscopy assay	light microscopy assay	light microscopy assay analysis
+356	mass spec	mass spec tests	mass spec analysis	mass spec surveillance
+357	LCSM	LCSM detection	LCSM	LCSM analysis
+358	LC-MS2	LC-MS2 system	LC-MS2 identification	LC-MS2
+359	principal components analysis dimensionality reduction	principal components analysis dimensionality reduction identification	principal components analysis dimensionality reduction surveillance	principal components analysis dimensionality reduction
+360	any method	any method	any method tests	any method analysis
+361	flow cytometry	flow cytometry	flow cytometry review	flow cytometry system
+362	gel-permeation chromatography	gel-permeation chromatography	gel-permeation chromatography	gel-permeation chromatography
+363	purification objective	purification objective sampling	purification objective	purification objective administration
+364	CLSM	CLSM	CLSM process	CLSM
+365	fluorescence resonance energy transfer microscopy	fluorescence resonance energy transfer microscopy design	fluorescence resonance energy transfer microscopy	fluorescence resonance energy transfer microscopy process
+366	iquid chromatography/mass spectrometry	iquid chromatography/mass spectrometry	iquid chromatography/mass spectrometry detection	iquid chromatography/mass spectrometry administration
+367	study	study process	study system	study
+368	flow cytometer	flow cytometer	flow cytometer sampling	flow cytometer method
+369	isothermal titration calorimetry	isothermal titration calorimetry	isothermal titration calorimetry	isothermal titration calorimetry
+370	bioaffinity chromatography	bioaffinity chromatography design	bioaffinity chromatography	bioaffinity chromatography administration
+371	OM	OM design	OM	OM
+372	transmission electron microscope	transmission electron microscope	transmission electron microscope	transmission electron microscope tests
+373	radio immuno assay	radio immuno assay surveillance	radio immuno assay testing	radio immuno assay
+374	filter photometry	filter photometry review	filter photometry testing	filter photometry system
+375	partition	partition identification	partition study	partition
+376	sample preparation	sample preparation review	sample preparation	sample preparation
+377	MRS	MRS testing	MRS assessment	MRS
+378	separation method	separation method sampling	separation method	separation method
+379	phosphate-buffered saline solution	phosphate-buffered saline solution	phosphate-buffered saline solution	phosphate-buffered saline solution administration
+380	PCM	PCM	PCM testing	PCM
+381	function	function review	function	function approach
+382	refractive index detector	refractive index detector review	refractive index detector tests	refractive index detector
+383	enzyme-linked immunosorbent assay	enzyme-linked immunosorbent assay	enzyme-linked immunosorbent assay identification	enzyme-linked immunosorbent assay diagnostic
+384	micromanipulator	micromanipulator	micromanipulator	micromanipulator
+385	liquid chromatography-mass spectrometry	liquid chromatography-mass spectrometry	liquid chromatography-mass spectrometry	liquid chromatography-mass spectrometry administration
+386	ITC	ITC detection	ITC process	ITC detection
+387	co-immunoprecipitation	co-immunoprecipitation system	co-immunoprecipitation	co-immunoprecipitation process
+388	Coomassie dye protein assay	Coomassie dye protein assay process	Coomassie dye protein assay process	Coomassie dye protein assay
+389	chloroform	chloroform method	chloroform	chloroform testing
+390	analytical chromatography	analytical chromatography study	analytical chromatography testing	analytical chromatography detection
+391	VPC	VPC diagnostic	VPC method	VPC design
+392	HISTOLOGY	HISTOLOGY method	HISTOLOGY	HISTOLOGY
+393	GSC	GSC	GSC approach	GSC
+394	confocal microscopy	confocal microscopy process	confocal microscopy detection	confocal microscopy system
+395	LCM	LCM system	LCM tests	LCM
+396	volumetric titration	volumetric titration surveillance	volumetric titration testing	volumetric titration approach
+397	enzyme linked immunosorbent assay	enzyme linked immunosorbent assay	enzyme linked immunosorbent assay identification	enzyme linked immunosorbent assay tests
+398	digital scale	digital scale administration	digital scale approach	digital scale surveillance
+399	thin layer chromatography	thin layer chromatography	thin layer chromatography diagnostic	thin layer chromatography administration
+400	charge-coupled device	charge-coupled device	charge-coupled device	charge-coupled device analysis
+401	sensitivity	sensitivity	sensitivity	sensitivity method
+402	analyte assay	analyte assay method	analyte assay process	analyte assay
+403	liquid chromatography tandem mass spectrometry	liquid chromatography tandem mass spectrometry	liquid chromatography tandem mass spectrometry	liquid chromatography tandem mass spectrometry
+404	spirometry	spirometry design	spirometry assessment	spirometry system
+405	labelling	labelling tests	labelling	labelling study
+406	cataphoresis	cataphoresis method	cataphoresis	cataphoresis review
+407	dimethyl sulfoxide	dimethyl sulfoxide method	dimethyl sulfoxide	dimethyl sulfoxide
+408	dark-field microscope	dark-field microscope process	dark-field microscope design	dark-field microscope
+409	scanning electron microscopy	scanning electron microscopy	scanning electron microscopy testing	scanning electron microscopy review
+410	Histology	Histology	Histology detection	Histology
+411	MS	MS	MS	MS analysis
+412	atomic force imaging	atomic force imaging	atomic force imaging diagnostic	atomic force imaging
+413	SQUID device	SQUID device approach	SQUID device	SQUID device
+414	computerized axial tomography (CAT)	computerized axial tomography (CAT) identification	computerized axial tomography (CAT)	computerized axial tomography (CAT)
+415	northern blot assay	northern blot assay assessment	northern blot assay identification	northern blot assay
+416	concentration	concentration	concentration	concentration
+417	MAS	MAS sampling	MAS diagnostic	MAS method
+418	ultra performance liquid chromatography mass spectrometry	ultra performance liquid chromatography mass spectrometry	ultra performance liquid chromatography mass spectrometry	ultra performance liquid chromatography mass spectrometry
+419	bright-field optical microscopy	bright-field optical microscopy surveillance	bright-field optical microscopy tests	bright-field optical microscopy
+420	preparative method	preparative method	preparative method identification	preparative method study
+421	material type	material type	material type	material type tests
+422	GC MS	GC MS sampling	GC MS analysis	GC MS
+423	reverse transcription polymerase chain reaction	reverse transcription polymerase chain reaction	reverse transcription polymerase chain reaction review	reverse transcription polymerase chain reaction
+424	dark field microscope	dark field microscope	dark field microscope	dark field microscope approach
+425	Impactron CCD	Impactron CCD testing	Impactron CCD approach	Impactron CCD sampling
+426	light emission device	light emission device review	light emission device approach	light emission device
+427	electron microscope	electron microscope	electron microscope	electron microscope study
+428	haemacytometer	haemacytometer review	haemacytometer	haemacytometer
+429	Microanatomy	Microanatomy	Microanatomy analysis	Microanatomy testing
+430	diffractometer	diffractometer	diffractometer method	diffractometer
+431	laser capture micro-dissection	laser capture micro-dissection method	laser capture micro-dissection surveillance	laser capture micro-dissection study
+432	immunoassay	immunoassay	immunoassay process	immunoassay diagnostic
+433	confocal laser scanning microscopy	confocal laser scanning microscopy identification	confocal laser scanning microscopy sampling	confocal laser scanning microscopy analysis
+434	western blot	western blot	western blot tests	western blot
+435	computed tomography scan	computed tomography scan	computed tomography scan system	computed tomography scan
+436	RNA-seq assay	RNA-seq assay method	RNA-seq assay	RNA-seq assay
+437	personal protective equipment	personal protective equipment	personal protective equipment tests	personal protective equipment
+438	gas-solid chromatography	gas-solid chromatography	gas-solid chromatography	gas-solid chromatography
+439	cation-exchange column	cation-exchange column sampling	cation-exchange column	cation-exchange column
+440	infiltration	infiltration	infiltration system	infiltration
+441	gas chromatography-mass spectroscopy	gas chromatography-mass spectroscopy	gas chromatography-mass spectroscopy	gas chromatography-mass spectroscopy review
+442	laser-capture micro-dissection	laser-capture micro-dissection	laser-capture micro-dissection	laser-capture micro-dissection
+443	FAAS	FAAS method	FAAS	FAAS
+444	density-gradient centrifugation	density-gradient centrifugation analysis	density-gradient centrifugation	density-gradient centrifugation
+445	Nomarski microscopy	Nomarski microscopy	Nomarski microscopy detection	Nomarski microscopy
+446	spectrometer	spectrometer sampling	spectrometer detection	spectrometer surveillance
+447	phase contrast microscopy	phase contrast microscopy	phase contrast microscopy sampling	phase contrast microscopy
+448	colorimetry	colorimetry	colorimetry	colorimetry
+449	polymer	polymer identification	polymer	polymer sampling
+450	pca data reduction	pca data reduction design	pca data reduction testing	pca data reduction approach
+451	analyte role	analyte role	analyte role	analyte role sampling
+452	material transformation	material transformation approach	material transformation system	material transformation sampling
+453	chromatography column	chromatography column	chromatography column	chromatography column
+454	(methanesulfinyl)methane	(methanesulfinyl)methane	(methanesulfinyl)methane sampling	(methanesulfinyl)methane review
+455	phosphate buffer	phosphate buffer	phosphate buffer process	phosphate buffer sampling
+456	microplate reader	microplate reader study	microplate reader method	microplate reader process
+457	plate reader	plate reader detection	plate reader	plate reader approach
+458	magnetic resonance spectroscopy	magnetic resonance spectroscopy	magnetic resonance spectroscopy	magnetic resonance spectroscopy
+459	flame atomic absorption spectrometry	flame atomic absorption spectrometry detection	flame atomic absorption spectrometry analysis	flame atomic absorption spectrometry
+460	dimethyl sulfur oxide	dimethyl sulfur oxide sampling	dimethyl sulfur oxide	dimethyl sulfur oxide testing
+461	gel filtration chromatography	gel filtration chromatography administration	gel filtration chromatography process	gel filtration chromatography testing
+462	LC/MS/MS	LC/MS/MS analysis	LC/MS/MS	LC/MS/MS surveillance
+463	SAGE	SAGE	SAGE detection	SAGE approach
+464	tandem MS	tandem MS diagnostic	tandem MS administration	tandem MS diagnostic
+465	aperture scanning near-field optical microscopy	aperture scanning near-field optical microscopy	aperture scanning near-field optical microscopy	aperture scanning near-field optical microscopy process
+466	ELISA	ELISA sampling	ELISA	ELISA detection
+467	GC/MS	GC/MS diagnostic	GC/MS	GC/MS
+468	fluorescent resonance energy transfer	fluorescent resonance energy transfer study	fluorescent resonance energy transfer detection	fluorescent resonance energy transfer administration
+469	molecular entity	molecular entity detection	molecular entity method	molecular entity review
+470	X-ray generator	X-ray generator	X-ray generator testing	X-ray generator review
+471	dissection	dissection design	dissection	dissection administration
+472	flame atomic absorption spectroscopy	flame atomic absorption spectroscopy	flame atomic absorption spectroscopy study	flame atomic absorption spectroscopy method
+473	SQUID magnetometer	SQUID magnetometer approach	SQUID magnetometer sampling	SQUID magnetometer
+474	phase-contrast microscopy	phase-contrast microscopy diagnostic	phase-contrast microscopy review	phase-contrast microscopy
+475	near-field scanning optical microscopy	near-field scanning optical microscopy approach	near-field scanning optical microscopy	near-field scanning optical microscopy design
+476	electrothermal atomic absorption spectrometry	electrothermal atomic absorption spectrometry	electrothermal atomic absorption spectrometry identification	electrothermal atomic absorption spectrometry analysis
+477	anion-exchange column	anion-exchange column tests	anion-exchange column	anion-exchange column
+478	ICP-MS	ICP-MS detection	ICP-MS	ICP-MS
+479	RNA blot	RNA blot	RNA blot	RNA blot design
+480	kinetic polymerase chain reaction	kinetic polymerase chain reaction analysis	kinetic polymerase chain reaction	kinetic polymerase chain reaction approach
+481	tandem mass spectrometry	tandem mass spectrometry	tandem mass spectrometry	tandem mass spectrometry
+482	phosphate buffered saline	phosphate buffered saline	phosphate buffered saline	phosphate buffered saline
+483	DIC microscopy	DIC microscopy	DIC microscopy analysis	DIC microscopy
+484	measurement method	measurement method assessment	measurement method administration	measurement method
+485	NMR spectrometry	NMR spectrometry	NMR spectrometry	NMR spectrometry
+486	anion chromatography	anion chromatography approach	anion chromatography administration	anion chromatography
+487	transmitted-light microscopy	transmitted-light microscopy surveillance	transmitted-light microscopy	transmitted-light microscopy review
+488	LC-MS	LC-MS	LC-MS design	LC-MS testing
+489	liquid chromatography-tandem mass spectroscopy	liquid chromatography-tandem mass spectroscopy	liquid chromatography-tandem mass spectroscopy sampling	liquid chromatography-tandem mass spectroscopy
+490	LC-MSMS	LC-MSMS approach	LC-MSMS review	LC-MSMS testing
+491	Dimethylsulfoxid	Dimethylsulfoxid method	Dimethylsulfoxid	Dimethylsulfoxid study
+492	light source	light source diagnostic	light source method	light source

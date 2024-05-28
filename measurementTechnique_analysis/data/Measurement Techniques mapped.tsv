@@ -1,0 +1,515 @@
+														
+														
+Technique	obi Score	obi Term	chmo Score	chmo Term	ncit Score	ncit Term	bao Score	bao Term	efo Score	efo Term	mmo Score	mmo Term	edam Score	edam Term
+Consent process	0.709	informed consent process	0.309	isobaric calorimetry	0.693	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	0.473	processing method	0.541	enrichment process				
+Liquid culture analysis	0.511	cell culture assay	0.511	X-ray diffraction	0.581	Microbial Liquid Culture	0.54	structure analysis method	0.488	data transformation	0.459	blood lipid analysis	0.53	Exome sequencing
+Video recording	0.449	single-unit recording			0.442	Periodontal Screening and Recording					0.673	visual assessment of in vivo video recording		
+MPG analysis	0.558	replicate analysis	0.706	X-ray diffraction	0.68	DNA Analysis	0.597	image analysis method	0.674	data transformation	0.594	urine analysis	0.732	Exome sequencing
+Data storage	0.782	storage			0.503	Record Linkage Study	0.35	data based structure generation	0.366	data transformation				
+Cross-sectional study	0.412	study intervention	0.307	photon cross correlation spectroscopy	0.829	Cross-Sectional Study	0.36	preclinical study	0.345	group assignment				
+Laser-microdissection	0.581	dissection	0.533	laser micro emission spectroscopy	0.969	Laser Capture Microdissection	0.74	laser capture microdissection microscope	0.837	laser capture microdissection				
+Graham technique	0.715	detection technique	0.673	time-of-flight method	0.674	Axillary Reverse Mapping	0.433	enzyme-multiplied immunoassay technique			0.508	patch clamp technique		
+Cohort study enrollment	0.46	human subject enrollment			0.703	Cohort Study	0.347	portal vein study	0.468	group assignment				
+Documentation on ClinEpiDB	0.512	documenting			0.374	Medical Record Documentation about this History of Cancer Treatment	0.325	complementation method	0.366	ChIPmentation	0.394	in vivo videography with digital image analysis		
+systematic random sampling	0.395	material sampling process			0.492	Randomization	0.423	systematic conformational search	0.494	DNA shearing	0.302	computerized assessment of in vivo video recording		
+Observational cross-sectional study design	0.431	observational assessment of individual	0.375	rotational spectroscopy	0.77	Observational Study Model	0.434	fractional factorial design	0.353	medical procedure	0.379	observational fear learning apparatus method		
+Electronic data collection using REDCap Mobile Application	0.381	cell collecting	0.443	electron ionisation mass spectrometry	0.436	Stool Collection	0.324	valence electron computational method	0.425	specimen collection process	0.342	body fluid collection method	0.337	Electron microscopy
+Synthetic exposure modeling	0.361	synthesis			0.547	Modeling	0.384	MODELLER homology modeling	0.558	exposure				
+TIRF microscopy	0.825	microscopy assay	0.89	total internal reflection fluorescence microscopy	0.839	Microscopy	0.841	microscopy	0.742	microscopy assay	0.707	in vivo microscopy	0.631	Light microscopy
+Multivariable Cox proportional hazards models	0.644	proportional hazards model estimation	0.329	time proportional phase incrementation	0.371	Dose Proportionality Study								
+Stool sample collection	0.461	cell collecting	0.329	multiple collector inductively coupled plasma mass spectrometry	0.812	Stool Collection			0.849	specimen collection process	0.41	body fluid collection method		
+Conditioned plant volatile preference testing					0.505	Preference Question					0.703	conditioned placed preference test		
+Questionnaire design	0.371	study design execution			0.741	CES Questionnaire Question	0.45	assay design method						
+Field sampling	0.487	material sampling process	0.446	rotating-field mass spectrometry	0.593	Sampling Method	0.35	force field based scoring function	0.476	sample pooling	0.365	open field apparatus method		
+Continuous Rotation			0.57	continuous-scan cyclic voltammetry	0.716	Continuous Heart Murmur			0.414	continuous positive airway pressure	0.419	continuous wave doppler ultrasound		
+Image analysis	0.752	image data set analysis	0.65	X-ray diffraction	0.761	Digital Image Analysis	0.906	image analysis method	0.62	data transformation	0.546	urine analysis	0.673	Exome sequencing
+Finger-prick blood sample collection	0.413	DNA based blood meal finger printing assay			0.551	Blood Product Collection			0.688	specimen collection process	0.354	body fluid collection method		
+Nitrogen cavitation	0.34	nitrite concentration assay	0.554	nitrogen sorption measurement	0.561	Urea Nitrogen Measurement	0.562	nitrogen laser	0.307	in vitro transcription	0.494	blood urea nitrogen analysis		
+ImmuneCODE™ database establishment	0.415	establishing cell line			0.355	Established Diagnosis	0.391	database filtering						
+Study design	0.772	study design execution	0.358	desorption electrospray ionisation mass spectrometry	0.981	Study Design	0.591	assay design method	0.624	group assignment				
+Foraging behavior analysis	0.378	replicate analysis	0.478	X-ray diffraction	0.488	Behavioral Rating Scale	0.41	organism behavior assay	0.456	data transformation	0.402	urine analysis	0.495	Exome sequencing
+Questionnaire administration	0.557	oral administration	0.351	absorption titration	0.967	Questionnaire Administration	0.33	ion redistribution determination method	0.306	vacuum aspiration	0.3	cell fractionation		
+Patient-hold-out cross-validation	0.557	leave one out cross validation method	0.313	photon cross correlation spectroscopy	0.691	Cross Validation	0.363	method development and validation						
+Adaptive design	0.395	study design execution	0.317	desorption electrospray ionisation mass spectrometry	0.968	Adaptive Design	0.524	assay design method						
+Financial support	0.498	support service			0.603	Financial Question	0.464	assay supporting method						
+qPCR (quantitative Polymerase Chain Reaction)	0.732	polymerase chain reaction	0.392	quantitative determination method	0.853	Real Time PCR	0.736	polymerase chain reaction	0.749	polymerase chain reaction	0.841	real-time polymerase chain reaction assay	0.757	PCR experiment
+Infected tissue visualization.	0.558	data visualization	0.371	ion-excited Auger electron spectroscopy	0.465	Tissue Dissection	0.497	chromatin condensation visualization			0.381	isolated tissue method		
+Transcriptomics	0.547	transcription profiling assay	0.316	image correlation spectroscopy	0.616	Whole Transcriptome Sequencing	0.564	transcription factor	0.804	spatial transcriptomics	0.562	high throughput transcription profiling by array	0.624	RNA-Seq
+In vitro phosphorylation	0.497	fluorescence imaging-based protein phosphorylation state assay	0.51	phosphorescence detection	0.589	Phosphorylated STAT3 Measurement	0.813	phosphorylation assay	0.847	enrichment of phosphorylated protein	0.355	blood phospholipid analysis		
+Single-molecule FRET	0.562	single molecule fluorescence in situ hybridization	0.722	single-molecule fluorescence spectroscopy	0.567	Single-Molecule Array	0.519	small molecule	0.565	assay by molecule	0.41	molecular method		
+Data analysis using SAS files	0.526	data analysis service	0.468	X-ray diffraction	0.451	DNA Analysis	0.458	sequencing data analysis software	0.69	data transformation	0.413	automated blood gas analysis using a Bayer analyzer	0.485	Exome sequencing
+Protein analysis	0.633	protein assay	0.605	X-ray diffraction	0.986	Protein Analysis	0.682	protein	0.577	data transformation	0.86	blood protein analysis	0.627	Exome sequencing
+Review of study electrocardiograms	0.328	electrocution	0.329	electron spectroscopy	0.711	Electrocardiographic Study					0.627	electrocardiography		
+RDT (Rapid Diagnostic Test)	0.706	falcivax rapid diagnostic test	0.34	rapid-scan infrared absorption spectroscopy	0.784	Diagnostic Procedure								
+Random Selection of Participants	0.502	selection	0.322	transmission electron microscopy selected area electron diffraction	0.447	Randomization	0.338	affinity selection	0.516	DNA shearing				
+Conformation-dependent fluorescence spectrum analysis	0.515	fluorescence detection assay	0.521	fluorescence spectroscopy	0.554	Conformation Dependent Mutation Detection	0.439	fluorescence method	0.377	seqFISH	0.387	immunofluorescence confocal microscopy with digital image analysis	0.524	Chromosome conformation capture
+Key informant interviews					0.554	Interview			0.371	medical procedure				
+Ballard Score					0.982	Dubowitz Score	0.357	DrugScore scoring function	0.396	Weiss grade				
+PCR testing	0.388	HCV nucleic acid testing	0.308	colorimetric test	0.823	Testing	0.366	GPCR arrestin complex	0.546	polymerase chain reaction	0.548	polymerase chain reaction assay	0.354	PCR experiment
+Exit interview questionnaires					0.708	CHART-SF Interview Version Questionnaire Question			0.363	medical procedure				
+Multilineage differentiation	0.443	differential medium assay	0.439	differential isothermal capacitance transient spectroscopy	0.597	Differentiation Therapy	0.383	differential interference contrast microscopy	0.417	differential expression analysis data transformation	0.354	blood differential lipoprotein-cholesterol analysis		
+Data cleaning	0.464	data partitioning			0.512	Cleaning Windows	0.405	assay data processing method	0.439	data transformation				
+Audio file splitting	0.482	cell culture splitting			0.415	Ability to Sit	0.313	rna splicing assay	0.572	sample splitting	0.354	audiometry		
+Lab testing	0.388	HCV nucleic acid testing	0.308	colorimetric test	0.823	Testing	0.333	labeling method	0.365	labelling	0.38	Schirmer test		
+Cross-sectional survey	0.358	selection by survival			0.808	Cross-Sectional Study	0.317	functional	0.374	surgical resection				
+RNA-seq	0.61	RNA sequencing assay			0.707	Whole Transcriptome Sequencing	0.703	RNA	0.542	RNA-Seq	0.646	RNA-seq assay	0.619	RNA-Seq
+Peroxisome proliferator-activated receptor-? (PPAR?) induction	0.379	cell proliferation assay			0.429	Receptor Activator Nuclear KappaB Ligand Measurement	0.587	receptor induction assay	0.349	population growth assay	0.353	cell proliferation assay		
+Field team visitations			0.422	field ion microscopy	0.414	Field Flow Fractionation	0.344	second generation force field simulation						
+HoloBatch program	0.308	Gram stain assay	0.411	holography	0.476	CATCH My Breath Vaping Prevention Program								
+Ultrasound	0.492	ultrasound-guided needle biopsy	0.631	ultrasonic velocimetry	0.983	Diagnostic Ultrasound	0.368	Tecan Ultra	0.456	transvaginal ultrasound-guided oocyte retrieval	0.908	ultrasound method	0.879	Echography
+Case-control study design	0.546	study design execution			0.694	Nonclinical Study Design	0.418	assay design method	0.441	group assignment				
+geographic information system (GIS) mapping	0.326	information acquisition	0.39	infrared microscopy	0.464	System Support Mapping	0.423	systematic conformational search	0.301	m1A mapping				
+Apgar score			0.321	hyperfine sublevel correlation spectroscopy	0.879	Apgar Score Version 1 - Total Apgar Score	0.391	DrugScore scoring function	0.434	Weiss grade				
+Taxonomic identification	0.468	histone modification identification by ChIP-Seq assay			0.71	Taxonomic Identification Below Species Level	0.512	nucleic acid identification and quantitation method	0.338	label-free quantification				
+Graph creation	0.516	image creation	0.319	gas chromatography-flame ionisation detection	0.498	Creatinine Measurement	0.414	hybrid cell creation method			0.347	blood creatinine analysis		
+Random sampling	0.469	material sampling process	0.337	solid sampling graphite furnace atomic absorption spectrometry	0.644	Randomization	0.372	random conformational search	0.647	DNA shearing	0.344	random zero sphygmomanometer		
+Obfuscation of dates					0.347	Location of Diffuse Infiltration			0.314	sedation				
+Morbidity and mortality data collection	0.334	cell collecting	0.348	ion mobility spectroscopy	0.511	Mortality Map			0.349	specimen collection process				
+Latent factors			0.326	spatially-offset Raman spectroscopy	0.579	Feelings about Genomic Testing Results	0.475	z factor						
+Literature review	0.355	temperature measurement assay	0.34	high-temperature X-ray diffraction	0.52	Life Review Therapy	0.32	temperature profile						
+Scrub typhus diagnostic tests (ELISA)	0.405	falcivax rapid diagnostic test	0.382	ELISA	0.624	Diagnostic Procedure	0.4	ELISA			0.393	enzyme linked immunosorbent assay		
+T-cell Receptor sequencing	0.71	T cell receptor repertoire sequencing assay	0.387	phase cycle	0.764	T Cell Receptor Repertoire Sequencing	0.582	receptor	0.629	single cell sequencing			0.657	Sequencing
+Blood collection	0.545	cell collecting	0.342	reflection electron microscopy	0.763	Blood Product Collection	0.353	blood to plasma ratio assay	0.752	blood draw	0.517	body fluid collection method		
+Interviews	0.317	study intervention	0.371	interferometry	0.792	Interview	0.384	QT interval assay	0.491	medical procedure			0.3	Protein interaction experiment
+Illumina sequencing	0.701	sequencing assay	0.438	phase cycle	0.973	Illumina Sequencing	0.489	Whole Genome Sequencing	0.949	Illumina sequencing			0.743	Sequencing
+Strategic Innovation Fund analysis	0.386	discriminant function analysis	0.495	activation analysis	0.477	Genetic Variation Analysis	0.408	computational structure analysis	0.405	spatial analysis	0.354	urine analysis	0.436	Exome sequencing
+Data dictionary creation	0.451	class prediction data transformation	0.366	oxidation–reduction titration	0.442	Fractionated Radiotherapy	0.339	hybrid cell creation method	0.389	data transformation	0.406	cell fractionation		
+Chikungunya diagnostic tests (ELISA)	0.574	ELISA measuring Chikungunya IgM antibody	0.382	ELISA	0.624	Diagnostic Procedure	0.4	ELISA			0.393	enzyme linked immunosorbent assay		
+Unique ID merging	0.301	detection technique	0.355	infrared dichroism spectroscopy	0.398	Imaging Technique								
+Flat files	0.343	file merge			0.364	Flagellates Measurement			0.335	SPLAT				
+Geographic variation analysis	0.486	canonical variate analysis	0.49	X-ray diffraction	0.713	Genetic Variation Analysis	0.398	computational expression analysis	0.434	spatial analysis	0.379	urine analysis	0.467	Exome sequencing
+Range expansion from one or two refugia	0.391	cell culture expansion			0.464	Cell Expansion			0.459	ExSeq				
+TaqMan assays for species-specific gene fragments detection	0.428	detection of specific nucleic acids with complementary probes assay measuring epitope specific RANTES production by T cells	0.359	mass detection	0.457	Prostate Specific Antigen Measurement	0.48	bioassay specification	0.411	specimen collection process	0.405	ion-selective electrode method		
+Uracil DNA glycosylase					0.431	Glycosylated Hemoglobin Measurement	0.386	DNA	0.396	Deoxyribonuclease digestion				
+Multivariate logistic regression analysis	0.594	multiple linear regression analysis	0.435	activation analysis	0.661	Regression Method	0.419	serial analysis of gene expression	0.43	cap analysis gene expression	0.344	serial analysis of gene expression assay	0.394	Exome sequencing
+Full-length immunoglobulin heavy and light chain genes sequencing	0.408	chain termination sequencing assay			0.777	Immunoglobulin Heavy Chain Sequencing	0.325	Whole Genome Sequencing	0.505	FL-cDNA	0.314	serum globulin analysis	0.421	Sequencing
+Whole exome sequencing	0.802	exome sequencing assay	0.415	phase cycle	0.951	Whole Exome Sequencing	0.82	Whole Genome Sequencing	0.952	exome sequencing			0.98	Exome sequencing
+Widefield imaging	0.602	imaging assay	0.569	imaging mass spectrometry	0.641	Imaging Technique	0.544	imaging method			0.392	magnetic resonance imaging	0.654	Imaging
+SPAdes assembly	0.505	sequence assembly process			0.497	FAQ - Assemble			0.382	BAsE-Seq				
+PCR (Polymerase Chain Reaction)	0.897	polymerase chain reaction	0.309	pulsed laser polymerisation-size exclusion chromatography	0.903	Polymerase Chain Reaction	0.901	polymerase chain reaction	0.917	polymerase chain reaction	0.881	polymerase chain reaction assay	0.927	PCR experiment
+Computed tomography scan	0.76	computed tomography imaging assay	0.414	thermography	0.888	Computed Tomography	0.672	tomography			0.883	computed tomography	0.897	Tomography
+Leucocyte-derived reactive oxygen species (ROS) analysis	0.314	replicate analysis	0.354	activation analysis	0.444	Reactive Therapy			0.33	spatial analysis			0.343	Exome sequencing
+Histidine-rich protein 2-based enzyme-linked immunosorbent assay	0.595	enzyme-linked immunosorbent assay	0.644	ELISA	0.624	ELISA	0.581	enzyme-linked immunosorbent spot assay	0.449	protein assay	0.696	enzyme linked immunosorbent assay		
+Stress mapping	0.505	Lead structure mapping assay	0.556	Raman microscopy	0.583	Gene Mapping	0.478	Epitope Mapping	0.507	m1A mapping				
+Follow-up visits					0.747	Follow-Up			0.753	follow-up				
+Thin blood smear	0.539	blood assay	0.311	thin-film X-ray diffraction	0.785	Thin Smear Technique	0.355	whole blood stability assay	0.416	blood draw	0.343	blood protein analysis		
+Demographic Surveillance System (DSS)	0.544	surveillance process	0.327	thermography	0.587	Surveillance			0.329	digestive system surgery			0.302	MRI
+Osteogenic differentiation	0.46	differential medium assay	0.456	differential isothermal capacitance transient spectroscopy	0.621	Differentiation Therapy	0.398	differential interference contrast microscopy	0.434	differential expression analysis data transformation	0.395	blood differential lipoprotein-cholesterol analysis		
+Worm tracking			0.472	particle-tracking velocimetry	0.57	Eye Tracking			0.313	cell picking	0.46	treadmill method with automated tracking		
+Taxonomic identification of mosquitoes	0.403	histone modification identification by ChIP-Seq assay			0.593	Taxonomic Identification Below Species Level	0.415	nucleic acid identification and quantitation method						
+Standard procedures for cholesterol measurement	0.492	cholesterol assay	0.482	pH measurement	0.728	Cholesterol Measurement	0.416	assay measurement type	0.457	medical procedure	0.611	blood total cholesterol measurement test		
+Immunomodulation	0.419	immunoprecipitation	0.54	force spectroscopy	0.837	Immunomodulation Therapy	0.464	gene expression modulation method	0.409	RIP	0.434	immunoprecipitation	0.446	RNA immunoprecipitation
+DNA binding assays	0.751	binding assay	0.435	imaging assay	0.622	Ligand Binding Assay	0.781	binding assay	0.622	DNA assay				
+Hierarchical clustering	0.947	hierarchical clustering	0.344	static light scattering	0.961	Hierarchical Clustering	0.836	hierarchial clustering	0.411	clone by clone sequencing				
+Next-generation sequencing	0.607	sequencing assay	0.502	sum-frequency generation spectroscopy	0.943	Next Generation Sequencing	0.497	Whole Genome Sequencing	0.776	Nx1-seq			0.643	Sequencing
+Survival and proliferative advantage analysis	0.488	survival analysis data transformation	0.423	activation analysis	0.629	Survival Analysis	0.409	image analysis method	0.399	spatial analysis	0.385	cell proliferation assay	0.394	Exome sequencing
+Physical examination	0.724	physical examination of an organism	0.329	determination of nitrosamines	0.965	Physical Examination	0.545	physical detection method	0.708	checkup	0.304	cell fractionation		
+Surveys	0.303	surveillance process	0.404	photoelectron yield spectroscopy	0.523	Field Survey	0.309	curve fit method						
+Environmental data collection	0.73	environmental material collection process	0.614	environmental scanning electron microscopy	0.532	Environmental Justice Screening and Mapping Tool			0.432	specimen collection process	0.362	body fluid collection method		
+ELISA for sporozoite identification	0.431	parasite species identification by PCR assay	0.395	ELISA	0.596	Lesion Identification	0.463	metabolite identification and profiling assay	0.301	label-free quantification	0.407	enzyme linked immunosorbent assay		
+Ethical approval and consent gathering														
+Plasma isolation	0.548	isolation of cell population	0.522	plasma desorption mass spectrometry	0.609	Cell Sorting	0.438	plasma stability assay	0.559	single cell isolation	0.358	isolated bone method		
+Light microscopy	0.973	light microscopy assay	0.951	optical microscopy	0.992	Light Microscopy	0.812	microscopy	0.717	microscopy assay	0.885	in vivo light microscopy	0.993	Light microscopy
+Cytokine analysis	0.674	cytokine assay	0.646	flow cytometry	0.612	Cytogenetic Analysis	0.495	image analysis method	0.559	data transformation	0.856	blood cytokine analysis	0.607	Exome sequencing
+Somatic hypermutation bias	0.332	hyperlog transformation			0.622	Somatic Mutation Analysis	0.309	conformation determination method	0.316	amputation			0.331	Immunoprecipitation experiment
+Fund allocation analysis	0.458	discriminant function analysis	0.525	laser desorption-ionisation mass spectrometry	0.567	Genetic Variation Analysis	0.441	computational expression analysis	0.481	spatial analysis	0.42	urine analysis	0.517	Exome sequencing
+Interview questionnaire					0.806	CHART-SF Interview Version Questionnaire Question			0.402	medical procedure				
+Single-cell based high-throughput sequencing	0.661	genotyping by high throughput sequencing assay	0.323	phase cycle	0.639	Single Cell RNA Sequencing	0.427	low throughput screening	0.72	single cell sequencing	0.581	high throughput expression assay	0.534	Sequencing
+Epidemiological data collection	0.392	cell collecting	0.322	electrochemical detection	0.625	Epidemiological Method	0.382	electrophysiological method	0.409	specimen collection process	0.438	bioassay	0.409	Bioimaging
+Population comparison analysis	0.506	isolation of cell population	0.469	laser desorption-ionisation mass spectrometry	0.775	Population Analysis	0.487	computational expression analysis	0.532	single cell isolation	0.378	ex vivo analysis of atomic composition	0.443	Exome sequencing
+Obfuscation of dates for participant privacy	0.316	data partitioning			0.342	MPAI-4 - Participation: Initiation								
+preprocessing pipeline (SEQC)	0.464	material processing			0.565	Preprocess	0.547	processing method	0.489	data transformation				
+Deep profiling	0.548	lipid profiling assay	0.472	profilometry	0.632	Isotope-Coded Affinity Tag Protein Analysis	0.668	protein profiling assay	0.563	proteomic profiling	0.641	high throughput proteomic profiling	0.527	RNA-Seq
+Geospatial Analysis	0.494	dialysis	0.552	X-ray diffraction	0.546	Genetic Testing	0.511	pathway analysis	0.847	spatial analysis	0.464	urine analysis	0.572	Exome sequencing
+Structured questionnaire administration	0.51	oral administration	0.447	X-ray diffraction	0.853	Questionnaire Administration	0.543	structure generation	0.419	Structure-Seq				
+Immune-labeling markers	0.509	specific labeling			0.469	Plasma Cell Labeling Index	0.565	immunolabeling method	0.591	labelling	0.323	multiphase pCASL MRI		
+Cell wall fraction analysis	0.525	cell lysis	0.64	diffraction method	0.595	Mid Cell Fraction Measurement	0.431	IN Cell Analyzer	0.439	data transformation	0.631	cell fractionation	0.476	Exome sequencing
+Statistical methods	0.465	statistical model validation	0.638	statistical total correlation spectroscopy	0.897	Statistical Technique	0.903	statistical method	0.354	UMI Method	0.37	in vivo measuring stick method	0.415	Chromosome conformation capture
+Forced heterodimer MyoD~E12 (MDE) expression	0.34	vector mediated expression			0.404	IgG Expression Measurement	0.424	gene expression detection method	0.333	knock in expression	0.475	expression assay		
+Attractiveness assessment	0.461	survival assessment assay	0.405	nanowire electron scattering	0.654	Physical Examination	0.472	binding assessment method			0.542	wildness/tameness assessment method		
+Microscopy diagnosis	0.976	microscopy assay	0.972	microscopy	0.993	Microscopy	0.995	microscopy	0.878	microscopy assay	0.836	in vivo microscopy	0.746	Light microscopy
+Active and passive malaria case detection	0.441	ligase detection reaction	0.519	mass detection	0.588	Pet is as Active as it Has Been	0.433	caspase activity determination	0.351	Ribo-seq	0.302	ribonuclease protection assay		
+Innovation assessment	0.477	survival assessment assay			0.684	Physical Examination	0.523	protein conformation assessment			0.476	in vivo visual assessment		
+Data analysis	0.759	data analysis service	0.676	X-ray diffraction	0.651	DNA Analysis	0.598	sequencing data analysis software	0.996	data transformation	0.568	urine analysis	0.701	Exome sequencing
+Biological sample collection	0.525	histological sample preparation			0.965	Biospecimen Collection	0.404	electrophysiological method	0.763	specimen collection process	0.581	bioassay	0.538	Bioimaging
+X-ray crystallography	0.58	X-ray crystallography 3D molecular structure determination assay	0.877	X-ray diffraction	0.877	Crystallography	0.98	x ray crystallography			0.406	tomography	0.88	X-ray diffraction
+Metagenomic sequencing	0.683	whole metagenome sequencing assay	0.405	phase cycle	0.668	Biopolymer Sequencing	0.593	Whole Genome Sequencing	0.815	16S metagenomic sequencing			0.98	Metagenomic sequencing
+Laboratory tests	0.591	laboratory animal care	0.324	scanning tunnelling spectroscopy	0.896	Laboratory Procedure								
+Stable isotope analysis	0.404	replicate analysis	0.646	stable isotope ratio mass spectrometry	0.514	DNA Stability Analysis	0.44	structure analysis method	0.488	data transformation	0.43	urine analysis	0.53	Exome sequencing
+Reduced Representation Bisulfite Sequencing (RRBS)	0.891	reduced representation bisulfite sequencing assay			0.81	Reduced-Representation Bisulfite Sequencing	0.608	Bisulfite Sequencing assay	0.69	RRMAB-seq			0.464	Sequencing
+Review of hospital discharge codes			0.585	discharge mass spectrometry	0.632	Clinical Status Ordinal Scale Outcome 1	0.345	charge coupled device						
+T-cell receptor beta (TCRb) sequencing	0.611	T cell receptor repertoire sequencing assay	0.334	phase cycle	0.658	T Cell Receptor Repertoire Sequencing	0.501	receptor	0.541	single cell sequencing			0.566	Sequencing
+Random number algorithm	0.486	probabilistic algorithm			0.526	Randomization	0.525	genetic algorithm method	0.529	DNA shearing	0.312	random zero sphygmomanometer		
+SPAdes preassembly	0.469	sequence assembly process			0.396	FAQ - Assemble			0.32	BAsE-Seq				
+Phylogenetic analysis	0.439	network analysis	0.561	titration	0.985	Phylogenetic Analysis	0.815	computational phylogenetic analysis	0.5	data transformation	0.44	urine analysis	0.543	Exome sequencing
+High-throughput sequencing	0.837	genotyping by high throughput sequencing assay	0.379	phase cycle	0.676	High Throughput Screening	0.533	low throughput screening	0.891	assay by high throughput sequencer	0.76	high throughput expression assay	0.643	Sequencing
+CyTOF experiments	0.559	epitope protection experiment	0.688	nuclear Overhauser enhancement spectroscopy	0.708	Experiment	0.499	experimental design method	0.32	CytoSeq			0.542	RNAi experiment
+C. elegans behavioral database					0.511	Behavioral Intervention	0.401	organism behavior assay	0.468	behavioral stimulus				
+Staining with DAPI	0.682	staining	0.458	negative-staining transmission electron microscopy	0.693	Staining Method	0.444	vital dye staining	0.373	cytokine secretion assay				
+Covariance matrix	0.457	variance calculation	0.328	excitation–emission matrix fluorescence spectroscopy	0.606	Variance	0.507	distance matrix alignment	0.383	raw matrix generation				
+Rapid malaria test	0.63	malaria rapid diagnosis assay	0.399	rapid-scan infrared absorption spectroscopy	0.655	Plasmodium Measurement	0.301	RapidFire Mass Spec			0.358	Schirmer test		
+Demographic surveillance	0.603	surveillance process	0.386	thermography	0.692	Surveillance	0.335	tomography			0.33	tomography	0.357	MRI
+Ethical review					0.604	Medical Chart Review								
+Integron analysis	0.489	regression analysis method	0.586	X-ray diffraction	0.602	Regression Method	0.635	integrated pathway analysis	0.559	data transformation	0.492	urine analysis	0.607	Exome sequencing
+Network analysis	0.978	network analysis	0.605	X-ray diffraction	0.972	Pathway Analysis	0.984	network analysis	0.577	data transformation	0.508	urine analysis	0.627	Exome sequencing
+Data dictionaries	0.438	class prediction data transformation	0.316	differential interference contrast microscopy	0.307	Direct Antiglobulin Test	0.304	data based structure generation	0.35	data transformation				
+Extracellular matrix (ECM) detection	0.488	submatrix extraction	0.481	mass detection	0.554	Extracellular Water Measurement	0.355	gene expression detection method	0.353	cellular modification	0.412	intracellular calcium assay		
+Data collection method	0.472	cell collecting	0.615	reflection method	0.6	Gravity Drip Collection Method	0.474	transfection method	0.493	specimen collection process	0.602	body fluid collection method		
+density gradient centrifugation	0.622	centrifugation	0.502	pulsed field gradient	0.933	Density Gradient Centrifugation	0.433	conjugate gradient method	0.968	density gradient centrifugation	0.666	centrifugation		
+Geographic location/study sites	0.358	study intervention			0.475	Electrocardiographic Study	0.312	localization assay						
+Outcome evaluation	0.471	liver evaluation venous blood protein assay			0.626	Oral Examination					0.365	free radical elective evaluator photometry		
+Thick blood smear staining	0.569	staining	0.382	negative-staining transmission electron microscopy	0.644	Thick Smear Technique	0.37	vital dye staining	0.329	blood draw	0.313	blood creatinine analysis		
+Phone calls			0.489	multi-angle light scattering	0.423	Multi-Angle Laser Light Scattering								
+Myeloperoxidase activity analysis	0.39	acyl-CoA oxidase activity level assay	0.503	activation analysis	0.685	Myeloperoxidase Measurement	0.431	kinase activity assay	0.402	data transformation	0.487	blood renin activity assay	0.436	Exome sequencing
+Fibrosis marker analysis	0.482	dialysis	0.569	X-ray diffraction	0.662	Fibrosis Assessment	0.488	image analysis method	0.538	data transformation	0.482	urine analysis	0.595	Exome sequencing
+Probability Proportion to Size (PPS) technique	0.458	detection technique	0.47	scanning vibrating electrode technique	0.447	Dose Proportionality Study	0.352	protein stability assay						
+Household surveys					0.586	Panel Study of Income Dynamics, Wealth Supplement								
+Competing risk regression analysis	0.638	regression analysis method	0.421	X-ray diffraction	0.732	Regression Method	0.551	computational expression analysis	0.476	cap analysis gene expression	0.358	bone compression test	0.436	Exome sequencing
+Geographic location/study sites selection	0.485	selection	0.394	site-selection spectroscopy	0.484	Action Study	0.336	affinity selection	0.374	hybrid selection of targets				
+Whole genome sequencing	0.955	whole genome sequencing assay	0.405	phase cycle	0.978	Whole Genome Sequencing	0.982	Whole Genome Sequencing	0.739	exome sequencing			0.98	Whole genome sequencing
+Transcriptome sequencing	0.843	metatranscriptome sequencing assay	0.387	phase cycle	0.979	Whole Transcriptome Sequencing	0.511	Whole Genome Sequencing	0.805	G&T-Seq	0.454	high throughput transcription profiling by array	0.733	RNA-Seq
+Pharyngocirrus isolation and sequencing	0.532	chromatin isolation by RNA purification sequencing assay	0.413	phase cycle	0.533	Nucleic Acid Sequencing	0.361	Whole Genome Sequencing	0.425	DNA-seq			0.548	Sequencing
+Qualitative data collection	0.423	cell collecting	0.335	quantitative determination method	0.561	Prospective Tissue Collection	0.391	quantitative PCR	0.441	specimen collection process	0.376	body fluid collection method		
+Reverse Transcription Polymerase Chain Reaction (RT-PCR)	0.889	reverse transcription polymerase chain reaction assay	0.356	proton transfer reaction mass spectrometry	0.91	Reverse Transcriptase-Polymerase Chain Reaction	0.688	polymerase chain reaction	0.921	reverse transcribed polymerase chain reaction	0.923	reverse transcription polymerase chain reaction assay	0.729	PCR experiment
+Quantitative real-time PCR	0.504	quantitative venous blood IgA assay	0.458	quantitative determination method	0.964	Real Time PCR	0.799	quantitative PCR	0.36	polymerase chain reaction	0.683	real-time polymerase chain reaction assay		
+Incidence rate calculation	0.484	variance calculation	0.411	electron coincidence spectroscopy	0.497	Intraocular Lens Power Calculation	0.385	calculated value						
+Bar-coded pyrosequencing	0.74	pyrosequencing assay	0.34	phase cycle	0.771	Pyrosequencing	0.404	Whole Genome Sequencing	0.733	454 Sequencing			0.599	Sequencing
+Data adjustment	0.366	data vector reduction data transformation			0.615	Adjusted Bonferroni Correction	0.315	sequencing data alignment software	0.325	data transformation				
+Rapid diagnostic testing	0.669	falcivax rapid diagnostic test	0.326	rapid-scan infrared absorption spectroscopy	0.757	Diagnostic Procedure								
+Ecologically relevant memory-extinction experiences analysis	0.321	serial analysis of gene expression assay	0.389	optical extinction spectroscopy	0.393	Experience Question	0.34	computational expression analysis	0.346	high content analysis of cells by morphological and physical properties	0.348	ex vivo biological fluid analysis	0.374	Exome sequencing
+T-cell receptor beta sequencing	0.655	T cell receptor repertoire sequencing assay	0.358	phase cycle	0.705	T Cell Receptor Repertoire Sequencing	0.537	receptor	0.58	single cell sequencing			0.606	Sequencing
+Regenerative medicine			0.323	degenerate four-wave mixing spectroscopy	0.735	Regenerative Medical Therapy	0.338	tricine						
+Associative learning	0.454	machine learning	0.387	laser dissociation spectroscopy	0.445	Associated Study	0.309	assay narrative	0.348	sample dissociation	0.357	observational fear learning apparatus method		
+Repertoire sequencing	0.773	T cell receptor repertoire sequencing assay	0.415	phase cycle	0.789	B Cell Receptor Repertoire Sequencing	0.464	Whole Genome Sequencing	0.724	single cell immune repertoire sequencing			0.704	Sequencing
+Biofilm morphotyping	0.407	genotyping assay			0.424	Genotyping	0.385	genotyping method	0.417	genotyping			0.335	Genotyping experiment
+Census Database Construction	0.33	network graph construction			0.549	Reconstructive Surgery	0.498	structure database search	0.519	library preparation				
+Tissue morphogenesis tracking	0.301	transgenic mutagenesis	0.315	particle-tracking velocimetry	0.38	Eye Tracking	0.42	tissue binding assay			0.359	tissue force analysis		
+Transconjugant analysis	0.446	sequence analysis data transformation	0.499	X-ray diffraction	0.486	DNA Image Cytometry	0.422	image analysis method	0.477	data transformation	0.42	urine analysis	0.517	Exome sequencing
+PCR (Polymerase Chain Reaction) testing	0.796	polymerase chain reaction			0.801	Polymerase Chain Reaction	0.8	polymerase chain reaction	0.814	polymerase chain reaction	0.782	polymerase chain reaction assay	0.823	PCR experiment
+Genetic polymorphism analysis	0.419	restriction fragment length polymorphism assay	0.483	titration	0.841	Polymorphism Analysis	0.472	computational phylogenetic analysis	0.433	cap analysis gene expression	0.379	urine analysis	0.467	Exome sequencing
+Strategic analysis	0.496	replicate analysis	0.568	X-ray diffraction	0.551	Genetic Testing	0.536	structure analysis method	0.542	data transformation	0.477	urine analysis	0.589	Exome sequencing
+Modeling	0.362	mode calculation	0.379	dynamic force microscopy	0.967	Modeling	0.678	MODELLER homology modeling	0.379	labelling				
+community-based trial					0.842	Community Trial	0.37	optical based						
+Sequencing	0.94	sequencing assay	0.588	phase cycle	0.969	Nucleic Acid Sequencing	0.656	Whole Genome Sequencing	0.772	DNA-seq			0.996	Sequencing
+Study documentation	0.566	documenting			0.555	Action Study	0.359	complementation method	0.441	group assignment	0.436	in vivo videography with digital image analysis		
+Long-lasting insecticide treated bednet distribution	0.38	insecticide resistance by ligase detection reaction assay	0.378	energy-dispersive X-ray emission spectroscopy	0.435	Statistical Distribution	0.386	redistribution assay	0.329	dissection				
+T cell receptor deep sequencing	0.655	T cell receptor repertoire sequencing assay	0.358	phase cycle	0.705	T Cell Receptor Repertoire Sequencing	0.537	receptor	0.58	single cell sequencing			0.606	Sequencing
+Structured questionnaire	0.429	3D structure determination assay	0.434	X-ray diffraction	0.674	CES Questionnaire Question	0.52	structure generation	0.516	Structure-Seq				
+cDNA synthesis	0.807	synthesis	0.331	X-ray photoelectron spectroscopy	0.66	Drug Synthesis and Chemistry Branch	0.544	cDNA	0.547	cDNA library construction	0.555	cDNA clone-based transcript expression assay		
+Simplified images of copulating pairs			0.348	secondary ion mass spectrometry imaging	0.333	Population Based Sampling							0.308	Imaging
+Software analysis	0.561	compiling software	0.586	X-ray diffraction	0.564	DNA Analysis	0.883	image analysis software	0.559	data transformation	0.492	urine analysis	0.607	Exome sequencing
+Audio file format conversion	0.312	quantile transformation	0.34	inversion recovery	0.328	Tubule Formation Assessment	0.314	conformation determination method			0.3	audiometry		
+Dengue diagnostic tests (RDT, ELISA)	0.418	falcivax rapid diagnostic test	0.395	ELISA	0.645	Diagnostic Procedure	0.414	ELISA			0.407	enzyme linked immunosorbent assay		
+microscopy	0.976	microscopy assay	0.972	microscopy	0.993	Microscopy	0.995	microscopy	0.878	microscopy assay	0.836	in vivo microscopy	0.746	Light microscopy
+Medical history collection	0.431	cell collecting	0.311	electrochemical detection	0.971	Medical History Taking	0.308	physical detection method	0.45	specimen collection process	0.409	body fluid collection method	0.438	Medical imaging
+Cancer detection classification	0.419	ligase detection reaction	0.556	mass detection	0.706	Cancer Detection	0.511	statistical classification method	0.453	classifier prediction	0.332	cell fractionation		
+Incubated soil microcosms			0.331	microscopy	0.399	Microcyte Count	0.308	microplate			0.331	micro-computed tomography		
+rapid HIV test	0.538	rapid plasma reagin test	0.46	rapid-scan infrared absorption spectroscopy	0.664	Rapid Antigen Test			0.332	RAP	0.36	grid test		
+Coadministration of PPAR? antagonist GW9662	0.489	oral administration			0.527	Medication Administration								
+Integer topological defect analysis	0.365	replicate analysis	0.441	electrochemical analysis	0.423	Isotope-Coded Affinity Tag Protein Analysis	0.397	integrated pathway analysis	0.431	high content analysis of cells by morphological and physical properties	0.43	ex vivo biological fluid analysis	0.429	Exome sequencing
+Island model	0.353	statistical model validation			0.487	Modeling	0.417	MODELLER homology modeling						
+Cell culture monitoring (Celliq)	0.634	cell culture assay	0.445	single-ion monitoring	0.705	Cell Culture	0.631	cell culture method	0.377	single cell sequencing	0.38	blood cell counting method		
+baseline assessments	0.448	survival assessment assay			0.657	Physical Examination	0.494	S phase assessment method			0.418	in vivo visual assessment		
+Mass drug administration	0.618	oral administration	0.391	electron ionisation mass spectrometry	0.672	Medication Administration	0.402	drug interaction assay						
+Data integration	0.471	data vector reduction data transformation	0.434	static light scattering	0.467	Integrated Pain Scale	0.421	data based structure generation	0.439	data transformation				
+Vegetative growth measurements	0.432	mass measurement assay	0.562	thermogravimetry	0.574	Nerve Growth Factor Measurement	0.436	assay measurement type	0.389	population growth assay	0.38	radioactivity measurement method		
+Data collection from source documents	0.446	documenting	0.323	plasma mass spectrometry	0.461	Collection of Non-Human Source Plasma	0.346	light source	0.417	specimen collection process	0.349	body fluid collection method		
+Hamming distance	0.357	administering substance in vivo	0.378	polarisation inversion and spin exchange at the magic angle	0.624	Distance Healing	0.462	distance comparison modeling	0.389	Ren-Seq				
+Geographic clustering	0.454	hierarchical clustering	0.408	thermography	0.675	Cluster Analysis	0.509	k means clustering						
+Verbal autopsy	0.374	biopsy	0.437	only para-hydrogen spectroscopy	0.733	Autopsy			0.361	biopsy	0.691	autopsy		
+single-cell RNA and T cell receptor (TCR) sequencing	0.709	single cell T cell receptor repertoire sequencing assay	0.335	fluorescence-activated cell sorting	0.792	Single Cell RNA Sequencing	0.398	receptor	0.828	single-cell RNA sequencing	0.375	blood cell counting method	0.541	RNA-Seq
+Metabolomics	0.408	metabolite profiling assay	0.353	image correlation spectroscopy	0.466	Metabolic Therapy	0.815	metabolomic assay	0.747	metabolomic profiling	0.384	metabolic cage urine volume measurement method	0.355	Metagenomic sequencing
+Codebook creation	0.472	creatine concentration assay			0.449	Creatinine Measurement	0.373	hybrid cell creation method			0.313	blood creatinine analysis		
+Solid media analysis	0.523	dialysis	0.552	X-ray diffraction	0.545	Sediment Analysis	0.505	image analysis method	0.527	data transformation	0.464	urine analysis	0.572	Exome sequencing
+Measurement of blood lipids	0.514	mass measurement assay	0.655	pH measurement	0.706	Lipid Measurement	0.534	cell movement measurement method	0.445	blood vessel replacement	0.609	blood total phospholipid measurement test		
+Review of Medicare claims					0.579	Medical Chart Review			0.33	medical procedure			0.321	Medical imaging
+Retrospective study	0.374	study intervention	0.342	microspectroscopy	0.985	Retrospective Study	0.333	Dose Response Study	0.354	group assignment	0.346	spectrometry	0.306	NMR
+PCR (Polymerase Chain Reaction) followed by DNA sequencing	0.667	polymerase chain reaction	0.338	phase cycle	0.671	Polymerase Chain Reaction	0.67	polymerase chain reaction	0.682	polymerase chain reaction	0.655	polymerase chain reaction assay	0.689	PCR experiment
+Immunoprecipitation	0.944	immunoprecipitation			0.957	Immunoprecipitation	0.961	immunoprecipitation	0.926	RIP	0.976	immunoprecipitation	0.928	RNA immunoprecipitation
+C. elegans behavioral tracking			0.321	particle-tracking velocimetry	0.536	Behavioral Rating Scale	0.401	organism behavior assay	0.468	behavioral stimulus	0.313	treadmill method with automated tracking		
+Risk factor assessment	0.477	survival assessment assay			0.968	Risk Factor Assessment	0.489	assay quality assessment method			0.443	in vivo visual assessment		
+Bacterial Culture	0.586	cell culture assay			0.633	Microbial Culture Procedure	0.518	bacterial infection method			0.438	arterial puncture		
+Neutrophil recruitment analysis	0.573	neutrophil assay	0.5	neutron diffraction	0.535	Neutrophil Count	0.434	Arrestin2 recruitment assay	0.415	data transformation	0.366	urine analysis	0.451	Exome sequencing
+2-D artificial stimuli	0.348	artificially induced methylation	0.311	stimulated Raman spectroscopy	0.527	Use Artificial Tears	0.395	parallel artificial membrane permeation assay	0.49	artificial cardiac pacemaker				
+Hepatocyte growth factor (HGF) expression analysis	0.5	serial analysis of gene expression assay	0.378	diffraction method	0.719	MET Mutation Analysis	0.518	computational expression analysis	0.537	cap analysis gene expression	0.44	expression assay	0.4	Exome sequencing
+written informed consent	0.679	informed consent process			0.364	Have Problems Learning About Medical Condition Due to Difficulty Understanding Written Information								
+Endoplasmic reticulum unfolded protein response	0.366	protein assay			0.388	Total Protein Measurement	0.423	protein unfolding assay	0.314	protein assay	0.331	automated plasma protein analysis		
+Transcription profiling	0.925	transcription profiling assay	0.389	Fourier profilometry	0.515	Fusion Transcript Sequencing	0.871	transcriptional profiling assay	0.982	transcription profiling	0.68	high throughput transcription profiling by tiling array	0.833	RNA-Seq
+Healthy baseline study	0.355	study intervention			0.63	Baseline Epoch	0.359	preclinical study	0.369	self rated health				
+Polymerase Chain Reaction (PCR)	0.897	polymerase chain reaction	0.309	pulsed laser polymerisation-size exclusion chromatography	0.903	Polymerase Chain Reaction	0.901	polymerase chain reaction	0.917	polymerase chain reaction	0.881	polymerase chain reaction assay	0.927	PCR experiment
+Isolation and identification of primary lung telocytes	0.419	isolation of cell population	0.318	polarization modulation infrared reflection–adsorption spectroscopy	0.549	Lesion Identification	0.412	nucleic acid identification and quantitation method	0.468	single cell isolation				
+Ethical approvals documentation	0.446	documenting			0.406	Medical Record Documentation about this History of Cancer Treatment	0.355	chemical complementation	0.319	ChIPmentation	0.363	in vivo videography with digital image analysis		
+data compilation	0.533	data combination	0.31	oxidation–reduction titration	0.36	Genomic Data Commons	0.375	data based structure generation	0.439	data transformation	0.354	computational method		
+Acknowledgements			0.301	thermogravimetry	0.542	Knowledge Question	0.416	knowledge based scoring function						
+Data collection using Case Report Forms (CRFs)	0.393	cell collecting			0.502	Case Study			0.358	specimen collection process	0.305	body fluid collection method		
+Blood sample collection	0.461	cell collecting	0.329	multiple collector inductively coupled plasma mass spectrometry	0.645	Blood Product Collection	0.332	whole blood stability assay	0.849	specimen collection process	0.437	body fluid collection method		
+DNA-based fingerprinting analysis	0.692	DNA fingerprinting assay	0.414	X-ray diffraction	0.737	DNA Fingerprinting	0.397	shape fingerprint search	0.395	data transformation	0.409	urine analysis	0.429	Exome sequencing
+Genome scans	0.4	KINOMEscan assay			0.854	Genome Scan	0.375	genomic DNA	0.502	G&T-Seq	0.306	scintigraphy	0.523	Whole genome sequencing
+Blood smear preparation	0.457	library preparation	0.307	presaturation	0.682	Prepare Your Meals	0.655	preparation method	0.521	library preparation	0.388	molecular separation method		
+Funding analysis	0.5	discriminant function analysis	0.605	X-ray diffraction	0.582	DNA Analysis	0.511	image analysis method	0.577	data transformation	0.508	urine analysis	0.627	Exome sequencing
+Illumina HumanMethylation450 BeadChip array	0.435	DNA methylation profiling by array assay			0.619	Illumina Infinium Methylation BeadChip System	0.343	array	0.443	methylation profiling by array				
+data analysis	0.759	data analysis service	0.676	X-ray diffraction	0.651	DNA Analysis	0.598	sequencing data analysis software	0.996	data transformation	0.568	urine analysis	0.701	Exome sequencing
+Experimental manipulation	0.547	experimental disease induction	0.512	circular dichroism titration	0.594	Experimental Nutrition	0.608	experimental specification	0.352	single cell isolation			0.612	Simulation experiment
+Standardized questionnaire	0.344	standard deviation calculation	0.357	standard atomic force infrared microscopy	0.726	LEC-5 Standard Version Questionnaire Question	0.41	standard deviation					0.553	Echography
+Passive surveillance	0.664	surveillance process			0.767	Patient Observation					0.318	Na+ passive permeability assay		
+Inverted microscopy	0.727	microscopy assay	0.725	microscopy	0.74	Microscopy	0.741	microscopy	0.655	microscopy assay	0.803	ex vivo light microscopy with inverted microscope	0.556	Light microscopy
+Quantitative data collection	0.474	quantitative venous blood IgA assay	0.48	quantitative determination method	0.55	Prospective Tissue Collection	0.573	quantitative PCR	0.432	specimen collection process	0.484	quantitative computed tomography		
+Gene expression analysis	0.853	serial analysis of gene expression assay	0.499	X-ray diffraction	0.978	Gene Expression Analysis	0.814	serial analysis of gene expression	0.924	cap analysis gene expression	0.772	serial analysis of gene expression assay	0.56	Exome sequencing
+Digitization	0.494	digital curation	0.456	ionisation spectroscopy	0.565	Somatization Scale	0.383	percent inhibition normalization	0.409	Digital RNA	0.34	whole body digital scale		
+NanoString nCounter System	0.588	Nanostring nCounter miRNA expression assay	0.309	scanning transmission electron microscopy	0.853	NanoString nCounter Analysis System	0.629	Nanostring	0.439	transcription profiling by NanoString	0.411	computerized assessment of in vivo video recording		
+ARDRA (Amplified Ribosomal DNA Restriction Analysis)	0.389	insecticide resistance by primer introduced restriction analysis PCR assay	0.38	thermal analysis	0.518	MET Amplification Status	0.333	computational expression analysis	0.365	restriction digest			0.362	Exome sequencing
+Knock-out study	0.707	gene knock out			0.613	DICOM Study	0.501	gene knock in	0.435	knock in expression	0.336	knock-in in situ reporter assay		
+Biochemical tests	0.388	chemical cleavage	0.508	bioelectrochemical analysis	0.804	Biochemical Diagnosis	0.447	physicochemical	0.422	enzyme-free chemical dissociation	0.465	blood glucose test strip read by electrochemical glucometer	0.339	Bioimaging
+Rapid diagnostic test (RDT)	0.706	falcivax rapid diagnostic test	0.34	rapid-scan infrared absorption spectroscopy	0.784	Diagnostic Procedure								
+Phosphorylation	0.565	fluorescence imaging-based protein phosphorylation state assay	0.58	phosphorescence detection	0.67	Phosphorylated STAT3 Measurement	0.925	phosphorylation assay	0.963	enrichment of phosphorylated protein	0.404	blood phospholipid analysis		
+Intracellular cellulose production analysis	0.497	intracellular cytokine staining assay measuring epitope specific RANTES production by T cells	0.405	diffraction method	0.623	Cellularity Measurement	0.345	IN Cell Analyzer	0.44	cellular modification	0.56	intracellular calcium assay	0.35	Exome sequencing
+ELISA technique	0.74	detection technique	0.697	time-of-flight method	0.698	Axillary Reverse Mapping	0.596	ELISA	0.307	10x technology	0.585	enzyme linked immunosorbent assay		
+Memory extinction	0.374	extraction	0.669	optical extinction spectroscopy	0.553	Memory Question								
+Health care utilization and coverage survey (HUCS)					0.586	Healthcare Utilization								
+Cleaning and merging of datasets	0.399	dataset creating			0.377	Cleaning Windows								
+Autopsy	0.51	biopsy	0.596	only para-hydrogen spectroscopy	0.998	Autopsy	0.319	automated cytometer	0.492	biopsy	0.942	autopsy		
+SOP development	0.653	software development			0.711	Method Development	0.619	method development and validation						
+Treatment assessment	0.703	treatment	0.351	triple-resonance spectroscopy	0.73	Physical Examination	0.543	binding assessment method	0.314	assay by instrument	0.494	in vivo visual assessment		
+Questionnaire data collection	0.399	aspiration specimen collection	0.308	polarization modulation infrared reflection–adsorption spectroscopy	0.687	DAD Questionnaire Question	0.309	data based structure generation	0.448	specimen collection process	0.394	body fluid collection method		
+Ethical approval from multiple committees and councils	0.307	multiple testing correction method	0.321	multiple-modulation multiple-echo velocimetry	0.351	Multiple Time Graphical Analysis	0.347	multiple concentration						
+Nutritional supplementation			0.374	time proportional phase incrementation	0.945	Nutritional Supplementation	0.488	complementation method	0.372	ChIPmentation	0.353	cell fractionation		
+Transposase mediated construction	0.449	transposase-mediated analysis of chromatin looping assay			0.503	Reconstructive Surgery	0.388	incremental construction method	0.475	library preparation				
+Anonymization	0.414	expectation maximization	0.467	furnace atomisation electron ionisation mass spectrometry	0.547	Minimization Randomization	0.372	lead optimization assay	0.305	normalization data transformation				
+Cluster-randomized controlled trial	0.305	group randomization	0.404	potentiostatic coulometry	0.858	Randomized Controlled Clinical Trial	0.433	coupled cluster method	0.341	DNA shearing				
+Genotyping by sequencing (GBS)	0.632	sequencing assay	0.358	phase cycle	0.659	Biopolymer Sequencing	0.603	genotyping method	0.653	genotyping			0.711	Sequencing
+Protocol development	0.516	software development	0.336	1H nuclear magnetic resonance spectroscopy	0.611	Method Development	0.595	assay protocol	0.353	PASP				
+Candidate gene studies			0.395	flow cytometry	0.459	Cytogenetic Analysis	0.446	gene						
+Data collection	0.565	cell collecting	0.354	reflection electron microscopy	0.649	Stool Collection	0.353	data based structure generation	0.589	specimen collection process	0.503	body fluid collection method		
+Meta-analysis using inverse of variance weighting	0.352	edge weighting	0.342	X-ray diffraction	0.608	Analysis of Variance	0.336	image analysis method	0.373	data transformation	0.307	automated plasma analysis using Beckman analyzer	0.354	Exome sequencing
+Cleaned .csv data files	0.314	data vector reduction data transformation	0.396	cathodic stripping voltammetry	0.33	Epidermal cGVHD Score 0	0.309	database filtering						
+Efferocytosis analysis	0.492	dialysis	0.581	X-ray diffraction	0.559	DNA Analysis	0.497	image analysis method	0.549	data transformation	0.492	urine analysis	0.607	Exome sequencing
+Protein engineering	0.578	protein assay			0.613	Total Protein Measurement	0.622	protein	0.497	protein assay	0.523	urine protein analysis	0.394	Protein interaction experiment
+Experimental data analysis	0.537	data analysis service	0.623	elemental analysis	0.589	Investigational Arm	0.534	experimental design method	0.704	data transformation	0.402	urine analysis	0.536	Exome sequencing
+Presumptive treatment	0.641	treatment			0.652	Therapeutic Procedure	0.328	gene knockdown by morpholino treatment						
+Universal long-lasting insecticide treated bednet campaigns	0.319	insecticide resistance assay			0.339	How Long Not Feeling Like Eating Lasted	0.321	screening campaign						
+Simulated heatwaves			0.404	stimulated Raman spectroscopy	0.529	Computer Modeling	0.472	simulated annealing	0.352	Simul-seq			0.41	Simulation experiment
+Visualization through interactive tools	0.484	data visualization	0.312	extractive electrospray ionisation mass spectrometry	0.454	Educational Intervention	0.457	chromatin condensation visualization	0.38	Frac-Seq	0.317	high throughput expression assay	0.357	Protein interaction experiment
+Health center surveillance study	0.537	surveillance process			0.616	Surveillance	0.319	portal vein study	0.311	group assignment	0.334	Health-O-Meter balance beam Scale		
+Machine learning classifier	0.731	machine learning			0.405	Machinery Heart Murmur			0.492	classifier prediction	0.367	machine read urine potassium test strip		
+Microscopic examination	0.512	microscopy assay	0.572	ion microscopy	0.968	Microscopic Examination	0.517	microscope	0.518	checkup	0.487	ex vivo microscopy	0.418	Electron microscopy
+DNA methylation quantification	0.527	DNA methylation profiling assay	0.394	quantitative determination method	0.688	DNA Methylation Analysis	0.544	nucleic acid identification and quantitation method	0.514	methylation profiling	0.343	quantitative reverse transcription polymerase chain reaction assay	0.501	Methylated DNA immunoprecipitation
+Institutional ethical clearance	0.381	reconstitution assay			0.543	Renal Clearance	0.534	clearance						
+Administration of a detailed clinical questionnaire	0.501	cervical administration	0.311	desorption chemical ionisation mass spectrometry	0.774	Questionnaire Administration	0.303	ion redistribution determination method						
+Spatial mapping via Global Positioning System (GPS)	0.332	material portioning	0.341	Raman microscopy	0.439	Global Rating	0.33	vial	0.329	NanoString digital spatial profiling				
+Randomization	0.726	group randomization	0.511	furnace atomisation electron ionisation mass spectrometry	0.937	Randomization	0.42	randomized block design	0.551	DNA shearing				
+Predator-prey size models			0.471	paramagnetic relaxation enhancement	0.331	Vaginal Dilator Size	0.53	PREDATOR structure prediction						
+Codebooks					0.434	CO-Detection by indEXing	0.379	SlideBook software						
+financial support	0.498	support service			0.603	Financial Question	0.464	assay supporting method						
+Cluster randomized trial	0.38	group randomization			0.754	Randomization	0.466	randomized block design	0.424	DNA shearing				
+Data encryption	0.465	data vector reduction data transformation			0.42	Cryptitis Assessment	0.353	data based structure generation	0.411	data transformation				
+Sensit H14-LIN sensor	0.349	position sense assessment	0.504	pH measurement	0.495	Breast Cancer Surgeon was Sensitive	0.483	electrical sensor	0.314	DNase-hypersensitivity seq	0.365	sensation test		
+Compression (gzip)	0.311	protein expression profiling assay			0.647	Compression Therapy	0.442	computational expression analysis	0.338	knock in expression	0.669	bone compression test		
+Specimen collection	0.769	aspiration specimen collection	0.409	reflectance spectroscopy	0.96	Biospecimen Collection	0.377	experimental specification	0.975	specimen collection process	0.443	body fluid collection method		
+Data conversion	0.431	data vector reduction data transformation	0.424	inversion recovery	0.38	Conventional Imaging	0.324	data based structure generation	0.373	data transformation				
+FST outlier method	0.338	leave one out cross validation method	0.478	time-of-flight method	0.478	Potentiometry	0.5	assay method	0.457	UMI Method	0.38	in vivo method	0.302	Chromosome conformation capture
+Next-generation sequencing (NGS)	0.572	sequencing assay	0.473	sum-frequency generation spectroscopy	0.889	Next Generation Sequencing	0.468	Whole Genome Sequencing	0.732	Nx1-seq			0.606	Sequencing
+Ethical conduct compliance			0.422	conductometry	0.584	Trial Compliance	0.332	complementary metal oxide semiconductor						
+Endonuclease VIII	0.535	endonuclease mediated mutagenesis	0.344	electron nuclear double resonance spectroscopy	0.435	Enucleation			0.378	Deoxyribonuclease digestion	0.477	nuclease S1 protection assay		
+Geographic location mapping			0.401	Raman microscopy	0.477	Gene Mapping	0.345	Epitope Mapping	0.366	m1A mapping	0.302	gel filtration chromatography		
+Innovation mapping	0.345	Lead structure mapping assay	0.519	infrared microscopy	0.521	Replication Initiation Point Mapping	0.418	Epitope Mapping	0.444	m1A mapping				
+Placebo-controlled trial			0.48	potentiostatic coulometry	0.684	Controlled Clinical Trial	0.311	placental transfer assay	0.304	contraception				
+Exosome isolation	0.53	isolation of cell population	0.325	polarization modulation infrared reflection–adsorption spectroscopy	0.59	Cell Sorting	0.377	isomerase	0.541	single cell isolation	0.346	isolated bone method	0.428	Exome sequencing
+Adherence assessment	0.49	survival assessment assay	0.358	low coherence interference microscopy	0.701	Physical Examination	0.502	assay quality assessment method	0.432	isolation of adherent cells	0.454	in vivo visual assessment		
+Thick/thin blood smear	0.42	blood assay	0.367	thin-film X-ray diffraction	0.75	Thick Smear Technique			0.324	blood draw	0.301	blood creatine kinase activity assay		
+Electron diffraction data 3D ED	0.379	data vector reduction data transformation	0.8	electron diffraction	0.432	Electron Beam Therapy	0.368	electron microscopy	0.328	size fractionation	0.351	cell fractionation	0.625	Neutron diffraction
+High-throughput analyses	0.574	genotyping by high throughput sequencing assay	0.345	thermogravimetry	0.687	High Throughput Screening	0.537	repetition throughput	0.656	assay by high throughput sequencer	0.794	high throughput expression assay	0.323	Exome sequencing
+Spatially complex landscapes			0.351	spatially-offset Raman spectroscopy	0.42	Soluble Complement C5b-9 Measurement	0.376	GPCR complex	0.302	spatial analysis				
+Seropositivity studies			0.386	flow cytometry	0.488	Study Activity	0.342	selectivity assay	0.35	DNase-hypersensitivity seq	0.316	serum aspartate aminotransferase activity assay		
+Multi-fractal analysis	0.46	multiple linear regression analysis	0.606	diffraction method	0.529	Multiparametric Analysis	0.443	image analysis method	0.513	spatial analysis	0.44	urine analysis	0.543	Exome sequencing
+Antibody labeling	0.583	specific labeling			0.677	Sjogren's SS-B Antibody Measurement	0.599	labeling method	0.677	labelling	0.382	high throughput proteomic profiling by antibody array		
+Microscopy	0.976	microscopy assay	0.972	microscopy	0.993	Microscopy	0.995	microscopy	0.878	microscopy assay	0.836	in vivo microscopy	0.746	Light microscopy
+Indoor residual spraying					0.45	Residual Tumor Size Measurement								
+mRNA and protein analysis	0.563	protein assay	0.537	X-ray diffraction	0.876	Protein Analysis	0.606	protein	0.513	data transformation	0.764	blood protein analysis	0.568	RNA-Seq
+Multi-scale analysis	0.526	multiple linear regression analysis	0.552	X-ray diffraction	0.576	Multiple Time Graphical Analysis	0.467	image analysis method	0.527	data transformation	0.524	scale	0.572	Exome sequencing
+Electroneurography	0.53	electroencephalography	0.504	electron spectroscopy	0.995	Electroneurography	0.444	tomography			0.66	electron radiography	0.43	Tomography
+ZX TM doppler wind lidar sensor			0.374	laser Doppler velocimetry	0.44	Color Flow Doppler Ultrasound Imaging	0.313	electrical sensor			0.384	doppler ultrasound		
+Training workshops	0.46	training process			0.428	Tartrate Resistant Acid Phosphatase Staining Method								
+T-cell receptor sequencing	0.71	T cell receptor repertoire sequencing assay	0.387	phase cycle	0.764	T Cell Receptor Repertoire Sequencing	0.582	receptor	0.629	single cell sequencing			0.657	Sequencing
+Fuel economy testing					0.613	Testing								
+Community diversity analysis	0.383	dialysis	0.428	X-ray diffraction	0.531	Community Trial	0.362	image analysis method	0.408	data transformation	0.365	blood renin activity assay	0.443	Exome sequencing
+Genetic manipulation (allele: ok1469)	0.394	genetic transformation			0.479	Genetic Population Study	0.363	genetic complementation	0.31	single cell isolation				
+In vitro susceptibility testing	0.308	cell viability assay	0.553	magnetometry	0.62	Microbial Susceptibility Test	0.356	intestinal fluid stability assay	0.353	in vitro transcription				
+Lipid analysis	0.513	replicate analysis	0.65	X-ray diffraction	0.625	DNA Analysis	0.614	lipid	0.62	data transformation	0.844	blood lipid analysis	0.673	Exome sequencing
+mTOR complex 1 inhibition	0.494	competitive inhibition of binding assay			0.526	Complement C1 Esterase Inhibitor Measurement	0.513	CYP inhibition assay			0.302	ex vivo analysis of atomic composition		
+Bioinformatics analysis	0.493	sequence analysis data transformation	0.503	thermal analysis	0.508	Somatic Mutation Analysis	0.73	bioinformatics method	0.481	spatial analysis	0.42	urine analysis	0.571	Chromosome conformation capture
+Transforming growth factor-? (TGF-?) expression analysis	0.569	differential expression analysis data transformation	0.389	thermogravimetry	0.64	Transforming Growth Factor Beta Measurement	0.506	computational expression analysis	0.543	differential expression analysis data transformation	0.43	expression assay	0.391	Exome sequencing
+Intervention delivery	0.492	study intervention	0.324	attenuated total reflectance infrared spectroscopy	0.742	Intervention or Procedure	0.561	delivery method	0.747	medical procedure			0.342	Protein interaction experiment
+Serum NOx levels determination	0.527	age determination assay	0.493	determination of copper	0.509	Water Content Determination	0.514	conformation determination method						
+Online exploratory data analysis	0.488	data analysis service	0.435	X-ray diffraction	0.511	Exploratory Surgery	0.384	sequencing data analysis software	0.641	data transformation	0.466	urine analysis	0.487	Exome sequencing
+Fertility assessment	0.5	limits of stability assessment	0.3	differential mobility spectroscopy	0.812	Fertility Assessment and Management	0.628	assay quality assessment method	0.423	motility assay	0.454	in vivo visual assessment		
+Passive and active malaria case detection	0.441	ligase detection reaction	0.519	mass detection	0.588	Pet is as Active as it Has Been	0.433	caspase activity determination	0.351	Ribo-seq	0.302	ribonuclease protection assay		
+Species abundance survey					0.373	Do You Dance	0.502	protein abundance method						
+Notarius kessleri identification	0.409	histone modification identification by ChIP-Seq assay			0.586	Lesion Identification	0.426	nucleic acid identification and quantitation method						
+Immunoelectron microscopy	0.726	electron microscopy imaging assay	0.775	electron microscopy	0.796	Electron Microscopy	0.801	electron microscopy	0.567	microscopy assay	0.977	immunoelectron microscopy	0.802	Electron microscopy
+Semi-structured in-depth interviews	0.369	3D structure determination assay	0.372	X-ray diffraction	0.536	Structured Clinical Interview for DSM-5	0.391	structural	0.459	Structure-Seq				
+Distance metrics	0.323	insecticide resistance assay	0.379	raster image correlation spectroscopy	0.895	Gene Distance Metric	0.443	distance matrix alignment	0.385	Ren-Seq				
+Genotyping	0.924	genotyping assay			0.957	Genotyping	0.877	genotyping method	0.968	genotyping			0.776	Genotyping experiment
+Age-frequency matching	0.406	peak matching	0.518	low-frequency electron spin resonance spectroscopy	0.749	How Often Itching	0.393	descriptor matching method	0.333	DNA-seq			0.418	Sequencing
+Proinflammatory cytokine expression analysis	0.533	serial analysis of gene expression assay	0.403	flow cytometry	0.613	Gene Expression Analysis	0.53	computational expression analysis	0.581	cap analysis gene expression	0.535	blood cytokine analysis	0.41	Exome sequencing
+Cephalic labial glands analysis	0.401	replicate analysis	0.466	energy-dispersive X-ray emission spectroscopy	0.433	Clonality Analysis	0.374	image analysis method	0.484	spatial analysis	0.372	urine analysis	0.459	Exome sequencing
+Pheromone production analysis	0.38	mass spectrometry analysis	0.489	diffraction method	0.491	TERT Promoter Mutation Analysis	0.391	structure analysis method	0.43	data transformation	0.43	urine analysis	0.467	Exome sequencing
+Bone marrow biopsy	0.979	bone marrow biopsy	0.394	only para-hydrogen spectroscopy	0.989	Bone Marrow Biopsy			0.612	bone marrow aspiration	0.355	autopsy		
+Independent cohort validation	0.534	validation	0.359	angular dependent Auger electron spectroscopy	0.579	Feel Independent	0.404	CYP time-dependent inhibition assay	0.361	group assignment				
+Data sampling	0.506	material sampling process	0.364	solid sampling graphite furnace atomic absorption spectrometry	0.618	Sampling Method	0.405	assay data processing method	0.496	sample pooling				
+Correlation analysis	0.424	replicate analysis	0.653	correlation spectroscopy	0.64	Population Analysis	0.506	computational expression analysis	0.518	spatial analysis	0.452	urine analysis	0.557	Exome sequencing
+Magnetic resonance imaging	0.956	magnetic resonance imaging assay	0.736	far-infrared magnetic resonance spectroscopy	0.979	Magnetic Resonance Imaging	0.693	nuclear magnetic resonance	0.404	magnetic affinity cell sorting	0.983	magnetic resonance imaging	0.992	MRI
+Entomological surveillance	0.579	surveillance process	0.338	rheometry	0.664	Surveillance			0.313	surgical resection	0.403	bioassay	0.381	Bioimaging
+mass drug administration (MDA)	0.58	oral administration	0.367	electron ionisation mass spectrometry	0.63	Medication Administration	0.377	drug interaction assay	0.346	MDA				
+Genetic manipulation	0.504	genetic transformation	0.302	polarization modulation infrared reflection–adsorption spectroscopy	0.612	Genetic Population Study	0.464	genetic complementation	0.396	single cell isolation				
+Stool Collection	0.545	cell collecting	0.342	reflection electron microscopy	0.961	Stool Collection			0.569	specimen collection process	0.486	body fluid collection method		
+Data integration into ClinEpiDB	0.322	data vector reduction data transformation	0.368	static light scattering	0.386	Integrated Pain Scale	0.405	CLint	0.352	medical procedure				
+Ethics approval			0.327	image correlation spectroscopy	0.418	Compassionate Treatment								
+Project manual	0.375	manual hematocrit assay			0.542	ENABLE					0.432	manual rectal thermometry		
+Sperm viability analysis	0.585	cell viability assay	0.504	thermal analysis	0.64	DNA Stability Analysis	0.523	cell viability assay	0.498	spatial analysis	0.42	urine analysis	0.517	Exome sequencing
+Data integration with ClinEpiDB	0.345	data vector reduction data transformation	0.317	static light scattering	0.342	Integrated Pain Scale	0.355	CLint	0.321	data transformation				
+Sampling design	0.469	material sampling process	0.337	solid sampling graphite furnace atomic absorption spectrometry	0.966	Sampling Method	0.524	assay design method	0.459	sample pooling				
+Ethical conduct of human subjects research.	0.395	human subject enrollment	0.311	conductometry	0.723	Human Subject Research	0.322	substructure search	0.311	surgical resection	0.353	in vivo photography		
+High-confidence TCR identification techniques	0.403	histone modification identification by ChIP-Seq assay	0.338	time-of-flight method	0.584	Confidence Question	0.392	nucleic acid identification and quantitation method						
+Bayesian clustering and normalization method (Biscuit)	0.426	normalization data transformation	0.417	scattering method	0.548	CNAT Probe Normalization Method	0.479	endpoint normalization method	0.436	normalization data transformation				
+Questionnaire programming			0.345	thermal desorption spectroscopy	0.681	PR Questionnaire Question								
+Anthropometric Measurements	0.448	mass measurement assay	0.69	densiometry	0.574	Hepatocyte Growth Factor Receptor Measurement	0.463	simple measurement method	0.353	assay	0.563	anthropometric tape		
+Pathogen testing	0.608	pathogen detection assay			0.672	Testing	0.352	pathogenic virus transduction method	0.811	pathogen test	0.31	Schirmer test		
+Peripheral blood mononuclear cells isolation	0.397	isolation of adherent cells	0.315	heteronuclear correlation spectroscopy	0.623	Mononuclear Cell Count			0.432	single cell isolation	0.382	isolated cell method		
+Equilibrium and nonequilibrium demographic histories	0.318	fluorescence detection assay measuring equilibrium association constant [KA] to determine direct binding of a cell-bound-MHC:ligand complex			0.566	Equilibrium Phase Spiral CT	0.736	equilibrium assay						
+Experimental design	0.574	experimental disease induction	0.564	constant time method	0.963	Study Design	0.929	experimental design method					0.511	RNAi experiment
+Clinical observations	0.454	observational assessment of individual	0.302	X-ray photoelectron spectroscopy	0.9	Clinical Observation	0.522	visual observation method	0.493	assay	0.409	observational fear learning apparatus method		
+Plasmatic chitotriosidase activity	0.44	galactosidase activity level assay	0.375	chiral Raman spectroscopy	0.67	Chitotriosidase-1 Measurement	0.425	kinase activity assay			0.464	plasma alkaline phosphatase activity assay		
+Clonal grouping algorithms	0.392	probabilistic algorithm			0.448	Stage Grouping	0.429	genetic algorithm method	0.304	clone by clone sequencing				
+Clinical signs and symptoms assessment	0.412	survival assessment assay			0.643	Research or Clinical Assessment Tool	0.393	assay quality assessment method			0.383	in vivo visual assessment		
+Genetic environment study using PCR mapping and DNA sequencing	0.496	DNA sequencing assay	0.383	environmental scanning electron microscopy	0.542	Gene Mapping, Human	0.376	Whole Genome Sequencing	0.551	DNA-seq			0.534	Sequencing
+AMP-activated kinase	0.405	creatine kinase activity level assay	0.389	activation analysis	0.45	Activated Lymphocytes Measurement	0.585	kinase activity assay	0.376	T cell activation assay	0.499	automated serum creatine kinase activity assay		
+Deletion mutant analysis	0.426	discriminant analysis	0.518	electron diffraction	0.733	Genetic Variation Analysis	0.462	computational expression analysis	0.477	data transformation	0.42	urine analysis	0.517	Exome sequencing
+Cell culture	0.938	cell culture assay	0.309	characteristic energy-loss spectroscopy	0.969	Cell Culture	0.885	cell culture method	0.314	Rapture	0.359	isolated cell method		
+TaqMan® molecular assay	0.504	assay detecting a molecular label	0.601	molecular mass spectrometry	0.528	Molecular Modeling	0.541	molecular entity	0.629	assay by molecule	0.604	molecular method		
+Software: tierpsy tracker	0.478	compiling software			0.447	Software Validation	0.597	software						
+ground cover analysis	0.424	replicate analysis	0.537	X-ray diffraction	0.517	DNA Analysis	0.454	image analysis method	0.513	data transformation	0.452	urine analysis	0.557	Exome sequencing
+Immunohistochemistry	0.978	immunohistochemistry	0.383	liquid chromatography-electrochemical detection	0.981	Immunohistochemical Test	0.985	immunohistochemistry	0.331	immunosurgery	0.989	immunohistochemistry		
+Malaria diagnostic tests (microscopy	0.546	microscopy assay	0.544	microscopy	0.781	Diagnostic Microscopy	0.556	microscopy	0.491	microscopy assay	0.468	in vivo microscopy	0.417	Light microscopy
+Phenotypic detection of oxacillinases, metallo-?-lactamases, extended-spectrum ?-lactamases, and AmpCs			0.335	secondary electron spectroscopy	0.462	Beta Lactamase Screening Method	0.434	beta lactamase induction						
+Multivariate time-series data analysis	0.528	data analysis service	0.422	activation analysis	0.722	Time Series Analysis	0.38	sequencing data analysis software	0.592	data transformation	0.385	automated serum analysis	0.453	Exome sequencing
+Cohort-stratification	0.43	purification	0.374	titration	0.821	Stratification	0.414	modification method	0.338	group assignment				
+urine microscopy	0.797	microscopy assay	0.794	microscopy	0.811	Microscopy	0.812	microscopy	0.717	microscopy assay	0.683	in vivo microscopy	0.61	Light microscopy
+PCR for Anopheles mosquitoes	0.315	mosquito membrane feeding assay			0.353	Residual Cancer Burden Class 0			0.353	polymerase chain reaction	0.354	polymerase chain reaction assay		
+data collection	0.565	cell collecting	0.354	reflection electron microscopy	0.649	Stool Collection	0.353	data based structure generation	0.589	specimen collection process	0.503	body fluid collection method		
+Immunofluorescence	0.663	fluorescent immunospot assay	0.665	fluorescence spectroscopy	0.971	Immunofluorescent Staining Method	0.726	immunofluorescent labeling	0.486	FISSEQ	0.992	immunofluorescence		
+RNA sequencing (RNA-seq)	0.915	RNA sequencing assay	0.481	phase cycle	0.932	Whole Transcriptome Sequencing	0.64	RNA	0.66	single-cell RNA sequencing	0.511	RNA-seq assay	0.943	RNA-Seq
+Mass spectrometry	0.959	mass spectrometry assay	0.975	mass spectrometry	0.989	Mass Spectrometry	0.981	mass spectrometry	0.914	assay by mass spectrometry	0.976	mass spectrometry	0.398	NMR
+Spontaneous recovery	0.494	spontaneous speech assessment	0.484	inversion recovery	0.64	Spontaneous Vertex Delivery			0.329	percutaneous kidney biopsy				
+Saliva sample collection	0.566	saliva assay	0.316	vibrating-sample magnetometry	0.826	Saliva Collection			0.86	specimen collection process	0.384	body fluid collection method		
+Chondrogenic differentiation	0.443	differential medium assay	0.439	differential isothermal capacitance transient spectroscopy	0.597	Differentiation Therapy	0.383	differential interference contrast microscopy	0.417	differential expression analysis data transformation	0.379	blood differential lipoprotein-cholesterol analysis		
+Microarray	0.958	microarray assay	0.54	X-ray microscopy	0.986	Microarray Analysis	0.962	Microarray	0.56	microRNA profiling by array	0.969	high throughput transcription profiling by microarray	0.827	Microarray experiment
+home visits			0.384	visible spectrophotometry	0.472	Home Care			0.375	Visium Spatial Gene Expression	0.31	home cage monitoring method		
+Audio file compression settings manipulation					0.472	Compression Formulation Process	0.359	gene expression modulation method	0.325	single cell isolation	0.443	bone compression test		
+pest removal assessment	0.57	remote patient assessment			0.667	Physical Examination	0.478	assay quality assessment method			0.466	in vivo visual assessment		
+Interleukin (IL)-10 expression analysis	0.57	serial analysis of gene expression assay	0.408	X-ray diffraction	0.651	Gene Expression Analysis	0.591	computational expression analysis	0.613	cap analysis gene expression	0.503	expression assay	0.457	Exome sequencing
+Minimally Invasive Tissue Sampling (MITS)					0.694	Minimally Invasive Interval Debulking Surgery	0.358	tissue binding assay	0.339	invasive mechanical ventilation				
+Study protocol development	0.459	software development			0.702	Child Development Study	0.529	assay protocol	0.419	group assignment				
+Census data collection	0.515	cell collecting			0.543	Stool Collection			0.493	specimen collection process	0.421	body fluid collection method		
+Data extraction	0.776	extraction	0.474	extractive electrospray ionisation mass spectrometry	0.649	DNA Isolation	0.415	extraction from natural source	0.587	organ extraction	0.368	cell fractionation	0.36	Neutron diffraction
+Double-blinded study	0.727	double blind study execution	0.46	tandem mass spectrometry	0.872	Double Blind Study	0.378	preclinical study	0.354	group assignment				
+T cell receptor alpha chain sequencing (TCRα-NGS)	0.538	T cell receptor repertoire sequencing assay	0.341	phase cycle	0.58	T Cell Receptor Repertoire Sequencing	0.441	receptor	0.477	single cell sequencing			0.498	Sequencing
+Epigenome-wide association study	0.379	study intervention	0.439	resonance ion dissociation spectroscopy	0.781	Whole Genome Association Study	0.389	epigenetic assay	0.381	sample dissociation				
+T cell receptor (TCR) sequencing	0.667	T cell receptor repertoire sequencing assay	0.364	phase cycle	0.719	T Cell Receptor Repertoire Sequencing	0.547	receptor	0.591	single cell sequencing			0.618	Sequencing
+Flow cytometry	0.959	flow cytometry assay	0.913	flow cytometry	0.987	Flow Cytometry	0.985	flow cytometry	0.355	CytoSeq	0.901	flow cytometry method	0.82	Cytometry
+Mosquito collection using CDC light traps	0.403	cell collecting	0.314	static light scattering	0.405	Stool Collection			0.367	specimen collection process	0.314	body fluid collection method		
+Transect sampling strategy	0.381	material sampling process	0.301	saturation-transfer electron spin resonance spectroscopy	0.461	Library Sequencing	0.369	transient transfection	0.364	transfection			0.311	RNA-Seq
+Financial support documentation	0.446	documenting	0.318	time proportional phase incrementation	0.523	Financial Question	0.345	assay supporting method	0.319	ChIPmentation	0.363	in vivo videography with digital image analysis		
+Mate-copying experiments	0.477	epitope protection experiment	0.587	nuclear Overhauser enhancement spectroscopy	0.604	Experiment	0.426	experimental design method					0.462	RNAi experiment
+Immunoassays	0.489	immuno staining assay	0.437	ELISA	0.872	Immunology Test	0.86	immunoassay	0.474	immunoprecipitation assay	0.86	immunoassay	0.313	RNA immunoprecipitation
+Single linkage clustering	0.724	single linkage hierarchical clustering	0.422	single-ion monitoring	0.94	Single Linkage Cluster Analysis	0.485	k means clustering	0.419	single cell sequencing				
+Indoor residual spraying (IRS) of insecticide	0.493	insecticide resistance assay			0.339	Detection of Measurable Residual Disease			0.322	INSeq				
+Data merging	0.42	data encoding			0.376	Analysis Project	0.465	assay data processing method	0.459	data transformation			0.3	Imaging
+Sequoia LISST-Holo2 sensor					0.387	Hand Function Test	0.361	electrical sensor						
+convenience sampling	0.402	material sampling process	0.309	solid sampling graphite furnace atomic absorption spectrometry	0.491	Sampling Method			0.394	sample pooling				
+Data integration from Mendeley Data as flat csv files.	0.456	data vector reduction data transformation			0.419	Direct Antiglobulin Test	0.376	data based structure generation	0.402	data transformation				
+Cohort study follow-up	0.364	study intervention			0.74	Cohort Study	0.365	portal vein study	0.646	follow-up				
+Thick blood smear	0.521	blood assay			0.797	Thick Smear Technique	0.343	whole blood stability assay	0.402	blood draw	0.373	blood creatine kinase activity assay		
+Behavioral messaging	0.308	imaging assay	0.403	chemical imaging	0.627	Behavioral Rating Scale	0.444	organism behavior assay	0.547	behavioral stimulus	0.353	body movement/behavior method	0.325	Imaging
+Real-time optotracing	0.399	real time polymerase chain reaction assay	0.354	direct analysis in real time time-of-flight mass spectrometry	0.44	Real Time PCR	0.342	real-time PCR			0.323	real-time polymerase chain reaction assay		
+RNA sequencing	0.953	RNA sequencing assay	0.515	phase cycle	0.972	RNA Sequence Analysis	0.576	Whole Genome Sequencing	0.767	DNA-seq	0.342	ribonucleic acid in situ hybridization assay	0.989	RNA-Seq
+Autophagy induction	0.306	tolerance induction intervention experiment	0.344	flow injection solid phase extraction inductively coupled plasma atomic emission spectroscopy	0.663	Induction Therapy	0.512	CYP induction assay						
+Genetic-environment association (GEA) method	0.387	genetic transformation	0.409	environmental scanning electron microscopy	0.474	Gene Therapy	0.498	genetic modification method	0.386	enzymatic dissociation	0.341	enzymatic method		
+Isolation by distance	0.515	isolation of cell population	0.371	resonance ion dissociation spectroscopy	0.572	Cell Sorting	0.457	distance comparison modeling	0.525	single cell isolation	0.336	isolated bone method		
+Protein folding	0.656	protein assay	0.311	1H nuclear magnetic resonance spectroscopy	0.695	Total Protein Measurement	0.919	protein folding assay	0.563	protein assay	0.484	blood protein analysis	0.405	Protein interaction experiment
+Data Collection through Interviews	0.379	cell collecting	0.331	attenuated total reflectance infrared spectroscopy	0.505	Educational Intervention	0.349	concentration throughput	0.396	specimen collection process	0.342	high throughput expression assay		
+Ethylene treatment	0.695	treatment			0.707	Treatment Study	0.415	gene knockdown by morpholino treatment						
+Hemoglobin measurement	0.666	hemoglobin assay	0.63	pH measurement	0.954	Hemoglobin Measurement	0.545	cell movement measurement method	0.392	assay	0.59	blood hemoglobin analysis		
+Structured interviews	0.406	3D structure determination assay	0.413	X-ray diffraction	0.646	Structured Clinical Interview for DSM-5	0.471	structural	0.553	Structure-Seq				
+Single-cell RNA-seq	0.622	single-cell RNA sequencing assay	0.359	single-ion monitoring	0.802	Single Cell RNA Sequencing	0.431	RNA	0.83	single-cell RNA sequencing	0.396	RNA-seq assay	0.434	RNA-Seq
+Transformation with Simian vacuolating virus 40 small and large T antigen	0.456	b transformation			0.345	Rubeola Antigen Measurement			0.401	data transformation				
+antibody repertoire analysis	0.472	replicate analysis	0.491	X-ray diffraction	0.494	Sjogren's SS-B Antibody Measurement	0.457	antibody preparation method	0.799	Paired VH:VL Antibody Repertoire Analysis	0.418	urine analysis	0.516	Exome sequencing
+Medical history evaluation	0.396	liver evaluation venous blood protein assay			0.658	Medical History Taking	0.31	statistical classification method	0.445	checkup	0.478	free radical elective evaluator photometry	0.438	Medical imaging
+urine filtration	0.719	filtration	0.389	titration	0.491	Hemofiltration	0.38	rodent excretion in urine	0.612	cot filtration	0.474	gel filtration chromatography		
+Consent Form Signing and Witnessing	0.34	informed consent process			0.403	Witnessing of Chief Complaint					0.309	moving tilting plane test		
+Petri dish assay	0.598	assay	0.427	imaging assay	0.593	Bioassay	0.529	dish	0.597	assay				
+Data Storage and Regulatory Filing	0.541	storage			0.456	Regulatory T-Lymphocyte Count	0.44	enzyme regulator	0.423	STARR-Seq				
+Intention-to-treat analysis	0.385	sequence analysis data transformation	0.481	diffraction method	0.509	Genetic Variation Analysis	0.404	image analysis method	0.456	data transformation	0.402	urine analysis	0.495	Exome sequencing
+Photos	0.309	phospholipid assay	0.459	photoion-photoelectron coincidence spectroscopy	0.691	Photon Beam Radiation Therapy	0.479	photodiode	0.319	enrichment of phosphorylated protein	0.573	photometry		
+Institutional review board approval	0.397	reconstitution assay			0.42	Multi-Institutional Clinical Trial	0.367	reconstitution method						
+Demographic surveillance system	0.537	surveillance process	0.343	thermography	0.616	Surveillance			0.345	digestive system surgery			0.318	MRI
+Experimental study	0.59	experimental disease induction	0.581	constant time method	0.699	Investigational Arm	0.634	experimental design method	0.454	group assignment			0.526	RNAi experiment
+Hybridization-based antibody cDNA recovery	0.424	nucleic acid hybridization	0.374	inversion recovery	0.549	Nucleic Acid Hybridization	0.426	nucleic acid hybridization-based method	0.465	in-situ hybridization assay	0.386	ribonucleic acid in situ hybridization assay		
+Flat file format	0.346	quantile transformation			0.429	Multinational Association of Supportive Care in Cancer Antiemesis Tool	0.465	alternate assay format	0.405	SPLAT				
+Venous blood donation	0.558	blood gas venous blood bicarbonate assay			0.426	Blood Irradiation	0.343	blood to plasma ratio assay	0.381	blood transfusion	0.364	cell fractionation		
+Flow cytometry (BD FACSAria-II)	0.692	flow cytometry assay	0.658	flow cytometry	0.711	Flow Cytometry	0.71	flow cytometry	0.309	fluorescence-activated cell sorting	0.649	flow cytometry method	0.592	Cytometry
+Bioinformatics algorithms	0.425	probabilistic algorithm			0.469	Cancer Bioinformatics Infrastructure Objects	0.699	bioinformatics method						
+biodiversity assessment	0.456	taxonomic diversity assessment by targeted gene survey			0.652	Physical Examination	0.54	assay quality assessment method			0.422	in vivo visual assessment		
+Simulated data analysis	0.574	data analysis service	0.511	X-ray diffraction	0.537	Population Analysis	0.482	simulated annealing	0.753	data transformation	0.478	automated blood analysis	0.53	Exome sequencing
+Indoor residual spraying (IRS)			0.343	stimulated Raman loss spectroscopy	0.422	Residual Tumor Size Measurement								
+Luminescent oligothiophenes	0.363	ATP bioluminescence assay	0.552	luminescence spectroscopy	0.35	Chemiluminescent Immunoassay	0.519	luminescence method			0.31	electrochemiluminescence immunoassay		
+Deep sequencing	0.795	sequencing assay	0.497	phase cycle	0.819	Biopolymer Sequencing	0.555	Whole Genome Sequencing	0.652	DNA-seq			0.842	Sequencing
+Community-based survey	0.31	epitope protection experiment based on survival			0.687	American Community Survey	0.313	optical based						
+Longitudinal cohort study	0.599	longitudinal mass measurement assay	0.539	longitudinally detected electron spin resonance spectroscopy	0.855	Longitudinal Study	0.408	portal vein study	0.367	group assignment				
+Illumina Novaseq6000 sequencing	0.594	sequencing assay	0.455	phase cycle	0.793	Illumina Sequencing	0.414	Whole Genome Sequencing	0.742	Illumina sequencing			0.616	Sequencing
+Bleomycin-induced lung injury	0.342	lung assay	0.329	laser-induced breakdown spectroscopy	0.392	Induced Abortion Procedure	0.333	ionomycin						
+Single-cell transcriptomic analysis	0.598	transcript analysis by single-end sequencing assay	0.428	single-particle energy-dispersive X-ray emission spectroscopy	0.658	Single Cell RNA Sequencing	0.402	transcriptional profiling assay	0.601	single-cell RNA sequencing	0.385	high throughput transcription profiling by array	0.448	RNA-Seq
+Blood collection for microscopy	0.617	microscopy assay	0.623	ion microscopy	0.628	Microscopy	0.629	microscopy	0.582	blood draw	0.536	ex vivo electron microscopy	0.589	Electron microscopy
+Biophysicochemical motif analysis	0.404	replicate analysis	0.661	electrochemical analysis	0.701	Physicochemical Property Analysis	0.665	physicochemical	0.45	high content analysis of cells by morphological and physical properties	0.386	urine analysis	0.475	Exome sequencing
+Specimen data recording	0.366	single-unit recording			0.444	Specimen Weight Measurement	0.306	assay data processing method	0.46	specimen collection process	0.404	volume pressure recording		
+Sperm DNA integrity analysis	0.407	mass spectrometry analysis	0.473	thermal analysis	0.656	DNA Analysis	0.508	integrated pathway analysis	0.467	spatial analysis	0.394	urine analysis	0.485	Exome sequencing
+Gut contents analysis	0.424	replicate analysis	0.537	X-ray diffraction	0.718	DNA Image Cytometry	0.454	image analysis method	0.635	high content analysis of cells	0.452	urine analysis	0.557	Exome sequencing
+Collection of epidemiological data	0.379	cell collecting	0.312	electrochemical detection	0.604	Epidemiological Method	0.37	electrophysiological method	0.396	specimen collection process	0.424	bioassay	0.396	Bioimaging
+Susceptibility tests	0.305	cell viability assay	0.685	magnetometry	0.726	Microbial Susceptibility Test	0.316	intestinal fluid stability assay						
+Dried blood spot collection	0.431	cell collecting			0.603	Blood Product Collection	0.317	spot detector	0.633	blood draw	0.409	body fluid collection method		
+ELISA	0.45	ELISA measuring epitope specific RANTES production by T cells	0.951	ELISA	0.988	ELISA	0.997	ELISA			0.98	enzyme linked immunosorbent assay		
+Universal LLIN campaigns							0.414	screening campaign						
+Flower production measurements	0.432	mass measurement assay	0.614	desorption measurements	0.494	Fibrin Degradation Products Measurement	0.436	assay measurement type	0.34	assay	0.389	nociception measurement method		
+Local maxima and minima in the environment	0.436	exposure of material to environment	0.481	environmental scanning electron microscopy	0.425	Environmental Justice Screening and Mapping Tool	0.366	local minimum search						
+Written consent or assent	0.373	informed consent process	0.333	constant-current chronopotentiometric stripping	0.38	Cast Present Or Absent	0.333	assay readout content	0.348	high content screen				
+Hydroxyproline contents analysis	0.338	replicate analysis	0.428	X-ray diffraction	0.662	Hydroxyproline Measurement	0.362	image analysis method	0.505	high content analysis of cells	0.458	urine analysis	0.443	Exome sequencing
+Staining with phalloidin	0.582	staining	0.391	negative-staining transmission electron microscopy	0.591	Staining Method	0.379	vital dye staining	0.352	cytokine secretion assay				
+Pap testing	0.388	HCV nucleic acid testing	0.308	colorimetric test	0.823	Testing			0.341	pathogen test	0.38	Schirmer test		
+Informed consent forms	0.732	informed consent process			0.414	BRIEF Parent Form Questionnaire	0.357	protein conformation assessment						
+RB0020 collection	0.528	cell collecting	0.331	reflection electron microscopy	0.607	Stool Collection			0.551	specimen collection process	0.47	body fluid collection method		
+Anthropometry assessments	0.409	dysmetria assessment	0.338	spectroscopy	0.585	Physical Examination	0.442	assay quality assessment method	0.333	assay by mass spectrometry	0.482	anthropometric tape	0.325	Cytometry
+Review of medical charts					0.856	Medical Chart Review			0.387	medical procedure			0.468	Medical imaging
+Vascular and molecular analyses	0.47	assay detecting a molecular label	0.669	molecular mass spectrometry	0.743	Molecular Analysis	0.607	molecular entity	0.571	blood vessel replacement	0.673	molecular method		
+Salmonella typhi diagnostic tests (PCR)	0.401	WHO cone kit diagnostic assay			0.605	Diagnostic Procedure			0.301	polymerase chain reaction	0.301	polymerase chain reaction assay		
+Case report forms (CRFs)	0.369	reporter gene assay			0.71	Case Study	0.349	reporter gene assay			0.358	in situ recombinase reporter assay		
+Stereotactic ablative radiotherapy (SAbR)					0.917	Stereotactic Ablative Radiotherapy			0.302	cardiac ablation				
+Cellular metabolism analysis	0.415	cell lysis	0.459	X-ray diffraction	0.591	Cellular Compartment Analysis	0.468	drug metabolism assay	0.439	data transformation	0.386	urine analysis	0.476	Exome sequencing
+Case-control study	0.397	study intervention	0.347	phase contrast microscopy	0.813	Case-Control Study	0.394	Dose Response Study	0.376	group assignment				
+Attitudinal survey analysis	0.577	longitudinal data analysis	0.505	X-ray diffraction	0.544	Survival Analysis	0.424	image analysis method	0.49	spatial analysis	0.426	urine analysis	0.525	Exome sequencing
+Chest x-ray testing	0.351	statistical hypothesis test	0.386	colorimetric test	0.703	Testing			0.35	EST sequencing	0.37	Schirmer test		
+Stem cell therapy			0.516	scanning transmission electron microscopy	0.996	Stem Cell Therapy			0.368	Pharmacotherapy	0.315	cell proliferation assay		
+Pair sampling strategy	0.434	material sampling process	0.318	vibrating-sample magnetometry	0.479	Library Sequencing			0.442	PAIR				
+Structured data upload sheet	0.386	Lead structure mapping assay	0.339	X-ray diffraction	0.437	Structure Type is Target Structure or Organ at Risk	0.525	data based structure generation	0.495	Structure-Seq				
+Informed consent	0.822	informed consent process	0.313	confocal infrared microscopy	0.397	Have Made an Informed Choice	0.342	protein conformation assessment						
+Collecting	0.857	cell collecting	0.352	multiple collector inductively coupled plasma mass spectrometry	0.707	Whole Blood or Product Procurement	0.304	E-selectin	0.559	specimen collection process	0.449	body fluid collection method		
+Index case identification	0.468	histone modification identification by ChIP-Seq assay	0.325	refractive index detection	0.669	Lesion Identification	0.487	nucleic acid identification and quantitation method	0.338	label-free quantification				
+Binding assays	0.834	binding assay	0.483	imaging assay	0.69	Ligand Binding Assay	0.867	binding assay	0.498	assay				
+Logistic regression analysis	0.696	regression analysis method	0.459	X-ray diffraction	0.799	Regression Method	0.503	computational expression analysis	0.52	cap analysis gene expression	0.386	urine analysis	0.476	Exome sequencing
+Plasmid analysis	0.478	replicate analysis	0.605	X-ray diffraction	0.582	DNA Analysis	0.573	plasmid DNA	0.577	data transformation	0.64	plasma urea analysis	0.627	Exome sequencing
+Viability, metabolic flux, and p53-LC3-B expression measurement	0.381	cell viability assay	0.459	sorption measurement	0.554	IgG Expression Measurement	0.634	viability measurement method	0.329	metabolomic profiling	0.463	metabolic cage urine volume measurement method		
+Mass cytometry	0.833	cytometry assay	0.708	mass spectrometry	0.988	Mass Cytometry	0.645	flow cytometry	0.584	assay by mass spectrometry	0.604	mass spectrometry	0.82	Cytometry
+Binding association analysis	0.531	binding assay	0.515	laser desorption-ionisation mass spectrometry	0.566	Whole Genome Association Study	0.537	binding assay	0.443	spatial analysis	0.386	urine analysis	0.476	Exome sequencing
+Genetic testing	0.473	genetic transformation			0.984	Genetic Testing	0.411	gene	0.32	high content screen of cells in a gene deletion library	0.321	Schirmer test		
+Data obfuscation	0.471	data vector reduction data transformation	0.31	oxidation–reduction titration	0.348	Pharmacotherapy Initiation	0.375	data based structure generation	0.439	data transformation				
+Case-Control Study	0.397	study intervention	0.347	phase contrast microscopy	0.813	Case-Control Study	0.394	Dose Response Study	0.376	group assignment				
+Prospective study	0.397	study intervention	0.324	extractive electrospray ionisation mass spectrometry	0.985	Prospective Study	0.394	preclinical study	0.376	group assignment				
+Standardized Interviews	0.31	standard deviation calculation	0.381	standard atomic force infrared microscopy	0.534	Interview	0.386	standard deviation	0.331	medical procedure	0.314	standard blood chemistry panel	0.589	Echography
