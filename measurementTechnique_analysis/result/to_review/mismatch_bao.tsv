@@ -1,0 +1,71 @@
+	Class ID	Original term	Term	T2T best score	Ontology	found_term	TermID
+382	http://purl.obolibrary.org/obo/MMO_0000496	histology	histology testing	0.747	bao	Histology	http://purl.obolibrary.org/obo/NCIT_C16681
+383	http://purl.obolibrary.org/obo/MMO_0000496	histology	histology	0.996	bao	Histology	http://purl.obolibrary.org/obo/NCIT_C16681
+567	http://purl.obolibrary.org/obo/MMO_0000471	gas-liquid chromatography	gas-liquid chromatography	0.925	bao	liquid chromatography	http://purl.obolibrary.org/obo/ERO_0001500
+573	http://purl.obolibrary.org/obo/CHMO_0001016	gas-liquid chromatography	gas-liquid chromatography	0.925	bao	liquid chromatography	http://purl.obolibrary.org/obo/ERO_0001500
+618	http://purl.obolibrary.org/obo/MMO_0000659	RNA-seq assay	RNA-seq assay method	0.798	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+630	http://purl.obolibrary.org/obo/OBI_0001271	RNA-seq assay	RNA-seq assay method	0.798	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+786	http://purl.obolibrary.org/obo/CHMO_0001126	laser-scanning confocal microscope	laser-scanning confocal microscope tests	0.912	bao	laser scanning confocal microscope	http://www.bioassayontology.org/bao#BAO_0150011
+787	http://purl.obolibrary.org/obo/CHMO_0001126	laser-scanning confocal microscope	laser-scanning confocal microscope design	0.899	bao	laser scanning confocal microscope	http://www.bioassayontology.org/bao#BAO_0150011
+788	http://purl.obolibrary.org/obo/CHMO_0001126	laser-scanning confocal microscope	laser-scanning confocal microscope	0.983	bao	laser scanning confocal microscope	http://www.bioassayontology.org/bao#BAO_0150011
+846	http://purl.obolibrary.org/obo/CHEBI_60004	mixture	mixture	0.613	bao	mixture of perturbagens	http://www.bioassayontology.org/bao#BAO_0000575
+963	http://purl.obolibrary.org/obo/CHEBI_50796	nanotube	nanotube	0.631	bao	carbon nanotube based sensor	http://www.bioassayontology.org/bao#BAO_0000471
+1152	http://purl.obolibrary.org/obo/CHMO_0002815	solubility	solubility assessment	0.719	bao	solubility assay	http://www.bioassayontology.org/bao#BAO_0010010
+1175	http://purl.obolibrary.org/obo/OBI_0000011	planned process	planned process method	0.643	bao	processing method	http://www.bioassayontology.org/bao#BAO_0002011
+1179	http://purl.obolibrary.org/obo/CHMO_0000948	charge-coupled device	charge-coupled device	0.989	bao	charge coupled device	http://www.bioassayontology.org/bao#BAO_0150023
+1181	http://purl.obolibrary.org/obo/CHMO_0000948	charge-coupled device	charge-coupled device analysis	0.829	bao	charge coupled device	http://www.bioassayontology.org/bao#BAO_0150023
+1362	http://purl.obolibrary.org/obo/CHEBI_50594	carbon nanotube	carbon nanotube tests	0.679	bao	carbon nanotube based sensor	http://www.bioassayontology.org/bao#BAO_0000471
+1363	http://purl.obolibrary.org/obo/CHEBI_50594	carbon nanotube	carbon nanotube	0.791	bao	carbon nanotube based sensor	http://www.bioassayontology.org/bao#BAO_0000471
+1365	http://purl.obolibrary.org/obo/CHMO_0002182	electron-multiplying charge-coupled device	electron-multiplying charge-coupled device	0.976	bao	electron multiplying charge coupled device	http://www.bioassayontology.org/bao#BAO_0150025
+1366	http://purl.obolibrary.org/obo/CHMO_0002182	electron-multiplying charge-coupled device	electron-multiplying charge-coupled device administration	0.829	bao	electron multiplying charge coupled device	http://www.bioassayontology.org/bao#BAO_0150025
+1367	http://purl.obolibrary.org/obo/CHMO_0002182	electron-multiplying charge-coupled device	electron-multiplying charge-coupled device design	0.906	bao	electron multiplying charge coupled device	http://www.bioassayontology.org/bao#BAO_0150025
+1425	http://purl.obolibrary.org/obo/CHMO_0001751	phosphate-buffered saline solution	phosphate-buffered saline solution	0.838	bao	phosphate buffered saline	http://www.bioassayontology.org/bao#BAO_0000012
+1427	http://purl.obolibrary.org/obo/CHMO_0001751	phosphate-buffered saline solution	phosphate-buffered saline solution administration	0.654	bao	phosphate buffered saline	http://www.bioassayontology.org/bao#BAO_0000012
+2003	http://purl.obolibrary.org/obo/MMO_0000394	HPLC	HPLC system	0.97	bao	HPLC System	http://www.bioassayontology.org/bao#BAO_0002733
+2006	http://purl.obolibrary.org/obo/CHMO_0001009	HPLC	HPLC system	0.97	bao	HPLC System	http://www.bioassayontology.org/bao#BAO_0002733
+2204	http://purl.obolibrary.org/obo/MMO_0000458	ELISPOT assay	ELISPOT assay method	0.775	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+2215	http://purl.obolibrary.org/obo/MMO_0000469	VPC	VPC method	0.667	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+2313	http://purl.obolibrary.org/obo/CHMO_0000524	LCMS	LCMS method	0.633	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+2316	http://purl.obolibrary.org/obo/CHMO_0001734	phosphate buffer solution	phosphate buffer solution	0.781	bao	phosphate buffer	http://www.bioassayontology.org/bao#BAO_0000696
+2349	http://purl.obolibrary.org/obo/CHMO_0000243	FAAS	FAAS method	0.633	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+2378	http://purl.obolibrary.org/obo/OBI_0200051	PCA	PCA method	0.667	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+2403	http://purl.obolibrary.org/obo/CHMO_0000112	scanning-probe microscopy	scanning-probe microscopy	0.981	bao	scanning probe microscopy	http://www.bioassayontology.org/bao#BAO_0000459
+2418	http://purl.obolibrary.org/obo/CHMO_0000113	atomic-force microscopy	atomic-force microscopy diagnostic	0.833	bao	atomic force microscopy	http://www.bioassayontology.org/bao#BAO_0002523
+2419	http://purl.obolibrary.org/obo/CHMO_0000113	atomic-force microscopy	atomic-force microscopy sampling	0.854	bao	atomic force microscopy	http://www.bioassayontology.org/bao#BAO_0002523
+2420	http://purl.obolibrary.org/obo/CHMO_0000113	atomic-force microscopy	atomic-force microscopy	0.991	bao	atomic force microscopy	http://www.bioassayontology.org/bao#BAO_0002523
+2422	http://purl.obolibrary.org/obo/CHMO_0000113	AFM	AFM method	0.667	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+2425	http://purl.obolibrary.org/obo/CHMO_0000954	AFM	AFM method	0.667	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+2601	http://purl.obolibrary.org/obo/CHMO_0002236	dark-field optical microscope	dark-field optical microscope study	0.735	bao	optical microscope	http://www.bioassayontology.org/bao#BAO_0150009
+2602	http://purl.obolibrary.org/obo/CHMO_0002236	dark-field optical microscope	dark-field optical microscope	0.802	bao	optical microscope	http://www.bioassayontology.org/bao#BAO_0150009
+2604	http://purl.obolibrary.org/obo/CHMO_0002236	dark field optical microscope	dark field optical microscope diagnostic	0.702	bao	optical microscope	http://www.bioassayontology.org/bao#BAO_0150009
+2605	http://purl.obolibrary.org/obo/CHMO_0002236	dark field optical microscope	dark field optical microscope study	0.735	bao	optical microscope	http://www.bioassayontology.org/bao#BAO_0150009
+2606	http://purl.obolibrary.org/obo/CHMO_0002236	dark field optical microscope	dark field optical microscope	0.802	bao	optical microscope	http://www.bioassayontology.org/bao#BAO_0150009
+2610	http://purl.obolibrary.org/obo/CHMO_0001077	QCM	QCM method	0.667	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+2631	http://purl.obolibrary.org/obo/OBI_0000094	sample preparative method	sample preparative method analysis	0.627	bao	preparation method	http://www.bioassayontology.org/bao#BAO_0002014
+2632	http://purl.obolibrary.org/obo/OBI_0000094	sample preparative method	sample preparative method tests	0.66	bao	preparation method	http://www.bioassayontology.org/bao#BAO_0002014
+2633	http://purl.obolibrary.org/obo/OBI_0000094	sample preparative method	sample preparative method	0.728	bao	preparation method	http://www.bioassayontology.org/bao#BAO_0002014
+2637	http://purl.obolibrary.org/obo/OBI_0000094	preparative method	preparative method	0.847	bao	preparation method	http://www.bioassayontology.org/bao#BAO_0002014
+2639	http://purl.obolibrary.org/obo/OBI_0000094	preparative method	preparative method study	0.745	bao	preparation method	http://www.bioassayontology.org/bao#BAO_0002014
+2679	http://purl.obolibrary.org/obo/CHMO_0000120	near-field scanning optical microscopy	near-field scanning optical microscopy approach	0.788	bao	scanning near-field optical microscopy	http://www.bioassayontology.org/bao#BAO_0002512
+2680	http://purl.obolibrary.org/obo/CHMO_0000120	near-field scanning optical microscopy	near-field scanning optical microscopy	0.876	bao	scanning near-field optical microscopy	http://www.bioassayontology.org/bao#BAO_0002512
+2681	http://purl.obolibrary.org/obo/CHMO_0000120	near-field scanning optical microscopy	near-field scanning optical microscopy design	0.808	bao	scanning near-field optical microscopy	http://www.bioassayontology.org/bao#BAO_0002512
+2718	http://purl.obolibrary.org/obo/CHMO_0000948	CCD	CCD	0.651	bao	CCD Luminometer	http://www.bioassayontology.org/bao#BAO_0000878
+2723	http://purl.obolibrary.org/obo/CHMO_0000948	CCD array	CCD array	0.766	bao	array	http://www.bioassayontology.org/bao#BAO_0000514
+2796	http://purl.obolibrary.org/obo/CHMO_0001019	cataphoresis	cataphoresis method	0.472	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+2835	http://purl.obolibrary.org/obo/CHMO_0002182	electron-multiplying CCD	electron-multiplying CCD	0.641	bao	electron multiplying charge coupled device	http://www.bioassayontology.org/bao#BAO_0150025
+2838	http://purl.obolibrary.org/obo/CHMO_0002182	electron multiplying CCD	electron multiplying CCD	0.641	bao	electron multiplying charge coupled device	http://www.bioassayontology.org/bao#BAO_0150025
+2842	http://purl.obolibrary.org/obo/CHMO_0002182	EMCCD	EMCCD method	0.603	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+2858	http://purl.obolibrary.org/obo/CHMO_0000291	MAS	MAS method	0.667	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+2883	http://purl.obolibrary.org/obo/CHMO_0001751	phosphate-buffered saline (PBS) solution	phosphate-buffered saline (PBS) solution process	0.729	bao	phosphate buffered saline	http://www.bioassayontology.org/bao#BAO_0000012
+2884	http://purl.obolibrary.org/obo/CHMO_0001751	phosphate-buffered saline (PBS) solution	phosphate-buffered saline (PBS) solution sampling	0.75	bao	phosphate buffered saline	http://www.bioassayontology.org/bao#BAO_0000012
+2885	http://purl.obolibrary.org/obo/CHMO_0001751	phosphate-buffered saline (PBS) solution	phosphate-buffered saline (PBS) solution	0.801	bao	phosphate buffered saline	http://www.bioassayontology.org/bao#BAO_0000012
+2886	http://purl.obolibrary.org/obo/CHMO_0001751	phosphate-buffered salt solution	phosphate-buffered salt solution	0.743	bao	phosphate buffered saline	http://www.bioassayontology.org/bao#BAO_0000012
+2887	http://purl.obolibrary.org/obo/CHMO_0001751	phosphate-buffered salt solution	phosphate-buffered salt solution detection	0.603	bao	phosphate buffered saline	http://www.bioassayontology.org/bao#BAO_0000012
+2892	http://purl.obolibrary.org/obo/CHMO_0001751	PBS buffer	PBS buffer	0.587	bao	phosphate buffer	http://www.bioassayontology.org/bao#BAO_0000696
+2908	http://purl.obolibrary.org/obo/OBI_0600020	histology	histology testing	0.747	bao	Histology	http://purl.obolibrary.org/obo/NCIT_C16681
+2909	http://purl.obolibrary.org/obo/OBI_0600020	histology	histology	0.996	bao	Histology	http://purl.obolibrary.org/obo/NCIT_C16681
+2931	http://purl.obolibrary.org/obo/OBI_0000070	any method	any method	0.817	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+2933	http://purl.obolibrary.org/obo/OBI_0000070	any method	any method analysis	0.805	bao	image analysis method	http://www.bioassayontology.org/bao#BAO_0040001
+2934	http://purl.obolibrary.org/obo/OBI_0000070	study assay	study assay method	0.822	bao	assay method	http://www.bioassayontology.org/bao#BAO_0003028
+2950	http://purl.obolibrary.org/obo/OBI_0000796	isolation objective	isolation objective review	0.498	bao	objective lens	http://www.bioassayontology.org/bao#BAO_0150016
+3000	http://purl.obolibrary.org/obo/CHEBI_28262	dmso	dmso	1.0	bao	DMSO	http://www.bioassayontology.org/bao#BAO_0000118

@@ -1,0 +1,1236 @@
+Term	T2T best score	Ontology	Term	TermID
+gel permeation chromatography	0.969	ncit	Gel Filtration Chromatography	http://purl.obolibrary.org/obo/NCIT_C16433
+fluorescence resonance energy transfer	0.986	bao	fluorescence resonance energy transfer	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000001
+MRS testing	0.825	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+aperture-SNOM study	0.829	chmo	scanning near-field optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000120
+transcription profiling by high throughput sequencing analysis	0.88	efo	transcription profiling by high throughput sequencing	http://www.ebi.ac.uk/efo/EFO_0002770
+study assay method	0.822	bao	assay method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003028
+spectrograph analysis	0.626	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+spectrophotometer assessment	0.782	ncit	Spectrophotometer	http://purl.obolibrary.org/obo/NCIT_C62333
+uplc-ms	0.612	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+AFM	1	chmo	atomic force microscopy	http://purl.obolibrary.org/obo/CHMO_0000113
+fluorescence resonance energy transfer microscopy process	0.907	chmo	fluorescence resonance energy transfer	http://purl.obolibrary.org/obo/CHMO_0000064
+anion exchange chromatography diagnostic	0.712	mmo	anion-exchange chromatography	http://purl.obolibrary.org/obo/MMO_0000678
+assay	1	obi	assay	http://purl.obolibrary.org/obo/OBI_0000070
+X-ray source	0.682	ncit	Patient Identifier	http://purl.obolibrary.org/obo/NCIT_C164337
+fluorescence resonance energy transfer assay identification	0.841	chmo	fluorescence resonance energy transfer	http://purl.obolibrary.org/obo/CHMO_0000064
+syringe pump	0.762	ncit	Syringe Device	http://purl.obolibrary.org/obo/NCIT_C50207
+transmitted light microscopy	0.948	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+molecular electronic absorption spectroscopy	0.917	chmo	spectrophotometry	http://purl.obolibrary.org/obo/CHMO_0000291
+ELISPOT assay sampling	0.61	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+IHC	1	ncit	Immunohistochemistry Staining Method	http://purl.obolibrary.org/obo/NCIT_C23020
+EMCCD method	0.603	bao	assay method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003028
+aperture-NSOM administration	0.71	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+GC	0.99	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+analytical chromatography detection	0.836	obi	analytical chromatography	http://purl.obolibrary.org/obo/OBI_0001630
+transmission EM design	0.726	ncit	Transmission	http://purl.obolibrary.org/obo/NCIT_C71292
+laser-capture microdissection	0.979	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+solubility diagnostic	0.697	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+dmso process	0.783	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+plate reader detection	0.711	mmo	microplate reader	http://purl.obolibrary.org/obo/MMO_0000714
+high-pressure liquid chromatography testing	0.776	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+ECG design	0.801	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+cell proliferation assay	0.972	ncit	Cell Proliferation Assay	http://purl.obolibrary.org/obo/NCIT_C116553
+ultra-performance liquid chromatography-mass spectrometry	0.954	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+FACS sampling	0.788	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+mass spec surveillance	0.74	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+uplc-mass spec	0.797	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+enzyme-linked immunosorbent spot assay detection	0.794	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+RI detector	0.872	ncit	Detector Device	http://purl.obolibrary.org/obo/NCIT_C49916
+IHC process	0.821	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+electrocardiography	0.991	ncit	Electrocardiography	http://purl.obolibrary.org/obo/NCIT_C38053
+labelling study	0.765	efo	labelling	http://www.ebi.ac.uk/efo/EFO_0000562
+quality administration	0.79	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+nuclear magnetic resonance spectrometry	0.967	chmo	pulsed nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000613
+electrophoretic analysis design	0.677	ncit	Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C16536
+DMSO	1	bao	DMSO	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000118
+LC/MS	0.975	chmo	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524
+liquid chromatography	0.992	bao	liquid chromatography	http://purl.obolibrary.org/obo/ERO_0001500
+kinetic polymerase chain reaction approach	0.767	edam	PCR experiment	http://edamontology.org/topic_3519
+graphite furnace atomic absorption spectroscopy tests	0.917	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+analytical chromatography testing	0.862	obi	analytical chromatography	http://purl.obolibrary.org/obo/OBI_0001630
+autoclave	0.971	ncit	Autoclave	http://purl.obolibrary.org/obo/NCIT_C93052
+gel electrophoresis detection	0.813	ncit	Electrophoresis Gel	http://purl.obolibrary.org/obo/NCIT_C45307
+transmitted-light microscopy surveillance	0.784	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+liquid scintillation counter review	0.788	mmo	liquid scintillation counting	http://purl.obolibrary.org/obo/MMO_0000238
+spectrometer surveillance	0.699	ncit	Spectrometer	http://purl.obolibrary.org/obo/NCIT_C62336
+dark-field microscopy study	0.879	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+thin layer chromatography administration	0.759	mmo	thin layer chromatography	http://purl.obolibrary.org/obo/MMO_0000289
+RNA-seq	0.71	ncit	Whole Transcriptome Sequencing	http://purl.obolibrary.org/obo/NCIT_C124261
+material component separation administration	0.747	obi	material component separation	http://purl.obolibrary.org/obo/OBI_0600014
+molecular electronic absorption spectroscopy assessment	0.835	chmo	spectrophotometry	http://purl.obolibrary.org/obo/CHMO_0000291
+rinsing surveillance	0.76	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+spectrophotometer analysis	0.813	ncit	Spectrophotometer	http://purl.obolibrary.org/obo/NCIT_C62333
+inductively coupled plasma mass spectrometry	0.98	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+microscopy	0.995	bao	microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002526
+LC-MSMS approach	0.74	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+tomography review	0.789	edam	Tomography	http://edamontology.org/topic_3452
+microplate reader method	0.839	ncit	Microplate Reader	http://purl.obolibrary.org/obo/NCIT_C70661
+ChIP testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+isolation objective process	0.519	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+northern blot assay identification	0.692	mmo	Northern blot assay	http://purl.obolibrary.org/obo/MMO_0000647
+liquid chromatography tandem mass spectroscopy	0.945	chmo	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701
+autosampler surveillance	0.69	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+scanning near-field optical microscopy surveillance	0.753	bao	scanning near-field optical microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002512
+TLC	0.99	ncit	Cytotoxic T-Lymphocyte Count	http://purl.obolibrary.org/obo/NCIT_C181186
+bioassay sampling	0.693	ncit	Bioassay	http://purl.obolibrary.org/obo/NCIT_C16341
+LCM tests	0.774	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+extraction sampling	0.711	ncit	Extraction	http://purl.obolibrary.org/obo/NCIT_C61575
+fluorescence microscopy detection	0.839	bao	fluorescence microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000450
+MRI	1	mmo	magnetic resonance imaging	http://purl.obolibrary.org/obo/MMO_0000019
+computed axial tomography diagnostic	0.803	ncit	Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17204
+gas column chromatography	0.976	mmo	gas chromatography	http://purl.obolibrary.org/obo/MMO_0000469
+material transformation system	0.686	ncit	Data Transformation	http://purl.obolibrary.org/obo/NCIT_C43582
+imaging assay surveillance	0.676	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+VPC method	0.667	bao	assay method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003028
+Northern blot assay method	0.803	mmo	Northern blot assay	http://purl.obolibrary.org/obo/MMO_0000647
+Q-PCR	0.866	mmo	polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000459
+protein immunoblot assay	0.816	ncit	Immunoblot Analysis	http://purl.obolibrary.org/obo/NCIT_C17638
+MS-MS tests	0.778	ncit	Metric System	http://purl.obolibrary.org/obo/NCIT_C42540
+volumetric titration surveillance	0.749	bao	volumetric titration	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002454
+digital scale surveillance	0.702	mmo	whole body digital scale	http://purl.obolibrary.org/obo/MMO_0000017
+electrocardiogram testing	0.891	ncit	Electrocardiogram Test	http://purl.obolibrary.org/obo/NCIT_C83146
+confocal microscopy system	0.855	bao	confocal microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000453
+purification diagnostic	0.692	ncit	Purification	http://purl.obolibrary.org/obo/NCIT_C68780
+study assay	0.707	obi	assay	http://purl.obolibrary.org/obo/OBI_0000070
+LCMS method	0.633	bao	assay method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003028
+gas chromatography mass spectroscopy	0.942	chmo	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497
+chloroform method	0.508	chmo	polarimetry of sample dissolved in chloroform	http://purl.obolibrary.org/obo/CHMO_0002898
+carbon nanotube	0.791	bao	carbon nanotube based sensor	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000471
+principal components analysis dimensionality reduction identification	0.81	obi	principal components analysis dimensionality reduction	http://purl.obolibrary.org/obo/OBI_0200051
+western blot tests	0.826	bao	western blot	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002424
+RNA-seq design	0.694	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+gas chromatography-mass spectroscopy review	0.867	chmo	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497
+TEM testing	0.876	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+reflectron	0.951	ncit	Reflectron	http://purl.obolibrary.org/obo/NCIT_C70697
+isolation objective	0.575	bao	objective lens	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150016
+superconducting quantum interference device magnetometer process	0.851	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+CAT scan approach	0.715	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+material entity	0.985	bao	material entity	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003116
+aperture-SNOM	0.986	chmo	scanning near-field optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000120
+dialysis	0.994	ncit	Dialysis Method of Administration	http://purl.obolibrary.org/obo/NCIT_C149433
+high performance liquid chromatography-mass spectrometry testing	0.926	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+fluorescence microscopic imaging	0.955	chmo	fluorescence microscopy	http://purl.obolibrary.org/obo/CHMO_0000087
+flame AAS study	0.615	ncit	Clinical Study	http://purl.obolibrary.org/obo/NCIT_C15206
+CT scan analysis	0.749	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+fluorescence resonance energy transfer assay	0.961	chmo	fluorescence resonance energy transfer	http://purl.obolibrary.org/obo/CHMO_0000064
+DIMETHYL SULFOXIDE tests	0.674	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+phosphate-buffered saline (PBS) solution sampling	0.75	bao	phosphate buffered saline	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000012
+scale design	0.725	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+cation-exchange column sampling	0.516	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+mass spec tests	0.766	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+purification	0.937	ncit	Purification	http://purl.obolibrary.org/obo/NCIT_C68780
+immunoassay process	0.771	ncit	Immunoenzyme Procedure	http://purl.obolibrary.org/obo/NCIT_C16714
+bright-field microscopy review	0.822	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+volumetric titration approach	0.803	bao	volumetric titration	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002454
+material transformation sampling	0.664	ncit	Data Transformation	http://purl.obolibrary.org/obo/NCIT_C43582
+histology testing	0.747	bao	Histology	http://purl.obolibrary.org/obo/NCIT_C16681
+whole transcriptome sequencing approach	0.866	ncit	Whole Transcriptome Sequencing	http://purl.obolibrary.org/obo/NCIT_C124261
+graphite furnace atomic absorption spectrometry approach	0.883	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+Not4Curation system	0.572	ncit	Drug Delivery System	http://purl.obolibrary.org/obo/NCIT_C17423
+flow cytometer method	0.827	ncit	Flow Cytometer	http://purl.obolibrary.org/obo/NCIT_C78806
+PCR study	0.785	ncit	DICOM Study	http://purl.obolibrary.org/obo/NCIT_C63537
+spectroscope approach	0.629	chmo	spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000228
+gel filtration chromatography process	0.863	mmo	gel filtration chromatography	http://purl.obolibrary.org/obo/MMO_0000684
+high pressure liquid chromatography	0.856	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+magnetic resonance imaging surveillance	0.859	edam	MRI	http://edamontology.org/topic_3444
+dark field microscope approach	0.743	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+(CH3)2SO	0.336	ncit	Neurogenic Locus Notch Homolog Protein 3 Staining Method	http://purl.obolibrary.org/obo/NCIT_C122869
+ChIP-chip	0.999	efo	ChIP	http://www.ebi.ac.uk/efo/EFO_0004176
+dark-field optical microscopy	0.845	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+principal component analysis	0.968	ncit	Principal Component Analysis	http://purl.obolibrary.org/obo/NCIT_C49291
+atomic-force microscopy diagnostic	0.833	bao	atomic force microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002523
+high-performance liquid chromatography-mass spectrometry	0.985	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+FAAS method	0.633	bao	assay method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003028
+reflectron detection	0.703	ncit	Reflectron	http://purl.obolibrary.org/obo/NCIT_C70697
+aperture SNOM identification	0.712	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+BRET testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+NMR detection	0.816	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+plate reader approach	0.729	mmo	microplate reader	http://purl.obolibrary.org/obo/MMO_0000714
+sample preparation for assay	0.813	obi	sample preparation for assay	http://purl.obolibrary.org/obo/OBI_0000073
+synchrotrons sampling	0.69	ncit	Synchrotron	http://purl.obolibrary.org/obo/NCIT_C48205
+GC-MS	0.963	chmo	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497
+electron microscopy	0.993	edam	Electron microscopy	http://edamontology.org/topic_0611
+LCMSMS	0.975	chmo	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701
+x-ray generator surveillance	0.662	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+immunohistochemistry analysis	0.847	mmo	immunohistochemistry	http://purl.obolibrary.org/obo/MMO_0000498
+Karl–Fischer titration review	0.829	chmo	Karl–Fischer titration	http://purl.obolibrary.org/obo/CHMO_0002535
+colorimetric analysis	0.768	mmo	urine protein colorimetric analysis	http://purl.obolibrary.org/obo/MMO_0000423
+preparative chromatography	0.978	obi	preparative chromatography	http://purl.obolibrary.org/obo/OBI_0600046
+radio immuno assay surveillance	0.681	obi	radio immuno assay	http://purl.obolibrary.org/obo/OBI_0000910
+centrifugation surveillance	0.694	mmo	centrifugation	http://purl.obolibrary.org/obo/MMO_0000712
+mass spectrometer	0.988	ncit	Mass Spectrometer	http://purl.obolibrary.org/obo/NCIT_C47875
+quantitative real time polymerase chain reaction	0.97	mmo	real-time polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000460
+L3CCD	0.366	ncit	Color Flow Doppler Ultrasound Imaging	http://purl.obolibrary.org/obo/NCIT_C190518
+superconducting quantum interference magnetometer	0.803	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+sample preparative method analysis	0.627	bao	preparation method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002014
+gel electrophoresis	0.988	ncit	Electrophoresis Gel	http://purl.obolibrary.org/obo/NCIT_C45307
+washing	0.948	efo	washing	http://www.ebi.ac.uk/efo/EFO_0000735
+FACS	0.997	efo	fluorescence-activated cell sorting	http://www.ebi.ac.uk/efo/EFO_0009108
+liquid chromatography tandem mass spectroscopy sampling	0.867	chmo	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701
+NMR	0.999	chmo	pulsed nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000613
+Ultra Performance Liquid Chromatography/Mass Spectrometry	0.954	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+packed column design	0.566	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+superconducting quantum interference device (SQUID) magnetometer system	0.825	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+immunoprecipitation	0.976	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+GPC	0.741	ncit	Glycerophosphorylcholine and Phosphorylcholine Measurement	http://purl.obolibrary.org/obo/NCIT_C158261
+mass spectrometry	0.988	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+gas chromatography oven	0.891	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+thin-layer chromatography	0.962	mmo	thin layer chromatography	http://purl.obolibrary.org/obo/MMO_0000289
+sample preparation for assay process	0.706	obi	sample preparation for assay	http://purl.obolibrary.org/obo/OBI_0000073
+polymerase chain reaction assay	0.954	mmo	polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000459
+RI detector surveillance	0.706	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+detector process	0.712	ncit	Detector Device	http://purl.obolibrary.org/obo/NCIT_C49916
+microplate photometer	0.976	mmo	microplate reader	http://purl.obolibrary.org/obo/MMO_0000714
+inductively coupled plasma-mass spectrometry	0.98	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+DMSO approach	0.8	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+near-field scanning optical microscopy design	0.808	bao	scanning near-field optical microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002512
+purification objective sampling	0.603	ncit	Purification	http://purl.obolibrary.org/obo/NCIT_C68780
+protein immunoblot assay process	0.673	efo	protein assay	http://www.ebi.ac.uk/efo/EFO_0001458
+bright field microscopy tests	0.838	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+bioaffinity chromatography design	0.789	ncit	Affinity Chromatography	http://purl.obolibrary.org/obo/NCIT_C16432
+real-time PCR testing	0.747	ncit	Real Time PCR	http://purl.obolibrary.org/obo/NCIT_C51962
+light microscope design	0.84	ncit	Light Microscope	http://purl.obolibrary.org/obo/NCIT_C28265
+VPC design	0.801	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+material maintenance	0.966	obi	material maintenance	http://purl.obolibrary.org/obo/OBI_0000838
+liquid chromatography mass spectrometry	0.987	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+ETAAS	0.983	chmo	electrothermal atomic absorption spectrometry	http://purl.obolibrary.org/obo/CHMO_0000237
+MAS method	0.667	bao	assay method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003028
+electrophoretic analysis	0.7	ncit	Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C16536
+Northern blot assay	0.934	mmo	Northern blot assay	http://purl.obolibrary.org/obo/MMO_0000647
+scanning probe microscopy	0.981	bao	scanning probe microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000459
+LCMS approach	0.8	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+fluorescence (FL) detection review	0.842	chmo	fluorescence detection	http://purl.obolibrary.org/obo/CHMO_0000060
+LCMSMS method	0.689	chmo	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701
+quantitative real time polymerase chain reaction surveillance	0.866	mmo	real-time polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000460
+dimethylsulfoxyde identification	0.652	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+enzyme-linked immunosorbent spot assay sampling	0.805	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+LC-MS2 system	0.731	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+electrophoretic analysis analysis	0.817	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+fluorescence resonance energy transfer design	0.92	bao	fluorescence resonance energy transfer	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000001
+computed axial tomography	0.962	ncit	Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17204
+colourimetry detection	0.706	chmo	colorimetry	http://purl.obolibrary.org/obo/CHMO_0000001
+QCM method	0.667	bao	assay method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003028
+northern blot assay assessment	0.734	mmo	Northern blot assay	http://purl.obolibrary.org/obo/MMO_0000647
+DIMETHYL SULFOXIDE	0.767	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+personal protective equipment tests	0.879	ncit	Personal Protective Equipment	http://purl.obolibrary.org/obo/NCIT_C173748
+Dimethyl sulfoxide testing	0.645	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+high performance liquid chromatography mass spectroscopy	0.953	chmo	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796
+real time polymerase chain reaction assay	0.936	obi	real time polymerase chain reaction assay	http://purl.obolibrary.org/obo/OBI_0000893
+TIRFM process	0.75	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+chromatin immunoprecipitation sampling	0.881	edam	Immunoprecipitation experiment	http://edamontology.org/topic_3656
+LCSM	0.616	ncit	Lung Cancer Symptom Scale Questionnaire	http://purl.obolibrary.org/obo/NCIT_C187515
+ultra-performance liquid chromatography-mass spectrometry administration	0.853	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+principal components analysis dimensionality reduction	0.934	obi	principal components analysis dimensionality reduction	http://purl.obolibrary.org/obo/OBI_0200051
+laser capture microdissection approach	0.86	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+any method	0.817	bao	assay method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003028
+gel-permeation chromatography	0.969	ncit	Gel Filtration Chromatography	http://purl.obolibrary.org/obo/NCIT_C16433
+UPLC/MS testing	0.723	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+tandem mass spectroscopy review	0.802	chmo	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575
+fluorescence detection assessment	0.809	obi	fluorescence detection assay	http://purl.obolibrary.org/obo/OBI_0001501
+LC/MS administration	0.854	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+Northern blot assay assessment	0.734	mmo	Northern blot assay	http://purl.obolibrary.org/obo/MMO_0000647
+MRS	0.998	mmo	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/MMO_0000709
+light source method	0.792	bao	light source	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150029
+phosphate-buffered saline solution	0.838	bao	phosphate buffered saline	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000012
+methylsulfinylmethane design	0.602	ncit	Methane Measurement	http://purl.obolibrary.org/obo/NCIT_C186080
+refractive index detector	0.868	chmo	refractive index detection	http://purl.obolibrary.org/obo/CHMO_0001730
+scanning probe microscope surveillance	0.791	ncit	Scanning Probe Microscope	http://purl.obolibrary.org/obo/NCIT_C78803
+micromanipulator	0.67	ncit	Nanomanipulator	http://purl.obolibrary.org/obo/NCIT_C62331
+device review	0.767	ncit	Medical Device	http://purl.obolibrary.org/obo/NCIT_C16830
+anion chromatography administration	0.645	ncit	Administration, Management	http://purl.obolibrary.org/obo/NCIT_C48905
+nanotube tests	0.608	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+S(O)Me2 review	0.76	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+nuclear magnetic resonance spectroscopy surveillance	0.88	edam	NMR	http://edamontology.org/topic_0593
+aperture SNOM method	0.805	chmo	scanning near-field optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000120
+protein expression assay tests	0.875	mmo	protein expression assay	http://purl.obolibrary.org/obo/MMO_0000642
+L3Vision CCD testing	0.615	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+HISTOLOGY	0.996	bao	Histology	http://purl.obolibrary.org/obo/NCIT_C16681
+volumetric titration	0.957	bao	volumetric titration	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002454
+enzyme linked immunosorbent assay	0.95	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+gas-liquid column chromatography detection	0.812	mmo	liquid column chromatography	http://purl.obolibrary.org/obo/MMO_0000404
+liquid chromatography tandem mass spectrometry	0.951	chmo	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701
+analyte assay	0.955	chmo	analyte assay	http://purl.obolibrary.org/obo/OBI_0000443
+device diagnostic	0.779	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+serial analysis of gene expression assay testing	0.865	mmo	serial analysis of gene expression assay	http://purl.obolibrary.org/obo/MMO_0000660
+bioassay diagnostic	0.734	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+GFAAS study	0.702	ncit	Study	http://purl.obolibrary.org/obo/NCIT_C63536
+scanning electron microscopy	0.985	bao	scanning electron microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000454
+VPC diagnostic	0.864	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+northern blot assay	0.934	mmo	Northern blot assay	http://purl.obolibrary.org/obo/MMO_0000647
+ultra-performance LC-MS analysis	0.708	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+preparative column chromatography identification	0.728	obi	preparative chromatography	http://purl.obolibrary.org/obo/OBI_0600046
+preparative method	0.847	bao	preparation method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002014
+material type	0.684	ncit	Trial Type	http://purl.obolibrary.org/obo/NCIT_C49660
+flow cytometry review	0.816	ncit	Flow Cytometry	http://purl.obolibrary.org/obo/NCIT_C16585
+reverse transcription polymerase chain reaction	0.966	mmo	reverse transcription polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000655
+scanning probe microscopy study	0.889	bao	scanning probe microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000459
+bright-field optical microscopy tests	0.744	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+GC approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+reflectron diagnostic	0.697	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+LC-MSMS review	0.694	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+pump function assessment	0.796	ncit	Functional Assessment	http://purl.obolibrary.org/obo/NCIT_C81250
+calorimeter testing	0.619	chmo	calorimetry	http://purl.obolibrary.org/obo/CHMO_0000682
+ion-exchange column tests	0.545	chmo	nuclear Overhauser enhancement spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000607
+immunoassay	0.986	ncit	Immunoenzyme Procedure	http://purl.obolibrary.org/obo/NCIT_C16714
+gel filtration chromatography testing	0.863	mmo	gel filtration chromatography	http://purl.obolibrary.org/obo/MMO_0000684
+atomic force imaging diagnostic	0.791	chmo	atomic force microscopy	http://purl.obolibrary.org/obo/CHMO_0000113
+RNA-seq assay	0.852	efo	RNA assay	http://www.ebi.ac.uk/efo/EFO_0001457
+personal protective equipment	0.957	ncit	Personal Protective Equipment	http://purl.obolibrary.org/obo/NCIT_C173748
+anatomization review	0.551	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+fluorescence resonance energy transfer microscopy design	0.915	chmo	fluorescence resonance energy transfer	http://purl.obolibrary.org/obo/CHMO_0000064
+analyte role	0.763	obi	analyte assay	http://purl.obolibrary.org/obo/OBI_0000443
+Dimethylsulfoxid study	0.548	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+flame atomic absorption spectrometry	0.968	mmo	flame atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000379
+GC MS analysis	0.809	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+tandem MS	0.993	chmo	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575
+aperture scanning near-field optical microscopy	0.882	chmo	scanning near-field optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000120
+precipitation study	0.797	ncit	Protein Precipitation	http://purl.obolibrary.org/obo/NCIT_C113065
+spectroscope sampling	0.629	chmo	spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000228
+fluorescence activated cell sorting testing	0.875	chmo	fluorescence-activated cell sorting	http://purl.obolibrary.org/obo/CHMO_0001085
+X-ray computed tomography method	0.795	edam	Tomography	http://edamontology.org/topic_3452
+LC MS identification	0.855	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+electrothermal atomic absorption spectrometry	0.933	chmo	electrothermal atomic absorption spectrometry	http://purl.obolibrary.org/obo/CHMO_0000237
+anion-exchange column	0.586	chmo	nuclear Overhauser enhancement spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000607
+kinetic polymerase chain reaction	0.863	edam	PCR experiment	http://edamontology.org/topic_3519
+tandem mass spectrometry	0.986	ncit	Tandem Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18142
+dark-field optical microscopy surveillance	0.699	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+NMR spectrometry	0.957	chmo	pulsed nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000613
+ion source tests	0.752	ncit	Ionization Source	http://purl.obolibrary.org/obo/NCIT_C47927
+MS2 analysis	0.845	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+phosphate buffer solution identification	0.63	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+function review	0.642	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+gas chromatography with mass spectrometric detection	0.934	chmo	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497
+ChIP-on-chip approach	0.816	efo	ChIP	http://www.ebi.ac.uk/efo/EFO_0004176
+electrophoresis design	0.86	ncit	Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C16536
+ion source	0.937	ncit	Ionization Source	http://purl.obolibrary.org/obo/NCIT_C47927
+RT-PCR	0.775	mmo	polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000459
+RIA surveillance	0.855	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+PCR	1	mmo	polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000459
+magnetic resonance imaging	0.992	edam	MRI	http://edamontology.org/topic_3444
+atomic force microscope	0.987	ncit	Atomic Force Microscope	http://purl.obolibrary.org/obo/NCIT_C78804
+GCMS	0.962	chmo	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497
+dark-field optical microscope study	0.735	bao	optical microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150009
+packed column	0.669	ncit	Separation Column	http://purl.obolibrary.org/obo/NCIT_C47874
+F-AAS identification	0.855	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+spirometry system	0.775	ncit	Spirometry	http://purl.obolibrary.org/obo/NCIT_C85397
+electroporation	0.955	ncit	Electroporation	http://purl.obolibrary.org/obo/NCIT_C15707
+GSC approach	0.835	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+pulse oximetry approach	0.769	ncit	Pulse Oximetry	http://purl.obolibrary.org/obo/NCIT_C38085
+gas chromatography method	0.852	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+superconducting quantum interference magnetometer diagnostic	0.732	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+ELISA sampling	0.757	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+any method tests	0.66	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+X-ray computed tomography identification	0.701	edam	Tomography	http://edamontology.org/topic_3452
+enzyme-linked immunosorbent spot assay system	0.823	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+biologic assay analysis	0.735	mmo	bioassay	http://purl.obolibrary.org/obo/MMO_0000441
+enzyme linked immunosorbent assay tests	0.88	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+high performance liquid chromatography-mass spectroscopy tests	0.91	chmo	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796
+UPLC/MS	0.612	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+light microscope	0.994	ncit	Light Microscope	http://purl.obolibrary.org/obo/NCIT_C28265
+confocal laser scanning microscopy analysis	0.865	ncit	Confocal Microscopy	http://purl.obolibrary.org/obo/NCIT_C17753
+biologic assay	0.934	mmo	bioassay	http://purl.obolibrary.org/obo/MMO_0000441
+high-performance liquid chromatography-mass spectrometry approach	0.919	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+graphite furnace atomic absorption spectrometry	0.962	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+titration calorimetry tests	0.843	chmo	isothermal titration calorimetry	http://purl.obolibrary.org/obo/CHMO_0000683
+information entity	0.663	ncit	Patent Information	http://purl.obolibrary.org/obo/NCIT_C79291
+PBS system	0.809	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+nuclear magnetic resonance imaging	0.99	edam	MRI	http://edamontology.org/topic_3444
+quality system	0.673	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+real-time polymerase chain reaction assay surveillance	0.821	obi	real time polymerase chain reaction assay	http://purl.obolibrary.org/obo/OBI_0000893
+function approach	0.692	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+Coomassie dye protein assay process	0.816	mmo	Bradford protein assay	http://purl.obolibrary.org/obo/MMO_0000426
+high-performance liquid chromatography	0.984	ncit	High Performance Liquid Chromatography	http://purl.obolibrary.org/obo/NCIT_C16434
+volumetric titration testing	0.818	bao	volumetric titration	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002454
+electron-multiplying CCD	0.641	bao	electron multiplying charge coupled device	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150025
+autoradiography	0.997	bao	autoradiography	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002527
+kinetic polymerase chain reaction analysis	0.767	edam	PCR experiment	http://edamontology.org/topic_3519
+Karl–Fischer titration	0.945	chmo	Karl–Fischer titration	http://purl.obolibrary.org/obo/CHMO_0002535
+MRS assessment	0.851	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+LCMSMS tests	0.72	chmo	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701
+nuclear magnetic resonance imaging diagnostic	0.887	edam	MRI	http://edamontology.org/topic_3444
+BRET tests	0.73	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+TIRFM tests	0.693	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+preparative column chromatography	0.878	obi	preparative chromatography	http://purl.obolibrary.org/obo/OBI_0600046
+any method analysis	0.805	bao	image analysis method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0040001
+biological assay	0.943	mmo	bioassay	http://purl.obolibrary.org/obo/MMO_0000441
+phosphate-buffered saline solution administration	0.654	bao	phosphate buffered saline	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000012
+aperture NSOM review	0.801	chmo	scanning near-field optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000120
+ion detector	0.832	ncit	Detector Device	http://purl.obolibrary.org/obo/NCIT_C49916
+pca data reduction design	0.55	obi	data vector reduction data transformation	http://purl.obolibrary.org/obo/OBI_0200182
+quartz crystal microbalance system	0.88	obi	quartz crystal microbalance assay	http://purl.obolibrary.org/obo/OBI_0003601
+computed tomography scan system	0.795	edam	Tomography	http://edamontology.org/topic_3452
+colorimetric method process	0.817	chmo	colorimetry	http://purl.obolibrary.org/obo/CHMO_0000001
+Karl-Fischer titration	0.945	chmo	Karl–Fischer titration	http://purl.obolibrary.org/obo/CHMO_0002535
+uplc-mass spec design	0.651	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+spectrophotometer	0.986	ncit	Spectrophotometer	http://purl.obolibrary.org/obo/NCIT_C62333
+EMCCD design	0.725	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+isothermal titration microcalorimetry review	0.883	chmo	isothermal titration calorimetry	http://purl.obolibrary.org/obo/CHMO_0000683
+confocal laser scanning microscopy sampling	0.854	ncit	Confocal Microscopy	http://purl.obolibrary.org/obo/NCIT_C17753
+flow cytometric analysis sampling	0.818	chmo	flow cytometry	http://purl.obolibrary.org/obo/CHMO_0000061
+transcription profiling by high throughput sequencing	0.948	efo	transcription profiling by high throughput sequencing	http://www.ebi.ac.uk/efo/EFO_0002770
+ultra performance liquid chromatography-mass spectrometry	0.954	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+AC	0.969	ncit	Before Meals	http://purl.obolibrary.org/obo/NCIT_C64592
+bioaffinity chromatography administration	0.714	ncit	Affinity Chromatography	http://purl.obolibrary.org/obo/NCIT_C16432
+SAGE approach	0.8	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+fluorescence microscopy analysis	0.852	bao	fluorescence microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000450
+western analysis	0.723	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+HPLC	0.999	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+fluorescence detection	0.969	chmo	fluorescence detection	http://purl.obolibrary.org/obo/CHMO_0000060
+MS/MS	0.992	ncit	Metric System	http://purl.obolibrary.org/obo/NCIT_C42540
+laser capture microdissection surveillance	0.814	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+spectrum plot process	0.596	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+X-ray generator review	0.683	ncit	Generator Device	http://purl.obolibrary.org/obo/NCIT_C49970
+sensor	0.974	ncit	Sensor Device	http://purl.obolibrary.org/obo/NCIT_C50166
+high performance liquid chromatography mass spectrometry assessment	0.904	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+laser	0.988	ncit	Laser Surgery	http://purl.obolibrary.org/obo/NCIT_C15268
+instrument analysis	0.726	bao	instrument	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003118
+northern	0.989	mmo	Northern blot assay	http://purl.obolibrary.org/obo/MMO_0000647
+hemacytometer analysis	0.746	mmo	hemocytometer	http://purl.obolibrary.org/obo/MMO_0000368
+LC-MS-MS surveillance	0.706	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+dark-field microscope process	0.757	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+sensor sampling	0.729	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+QCM tests	0.774	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+laser detection	0.755	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+filtration	0.932	ncit	Filtration	http://purl.obolibrary.org/obo/NCIT_C16583
+ICPMS method	0.665	chmo	inductively coupled plasma mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000538
+HPLC-MS	0.815	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+darkfield microscopy	0.903	chmo	dark-field microscopy	http://purl.obolibrary.org/obo/CHMO_0002177
+solubility	0.979	ncit	Solubility	http://purl.obolibrary.org/obo/NCIT_C60821
+DMSO system	0.767	ncit	Drug Delivery System	http://purl.obolibrary.org/obo/NCIT_C17423
+dimetil sulfoxido detection	0.565	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+fluorescence (FL) detection approach	0.816	chmo	fluorescence detection	http://purl.obolibrary.org/obo/CHMO_0000060
+laser capture micro-dissection surveillance	0.736	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+haemacytometer review	0.634	mmo	hemocytometer	http://purl.obolibrary.org/obo/MMO_0000368
+UPLC-MS design	0.694	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+ELISPOT assay administration	0.71	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+tandem-MS	0.993	chmo	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575
+filter photometry system	0.817	mmo	colorimetry	http://purl.obolibrary.org/obo/MMO_0000327
+sample preparative method tests	0.66	bao	preparation method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002014
+S(O)Me2 detection	0.784	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+sulfinylbis(methane) administration	0.64	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+quartz crystal microbalance sampling	0.847	bao	quartz crystal microbalance	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000456
+high performance liquid chromatography-mass spectroscopy	0.953	chmo	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796
+open-tubular column design	0.501	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+graphite furnace atomic absorption spectroscopy	0.969	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+preparative method study	0.745	bao	preparation method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002014
+TIRFM	0.975	chmo	total internal reflection fluorescence microscopy	http://purl.obolibrary.org/obo/CHMO_0000094
+AC administration	0.906	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+CCD array identification	0.774	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+nanoparticle	0.812	ncit	Nanoparticle Production	http://purl.obolibrary.org/obo/NCIT_C113045
+nuclear magnetic resonance imaging administration	0.829	edam	MRI	http://edamontology.org/topic_3444
+protein expression	0.984	mmo	protein expression assay	http://purl.obolibrary.org/obo/MMO_0000642
+L3Vision CCD assessment	0.774	ncit	Vision Assessment	http://purl.obolibrary.org/obo/NCIT_C156778
+L3Vision CCD	0.464	ncit	Document Version Identifier	http://purl.obolibrary.org/obo/NCIT_C164791
+planned process	0.694	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+diffractometer method	0.75	chmo	diffraction method	http://purl.obolibrary.org/obo/CHMO_0000141
+spectrum plot surveillance	0.676	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+real-time polymerase chain reaction assay sampling	0.855	obi	real time polymerase chain reaction assay	http://purl.obolibrary.org/obo/OBI_0000893
+atomic-force microscopy	0.991	bao	atomic force microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002523
+refractive index detector tests	0.787	chmo	refractive index detection	http://purl.obolibrary.org/obo/CHMO_0001730
+filtration approach	0.695	ncit	Filtration	http://purl.obolibrary.org/obo/NCIT_C16583
+refractive-index detector tests	0.787	chmo	refractive index detection	http://purl.obolibrary.org/obo/CHMO_0001730
+dimethyl sulphoxide	0.587	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+column chromatography identification	0.75	mmo	column chromatography	http://purl.obolibrary.org/obo/MMO_0000468
+protein expression detection	0.809	mmo	protein expression assay	http://purl.obolibrary.org/obo/MMO_0000642
+MAS diagnostic	0.864	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+calorimeter process	0.619	chmo	calorimetry	http://purl.obolibrary.org/obo/CHMO_0000682
+bioluminescence resonance energy transfer	0.984	bao	bioluminescence resonance energy transfer	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000461
+tandem MS administration	0.772	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+polymerase chain reaction assay surveillance	0.798	mmo	polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000459
+(CH3)2SO administration	0.81	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+GC MS sampling	0.788	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+ChIP	0.999	efo	ChIP	http://www.ebi.ac.uk/efo/EFO_0004176
+flow cytometric studies	0.944	chmo	flow cytometry	http://purl.obolibrary.org/obo/CHMO_0000061
+confocal microscopy process	0.837	bao	confocal microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000453
+thin-layer chromatography process	0.842	mmo	thin layer chromatography	http://purl.obolibrary.org/obo/MMO_0000289
+sulfinylbis(methane)	0.614	ncit	Methane Measurement	http://purl.obolibrary.org/obo/NCIT_C186080
+tandem mass spectroscopy	0.905	chmo	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575
+EKG administration	0.878	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+electron microscope study	0.872	ncit	Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C28219
+aperture NSOM	0.981	chmo	scanning near-field optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000120
+principal component analysis testing	0.859	ncit	Principal Component Analysis	http://purl.obolibrary.org/obo/NCIT_C49291
+LCM system	0.809	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+optical microscopy assessment	0.787	bao	optical microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000451
+NMR identification	0.88	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+phosphate-buffered saline (PBS) solution process	0.729	bao	phosphate buffered saline	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000012
+information entity approach	0.554	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+spectrophotometry	0.989	mmo	spectrophotometry	http://purl.obolibrary.org/obo/MMO_0000173
+liquid chromatography-tandem mass spectroscopy sampling	0.867	chmo	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701
+anion-exchange chromatography	0.834	mmo	anion-exchange chromatography	http://purl.obolibrary.org/obo/MMO_0000678
+ICPMS	0.986	chmo	inductively coupled plasma mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000538
+pulse oximetry	0.977	ncit	Pulse Oximetry	http://purl.obolibrary.org/obo/NCIT_C38085
+(CH3)2SO system	0.7	ncit	Drug Delivery System	http://purl.obolibrary.org/obo/NCIT_C17423
+fluorescence imaging administration	0.746	chmo	fluorescence microscopy	http://purl.obolibrary.org/obo/CHMO_0000087
+chromatographic analysis	0.666	mmo	chromatography	http://purl.obolibrary.org/obo/MMO_0000288
+electrothermal atomic absorption spectrometry identification	0.821	chmo	electrothermal atomic absorption spectrometry	http://purl.obolibrary.org/obo/CHMO_0000237
+electron multiplying charge coupled device	0.976	bao	electron multiplying charge coupled device	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150025
+fluorescence activated cell sorting	0.972	ncit	Fluorescence Activated Cell Sorting	http://purl.obolibrary.org/obo/NCIT_C17353
+scale	0.995	mmo	scale	http://purl.obolibrary.org/obo/MMO_0000217
+flame atomic absorption spectroscopy study	0.91	mmo	flame atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000379
+bioluminescence resonance energy transfer design	0.921	bao	bioluminescence resonance energy transfer	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000461
+NMR spectroscopy	0.998	edam	NMR	http://edamontology.org/topic_0593
+graphite-furnace atomic-absorption spectroscopy system	0.908	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+LC-MS2 identification	0.832	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+scanning probe microscope	0.976	ncit	Scanning Probe Microscope	http://purl.obolibrary.org/obo/NCIT_C78803
+process surveillance	0.945	obi	surveillance process	http://purl.obolibrary.org/obo/OBI_0002897
+ion detector system	0.669	ncit	Detector	http://purl.obolibrary.org/obo/NCIT_C41276
+radioimmunoassay	0.98	ncit	Radioimmunoassay	http://purl.obolibrary.org/obo/NCIT_C17057
+light microscope detection	0.786	ncit	Light Microscope	http://purl.obolibrary.org/obo/NCIT_C28265
+ChIP-chip system	0.852	efo	ChIP	http://www.ebi.ac.uk/efo/EFO_0004176
+gas column chromatography process	0.855	mmo	gas chromatography	http://purl.obolibrary.org/obo/MMO_0000469
+infiltration system	0.618	ncit	Filtration	http://purl.obolibrary.org/obo/NCIT_C16583
+CT scan	0.983	ncit	Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17204
+RIA	0.999	ncit	Radioimmunoassay	http://purl.obolibrary.org/obo/NCIT_C17057
+capillary column	0.685	ncit	Applied Biosystems Capillary Sequencing	http://purl.obolibrary.org/obo/NCIT_C198570
+NSOM	0.993	chmo	scanning near-field optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000120
+computed tomography identification	0.744	edam	Tomography	http://edamontology.org/topic_3452
+fluorescence microscopic imaging study	0.884	chmo	fluorescence microscopy	http://purl.obolibrary.org/obo/CHMO_0000087
+superconducting quantum interference magnetometer testing	0.752	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+dark field optical microscope	0.802	bao	optical microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150009
+assay identification	0.832	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+scanning electron microscope process	0.868	ncit	Scanning Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C78814
+material maintenance testing	0.837	obi	material maintenance	http://purl.obolibrary.org/obo/OBI_0000838
+fermentation	0.521	ncit	Perfusion Culture Biosynthesis	http://purl.obolibrary.org/obo/NCIT_C112961
+reverse transcription polymerase chain reaction assay	0.96	mmo	reverse transcription polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000655
+histological assay	0.902	obi	histological assay	http://purl.obolibrary.org/obo/OBI_0600020
+liquid chromatography method	0.87	bao	liquid chromatography	http://purl.obolibrary.org/obo/ERO_0001500
+transmission EM	0.868	ncit	Transmission	http://purl.obolibrary.org/obo/NCIT_C71292
+measuring testing	0.713	efo	assay	http://purl.obolibrary.org/obo/OBI_0000070
+NIC	0.964	chmo	differential interference contrast microscopy	http://purl.obolibrary.org/obo/CHMO_0000107
+transmitted light microscopy process	0.841	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+near-field scanning optical microscopy approach	0.788	bao	scanning near-field optical microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002512
+high pressure liquid chromatography-mass spectrometry	0.86	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+optical microscopy administration	0.734	bao	optical microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000451
+SNOM review	0.76	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+evaporative light scattering detector identification	0.8	chmo	evaporative light scattering detection	http://purl.obolibrary.org/obo/CHMO_0001718
+biological standardization	0.593	mmo	bioassay	http://purl.obolibrary.org/obo/MMO_0000441
+electron-multiplying charge-coupled device administration	0.829	bao	electron multiplying charge coupled device	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150025
+ultra-performance LC-MS	0.838	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+density gradient centrifugation	0.968	efo	density gradient centrifugation	http://www.ebi.ac.uk/efo/EFO_0009112
+laser confocal scanning microscopy	0.97	ncit	Confocal Microscopy	http://purl.obolibrary.org/obo/NCIT_C17753
+bright field microscopy	0.932	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+SNOM testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+gas-liquid column chromatography	0.929	mmo	liquid column chromatography	http://purl.obolibrary.org/obo/MMO_0000404
+process design	0.72	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+carbon nanotube identification	0.693	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+ChIP-on-chip	0.999	efo	ChIP	http://www.ebi.ac.uk/efo/EFO_0004176
+magnetic resonance imaging method	0.894	edam	MRI	http://edamontology.org/topic_3444
+fluorescence microscopy assay method	0.853	obi	fluorescence microscopy assay	http://purl.obolibrary.org/obo/CHMO_0000087
+RI detector assessment	0.686	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+isothermal titration microcalorimetry	0.956	chmo	isothermal titration calorimetry	http://purl.obolibrary.org/obo/CHMO_0000683
+DIC	0.967	chmo	differential interference contrast microscopy	http://purl.obolibrary.org/obo/CHMO_0000107
+dimethyli sulfoxidum	0.607	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+quantitative real time polymerase chain reaction method	0.913	mmo	real-time polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000460
+electron multiplying CCD	0.641	bao	electron multiplying charge coupled device	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150025
+vapor-phase chromatography design	0.677	ncit	Chromatography	http://purl.obolibrary.org/obo/NCIT_C16431
+atomic force microscopy sampling	0.854	bao	atomic force microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002523
+histopathology	0.992	ncit	Histopathologic Examination	http://purl.obolibrary.org/obo/NCIT_C18190
+instrument system	0.77	bao	instrument	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003118
+UPLC-MS	0.612	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+purification objective administration	0.694	ncit	Medication Administration	http://purl.obolibrary.org/obo/NCIT_C128534
+synchrotron	0.967	ncit	Synchrotron	http://purl.obolibrary.org/obo/NCIT_C48205
+tomography	0.998	edam	Tomography	http://edamontology.org/topic_3452
+microwave synthesis system	0.642	obi	synthesis	http://purl.obolibrary.org/obo/OBI_0600040
+filter photometry review	0.817	mmo	colorimetry	http://purl.obolibrary.org/obo/MMO_0000327
+ion-exchange column	0.62	chmo	nuclear Overhauser enhancement spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000607
+confocal laser scanning microscopy identification	0.805	ncit	Confocal Microscopy	http://purl.obolibrary.org/obo/NCIT_C17753
+labelling tests	0.765	efo	labelling	http://www.ebi.ac.uk/efo/EFO_0000562
+molecular entity review	0.841	bao	molecular entity	http://purl.obolibrary.org/obo/CHEBI_23367
+vapor-phase chromatography assessment	0.636	ncit	Chromatography	http://purl.obolibrary.org/obo/NCIT_C16431
+whole transcriptome sequencing design	0.891	ncit	Whole Transcriptome Sequencing	http://purl.obolibrary.org/obo/NCIT_C124261
+phosphate buffer process	0.799	bao	phosphate buffer	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000696
+EM surveillance	0.885	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+LCSM analysis	0.809	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+real-time polymerase chain reaction assay detection	0.823	obi	real time polymerase chain reaction assay	http://purl.obolibrary.org/obo/OBI_0000893
+microplate reader process	0.82	ncit	Microplate Reader	http://purl.obolibrary.org/obo/NCIT_C70661
+fluorescence resonance energy transfer microscopy	0.967	chmo	fluorescence resonance energy transfer	http://purl.obolibrary.org/obo/CHMO_0000064
+MS-MS review	0.75	ncit	Mass Spectrometer	http://purl.obolibrary.org/obo/NCIT_C47875
+iquid chromatography/mass spectrometry	0.942	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+electron multiplying charge coupled device assessment	0.868	bao	electron multiplying charge coupled device	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150025
+isothermal titration calorimetry	0.969	bao	isothermal titration calorimetry	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000428
+liquid chromatography-tandem mass spectrometry assessment	0.86	chmo	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701
+SQUID magnetometer sampling	0.689	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+isolation objective review	0.498	bao	objective lens	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150016
+liquid chromatography tandem mass spectroscopy design	0.884	chmo	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701
+nanotube system	0.648	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+uplc-ms tests	0.66	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+separation method	0.954	bao	separation method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002500
+inductively coupled plasma mass spectrometry system	0.914	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+Microanatomy testing	0.772	bao	Histology	http://purl.obolibrary.org/obo/NCIT_C16681
+ITC	0.998	chmo	isothermal titration calorimetry	http://purl.obolibrary.org/obo/CHMO_0000683
+fluorescence microscopy assay identification	0.765	obi	fluorescence microscopy assay	http://purl.obolibrary.org/obo/CHMO_0000087
+co-immunoprecipitation	0.929	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+transmission electron microscopy process	0.877	bao	transmission electron microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000455
+chloroform	0.619	chmo	polarimetry of sample dissolved in chloroform	http://purl.obolibrary.org/obo/CHMO_0002898
+material transformation approach	0.664	ncit	Data Transformation	http://purl.obolibrary.org/obo/NCIT_C43582
+protein expression tests	0.865	mmo	protein expression assay	http://purl.obolibrary.org/obo/MMO_0000642
+solubility assessment	0.719	bao	solubility assay	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0010010
+laser system	0.731	ncit	Drug Delivery System	http://purl.obolibrary.org/obo/NCIT_C17423
+microscope analysis	0.742	ncit	Microscope Device	http://purl.obolibrary.org/obo/NCIT_C50069
+digital scale	0.993	mmo	whole body digital scale	http://purl.obolibrary.org/obo/MMO_0000017
+charge-coupled device	0.989	bao	charge coupled device	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150023
+gas chromatography mass spectroscopy design	0.867	chmo	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497
+density-gradient centrifugation analysis	0.863	efo	density gradient centrifugation	http://www.ebi.ac.uk/efo/EFO_0009112
+mass spectroscopy tests	0.848	chmo	mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000470
+phosphate buffer sampling	0.781	bao	phosphate buffer	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000696
+spirometry	0.981	ncit	Spirometry	http://purl.obolibrary.org/obo/NCIT_C85397
+labelling	0.954	efo	labelling	http://www.ebi.ac.uk/efo/EFO_0000562
+atomic force imaging	0.981	chmo	atomic force microscopy	http://purl.obolibrary.org/obo/CHMO_0000113
+dimethyl sulfoxide	0.767	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+evaporative light scattering detector detection	0.872	chmo	evaporative light scattering detection	http://purl.obolibrary.org/obo/CHMO_0001718
+Histology	0.996	bao	Histology	http://purl.obolibrary.org/obo/NCIT_C16681
+SQUID device	0.735	ncit	Medical Device	http://purl.obolibrary.org/obo/NCIT_C16830
+preparative method identification	0.758	ncit	Method Of Identification	http://purl.obolibrary.org/obo/NCIT_C90422
+MAS	0.988	ncit	Bioconductor caAffy MAS Probe Summary Method	http://purl.obolibrary.org/obo/NCIT_C64224
+bright-field optical microscopy	0.807	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+uplc-mass spec approach	0.619	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+GC MS	0.963	chmo	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497
+RNA blot design	0.667	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+dark field microscope	0.885	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+Impactron CCD	0.674	chmo	electron energy loss spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000366
+syringe pump diagnostic	0.68	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+computerized axial tomography (CAT) identification	0.738	ncit	Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17204
+inductively coupled plasma mass spectrometry method	0.915	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+transmission electron microscope tests	0.892	ncit	Transmission Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C78813
+LC-MSMS testing	0.723	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+confocal laser scanning microscopy	0.97	ncit	Confocal Microscopy	http://purl.obolibrary.org/obo/NCIT_C17753
+western blot	0.982	bao	western blot	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002424
+capillary column administration	0.673	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+Karl Fischer titration review	0.829	chmo	Karl–Fischer titration	http://purl.obolibrary.org/obo/CHMO_0002535
+Impactron CCD sampling	0.61	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+labeling design	0.726	ncit	Labeling	http://purl.obolibrary.org/obo/NCIT_C54694
+cation-exchange column	0.571	chmo	nuclear Overhauser enhancement spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000607
+CT scan process	0.72	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+Nomarski microscopy	0.878	chmo	differential interference contrast microscopy	http://purl.obolibrary.org/obo/CHMO_0000107
+fluorescence-activated cell sorting approach	0.87	ncit	Fluorescence Activated Cell Sorting	http://purl.obolibrary.org/obo/NCIT_C17353
+fluorescence imaging design	0.857	chmo	fluorescence microscopy	http://purl.obolibrary.org/obo/CHMO_0000087
+DIC microscopy analysis	0.744	chmo	differential interference contrast microscopy	http://purl.obolibrary.org/obo/CHMO_0000107
+spectrometer	0.988	ncit	Spectrometer	http://purl.obolibrary.org/obo/NCIT_C62336
+polymer	0.683	obi	polymerization	http://purl.obolibrary.org/obo/OBI_0302890
+pca data reduction	0.645	obi	data vector reduction data transformation	http://purl.obolibrary.org/obo/OBI_0200182
+(methanesulfinyl)methane review	0.772	ncit	Methane Measurement	http://purl.obolibrary.org/obo/NCIT_C186080
+chromatography column	0.978	mmo	column chromatography	http://purl.obolibrary.org/obo/MMO_0000468
+iquid chromatography/mass spectrometry detection	0.846	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+spectrograph assessment	0.654	ncit	Physical Examination	http://purl.obolibrary.org/obo/NCIT_C20989
+magnetic resonance spectroscopy	0.986	mmo	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/MMO_0000709
+immunoassay diagnostic	0.713	ncit	Immunology Test	http://purl.obolibrary.org/obo/NCIT_C16723
+gel filtration chromatography	0.969	mmo	gel filtration chromatography	http://purl.obolibrary.org/obo/MMO_0000684
+SAGE detection	0.784	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+GC/MS	0.963	chmo	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497
+immunohistochemistry testing	0.861	mmo	immunohistochemistry	http://purl.obolibrary.org/obo/MMO_0000498
+SQUID magnetometer approach	0.689	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+spectrophotometer surveillance	0.755	ncit	Spectrophotometer	http://purl.obolibrary.org/obo/NCIT_C62333
+molecular entity	0.995	bao	molecular entity	http://purl.obolibrary.org/obo/CHEBI_23367
+iquid chromatography/mass spectrometry administration	0.803	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+dissection	0.967	efo	dissection	http://www.ebi.ac.uk/efo/EFO_0003856
+SQUID magnetometer	0.835	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+spectrum design	0.642	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+cataphoresis review	0.567	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+radio immuno assay testing	0.751	obi	radio immuno assay	http://purl.obolibrary.org/obo/OBI_0000910
+DIC microscopy	0.945	chmo	differential interference contrast microscopy	http://purl.obolibrary.org/obo/CHMO_0000107
+transmitted-light microscopy	0.948	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+spectrometer detection	0.8	ncit	Spectrometer Device	http://purl.obolibrary.org/obo/NCIT_C50061
+liquid chromatography-tandem mass spectroscopy	0.945	chmo	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701
+dimethylsulfoxyde	0.558	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+Dimethylsulfoxid	0.628	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+X-ray source sampling	0.643	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+synchrotrons	0.89	ncit	Synchrotron	http://purl.obolibrary.org/obo/NCIT_C48205
+dark-field optical microscope	0.802	bao	optical microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150009
+spectrograph	0.568	ncit	Electrogastrography	http://purl.obolibrary.org/obo/NCIT_C150871
+LCMS	0.963	chmo	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524
+gas chromatography/mass spectrometry	0.989	ncit	Gas Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C111203
+reflectron assessment	0.686	ncit	Physical Examination	http://purl.obolibrary.org/obo/NCIT_C20989
+anion-exchange chromatography analysis	0.729	mmo	anion-exchange chromatography	http://purl.obolibrary.org/obo/MMO_0000678
+GF-AAS process	0.75	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+SNOM	0.999	chmo	scanning near-field optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000120
+material transformations	0.724	ncit	Data Transformation	http://purl.obolibrary.org/obo/NCIT_C43582
+polymer identification	0.792	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+Impactron CCD testing	0.598	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+transmission EM system	0.692	ncit	Transmission	http://purl.obolibrary.org/obo/NCIT_C71292
+bright-field microscopy diagnostic	0.794	ncit	Diagnostic Microscopy	http://purl.obolibrary.org/obo/NCIT_C116505
+thin layer chromatography diagnostic	0.803	mmo	thin layer chromatography	http://purl.obolibrary.org/obo/MMO_0000289
+polymerase chain reaction assay testing	0.853	mmo	polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000459
+ribonucleic acid sequencing assay detection	0.78	ncit	RNA Sequence Analysis	http://purl.obolibrary.org/obo/NCIT_C192768
+laser capture microdissection	0.979	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+spectrum plot	0.678	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+PBS solution administration	0.736	ncit	Administration, Management	http://purl.obolibrary.org/obo/NCIT_C48905
+high-pressure liquid chromatography	0.856	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+dialysis analysis	0.915	ncit	Dialysis	http://purl.obolibrary.org/obo/NCIT_C15221
+osmometry assessment	0.704	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+NMR spectroscopy testing	0.824	edam	NMR	http://edamontology.org/topic_0593
+GC detection	0.852	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+protein immunoblot assay method	0.723	ncit	Immunoblot Analysis	http://purl.obolibrary.org/obo/NCIT_C17638
+gel electrophoresis identification	0.741	ncit	Gel Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C18091
+cataphoresis method	0.472	bao	assay method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003028
+phosphate-buffered salt solution detection	0.603	bao	phosphate buffered saline	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000012
+radioimmunoassay identification	0.716	ncit	Radioimmunoassay	http://purl.obolibrary.org/obo/NCIT_C17057
+X-ray computed tomography	0.897	edam	Tomography	http://edamontology.org/topic_3452
+microplate reader study	0.858	ncit	Microplate Reader	http://purl.obolibrary.org/obo/NCIT_C70661
+SQUID device approach	0.635	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+protective clothing	0.509	ncit	Protective Face Mask	http://purl.obolibrary.org/obo/NCIT_C173747
+mass spectroscopy	0.972	chmo	mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000470
+ETAAS method	0.663	chmo	electrothermal atomic absorption spectrometry	http://purl.obolibrary.org/obo/CHMO_0000237
+precipitation	0.938	ncit	Protein Precipitation	http://purl.obolibrary.org/obo/NCIT_C113065
+atomic-force microscopy sampling	0.854	bao	atomic force microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002523
+spectra	0.668	ncit	Single Photon Emission Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17203
+light source diagnostic	0.713	bao	light source	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150029
+instrument approach	0.726	bao	instrument	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003118
+dark field optical microscope diagnostic	0.702	bao	optical microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150009
+LSCM surveillance	0.828	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+western	0.951	mmo	western blot assay	http://purl.obolibrary.org/obo/MMO_0000669
+centrifugation administration	0.714	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+device	0.995	ncit	Medical Device	http://purl.obolibrary.org/obo/NCIT_C16830
+colorimetric method	0.949	chmo	colorimetry	http://purl.obolibrary.org/obo/CHMO_0000001
+flow cytometer sampling	0.773	ncit	Flow Cytometer	http://purl.obolibrary.org/obo/NCIT_C78806
+fluorescent resonance energy transfer detection	0.878	chmo	fluorescence resonance energy transfer	http://purl.obolibrary.org/obo/CHMO_0000064
+real-time polymerase chain reaction assay	0.936	obi	real time polymerase chain reaction assay	http://purl.obolibrary.org/obo/OBI_0000893
+IP	0.999	ncit	Immunoprecipitation	http://purl.obolibrary.org/obo/NCIT_C16724
+superconducting quantum interference device magnetometer	0.903	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+Histology detection	0.705	bao	Histology	http://purl.obolibrary.org/obo/NCIT_C16681
+scientific observation	0.957	efo	assay	http://purl.obolibrary.org/obo/OBI_0000070
+scanning electron microscope	0.978	ncit	Scanning Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C78814
+MS-MS analysis	0.702	ncit	Mass Spectrometer	http://purl.obolibrary.org/obo/NCIT_C47875
+PBS solution	0.813	ncit	Solution Dosage Form	http://purl.obolibrary.org/obo/NCIT_C42986
+fermentation system	0.572	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+N/A				
+LC-MS/MS	0.888	ncit	Metric System	http://purl.obolibrary.org/obo/NCIT_C42540
+analyte assay process	0.759	chmo	analyte assay	http://purl.obolibrary.org/obo/OBI_0000443
+sample preparative method	0.728	bao	preparation method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002014
+IP system	0.858	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+BRET	0.987	chmo	bioluminescence resonance energy transfer	http://purl.obolibrary.org/obo/CHMO_0000063
+detector	0.975	ncit	Detector	http://purl.obolibrary.org/obo/NCIT_C41276
+gel permeation chromatography detection	0.822	ncit	Gel Filtration Chromatography	http://purl.obolibrary.org/obo/NCIT_C16433
+mass spectrometry analysis	0.973	obi	mass spectrometry analysis	http://purl.obolibrary.org/obo/OBI_0200085
+Bradford protein assay	0.932	mmo	Bradford protein assay	http://purl.obolibrary.org/obo/MMO_0000426
+material component separation analysis	0.816	obi	material component separation	http://purl.obolibrary.org/obo/OBI_0600014
+scanning electron microscopy review	0.888	bao	scanning electron microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000454
+FACS review	0.76	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+Karl-Fischer titration approach	0.799	chmo	Karl–Fischer titration	http://purl.obolibrary.org/obo/CHMO_0002535
+PCA study	0.785	ncit	Clinical Study	http://purl.obolibrary.org/obo/NCIT_C15206
+pca data reduction testing	0.567	ncit	Data Validation Test Document	http://purl.obolibrary.org/obo/NCIT_C115686
+high-pressure liquid chromatography process	0.764	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+measuring	0.954	efo	assay	http://purl.obolibrary.org/obo/OBI_0000070
+HPLC process	0.783	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+colourimetry	0.934	chmo	colorimetry	http://purl.obolibrary.org/obo/CHMO_0000001
+F-AAS review	0.76	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+qPCR sampling	0.788	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+HISTOLOGY method	0.772	bao	Histology	http://purl.obolibrary.org/obo/NCIT_C16681
+instrument	0.974	bao	instrument	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003118
+superconducting quantum interference device sampling	0.878	ncit	Superconducting Quantum Interference Device	http://purl.obolibrary.org/obo/NCIT_C124066
+RNA-seq assay method	0.798	bao	assay method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003028
+computed tomography	0.991	edam	Tomography	http://edamontology.org/topic_3452
+MS-MS	0.992	ncit	Metric System	http://purl.obolibrary.org/obo/NCIT_C42540
+ECG study	0.785	ncit	DICOM Study	http://purl.obolibrary.org/obo/NCIT_C63537
+(methanesulfinyl)methane sampling	0.754	ncit	Methane Measurement	http://purl.obolibrary.org/obo/NCIT_C186080
+aperture scanning near-field optical microscopy process	0.817	chmo	scanning near-field optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000120
+flow cytometric studies sampling	0.803	chmo	flow cytometry	http://purl.obolibrary.org/obo/CHMO_0000061
+aperture SNOM	0.986	chmo	scanning near-field optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000120
+real-time PCR	0.955	ncit	Real Time PCR	http://purl.obolibrary.org/obo/NCIT_C51962
+x-ray generator design	0.683	ncit	Generator Dosage Form	http://purl.obolibrary.org/obo/NCIT_C48193
+differential interference contrast microscopy tests	0.935	bao	differential interference contrast microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002511
+principal components analysis dimensionality reduction surveillance	0.845	obi	principal components analysis dimensionality reduction	http://purl.obolibrary.org/obo/OBI_0200051
+UPLC/MS system	0.7	ncit	Drug Delivery System	http://purl.obolibrary.org/obo/NCIT_C17423
+solubility identification	0.741	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+PCA method	0.667	bao	assay method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003028
+mass spectrometer approach	0.806	ncit	Mass Spectrometer	http://purl.obolibrary.org/obo/NCIT_C47875
+flame AAS	0.593	chmo	atomic absorption spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000234
+co-immunoprecipitation system	0.819	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+extraction	0.954	ncit	Extraction	http://purl.obolibrary.org/obo/NCIT_C61575
+FACS administration	0.854	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+liquid chromatography-mass spectrometry administration	0.843	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+phosphate buffer solution	0.781	bao	phosphate buffer	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000696
+scanning near-field optical microscopy	0.876	bao	scanning near-field optical microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002512
+fluorescence microscopy	0.995	bao	fluorescence microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000450
+nanotube	0.631	bao	carbon nanotube based sensor	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000471
+qPCR surveillance	0.828	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+confocal microscope testing	0.837	bao	confocal microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150010
+biological assay analysis	0.761	mmo	bioassay	http://purl.obolibrary.org/obo/MMO_0000441
+fluorescence (FL) detection process	0.828	chmo	fluorescence detection	http://purl.obolibrary.org/obo/CHMO_0000060
+total internal reflection fluorescence microscopy method	0.912	bao	total internal reflection fluorescence microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000064
+graphite furnace atomic absorption spectrometry administration	0.834	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+differential interference contrast microscopy	0.983	bao	differential interference contrast microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002511
+GLC	0.507	ncit	Immunoglobulin Light Chain Measurement	http://purl.obolibrary.org/obo/NCIT_C147376
+tandem MS diagnostic	0.734	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+sample preparation review	0.722	obi	sample preparation for assay	http://purl.obolibrary.org/obo/OBI_0000073
+histopathology process	0.81	ncit	Histopathologic Examination	http://purl.obolibrary.org/obo/NCIT_C18190
+dimethyl sulfoxide method	0.662	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+histology diagnostic	0.715	ncit	X-Ray Imaging	http://purl.obolibrary.org/obo/NCIT_C38101
+computed axial tomography sampling	0.828	ncit	Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17204
+spectrum testing	0.674	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+nuclear magnetic resonance spectrometry assessment	0.855	chmo	pulsed nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000613
+flow cytometric analysis	0.955	chmo	flow cytometry	http://purl.obolibrary.org/obo/CHMO_0000061
+mixture	0.613	bao	mixture of perturbagens	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000575
+spectrometer sampling	0.766	ncit	Spectrometer	http://purl.obolibrary.org/obo/NCIT_C62336
+ultra performance LC-MS	0.838	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+histopathology system	0.83	ncit	Histopathologic Examination	http://purl.obolibrary.org/obo/NCIT_C18190
+role	0.444	ncit	Dietary Oleic Acid Measurement	http://purl.obolibrary.org/obo/NCIT_C184436
+information entity detection	0.65	ncit	Conformation Dependent Mutation Detection	http://purl.obolibrary.org/obo/NCIT_C20064
+partition identification	0.768	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+NIC microscopy tests	0.782	chmo	differential interference contrast microscopy	http://purl.obolibrary.org/obo/CHMO_0000107
+EMCCD	0.366	ncit	Color Flow Doppler Ultrasound Imaging	http://purl.obolibrary.org/obo/NCIT_C190518
+activation	0.94	ncit	Activation	http://purl.obolibrary.org/obo/NCIT_C64382
+optical microscope system	0.853	bao	optical microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150009
+refractive-index detector	0.868	chmo	refractive index detection	http://purl.obolibrary.org/obo/CHMO_0001730
+co-immunoprecipitation process	0.804	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+matrix	0.853	ncit	Matrix for Implantation Matrix Dosage Form	http://purl.obolibrary.org/obo/NCIT_C149646
+gas-solid column chromatography	0.885	mmo	gas chromatography	http://purl.obolibrary.org/obo/MMO_0000469
+ribonucleic acid sequencing assay	0.889	ncit	RNA Sequence Analysis	http://purl.obolibrary.org/obo/NCIT_C192768
+enzyme linked immunosorbent assay identification	0.786	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+fluorescence-activated cell sorting	0.972	ncit	Fluorescence Activated Cell Sorting	http://purl.obolibrary.org/obo/NCIT_C17353
+mass spec analysis	0.727	obi	mass spectrometry analysis	http://purl.obolibrary.org/obo/OBI_0200085
+HPLC-MS diagnostic	0.779	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+SEM	0.991	chmo	scanning electron microscopy	http://purl.obolibrary.org/obo/CHMO_0000073
+serial analysis of gene expression assay	0.948	mmo	serial analysis of gene expression assay	http://purl.obolibrary.org/obo/MMO_0000660
+Dimethyl sulfoxide	0.767	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+bright field microscopy detection	0.78	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+flow cytometry system	0.816	ncit	Flow Cytometry	http://purl.obolibrary.org/obo/NCIT_C16585
+spirometry design	0.775	ncit	Spirometry	http://purl.obolibrary.org/obo/NCIT_C85397
+darkfield optical microscopy tests	0.846	chmo	dark-field microscopy	http://purl.obolibrary.org/obo/CHMO_0002177
+electropermeabilization	0.683	obi	cell permeabilization	http://purl.obolibrary.org/obo/OBI_0600033
+gas-solid column chromatography process	0.791	mmo	gas chromatography	http://purl.obolibrary.org/obo/MMO_0000469
+transmission EM assessment	0.663	ncit	Transmission	http://purl.obolibrary.org/obo/NCIT_C71292
+hemocytometer	0.974	ncit	Hemocytometer	http://purl.obolibrary.org/obo/NCIT_C78807
+computational method	0.968	bao	computational method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002094
+optical microscope assessment	0.787	bao	optical microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150009
+ELISA detection	0.755	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+pump function	0.644	ncit	Function Test	http://purl.obolibrary.org/obo/NCIT_C186304
+scanning probe microscope design	0.869	ncit	Scanning Probe Microscope	http://purl.obolibrary.org/obo/NCIT_C78803
+laser-capture microdissection diagnostic	0.836	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+fluorescence (FL) detection	0.937	chmo	fluorescence detection	http://purl.obolibrary.org/obo/CHMO_0000060
+spectroscope process	0.646	chmo	spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000228
+methylsulfinylmethane	0.67	ncit	Methane Measurement	http://purl.obolibrary.org/obo/NCIT_C186080
+ion detector process	0.65	ncit	Detector	http://purl.obolibrary.org/obo/NCIT_C41276
+atomic force microscopy	0.991	bao	atomic force microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002523
+charge coupled device	0.989	bao	charge coupled device	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150023
+spectroscope	0.813	ncit	Spectroscopy	http://purl.obolibrary.org/obo/NCIT_C17155
+Karl Fischer titration	0.945	chmo	Karl–Fischer titration	http://purl.obolibrary.org/obo/CHMO_0002535
+ITC detection	0.816	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+light amplification by the stimulated emission of radiation	0.557	ncit	Gene Amplification Technique	http://purl.obolibrary.org/obo/NCIT_C20589
+labeling	0.96	ncit	Labeling	http://purl.obolibrary.org/obo/NCIT_C54694
+electrophoresis	0.991	ncit	Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C16536
+separation method sampling	0.779	bao	separation method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002500
+confocal microscope	0.987	bao	confocal microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150010
+LC-MS-MS	0.888	ncit	Metric System	http://purl.obolibrary.org/obo/NCIT_C42540
+light emission device review	0.552	ncit	Medical Device	http://purl.obolibrary.org/obo/NCIT_C16830
+measurement method assessment	0.713	ncit	Hepatocyte Growth Factor Receptor Measurement	http://purl.obolibrary.org/obo/NCIT_C172514
+gas column chromatography assessment	0.815	mmo	gas chromatography	http://purl.obolibrary.org/obo/MMO_0000469
+density gradient centrifugation review	0.886	efo	density gradient centrifugation	http://www.ebi.ac.uk/efo/EFO_0009112
+flame atomic absorption spectroscopy method	0.898	mmo	flame atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000379
+anatomization	0.591	ncit	Minimization Randomization	http://purl.obolibrary.org/obo/NCIT_C147143
+anion chromatography approach	0.714	ncit	Chromatography	http://purl.obolibrary.org/obo/NCIT_C16431
+NSOM testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+scanning probe microscopy tests	0.889	bao	scanning probe microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000459
+calorimeter	0.791	chmo	calorimetry	http://purl.obolibrary.org/obo/CHMO_0000682
+molecular entity method	0.841	bao	molecular entity	http://purl.obolibrary.org/obo/CHEBI_23367
+GC/MS diagnostic	0.833	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+DIC testing	0.825	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+gas chromatography-mass spectrometry	0.989	ncit	Gas Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C111203
+whole transcriptome sequencing	0.982	ncit	Whole Transcriptome Sequencing	http://purl.obolibrary.org/obo/NCIT_C124261
+high performance liquid chromatography-mass spectrometry	0.985	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+chromatin immunoprecipitation	0.992	edam	Immunoprecipitation experiment	http://edamontology.org/topic_3656
+Karl-Fischer titration study	0.845	chmo	Karl–Fischer titration	http://purl.obolibrary.org/obo/CHMO_0002535
+microscope diagnostic	0.883	ncit	Diagnostic Microscopy	http://purl.obolibrary.org/obo/NCIT_C116505
+CCD	0.651	bao	CCD Luminometer	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000878
+phosphate-buffered saline (PBS) solution	0.801	bao	phosphate buffered saline	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000012
+bioassay	0.979	ncit	Bioassay	http://purl.obolibrary.org/obo/NCIT_C16341
+liquid scintillation counting	0.977	mmo	liquid scintillation counting	http://purl.obolibrary.org/obo/MMO_0000238
+CAT scan	0.997	ncit	Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17204
+scanning force microscopy tests	0.883	ncit	Atomic Force Microscopy	http://purl.obolibrary.org/obo/NCIT_C17754
+chromatography	0.991	ncit	Chromatography	http://purl.obolibrary.org/obo/NCIT_C16431
+CCD array	0.766	bao	array	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000514
+laser-capture microdissection study	0.899	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+spectra administration	0.81	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+ECG	0.997	ncit	Electrocardiogram	http://purl.obolibrary.org/obo/NCIT_C168186
+dissection administration	0.748	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+PCA	0.993	ncit	Intravenous Patient-Controlled Analgesia	http://purl.obolibrary.org/obo/NCIT_C21060
+graphite-furnace atomic-absorption spectroscopy identification	0.839	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+fluorescence imaging	0.983	chmo	fluorescence microscopy	http://purl.obolibrary.org/obo/CHMO_0000087
+computational method review	0.844	bao	computational method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002094
+optical microscope	0.992	bao	optical microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150009
+measurement method administration	0.668	ncit	Injection Method of Administration	http://purl.obolibrary.org/obo/NCIT_C149592
+haemocytometer	0.946	mmo	hemocytometer	http://purl.obolibrary.org/obo/MMO_0000368
+rinsing diagnostic	0.756	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+tandem-MS analysis	0.702	obi	tandem mass spectrometry analysis	http://purl.obolibrary.org/obo/OBI_0003647
+LC-MS2	0.771	ncit	Tandem Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18142
+ion source sampling	0.682	ncit	Ionization Source	http://purl.obolibrary.org/obo/NCIT_C47927
+refractive index detector review	0.772	chmo	refractive index detection	http://purl.obolibrary.org/obo/CHMO_0001730
+CLSM	0.992	chmo	confocal laser scanning microscopy	http://purl.obolibrary.org/obo/CHMO_0000089
+bioaffinity chromatography	0.879	ncit	Affinity Chromatography	http://purl.obolibrary.org/obo/NCIT_C16432
+transmission electron microscope	0.959	ncit	Transmission Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C78813
+radio immuno assay	0.901	obi	radio immuno assay	http://purl.obolibrary.org/obo/OBI_0000910
+partition	0.628	obi	data partitioning	http://purl.obolibrary.org/obo/OBI_0200156
+sample preparation	0.84	obi	sample preparation for assay	http://purl.obolibrary.org/obo/OBI_0000073
+light microscopy assay analysis	0.774	obi	light microscopy assay	http://purl.obolibrary.org/obo/CHMO_0000102
+sensitivity method	0.905	ncit	Low Sensitivity Method	http://purl.obolibrary.org/obo/NCIT_C179821
+function	0.789	ncit	Function Test	http://purl.obolibrary.org/obo/NCIT_C186304
+transmitted-light microscopy review	0.854	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+analytical chromatography	0.98	obi	analytical chromatography	http://purl.obolibrary.org/obo/OBI_0001630
+VPC	0.999	chmo	volume perturbation calorimetry	http://purl.obolibrary.org/obo/CHMO_0002090
+ITC process	0.821	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+PCM testing	0.825	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+confocal microscopy	0.987	bao	confocal microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000453
+uplc-ms detection	0.815	chmo	mass detection	http://purl.obolibrary.org/obo/CHMO_0002174
+fluorescence imaging analysis	0.824	chmo	fluorescence microscopy	http://purl.obolibrary.org/obo/CHMO_0000087
+thin layer chromatography	0.962	mmo	thin layer chromatography	http://purl.obolibrary.org/obo/MMO_0000289
+high-pressure liquid chromatography identification	0.714	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+autoradiography testing	0.823	bao	autoradiography	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002527
+phase-contrast microscopy diagnostic	0.825	ncit	Phase-Contrast Microscopy	http://purl.obolibrary.org/obo/NCIT_C16857
+MS	0.992	ncit	Metric System	http://purl.obolibrary.org/obo/NCIT_C42540
+laser-scanning confocal microscope design	0.899	bao	laser scanning confocal microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150011
+concentration	0.965	ncit	Able to Concentrate	http://purl.obolibrary.org/obo/NCIT_C105891
+Impactron CCD approach	0.619	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+charge-coupled device analysis	0.829	bao	charge coupled device	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150023
+light amplification by the stimulated emission of radiation approach	0.524	ncit	Gene Amplification Technique	http://purl.obolibrary.org/obo/NCIT_C20589
+light emission device	0.584	ncit	Light Emitting Diode Device	http://purl.obolibrary.org/obo/NCIT_C49923
+electron microscope	0.986	ncit	Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C28219
+LC/MS/MS analysis	0.662	ncit	Mass Spectrometer	http://purl.obolibrary.org/obo/NCIT_C47875
+Karl-Fischer titration design	0.829	chmo	Karl–Fischer titration	http://purl.obolibrary.org/obo/CHMO_0002535
+fluorescence resonance energy transfer tests	0.93	bao	fluorescence resonance energy transfer	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000001
+Microanatomy	0.971	bao	Histology	http://purl.obolibrary.org/obo/NCIT_C16681
+diffractometer	0.821	ncit	Powder Diffractometer	http://purl.obolibrary.org/obo/NCIT_C78855
+laser capture micro-dissection	0.884	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+biological assay study	0.816	mmo	bioassay	http://purl.obolibrary.org/obo/MMO_0000441
+aperture-NSOM approach	0.781	chmo	scanning near-field optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000120
+LC-MS/MS administration	0.739	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+computed tomography scan	0.897	edam	Tomography	http://edamontology.org/topic_3452
+chloroform testing	0.633	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+study process	0.75	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+gas chromatography-mass spectroscopy	0.942	chmo	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497
+phase contrast microscopy	0.988	ncit	Phase-Contrast Microscopy	http://purl.obolibrary.org/obo/NCIT_C16857
+colorimetry	0.979	mmo	colorimetry	http://purl.obolibrary.org/obo/MMO_0000327
+AC surveillance	0.885	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+LC-MS-MS sampling	0.662	ncit	Mass Spectrometer	http://purl.obolibrary.org/obo/NCIT_C47875
+N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+material transformation	0.767	ncit	Data Transformation	http://purl.obolibrary.org/obo/NCIT_C43582
+(methanesulfinyl)methane	0.838	ncit	Methane Measurement	http://purl.obolibrary.org/obo/NCIT_C186080
+phosphate buffer	0.968	bao	phosphate buffer	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000696
+microplate reader	0.983	ncit	Microplate Reader	http://purl.obolibrary.org/obo/NCIT_C70661
+dimethyl sulphoxide review	0.508	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+plate reader	0.959	mmo	microplate reader	http://purl.obolibrary.org/obo/MMO_0000714
+immunoprecipitation system	0.851	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+UPLC-MS testing	0.723	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+CLSM process	0.783	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+dimethyl sulfur oxide	0.65	ncit	Sulfur Dioxide Measurement	http://purl.obolibrary.org/obo/NCIT_C114224
+SAGE	0.997	ncit	Serial Analysis of Gene Expression	http://purl.obolibrary.org/obo/NCIT_C18480
+Nomarski interference contrast microscopy sampling	0.841	chmo	differential interference contrast microscopy	http://purl.obolibrary.org/obo/CHMO_0000107
+ELISA	0.997	bao	ELISA	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000134
+dark-field microscope design	0.772	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+X-ray generator	0.825	ncit	Generator Device	http://purl.obolibrary.org/obo/NCIT_C49970
+dimethyli sulfoxidum analysis	0.57	ncit	Methylation Analysis	http://purl.obolibrary.org/obo/NCIT_C190764
+EKG review	0.801	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+dmso approach	0.8	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+RNA blot	0.651	ncit	Ribonucleic Acid Measurement	http://purl.obolibrary.org/obo/NCIT_C132301
+phosphate buffered saline	0.973	bao	phosphate buffered saline	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000012
+ELISPOT assay method	0.775	bao	assay method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003028
+chromatographic analysis study	0.604	mmo	chromatography	http://purl.obolibrary.org/obo/MMO_0000288
+elution review	0.667	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+anion chromatography	0.851	ncit	Chromatography	http://purl.obolibrary.org/obo/NCIT_C16431
+darkfield microscopy testing	0.772	chmo	dark-field microscopy	http://purl.obolibrary.org/obo/CHMO_0002177
+transmission electron microscopy analysis	0.866	bao	transmission electron microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000455
+detector sampling	0.69	ncit	Detector	http://purl.obolibrary.org/obo/NCIT_C41276
+pca data reduction approach	0.565	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+LC-MSMS	0.796	chmo	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524
+high performance liquid chromatography mass spectrometry design	0.934	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+light source	0.985	bao	light source	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150029
+PBS	0.991	ncit	Plasmablast Subpopulation Count	http://purl.obolibrary.org/obo/NCIT_C187731
+SPM	0.958	ncit	Scanning Probe Microscope	http://purl.obolibrary.org/obo/NCIT_C78803
+FRET	0.657	chmo	resonance energy transfer	http://purl.obolibrary.org/obo/CHMO_0000760
+UPLC/MS design	0.694	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+centrifugation	0.946	mmo	centrifugation	http://purl.obolibrary.org/obo/MMO_0000712
+sulfinylbis(methane) analysis	0.591	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+high-performance liquid chromatography-mass spectrometry surveillance	0.89	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+imaging assay	0.952	chmo	imaging assay	http://purl.obolibrary.org/obo/OBI_0000185
+elution detection	0.723	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+X-ray generator testing	0.665	ncit	Generator Dosage Form	http://purl.obolibrary.org/obo/NCIT_C48193
+transmission electron microscopy	0.968	bao	transmission electron microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000455
+FRET study	0.74	ncit	DICOM Study	http://purl.obolibrary.org/obo/NCIT_C63537
+inductively coupled plasma mass spectrometry testing	0.904	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+ultra performance LC-MS design	0.735	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+filter photometry testing	0.799	mmo	colorimetry	http://purl.obolibrary.org/obo/MMO_0000327
+open-tubular column analysis	0.56	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+NIC microscopy	0.921	chmo	differential interference contrast microscopy	http://purl.obolibrary.org/obo/CHMO_0000107
+northern blot	0.984	ncit	Northern Blotting	http://purl.obolibrary.org/obo/NCIT_C16355
+sulfinylbis(methane) sampling	0.557	ncit	Sampling Method	http://purl.obolibrary.org/obo/NCIT_C71492
+planned process approach	0.611	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+protein expression assay	0.969	mmo	protein expression assay	http://purl.obolibrary.org/obo/MMO_0000642
+LCSM detection	0.784	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+microscopy detection	0.722	bao	microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002526
+electron-multiplying charge-coupled device design	0.906	bao	electron multiplying charge coupled device	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150025
+packed column assessment	0.654	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+qPCR	0.997	mmo	real-time polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000460
+RIA identification	0.88	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+dark-field microscopy	0.988	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+material acquisition	0.92	obi	material acquisition	http://purl.obolibrary.org/obo/OBI_0600010
+SFM	0.992	chmo	atomic force microscopy	http://purl.obolibrary.org/obo/CHMO_0000113
+darkfield optical microscopy	0.923	chmo	dark-field microscopy	http://purl.obolibrary.org/obo/CHMO_0002177
+spectrum	0.83	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+scanning force microscopy	0.975	ncit	Atomic Force Microscopy	http://purl.obolibrary.org/obo/NCIT_C17754
+syringe pump surveillance	0.69	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+real-time PCR design	0.768	ncit	Real Time PCR	http://purl.obolibrary.org/obo/NCIT_C51962
+MRI diagnostic	0.864	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+chromatin immunoprecipitation surveillance	0.838	edam	Immunoprecipitation experiment	http://edamontology.org/topic_3656
+open-tubular column	0.562	ncit	Separation Column	http://purl.obolibrary.org/obo/NCIT_C47874
+material transformations approach	0.63	ncit	Data Transformation	http://purl.obolibrary.org/obo/NCIT_C43582
+GFAAS	0.979	chmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/CHMO_0000239
+laser-scanning confocal microscope tests	0.912	bao	laser scanning confocal microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150011
+nanoparticle approach	0.704	ncit	Nanoparticle Application	http://purl.obolibrary.org/obo/NCIT_C62309
+double mass spectrometry	0.91	chmo	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575
+titration calorimetry	0.943	chmo	isothermal titration calorimetry	http://purl.obolibrary.org/obo/CHMO_0000683
+TEM	1	ncit	Transmission Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C78813
+enzyme-linked immunosorbent spot assay	0.892	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+polymerase chain reaction assay identification	0.793	mmo	polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000459
+phosphate-buffered salt solution	0.743	bao	phosphate buffered saline	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000012
+enzyme-linked immunosorbent assay diagnostic	0.837	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+SEM design	0.801	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+laser-scanning confocal microscope	0.983	bao	laser scanning confocal microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150011
+scanning near-field optical microscopy sampling	0.783	chmo	scanning near-field optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000120
+colourimetry method	0.757	chmo	colorimetry	http://purl.obolibrary.org/obo/CHMO_0000001
+washing administration	0.79	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+AFM method	0.667	bao	assay method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0003028
+high performance liquid chromatography review	0.909	ncit	High Performance Liquid Chromatography	http://purl.obolibrary.org/obo/NCIT_C16434
+anatomization process	0.581	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+dimetil sulfoxido	0.507	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+ELISPOT assay	0.757	ncit	Enzyme-linked Immunosorbent Spot Assay	http://purl.obolibrary.org/obo/NCIT_C102632
+affinity chromatography	0.989	ncit	Affinity Chromatography	http://purl.obolibrary.org/obo/NCIT_C16432
+laser capture micro-dissection study	0.812	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+ultra performance LC-MS identification	0.643	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+spirometry assessment	0.693	ncit	Spirometry	http://purl.obolibrary.org/obo/NCIT_C85397
+QCM	0.632	chmo	electrochemical quartz crystal microgravimetry	http://purl.obolibrary.org/obo/CHMO_0001799
+Nomarski interference contrast microscopy	0.925	chmo	differential interference contrast microscopy	http://purl.obolibrary.org/obo/CHMO_0000107
+electron multiplying charge coupled device method	0.907	bao	electron multiplying charge coupled device	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150025
+extraction approach	0.711	ncit	Extraction	http://purl.obolibrary.org/obo/NCIT_C61575
+OM design	0.85	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+bright-field microscopy	0.932	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+EKG	1	ncit	Electrocardiogram	http://purl.obolibrary.org/obo/NCIT_C168186
+storage	0.982	ncit	Storage	http://purl.obolibrary.org/obo/NCIT_C60824
+LC study	0.839	ncit	Study	http://purl.obolibrary.org/obo/NCIT_C63536
+analytical chromatography study	0.892	obi	analytical chromatography	http://purl.obolibrary.org/obo/OBI_0001630
+column chromatography	0.978	mmo	column chromatography	http://purl.obolibrary.org/obo/MMO_0000468
+material processing	0.965	obi	material processing	http://purl.obolibrary.org/obo/OBI_0000094
+autoradiography administration	0.717	bao	autoradiography	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002527
+superconducting quantum interference device (SQUID) magnetometer	0.865	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+Ultra Performance Liquid Chromatography/Mass Spectrometry sampling	0.891	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+enzyme-linked immunosorbent assay identification	0.786	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+confocal microscope approach	0.821	bao	confocal microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150010
+nuclear magnetic resonance spectroscopy	0.997	edam	NMR	http://edamontology.org/topic_0593
+microscope	0.996	ncit	Microscope Device	http://purl.obolibrary.org/obo/NCIT_C50069
+CCD array tests	0.608	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+open-tubular column diagnostic	0.6	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+electrocardiogram	0.991	ncit	Electrocardiogram	http://purl.obolibrary.org/obo/NCIT_C168186
+x-ray generator	0.825	ncit	Generator Device	http://purl.obolibrary.org/obo/NCIT_C49970
+tandem-MS assessment	0.802	obi	tandem stance assessment	http://purl.obolibrary.org/obo/OBI_0003524
+liquid chromatography tandem mass spectroscopy method	0.884	chmo	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701
+imaging assay testing	0.761	chmo	imaging assay	http://purl.obolibrary.org/obo/OBI_0000185
+molecular absorption spectrophotometry testing	0.857	chmo	spectrophotometry	http://purl.obolibrary.org/obo/CHMO_0000291
+EMCCD approach	0.768	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+ICP-MS detection	0.844	chmo	mass detection	http://purl.obolibrary.org/obo/CHMO_0002174
+graphite-furnace atomic-absorption spectroscopy	0.969	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+NIC detection	0.816	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+aperture-NSOM	0.981	chmo	scanning near-field optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000120
+quartz crystal microbalance	0.973	bao	quartz crystal microbalance	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000456
+light emission device approach	0.533	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+dmso	1	bao	DMSO	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000118
+vapor-phase chromatography	0.757	ncit	Chromatography	http://purl.obolibrary.org/obo/NCIT_C16431
+high performance liquid chromatography mass spectroscopy diagnostic	0.872	chmo	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796
+molecular absorption spectrophotometry	0.937	chmo	spectrophotometry	http://purl.obolibrary.org/obo/CHMO_0000291
+electroporation detection	0.764	ncit	Electroporation	http://purl.obolibrary.org/obo/NCIT_C15707
+FRET testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+spectra assessment	0.744	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+flame atomic absorption spectrometry analysis	0.868	mmo	flame atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000379
+liquid chromatography-tandem mass spectrometry	0.951	chmo	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701
+Not4Curation	0.619	ncit	Curation	http://purl.obolibrary.org/obo/NCIT_C48292
+anion-exchange column tests	0.521	chmo	nuclear Overhauser enhancement spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000607
+RIA analysis	0.845	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+electron multiplying CCD assessment	0.546	ncit	Electronic Patient Visit Assessment	http://purl.obolibrary.org/obo/NCIT_C154266
+western blot assay	0.922	mmo	western blot assay	http://purl.obolibrary.org/obo/MMO_0000669
+osmometry	0.946	mmo	osmometry	http://purl.obolibrary.org/obo/MMO_0000170
+process	0.982	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+PBS buffer	0.587	bao	phosphate buffer	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000696
+reverse transcription polymerase chain reaction review	0.923	mmo	reverse transcription polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000655
+TIRF microscopy	0.89	chmo	total internal reflection fluorescence microscopy	http://purl.obolibrary.org/obo/CHMO_0000094
+electron-multiplying charge-coupled device	0.976	bao	electron multiplying charge coupled device	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150025
+fluorescence microscopy assay	0.943	obi	fluorescence microscopy assay	http://purl.obolibrary.org/obo/CHMO_0000087
+electrothermal atomic absorption spectrometry analysis	0.864	chmo	electrothermal atomic absorption spectrometry	http://purl.obolibrary.org/obo/CHMO_0000237
+matrix detection	0.73	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+analyte assay method	0.78	chmo	analyte assay	http://purl.obolibrary.org/obo/OBI_0000443
+gas chromatography oven system	0.786	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+scanning-probe microscopy	0.981	bao	scanning probe microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000459
+detector study	0.765	ncit	Detector	http://purl.obolibrary.org/obo/NCIT_C41276
+fluorescence detection review	0.855	chmo	fluorescence detection	http://purl.obolibrary.org/obo/CHMO_0000060
+northern identification	0.774	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+material type tests	0.574	ncit	Trial Type	http://purl.obolibrary.org/obo/NCIT_C49660
+evaporative light scattering detector	0.9	chmo	evaporative light scattering detection	http://purl.obolibrary.org/obo/CHMO_0001718
+graphite furnace atomic absorption spectrometry system	0.901	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+spectra process	0.694	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+tomography analysis	0.744	edam	Tomography	http://edamontology.org/topic_3452
+electroporation process	0.788	ncit	Electroporation	http://purl.obolibrary.org/obo/NCIT_C15707
+FM	0.987	chmo	fluorescence microscopy	http://purl.obolibrary.org/obo/CHMO_0000087
+histology	0.996	bao	Histology	http://purl.obolibrary.org/obo/NCIT_C16681
+LSCM	0.992	chmo	confocal laser scanning microscopy	http://purl.obolibrary.org/obo/CHMO_0000089
+synchrotrons design	0.727	ncit	Synchrotron	http://purl.obolibrary.org/obo/NCIT_C48205
+F-AAS	0.839	chmo	atomic absorption spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000234
+nuclear magnetic resonance (NMR) spectroscopy testing	0.882	edam	NMR	http://edamontology.org/topic_0593
+ion-exchange column method	0.552	chmo	nuclear Overhauser enhancement spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000607
+gas chromatography-mass spectrometry design	0.914	ncit	Gas Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C111203
+LC/MS/MS surveillance	0.706	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+autosampler	0.47	ncit	Specimen Identifier	http://purl.obolibrary.org/obo/NCIT_C166393
+elution	0.883	obi	elution	http://purl.obolibrary.org/obo/OBI_0302905
+information content entity	0.652	ncit	Patent Information	http://purl.obolibrary.org/obo/NCIT_C79291
+preparative column chromatography diagnostic	0.764	obi	preparative chromatography	http://purl.obolibrary.org/obo/OBI_0600046
+Dimethylsulfoxid method	0.547	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+imaging assay review	0.777	chmo	imaging assay	http://purl.obolibrary.org/obo/OBI_0000185
+ChIP-chip process	0.834	efo	ChIP	http://www.ebi.ac.uk/efo/EFO_0004176
+LC-MS testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+material component separation	0.929	obi	material component separation	http://purl.obolibrary.org/obo/OBI_0600014
+LC	1	ncit	Liquid Chromatography	http://purl.obolibrary.org/obo/NCIT_C16435
+light microscopy	0.993	ncit	Light Microscopy	http://purl.obolibrary.org/obo/NCIT_C17995
+gas chromatography/mass spectrometry identification	0.836	ncit	Gas Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C111203
+liquid scintillation counting identification	0.832	mmo	liquid scintillation counting	http://purl.obolibrary.org/obo/MMO_0000238
+superconducting quantum interference device (SQUID) magnetometer sampling	0.81	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+digital scale administration	0.71	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+dissection design	0.764	efo	dissection	http://www.ebi.ac.uk/efo/EFO_0003856
+nuclear magnetic resonance imaging method	0.91	edam	MRI	http://edamontology.org/topic_3444
+carbon nanotube tests	0.679	bao	carbon nanotube based sensor	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000471
+sample preparation step	0.755	obi	sample preparation for assay	http://purl.obolibrary.org/obo/OBI_0000073
+nuclear magnetic resonance (NMR) spectroscopy	0.958	edam	NMR	http://edamontology.org/topic_0593
+optical microscopy	0.992	bao	optical microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000451
+FRET identification	0.855	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+quality	0.787	ncit	Joint Vendor Quality Assurance Plan	http://purl.obolibrary.org/obo/NCIT_C115777
+immunohistochemistry	0.989	mmo	immunohistochemistry	http://purl.obolibrary.org/obo/MMO_0000498
+hemacytometer	0.949	mmo	hemocytometer	http://purl.obolibrary.org/obo/MMO_0000368
+transmission electron microscopy identification	0.799	bao	transmission electron microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000455
+gas-liquid chromatography	0.925	bao	liquid chromatography	http://purl.obolibrary.org/obo/ERO_0001500
+Microanatomy analysis	0.767	bao	Histology	http://purl.obolibrary.org/obo/NCIT_C16681
+flame atomic absorption spectrometry detection	0.858	mmo	flame atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000379
+study system	0.731	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+liquid scintillation counter study	0.8	mmo	liquid scintillation counting	http://purl.obolibrary.org/obo/MMO_0000238
+synchrotron design	0.778	ncit	Synchrotron	http://purl.obolibrary.org/obo/NCIT_C48205
+S(O)Me2	0.5	ncit	Blood Group O	http://purl.obolibrary.org/obo/NCIT_C76249
+N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+liquid chromatography mass spectrometry approach	0.897	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+activation surveillance	0.786	ncit	Patient Observation	http://purl.obolibrary.org/obo/NCIT_C15722
+DIC process	0.821	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+ultra performance liquid chromatography-mass spectrometry surveillance	0.864	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+haemocytometer approach	0.754	mmo	hemocytometer	http://purl.obolibrary.org/obo/MMO_0000368
+gas chromatography mass spectrometry	0.989	ncit	Gas Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C111203
+CT scan assessment	0.767	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+radioimmunoassay tests	0.856	ncit	Radioimmunoassay	http://purl.obolibrary.org/obo/NCIT_C17057
+dimethyl sulfur oxide sampling	0.636	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+BRET detection	0.784	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+fluorescent resonance energy transfer administration	0.836	chmo	fluorescence resonance energy transfer	http://purl.obolibrary.org/obo/CHMO_0000064
+liquid chromatography surveillance	0.784	bao	liquid chromatography	http://purl.obolibrary.org/obo/ERO_0001500
+flow cytometric studies method	0.82	chmo	flow cytometry	http://purl.obolibrary.org/obo/CHMO_0000061
+superconducting quantum interference device	0.969	ncit	Superconducting Quantum Interference Device	http://purl.obolibrary.org/obo/NCIT_C124066
+LC MS	0.975	chmo	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524
+spectrophotometry analysis	0.816	mmo	spectrophotometry	http://purl.obolibrary.org/obo/MMO_0000173
+GF-AAS	0.751	chmo	atomic absorption spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000234
+protein immunoblot assay study	0.736	ncit	Immunoblot Analysis	http://purl.obolibrary.org/obo/NCIT_C17638
+high performance liquid chromatography mass spectrometry	0.985	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+liquid scintillation counter	0.874	mmo	liquid scintillation counting	http://purl.obolibrary.org/obo/MMO_0000238
+planned process method	0.643	bao	processing method	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002011
+gas chromatography	0.991	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+liquid scintillation counting detection	0.851	mmo	liquid scintillation counting	http://purl.obolibrary.org/obo/MMO_0000238
+liquid chromatography approach	0.839	bao	liquid chromatography	http://purl.obolibrary.org/obo/ERO_0001500
+electropermeabilization design	0.608	obi	cell permeabilization	http://purl.obolibrary.org/obo/OBI_0600033
+flow cytometric studies administration	0.731	chmo	flow cytometry	http://purl.obolibrary.org/obo/CHMO_0000061
+digital scale approach	0.769	mmo	whole body digital scale	http://purl.obolibrary.org/obo/MMO_0000017
+NSOM study	0.74	ncit	Study	http://purl.obolibrary.org/obo/NCIT_C63536
+EM	1	chmo	electron microscopy	http://purl.obolibrary.org/obo/CHMO_0000068
+GC surveillance	0.885	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+MS2 detection	0.823	chmo	mass detection	http://purl.obolibrary.org/obo/CHMO_0002174
+scanning electronic microscopy	0.953	chmo	scanning electron microscopy	http://purl.obolibrary.org/obo/CHMO_0000073
+anion exchange chromatography	0.834	mmo	anion-exchange chromatography	http://purl.obolibrary.org/obo/MMO_0000678
+molecular entity detection	0.787	bao	molecular entity	http://purl.obolibrary.org/obo/CHEBI_23367
+light microscopy identification	0.714	ncit	Light Microscopy	http://purl.obolibrary.org/obo/NCIT_C17995
+MS2	0.995	ncit	Tandem Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18142
+phase-contrast microscopy review	0.88	ncit	Phase-Contrast Microscopy	http://purl.obolibrary.org/obo/NCIT_C16857
+scanning electron microscopy testing	0.868	bao	scanning electron microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000454
+laser capture micro-dissection method	0.8	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+high performance liquid chromatography	0.984	ncit	High Performance Liquid Chromatography	http://purl.obolibrary.org/obo/NCIT_C16434
+rinsing	0.724	ncit	Ring Dosage Form	http://purl.obolibrary.org/obo/NCIT_C60988
+spectrophotometry testing	0.833	mmo	spectrophotometry	http://purl.obolibrary.org/obo/MMO_0000173
+total internal reflection fluorescence microscopy	0.968	bao	total internal reflection fluorescence microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000064
+inductively coupled plasma-mass spectroscopy	0.855	chmo	inductively coupled plasma mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000538
+light microscopy assay	0.916	obi	light microscopy assay	http://purl.obolibrary.org/obo/CHMO_0000102
+mass spec	0.977	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+confocal microscopy detection	0.806	bao	confocal microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0000453
+analyte role sampling	0.626	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+x-ray generator diagnostic	0.65	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+flow cytometry	0.987	ncit	Flow Cytometry	http://purl.obolibrary.org/obo/NCIT_C16585
+LC MS assessment	0.82	ncit	Physical Examination	http://purl.obolibrary.org/obo/NCIT_C20989
+purification objective	0.708	ncit	Purification	http://purl.obolibrary.org/obo/NCIT_C68780
+material maintenance system	0.852	obi	material maintenance	http://purl.obolibrary.org/obo/OBI_0000838
+study	0.992	ncit	Study	http://purl.obolibrary.org/obo/NCIT_C63536
+flow cytometer	0.982	ncit	Flow Cytometer	http://purl.obolibrary.org/obo/NCIT_C78806
+inductively coupled plasma-mass spectroscopy review	0.797	chmo	inductively coupled plasma mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000538
+OM	0.978	chmo	optical microscopy	http://purl.obolibrary.org/obo/CHMO_0000102
+polymer sampling	0.705	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+Nomarski microscopy detection	0.717	chmo	differential interference contrast microscopy	http://purl.obolibrary.org/obo/CHMO_0000107
+high pressure liquid chromatography identification	0.714	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+X-ray source review	0.601	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+microwave synthesis system assessment	0.546	obi	synthesis	http://purl.obolibrary.org/obo/OBI_0600040
+filter photometry	0.958	mmo	colorimetry	http://purl.obolibrary.org/obo/MMO_0000327
+inductively coupled plasma-mass spectrometry identification	0.844	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+dark-field microscopy tests	0.879	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+atomic force microscopy testing	0.868	bao	atomic force microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002523
+PCM	0.996	chmo	phase contrast microscopy	http://purl.obolibrary.org/obo/CHMO_0000110
+LC-MS design	0.76	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+GFAAS administration	0.831	ncit	Administration, Management	http://purl.obolibrary.org/obo/NCIT_C48905
+enzyme-linked immunosorbent assay	0.95	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+liquid chromatography-mass spectrometry	0.987	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+Coomassie dye protein assay	0.911	mmo	Bradford protein assay	http://purl.obolibrary.org/obo/MMO_0000426
+GSC	0.41	ncit	Glutathione-S-Transferase Measurement	http://purl.obolibrary.org/obo/NCIT_C80185
+LCM	1	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+western administration	0.79	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+sensitivity	0.87	ncit	Low Sensitivity Method	http://purl.obolibrary.org/obo/NCIT_C179821
+high performance liquid chromatography mass spectrometry identification	0.876	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+cataphoresis	0.548	ncit	Extracorporeal Photopheresis	http://purl.obolibrary.org/obo/NCIT_C62729
+tandem mass spectroscopy study	0.817	chmo	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575
+microplate photometer process	0.84	mmo	microplate reader	http://purl.obolibrary.org/obo/MMO_0000714
+dark-field microscope	0.885	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+MS analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+HPLC-MS surveillance	0.78	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+computerized axial tomography (CAT)	0.914	ncit	Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17204
+liquid chromatography-tandem mass spectrometry method	0.888	chmo	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701
+fluorescent resonance energy transfer study	0.92	chmo	fluorescence resonance energy transfer	http://purl.obolibrary.org/obo/CHMO_0000064
+Nomarski interference contrast microscopy testing	0.85	chmo	differential interference contrast microscopy	http://purl.obolibrary.org/obo/CHMO_0000107
+ultra performance liquid chromatography mass spectrometry	0.954	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+MAS sampling	0.823	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+ChIP study	0.74	ncit	DICOM Study	http://purl.obolibrary.org/obo/NCIT_C63537
+atomic force microscope analysis	0.85	ncit	Atomic Force Microscope	http://purl.obolibrary.org/obo/NCIT_C78804
+uplc-ms surveillance	0.78	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+dimethyl sulfur oxide testing	0.555	ncit	Sulfur Dioxide Measurement	http://purl.obolibrary.org/obo/NCIT_C114224
+gel filtration chromatography administration	0.813	mmo	gel filtration chromatography	http://purl.obolibrary.org/obo/MMO_0000684
+haemacytometer	0.758	mmo	hemocytometer	http://purl.obolibrary.org/obo/MMO_0000368
+molecular electronic absorption spectroscopy design	0.865	chmo	spectrophotometry	http://purl.obolibrary.org/obo/CHMO_0000291
+northern blot testing	0.782	ncit	Northern Blotting	http://purl.obolibrary.org/obo/NCIT_C16355
+transmitted light microscopy method	0.854	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+HPLC system	0.97	bao	HPLC System	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002733
+gas-solid chromatography	0.871	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+infiltration	0.757	ncit	Filtration	http://purl.obolibrary.org/obo/NCIT_C16583
+laser-capture micro-dissection	0.884	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+FAAS	0.98	chmo	flame atomic absorption spectrometry	http://purl.obolibrary.org/obo/CHMO_0000243
+density-gradient centrifugation	0.968	efo	density gradient centrifugation	http://www.ebi.ac.uk/efo/EFO_0009112
+high-performance liquid chromatography method	0.909	ncit	High Performance Liquid Chromatography	http://purl.obolibrary.org/obo/NCIT_C16434
+microplate photometer diagnostic	0.797	mmo	microplate reader	http://purl.obolibrary.org/obo/MMO_0000714
+ion-exchange column design	0.533	chmo	nuclear Overhauser enhancement spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000607
+LC/MS/MS	0.888	ncit	Metric System	http://purl.obolibrary.org/obo/NCIT_C42540
+phase contrast microscopy sampling	0.851	ncit	Phase-Contrast Microscopy	http://purl.obolibrary.org/obo/NCIT_C16857
+MS2 sampling	0.823	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+fluorescent resonance energy transfer	0.981	chmo	fluorescence resonance energy transfer	http://purl.obolibrary.org/obo/CHMO_0000064
+molecular absorption spectrophotometry approach	0.847	chmo	spectrophotometry	http://purl.obolibrary.org/obo/CHMO_0000291
+flame atomic absorption spectroscopy	0.976	mmo	flame atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000379
+dark field optical microscope study	0.735	bao	optical microscope	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0150009
+phase-contrast microscopy	0.988	ncit	Phase-Contrast Microscopy	http://purl.obolibrary.org/obo/NCIT_C16857
+near-field scanning optical microscopy	0.876	bao	scanning near-field optical microscopy	https://www.ebi.ac.uk/ols4/ontologies/bao/classes/http%253A%252F%252Fwww.bioassayontology.org%252Fbao%2523BAO_0002512
+partition study	0.679	ncit	Study Participation	http://purl.obolibrary.org/obo/NCIT_C170569
+ICP-MS	0.692	chmo	high performance liquid chromatography-inductively coupled plasma mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000543
+measurement method	0.827	ncit	Hepatocyte Growth Factor Receptor Measurement	http://purl.obolibrary.org/obo/NCIT_C172514
+western blot assay administration	0.673	mmo	western blot assay	http://purl.obolibrary.org/obo/MMO_0000669
+RNA-seq analysis	0.875	ncit	RNA Analysis	http://purl.obolibrary.org/obo/NCIT_C18473
+GF-AAS identification	0.832	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+mass spectroscopy sampling	0.794	chmo	mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000470
+bright-field optical microscopy surveillance	0.675	chmo	bright-field microscopy	http://purl.obolibrary.org/obo/CHMO_0000104
+LC-MS	0.975	chmo	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524

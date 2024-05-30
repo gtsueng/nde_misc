@@ -1,0 +1,155 @@
+	Class ID	Original term	Term	T2T best score	Ontology	found_term	TermID
+12	http://purl.obolibrary.org/obo/CHMO_0000239	graphite furnace atomic absorption spectrometry	graphite furnace atomic absorption spectrometry administration	0.834	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+13	http://purl.obolibrary.org/obo/CHMO_0000239	graphite furnace atomic absorption spectrometry	graphite furnace atomic absorption spectrometry approach	0.883	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+14	http://purl.obolibrary.org/obo/CHMO_0000239	graphite furnace atomic absorption spectrometry	graphite furnace atomic absorption spectrometry system	0.901	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+30	http://purl.obolibrary.org/obo/OBI_0000854	western blot assay	western blot assay administration	0.673	mmo	western blot assay	http://purl.obolibrary.org/obo/MMO_0000669
+31	http://purl.obolibrary.org/obo/OBI_0000854	western blot assay	western blot assay	0.922	mmo	western blot assay	http://purl.obolibrary.org/obo/MMO_0000669
+48	http://purl.obolibrary.org/obo/OBI_0002029	serial analysis of gene expression assay	serial analysis of gene expression assay testing	0.865	mmo	serial analysis of gene expression assay	http://purl.obolibrary.org/obo/MMO_0000660
+49	http://purl.obolibrary.org/obo/OBI_0002029	serial analysis of gene expression assay	serial analysis of gene expression assay	0.948	mmo	serial analysis of gene expression assay	http://purl.obolibrary.org/obo/MMO_0000660
+87	http://purl.obolibrary.org/obo/CHMO_0000243	flame atomic absorption spectrometry	flame atomic absorption spectrometry detection	0.858	mmo	flame atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000379
+88	http://purl.obolibrary.org/obo/CHMO_0000243	flame atomic absorption spectrometry	flame atomic absorption spectrometry analysis	0.868	mmo	flame atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000379
+89	http://purl.obolibrary.org/obo/CHMO_0000243	flame atomic absorption spectrometry	flame atomic absorption spectrometry	0.968	mmo	flame atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000379
+96	http://purl.obolibrary.org/obo/MMO_0000721	ultra-performance liquid chromatography-mass spectrometry	ultra-performance liquid chromatography-mass spectrometry	0.954	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+97	http://purl.obolibrary.org/obo/MMO_0000721	ultra-performance liquid chromatography-mass spectrometry	ultra-performance liquid chromatography-mass spectrometry administration	0.853	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+126	http://purl.obolibrary.org/obo/MMO_0000685	confocal microscopy	confocal microscopy process	0.837	bao	confocal microscopy	http://www.bioassayontology.org/bao#BAO_0000453
+127	http://purl.obolibrary.org/obo/MMO_0000685	confocal microscopy	confocal microscopy detection	0.806	bao	confocal microscopy	http://www.bioassayontology.org/bao#BAO_0000453
+128	http://purl.obolibrary.org/obo/MMO_0000685	confocal microscopy	confocal microscopy system	0.855	bao	confocal microscopy	http://www.bioassayontology.org/bao#BAO_0000453
+138	http://purl.obolibrary.org/obo/CHMO_0000103	confocal microscopy	confocal microscopy process	0.837	bao	confocal microscopy	http://www.bioassayontology.org/bao#BAO_0000453
+139	http://purl.obolibrary.org/obo/CHMO_0000103	confocal microscopy	confocal microscopy detection	0.806	bao	confocal microscopy	http://www.bioassayontology.org/bao#BAO_0000453
+140	http://purl.obolibrary.org/obo/CHMO_0000103	confocal microscopy	confocal microscopy system	0.855	bao	confocal microscopy	http://www.bioassayontology.org/bao#BAO_0000453
+180	http://www.bioassayontology.org/bao#BAO_0002463	Bradford protein assay	Bradford protein assay	0.932	mmo	Bradford protein assay	http://purl.obolibrary.org/obo/MMO_0000426
+222	http://purl.obolibrary.org/obo/OBI_0002692	polymerase chain reaction assay	polymerase chain reaction assay testing	0.853	mmo	polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000459
+223	http://purl.obolibrary.org/obo/OBI_0002692	polymerase chain reaction assay	polymerase chain reaction assay surveillance	0.798	mmo	polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000459
+224	http://purl.obolibrary.org/obo/OBI_0002692	polymerase chain reaction assay	polymerase chain reaction assay identification	0.793	mmo	polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000459
+261	http://purl.obolibrary.org/obo/CHMO_0001001	column chromatography	column chromatography	0.978	mmo	column chromatography	http://purl.obolibrary.org/obo/MMO_0000468
+262	http://purl.obolibrary.org/obo/CHMO_0001001	column chromatography	column chromatography identification	0.75	mmo	column chromatography	http://purl.obolibrary.org/obo/MMO_0000468
+267	http://purl.obolibrary.org/obo/CHMO_0000291	spectrophotometry	spectrophotometry	0.989	mmo	spectrophotometry	http://purl.obolibrary.org/obo/MMO_0000173
+268	http://purl.obolibrary.org/obo/CHMO_0000291	spectrophotometry	spectrophotometry testing	0.833	mmo	spectrophotometry	http://purl.obolibrary.org/obo/MMO_0000173
+269	http://purl.obolibrary.org/obo/CHMO_0000291	spectrophotometry	spectrophotometry analysis	0.816	mmo	spectrophotometry	http://purl.obolibrary.org/obo/MMO_0000173
+280	http://purl.obolibrary.org/obo/CHMO_0001082	osmometry	osmometry	0.946	mmo	osmometry	http://purl.obolibrary.org/obo/MMO_0000170
+288	http://purl.obolibrary.org/obo/CHMO_0000001	colorimetry	colorimetry	0.979	mmo	colorimetry	http://purl.obolibrary.org/obo/MMO_0000327
+300	http://purl.obolibrary.org/obo/CHMO_0000322	liquid scintillation counting	liquid scintillation counting identification	0.832	mmo	liquid scintillation counting	http://purl.obolibrary.org/obo/MMO_0000238
+301	http://purl.obolibrary.org/obo/CHMO_0000322	liquid scintillation counting	liquid scintillation counting detection	0.851	mmo	liquid scintillation counting	http://purl.obolibrary.org/obo/MMO_0000238
+324	http://purl.obolibrary.org/obo/OBI_0001170	reverse transcription polymerase chain reaction assay	reverse transcription polymerase chain reaction assay	0.96	mmo	reverse transcription polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000655
+363	http://purl.obolibrary.org/obo/CHMO_0001691	immunoprecipitation	immunoprecipitation	0.976	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+364	http://purl.obolibrary.org/obo/CHMO_0001691	immunoprecipitation	immunoprecipitation system	0.851	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+366	http://www.bioassayontology.org/bao#BAO_0002508	immunoprecipitation	immunoprecipitation	0.976	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+367	http://www.bioassayontology.org/bao#BAO_0002508	immunoprecipitation	immunoprecipitation system	0.851	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+369	http://purl.obolibrary.org/obo/OBI_0000690	immunoprecipitation	immunoprecipitation	0.976	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+370	http://purl.obolibrary.org/obo/OBI_0000690	immunoprecipitation	immunoprecipitation system	0.851	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+396	http://www.bioassayontology.org/bao#BAO_0010252	protein expression assay	protein expression assay tests	0.875	mmo	protein expression assay	http://purl.obolibrary.org/obo/MMO_0000642
+397	http://www.bioassayontology.org/bao#BAO_0010252	protein expression assay	protein expression assay	0.969	mmo	protein expression assay	http://purl.obolibrary.org/obo/MMO_0000642
+459	http://www.bioassayontology.org/bao#BAO_0000415	immunohistochemistry	immunohistochemistry testing	0.861	mmo	immunohistochemistry	http://purl.obolibrary.org/obo/MMO_0000498
+460	http://www.bioassayontology.org/bao#BAO_0000415	immunohistochemistry	immunohistochemistry	0.989	mmo	immunohistochemistry	http://purl.obolibrary.org/obo/MMO_0000498
+461	http://www.bioassayontology.org/bao#BAO_0000415	immunohistochemistry	immunohistochemistry analysis	0.847	mmo	immunohistochemistry	http://purl.obolibrary.org/obo/MMO_0000498
+462	http://purl.obolibrary.org/obo/OBI_0001986	immunohistochemistry	immunohistochemistry testing	0.861	mmo	immunohistochemistry	http://purl.obolibrary.org/obo/MMO_0000498
+463	http://purl.obolibrary.org/obo/OBI_0001986	immunohistochemistry	immunohistochemistry	0.989	mmo	immunohistochemistry	http://purl.obolibrary.org/obo/MMO_0000498
+464	http://purl.obolibrary.org/obo/OBI_0001986	immunohistochemistry	immunohistochemistry analysis	0.847	mmo	immunohistochemistry	http://purl.obolibrary.org/obo/MMO_0000498
+480	http://purl.obolibrary.org/obo/MMO_0000575	computational method	computational method	0.968	bao	computational method	http://www.bioassayontology.org/bao#BAO_0002094
+481	http://purl.obolibrary.org/obo/MMO_0000575	computational method	computational method review	0.844	bao	computational method	http://www.bioassayontology.org/bao#BAO_0002094
+486	http://purl.obolibrary.org/obo/MMO_0000338	western blot	western blot	0.982	bao	western blot	http://www.bioassayontology.org/bao#BAO_0002424
+487	http://purl.obolibrary.org/obo/MMO_0000338	western blot	western blot tests	0.826	bao	western blot	http://www.bioassayontology.org/bao#BAO_0002424
+495	http://purl.obolibrary.org/obo/CHMO_0001209	anion-exchange chromatography	anion-exchange chromatography analysis	0.729	mmo	anion-exchange chromatography	http://purl.obolibrary.org/obo/MMO_0000678
+496	http://purl.obolibrary.org/obo/CHMO_0001209	anion-exchange chromatography	anion-exchange chromatography	0.834	mmo	anion-exchange chromatography	http://purl.obolibrary.org/obo/MMO_0000678
+580	http://purl.obolibrary.org/obo/OBI_0302886	centrifugation	centrifugation	0.946	mmo	centrifugation	http://purl.obolibrary.org/obo/MMO_0000712
+581	http://purl.obolibrary.org/obo/OBI_0302886	centrifugation	centrifugation surveillance	0.694	mmo	centrifugation	http://purl.obolibrary.org/obo/MMO_0000712
+588	http://purl.obolibrary.org/obo/CHMO_0001011	gel filtration chromatography	gel filtration chromatography administration	0.813	mmo	gel filtration chromatography	http://purl.obolibrary.org/obo/MMO_0000684
+589	http://purl.obolibrary.org/obo/CHMO_0001011	gel filtration chromatography	gel filtration chromatography process	0.863	mmo	gel filtration chromatography	http://purl.obolibrary.org/obo/MMO_0000684
+590	http://purl.obolibrary.org/obo/CHMO_0001011	gel filtration chromatography	gel filtration chromatography testing	0.863	mmo	gel filtration chromatography	http://purl.obolibrary.org/obo/MMO_0000684
+609	http://purl.obolibrary.org/obo/MMO_0000759	autoradiography	autoradiography	0.997	bao	autoradiography	http://www.bioassayontology.org/bao#BAO_0002527
+610	http://purl.obolibrary.org/obo/MMO_0000759	autoradiography	autoradiography testing	0.823	bao	autoradiography	http://www.bioassayontology.org/bao#BAO_0002527
+611	http://purl.obolibrary.org/obo/MMO_0000759	autoradiography	autoradiography administration	0.717	bao	autoradiography	http://www.bioassayontology.org/bao#BAO_0002527
+612	http://purl.obolibrary.org/obo/CHMO_0001102	autoradiography	autoradiography	0.997	bao	autoradiography	http://www.bioassayontology.org/bao#BAO_0002527
+613	http://purl.obolibrary.org/obo/CHMO_0001102	autoradiography	autoradiography testing	0.823	bao	autoradiography	http://www.bioassayontology.org/bao#BAO_0002527
+614	http://purl.obolibrary.org/obo/CHMO_0001102	autoradiography	autoradiography administration	0.717	bao	autoradiography	http://www.bioassayontology.org/bao#BAO_0002527
+633	http://purl.obolibrary.org/obo/CHMO_0001675	labelling	labelling tests	0.765	efo	labelling	http://www.ebi.ac.uk/efo/EFO_0000562
+634	http://purl.obolibrary.org/obo/CHMO_0001675	labelling	labelling	0.954	efo	labelling	http://www.ebi.ac.uk/efo/EFO_0000562
+635	http://purl.obolibrary.org/obo/CHMO_0001675	labelling	labelling study	0.765	efo	labelling	http://www.ebi.ac.uk/efo/EFO_0000562
+663	http://purl.obolibrary.org/obo/CHMO_0001734	phosphate buffer	phosphate buffer	0.968	bao	phosphate buffer	http://www.bioassayontology.org/bao#BAO_0000696
+664	http://purl.obolibrary.org/obo/CHMO_0001734	phosphate buffer	phosphate buffer process	0.799	bao	phosphate buffer	http://www.bioassayontology.org/bao#BAO_0000696
+665	http://purl.obolibrary.org/obo/CHMO_0001734	phosphate buffer	phosphate buffer sampling	0.781	bao	phosphate buffer	http://www.bioassayontology.org/bao#BAO_0000696
+675	http://purl.obolibrary.org/obo/CHMO_0000999	separation method	separation method sampling	0.779	bao	separation method	http://www.bioassayontology.org/bao#BAO_0002500
+676	http://purl.obolibrary.org/obo/CHMO_0000999	separation method	separation method	0.954	bao	separation method	http://www.bioassayontology.org/bao#BAO_0002500
+681	http://purl.obolibrary.org/obo/CHMO_0000094	total internal reflection fluorescence microscopy	total internal reflection fluorescence microscopy	0.968	bao	total internal reflection fluorescence microscopy	http://www.bioassayontology.org/bao#BAO_0000064
+682	http://purl.obolibrary.org/obo/CHMO_0000094	total internal reflection fluorescence microscopy	total internal reflection fluorescence microscopy method	0.912	bao	total internal reflection fluorescence microscopy	http://www.bioassayontology.org/bao#BAO_0000064
+687	http://purl.obolibrary.org/obo/CHMO_0000683	isothermal titration calorimetry	isothermal titration calorimetry	0.969	bao	isothermal titration calorimetry	http://www.bioassayontology.org/bao#BAO_0000428
+730	http://purl.obolibrary.org/obo/CHMO_0002742	elution	elution	0.883	obi	elution	http://purl.obolibrary.org/obo/OBI_0302905
+744	http://purl.obolibrary.org/obo/OBI_0400065	light source	light source diagnostic	0.713	bao	light source	http://www.bioassayontology.org/bao#BAO_0150029
+745	http://purl.obolibrary.org/obo/OBI_0400065	light source	light source method	0.792	bao	light source	http://www.bioassayontology.org/bao#BAO_0150029
+746	http://purl.obolibrary.org/obo/OBI_0400065	light source	light source	0.985	bao	light source	http://www.bioassayontology.org/bao#BAO_0150029
+759	http://purl.obolibrary.org/obo/CHMO_0000112	scanning probe microscopy	scanning probe microscopy study	0.889	bao	scanning probe microscopy	http://www.bioassayontology.org/bao#BAO_0000459
+760	http://purl.obolibrary.org/obo/CHMO_0000112	scanning probe microscopy	scanning probe microscopy tests	0.889	bao	scanning probe microscopy	http://www.bioassayontology.org/bao#BAO_0000459
+761	http://purl.obolibrary.org/obo/CHMO_0000112	scanning probe microscopy	scanning probe microscopy	0.981	bao	scanning probe microscopy	http://www.bioassayontology.org/bao#BAO_0000459
+765	http://purl.obolibrary.org/obo/CHMO_0000113	atomic force microscopy	atomic force microscopy	0.991	bao	atomic force microscopy	http://www.bioassayontology.org/bao#BAO_0002523
+766	http://purl.obolibrary.org/obo/CHMO_0000113	atomic force microscopy	atomic force microscopy testing	0.868	bao	atomic force microscopy	http://www.bioassayontology.org/bao#BAO_0002523
+767	http://purl.obolibrary.org/obo/CHMO_0000113	atomic force microscopy	atomic force microscopy sampling	0.854	bao	atomic force microscopy	http://www.bioassayontology.org/bao#BAO_0002523
+789	http://purl.obolibrary.org/obo/CHMO_0001125	confocal microscope	confocal microscope	0.987	bao	confocal microscope	http://www.bioassayontology.org/bao#BAO_0150010
+790	http://purl.obolibrary.org/obo/CHMO_0001125	confocal microscope	confocal microscope approach	0.821	bao	confocal microscope	http://www.bioassayontology.org/bao#BAO_0150010
+791	http://purl.obolibrary.org/obo/CHMO_0001125	confocal microscope	confocal microscope testing	0.837	bao	confocal microscope	http://www.bioassayontology.org/bao#BAO_0150010
+822	http://purl.obolibrary.org/obo/CHMO_0000102	optical microscopy	optical microscopy assessment	0.787	bao	optical microscopy	http://www.bioassayontology.org/bao#BAO_0000451
+823	http://purl.obolibrary.org/obo/CHMO_0000102	optical microscopy	optical microscopy	0.992	bao	optical microscopy	http://www.bioassayontology.org/bao#BAO_0000451
+824	http://purl.obolibrary.org/obo/CHMO_0000102	optical microscopy	optical microscopy administration	0.734	bao	optical microscopy	http://www.bioassayontology.org/bao#BAO_0000451
+828	http://purl.obolibrary.org/obo/CHMO_0000107	differential interference contrast microscopy	differential interference contrast microscopy	0.983	bao	differential interference contrast microscopy	http://www.bioassayontology.org/bao#BAO_0002511
+829	http://purl.obolibrary.org/obo/CHMO_0000107	differential interference contrast microscopy	differential interference contrast microscopy tests	0.935	bao	differential interference contrast microscopy	http://www.bioassayontology.org/bao#BAO_0002511
+882	http://purl.obolibrary.org/obo/CHMO_0002536	volumetric titration	volumetric titration surveillance	0.749	bao	volumetric titration	http://www.bioassayontology.org/bao#BAO_0002454
+883	http://purl.obolibrary.org/obo/CHMO_0002536	volumetric titration	volumetric titration testing	0.818	bao	volumetric titration	http://www.bioassayontology.org/bao#BAO_0002454
+884	http://purl.obolibrary.org/obo/CHMO_0002536	volumetric titration	volumetric titration approach	0.803	bao	volumetric titration	http://www.bioassayontology.org/bao#BAO_0002454
+886	http://purl.obolibrary.org/obo/OBI_0000661	ELISA	ELISA	0.997	bao	ELISA	http://www.bioassayontology.org/bao#BAO_0000134
+891	http://purl.obolibrary.org/obo/CHMO_0001004	liquid chromatography	liquid chromatography approach	0.839	bao	liquid chromatography	http://purl.obolibrary.org/obo/ERO_0001500
+892	http://purl.obolibrary.org/obo/CHMO_0001004	liquid chromatography	liquid chromatography surveillance	0.784	bao	liquid chromatography	http://purl.obolibrary.org/obo/ERO_0001500
+893	http://purl.obolibrary.org/obo/CHMO_0001004	liquid chromatography	liquid chromatography method	0.87	bao	liquid chromatography	http://purl.obolibrary.org/obo/ERO_0001500
+900	http://purl.obolibrary.org/obo/CHMO_0000064	fluorescence resonance energy transfer	fluorescence resonance energy transfer	0.986	bao	fluorescence resonance energy transfer	http://www.bioassayontology.org/bao#BAO_0000001
+901	http://purl.obolibrary.org/obo/CHMO_0000064	fluorescence resonance energy transfer	fluorescence resonance energy transfer tests	0.93	bao	fluorescence resonance energy transfer	http://www.bioassayontology.org/bao#BAO_0000001
+902	http://purl.obolibrary.org/obo/CHMO_0000064	fluorescence resonance energy transfer	fluorescence resonance energy transfer design	0.92	bao	fluorescence resonance energy transfer	http://www.bioassayontology.org/bao#BAO_0000001
+918	http://purl.obolibrary.org/obo/CHMO_0000063	bioluminescence resonance energy transfer	bioluminescence resonance energy transfer design	0.921	bao	bioluminescence resonance energy transfer	http://www.bioassayontology.org/bao#BAO_0000461
+919	http://purl.obolibrary.org/obo/CHMO_0000063	bioluminescence resonance energy transfer	bioluminescence resonance energy transfer	0.984	bao	bioluminescence resonance energy transfer	http://www.bioassayontology.org/bao#BAO_0000461
+924	http://purl.obolibrary.org/obo/CHMO_0000067	microscopy	microscopy detection	0.722	bao	microscopy	http://www.bioassayontology.org/bao#BAO_0002526
+925	http://purl.obolibrary.org/obo/CHMO_0000067	microscopy	microscopy	0.995	bao	microscopy	http://www.bioassayontology.org/bao#BAO_0002526
+975	http://purl.obolibrary.org/obo/CHMO_0001528	dissection	dissection design	0.764	efo	dissection	http://www.ebi.ac.uk/efo/EFO_0003856
+976	http://purl.obolibrary.org/obo/CHMO_0001528	dissection	dissection	0.967	efo	dissection	http://www.ebi.ac.uk/efo/EFO_0003856
+996	http://purl.obolibrary.org/obo/CHMO_0002831	material acquisition	material acquisition	0.92	obi	material acquisition	http://purl.obolibrary.org/obo/OBI_0600010
+1005	http://purl.obolibrary.org/obo/CHMO_0001077	quartz crystal microbalance	quartz crystal microbalance	0.973	bao	quartz crystal microbalance	http://www.bioassayontology.org/bao#BAO_0000456
+1007	http://purl.obolibrary.org/obo/CHMO_0001077	quartz crystal microbalance	quartz crystal microbalance sampling	0.847	bao	quartz crystal microbalance	http://www.bioassayontology.org/bao#BAO_0000456
+1017	http://purl.obolibrary.org/obo/CHMO_0000080	transmission electron microscopy	transmission electron microscopy analysis	0.866	bao	transmission electron microscopy	http://www.bioassayontology.org/bao#BAO_0000455
+1018	http://purl.obolibrary.org/obo/CHMO_0000080	transmission electron microscopy	transmission electron microscopy process	0.877	bao	transmission electron microscopy	http://www.bioassayontology.org/bao#BAO_0000455
+1019	http://purl.obolibrary.org/obo/CHMO_0000080	transmission electron microscopy	transmission electron microscopy identification	0.799	bao	transmission electron microscopy	http://www.bioassayontology.org/bao#BAO_0000455
+1020	http://purl.obolibrary.org/obo/CHMO_0000087	fluorescence microscopy	fluorescence microscopy detection	0.839	bao	fluorescence microscopy	http://www.bioassayontology.org/bao#BAO_0000450
+1021	http://purl.obolibrary.org/obo/CHMO_0000087	fluorescence microscopy	fluorescence microscopy	0.995	bao	fluorescence microscopy	http://www.bioassayontology.org/bao#BAO_0000450
+1022	http://purl.obolibrary.org/obo/CHMO_0000087	fluorescence microscopy	fluorescence microscopy analysis	0.852	bao	fluorescence microscopy	http://www.bioassayontology.org/bao#BAO_0000450
+1092	http://purl.obolibrary.org/obo/CHMO_0000073	scanning electron microscopy	scanning electron microscopy	0.985	bao	scanning electron microscopy	http://www.bioassayontology.org/bao#BAO_0000454
+1093	http://purl.obolibrary.org/obo/CHMO_0000073	scanning electron microscopy	scanning electron microscopy testing	0.868	bao	scanning electron microscopy	http://www.bioassayontology.org/bao#BAO_0000454
+1094	http://purl.obolibrary.org/obo/CHMO_0000073	scanning electron microscopy	scanning electron microscopy review	0.888	bao	scanning electron microscopy	http://www.bioassayontology.org/bao#BAO_0000454
+1108	http://purl.obolibrary.org/obo/CHMO_0000120	scanning near-field optical microscopy	scanning near-field optical microscopy	0.876	bao	scanning near-field optical microscopy	http://www.bioassayontology.org/bao#BAO_0002512
+1109	http://purl.obolibrary.org/obo/CHMO_0000120	scanning near-field optical microscopy	scanning near-field optical microscopy surveillance	0.753	bao	scanning near-field optical microscopy	http://www.bioassayontology.org/bao#BAO_0002512
+1194	http://purl.obolibrary.org/obo/CHMO_0000947	optical microscope	optical microscope assessment	0.787	bao	optical microscope	http://www.bioassayontology.org/bao#BAO_0150009
+1196	http://purl.obolibrary.org/obo/CHMO_0000947	optical microscope	optical microscope system	0.853	bao	optical microscope	http://www.bioassayontology.org/bao#BAO_0150009
+1200	http://purl.obolibrary.org/obo/BFO_0000040	material entity	material entity	0.985	bao	material entity	http://www.bioassayontology.org/bao#BAO_0003116
+1351	http://purl.obolibrary.org/obo/OBI_0302888	washing	washing	0.948	efo	washing	http://www.ebi.ac.uk/efo/EFO_0000735
+1518	http://purl.obolibrary.org/obo/MMO_0000380	electrothermal atomic absorption spectrometry	electrothermal atomic absorption spectrometry	0.933	chmo	electrothermal atomic absorption spectrometry	http://purl.obolibrary.org/obo/CHMO_0000237
+1519	http://purl.obolibrary.org/obo/MMO_0000380	electrothermal atomic absorption spectrometry	electrothermal atomic absorption spectrometry identification	0.821	chmo	electrothermal atomic absorption spectrometry	http://purl.obolibrary.org/obo/CHMO_0000237
+1520	http://purl.obolibrary.org/obo/MMO_0000380	electrothermal atomic absorption spectrometry	electrothermal atomic absorption spectrometry analysis	0.864	chmo	electrothermal atomic absorption spectrometry	http://purl.obolibrary.org/obo/CHMO_0000237
+2074	http://purl.obolibrary.org/obo/MMO_0000075	ELISA	ELISA	0.997	bao	ELISA	http://www.bioassayontology.org/bao#BAO_0000134
+2259	http://purl.obolibrary.org/obo/MMO_0000659	transcription profiling by high throughput sequencing	transcription profiling by high throughput sequencing	0.948	efo	transcription profiling by high throughput sequencing	http://www.ebi.ac.uk/efo/EFO_0002770
+2261	http://purl.obolibrary.org/obo/MMO_0000659	transcription profiling by high throughput sequencing	transcription profiling by high throughput sequencing analysis	0.88	efo	transcription profiling by high throughput sequencing	http://www.ebi.ac.uk/efo/EFO_0002770
+2262	http://purl.obolibrary.org/obo/OBI_0001271	transcription profiling by high throughput sequencing	transcription profiling by high throughput sequencing	0.948	efo	transcription profiling by high throughput sequencing	http://www.ebi.ac.uk/efo/EFO_0002770
+2264	http://purl.obolibrary.org/obo/OBI_0001271	transcription profiling by high throughput sequencing	transcription profiling by high throughput sequencing analysis	0.88	efo	transcription profiling by high throughput sequencing	http://www.ebi.ac.uk/efo/EFO_0002770
+2538	http://purl.obolibrary.org/obo/CHMO_0001000	analytical chromatography	analytical chromatography study	0.892	obi	analytical chromatography	http://purl.obolibrary.org/obo/OBI_0001630
+2539	http://purl.obolibrary.org/obo/CHMO_0001000	analytical chromatography	analytical chromatography testing	0.862	obi	analytical chromatography	http://purl.obolibrary.org/obo/OBI_0001630
+2540	http://purl.obolibrary.org/obo/CHMO_0001000	analytical chromatography	analytical chromatography detection	0.836	obi	analytical chromatography	http://purl.obolibrary.org/obo/OBI_0001630
+2541	http://purl.obolibrary.org/obo/CHMO_0001000	preparative chromatography	preparative chromatography	0.978	obi	preparative chromatography	http://purl.obolibrary.org/obo/OBI_0600046
+2648	http://purl.obolibrary.org/obo/CHMO_0001694	ChIP	ChIP	0.999	efo	ChIP	http://www.ebi.ac.uk/efo/EFO_0004176
+2651	http://purl.obolibrary.org/obo/OBI_00001975	ChIP	ChIP	0.999	efo	ChIP	http://www.ebi.ac.uk/efo/EFO_0004176
+2715	http://purl.obolibrary.org/obo/CHMO_0000948	charge coupled device	charge coupled device	0.989	bao	charge coupled device	http://www.bioassayontology.org/bao#BAO_0150023
+2805	http://purl.obolibrary.org/obo/CHMO_0001531	laser capture microdissection	laser capture microdissection	0.979	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+2806	http://purl.obolibrary.org/obo/CHMO_0001531	laser capture microdissection	laser capture microdissection surveillance	0.814	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+2807	http://purl.obolibrary.org/obo/CHMO_0001531	laser capture microdissection	laser capture microdissection approach	0.86	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+2829	http://purl.obolibrary.org/obo/CHMO_0002182	electron multiplying charge coupled device	electron multiplying charge coupled device assessment	0.868	bao	electron multiplying charge coupled device	http://www.bioassayontology.org/bao#BAO_0150025
+2830	http://purl.obolibrary.org/obo/CHMO_0002182	electron multiplying charge coupled device	electron multiplying charge coupled device method	0.907	bao	electron multiplying charge coupled device	http://www.bioassayontology.org/bao#BAO_0150025
+2831	http://purl.obolibrary.org/obo/CHMO_0002182	electron multiplying charge coupled device	electron multiplying charge coupled device	0.976	bao	electron multiplying charge coupled device	http://www.bioassayontology.org/bao#BAO_0150025
+2847	http://purl.obolibrary.org/obo/CHMO_0002017	density gradient centrifugation	density gradient centrifugation	0.968	efo	density gradient centrifugation	http://www.ebi.ac.uk/efo/EFO_0009112
+2848	http://purl.obolibrary.org/obo/CHMO_0002017	density gradient centrifugation	density gradient centrifugation review	0.886	efo	density gradient centrifugation	http://www.ebi.ac.uk/efo/EFO_0009112
+2880	http://purl.obolibrary.org/obo/CHMO_0001751	phosphate buffered saline	phosphate buffered saline	0.973	bao	phosphate buffered saline	http://www.bioassayontology.org/bao#BAO_0000012
+2946	http://purl.obolibrary.org/obo/OBI_0000968	instrument	instrument approach	0.726	bao	instrument	http://www.bioassayontology.org/bao#BAO_0003118
+2947	http://purl.obolibrary.org/obo/OBI_0000968	instrument	instrument analysis	0.726	bao	instrument	http://www.bioassayontology.org/bao#BAO_0003118
+2948	http://purl.obolibrary.org/obo/OBI_0000968	instrument	instrument system	0.77	bao	instrument	http://www.bioassayontology.org/bao#BAO_0003118
+2991	http://purl.obolibrary.org/obo/CHEBI_28262	DMSO	DMSO	1.0	bao	DMSO	http://www.bioassayontology.org/bao#BAO_0000118

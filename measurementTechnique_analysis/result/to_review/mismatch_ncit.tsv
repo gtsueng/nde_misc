@@ -1,0 +1,995 @@
+	Class ID	Original term	Term	T2T best score	Ontology	found_term	TermID
+33	http://purl.obolibrary.org/obo/MMO_0000035	digital scale	digital scale administration	0.71	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+51	http://purl.obolibrary.org/obo/MMO_0000394	high-performance liquid chromatography	high-performance liquid chromatography	0.984	ncit	High Performance Liquid Chromatography	http://purl.obolibrary.org/obo/NCIT_C16434
+52	http://purl.obolibrary.org/obo/MMO_0000394	high-performance liquid chromatography	high-performance liquid chromatography method	0.909	ncit	High Performance Liquid Chromatography	http://purl.obolibrary.org/obo/NCIT_C16434
+57	http://purl.obolibrary.org/obo/CHMO_0001009	high-performance liquid chromatography	high-performance liquid chromatography	0.984	ncit	High Performance Liquid Chromatography	http://purl.obolibrary.org/obo/NCIT_C16434
+58	http://purl.obolibrary.org/obo/CHMO_0001009	high-performance liquid chromatography	high-performance liquid chromatography method	0.909	ncit	High Performance Liquid Chromatography	http://purl.obolibrary.org/obo/NCIT_C16434
+69	http://purl.obolibrary.org/obo/MMO_0000287	electrophoresis	electrophoresis design	0.86	ncit	Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C16536
+70	http://purl.obolibrary.org/obo/MMO_0000287	electrophoresis	electrophoresis	0.991	ncit	Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C16536
+72	http://purl.obolibrary.org/obo/CHMO_0001019	electrophoresis	electrophoresis design	0.86	ncit	Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C16536
+73	http://purl.obolibrary.org/obo/CHMO_0001019	electrophoresis	electrophoresis	0.991	ncit	Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C16536
+78	http://purl.obolibrary.org/obo/OBI_0600053	electrophoresis	electrophoresis design	0.86	ncit	Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C16536
+79	http://purl.obolibrary.org/obo/OBI_0600053	electrophoresis	electrophoresis	0.991	ncit	Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C16536
+144	http://purl.obolibrary.org/obo/MMO_0000537	high-performance liquid chromatography-mass spectrometry	high-performance liquid chromatography-mass spectrometry approach	0.919	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+145	http://purl.obolibrary.org/obo/MMO_0000537	high-performance liquid chromatography-mass spectrometry	high-performance liquid chromatography-mass spectrometry surveillance	0.89	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+146	http://purl.obolibrary.org/obo/MMO_0000537	high-performance liquid chromatography-mass spectrometry	high-performance liquid chromatography-mass spectrometry	0.985	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+150	http://purl.obolibrary.org/obo/CHMO_0000796	high-performance liquid chromatography-mass spectrometry	high-performance liquid chromatography-mass spectrometry approach	0.919	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+151	http://purl.obolibrary.org/obo/CHMO_0000796	high-performance liquid chromatography-mass spectrometry	high-performance liquid chromatography-mass spectrometry surveillance	0.89	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+152	http://purl.obolibrary.org/obo/CHMO_0000796	high-performance liquid chromatography-mass spectrometry	high-performance liquid chromatography-mass spectrometry	0.985	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+165	http://purl.obolibrary.org/obo/MMO_0000288	chromatography	chromatography	0.991	ncit	Chromatography	http://purl.obolibrary.org/obo/NCIT_C16431
+168	http://purl.obolibrary.org/obo/CHMO_0001000	chromatography	chromatography	0.991	ncit	Chromatography	http://purl.obolibrary.org/obo/NCIT_C16431
+183	http://purl.obolibrary.org/obo/MMO_0000003	electrocardiography	electrocardiography	0.991	ncit	Electrocardiography	http://purl.obolibrary.org/obo/NCIT_C38053
+189	http://www.ebi.ac.uk/efo/EFO_0004327	electrocardiography	electrocardiography	0.991	ncit	Electrocardiography	http://purl.obolibrary.org/obo/NCIT_C38053
+195	http://purl.obolibrary.org/obo/MMO_0000845	affinity chromatography	affinity chromatography	0.989	ncit	Affinity Chromatography	http://purl.obolibrary.org/obo/NCIT_C16432
+198	http://purl.obolibrary.org/obo/CHMO_0001006	affinity chromatography	affinity chromatography	0.989	ncit	Affinity Chromatography	http://purl.obolibrary.org/obo/NCIT_C16432
+210	http://purl.obolibrary.org/obo/MMO_0000098	immunoassay	immunoassay	0.986	ncit	Immunoenzyme Procedure	http://purl.obolibrary.org/obo/NCIT_C16714
+211	http://purl.obolibrary.org/obo/MMO_0000098	immunoassay	immunoassay process	0.771	ncit	Immunoenzyme Procedure	http://purl.obolibrary.org/obo/NCIT_C16714
+212	http://purl.obolibrary.org/obo/MMO_0000098	immunoassay	immunoassay diagnostic	0.713	ncit	Immunology Test	http://purl.obolibrary.org/obo/NCIT_C16723
+213	http://www.bioassayontology.org/bao#BAO_0000129	immunoassay	immunoassay	0.986	ncit	Immunoenzyme Procedure	http://purl.obolibrary.org/obo/NCIT_C16714
+214	http://www.bioassayontology.org/bao#BAO_0000129	immunoassay	immunoassay process	0.771	ncit	Immunoenzyme Procedure	http://purl.obolibrary.org/obo/NCIT_C16714
+215	http://www.bioassayontology.org/bao#BAO_0000129	immunoassay	immunoassay diagnostic	0.713	ncit	Immunology Test	http://purl.obolibrary.org/obo/NCIT_C16723
+276	http://purl.obolibrary.org/obo/MMO_0000170	osmometry	osmometry assessment	0.704	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+279	http://purl.obolibrary.org/obo/CHMO_0001082	osmometry	osmometry assessment	0.704	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+303	http://purl.obolibrary.org/obo/MMO_0000534	mass spectrometry	mass spectrometry	0.988	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+306	http://purl.obolibrary.org/obo/CHMO_0000470	mass spectrometry	mass spectrometry	0.988	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+312	http://www.bioassayontology.org/bao#BAO_0000055	mass spectrometry	mass spectrometry	0.988	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+327	http://purl.obolibrary.org/obo/MMO_0000503	cell proliferation assay	cell proliferation assay	0.972	ncit	Cell Proliferation Assay	http://purl.obolibrary.org/obo/NCIT_C116553
+330	http://www.bioassayontology.org/bao#BAO_0002805	cell proliferation assay	cell proliferation assay	0.972	ncit	Cell Proliferation Assay	http://purl.obolibrary.org/obo/NCIT_C116553
+333	http://purl.obolibrary.org/obo/OBI_0000891	cell proliferation assay	cell proliferation assay	0.972	ncit	Cell Proliferation Assay	http://purl.obolibrary.org/obo/NCIT_C116553
+372	http://purl.obolibrary.org/obo/MMO_0000470	gas-solid chromatography	gas-solid chromatography	0.871	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+378	http://purl.obolibrary.org/obo/CHMO_0001015	gas-solid chromatography	gas-solid chromatography	0.871	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+381	http://purl.obolibrary.org/obo/MMO_0000496	histology	histology diagnostic	0.715	ncit	X-Ray Imaging	http://purl.obolibrary.org/obo/NCIT_C38101
+384	http://purl.obolibrary.org/obo/MMO_0000073	radioimmunoassay	radioimmunoassay	0.98	ncit	Radioimmunoassay	http://purl.obolibrary.org/obo/NCIT_C17057
+385	http://purl.obolibrary.org/obo/MMO_0000073	radioimmunoassay	radioimmunoassay identification	0.716	ncit	Radioimmunoassay	http://purl.obolibrary.org/obo/NCIT_C17057
+386	http://purl.obolibrary.org/obo/MMO_0000073	radioimmunoassay	radioimmunoassay tests	0.856	ncit	Radioimmunoassay	http://purl.obolibrary.org/obo/NCIT_C17057
+387	http://www.bioassayontology.org/bao#BAO_0002428	radioimmunoassay	radioimmunoassay	0.98	ncit	Radioimmunoassay	http://purl.obolibrary.org/obo/NCIT_C17057
+388	http://www.bioassayontology.org/bao#BAO_0002428	radioimmunoassay	radioimmunoassay identification	0.716	ncit	Radioimmunoassay	http://purl.obolibrary.org/obo/NCIT_C17057
+389	http://www.bioassayontology.org/bao#BAO_0002428	radioimmunoassay	radioimmunoassay tests	0.856	ncit	Radioimmunoassay	http://purl.obolibrary.org/obo/NCIT_C17057
+390	http://purl.obolibrary.org/obo/MMO_0000094	spirometry	spirometry design	0.775	ncit	Spirometry	http://purl.obolibrary.org/obo/NCIT_C85397
+391	http://purl.obolibrary.org/obo/MMO_0000094	spirometry	spirometry assessment	0.693	ncit	Spirometry	http://purl.obolibrary.org/obo/NCIT_C85397
+392	http://purl.obolibrary.org/obo/MMO_0000094	spirometry	spirometry system	0.775	ncit	Spirometry	http://purl.obolibrary.org/obo/NCIT_C85397
+399	http://purl.obolibrary.org/obo/MMO_0000536	gas chromatography-mass spectrometry	gas chromatography-mass spectrometry	0.989	ncit	Gas Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C111203
+400	http://purl.obolibrary.org/obo/MMO_0000536	gas chromatography-mass spectrometry	gas chromatography-mass spectrometry design	0.914	ncit	Gas Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C111203
+402	http://purl.obolibrary.org/obo/CHMO_0000497	gas chromatography-mass spectrometry	gas chromatography-mass spectrometry	0.989	ncit	Gas Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C111203
+403	http://purl.obolibrary.org/obo/CHMO_0000497	gas chromatography-mass spectrometry	gas chromatography-mass spectrometry design	0.914	ncit	Gas Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C111203
+429	http://purl.obolibrary.org/obo/MMO_0000535	liquid chromatography-mass spectrometry	liquid chromatography-mass spectrometry	0.987	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+431	http://purl.obolibrary.org/obo/MMO_0000535	liquid chromatography-mass spectrometry	liquid chromatography-mass spectrometry administration	0.843	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+432	http://purl.obolibrary.org/obo/CHMO_0000524	liquid chromatography-mass spectrometry	liquid chromatography-mass spectrometry	0.987	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+434	http://purl.obolibrary.org/obo/CHMO_0000524	liquid chromatography-mass spectrometry	liquid chromatography-mass spectrometry administration	0.843	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+451	http://purl.obolibrary.org/obo/MMO_0000217	scale	scale design	0.725	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+465	http://purl.obolibrary.org/obo/MMO_0000368	hemocytometer	hemocytometer	0.974	ncit	Hemocytometer	http://purl.obolibrary.org/obo/NCIT_C78807
+501	http://purl.obolibrary.org/obo/MMO_0000736	inductively coupled plasma mass spectrometry	inductively coupled plasma mass spectrometry testing	0.904	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+502	http://purl.obolibrary.org/obo/MMO_0000736	inductively coupled plasma mass spectrometry	inductively coupled plasma mass spectrometry method	0.915	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+503	http://purl.obolibrary.org/obo/MMO_0000736	inductively coupled plasma mass spectrometry	inductively coupled plasma mass spectrometry system	0.914	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+504	http://purl.obolibrary.org/obo/CHMO_0000538	inductively coupled plasma mass spectrometry	inductively coupled plasma mass spectrometry testing	0.904	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+505	http://purl.obolibrary.org/obo/CHMO_0000538	inductively coupled plasma mass spectrometry	inductively coupled plasma mass spectrometry method	0.915	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+506	http://purl.obolibrary.org/obo/CHMO_0000538	inductively coupled plasma mass spectrometry	inductively coupled plasma mass spectrometry system	0.914	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+516	http://purl.obolibrary.org/obo/MMO_0000100	gel electrophoresis	gel electrophoresis identification	0.741	ncit	Gel Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C18091
+517	http://purl.obolibrary.org/obo/MMO_0000100	gel electrophoresis	gel electrophoresis	0.988	ncit	Electrophoresis Gel	http://purl.obolibrary.org/obo/NCIT_C45307
+518	http://purl.obolibrary.org/obo/MMO_0000100	gel electrophoresis	gel electrophoresis detection	0.813	ncit	Electrophoresis Gel	http://purl.obolibrary.org/obo/NCIT_C45307
+519	http://purl.obolibrary.org/obo/CHMO_0001021	gel electrophoresis	gel electrophoresis identification	0.741	ncit	Gel Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C18091
+520	http://purl.obolibrary.org/obo/CHMO_0001021	gel electrophoresis	gel electrophoresis	0.988	ncit	Electrophoresis Gel	http://purl.obolibrary.org/obo/NCIT_C45307
+521	http://purl.obolibrary.org/obo/CHMO_0001021	gel electrophoresis	gel electrophoresis detection	0.813	ncit	Electrophoresis Gel	http://purl.obolibrary.org/obo/NCIT_C45307
+522	http://purl.obolibrary.org/obo/MMO_0000441	bioassay	bioassay sampling	0.693	ncit	Bioassay	http://purl.obolibrary.org/obo/NCIT_C16341
+523	http://purl.obolibrary.org/obo/MMO_0000441	bioassay	bioassay diagnostic	0.734	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+524	http://purl.obolibrary.org/obo/MMO_0000441	bioassay	bioassay	0.979	ncit	Bioassay	http://purl.obolibrary.org/obo/NCIT_C16341
+531	http://www.bioassayontology.org/bao#BAO_0000015	bioassay	bioassay sampling	0.693	ncit	Bioassay	http://purl.obolibrary.org/obo/NCIT_C16341
+532	http://www.bioassayontology.org/bao#BAO_0000015	bioassay	bioassay diagnostic	0.734	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+533	http://www.bioassayontology.org/bao#BAO_0000015	bioassay	bioassay	0.979	ncit	Bioassay	http://purl.obolibrary.org/obo/NCIT_C16341
+540	http://purl.obolibrary.org/obo/MMO_0000469	gas chromatography	gas chromatography method	0.852	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+541	http://purl.obolibrary.org/obo/MMO_0000469	gas chromatography	gas chromatography	0.991	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+555	http://purl.obolibrary.org/obo/CHMO_0001002	gas chromatography	gas chromatography method	0.852	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+556	http://purl.obolibrary.org/obo/CHMO_0001002	gas chromatography	gas chromatography	0.991	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+558	http://purl.obolibrary.org/obo/MMO_0000714	microplate reader	microplate reader study	0.858	ncit	Microplate Reader	http://purl.obolibrary.org/obo/NCIT_C70661
+559	http://purl.obolibrary.org/obo/MMO_0000714	microplate reader	microplate reader method	0.839	ncit	Microplate Reader	http://purl.obolibrary.org/obo/NCIT_C70661
+560	http://purl.obolibrary.org/obo/MMO_0000714	microplate reader	microplate reader process	0.82	ncit	Microplate Reader	http://purl.obolibrary.org/obo/NCIT_C70661
+564	http://purl.obolibrary.org/obo/OBI_0001058	microplate reader	microplate reader study	0.858	ncit	Microplate Reader	http://purl.obolibrary.org/obo/NCIT_C70661
+565	http://purl.obolibrary.org/obo/OBI_0001058	microplate reader	microplate reader method	0.839	ncit	Microplate Reader	http://purl.obolibrary.org/obo/NCIT_C70661
+566	http://purl.obolibrary.org/obo/OBI_0001058	microplate reader	microplate reader process	0.82	ncit	Microplate Reader	http://purl.obolibrary.org/obo/NCIT_C70661
+576	http://purl.obolibrary.org/obo/MMO_0000712	centrifugation	centrifugation administration	0.714	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+579	http://purl.obolibrary.org/obo/OBI_0302886	centrifugation	centrifugation administration	0.714	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+636	http://purl.obolibrary.org/obo/CHMO_0002607	micromanipulator	micromanipulator	0.67	ncit	Nanomanipulator	http://purl.obolibrary.org/obo/NCIT_C62331
+639	http://purl.obolibrary.org/obo/CHMO_0001640	filtration	filtration	0.932	ncit	Filtration	http://purl.obolibrary.org/obo/NCIT_C16583
+641	http://purl.obolibrary.org/obo/CHMO_0001640	filtration	filtration approach	0.695	ncit	Filtration	http://purl.obolibrary.org/obo/NCIT_C16583
+642	http://purl.obolibrary.org/obo/CHMO_0000974	open-tubular column	open-tubular column analysis	0.56	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+643	http://purl.obolibrary.org/obo/CHMO_0000974	open-tubular column	open-tubular column diagnostic	0.6	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+644	http://purl.obolibrary.org/obo/CHMO_0000974	open-tubular column	open-tubular column design	0.501	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+645	http://purl.obolibrary.org/obo/CHMO_0000975	packed column	packed column assessment	0.654	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+647	http://purl.obolibrary.org/obo/CHMO_0000975	packed column	packed column design	0.566	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+648	http://purl.obolibrary.org/obo/CHMO_0000979	reflectron	reflectron detection	0.703	ncit	Reflectron	http://purl.obolibrary.org/obo/NCIT_C70697
+649	http://purl.obolibrary.org/obo/CHMO_0000979	reflectron	reflectron assessment	0.686	ncit	Physical Examination	http://purl.obolibrary.org/obo/NCIT_C20989
+650	http://purl.obolibrary.org/obo/CHMO_0000979	reflectron	reflectron diagnostic	0.697	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+657	http://purl.obolibrary.org/obo/OBI_0302893	storage	storage	0.982	ncit	Storage	http://purl.obolibrary.org/obo/NCIT_C60824
+666	http://purl.obolibrary.org/obo/BFO_0000015	process	process	0.982	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+667	http://purl.obolibrary.org/obo/BFO_0000015	process	process design	0.72	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+696	http://purl.obolibrary.org/obo/CHMO_0001688	precipitation	precipitation study	0.797	ncit	Protein Precipitation	http://purl.obolibrary.org/obo/NCIT_C113065
+698	http://purl.obolibrary.org/obo/CHMO_0001688	precipitation	precipitation	0.938	ncit	Protein Precipitation	http://purl.obolibrary.org/obo/NCIT_C113065
+699	http://purl.obolibrary.org/obo/CHMO_0002820	concentration	concentration	0.965	ncit	Able to Concentrate	http://purl.obolibrary.org/obo/NCIT_C105891
+702	http://purl.obolibrary.org/obo/CHMO_0000960	ion source	ion source sampling	0.682	ncit	Ionization Source	http://purl.obolibrary.org/obo/NCIT_C47927
+703	http://purl.obolibrary.org/obo/CHMO_0000960	ion source	ion source tests	0.752	ncit	Ionization Source	http://purl.obolibrary.org/obo/NCIT_C47927
+705	http://purl.obolibrary.org/obo/BFO_0000023	role	role	0.444	ncit	Dietary Oleic Acid Measurement	http://purl.obolibrary.org/obo/NCIT_C184436
+714	http://purl.obolibrary.org/obo/OBCS_0000058	sensitivity	sensitivity	0.87	ncit	Low Sensitivity Method	http://purl.obolibrary.org/obo/NCIT_C179821
+716	http://purl.obolibrary.org/obo/OBCS_0000058	sensitivity	sensitivity method	0.905	ncit	Low Sensitivity Method	http://purl.obolibrary.org/obo/NCIT_C179821
+717	http://purl.obolibrary.org/obo/CHMO_0002793	sensor	sensor	0.974	ncit	Sensor Device	http://purl.obolibrary.org/obo/NCIT_C50166
+718	http://purl.obolibrary.org/obo/CHMO_0002793	sensor	sensor sampling	0.729	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+722	http://purl.obolibrary.org/obo/CHEBI_35255	chloroform	chloroform testing	0.633	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+723	http://purl.obolibrary.org/obo/CHMO_0002808	gas chromatography oven	gas chromatography oven	0.891	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+724	http://purl.obolibrary.org/obo/CHMO_0002808	gas chromatography oven	gas chromatography oven system	0.786	ncit	Gas Chromatography	http://purl.obolibrary.org/obo/NCIT_C30014
+728	http://purl.obolibrary.org/obo/CHMO_0002740	analyte role	analyte role sampling	0.626	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+729	http://purl.obolibrary.org/obo/CHMO_0002742	elution	elution detection	0.723	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+731	http://purl.obolibrary.org/obo/CHMO_0002742	elution	elution review	0.667	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+732	http://purl.obolibrary.org/obo/CHMO_0002743	matrix	matrix	0.853	ncit	Matrix for Implantation Matrix Dosage Form	http://purl.obolibrary.org/obo/NCIT_C149646
+733	http://purl.obolibrary.org/obo/CHMO_0002743	matrix	matrix detection	0.73	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+735	http://purl.obolibrary.org/obo/CHMO_0002196	activation	activation surveillance	0.786	ncit	Patient Observation	http://purl.obolibrary.org/obo/NCIT_C15722
+736	http://purl.obolibrary.org/obo/CHMO_0002196	activation	activation	0.94	ncit	Activation	http://purl.obolibrary.org/obo/NCIT_C64382
+738	http://purl.obolibrary.org/obo/OBI_0001032	light emission device	light emission device review	0.552	ncit	Medical Device	http://purl.obolibrary.org/obo/NCIT_C16830
+739	http://purl.obolibrary.org/obo/OBI_0001032	light emission device	light emission device approach	0.533	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+740	http://purl.obolibrary.org/obo/OBI_0001032	light emission device	light emission device	0.584	ncit	Light Emitting Diode Device	http://purl.obolibrary.org/obo/NCIT_C49923
+780	http://purl.obolibrary.org/obo/CHMO_0000110	phase contrast microscopy	phase contrast microscopy	0.988	ncit	Phase-Contrast Microscopy	http://purl.obolibrary.org/obo/NCIT_C16857
+781	http://purl.obolibrary.org/obo/CHMO_0000110	phase contrast microscopy	phase contrast microscopy sampling	0.851	ncit	Phase-Contrast Microscopy	http://purl.obolibrary.org/obo/NCIT_C16857
+792	http://purl.obolibrary.org/obo/CHMO_0010011	personal protective equipment	personal protective equipment	0.957	ncit	Personal Protective Equipment	http://purl.obolibrary.org/obo/NCIT_C173748
+793	http://purl.obolibrary.org/obo/CHMO_0010011	personal protective equipment	personal protective equipment tests	0.879	ncit	Personal Protective Equipment	http://purl.obolibrary.org/obo/NCIT_C173748
+801	http://purl.obolibrary.org/obo/CHMO_0001378	infiltration	infiltration	0.757	ncit	Filtration	http://purl.obolibrary.org/obo/NCIT_C16583
+802	http://purl.obolibrary.org/obo/CHMO_0001378	infiltration	infiltration system	0.618	ncit	Filtration	http://purl.obolibrary.org/obo/NCIT_C16583
+804	http://purl.obolibrary.org/obo/CHMO_0001099	transmission electron microscope	transmission electron microscope	0.959	ncit	Transmission Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C78813
+806	http://purl.obolibrary.org/obo/CHMO_0001099	transmission electron microscope	transmission electron microscope tests	0.892	ncit	Transmission Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C78813
+811	http://purl.obolibrary.org/obo/CHMO_0000104	bright-field microscopy	bright-field microscopy diagnostic	0.794	ncit	Diagnostic Microscopy	http://purl.obolibrary.org/obo/NCIT_C116505
+849	http://purl.obolibrary.org/obo/CHEBI_60027	polymer	polymer identification	0.792	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+851	http://purl.obolibrary.org/obo/CHEBI_60027	polymer	polymer sampling	0.705	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+852	http://purl.obolibrary.org/obo/CHMO_0002244	detector	detector sampling	0.69	ncit	Detector	http://purl.obolibrary.org/obo/NCIT_C41276
+853	http://purl.obolibrary.org/obo/CHMO_0002244	detector	detector study	0.765	ncit	Detector	http://purl.obolibrary.org/obo/NCIT_C41276
+854	http://purl.obolibrary.org/obo/CHMO_0002244	detector	detector process	0.712	ncit	Detector Device	http://purl.obolibrary.org/obo/NCIT_C49916
+855	http://purl.obolibrary.org/obo/CHMO_0000575	tandem mass spectrometry	tandem mass spectrometry	0.986	ncit	Tandem Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18142
+885	http://purl.obolibrary.org/obo/OBI_0000661	ELISA	ELISA sampling	0.757	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+887	http://purl.obolibrary.org/obo/OBI_0000661	ELISA	ELISA detection	0.755	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+888	http://purl.obolibrary.org/obo/CHMO_0001810	synchrotron	synchrotron	0.967	ncit	Synchrotron	http://purl.obolibrary.org/obo/NCIT_C48205
+889	http://purl.obolibrary.org/obo/CHMO_0001810	synchrotron	synchrotron design	0.778	ncit	Synchrotron	http://purl.obolibrary.org/obo/NCIT_C48205
+912	http://purl.obolibrary.org/obo/CHMO_0000061	flow cytometry	flow cytometry	0.987	ncit	Flow Cytometry	http://purl.obolibrary.org/obo/NCIT_C16585
+913	http://purl.obolibrary.org/obo/CHMO_0000061	flow cytometry	flow cytometry review	0.816	ncit	Flow Cytometry	http://purl.obolibrary.org/obo/NCIT_C16585
+914	http://purl.obolibrary.org/obo/CHMO_0000061	flow cytometry	flow cytometry system	0.816	ncit	Flow Cytometry	http://purl.obolibrary.org/obo/NCIT_C16585
+929	http://purl.obolibrary.org/obo/OBI_0000070	assay	assay identification	0.832	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+948	http://purl.obolibrary.org/obo/CHMO_0002636	superconducting quantum interference device	superconducting quantum interference device	0.969	ncit	Superconducting Quantum Interference Device	http://purl.obolibrary.org/obo/NCIT_C124066
+950	http://purl.obolibrary.org/obo/CHMO_0002636	superconducting quantum interference device	superconducting quantum interference device sampling	0.878	ncit	Superconducting Quantum Interference Device	http://purl.obolibrary.org/obo/NCIT_C124066
+964	http://purl.obolibrary.org/obo/CHEBI_50796	nanotube	nanotube tests	0.608	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+965	http://purl.obolibrary.org/obo/CHEBI_50796	nanotube	nanotube system	0.648	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+967	http://purl.obolibrary.org/obo/OBI_0000185	imaging assay	imaging assay surveillance	0.676	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+972	http://purl.obolibrary.org/obo/CHMO_0010003	protective clothing	protective clothing	0.509	ncit	Protective Face Mask	http://purl.obolibrary.org/obo/NCIT_C173747
+977	http://purl.obolibrary.org/obo/CHMO_0001528	dissection	dissection administration	0.748	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+978	http://purl.obolibrary.org/obo/CHMO_0001522	dialysis	dialysis	0.994	ncit	Dialysis Method of Administration	http://purl.obolibrary.org/obo/NCIT_C149433
+979	http://purl.obolibrary.org/obo/CHMO_0001522	dialysis	dialysis analysis	0.915	ncit	Dialysis	http://purl.obolibrary.org/obo/NCIT_C15221
+981	http://purl.obolibrary.org/obo/CHMO_0002232	spectrophotometer	spectrophotometer analysis	0.813	ncit	Spectrophotometer	http://purl.obolibrary.org/obo/NCIT_C62333
+982	http://purl.obolibrary.org/obo/CHMO_0002232	spectrophotometer	spectrophotometer surveillance	0.755	ncit	Spectrophotometer	http://purl.obolibrary.org/obo/NCIT_C62333
+983	http://purl.obolibrary.org/obo/CHMO_0002232	spectrophotometer	spectrophotometer assessment	0.782	ncit	Spectrophotometer	http://purl.obolibrary.org/obo/NCIT_C62333
+984	http://purl.obolibrary.org/obo/CHMO_0002236	dark-field microscope	dark-field microscope process	0.757	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+985	http://purl.obolibrary.org/obo/CHMO_0002236	dark-field microscope	dark-field microscope design	0.772	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+986	http://purl.obolibrary.org/obo/CHMO_0002236	dark-field microscope	dark-field microscope	0.885	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+993	http://purl.obolibrary.org/obo/CHMO_0002231	purification	purification	0.937	ncit	Purification	http://purl.obolibrary.org/obo/NCIT_C68780
+995	http://purl.obolibrary.org/obo/CHMO_0002231	purification	purification diagnostic	0.692	ncit	Purification	http://purl.obolibrary.org/obo/NCIT_C68780
+999	http://purl.obolibrary.org/obo/IAO_0000030	information content entity	information content entity	0.652	ncit	Patent Information	http://purl.obolibrary.org/obo/NCIT_C79291
+1008	http://purl.obolibrary.org/obo/BFO_0000034	function	function review	0.642	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+1009	http://purl.obolibrary.org/obo/BFO_0000034	function	function	0.789	ncit	Function Test	http://purl.obolibrary.org/obo/NCIT_C186304
+1010	http://purl.obolibrary.org/obo/BFO_0000034	function	function approach	0.692	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1029	http://purl.obolibrary.org/obo/OBI_0001042	pump function	pump function	0.644	ncit	Function Test	http://purl.obolibrary.org/obo/NCIT_C186304
+1031	http://purl.obolibrary.org/obo/OBI_0001042	pump function	pump function assessment	0.796	ncit	Functional Assessment	http://purl.obolibrary.org/obo/NCIT_C81250
+1035	http://purl.obolibrary.org/obo/CHMO_0002787	syringe pump	syringe pump diagnostic	0.68	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+1036	http://purl.obolibrary.org/obo/CHMO_0002787	syringe pump	syringe pump	0.762	ncit	Syringe Device	http://purl.obolibrary.org/obo/NCIT_C50207
+1037	http://purl.obolibrary.org/obo/CHMO_0002787	syringe pump	syringe pump surveillance	0.69	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+1062	http://purl.obolibrary.org/obo/CHMO_0002109	pulse oximetry	pulse oximetry	0.977	ncit	Pulse Oximetry	http://purl.obolibrary.org/obo/NCIT_C38085
+1063	http://purl.obolibrary.org/obo/CHMO_0002109	pulse oximetry	pulse oximetry approach	0.769	ncit	Pulse Oximetry	http://purl.obolibrary.org/obo/NCIT_C38085
+1065	http://purl.obolibrary.org/obo/CHMO_0001577	extraction	extraction	0.954	ncit	Extraction	http://purl.obolibrary.org/obo/NCIT_C61575
+1066	http://purl.obolibrary.org/obo/CHMO_0001577	extraction	extraction sampling	0.711	ncit	Extraction	http://purl.obolibrary.org/obo/NCIT_C61575
+1067	http://purl.obolibrary.org/obo/CHMO_0001577	extraction	extraction approach	0.711	ncit	Extraction	http://purl.obolibrary.org/obo/NCIT_C61575
+1068	http://purl.obolibrary.org/obo/CHMO_0000800	spectrum	spectrum testing	0.674	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+1069	http://purl.obolibrary.org/obo/CHMO_0000800	spectrum	spectrum design	0.642	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+1070	http://purl.obolibrary.org/obo/CHMO_0000800	spectrum	spectrum	0.83	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+1074	http://purl.obolibrary.org/obo/BFO_0000019	quality	quality	0.787	ncit	Joint Vendor Quality Assurance Plan	http://purl.obolibrary.org/obo/NCIT_C115777
+1075	http://purl.obolibrary.org/obo/BFO_0000019	quality	quality system	0.673	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+1076	http://purl.obolibrary.org/obo/BFO_0000019	quality	quality administration	0.79	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+1089	http://purl.obolibrary.org/obo/CHEBI_50803	nanoparticle	nanoparticle	0.812	ncit	Nanoparticle Production	http://purl.obolibrary.org/obo/NCIT_C113045
+1090	http://purl.obolibrary.org/obo/CHEBI_50803	nanoparticle	nanoparticle approach	0.704	ncit	Nanoparticle Application	http://purl.obolibrary.org/obo/NCIT_C62309
+1098	http://purl.obolibrary.org/obo/CHMO_0000950	diffractometer	diffractometer	0.821	ncit	Powder Diffractometer	http://purl.obolibrary.org/obo/NCIT_C78855
+1101	http://purl.obolibrary.org/obo/CHMO_0000954	atomic force microscope	atomic force microscope analysis	0.85	ncit	Atomic Force Microscope	http://purl.obolibrary.org/obo/NCIT_C78804
+1102	http://purl.obolibrary.org/obo/CHMO_0000954	atomic force microscope	atomic force microscope	0.987	ncit	Atomic Force Microscope	http://purl.obolibrary.org/obo/NCIT_C78804
+1104	http://purl.obolibrary.org/obo/CHMO_0000953	microscope	microscope analysis	0.742	ncit	Microscope Device	http://purl.obolibrary.org/obo/NCIT_C50069
+1105	http://purl.obolibrary.org/obo/CHMO_0000953	microscope	microscope diagnostic	0.883	ncit	Diagnostic Microscopy	http://purl.obolibrary.org/obo/NCIT_C116505
+1137	http://purl.obolibrary.org/obo/OBI_0000968	device	device diagnostic	0.779	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+1138	http://purl.obolibrary.org/obo/OBI_0000968	device	device review	0.767	ncit	Medical Device	http://purl.obolibrary.org/obo/NCIT_C16830
+1139	http://purl.obolibrary.org/obo/OBI_0000968	device	device	0.995	ncit	Medical Device	http://purl.obolibrary.org/obo/NCIT_C16830
+1143	http://purl.obolibrary.org/obo/CHMO_0002177	dark-field microscopy	dark-field microscopy	0.988	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+1144	http://purl.obolibrary.org/obo/CHMO_0002177	dark-field microscopy	dark-field microscopy tests	0.879	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+1145	http://purl.obolibrary.org/obo/CHMO_0002177	dark-field microscopy	dark-field microscopy study	0.879	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+1153	http://purl.obolibrary.org/obo/CHMO_0002815	solubility	solubility identification	0.741	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+1154	http://purl.obolibrary.org/obo/CHMO_0002815	solubility	solubility diagnostic	0.697	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+1155	http://purl.obolibrary.org/obo/OBI_0000796	purification objective	purification objective sampling	0.603	ncit	Purification	http://purl.obolibrary.org/obo/NCIT_C68780
+1156	http://purl.obolibrary.org/obo/OBI_0000796	purification objective	purification objective	0.708	ncit	Purification	http://purl.obolibrary.org/obo/NCIT_C68780
+1157	http://purl.obolibrary.org/obo/OBI_0000796	purification objective	purification objective administration	0.694	ncit	Medication Administration	http://purl.obolibrary.org/obo/NCIT_C128534
+1173	http://purl.obolibrary.org/obo/OBI_0000011	planned process	planned process approach	0.611	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1174	http://purl.obolibrary.org/obo/OBI_0000011	planned process	planned process	0.694	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+1188	http://purl.obolibrary.org/obo/CHMO_0000941	scanning electron microscope	scanning electron microscope	0.978	ncit	Scanning Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C78814
+1189	http://purl.obolibrary.org/obo/CHMO_0000941	scanning electron microscope	scanning electron microscope process	0.868	ncit	Scanning Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C78814
+1191	http://purl.obolibrary.org/obo/CHMO_0000943	scanning probe microscope	scanning probe microscope design	0.869	ncit	Scanning Probe Microscope	http://purl.obolibrary.org/obo/NCIT_C78803
+1192	http://purl.obolibrary.org/obo/CHMO_0000943	scanning probe microscope	scanning probe microscope surveillance	0.791	ncit	Scanning Probe Microscope	http://purl.obolibrary.org/obo/NCIT_C78803
+1193	http://purl.obolibrary.org/obo/CHMO_0000943	scanning probe microscope	scanning probe microscope	0.976	ncit	Scanning Probe Microscope	http://purl.obolibrary.org/obo/NCIT_C78803
+1197	http://purl.obolibrary.org/obo/CHMO_0002166	autoclave	autoclave	0.971	ncit	Autoclave	http://purl.obolibrary.org/obo/NCIT_C93052
+1263	http://purl.obolibrary.org/obo/OBI_0001138	X-ray source	X-ray source sampling	0.643	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+1264	http://purl.obolibrary.org/obo/OBI_0001138	X-ray source	X-ray source	0.682	ncit	Patient Identifier	http://purl.obolibrary.org/obo/NCIT_C164337
+1265	http://purl.obolibrary.org/obo/OBI_0001138	X-ray source	X-ray source review	0.601	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+1269	http://purl.obolibrary.org/obo/CHMO_0000987	capillary column	capillary column	0.685	ncit	Applied Biosystems Capillary Sequencing	http://purl.obolibrary.org/obo/NCIT_C198570
+1271	http://purl.obolibrary.org/obo/CHMO_0000987	capillary column	capillary column administration	0.673	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+1272	http://purl.obolibrary.org/obo/CHMO_0000982	mass spectrometer	mass spectrometer approach	0.806	ncit	Mass Spectrometer	http://purl.obolibrary.org/obo/NCIT_C47875
+1273	http://purl.obolibrary.org/obo/CHMO_0000982	mass spectrometer	mass spectrometer	0.988	ncit	Mass Spectrometer	http://purl.obolibrary.org/obo/NCIT_C47875
+1344	http://purl.obolibrary.org/obo/OBI_0400064	laser	laser	0.988	ncit	Laser Surgery	http://purl.obolibrary.org/obo/NCIT_C15268
+1345	http://purl.obolibrary.org/obo/OBI_0400064	laser	laser detection	0.755	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+1346	http://purl.obolibrary.org/obo/OBI_0400064	laser	laser system	0.731	ncit	Drug Delivery System	http://purl.obolibrary.org/obo/NCIT_C17423
+1350	http://purl.obolibrary.org/obo/OBI_0302888	washing	washing administration	0.79	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+1364	http://purl.obolibrary.org/obo/CHEBI_50594	carbon nanotube	carbon nanotube identification	0.693	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+1386	http://purl.obolibrary.org/obo/CHMO_0001059	ion detector	ion detector process	0.65	ncit	Detector	http://purl.obolibrary.org/obo/NCIT_C41276
+1387	http://purl.obolibrary.org/obo/CHMO_0001059	ion detector	ion detector system	0.669	ncit	Detector	http://purl.obolibrary.org/obo/NCIT_C41276
+1388	http://purl.obolibrary.org/obo/CHMO_0001059	ion detector	ion detector	0.832	ncit	Detector Device	http://purl.obolibrary.org/obo/NCIT_C49916
+1398	http://purl.obolibrary.org/obo/CHMO_0002263	cation-exchange column	cation-exchange column sampling	0.516	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+1401	http://purl.obolibrary.org/obo/OBI_0302912	electroporation	electroporation detection	0.764	ncit	Electroporation	http://purl.obolibrary.org/obo/NCIT_C15707
+1402	http://purl.obolibrary.org/obo/OBI_0302912	electroporation	electroporation process	0.788	ncit	Electroporation	http://purl.obolibrary.org/obo/NCIT_C15707
+1403	http://purl.obolibrary.org/obo/OBI_0302912	electroporation	electroporation	0.955	ncit	Electroporation	http://purl.obolibrary.org/obo/NCIT_C15707
+1407	http://purl.obolibrary.org/obo/CHMO_0001957	flow cytometer	flow cytometer	0.982	ncit	Flow Cytometer	http://purl.obolibrary.org/obo/NCIT_C78806
+1408	http://purl.obolibrary.org/obo/CHMO_0001957	flow cytometer	flow cytometer sampling	0.773	ncit	Flow Cytometer	http://purl.obolibrary.org/obo/NCIT_C78806
+1409	http://purl.obolibrary.org/obo/CHMO_0001957	flow cytometer	flow cytometer method	0.827	ncit	Flow Cytometer	http://purl.obolibrary.org/obo/NCIT_C78806
+1410	http://purl.obolibrary.org/obo/CHMO_0001088	electron microscope	electron microscope	0.986	ncit	Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C28219
+1412	http://purl.obolibrary.org/obo/CHMO_0001088	electron microscope	electron microscope study	0.872	ncit	Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C28219
+1413	http://purl.obolibrary.org/obo/CHMO_0001085	fluorescence-activated cell sorting	fluorescence-activated cell sorting approach	0.87	ncit	Fluorescence Activated Cell Sorting	http://purl.obolibrary.org/obo/NCIT_C17353
+1414	http://purl.obolibrary.org/obo/CHMO_0001085	fluorescence-activated cell sorting	fluorescence-activated cell sorting	0.972	ncit	Fluorescence Activated Cell Sorting	http://purl.obolibrary.org/obo/NCIT_C17353
+1419	http://purl.obolibrary.org/obo/CHMO_0001234	spectrometer	spectrometer sampling	0.766	ncit	Spectrometer	http://purl.obolibrary.org/obo/NCIT_C62336
+1420	http://purl.obolibrary.org/obo/CHMO_0001234	spectrometer	spectrometer detection	0.8	ncit	Spectrometer Device	http://purl.obolibrary.org/obo/NCIT_C50061
+1421	http://purl.obolibrary.org/obo/CHMO_0001234	spectrometer	spectrometer surveillance	0.699	ncit	Spectrometer	http://purl.obolibrary.org/obo/NCIT_C62336
+1443	http://purl.obolibrary.org/obo/CHMO_0002579	autosampler	autosampler surveillance	0.69	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+1444	http://purl.obolibrary.org/obo/CHMO_0002579	autosampler	autosampler	0.47	ncit	Specimen Identifier	http://purl.obolibrary.org/obo/NCIT_C166393
+1446	http://purl.obolibrary.org/obo/CHMO_0001624	fermentation	fermentation	0.521	ncit	Perfusion Culture Biosynthesis	http://purl.obolibrary.org/obo/NCIT_C112961
+1448	http://purl.obolibrary.org/obo/CHMO_0001624	fermentation	fermentation system	0.572	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+1467	http://purl.obolibrary.org/obo/OBI_0200199	gas chromatography mass spectrometry	gas chromatography mass spectrometry	0.989	ncit	Gas Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C111203
+1509	http://purl.obolibrary.org/obo/IAO_0000030	information entity	information entity detection	0.65	ncit	Conformation Dependent Mutation Detection	http://purl.obolibrary.org/obo/NCIT_C20064
+1511	http://purl.obolibrary.org/obo/IAO_0000030	information entity	information entity approach	0.554	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1513	http://purl.obolibrary.org/obo/MMO_0000380	GFAAS	GFAAS administration	0.831	ncit	Administration, Management	http://purl.obolibrary.org/obo/NCIT_C48905
+1514	http://purl.obolibrary.org/obo/MMO_0000380	GFAAS	GFAAS study	0.702	ncit	Study	http://purl.obolibrary.org/obo/NCIT_C63536
+1516	http://purl.obolibrary.org/obo/CHMO_0000239	GFAAS	GFAAS administration	0.831	ncit	Administration, Management	http://purl.obolibrary.org/obo/NCIT_C48905
+1517	http://purl.obolibrary.org/obo/CHMO_0000239	GFAAS	GFAAS study	0.702	ncit	Study	http://purl.obolibrary.org/obo/NCIT_C63536
+1530	http://purl.obolibrary.org/obo/MMO_0000669	protein immunoblot assay	protein immunoblot assay method	0.723	ncit	Immunoblot Analysis	http://purl.obolibrary.org/obo/NCIT_C17638
+1531	http://purl.obolibrary.org/obo/MMO_0000669	protein immunoblot assay	protein immunoblot assay study	0.736	ncit	Immunoblot Analysis	http://purl.obolibrary.org/obo/NCIT_C17638
+1533	http://purl.obolibrary.org/obo/MMO_0000669	western	western administration	0.79	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+1535	http://purl.obolibrary.org/obo/MMO_0000669	western	western analysis	0.723	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1536	http://purl.obolibrary.org/obo/MMO_0000035		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1537	http://purl.obolibrary.org/obo/MMO_0000035		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1538	http://purl.obolibrary.org/obo/MMO_0000035		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1539	http://purl.obolibrary.org/obo/MMO_0000287		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1540	http://purl.obolibrary.org/obo/MMO_0000287		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1541	http://purl.obolibrary.org/obo/MMO_0000287		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1542	http://purl.obolibrary.org/obo/MMO_0000288		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1543	http://purl.obolibrary.org/obo/MMO_0000288		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1544	http://purl.obolibrary.org/obo/MMO_0000288		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1545	http://purl.obolibrary.org/obo/MMO_0000127		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1546	http://purl.obolibrary.org/obo/MMO_0000127		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1547	http://purl.obolibrary.org/obo/MMO_0000127		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1548	http://purl.obolibrary.org/obo/MMO_0000098		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1549	http://purl.obolibrary.org/obo/MMO_0000098		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1550	http://purl.obolibrary.org/obo/MMO_0000098		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1551	http://purl.obolibrary.org/obo/MMO_0000683		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1552	http://purl.obolibrary.org/obo/MMO_0000683		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1553	http://purl.obolibrary.org/obo/MMO_0000683		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1554	http://purl.obolibrary.org/obo/MMO_0000468		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1555	http://purl.obolibrary.org/obo/MMO_0000468		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1556	http://purl.obolibrary.org/obo/MMO_0000468		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1557	http://purl.obolibrary.org/obo/MMO_0000173		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1558	http://purl.obolibrary.org/obo/MMO_0000173		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1559	http://purl.obolibrary.org/obo/MMO_0000173		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1560	http://purl.obolibrary.org/obo/MMO_0000170		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1561	http://purl.obolibrary.org/obo/MMO_0000170		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1562	http://purl.obolibrary.org/obo/MMO_0000170		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1563	http://purl.obolibrary.org/obo/MMO_0000289		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1564	http://purl.obolibrary.org/obo/MMO_0000289		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1565	http://purl.obolibrary.org/obo/MMO_0000289		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1566	http://purl.obolibrary.org/obo/MMO_0000503		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1567	http://purl.obolibrary.org/obo/MMO_0000503		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1568	http://purl.obolibrary.org/obo/MMO_0000503		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1569	http://purl.obolibrary.org/obo/MMO_0000682		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1570	http://purl.obolibrary.org/obo/MMO_0000682		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1571	http://purl.obolibrary.org/obo/MMO_0000682		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1572	http://purl.obolibrary.org/obo/MMO_0000496		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1573	http://purl.obolibrary.org/obo/MMO_0000496		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1574	http://purl.obolibrary.org/obo/MMO_0000496		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1575	http://purl.obolibrary.org/obo/MMO_0000094		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1576	http://purl.obolibrary.org/obo/MMO_0000094		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1577	http://purl.obolibrary.org/obo/MMO_0000094		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1578	http://purl.obolibrary.org/obo/MMO_0000217		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1579	http://purl.obolibrary.org/obo/MMO_0000217		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1580	http://purl.obolibrary.org/obo/MMO_0000217		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1581	http://purl.obolibrary.org/obo/MMO_0000575		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1582	http://purl.obolibrary.org/obo/MMO_0000575		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1583	http://purl.obolibrary.org/obo/MMO_0000575		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1584	http://purl.obolibrary.org/obo/MMO_0000338		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1585	http://purl.obolibrary.org/obo/MMO_0000338		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1586	http://purl.obolibrary.org/obo/MMO_0000338		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1587	http://purl.obolibrary.org/obo/MMO_0000678		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1588	http://purl.obolibrary.org/obo/MMO_0000678		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1589	http://purl.obolibrary.org/obo/MMO_0000678		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1590	http://purl.obolibrary.org/obo/MMO_0000100		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1591	http://purl.obolibrary.org/obo/MMO_0000100		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1592	http://purl.obolibrary.org/obo/MMO_0000100		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1593	http://purl.obolibrary.org/obo/MMO_0000712		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1594	http://purl.obolibrary.org/obo/MMO_0000712		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1595	http://purl.obolibrary.org/obo/MMO_0000712		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1596	http://purl.obolibrary.org/obo/MMO_0000684		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1597	http://purl.obolibrary.org/obo/MMO_0000684		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1598	http://purl.obolibrary.org/obo/MMO_0000684		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1599	http://purl.obolibrary.org/obo/MMO_0000759		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1600	http://purl.obolibrary.org/obo/MMO_0000759		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1601	http://purl.obolibrary.org/obo/MMO_0000759		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1602	http://purl.obolibrary.org/obo/CHMO_0002607		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1603	http://purl.obolibrary.org/obo/CHMO_0002607		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1604	http://purl.obolibrary.org/obo/CHMO_0002607		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1605	http://purl.obolibrary.org/obo/CHMO_0001640		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1606	http://purl.obolibrary.org/obo/CHMO_0001640		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1607	http://purl.obolibrary.org/obo/CHMO_0001640		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1608	http://purl.obolibrary.org/obo/CHMO_0000974		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1609	http://purl.obolibrary.org/obo/CHMO_0000974		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1610	http://purl.obolibrary.org/obo/CHMO_0000974		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1611	http://purl.obolibrary.org/obo/CHMO_0000975		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1612	http://purl.obolibrary.org/obo/CHMO_0000975		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1613	http://purl.obolibrary.org/obo/CHMO_0000975		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1614	http://purl.obolibrary.org/obo/CHMO_0000979		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1615	http://purl.obolibrary.org/obo/CHMO_0000979		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1616	http://purl.obolibrary.org/obo/CHMO_0000979		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1617	http://purl.obolibrary.org/obo/OBI_0302893		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1618	http://purl.obolibrary.org/obo/OBI_0302893		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1619	http://purl.obolibrary.org/obo/OBI_0302893		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1620	http://purl.obolibrary.org/obo/BFO_0000015		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1621	http://purl.obolibrary.org/obo/BFO_0000015		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1622	http://purl.obolibrary.org/obo/BFO_0000015		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1623	http://purl.obolibrary.org/obo/CHMO_0000997		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1624	http://purl.obolibrary.org/obo/CHMO_0000997		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1625	http://purl.obolibrary.org/obo/CHMO_0000997		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1626	http://purl.obolibrary.org/obo/CHMO_0001688		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1627	http://purl.obolibrary.org/obo/CHMO_0001688		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1628	http://purl.obolibrary.org/obo/CHMO_0001688		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1629	http://purl.obolibrary.org/obo/CHMO_0002820		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1630	http://purl.obolibrary.org/obo/CHMO_0002820		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1631	http://purl.obolibrary.org/obo/CHMO_0002820		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1632	http://purl.obolibrary.org/obo/CHMO_0001021		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1633	http://purl.obolibrary.org/obo/CHMO_0001021		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1634	http://purl.obolibrary.org/obo/CHMO_0001021		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1635	http://purl.obolibrary.org/obo/CHMO_0000960		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1636	http://purl.obolibrary.org/obo/CHMO_0000960		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1637	http://purl.obolibrary.org/obo/CHMO_0000960		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1638	http://purl.obolibrary.org/obo/BFO_0000023		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1639	http://purl.obolibrary.org/obo/BFO_0000023		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1640	http://purl.obolibrary.org/obo/BFO_0000023		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1641	http://purl.obolibrary.org/obo/OBCS_0000058		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1642	http://purl.obolibrary.org/obo/OBCS_0000058		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1643	http://purl.obolibrary.org/obo/OBCS_0000058		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1644	http://purl.obolibrary.org/obo/CHMO_0002793		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1645	http://purl.obolibrary.org/obo/CHMO_0002793		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1646	http://purl.obolibrary.org/obo/CHMO_0002793		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1647	http://purl.obolibrary.org/obo/CHEBI_35255		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1648	http://purl.obolibrary.org/obo/CHEBI_35255		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1649	http://purl.obolibrary.org/obo/CHEBI_35255		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1650	http://purl.obolibrary.org/obo/CHMO_0002808		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1651	http://purl.obolibrary.org/obo/CHMO_0002808		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1652	http://purl.obolibrary.org/obo/CHMO_0002808		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1653	http://purl.obolibrary.org/obo/CHMO_0002740		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1654	http://purl.obolibrary.org/obo/CHMO_0002740		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1655	http://purl.obolibrary.org/obo/CHMO_0002740		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1656	http://purl.obolibrary.org/obo/CHMO_0002742		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1657	http://purl.obolibrary.org/obo/CHMO_0002742		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1658	http://purl.obolibrary.org/obo/CHMO_0002742		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1659	http://purl.obolibrary.org/obo/CHMO_0002743		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1660	http://purl.obolibrary.org/obo/CHMO_0002743		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1661	http://purl.obolibrary.org/obo/CHMO_0002743		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1662	http://purl.obolibrary.org/obo/CHMO_0002196		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1663	http://purl.obolibrary.org/obo/CHMO_0002196		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1664	http://purl.obolibrary.org/obo/CHMO_0002196		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1665	http://purl.obolibrary.org/obo/OBI_0001032		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1666	http://purl.obolibrary.org/obo/OBI_0001032		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1667	http://purl.obolibrary.org/obo/OBI_0001032		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1668	http://purl.obolibrary.org/obo/OBI_0400065		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1669	http://purl.obolibrary.org/obo/OBI_0400065		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1670	http://purl.obolibrary.org/obo/OBI_0400065		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1671	http://purl.obolibrary.org/obo/CHMO_0001125		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1672	http://purl.obolibrary.org/obo/CHMO_0001125		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1673	http://purl.obolibrary.org/obo/CHMO_0001125		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1674	http://purl.obolibrary.org/obo/CHMO_0010011		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1675	http://purl.obolibrary.org/obo/CHMO_0010011		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1676	http://purl.obolibrary.org/obo/CHMO_0010011		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1677	http://purl.obolibrary.org/obo/OBI_0001061		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1678	http://purl.obolibrary.org/obo/OBI_0001061		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1679	http://purl.obolibrary.org/obo/OBI_0001061		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1680	http://purl.obolibrary.org/obo/CHMO_0001378		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1681	http://purl.obolibrary.org/obo/CHMO_0001378		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1682	http://purl.obolibrary.org/obo/CHMO_0001378		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1683	http://purl.obolibrary.org/obo/CHMO_0000103		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1684	http://purl.obolibrary.org/obo/CHMO_0000103		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1685	http://purl.obolibrary.org/obo/CHMO_0000103		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1686	http://purl.obolibrary.org/obo/CHEBI_60004		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1687	http://purl.obolibrary.org/obo/CHEBI_60004		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1688	http://purl.obolibrary.org/obo/CHEBI_60004		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1689	http://purl.obolibrary.org/obo/CHEBI_60027		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1690	http://purl.obolibrary.org/obo/CHEBI_60027		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1691	http://purl.obolibrary.org/obo/CHEBI_60027		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1692	http://purl.obolibrary.org/obo/CHMO_0002244		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1693	http://purl.obolibrary.org/obo/CHMO_0002244		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1694	http://purl.obolibrary.org/obo/CHMO_0002244		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1695	http://purl.obolibrary.org/obo/CHMO_0002536		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1696	http://purl.obolibrary.org/obo/CHMO_0002536		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1697	http://purl.obolibrary.org/obo/CHMO_0002536		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1698	http://purl.obolibrary.org/obo/CHMO_0000067		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1699	http://purl.obolibrary.org/obo/CHMO_0000067		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1700	http://purl.obolibrary.org/obo/CHMO_0000067		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1701	http://purl.obolibrary.org/obo/CHEBI_50796		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1702	http://purl.obolibrary.org/obo/CHEBI_50796		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1703	http://purl.obolibrary.org/obo/CHEBI_50796		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1704	http://purl.obolibrary.org/obo/CHMO_0010003		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1705	http://purl.obolibrary.org/obo/CHMO_0010003		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1706	http://purl.obolibrary.org/obo/CHMO_0010003		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1707	http://purl.obolibrary.org/obo/CHMO_0001522		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1708	http://purl.obolibrary.org/obo/CHMO_0001522		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1709	http://purl.obolibrary.org/obo/CHMO_0001522		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1710	http://purl.obolibrary.org/obo/CHMO_0002232		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1711	http://purl.obolibrary.org/obo/CHMO_0002232		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1712	http://purl.obolibrary.org/obo/CHMO_0002232		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1713	http://purl.obolibrary.org/obo/CHMO_0002231		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1714	http://purl.obolibrary.org/obo/CHMO_0002231		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1715	http://purl.obolibrary.org/obo/CHMO_0002231		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1716	http://purl.obolibrary.org/obo/CHMO_0002831		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1717	http://purl.obolibrary.org/obo/CHMO_0002831		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1718	http://purl.obolibrary.org/obo/CHMO_0002831		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1719	http://purl.obolibrary.org/obo/IAO_0000030		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1720	http://purl.obolibrary.org/obo/IAO_0000030		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1721	http://purl.obolibrary.org/obo/IAO_0000030		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1722	http://purl.obolibrary.org/obo/BFO_0000034		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1723	http://purl.obolibrary.org/obo/BFO_0000034		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1724	http://purl.obolibrary.org/obo/BFO_0000034		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1725	http://purl.obolibrary.org/obo/OBI_0001042		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1726	http://purl.obolibrary.org/obo/OBI_0001042		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1727	http://purl.obolibrary.org/obo/OBI_0001042		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1728	http://purl.obolibrary.org/obo/CHMO_0002787		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1729	http://purl.obolibrary.org/obo/CHMO_0002787		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1730	http://purl.obolibrary.org/obo/CHMO_0002787		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1731	http://purl.obolibrary.org/obo/OBI_0600014		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1732	http://purl.obolibrary.org/obo/OBI_0600014		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1733	http://purl.obolibrary.org/obo/OBI_0600014		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1734	http://purl.obolibrary.org/obo/CHMO_0002109		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1735	http://purl.obolibrary.org/obo/CHMO_0002109		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1736	http://purl.obolibrary.org/obo/CHMO_0002109		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1737	http://purl.obolibrary.org/obo/CHMO_0001577		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1738	http://purl.obolibrary.org/obo/CHMO_0001577		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1739	http://purl.obolibrary.org/obo/CHMO_0001577		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1740	http://purl.obolibrary.org/obo/BFO_0000019		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1741	http://purl.obolibrary.org/obo/BFO_0000019		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1742	http://purl.obolibrary.org/obo/BFO_0000019		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1743	http://purl.obolibrary.org/obo/OBI_0000073		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1744	http://purl.obolibrary.org/obo/OBI_0000073		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1745	http://purl.obolibrary.org/obo/OBI_0000073		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1746	http://purl.obolibrary.org/obo/CHEBI_50803		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1747	http://purl.obolibrary.org/obo/CHEBI_50803		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1748	http://purl.obolibrary.org/obo/CHEBI_50803		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1749	http://purl.obolibrary.org/obo/CHMO_0000950		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1750	http://purl.obolibrary.org/obo/CHMO_0000950		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1751	http://purl.obolibrary.org/obo/CHMO_0000950		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1752	http://purl.obolibrary.org/obo/CHMO_0000953		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1753	http://purl.obolibrary.org/obo/CHMO_0000953		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1754	http://purl.obolibrary.org/obo/CHMO_0000953		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1755	http://purl.obolibrary.org/obo/OBI_0000838		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1756	http://purl.obolibrary.org/obo/OBI_0000838		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1757	http://purl.obolibrary.org/obo/OBI_0000838		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1758	http://purl.obolibrary.org/obo/OBI_0000968		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1759	http://purl.obolibrary.org/obo/OBI_0000968		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1760	http://purl.obolibrary.org/obo/OBI_0000968		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1761	http://purl.obolibrary.org/obo/CHMO_0002815		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1762	http://purl.obolibrary.org/obo/CHMO_0002815		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1763	http://purl.obolibrary.org/obo/CHMO_0002815		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1764	http://purl.obolibrary.org/obo/OBI_0000796		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1765	http://purl.obolibrary.org/obo/OBI_0000796		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1766	http://purl.obolibrary.org/obo/OBI_0000796		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1767	http://purl.obolibrary.org/obo/CHMO_0002866		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1768	http://purl.obolibrary.org/obo/CHMO_0002866		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1769	http://purl.obolibrary.org/obo/CHMO_0002866		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1770	http://purl.obolibrary.org/obo/CHEBI_23367		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1771	http://purl.obolibrary.org/obo/CHEBI_23367		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1772	http://purl.obolibrary.org/obo/CHEBI_23367		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1773	http://purl.obolibrary.org/obo/OBI_0000011		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1774	http://purl.obolibrary.org/obo/OBI_0000011		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1775	http://purl.obolibrary.org/obo/OBI_0000011		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1776	http://purl.obolibrary.org/obo/CHMO_0002166		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1777	http://purl.obolibrary.org/obo/CHMO_0002166		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1778	http://purl.obolibrary.org/obo/CHMO_0002166		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1779	http://purl.obolibrary.org/obo/BFO_0000040		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1780	http://purl.obolibrary.org/obo/BFO_0000040		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1781	http://purl.obolibrary.org/obo/BFO_0000040		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1782	http://purl.obolibrary.org/obo/CHMO_0001102		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1783	http://purl.obolibrary.org/obo/CHMO_0001102		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1784	http://purl.obolibrary.org/obo/CHMO_0001102		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1785	http://purl.obolibrary.org/obo/CHMO_0000987		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1786	http://purl.obolibrary.org/obo/CHMO_0000987		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1787	http://purl.obolibrary.org/obo/CHMO_0000987		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1788	http://purl.obolibrary.org/obo/CHMO_0000982		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1789	http://purl.obolibrary.org/obo/CHMO_0000982		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1790	http://purl.obolibrary.org/obo/CHMO_0000982		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1791	http://purl.obolibrary.org/obo/CHMO_0001287		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1792	http://purl.obolibrary.org/obo/CHMO_0001287		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1793	http://purl.obolibrary.org/obo/CHMO_0001287		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1794	http://purl.obolibrary.org/obo/CHEBI_28262		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1795	http://purl.obolibrary.org/obo/CHEBI_28262		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1796	http://purl.obolibrary.org/obo/CHEBI_28262		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1797	http://purl.obolibrary.org/obo/OBI_0400064		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1798	http://purl.obolibrary.org/obo/OBI_0400064		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1799	http://purl.obolibrary.org/obo/OBI_0400064		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1800	http://purl.obolibrary.org/obo/OBI_0000443		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1801	http://purl.obolibrary.org/obo/OBI_0000443		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1802	http://purl.obolibrary.org/obo/OBI_0000443		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1803	http://purl.obolibrary.org/obo/CHMO_0000322		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1804	http://purl.obolibrary.org/obo/CHMO_0000322		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1805	http://purl.obolibrary.org/obo/CHMO_0000322		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1806	http://purl.obolibrary.org/obo/CHEBI_50594		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1807	http://purl.obolibrary.org/obo/CHEBI_50594		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1808	http://purl.obolibrary.org/obo/CHEBI_50594		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1809	http://purl.obolibrary.org/obo/CHMO_0001059		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1810	http://purl.obolibrary.org/obo/CHMO_0001059		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1811	http://purl.obolibrary.org/obo/CHMO_0001059		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1812	http://purl.obolibrary.org/obo/CHMO_0002265		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1813	http://purl.obolibrary.org/obo/CHMO_0002265		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1814	http://purl.obolibrary.org/obo/CHMO_0002265		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1815	http://purl.obolibrary.org/obo/CHMO_0002264		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1816	http://purl.obolibrary.org/obo/CHMO_0002264		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1817	http://purl.obolibrary.org/obo/CHMO_0002264		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1818	http://purl.obolibrary.org/obo/CHMO_0002263		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1819	http://purl.obolibrary.org/obo/CHMO_0002263		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1820	http://purl.obolibrary.org/obo/CHMO_0002263		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1821	http://purl.obolibrary.org/obo/CHMO_0001957		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1822	http://purl.obolibrary.org/obo/CHMO_0001957		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1823	http://purl.obolibrary.org/obo/CHMO_0001957		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1824	http://purl.obolibrary.org/obo/OBI_0302886		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1825	http://purl.obolibrary.org/obo/OBI_0302886		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1826	http://purl.obolibrary.org/obo/OBI_0302886		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1827	http://purl.obolibrary.org/obo/CHMO_0001082		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1828	http://purl.obolibrary.org/obo/CHMO_0001082		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1829	http://purl.obolibrary.org/obo/CHMO_0001082		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1830	http://purl.obolibrary.org/obo/CHMO_0001088		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1831	http://purl.obolibrary.org/obo/CHMO_0001088		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1832	http://purl.obolibrary.org/obo/CHMO_0001088		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1833	http://purl.obolibrary.org/obo/CHMO_0002579		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1834	http://purl.obolibrary.org/obo/CHMO_0002579		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1835	http://purl.obolibrary.org/obo/CHMO_0002579		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1836	http://purl.obolibrary.org/obo/CHMO_0001624		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1837	http://purl.obolibrary.org/obo/CHMO_0001624		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1838	http://purl.obolibrary.org/obo/CHMO_0001624		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1839	http://www.bioassayontology.org/bao#BAO_0002094		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1840	http://www.bioassayontology.org/bao#BAO_0002094		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1841	http://www.bioassayontology.org/bao#BAO_0002094		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1842	http://www.bioassayontology.org/bao#BAO_0002463		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1843	http://www.bioassayontology.org/bao#BAO_0002463		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1844	http://www.bioassayontology.org/bao#BAO_0002463		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1845	http://www.bioassayontology.org/bao#BAO_0002428		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1846	http://www.bioassayontology.org/bao#BAO_0002428		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1847	http://www.bioassayontology.org/bao#BAO_0002428		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1848	http://www.bioassayontology.org/bao#BAO_0002424		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1849	http://www.bioassayontology.org/bao#BAO_0002424		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1850	http://www.bioassayontology.org/bao#BAO_0002424		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1851	http://www.bioassayontology.org/bao#BAO_0000453		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1852	http://www.bioassayontology.org/bao#BAO_0000453		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1853	http://www.bioassayontology.org/bao#BAO_0000453		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1854	http://www.bioassayontology.org/bao#BAO_0002508		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1855	http://www.bioassayontology.org/bao#BAO_0002508		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1856	http://www.bioassayontology.org/bao#BAO_0002508		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1857	http://www.bioassayontology.org/bao#BAO_0010252		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1858	http://www.bioassayontology.org/bao#BAO_0010252		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1859	http://www.bioassayontology.org/bao#BAO_0010252		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1860	http://www.bioassayontology.org/bao#BAO_0000015		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1861	http://www.bioassayontology.org/bao#BAO_0000015		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1862	http://www.bioassayontology.org/bao#BAO_0000015		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1863	http://www.bioassayontology.org/bao#BAO_0002527		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1864	http://www.bioassayontology.org/bao#BAO_0002527		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1865	http://www.bioassayontology.org/bao#BAO_0002527		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1866	http://www.bioassayontology.org/bao#BAO_0002525		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1867	http://www.bioassayontology.org/bao#BAO_0002525		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1868	http://www.bioassayontology.org/bao#BAO_0002525		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1869	http://www.bioassayontology.org/bao#BAO_0002805		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1870	http://www.bioassayontology.org/bao#BAO_0002805		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1871	http://www.bioassayontology.org/bao#BAO_0002805		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1875	http://www.bioassayontology.org/bao#BAO_0002419		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1876	http://www.bioassayontology.org/bao#BAO_0002419		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1877	http://www.bioassayontology.org/bao#BAO_0002419		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1878	http://www.bioassayontology.org/bao#BAO_0000129		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1879	http://www.bioassayontology.org/bao#BAO_0000129		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1880	http://www.bioassayontology.org/bao#BAO_0000129		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1881	http://www.bioassayontology.org/bao#BAO_0000055		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1882	http://www.bioassayontology.org/bao#BAO_0000055		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1883	http://www.bioassayontology.org/bao#BAO_0000055		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1884	http://www.bioassayontology.org/bao#BAO_0000415		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1885	http://www.bioassayontology.org/bao#BAO_0000415		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1886	http://www.bioassayontology.org/bao#BAO_0000415		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1893	http://purl.obolibrary.org/obo/OBI_0600053		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1894	http://purl.obolibrary.org/obo/OBI_0600053		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1895	http://purl.obolibrary.org/obo/OBI_0600053		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1899	http://purl.obolibrary.org/obo/OBI_0001170		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1900	http://purl.obolibrary.org/obo/OBI_0001170		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1901	http://purl.obolibrary.org/obo/OBI_0001170		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1905	http://purl.obolibrary.org/obo/OBI_0002692		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1906	http://purl.obolibrary.org/obo/OBI_0002692		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1907	http://purl.obolibrary.org/obo/OBI_0002692		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1908	http://purl.obolibrary.org/obo/OBI_0200199		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1909	http://purl.obolibrary.org/obo/OBI_0200199		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1910	http://purl.obolibrary.org/obo/OBI_0200199		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1917	http://purl.obolibrary.org/obo/OBI_0000185		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1918	http://purl.obolibrary.org/obo/OBI_0000185		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1919	http://purl.obolibrary.org/obo/OBI_0000185		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1932	http://purl.obolibrary.org/obo/OBI_0000690		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1933	http://purl.obolibrary.org/obo/OBI_0000690		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1934	http://purl.obolibrary.org/obo/OBI_0000690		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1947	http://purl.obolibrary.org/obo/OBI_0001986		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1948	http://purl.obolibrary.org/obo/OBI_0001986		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1949	http://purl.obolibrary.org/obo/OBI_0001986		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1953	http://purl.obolibrary.org/obo/OBI_0000891		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1954	http://purl.obolibrary.org/obo/OBI_0000891		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1955	http://purl.obolibrary.org/obo/OBI_0000891		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1956	http://purl.obolibrary.org/obo/OBI_0000910		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1957	http://purl.obolibrary.org/obo/OBI_0000910		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1958	http://purl.obolibrary.org/obo/OBI_0000910		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1959	http://purl.obolibrary.org/obo/OBI_0000854		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1960	http://purl.obolibrary.org/obo/OBI_0000854		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1961	http://purl.obolibrary.org/obo/OBI_0000854		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1962	http://purl.obolibrary.org/obo/OBI_0302888		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1963	http://purl.obolibrary.org/obo/OBI_0302888		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1964	http://purl.obolibrary.org/obo/OBI_0302888		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1968	http://purl.obolibrary.org/obo/OBI_0001058		N/A approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1969	http://purl.obolibrary.org/obo/OBI_0001058		N/A analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+1970	http://purl.obolibrary.org/obo/OBI_0001058		N/A assessment	0.885	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+1986	http://purl.obolibrary.org/obo/MMO_0000647	RNA blot	RNA blot	0.651	ncit	Ribonucleic Acid Measurement	http://purl.obolibrary.org/obo/NCIT_C132301
+1988	http://purl.obolibrary.org/obo/MMO_0000647	RNA blot	RNA blot design	0.667	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+1990	http://purl.obolibrary.org/obo/MMO_0000647	northern	northern identification	0.774	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+1992	http://purl.obolibrary.org/obo/MMO_0000660	SAGE	SAGE	0.997	ncit	Serial Analysis of Gene Expression	http://purl.obolibrary.org/obo/NCIT_C18480
+1993	http://purl.obolibrary.org/obo/MMO_0000660	SAGE	SAGE detection	0.784	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+1994	http://purl.obolibrary.org/obo/MMO_0000660	SAGE	SAGE approach	0.8	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+1998	http://purl.obolibrary.org/obo/OBI_0002029	SAGE	SAGE	0.997	ncit	Serial Analysis of Gene Expression	http://purl.obolibrary.org/obo/NCIT_C18480
+1999	http://purl.obolibrary.org/obo/OBI_0002029	SAGE	SAGE detection	0.784	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+2000	http://purl.obolibrary.org/obo/OBI_0002029	SAGE	SAGE approach	0.8	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2002	http://purl.obolibrary.org/obo/MMO_0000394	HPLC	HPLC process	0.783	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2005	http://purl.obolibrary.org/obo/CHMO_0001009	HPLC	HPLC process	0.783	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2013	http://purl.obolibrary.org/obo/MMO_0000379	flame AAS	flame AAS study	0.615	ncit	Clinical Study	http://purl.obolibrary.org/obo/NCIT_C15206
+2022	http://purl.obolibrary.org/obo/MMO_0000721	uplc-mass spec	uplc-mass spec design	0.651	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+2023	http://purl.obolibrary.org/obo/MMO_0000721	uplc-mass spec	uplc-mass spec approach	0.619	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2024	http://purl.obolibrary.org/obo/MMO_0000721	uplc-mass spec	uplc-mass spec	0.797	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+2025	http://purl.obolibrary.org/obo/MMO_0000721	UPLC/MS	UPLC/MS system	0.7	ncit	Drug Delivery System	http://purl.obolibrary.org/obo/NCIT_C17423
+2026	http://purl.obolibrary.org/obo/MMO_0000721	UPLC/MS	UPLC/MS testing	0.723	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2027	http://purl.obolibrary.org/obo/MMO_0000721	UPLC/MS	UPLC/MS design	0.694	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+2028	http://purl.obolibrary.org/obo/CHMO_0000715	UPLC/MS	UPLC/MS system	0.7	ncit	Drug Delivery System	http://purl.obolibrary.org/obo/NCIT_C17423
+2029	http://purl.obolibrary.org/obo/CHMO_0000715	UPLC/MS	UPLC/MS testing	0.723	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2030	http://purl.obolibrary.org/obo/CHMO_0000715	UPLC/MS	UPLC/MS design	0.694	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+2034	http://purl.obolibrary.org/obo/MMO_0000721	uplc-ms	uplc-ms surveillance	0.78	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2036	http://purl.obolibrary.org/obo/MMO_0000721	uplc-ms	uplc-ms tests	0.66	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+2037	http://purl.obolibrary.org/obo/MMO_0000685	laser confocal scanning microscopy	laser confocal scanning microscopy	0.97	ncit	Confocal Microscopy	http://purl.obolibrary.org/obo/NCIT_C17753
+2040	http://purl.obolibrary.org/obo/MMO_0000685	confocal laser scanning microscopy	confocal laser scanning microscopy identification	0.805	ncit	Confocal Microscopy	http://purl.obolibrary.org/obo/NCIT_C17753
+2041	http://purl.obolibrary.org/obo/MMO_0000685	confocal laser scanning microscopy	confocal laser scanning microscopy sampling	0.854	ncit	Confocal Microscopy	http://purl.obolibrary.org/obo/NCIT_C17753
+2042	http://purl.obolibrary.org/obo/MMO_0000685	confocal laser scanning microscopy	confocal laser scanning microscopy analysis	0.865	ncit	Confocal Microscopy	http://purl.obolibrary.org/obo/NCIT_C17753
+2044	http://purl.obolibrary.org/obo/MMO_0000685	CLSM	CLSM process	0.783	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2046	http://purl.obolibrary.org/obo/MMO_0000685	LCSM	LCSM detection	0.784	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+2047	http://purl.obolibrary.org/obo/MMO_0000685	LCSM	LCSM	0.616	ncit	Lung Cancer Symptom Scale Questionnaire	http://purl.obolibrary.org/obo/NCIT_C187515
+2048	http://purl.obolibrary.org/obo/MMO_0000685	LCSM	LCSM analysis	0.809	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+2049	http://purl.obolibrary.org/obo/MMO_0000537	HPLC-MS	HPLC-MS surveillance	0.78	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2051	http://purl.obolibrary.org/obo/MMO_0000537	HPLC-MS	HPLC-MS diagnostic	0.779	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+2052	http://purl.obolibrary.org/obo/CHMO_0000796	HPLC-MS	HPLC-MS surveillance	0.78	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2054	http://purl.obolibrary.org/obo/CHMO_0000796	HPLC-MS	HPLC-MS diagnostic	0.779	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+2055	http://purl.obolibrary.org/obo/MMO_0000537	high pressure liquid chromatography-mass spectrometry	high pressure liquid chromatography-mass spectrometry	0.86	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+2061	http://purl.obolibrary.org/obo/MMO_0000003	ECG	ECG study	0.785	ncit	DICOM Study	http://purl.obolibrary.org/obo/NCIT_C63537
+2062	http://purl.obolibrary.org/obo/MMO_0000003	ECG	ECG design	0.801	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+2063	http://purl.obolibrary.org/obo/MMO_0000003	ECG	ECG	0.997	ncit	Electrocardiogram	http://purl.obolibrary.org/obo/NCIT_C168186
+2064	http://purl.obolibrary.org/obo/MMO_0000003	EKG	EKG	1.0	ncit	Electrocardiogram	http://purl.obolibrary.org/obo/NCIT_C168186
+2065	http://purl.obolibrary.org/obo/MMO_0000003	EKG	EKG review	0.801	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+2066	http://purl.obolibrary.org/obo/MMO_0000003	EKG	EKG administration	0.878	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+2067	http://www.ebi.ac.uk/efo/EFO_0004327	EKG	EKG	1.0	ncit	Electrocardiogram	http://purl.obolibrary.org/obo/NCIT_C168186
+2068	http://www.ebi.ac.uk/efo/EFO_0004327	EKG	EKG review	0.801	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+2069	http://www.ebi.ac.uk/efo/EFO_0004327	EKG	EKG administration	0.878	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+2070	http://purl.obolibrary.org/obo/MMO_0000845	AC	AC surveillance	0.885	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2071	http://purl.obolibrary.org/obo/MMO_0000845	AC	AC administration	0.906	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+2072	http://purl.obolibrary.org/obo/MMO_0000845	AC	AC	0.969	ncit	Before Meals	http://purl.obolibrary.org/obo/NCIT_C64592
+2073	http://purl.obolibrary.org/obo/MMO_0000075	ELISA	ELISA sampling	0.757	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+2075	http://purl.obolibrary.org/obo/MMO_0000075	ELISA	ELISA detection	0.755	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+2080	http://purl.obolibrary.org/obo/MMO_0000459	PCR	PCR study	0.785	ncit	DICOM Study	http://purl.obolibrary.org/obo/NCIT_C63537
+2082	http://purl.obolibrary.org/obo/MMO_0000128	CT scan	CT scan analysis	0.749	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+2083	http://purl.obolibrary.org/obo/MMO_0000128	CT scan	CT scan assessment	0.767	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+2084	http://purl.obolibrary.org/obo/MMO_0000128	CT scan	CT scan process	0.72	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2085	http://www.ebi.ac.uk/efo/EFO_0003960	CT scan	CT scan analysis	0.749	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+2086	http://www.ebi.ac.uk/efo/EFO_0003960	CT scan	CT scan assessment	0.767	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+2087	http://www.ebi.ac.uk/efo/EFO_0003960	CT scan	CT scan process	0.72	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2088	http://purl.obolibrary.org/obo/MMO_0000128	computerized axial tomography (CAT)	computerized axial tomography (CAT) identification	0.738	ncit	Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17204
+2089	http://purl.obolibrary.org/obo/MMO_0000128	computerized axial tomography (CAT)	computerized axial tomography (CAT)	0.914	ncit	Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17204
+2091	http://purl.obolibrary.org/obo/MMO_0000128	computed axial tomography	computed axial tomography sampling	0.828	ncit	Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17204
+2092	http://purl.obolibrary.org/obo/MMO_0000128	computed axial tomography	computed axial tomography	0.962	ncit	Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17204
+2093	http://purl.obolibrary.org/obo/MMO_0000128	computed axial tomography	computed axial tomography diagnostic	0.803	ncit	Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17204
+2094	http://purl.obolibrary.org/obo/MMO_0000128	CAT scan	CAT scan	0.997	ncit	Computed Tomography	http://purl.obolibrary.org/obo/NCIT_C17204
+2096	http://purl.obolibrary.org/obo/MMO_0000128	CAT scan	CAT scan approach	0.715	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2115	http://purl.obolibrary.org/obo/MMO_0000534	mass spec	mass spec tests	0.766	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+2117	http://purl.obolibrary.org/obo/MMO_0000534	mass spec	mass spec surveillance	0.74	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2127	http://purl.obolibrary.org/obo/MMO_0000709	MRS	MRS testing	0.825	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2128	http://purl.obolibrary.org/obo/MMO_0000709	MRS	MRS assessment	0.851	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+2139	http://purl.obolibrary.org/obo/MMO_0000470	GSC	GSC	0.41	ncit	Glutathione-S-Transferase Measurement	http://purl.obolibrary.org/obo/NCIT_C80185
+2140	http://purl.obolibrary.org/obo/MMO_0000470	GSC	GSC approach	0.835	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2142	http://purl.obolibrary.org/obo/CHMO_0001015	GSC	GSC	0.41	ncit	Glutathione-S-Transferase Measurement	http://purl.obolibrary.org/obo/NCIT_C80185
+2143	http://purl.obolibrary.org/obo/CHMO_0001015	GSC	GSC approach	0.835	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2148	http://purl.obolibrary.org/obo/MMO_0000073	RIA	RIA identification	0.88	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+2149	http://purl.obolibrary.org/obo/MMO_0000073	RIA	RIA surveillance	0.855	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2150	http://purl.obolibrary.org/obo/MMO_0000073	RIA	RIA analysis	0.845	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+2161	http://purl.obolibrary.org/obo/MMO_0000535	LC-MS	LC-MS design	0.76	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+2162	http://purl.obolibrary.org/obo/MMO_0000535	LC-MS	LC-MS testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2164	http://purl.obolibrary.org/obo/CHMO_0000524	LC-MS	LC-MS design	0.76	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+2165	http://purl.obolibrary.org/obo/CHMO_0000524	LC-MS	LC-MS testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2166	http://purl.obolibrary.org/obo/MMO_0000498	IHC	IHC	1.0	ncit	Immunohistochemistry Staining Method	http://purl.obolibrary.org/obo/NCIT_C23020
+2167	http://purl.obolibrary.org/obo/MMO_0000498	IHC	IHC process	0.821	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2185	http://purl.obolibrary.org/obo/MMO_0000019	MRI	MRI diagnostic	0.864	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+2202	http://purl.obolibrary.org/obo/MMO_0000458	ELISPOT assay	ELISPOT assay administration	0.71	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+2203	http://purl.obolibrary.org/obo/MMO_0000458	ELISPOT assay	ELISPOT assay sampling	0.61	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+2205	http://purl.obolibrary.org/obo/MMO_0000469	GC	GC approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2206	http://purl.obolibrary.org/obo/MMO_0000469	GC	GC surveillance	0.885	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2207	http://purl.obolibrary.org/obo/MMO_0000469	GC	GC detection	0.852	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+2208	http://purl.obolibrary.org/obo/CHMO_0001002	GC	GC approach	0.876	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2209	http://purl.obolibrary.org/obo/CHMO_0001002	GC	GC surveillance	0.885	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2210	http://purl.obolibrary.org/obo/CHMO_0001002	GC	GC detection	0.852	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+2211	http://purl.obolibrary.org/obo/MMO_0000469	vapor-phase chromatography	vapor-phase chromatography design	0.677	ncit	Chromatography	http://purl.obolibrary.org/obo/NCIT_C16431
+2212	http://purl.obolibrary.org/obo/MMO_0000469	vapor-phase chromatography	vapor-phase chromatography assessment	0.636	ncit	Chromatography	http://purl.obolibrary.org/obo/NCIT_C16431
+2213	http://purl.obolibrary.org/obo/MMO_0000469	vapor-phase chromatography	vapor-phase chromatography	0.757	ncit	Chromatography	http://purl.obolibrary.org/obo/NCIT_C16431
+2214	http://purl.obolibrary.org/obo/MMO_0000469	VPC	VPC diagnostic	0.864	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+2216	http://purl.obolibrary.org/obo/MMO_0000469	VPC	VPC design	0.801	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+2217	http://purl.obolibrary.org/obo/MMO_0000469	Not4Curation	Not4Curation	0.619	ncit	Curation	http://purl.obolibrary.org/obo/NCIT_C48292
+2218	http://purl.obolibrary.org/obo/MMO_0000469	Not4Curation	Not4Curation system	0.572	ncit	Drug Delivery System	http://purl.obolibrary.org/obo/NCIT_C17423
+2229	http://purl.obolibrary.org/obo/MMO_0000471	GLC	GLC	0.507	ncit	Immunoglobulin Light Chain Measurement	http://purl.obolibrary.org/obo/NCIT_C147376
+2232	http://purl.obolibrary.org/obo/CHMO_0001016	GLC	GLC	0.507	ncit	Immunoglobulin Light Chain Measurement	http://purl.obolibrary.org/obo/NCIT_C147376
+2250	http://purl.obolibrary.org/obo/MMO_0000460	qPCR	qPCR surveillance	0.828	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2252	http://purl.obolibrary.org/obo/MMO_0000460	qPCR	qPCR sampling	0.788	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+2253	http://purl.obolibrary.org/obo/OBI_0000893	qPCR	qPCR surveillance	0.828	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2255	http://purl.obolibrary.org/obo/OBI_0000893	qPCR	qPCR sampling	0.788	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+2256	http://purl.obolibrary.org/obo/MMO_0000460	real-time PCR	real-time PCR testing	0.747	ncit	Real Time PCR	http://purl.obolibrary.org/obo/NCIT_C51962
+2257	http://purl.obolibrary.org/obo/MMO_0000460	real-time PCR	real-time PCR	0.955	ncit	Real Time PCR	http://purl.obolibrary.org/obo/NCIT_C51962
+2258	http://purl.obolibrary.org/obo/MMO_0000460	real-time PCR	real-time PCR design	0.768	ncit	Real Time PCR	http://purl.obolibrary.org/obo/NCIT_C51962
+2265	http://purl.obolibrary.org/obo/MMO_0000659	ribonucleic acid sequencing assay	ribonucleic acid sequencing assay detection	0.78	ncit	RNA Sequence Analysis	http://purl.obolibrary.org/obo/NCIT_C192768
+2266	http://purl.obolibrary.org/obo/MMO_0000659	ribonucleic acid sequencing assay	ribonucleic acid sequencing assay	0.889	ncit	RNA Sequence Analysis	http://purl.obolibrary.org/obo/NCIT_C192768
+2268	http://purl.obolibrary.org/obo/MMO_0000659	whole transcriptome sequencing	whole transcriptome sequencing approach	0.866	ncit	Whole Transcriptome Sequencing	http://purl.obolibrary.org/obo/NCIT_C124261
+2269	http://purl.obolibrary.org/obo/MMO_0000659	whole transcriptome sequencing	whole transcriptome sequencing design	0.891	ncit	Whole Transcriptome Sequencing	http://purl.obolibrary.org/obo/NCIT_C124261
+2271	http://purl.obolibrary.org/obo/MMO_0000659	RNA-seq	RNA-seq analysis	0.875	ncit	RNA Analysis	http://purl.obolibrary.org/obo/NCIT_C18473
+2272	http://purl.obolibrary.org/obo/MMO_0000659	RNA-seq	RNA-seq	0.71	ncit	Whole Transcriptome Sequencing	http://purl.obolibrary.org/obo/NCIT_C124261
+2273	http://purl.obolibrary.org/obo/MMO_0000659	RNA-seq	RNA-seq design	0.694	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+2277	http://purl.obolibrary.org/obo/CHMO_0000470	MS	MS	0.992	ncit	Metric System	http://purl.obolibrary.org/obo/NCIT_C42540
+2279	http://purl.obolibrary.org/obo/CHMO_0000470	MS	MS analysis	0.886	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+2280	http://purl.obolibrary.org/obo/CHMO_0001675	labeling	labeling design	0.726	ncit	Labeling	http://purl.obolibrary.org/obo/NCIT_C54694
+2281	http://purl.obolibrary.org/obo/CHMO_0001675	labeling	labeling	0.96	ncit	Labeling	http://purl.obolibrary.org/obo/NCIT_C54694
+2286	http://purl.obolibrary.org/obo/CHMO_0002585	RI detector	RI detector	0.872	ncit	Detector Device	http://purl.obolibrary.org/obo/NCIT_C49916
+2287	http://purl.obolibrary.org/obo/CHMO_0002585	RI detector	RI detector assessment	0.686	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+2288	http://purl.obolibrary.org/obo/CHMO_0002585	RI detector	RI detector surveillance	0.706	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2298	http://purl.obolibrary.org/obo/CHMO_0000591	NMR	NMR identification	0.88	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+2300	http://purl.obolibrary.org/obo/CHMO_0000591	NMR	NMR detection	0.816	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+2301	http://purl.obolibrary.org/obo/CHMO_0000524	liquid chromatography mass spectrometry	liquid chromatography mass spectrometry approach	0.897	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+2302	http://purl.obolibrary.org/obo/CHMO_0000524	liquid chromatography mass spectrometry	liquid chromatography mass spectrometry	0.987	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+2304	http://purl.obolibrary.org/obo/CHMO_0000524	iquid chromatography/mass spectrometry	iquid chromatography/mass spectrometry	0.942	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+2305	http://purl.obolibrary.org/obo/CHMO_0000524	iquid chromatography/mass spectrometry	iquid chromatography/mass spectrometry detection	0.846	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+2306	http://purl.obolibrary.org/obo/CHMO_0000524	iquid chromatography/mass spectrometry	iquid chromatography/mass spectrometry administration	0.803	ncit	Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18475
+2307	http://purl.obolibrary.org/obo/CHMO_0000524	LC MS	LC MS identification	0.855	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+2308	http://purl.obolibrary.org/obo/CHMO_0000524	LC MS	LC MS assessment	0.82	ncit	Physical Examination	http://purl.obolibrary.org/obo/NCIT_C20989
+2312	http://purl.obolibrary.org/obo/CHMO_0000524	LC/MS	LC/MS administration	0.854	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+2314	http://purl.obolibrary.org/obo/CHMO_0000524	LCMS	LCMS approach	0.8	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2317	http://purl.obolibrary.org/obo/CHMO_0001734	phosphate buffer solution	phosphate buffer solution identification	0.63	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+2319	http://purl.obolibrary.org/obo/CHMO_0000999	partition	partition identification	0.768	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+2320	http://purl.obolibrary.org/obo/CHMO_0000999	partition	partition study	0.679	ncit	Study Participation	http://purl.obolibrary.org/obo/NCIT_C170569
+2325	http://purl.obolibrary.org/obo/CHMO_0000094	TIRFM	TIRFM tests	0.693	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+2327	http://purl.obolibrary.org/obo/CHMO_0000094	TIRFM	TIRFM process	0.75	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2334	http://purl.obolibrary.org/obo/CHMO_0000683	ITC	ITC detection	0.816	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+2335	http://purl.obolibrary.org/obo/CHMO_0000683	ITC	ITC process	0.821	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2340	http://purl.obolibrary.org/obo/CHMO_0000538	inductively coupled plasma-mass spectrometry	inductively coupled plasma-mass spectrometry	0.98	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+2341	http://purl.obolibrary.org/obo/CHMO_0000538	inductively coupled plasma-mass spectrometry	inductively coupled plasma-mass spectrometry identification	0.844	ncit	Inductively-Coupled Plasma Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C62328
+2346	http://purl.obolibrary.org/obo/CHMO_0000243	F-AAS	F-AAS identification	0.855	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+2348	http://purl.obolibrary.org/obo/CHMO_0000243	F-AAS	F-AAS review	0.76	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+2365	http://purl.obolibrary.org/obo/CHMO_0000715	UPLC-MS	UPLC-MS design	0.694	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+2366	http://purl.obolibrary.org/obo/CHMO_0000715	UPLC-MS	UPLC-MS testing	0.723	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2370	http://purl.obolibrary.org/obo/CHMO_0001209	anion chromatography	anion chromatography approach	0.714	ncit	Chromatography	http://purl.obolibrary.org/obo/NCIT_C16431
+2371	http://purl.obolibrary.org/obo/CHMO_0001209	anion chromatography	anion chromatography administration	0.645	ncit	Administration, Management	http://purl.obolibrary.org/obo/NCIT_C48905
+2372	http://purl.obolibrary.org/obo/CHMO_0001209	anion chromatography	anion chromatography	0.851	ncit	Chromatography	http://purl.obolibrary.org/obo/NCIT_C16431
+2373	http://purl.obolibrary.org/obo/OBI_0200051	principal component analysis	principal component analysis testing	0.859	ncit	Principal Component Analysis	http://purl.obolibrary.org/obo/NCIT_C49291
+2374	http://purl.obolibrary.org/obo/OBI_0200051	principal component analysis	principal component analysis	0.968	ncit	Principal Component Analysis	http://purl.obolibrary.org/obo/NCIT_C49291
+2376	http://purl.obolibrary.org/obo/OBI_0200051	PCA	PCA study	0.785	ncit	Clinical Study	http://purl.obolibrary.org/obo/NCIT_C15206
+2377	http://purl.obolibrary.org/obo/OBI_0200051	PCA	PCA	0.993	ncit	Intravenous Patient-Controlled Analgesia	http://purl.obolibrary.org/obo/NCIT_C21060
+2379	http://purl.obolibrary.org/obo/CHMO_0000497	gas chromatography mass spectrometry	gas chromatography mass spectrometry	0.989	ncit	Gas Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C111203
+2388	http://purl.obolibrary.org/obo/CHMO_0000497	gas chromatography/mass spectrometry	gas chromatography/mass spectrometry identification	0.836	ncit	Gas Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C111203
+2389	http://purl.obolibrary.org/obo/CHMO_0000497	gas chromatography/mass spectrometry	gas chromatography/mass spectrometry	0.989	ncit	Gas Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C111203
+2394	http://purl.obolibrary.org/obo/CHMO_0000497	GC MS	GC MS sampling	0.788	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+2395	http://purl.obolibrary.org/obo/CHMO_0000497	GC MS	GC MS analysis	0.809	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+2397	http://purl.obolibrary.org/obo/CHMO_0000497	GC/MS	GC/MS diagnostic	0.833	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+2406	http://purl.obolibrary.org/obo/CHMO_0000112	SPM	SPM	0.958	ncit	Scanning Probe Microscope	http://purl.obolibrary.org/obo/NCIT_C78803
+2409	http://purl.obolibrary.org/obo/CHMO_0000943	SPM	SPM	0.958	ncit	Scanning Probe Microscope	http://purl.obolibrary.org/obo/NCIT_C78803
+2415	http://purl.obolibrary.org/obo/CHMO_0000113	scanning force microscopy	scanning force microscopy	0.975	ncit	Atomic Force Microscopy	http://purl.obolibrary.org/obo/NCIT_C17754
+2417	http://purl.obolibrary.org/obo/CHMO_0000113	scanning force microscopy	scanning force microscopy tests	0.883	ncit	Atomic Force Microscopy	http://purl.obolibrary.org/obo/NCIT_C17754
+2430	http://purl.obolibrary.org/obo/CHMO_0000110	phase-contrast microscopy	phase-contrast microscopy diagnostic	0.825	ncit	Phase-Contrast Microscopy	http://purl.obolibrary.org/obo/NCIT_C16857
+2431	http://purl.obolibrary.org/obo/CHMO_0000110	phase-contrast microscopy	phase-contrast microscopy review	0.88	ncit	Phase-Contrast Microscopy	http://purl.obolibrary.org/obo/NCIT_C16857
+2432	http://purl.obolibrary.org/obo/CHMO_0000110	phase-contrast microscopy	phase-contrast microscopy	0.988	ncit	Phase-Contrast Microscopy	http://purl.obolibrary.org/obo/NCIT_C16857
+2434	http://purl.obolibrary.org/obo/CHMO_0000110	PCM	PCM testing	0.825	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2437	http://purl.obolibrary.org/obo/CHMO_0001126	LSCM	LSCM surveillance	0.828	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2439	http://purl.obolibrary.org/obo/CHMO_0001099	transmission EM	transmission EM system	0.692	ncit	Transmission	http://purl.obolibrary.org/obo/NCIT_C71292
+2440	http://purl.obolibrary.org/obo/CHMO_0001099	transmission EM	transmission EM assessment	0.663	ncit	Transmission	http://purl.obolibrary.org/obo/NCIT_C71292
+2441	http://purl.obolibrary.org/obo/CHMO_0001099	transmission EM	transmission EM design	0.726	ncit	Transmission	http://purl.obolibrary.org/obo/NCIT_C71292
+2442	http://purl.obolibrary.org/obo/CHMO_0001099	TEM	TEM testing	0.876	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2443	http://purl.obolibrary.org/obo/CHMO_0001099	TEM	TEM	1.0	ncit	Transmission Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C78813
+2445	http://purl.obolibrary.org/obo/CHMO_0000080	TEM	TEM testing	0.876	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2446	http://purl.obolibrary.org/obo/CHMO_0000080	TEM	TEM	1.0	ncit	Transmission Electron Microscope	http://purl.obolibrary.org/obo/NCIT_C78813
+2460	http://purl.obolibrary.org/obo/CHMO_0000102	light microscopy	light microscopy	0.993	ncit	Light Microscopy	http://purl.obolibrary.org/obo/NCIT_C17995
+2461	http://purl.obolibrary.org/obo/CHMO_0000102	light microscopy	light microscopy identification	0.714	ncit	Light Microscopy	http://purl.obolibrary.org/obo/NCIT_C17995
+2466	http://purl.obolibrary.org/obo/CHMO_0000102	OM	OM design	0.85	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+2485	http://purl.obolibrary.org/obo/CHMO_0000107	DIC	DIC process	0.821	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2486	http://purl.obolibrary.org/obo/CHMO_0000107	DIC	DIC testing	0.825	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2488	http://purl.obolibrary.org/obo/CHMO_0000107	NIC	NIC detection	0.816	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+2496	http://purl.obolibrary.org/obo/CHMO_0000575	MS-MS	MS-MS review	0.75	ncit	Mass Spectrometer	http://purl.obolibrary.org/obo/NCIT_C47875
+2497	http://purl.obolibrary.org/obo/CHMO_0000575	MS-MS	MS-MS analysis	0.702	ncit	Mass Spectrometer	http://purl.obolibrary.org/obo/NCIT_C47875
+2498	http://purl.obolibrary.org/obo/CHMO_0000575	MS-MS	MS-MS tests	0.778	ncit	Metric System	http://purl.obolibrary.org/obo/NCIT_C42540
+2499	http://purl.obolibrary.org/obo/CHMO_0000575	MS/MS	MS/MS	0.992	ncit	Metric System	http://purl.obolibrary.org/obo/NCIT_C42540
+2502	http://purl.obolibrary.org/obo/CHMO_0000575	MS2	MS2 analysis	0.845	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+2503	http://purl.obolibrary.org/obo/CHMO_0000575	MS2	MS2 sampling	0.823	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+2505	http://purl.obolibrary.org/obo/CHMO_0000575	tandem MS	tandem MS diagnostic	0.734	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+2506	http://purl.obolibrary.org/obo/CHMO_0000575	tandem MS	tandem MS administration	0.772	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+2520	http://purl.obolibrary.org/obo/CHMO_0001810	synchrotrons	synchrotrons design	0.727	ncit	Synchrotron	http://purl.obolibrary.org/obo/NCIT_C48205
+2521	http://purl.obolibrary.org/obo/CHMO_0001810	synchrotrons	synchrotrons sampling	0.69	ncit	Synchrotron	http://purl.obolibrary.org/obo/NCIT_C48205
+2523	http://purl.obolibrary.org/obo/CHMO_0001006	bioaffinity chromatography	bioaffinity chromatography design	0.789	ncit	Affinity Chromatography	http://purl.obolibrary.org/obo/NCIT_C16432
+2524	http://purl.obolibrary.org/obo/CHMO_0001006	bioaffinity chromatography	bioaffinity chromatography	0.879	ncit	Affinity Chromatography	http://purl.obolibrary.org/obo/NCIT_C16432
+2525	http://purl.obolibrary.org/obo/CHMO_0001006	bioaffinity chromatography	bioaffinity chromatography administration	0.714	ncit	Affinity Chromatography	http://purl.obolibrary.org/obo/NCIT_C16432
+2532	http://purl.obolibrary.org/obo/CHMO_0001009	high performance liquid chromatography	high performance liquid chromatography	0.984	ncit	High Performance Liquid Chromatography	http://purl.obolibrary.org/obo/NCIT_C16434
+2533	http://purl.obolibrary.org/obo/CHMO_0001009	high performance liquid chromatography	high performance liquid chromatography review	0.909	ncit	High Performance Liquid Chromatography	http://purl.obolibrary.org/obo/NCIT_C16434
+2535	http://purl.obolibrary.org/obo/CHMO_0001004	LC	LC	1.0	ncit	Liquid Chromatography	http://purl.obolibrary.org/obo/NCIT_C16435
+2536	http://purl.obolibrary.org/obo/CHMO_0001004	LC	LC study	0.839	ncit	Study	http://purl.obolibrary.org/obo/NCIT_C63536
+2547	http://purl.obolibrary.org/obo/CHMO_0001007	TLC	TLC	0.99	ncit	Cytotoxic T-Lymphocyte Count	http://purl.obolibrary.org/obo/NCIT_C181186
+2553	http://purl.obolibrary.org/obo/CHMO_0000064	FRET	FRET study	0.74	ncit	DICOM Study	http://purl.obolibrary.org/obo/NCIT_C63537
+2554	http://purl.obolibrary.org/obo/CHMO_0000064	FRET	FRET testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2555	http://purl.obolibrary.org/obo/CHMO_0000064	FRET	FRET identification	0.855	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+2571	http://purl.obolibrary.org/obo/CHMO_0000063	BRET	BRET tests	0.73	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+2572	http://purl.obolibrary.org/obo/CHMO_0000063	BRET	BRET testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2573	http://purl.obolibrary.org/obo/CHMO_0000063	BRET	BRET detection	0.784	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+2576	http://purl.obolibrary.org/obo/CHMO_0000068	EM	EM surveillance	0.885	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2577	http://purl.obolibrary.org/obo/OBI_0000070	measurement method	measurement method assessment	0.713	ncit	Hepatocyte Growth Factor Receptor Measurement	http://purl.obolibrary.org/obo/NCIT_C172514
+2578	http://purl.obolibrary.org/obo/OBI_0000070	measurement method	measurement method administration	0.668	ncit	Injection Method of Administration	http://purl.obolibrary.org/obo/NCIT_C149592
+2579	http://purl.obolibrary.org/obo/OBI_0000070	measurement method	measurement method	0.827	ncit	Hepatocyte Growth Factor Receptor Measurement	http://purl.obolibrary.org/obo/NCIT_C172514
+2583	http://purl.obolibrary.org/obo/CHMO_0002636	SQUID device	SQUID device approach	0.635	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2584	http://purl.obolibrary.org/obo/CHMO_0002636	SQUID device	SQUID device	0.735	ncit	Medical Device	http://purl.obolibrary.org/obo/NCIT_C16830
+2598	http://purl.obolibrary.org/obo/CHMO_0001528	anatomization	anatomization review	0.551	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+2599	http://purl.obolibrary.org/obo/CHMO_0001528	anatomization	anatomization	0.591	ncit	Minimization Randomization	http://purl.obolibrary.org/obo/NCIT_C147143
+2600	http://purl.obolibrary.org/obo/CHMO_0001528	anatomization	anatomization process	0.581	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2607	http://purl.obolibrary.org/obo/CHMO_0002236	dark field microscope	dark field microscope	0.885	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+2609	http://purl.obolibrary.org/obo/CHMO_0002236	dark field microscope	dark field microscope approach	0.743	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+2611	http://purl.obolibrary.org/obo/CHMO_0001077	QCM	QCM tests	0.774	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+2638	http://purl.obolibrary.org/obo/OBI_0000094	preparative method	preparative method identification	0.758	ncit	Method Of Identification	http://purl.obolibrary.org/obo/NCIT_C90422
+2640	http://purl.obolibrary.org/obo/OBI_0000094	material transformations	material transformations	0.724	ncit	Data Transformation	http://purl.obolibrary.org/obo/NCIT_C43582
+2641	http://purl.obolibrary.org/obo/OBI_0000094	material transformations	material transformations approach	0.63	ncit	Data Transformation	http://purl.obolibrary.org/obo/NCIT_C43582
+2646	http://purl.obolibrary.org/obo/CHMO_0001694	ChIP	ChIP testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2647	http://purl.obolibrary.org/obo/CHMO_0001694	ChIP	ChIP study	0.74	ncit	DICOM Study	http://purl.obolibrary.org/obo/NCIT_C63537
+2649	http://purl.obolibrary.org/obo/OBI_00001975	ChIP	ChIP testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2650	http://purl.obolibrary.org/obo/OBI_00001975	ChIP	ChIP study	0.74	ncit	DICOM Study	http://purl.obolibrary.org/obo/NCIT_C63537
+2652	http://purl.obolibrary.org/obo/CHMO_0001691	IP	IP	0.999	ncit	Immunoprecipitation	http://purl.obolibrary.org/obo/NCIT_C16724
+2653	http://purl.obolibrary.org/obo/CHMO_0001691	IP	IP system	0.858	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+2655	http://purl.obolibrary.org/obo/CHMO_0000800	spectrum plot	spectrum plot process	0.596	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2656	http://purl.obolibrary.org/obo/CHMO_0000800	spectrum plot	spectrum plot	0.678	ncit	Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C17156
+2657	http://purl.obolibrary.org/obo/CHMO_0000800	spectrum plot	spectrum plot surveillance	0.676	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2658	http://purl.obolibrary.org/obo/CHMO_0000800	spectra	spectra assessment	0.744	ncit	Assessment	http://purl.obolibrary.org/obo/NCIT_C25217
+2659	http://purl.obolibrary.org/obo/CHMO_0000800	spectra	spectra administration	0.81	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+2660	http://purl.obolibrary.org/obo/CHMO_0000800	spectra	spectra process	0.694	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2665	http://purl.obolibrary.org/obo/CHMO_0000073	SEM	SEM design	0.801	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+2668	http://purl.obolibrary.org/obo/CHMO_0000941	SEM	SEM design	0.801	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+2674	http://purl.obolibrary.org/obo/CHMO_0000120	aperture SNOM	aperture SNOM identification	0.712	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+2677	http://purl.obolibrary.org/obo/CHMO_0000120	aperture-NSOM	aperture-NSOM administration	0.71	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+2688	http://purl.obolibrary.org/obo/CHMO_0000120	NSOM	NSOM testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2690	http://purl.obolibrary.org/obo/CHMO_0000120	NSOM	NSOM study	0.74	ncit	Study	http://purl.obolibrary.org/obo/NCIT_C63536
+2692	http://purl.obolibrary.org/obo/CHMO_0000120	SNOM	SNOM testing	0.787	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2693	http://purl.obolibrary.org/obo/CHMO_0000120	SNOM	SNOM review	0.76	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+2697	http://purl.obolibrary.org/obo/CHMO_0000239	GF-AAS	GF-AAS process	0.75	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2699	http://purl.obolibrary.org/obo/CHMO_0000239	GF-AAS	GF-AAS identification	0.832	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+2700	http://purl.obolibrary.org/obo/CHMO_0002177	dark-field optical microscopy	dark-field optical microscopy	0.845	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+2701	http://purl.obolibrary.org/obo/CHMO_0002177	dark-field optical microscopy	dark-field optical microscopy surveillance	0.699	ncit	Dark Field Microscopy	http://purl.obolibrary.org/obo/NCIT_C85837
+2721	http://purl.obolibrary.org/obo/CHMO_0000948	CCD array	CCD array identification	0.774	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+2722	http://purl.obolibrary.org/obo/CHMO_0000948	CCD array	CCD array tests	0.608	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+2724	http://purl.obolibrary.org/obo/CHMO_0000947	light microscope	light microscope design	0.84	ncit	Light Microscope	http://purl.obolibrary.org/obo/NCIT_C28265
+2725	http://purl.obolibrary.org/obo/CHMO_0000947	light microscope	light microscope	0.994	ncit	Light Microscope	http://purl.obolibrary.org/obo/NCIT_C28265
+2726	http://purl.obolibrary.org/obo/CHMO_0000947	light microscope	light microscope detection	0.786	ncit	Light Microscope	http://purl.obolibrary.org/obo/NCIT_C28265
+2745	http://purl.obolibrary.org/obo/CHMO_0000701	LC-MS-MS	LC-MS-MS sampling	0.662	ncit	Mass Spectrometer	http://purl.obolibrary.org/obo/NCIT_C47875
+2746	http://purl.obolibrary.org/obo/CHMO_0000701	LC-MS-MS	LC-MS-MS	0.888	ncit	Metric System	http://purl.obolibrary.org/obo/NCIT_C42540
+2747	http://purl.obolibrary.org/obo/CHMO_0000701	LC-MS-MS	LC-MS-MS surveillance	0.706	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2751	http://purl.obolibrary.org/obo/CHMO_0000701	LC-MS/MS	LC-MS/MS administration	0.739	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+2752	http://purl.obolibrary.org/obo/CHMO_0000701	LC-MS/MS	LC-MS/MS	0.888	ncit	Metric System	http://purl.obolibrary.org/obo/NCIT_C42540
+2757	http://purl.obolibrary.org/obo/CHMO_0000701	LC-MS2	LC-MS2 system	0.731	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+2758	http://purl.obolibrary.org/obo/CHMO_0000701	LC-MS2	LC-MS2 identification	0.832	ncit	Material Identification	http://purl.obolibrary.org/obo/NCIT_C138993
+2759	http://purl.obolibrary.org/obo/CHMO_0000701	LC-MS2	LC-MS2	0.771	ncit	Tandem Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C18142
+2763	http://purl.obolibrary.org/obo/CHMO_0000701	LC-MSMS	LC-MSMS approach	0.74	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2764	http://purl.obolibrary.org/obo/CHMO_0000701	LC-MSMS	LC-MSMS review	0.694	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+2765	http://purl.obolibrary.org/obo/CHMO_0000701	LC-MSMS	LC-MSMS testing	0.723	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2769	http://purl.obolibrary.org/obo/CHMO_0000701	LC/MS/MS	LC/MS/MS analysis	0.662	ncit	Mass Spectrometer	http://purl.obolibrary.org/obo/NCIT_C47875
+2770	http://purl.obolibrary.org/obo/CHMO_0000701	LC/MS/MS	LC/MS/MS	0.888	ncit	Metric System	http://purl.obolibrary.org/obo/NCIT_C42540
+2771	http://purl.obolibrary.org/obo/CHMO_0000701	LC/MS/MS	LC/MS/MS surveillance	0.706	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2781	http://purl.obolibrary.org/obo/OBI_0001138	X-ray generator	X-ray generator	0.825	ncit	Generator Device	http://purl.obolibrary.org/obo/NCIT_C49970
+2782	http://purl.obolibrary.org/obo/OBI_0001138	X-ray generator	X-ray generator testing	0.665	ncit	Generator Dosage Form	http://purl.obolibrary.org/obo/NCIT_C48193
+2783	http://purl.obolibrary.org/obo/OBI_0001138	X-ray generator	X-ray generator review	0.683	ncit	Generator Device	http://purl.obolibrary.org/obo/NCIT_C49970
+2784	http://purl.obolibrary.org/obo/CHMO_0001011	gel-permeation chromatography	gel-permeation chromatography	0.969	ncit	Gel Filtration Chromatography	http://purl.obolibrary.org/obo/NCIT_C16433
+2787	http://purl.obolibrary.org/obo/CHMO_0001011	gel permeation chromatography	gel permeation chromatography	0.969	ncit	Gel Filtration Chromatography	http://purl.obolibrary.org/obo/NCIT_C16433
+2789	http://purl.obolibrary.org/obo/CHMO_0001011	gel permeation chromatography	gel permeation chromatography detection	0.822	ncit	Gel Filtration Chromatography	http://purl.obolibrary.org/obo/NCIT_C16433
+2790	http://purl.obolibrary.org/obo/CHMO_0001011	GPC	GPC	0.741	ncit	Glycerophosphorylcholine and Phosphorylcholine Measurement	http://purl.obolibrary.org/obo/NCIT_C158261
+2793	http://purl.obolibrary.org/obo/CHMO_0001019	electrophoretic analysis	electrophoretic analysis	0.7	ncit	Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C16536
+2794	http://purl.obolibrary.org/obo/CHMO_0001019	electrophoretic analysis	electrophoretic analysis design	0.677	ncit	Electrophoresis	http://purl.obolibrary.org/obo/NCIT_C16536
+2795	http://purl.obolibrary.org/obo/CHMO_0001019	electrophoretic analysis	electrophoretic analysis analysis	0.817	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+2797	http://purl.obolibrary.org/obo/CHMO_0001019	cataphoresis	cataphoresis	0.548	ncit	Extracorporeal Photopheresis	http://purl.obolibrary.org/obo/NCIT_C62729
+2798	http://purl.obolibrary.org/obo/CHMO_0001019	cataphoresis	cataphoresis review	0.567	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+2808	http://purl.obolibrary.org/obo/CHMO_0001531	LCM	LCM system	0.809	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+2809	http://purl.obolibrary.org/obo/CHMO_0001531	LCM	LCM tests	0.774	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+2811	http://purl.obolibrary.org/obo/OBI_0302888	rinsing	rinsing surveillance	0.76	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2812	http://purl.obolibrary.org/obo/OBI_0302888	rinsing	rinsing diagnostic	0.756	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+2813	http://purl.obolibrary.org/obo/OBI_0302888	rinsing	rinsing	0.724	ncit	Ring Dosage Form	http://purl.obolibrary.org/obo/NCIT_C60988
+2817	http://purl.obolibrary.org/obo/CHMO_0000796	high performance liquid chromatography mass spectrometry	high performance liquid chromatography mass spectrometry design	0.934	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+2818	http://purl.obolibrary.org/obo/CHMO_0000796	high performance liquid chromatography mass spectrometry	high performance liquid chromatography mass spectrometry assessment	0.904	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+2819	http://purl.obolibrary.org/obo/CHMO_0000796	high performance liquid chromatography mass spectrometry	high performance liquid chromatography mass spectrometry identification	0.876	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+2820	http://purl.obolibrary.org/obo/CHMO_0000796	high performance liquid chromatography-mass spectrometry	high performance liquid chromatography-mass spectrometry	0.985	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+2822	http://purl.obolibrary.org/obo/CHMO_0000796	high performance liquid chromatography-mass spectrometry	high performance liquid chromatography-mass spectrometry testing	0.926	ncit	High Performance Liquid Chromatography Mass Spectrometry	http://purl.obolibrary.org/obo/NCIT_C103513
+2826	http://purl.obolibrary.org/obo/CHMO_0002182	L3Vision CCD	L3Vision CCD testing	0.615	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2827	http://purl.obolibrary.org/obo/CHMO_0002182	L3Vision CCD	L3Vision CCD	0.464	ncit	Document Version Identifier	http://purl.obolibrary.org/obo/NCIT_C164791
+2828	http://purl.obolibrary.org/obo/CHMO_0002182	L3Vision CCD	L3Vision CCD assessment	0.774	ncit	Vision Assessment	http://purl.obolibrary.org/obo/NCIT_C156778
+2832	http://purl.obolibrary.org/obo/CHMO_0002182	Impactron CCD	Impactron CCD testing	0.598	ncit	Testing	http://purl.obolibrary.org/obo/NCIT_C15336
+2833	http://purl.obolibrary.org/obo/CHMO_0002182	Impactron CCD	Impactron CCD approach	0.619	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2834	http://purl.obolibrary.org/obo/CHMO_0002182	Impactron CCD	Impactron CCD sampling	0.61	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+2840	http://purl.obolibrary.org/obo/CHMO_0002182	electron multiplying CCD	electron multiplying CCD assessment	0.546	ncit	Electronic Patient Visit Assessment	http://purl.obolibrary.org/obo/NCIT_C154266
+2841	http://purl.obolibrary.org/obo/CHMO_0002182	EMCCD	EMCCD design	0.725	ncit	Design	http://purl.obolibrary.org/obo/NCIT_C43358
+2843	http://purl.obolibrary.org/obo/CHMO_0002182	EMCCD	EMCCD approach	0.768	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2844	http://purl.obolibrary.org/obo/CHMO_0002182	L3CCD	L3CCD	0.366	ncit	Color Flow Doppler Ultrasound Imaging	http://purl.obolibrary.org/obo/NCIT_C190518
+2856	http://purl.obolibrary.org/obo/CHMO_0000291	MAS	MAS sampling	0.823	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+2857	http://purl.obolibrary.org/obo/CHMO_0000291	MAS	MAS diagnostic	0.864	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+2865	http://purl.obolibrary.org/obo/CHMO_0001085	fluorescence activated cell sorting	fluorescence activated cell sorting	0.972	ncit	Fluorescence Activated Cell Sorting	http://purl.obolibrary.org/obo/NCIT_C17353
+2868	http://purl.obolibrary.org/obo/CHMO_0001085	FACS	FACS sampling	0.788	ncit	Sampling	http://purl.obolibrary.org/obo/NCIT_C25662
+2869	http://purl.obolibrary.org/obo/CHMO_0001085	FACS	FACS review	0.76	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+2870	http://purl.obolibrary.org/obo/CHMO_0001085	FACS	FACS administration	0.854	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+2874	http://purl.obolibrary.org/obo/CHMO_0001234	spectrograph	spectrograph	0.568	ncit	Electrogastrography	http://purl.obolibrary.org/obo/NCIT_C150871
+2875	http://purl.obolibrary.org/obo/CHMO_0001234	spectrograph	spectrograph analysis	0.626	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+2876	http://purl.obolibrary.org/obo/CHMO_0001234	spectrograph	spectrograph assessment	0.654	ncit	Physical Examination	http://purl.obolibrary.org/obo/NCIT_C20989
+2877	http://purl.obolibrary.org/obo/CHMO_0001751	PBS solution	PBS solution	0.813	ncit	Solution Dosage Form	http://purl.obolibrary.org/obo/NCIT_C42986
+2879	http://purl.obolibrary.org/obo/CHMO_0001751	PBS solution	PBS solution administration	0.736	ncit	Administration, Management	http://purl.obolibrary.org/obo/NCIT_C48905
+2889	http://purl.obolibrary.org/obo/CHMO_0001751	PBS	PBS	0.991	ncit	Plasmablast Subpopulation Count	http://purl.obolibrary.org/obo/NCIT_C187731
+2890	http://purl.obolibrary.org/obo/CHMO_0001751	PBS	PBS system	0.809	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+2904	http://purl.obolibrary.org/obo/NCIT_C16681	histology	histology diagnostic	0.715	ncit	X-Ray Imaging	http://purl.obolibrary.org/obo/NCIT_C38101
+2907	http://purl.obolibrary.org/obo/OBI_0600020	histology	histology diagnostic	0.715	ncit	X-Ray Imaging	http://purl.obolibrary.org/obo/NCIT_C38101
+2910	http://purl.obolibrary.org/obo/OBI_0600020	histopathology	histopathology process	0.81	ncit	Histopathologic Examination	http://purl.obolibrary.org/obo/NCIT_C18190
+2911	http://purl.obolibrary.org/obo/OBI_0600020	histopathology	histopathology system	0.83	ncit	Histopathologic Examination	http://purl.obolibrary.org/obo/NCIT_C18190
+2914	http://purl.obolibrary.org/obo/OBI_0200051	pca data reduction	pca data reduction testing	0.567	ncit	Data Validation Test Document	http://purl.obolibrary.org/obo/NCIT_C115686
+2915	http://purl.obolibrary.org/obo/OBI_0200051	pca data reduction	pca data reduction approach	0.565	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2932	http://purl.obolibrary.org/obo/OBI_0000070	any method	any method tests	0.66	ncit	Laboratory Procedure	http://purl.obolibrary.org/obo/NCIT_C25294
+2937	http://purl.obolibrary.org/obo/OBI_0000860	northern blot	northern blot	0.984	ncit	Northern Blotting	http://purl.obolibrary.org/obo/NCIT_C16355
+2939	http://purl.obolibrary.org/obo/OBI_0000860	northern blot	northern blot testing	0.782	ncit	Northern Blotting	http://purl.obolibrary.org/obo/NCIT_C16355
+2940	http://purl.obolibrary.org/obo/OBI_0000094	material transformation	material transformation approach	0.664	ncit	Data Transformation	http://purl.obolibrary.org/obo/NCIT_C43582
+2941	http://purl.obolibrary.org/obo/OBI_0000094	material transformation	material transformation system	0.686	ncit	Data Transformation	http://purl.obolibrary.org/obo/NCIT_C43582
+2942	http://purl.obolibrary.org/obo/OBI_0000094	material transformation	material transformation sampling	0.664	ncit	Data Transformation	http://purl.obolibrary.org/obo/NCIT_C43582
+2943	http://purl.obolibrary.org/obo/OBI_0000073	study	study process	0.75	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2944	http://purl.obolibrary.org/obo/OBI_0000073	study	study system	0.731	ncit	Device System	http://purl.obolibrary.org/obo/NCIT_C50311
+2945	http://purl.obolibrary.org/obo/OBI_0000073	study	study	0.992	ncit	Study	http://purl.obolibrary.org/obo/NCIT_C63536
+2949	http://purl.obolibrary.org/obo/OBI_0000796	isolation objective	isolation objective process	0.519	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+2952	http://purl.obolibrary.org/obo/OBI_0001138	x-ray generator	x-ray generator diagnostic	0.65	ncit	Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220
+2953	http://purl.obolibrary.org/obo/OBI_0001138	x-ray generator	x-ray generator surveillance	0.662	ncit	Surveillance	http://purl.obolibrary.org/obo/NCIT_C15719
+2954	http://purl.obolibrary.org/obo/OBI_0001138	x-ray generator	x-ray generator design	0.683	ncit	Generator Dosage Form	http://purl.obolibrary.org/obo/NCIT_C48193
+2955	http://purl.obolibrary.org/obo/OBI_0400064	light amplification by the stimulated emission of radiation	light amplification by the stimulated emission of radiation	0.557	ncit	Gene Amplification Technique	http://purl.obolibrary.org/obo/NCIT_C20589
+2956	http://purl.obolibrary.org/obo/OBI_0400064	light amplification by the stimulated emission of radiation	light amplification by the stimulated emission of radiation approach	0.524	ncit	Gene Amplification Technique	http://purl.obolibrary.org/obo/NCIT_C20589
+2967	http://purl.obolibrary.org/obo/BFO_0000040	material type	material type	0.684	ncit	Trial Type	http://purl.obolibrary.org/obo/NCIT_C49660
+2969	http://purl.obolibrary.org/obo/BFO_0000040	material type	material type tests	0.574	ncit	Trial Type	http://purl.obolibrary.org/obo/NCIT_C49660
+2970	http://purl.obolibrary.org/obo/CHEBI_28262	methylsulfinylmethane	methylsulfinylmethane design	0.602	ncit	Methane Measurement	http://purl.obolibrary.org/obo/NCIT_C186080
+2971	http://purl.obolibrary.org/obo/CHEBI_28262	methylsulfinylmethane	methylsulfinylmethane	0.67	ncit	Methane Measurement	http://purl.obolibrary.org/obo/NCIT_C186080
+2983	http://purl.obolibrary.org/obo/CHEBI_28262	dimethyl sulfur oxide	dimethyl sulfur oxide	0.65	ncit	Sulfur Dioxide Measurement	http://purl.obolibrary.org/obo/NCIT_C114224
+2984	http://purl.obolibrary.org/obo/CHEBI_28262	dimethyl sulfur oxide	dimethyl sulfur oxide testing	0.555	ncit	Sulfur Dioxide Measurement	http://purl.obolibrary.org/obo/NCIT_C114224
+2985	http://purl.obolibrary.org/obo/CHEBI_28262	S(O)Me2	S(O)Me2	0.5	ncit	Blood Group O	http://purl.obolibrary.org/obo/NCIT_C76249
+2986	http://purl.obolibrary.org/obo/CHEBI_28262	S(O)Me2	S(O)Me2 detection	0.784	ncit	Biological Detection Test	http://purl.obolibrary.org/obo/NCIT_C174330
+2987	http://purl.obolibrary.org/obo/CHEBI_28262	S(O)Me2	S(O)Me2 review	0.76	ncit	Review	http://purl.obolibrary.org/obo/NCIT_C42729
+2989	http://purl.obolibrary.org/obo/CHEBI_28262	dimethylsulfoxyde	dimethylsulfoxyde identification	0.652	ncit	Biologic Entity Classification	http://purl.obolibrary.org/obo/NCIT_C164374
+2992	http://purl.obolibrary.org/obo/CHEBI_28262	DMSO	DMSO system	0.767	ncit	Drug Delivery System	http://purl.obolibrary.org/obo/NCIT_C17423
+2993	http://purl.obolibrary.org/obo/CHEBI_28262	DMSO	DMSO approach	0.8	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+2995	http://purl.obolibrary.org/obo/CHEBI_28262	dimetil sulfoxido	dimetil sulfoxido detection	0.565	ncit	Detection	http://purl.obolibrary.org/obo/NCIT_C16210
+2997	http://purl.obolibrary.org/obo/CHEBI_28262	sulfinylbis(methane)	sulfinylbis(methane) analysis	0.591	ncit	Analysis	http://purl.obolibrary.org/obo/NCIT_C25391
+2998	http://purl.obolibrary.org/obo/CHEBI_28262	sulfinylbis(methane)	sulfinylbis(methane) administration	0.64	ncit	Agent Administration	http://purl.obolibrary.org/obo/NCIT_C70962
+2999	http://purl.obolibrary.org/obo/CHEBI_28262	sulfinylbis(methane)	sulfinylbis(methane) sampling	0.557	ncit	Sampling Method	http://purl.obolibrary.org/obo/NCIT_C71492
+3001	http://purl.obolibrary.org/obo/CHEBI_28262	dmso	dmso process	0.783	ncit	Human Cells, Tissues, and Cellular and Tissue-Based Products Processing	http://purl.obolibrary.org/obo/NCIT_C133285
+3002	http://purl.obolibrary.org/obo/CHEBI_28262	dmso	dmso approach	0.8	ncit	Approach	http://purl.obolibrary.org/obo/NCIT_C176499
+3003	http://purl.obolibrary.org/obo/CHEBI_28262	(CH3)2SO	(CH3)2SO	0.336	ncit	Neurogenic Locus Notch Homolog Protein 3 Staining Method	http://purl.obolibrary.org/obo/NCIT_C122869
+3004	http://purl.obolibrary.org/obo/CHEBI_28262	(CH3)2SO	(CH3)2SO administration	0.81	ncit	Administration	http://purl.obolibrary.org/obo/NCIT_C25409
+3005	http://purl.obolibrary.org/obo/CHEBI_28262	(CH3)2SO	(CH3)2SO system	0.7	ncit	Drug Delivery System	http://purl.obolibrary.org/obo/NCIT_C17423
+3006	http://purl.obolibrary.org/obo/CHEBI_28262	dimethyli sulfoxidum	dimethyli sulfoxidum analysis	0.57	ncit	Methylation Analysis	http://purl.obolibrary.org/obo/NCIT_C190764
+3015	http://purl.obolibrary.org/obo/CHEBI_28262	(methanesulfinyl)methane	(methanesulfinyl)methane	0.838	ncit	Methane Measurement	http://purl.obolibrary.org/obo/NCIT_C186080
+3016	http://purl.obolibrary.org/obo/CHEBI_28262	(methanesulfinyl)methane	(methanesulfinyl)methane sampling	0.754	ncit	Methane Measurement	http://purl.obolibrary.org/obo/NCIT_C186080
+3017	http://purl.obolibrary.org/obo/CHEBI_28262	(methanesulfinyl)methane	(methanesulfinyl)methane review	0.772	ncit	Methane Measurement	http://purl.obolibrary.org/obo/NCIT_C186080
+3021	http://www.ebi.ac.uk/efo/EFO_0004327	electrocardiogram	electrocardiogram	0.991	ncit	Electrocardiogram	http://purl.obolibrary.org/obo/NCIT_C168186
+3022	http://www.ebi.ac.uk/efo/EFO_0004327	electrocardiogram	electrocardiogram testing	0.891	ncit	Electrocardiogram Test	http://purl.obolibrary.org/obo/NCIT_C83146

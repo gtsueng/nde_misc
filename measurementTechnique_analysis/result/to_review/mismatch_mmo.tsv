@@ -1,0 +1,52 @@
+	Class ID	Original term	Term	T2T best score	Ontology	found_term	TermID
+34	http://purl.obolibrary.org/obo/MMO_0000035	digital scale	digital scale approach	0.769	mmo	whole body digital scale	http://purl.obolibrary.org/obo/MMO_0000017
+35	http://purl.obolibrary.org/obo/MMO_0000035	digital scale	digital scale surveillance	0.702	mmo	whole body digital scale	http://purl.obolibrary.org/obo/MMO_0000017
+216	http://purl.obolibrary.org/obo/MMO_0000683	co-immunoprecipitation	co-immunoprecipitation system	0.819	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+217	http://purl.obolibrary.org/obo/MMO_0000683	co-immunoprecipitation	co-immunoprecipitation	0.929	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+218	http://purl.obolibrary.org/obo/MMO_0000683	co-immunoprecipitation	co-immunoprecipitation process	0.804	mmo	immunoprecipitation	http://purl.obolibrary.org/obo/MMO_0000682
+534	http://purl.obolibrary.org/obo/MMO_0000458	enzyme-linked immunosorbent spot assay	enzyme-linked immunosorbent spot assay detection	0.794	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+535	http://purl.obolibrary.org/obo/MMO_0000458	enzyme-linked immunosorbent spot assay	enzyme-linked immunosorbent spot assay sampling	0.805	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+536	http://purl.obolibrary.org/obo/MMO_0000458	enzyme-linked immunosorbent spot assay	enzyme-linked immunosorbent spot assay system	0.823	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+537	http://www.bioassayontology.org/bao#BAO_0002419	enzyme-linked immunosorbent spot assay	enzyme-linked immunosorbent spot assay detection	0.794	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+538	http://www.bioassayontology.org/bao#BAO_0002419	enzyme-linked immunosorbent spot assay	enzyme-linked immunosorbent spot assay sampling	0.805	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+539	http://www.bioassayontology.org/bao#BAO_0002419	enzyme-linked immunosorbent spot assay	enzyme-linked immunosorbent spot assay system	0.823	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+678	http://purl.obolibrary.org/obo/CHMO_0000997	chromatography column	chromatography column	0.978	mmo	column chromatography	http://purl.obolibrary.org/obo/MMO_0000468
+894	http://purl.obolibrary.org/obo/CHMO_0001007	thin-layer chromatography	thin-layer chromatography	0.962	mmo	thin layer chromatography	http://purl.obolibrary.org/obo/MMO_0000289
+895	http://purl.obolibrary.org/obo/CHMO_0001007	thin-layer chromatography	thin-layer chromatography process	0.842	mmo	thin layer chromatography	http://purl.obolibrary.org/obo/MMO_0000289
+1479	http://purl.obolibrary.org/obo/OBI_0000661	enzyme-linked immunosorbent assay	enzyme-linked immunosorbent assay	0.95	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+1480	http://purl.obolibrary.org/obo/OBI_0000661	enzyme-linked immunosorbent assay	enzyme-linked immunosorbent assay identification	0.786	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+1481	http://purl.obolibrary.org/obo/OBI_0000661	enzyme-linked immunosorbent assay	enzyme-linked immunosorbent assay diagnostic	0.837	mmo	enzyme linked immunosorbent assay	http://purl.obolibrary.org/obo/MMO_0000075
+1482	http://purl.obolibrary.org/obo/OBI_0000860	northern blot assay	northern blot assay assessment	0.734	mmo	Northern blot assay	http://purl.obolibrary.org/obo/MMO_0000647
+1483	http://purl.obolibrary.org/obo/OBI_0000860	northern blot assay	northern blot assay identification	0.692	mmo	Northern blot assay	http://purl.obolibrary.org/obo/MMO_0000647
+1484	http://purl.obolibrary.org/obo/OBI_0000860	northern blot assay	northern blot assay	0.934	mmo	Northern blot assay	http://purl.obolibrary.org/obo/MMO_0000647
+1527	http://purl.obolibrary.org/obo/CHMO_0000239	graphite furnace atomic absorption spectroscopy	graphite furnace atomic absorption spectroscopy	0.969	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+1528	http://purl.obolibrary.org/obo/CHMO_0000239	graphite furnace atomic absorption spectroscopy	graphite furnace atomic absorption spectroscopy tests	0.917	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+2004	http://purl.obolibrary.org/obo/CHMO_0001009	HPLC	HPLC	0.999	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+2010	http://purl.obolibrary.org/obo/CHMO_0001009	high-pressure liquid chromatography	high-pressure liquid chromatography identification	0.714	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+2011	http://purl.obolibrary.org/obo/CHMO_0001009	high-pressure liquid chromatography	high-pressure liquid chromatography testing	0.776	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+2012	http://purl.obolibrary.org/obo/CHMO_0001009	high-pressure liquid chromatography	high-pressure liquid chromatography process	0.764	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+2019	http://purl.obolibrary.org/obo/CHMO_0000243	flame atomic absorption spectroscopy	flame atomic absorption spectroscopy	0.976	mmo	flame atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000379
+2020	http://purl.obolibrary.org/obo/CHMO_0000243	flame atomic absorption spectroscopy	flame atomic absorption spectroscopy study	0.91	mmo	flame atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000379
+2021	http://purl.obolibrary.org/obo/CHMO_0000243	flame atomic absorption spectroscopy	flame atomic absorption spectroscopy method	0.898	mmo	flame atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000379
+2050	http://purl.obolibrary.org/obo/MMO_0000537	HPLC-MS	HPLC-MS	0.815	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+2053	http://purl.obolibrary.org/obo/CHMO_0000796	HPLC-MS	HPLC-MS	0.815	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+2106	http://purl.obolibrary.org/obo/MMO_0000327	colorimetric analysis	colorimetric analysis	0.768	mmo	urine protein colorimetric analysis	http://purl.obolibrary.org/obo/MMO_0000423
+2118	http://purl.obolibrary.org/obo/MMO_0000655	RT-PCR	RT-PCR	0.775	mmo	polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000459
+2145	http://purl.obolibrary.org/obo/MMO_0000470	gas-solid column chromatography	gas-solid column chromatography process	0.791	mmo	gas chromatography	http://purl.obolibrary.org/obo/MMO_0000469
+2146	http://purl.obolibrary.org/obo/MMO_0000470	gas-solid column chromatography	gas-solid column chromatography	0.885	mmo	gas chromatography	http://purl.obolibrary.org/obo/MMO_0000469
+2235	http://purl.obolibrary.org/obo/MMO_0000471	gas-liquid column chromatography	gas-liquid column chromatography detection	0.812	mmo	liquid column chromatography	http://purl.obolibrary.org/obo/MMO_0000404
+2236	http://purl.obolibrary.org/obo/MMO_0000471	gas-liquid column chromatography	gas-liquid column chromatography	0.929	mmo	liquid column chromatography	http://purl.obolibrary.org/obo/MMO_0000404
+2247	http://purl.obolibrary.org/obo/OBI_0000893	quantitative real time polymerase chain reaction	quantitative real time polymerase chain reaction	0.97	mmo	real-time polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000460
+2248	http://purl.obolibrary.org/obo/OBI_0000893	quantitative real time polymerase chain reaction	quantitative real time polymerase chain reaction method	0.913	mmo	real-time polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000460
+2249	http://purl.obolibrary.org/obo/OBI_0000893	quantitative real time polymerase chain reaction	quantitative real time polymerase chain reaction surveillance	0.866	mmo	real-time polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000460
+2254	http://purl.obolibrary.org/obo/OBI_0000893	qPCR	qPCR	0.997	mmo	real-time polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000460
+2367	http://purl.obolibrary.org/obo/CHMO_0001209	anion exchange chromatography	anion exchange chromatography diagnostic	0.712	mmo	anion-exchange chromatography	http://purl.obolibrary.org/obo/MMO_0000678
+2368	http://purl.obolibrary.org/obo/CHMO_0001209	anion exchange chromatography	anion exchange chromatography	0.834	mmo	anion-exchange chromatography	http://purl.obolibrary.org/obo/MMO_0000678
+2529	http://purl.obolibrary.org/obo/CHMO_0001009	high pressure liquid chromatography	high pressure liquid chromatography identification	0.714	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+2530	http://purl.obolibrary.org/obo/CHMO_0001009	high pressure liquid chromatography	high pressure liquid chromatography	0.856	mmo	high-performance liquid chromatography	http://purl.obolibrary.org/obo/MMO_0000394
+2544	http://purl.obolibrary.org/obo/CHMO_0001000	chromatographic analysis	chromatographic analysis study	0.604	mmo	chromatography	http://purl.obolibrary.org/obo/MMO_0000288
+2545	http://purl.obolibrary.org/obo/CHMO_0001000	chromatographic analysis	chromatographic analysis	0.666	mmo	chromatography	http://purl.obolibrary.org/obo/MMO_0000288
+2694	http://purl.obolibrary.org/obo/CHMO_0000239	graphite-furnace atomic-absorption spectroscopy	graphite-furnace atomic-absorption spectroscopy identification	0.839	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+2695	http://purl.obolibrary.org/obo/CHMO_0000239	graphite-furnace atomic-absorption spectroscopy	graphite-furnace atomic-absorption spectroscopy	0.969	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+2696	http://purl.obolibrary.org/obo/CHMO_0000239	graphite-furnace atomic-absorption spectroscopy	graphite-furnace atomic-absorption spectroscopy system	0.908	mmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/MMO_0000380
+2958	http://purl.obolibrary.org/obo/OBI_0000893	Q-PCR	Q-PCR	0.866	mmo	polymerase chain reaction assay	http://purl.obolibrary.org/obo/MMO_0000459

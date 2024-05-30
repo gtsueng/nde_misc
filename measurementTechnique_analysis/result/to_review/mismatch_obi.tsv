@@ -1,0 +1,27 @@
+	Class ID	Original term	Term	T2T best score	Ontology	found_term	TermID
+305	http://purl.obolibrary.org/obo/MMO_0000534	mass spectrometry	mass spectrometry analysis	0.973	obi	mass spectrometry analysis	http://purl.obolibrary.org/obo/OBI_0200085
+308	http://purl.obolibrary.org/obo/CHMO_0000470	mass spectrometry	mass spectrometry analysis	0.973	obi	mass spectrometry analysis	http://purl.obolibrary.org/obo/OBI_0200085
+314	http://www.bioassayontology.org/bao#BAO_0000055	mass spectrometry	mass spectrometry analysis	0.973	obi	mass spectrometry analysis	http://purl.obolibrary.org/obo/OBI_0200085
+597	http://purl.obolibrary.org/obo/MMO_0000460	real-time polymerase chain reaction assay	real-time polymerase chain reaction assay surveillance	0.821	obi	real time polymerase chain reaction assay	http://purl.obolibrary.org/obo/OBI_0000893
+598	http://purl.obolibrary.org/obo/MMO_0000460	real-time polymerase chain reaction assay	real-time polymerase chain reaction assay sampling	0.855	obi	real time polymerase chain reaction assay	http://purl.obolibrary.org/obo/OBI_0000893
+599	http://purl.obolibrary.org/obo/MMO_0000460	real-time polymerase chain reaction assay	real-time polymerase chain reaction assay detection	0.823	obi	real time polymerase chain reaction assay	http://purl.obolibrary.org/obo/OBI_0000893
+668	http://purl.obolibrary.org/obo/BFO_0000015	process	process surveillance	0.945	obi	surveillance process	http://purl.obolibrary.org/obo/OBI_0002897
+726	http://purl.obolibrary.org/obo/CHMO_0002740	analyte role	analyte role	0.763	obi	analyte assay	http://purl.obolibrary.org/obo/OBI_0000443
+795	http://purl.obolibrary.org/obo/OBI_0001061	microwave synthesis system	microwave synthesis system	0.642	obi	synthesis	http://purl.obolibrary.org/obo/OBI_0600040
+796	http://purl.obolibrary.org/obo/OBI_0001061	microwave synthesis system	microwave synthesis system assessment	0.546	obi	synthesis	http://purl.obolibrary.org/obo/OBI_0600040
+850	http://purl.obolibrary.org/obo/CHEBI_60027	polymer	polymer	0.683	obi	polymerization	http://purl.obolibrary.org/obo/OBI_0302890
+898	http://purl.obolibrary.org/obo/CHMO_0000060	fluorescence detection	fluorescence detection assessment	0.809	obi	fluorescence detection assay	http://purl.obolibrary.org/obo/OBI_0001501
+1006	http://purl.obolibrary.org/obo/CHMO_0001077	quartz crystal microbalance	quartz crystal microbalance system	0.88	obi	quartz crystal microbalance assay	http://purl.obolibrary.org/obo/OBI_0003601
+2116	http://purl.obolibrary.org/obo/MMO_0000534	mass spec	mass spec analysis	0.727	obi	mass spectrometry analysis	http://purl.obolibrary.org/obo/OBI_0200085
+2321	http://purl.obolibrary.org/obo/CHMO_0000999	partition	partition	0.628	obi	data partitioning	http://purl.obolibrary.org/obo/OBI_0200156
+2508	http://purl.obolibrary.org/obo/CHMO_0000575	tandem-MS	tandem-MS assessment	0.802	obi	tandem stance assessment	http://purl.obolibrary.org/obo/OBI_0003524
+2509	http://purl.obolibrary.org/obo/CHMO_0000575	tandem-MS	tandem-MS analysis	0.702	obi	tandem mass spectrometry analysis	http://purl.obolibrary.org/obo/OBI_0003647
+2526	http://purl.obolibrary.org/obo/CHMO_0001001	preparative column chromatography	preparative column chromatography diagnostic	0.764	obi	preparative chromatography	http://purl.obolibrary.org/obo/OBI_0600046
+2527	http://purl.obolibrary.org/obo/CHMO_0001001	preparative column chromatography	preparative column chromatography identification	0.728	obi	preparative chromatography	http://purl.obolibrary.org/obo/OBI_0600046
+2528	http://purl.obolibrary.org/obo/CHMO_0001001	preparative column chromatography	preparative column chromatography	0.878	obi	preparative chromatography	http://purl.obolibrary.org/obo/OBI_0600046
+2634	http://purl.obolibrary.org/obo/OBI_0000094	sample preparation step	sample preparation step	0.755	obi	sample preparation for assay	http://purl.obolibrary.org/obo/OBI_0000073
+2643	http://purl.obolibrary.org/obo/OBI_0000094	sample preparation	sample preparation review	0.722	obi	sample preparation for assay	http://purl.obolibrary.org/obo/OBI_0000073
+2644	http://purl.obolibrary.org/obo/OBI_0000094	sample preparation	sample preparation	0.84	obi	sample preparation for assay	http://purl.obolibrary.org/obo/OBI_0000073
+2850	http://purl.obolibrary.org/obo/OBI_0302912	electropermeabilization	electropermeabilization design	0.608	obi	cell permeabilization	http://purl.obolibrary.org/obo/OBI_0600033
+2851	http://purl.obolibrary.org/obo/OBI_0302912	electropermeabilization	electropermeabilization	0.683	obi	cell permeabilization	http://purl.obolibrary.org/obo/OBI_0600033
+2913	http://purl.obolibrary.org/obo/OBI_0200051	pca data reduction	pca data reduction design	0.55	obi	data vector reduction data transformation	http://purl.obolibrary.org/obo/OBI_0200182

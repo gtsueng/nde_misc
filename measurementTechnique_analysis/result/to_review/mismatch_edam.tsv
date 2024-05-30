@@ -1,0 +1,48 @@
+	Class ID	Original term	Term	T2T best score	Ontology	found_term	TermID
+204	http://purl.obolibrary.org/obo/MMO_0000127	tomography	tomography	0.998	edam	Tomography	http://edamontology.org/topic_3452
+205	http://purl.obolibrary.org/obo/MMO_0000127	tomography	tomography review	0.789	edam	Tomography	http://edamontology.org/topic_3452
+206	http://purl.obolibrary.org/obo/MMO_0000127	tomography	tomography analysis	0.744	edam	Tomography	http://edamontology.org/topic_3452
+207	http://www.bioassayontology.org/bao#BAO_0002525	tomography	tomography	0.998	edam	Tomography	http://edamontology.org/topic_3452
+208	http://www.bioassayontology.org/bao#BAO_0002525	tomography	tomography review	0.789	edam	Tomography	http://edamontology.org/topic_3452
+209	http://www.bioassayontology.org/bao#BAO_0002525	tomography	tomography analysis	0.744	edam	Tomography	http://edamontology.org/topic_3452
+225	http://purl.obolibrary.org/obo/MMO_0000128	computed tomography	computed tomography identification	0.744	edam	Tomography	http://edamontology.org/topic_3452
+226	http://purl.obolibrary.org/obo/MMO_0000128	computed tomography	computed tomography	0.991	edam	Tomography	http://edamontology.org/topic_3452
+240	http://www.ebi.ac.uk/efo/EFO_0003960	computed tomography	computed tomography identification	0.744	edam	Tomography	http://edamontology.org/topic_3452
+241	http://www.ebi.ac.uk/efo/EFO_0003960	computed tomography	computed tomography	0.991	edam	Tomography	http://edamontology.org/topic_3452
+246	http://purl.obolibrary.org/obo/MMO_0000680	chromatin immunoprecipitation	chromatin immunoprecipitation sampling	0.881	edam	Immunoprecipitation experiment	http://edamontology.org/topic_3656
+247	http://purl.obolibrary.org/obo/MMO_0000680	chromatin immunoprecipitation	chromatin immunoprecipitation surveillance	0.838	edam	Immunoprecipitation experiment	http://edamontology.org/topic_3656
+248	http://purl.obolibrary.org/obo/MMO_0000680	chromatin immunoprecipitation	chromatin immunoprecipitation	0.992	edam	Immunoprecipitation experiment	http://edamontology.org/topic_3656
+252	http://purl.obolibrary.org/obo/CHMO_0001694	chromatin immunoprecipitation	chromatin immunoprecipitation sampling	0.881	edam	Immunoprecipitation experiment	http://edamontology.org/topic_3656
+253	http://purl.obolibrary.org/obo/CHMO_0001694	chromatin immunoprecipitation	chromatin immunoprecipitation surveillance	0.838	edam	Immunoprecipitation experiment	http://edamontology.org/topic_3656
+254	http://purl.obolibrary.org/obo/CHMO_0001694	chromatin immunoprecipitation	chromatin immunoprecipitation	0.992	edam	Immunoprecipitation experiment	http://edamontology.org/topic_3656
+255	http://purl.obolibrary.org/obo/OBI_00001975	chromatin immunoprecipitation	chromatin immunoprecipitation sampling	0.881	edam	Immunoprecipitation experiment	http://edamontology.org/topic_3656
+256	http://purl.obolibrary.org/obo/OBI_00001975	chromatin immunoprecipitation	chromatin immunoprecipitation surveillance	0.838	edam	Immunoprecipitation experiment	http://edamontology.org/topic_3656
+257	http://purl.obolibrary.org/obo/OBI_00001975	chromatin immunoprecipitation	chromatin immunoprecipitation	0.992	edam	Immunoprecipitation experiment	http://edamontology.org/topic_3656
+336	http://purl.obolibrary.org/obo/MMO_0000709	nuclear magnetic resonance spectroscopy	nuclear magnetic resonance spectroscopy	0.997	edam	NMR	http://edamontology.org/topic_0593
+338	http://purl.obolibrary.org/obo/MMO_0000709	nuclear magnetic resonance spectroscopy	nuclear magnetic resonance spectroscopy surveillance	0.88	edam	NMR	http://edamontology.org/topic_0593
+345	http://purl.obolibrary.org/obo/CHMO_0000591	nuclear magnetic resonance spectroscopy	nuclear magnetic resonance spectroscopy	0.997	edam	NMR	http://edamontology.org/topic_0593
+347	http://purl.obolibrary.org/obo/CHMO_0000591	nuclear magnetic resonance spectroscopy	nuclear magnetic resonance spectroscopy surveillance	0.88	edam	NMR	http://edamontology.org/topic_0593
+474	http://purl.obolibrary.org/obo/MMO_0000019	magnetic resonance imaging	magnetic resonance imaging	0.992	edam	MRI	http://edamontology.org/topic_3444
+475	http://purl.obolibrary.org/obo/MMO_0000019	magnetic resonance imaging	magnetic resonance imaging method	0.894	edam	MRI	http://edamontology.org/topic_3444
+476	http://purl.obolibrary.org/obo/MMO_0000019	magnetic resonance imaging	magnetic resonance imaging surveillance	0.859	edam	MRI	http://edamontology.org/topic_3444
+921	http://purl.obolibrary.org/obo/CHMO_0000068	electron microscopy	electron microscopy	0.993	edam	Electron microscopy	http://edamontology.org/topic_0611
+2097	http://purl.obolibrary.org/obo/MMO_0000128	X-ray computed tomography	X-ray computed tomography identification	0.701	edam	Tomography	http://edamontology.org/topic_3452
+2098	http://purl.obolibrary.org/obo/MMO_0000128	X-ray computed tomography	X-ray computed tomography method	0.795	edam	Tomography	http://edamontology.org/topic_3452
+2099	http://purl.obolibrary.org/obo/MMO_0000128	X-ray computed tomography	X-ray computed tomography	0.897	edam	Tomography	http://edamontology.org/topic_3452
+2130	http://purl.obolibrary.org/obo/MMO_0000709	NMR spectroscopy	NMR spectroscopy	0.998	edam	NMR	http://edamontology.org/topic_0593
+2132	http://purl.obolibrary.org/obo/MMO_0000709	NMR spectroscopy	NMR spectroscopy testing	0.824	edam	NMR	http://edamontology.org/topic_0593
+2133	http://purl.obolibrary.org/obo/CHMO_0000591	NMR spectroscopy	NMR spectroscopy	0.998	edam	NMR	http://edamontology.org/topic_0593
+2135	http://purl.obolibrary.org/obo/CHMO_0000591	NMR spectroscopy	NMR spectroscopy testing	0.824	edam	NMR	http://edamontology.org/topic_0593
+2181	http://purl.obolibrary.org/obo/MMO_0000019	nuclear magnetic resonance imaging	nuclear magnetic resonance imaging administration	0.829	edam	MRI	http://edamontology.org/topic_3444
+2182	http://purl.obolibrary.org/obo/MMO_0000019	nuclear magnetic resonance imaging	nuclear magnetic resonance imaging diagnostic	0.887	edam	MRI	http://edamontology.org/topic_3444
+2183	http://purl.obolibrary.org/obo/MMO_0000019	nuclear magnetic resonance imaging	nuclear magnetic resonance imaging method	0.91	edam	MRI	http://edamontology.org/topic_3444
+2238	http://purl.obolibrary.org/obo/MMO_0000460	kinetic polymerase chain reaction	kinetic polymerase chain reaction analysis	0.767	edam	PCR experiment	http://edamontology.org/topic_3519
+2239	http://purl.obolibrary.org/obo/MMO_0000460	kinetic polymerase chain reaction	kinetic polymerase chain reaction	0.863	edam	PCR experiment	http://edamontology.org/topic_3519
+2240	http://purl.obolibrary.org/obo/MMO_0000460	kinetic polymerase chain reaction	kinetic polymerase chain reaction approach	0.767	edam	PCR experiment	http://edamontology.org/topic_3519
+2241	http://purl.obolibrary.org/obo/OBI_0000893	kinetic polymerase chain reaction	kinetic polymerase chain reaction analysis	0.767	edam	PCR experiment	http://edamontology.org/topic_3519
+2242	http://purl.obolibrary.org/obo/OBI_0000893	kinetic polymerase chain reaction	kinetic polymerase chain reaction	0.863	edam	PCR experiment	http://edamontology.org/topic_3519
+2243	http://purl.obolibrary.org/obo/OBI_0000893	kinetic polymerase chain reaction	kinetic polymerase chain reaction approach	0.767	edam	PCR experiment	http://edamontology.org/topic_3519
+2292	http://purl.obolibrary.org/obo/CHMO_0000591	nuclear magnetic resonance (NMR) spectroscopy	nuclear magnetic resonance (NMR) spectroscopy	0.958	edam	NMR	http://edamontology.org/topic_0593
+2294	http://purl.obolibrary.org/obo/CHMO_0000591	nuclear magnetic resonance (NMR) spectroscopy	nuclear magnetic resonance (NMR) spectroscopy testing	0.882	edam	NMR	http://edamontology.org/topic_0593
+2961	http://www.ebi.ac.uk/efo/EFO_0003960	computed tomography scan	computed tomography scan	0.897	edam	Tomography	http://edamontology.org/topic_3452
+2962	http://www.ebi.ac.uk/efo/EFO_0003960	computed tomography scan	computed tomography scan system	0.795	edam	Tomography	http://edamontology.org/topic_3452

@@ -1,0 +1,75 @@
+	Class ID	Original term	Term	T2T best score	Ontology	found_term	TermID
+651	http://purl.obolibrary.org/obo/CHMO_0002585	refractive index detector	refractive index detector review	0.772	chmo	refractive index detection	http://purl.obolibrary.org/obo/CHMO_0001730
+652	http://purl.obolibrary.org/obo/CHMO_0002585	refractive index detector	refractive index detector tests	0.787	chmo	refractive index detection	http://purl.obolibrary.org/obo/CHMO_0001730
+653	http://purl.obolibrary.org/obo/CHMO_0002585	refractive index detector	refractive index detector	0.868	chmo	refractive index detection	http://purl.obolibrary.org/obo/CHMO_0001730
+720	http://purl.obolibrary.org/obo/CHEBI_35255	chloroform	chloroform method	0.508	chmo	polarimetry of sample dissolved in chloroform	http://purl.obolibrary.org/obo/CHMO_0002898
+721	http://purl.obolibrary.org/obo/CHEBI_35255	chloroform	chloroform	0.619	chmo	polarimetry of sample dissolved in chloroform	http://purl.obolibrary.org/obo/CHMO_0002898
+1099	http://purl.obolibrary.org/obo/CHMO_0000950	diffractometer	diffractometer method	0.75	chmo	diffraction method	http://purl.obolibrary.org/obo/CHMO_0000141
+1161	http://purl.obolibrary.org/obo/CHMO_0002866	evaporative light scattering detector	evaporative light scattering detector identification	0.8	chmo	evaporative light scattering detection	http://purl.obolibrary.org/obo/CHMO_0001718
+1162	http://purl.obolibrary.org/obo/CHMO_0002866	evaporative light scattering detector	evaporative light scattering detector	0.9	chmo	evaporative light scattering detection	http://purl.obolibrary.org/obo/CHMO_0001718
+1163	http://purl.obolibrary.org/obo/CHMO_0002866	evaporative light scattering detector	evaporative light scattering detector detection	0.872	chmo	evaporative light scattering detection	http://purl.obolibrary.org/obo/CHMO_0001718
+1275	http://purl.obolibrary.org/obo/CHMO_0001287	calorimeter	calorimeter process	0.619	chmo	calorimetry	http://purl.obolibrary.org/obo/CHMO_0000682
+1276	http://purl.obolibrary.org/obo/CHMO_0001287	calorimeter	calorimeter	0.791	chmo	calorimetry	http://purl.obolibrary.org/obo/CHMO_0000682
+1277	http://purl.obolibrary.org/obo/CHMO_0001287	calorimeter	calorimeter testing	0.619	chmo	calorimetry	http://purl.obolibrary.org/obo/CHMO_0000682
+1278	http://purl.obolibrary.org/obo/CHEBI_28262	dimethyl sulfoxide	dimethyl sulfoxide method	0.662	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+1279	http://purl.obolibrary.org/obo/CHEBI_28262	dimethyl sulfoxide	dimethyl sulfoxide	0.767	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+1392	http://purl.obolibrary.org/obo/CHMO_0002265	anion-exchange column	anion-exchange column tests	0.521	chmo	nuclear Overhauser enhancement spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000607
+1393	http://purl.obolibrary.org/obo/CHMO_0002265	anion-exchange column	anion-exchange column	0.586	chmo	nuclear Overhauser enhancement spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000607
+1395	http://purl.obolibrary.org/obo/CHMO_0002264	ion-exchange column	ion-exchange column tests	0.545	chmo	nuclear Overhauser enhancement spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000607
+1396	http://purl.obolibrary.org/obo/CHMO_0002264	ion-exchange column	ion-exchange column design	0.533	chmo	nuclear Overhauser enhancement spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000607
+1397	http://purl.obolibrary.org/obo/CHMO_0002264	ion-exchange column	ion-exchange column method	0.552	chmo	nuclear Overhauser enhancement spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000607
+1399	http://purl.obolibrary.org/obo/CHMO_0002263	cation-exchange column	cation-exchange column	0.571	chmo	nuclear Overhauser enhancement spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000607
+1512	http://purl.obolibrary.org/obo/MMO_0000380	GFAAS	GFAAS	0.979	chmo	graphite furnace atomic absorption spectrometry	http://purl.obolibrary.org/obo/CHMO_0000239
+1521	http://purl.obolibrary.org/obo/MMO_0000380	ETAAS	ETAAS method	0.663	chmo	electrothermal atomic absorption spectrometry	http://purl.obolibrary.org/obo/CHMO_0000237
+1522	http://purl.obolibrary.org/obo/MMO_0000380	ETAAS	ETAAS	0.983	chmo	electrothermal atomic absorption spectrometry	http://purl.obolibrary.org/obo/CHMO_0000237
+2014	http://purl.obolibrary.org/obo/MMO_0000379	flame AAS	flame AAS	0.593	chmo	atomic absorption spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000234
+2031	http://purl.obolibrary.org/obo/MMO_0000721	Ultra Performance Liquid Chromatography/Mass Spectrometry	Ultra Performance Liquid Chromatography/Mass Spectrometry	0.954	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+2032	http://purl.obolibrary.org/obo/MMO_0000721	Ultra Performance Liquid Chromatography/Mass Spectrometry	Ultra Performance Liquid Chromatography/Mass Spectrometry sampling	0.891	chmo	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715
+2035	http://purl.obolibrary.org/obo/MMO_0000721	uplc-ms	uplc-ms detection	0.815	chmo	mass detection	http://purl.obolibrary.org/obo/CHMO_0002174
+2043	http://purl.obolibrary.org/obo/MMO_0000685	CLSM	CLSM	0.992	chmo	confocal laser scanning microscopy	http://purl.obolibrary.org/obo/CHMO_0000089
+2154	http://purl.obolibrary.org/obo/MMO_0000536	GC-MS	GC-MS	0.963	chmo	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497
+2160	http://purl.obolibrary.org/obo/MMO_0000535	LC-MS	LC-MS	0.975	chmo	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524
+2187	http://purl.obolibrary.org/obo/MMO_0000736	ICP-MS	ICP-MS detection	0.844	chmo	mass detection	http://purl.obolibrary.org/obo/CHMO_0002174
+2188	http://purl.obolibrary.org/obo/MMO_0000736	ICP-MS	ICP-MS	0.692	chmo	high performance liquid chromatography-inductively coupled plasma mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000543
+2190	http://purl.obolibrary.org/obo/CHMO_0000538	ICP-MS	ICP-MS detection	0.844	chmo	mass detection	http://purl.obolibrary.org/obo/CHMO_0002174
+2191	http://purl.obolibrary.org/obo/CHMO_0000538	ICP-MS	ICP-MS	0.692	chmo	high performance liquid chromatography-inductively coupled plasma mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000543
+2283	http://purl.obolibrary.org/obo/CHMO_0002585	refractive-index detector	refractive-index detector tests	0.787	chmo	refractive index detection	http://purl.obolibrary.org/obo/CHMO_0001730
+2284	http://purl.obolibrary.org/obo/CHMO_0002585	refractive-index detector	refractive-index detector	0.868	chmo	refractive index detection	http://purl.obolibrary.org/obo/CHMO_0001730
+2289	http://purl.obolibrary.org/obo/CHMO_0000591	NMR spectrometry	NMR spectrometry	0.957	chmo	pulsed nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000613
+2295	http://purl.obolibrary.org/obo/CHMO_0000591	nuclear magnetic resonance spectrometry	nuclear magnetic resonance spectrometry	0.967	chmo	pulsed nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000613
+2296	http://purl.obolibrary.org/obo/CHMO_0000591	nuclear magnetic resonance spectrometry	nuclear magnetic resonance spectrometry assessment	0.855	chmo	pulsed nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000613
+2299	http://purl.obolibrary.org/obo/CHMO_0000591	NMR	NMR	0.999	chmo	pulsed nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000613
+2347	http://purl.obolibrary.org/obo/CHMO_0000243	F-AAS	F-AAS	0.839	chmo	atomic absorption spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000234
+2424	http://purl.obolibrary.org/obo/CHMO_0000954	AFM	AFM	1	chmo	atomic force microscopy	http://purl.obolibrary.org/obo/CHMO_0000113
+2436	http://purl.obolibrary.org/obo/CHMO_0001126	LSCM	LSCM	0.992	chmo	confocal laser scanning microscopy	http://purl.obolibrary.org/obo/CHMO_0000089
+2504	http://purl.obolibrary.org/obo/CHMO_0000575	MS2	MS2 detection	0.823	chmo	mass detection	http://purl.obolibrary.org/obo/CHMO_0002174
+2580	http://purl.obolibrary.org/obo/CHMO_0002636	superconducting quantum interference magnetometer	superconducting quantum interference magnetometer diagnostic	0.732	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+2581	http://purl.obolibrary.org/obo/CHMO_0002636	superconducting quantum interference magnetometer	superconducting quantum interference magnetometer	0.803	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+2582	http://purl.obolibrary.org/obo/CHMO_0002636	superconducting quantum interference magnetometer	superconducting quantum interference magnetometer testing	0.752	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+2586	http://purl.obolibrary.org/obo/CHMO_0002636	superconducting quantum interference device magnetometer	superconducting quantum interference device magnetometer	0.903	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+2588	http://purl.obolibrary.org/obo/CHMO_0002636	superconducting quantum interference device magnetometer	superconducting quantum interference device magnetometer process	0.851	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+2589	http://purl.obolibrary.org/obo/CHMO_0002636	superconducting quantum interference device (SQUID) magnetometer	superconducting quantum interference device (SQUID) magnetometer system	0.825	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+2590	http://purl.obolibrary.org/obo/CHMO_0002636	superconducting quantum interference device (SQUID) magnetometer	superconducting quantum interference device (SQUID) magnetometer	0.865	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+2591	http://purl.obolibrary.org/obo/CHMO_0002636	superconducting quantum interference device (SQUID) magnetometer	superconducting quantum interference device (SQUID) magnetometer sampling	0.81	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+2592	http://purl.obolibrary.org/obo/CHMO_0002636	SQUID magnetometer	SQUID magnetometer approach	0.689	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+2593	http://purl.obolibrary.org/obo/CHMO_0002636	SQUID magnetometer	SQUID magnetometer sampling	0.689	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+2594	http://purl.obolibrary.org/obo/CHMO_0002636	SQUID magnetometer	SQUID magnetometer	0.835	chmo	superconducting quantum interference device magnetometry	http://purl.obolibrary.org/obo/CHMO_0000926
+2612	http://purl.obolibrary.org/obo/CHMO_0001077	QCM	QCM	0.632	chmo	electrochemical quartz crystal microgravimetry	http://purl.obolibrary.org/obo/CHMO_0001799
+2667	http://purl.obolibrary.org/obo/CHMO_0000941	SEM	SEM	0.991	chmo	scanning electron microscopy	http://purl.obolibrary.org/obo/CHMO_0000073
+2698	http://purl.obolibrary.org/obo/CHMO_0000239	GF-AAS	GF-AAS	0.751	chmo	atomic absorption spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000234
+2871	http://purl.obolibrary.org/obo/CHMO_0001234	spectroscope	spectroscope sampling	0.629	chmo	spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000228
+2872	http://purl.obolibrary.org/obo/CHMO_0001234	spectroscope	spectroscope process	0.646	chmo	spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000228
+2873	http://purl.obolibrary.org/obo/CHMO_0001234	spectroscope	spectroscope approach	0.629	chmo	spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000228
+2979	http://purl.obolibrary.org/obo/CHEBI_28262	Dimethylsulfoxid	Dimethylsulfoxid method	0.547	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+2980	http://purl.obolibrary.org/obo/CHEBI_28262	Dimethylsulfoxid	Dimethylsulfoxid	0.628	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+2981	http://purl.obolibrary.org/obo/CHEBI_28262	Dimethylsulfoxid	Dimethylsulfoxid study	0.548	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+2982	http://purl.obolibrary.org/obo/CHEBI_28262	dimethyl sulfur oxide	dimethyl sulfur oxide sampling	0.636	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+2988	http://purl.obolibrary.org/obo/CHEBI_28262	dimethylsulfoxyde	dimethylsulfoxyde	0.558	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+2994	http://purl.obolibrary.org/obo/CHEBI_28262	dimetil sulfoxido	dimetil sulfoxido	0.507	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+3007	http://purl.obolibrary.org/obo/CHEBI_28262	dimethyli sulfoxidum	dimethyli sulfoxidum	0.607	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+3009	http://purl.obolibrary.org/obo/CHEBI_28262	dimethyl sulphoxide	dimethyl sulphoxide	0.587	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+3010	http://purl.obolibrary.org/obo/CHEBI_28262	dimethyl sulphoxide	dimethyl sulphoxide review	0.508	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+3012	http://purl.obolibrary.org/obo/CHEBI_28262	DIMETHYL SULFOXIDE	DIMETHYL SULFOXIDE	0.767	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+3014	http://purl.obolibrary.org/obo/CHEBI_28262	DIMETHYL SULFOXIDE	DIMETHYL SULFOXIDE tests	0.674	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+3018	http://purl.obolibrary.org/obo/CHEBI_28262	Dimethyl sulfoxide	Dimethyl sulfoxide	0.767	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899
+3019	http://purl.obolibrary.org/obo/CHEBI_28262	Dimethyl sulfoxide	Dimethyl sulfoxide testing	0.645	chmo	polarimetry of sample dissolved in dimethyl sulfoxide	http://purl.obolibrary.org/obo/CHMO_0002899

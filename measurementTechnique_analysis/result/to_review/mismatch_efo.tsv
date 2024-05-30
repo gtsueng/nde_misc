@@ -1,0 +1,19 @@
+	Class ID	Original term	Term	T2T best score	Ontology	found_term	TermID
+619	http://purl.obolibrary.org/obo/MMO_0000659	RNA-seq assay	RNA-seq assay	0.852	efo	RNA assay	http://www.ebi.ac.uk/efo/EFO_0001457
+631	http://purl.obolibrary.org/obo/OBI_0001271	RNA-seq assay	RNA-seq assay	0.852	efo	RNA assay	http://www.ebi.ac.uk/efo/EFO_0001457
+1332	http://purl.obolibrary.org/obo/CHMO_0001531	laser capture micro-dissection	laser capture micro-dissection method	0.8	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+1333	http://purl.obolibrary.org/obo/CHMO_0001531	laser capture micro-dissection	laser capture micro-dissection surveillance	0.736	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+1334	http://purl.obolibrary.org/obo/CHMO_0001531	laser capture micro-dissection	laser capture micro-dissection study	0.812	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+1389	http://purl.obolibrary.org/obo/CHMO_0002017	density-gradient centrifugation	density-gradient centrifugation analysis	0.863	efo	density gradient centrifugation	http://www.ebi.ac.uk/efo/EFO_0009112
+1390	http://purl.obolibrary.org/obo/CHMO_0002017	density-gradient centrifugation	density-gradient centrifugation	0.968	efo	density gradient centrifugation	http://www.ebi.ac.uk/efo/EFO_0009112
+1532	http://purl.obolibrary.org/obo/MMO_0000669	protein immunoblot assay	protein immunoblot assay process	0.673	efo	protein assay	http://www.ebi.ac.uk/efo/EFO_0001458
+2100	http://purl.obolibrary.org/obo/MMO_0000680	ChIP-on-chip	ChIP-on-chip	0.999	efo	ChIP	http://www.ebi.ac.uk/efo/EFO_0004176
+2101	http://purl.obolibrary.org/obo/MMO_0000680	ChIP-on-chip	ChIP-on-chip approach	0.816	efo	ChIP	http://www.ebi.ac.uk/efo/EFO_0004176
+2103	http://purl.obolibrary.org/obo/MMO_0000680	ChIP-chip	ChIP-chip process	0.834	efo	ChIP	http://www.ebi.ac.uk/efo/EFO_0004176
+2104	http://purl.obolibrary.org/obo/MMO_0000680	ChIP-chip	ChIP-chip	0.999	efo	ChIP	http://www.ebi.ac.uk/efo/EFO_0004176
+2105	http://purl.obolibrary.org/obo/MMO_0000680	ChIP-chip	ChIP-chip system	0.852	efo	ChIP	http://www.ebi.ac.uk/efo/EFO_0004176
+2799	http://purl.obolibrary.org/obo/CHMO_0001531	laser-capture micro-dissection	laser-capture micro-dissection	0.884	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+2802	http://purl.obolibrary.org/obo/CHMO_0001531	laser-capture microdissection	laser-capture microdissection study	0.899	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+2803	http://purl.obolibrary.org/obo/CHMO_0001531	laser-capture microdissection	laser-capture microdissection diagnostic	0.836	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+2804	http://purl.obolibrary.org/obo/CHMO_0001531	laser-capture microdissection	laser-capture microdissection	0.979	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
+2810	http://purl.obolibrary.org/obo/CHMO_0001531	LCM	LCM	1.0	efo	laser capture microdissection	http://www.ebi.ac.uk/efo/EFO_0009111
