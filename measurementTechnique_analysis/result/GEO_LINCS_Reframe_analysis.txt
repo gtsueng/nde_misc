@@ -1,0 +1,10 @@
+Total number of records evaluated	171
+Total number of unique records & measurementTechnique combos evaluated	215
+Number of records with a good match	108
+Number of records with an ok match (slightly more broad or specific)	84
+Number of records with ok or better match	146
+Number of records where GPT did not identify at least one matching measurementTechnique	25
+Ratio total found	0.8538011695906432
+good match ratio	0.631578947368421
+ok match ratio	0.49122807017543857
+unmatched ration	0.14619883040935672

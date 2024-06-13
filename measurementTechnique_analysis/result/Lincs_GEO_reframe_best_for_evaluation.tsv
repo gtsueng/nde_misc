@@ -1,0 +1,172 @@
+	_id	clean_pred	measurementTechnique	jsim
+319	reframedb_a00230	Cell-based assay	cell-based assay	1.0
+753	reframedb_a00212	High-content imaging	high-content imaging	1.0
+394	reframedb_a00394	Photometric measurement	photometric measurement	1.0
+342	reframedb_a00213	High-content imaging detection	high-content imaging	0.6666666666666666
+1068	reframedb_a00190	High content	high content imaging	0.6666666666666666
+782	reframedb_a00529	High-content imaging	cell-based high-content imaging	0.6666666666666666
+366	reframedb_a00171	Cell viability measurement	cell viability	0.6666666666666666
+535	reframedb_a00209	High-content imaging analysis	high-content imaging	0.6666666666666666
+263	reframedb_a00167	Cell viability measurement	cell viability	0.6666666666666666
+430	reframedb_a00541	Cell viability assay	viability assay	0.6666666666666666
+1197	reframedb_a00511	Cell viability assay	cell based assay measuring cell viability	0.6
+554	reframedb_a00457	Biochemical assay	biochemical	0.5
+681	reframedb_a00254	Phenotypic screening	phenotypic	0.5
+1089	reframedb_a00203	Cell based phenotypic screening	cell based	0.5
+499	reframedb_a00200	Viability assay	viability	0.5
+228	reframedb_a00350	Cell-based assay	cell-based	0.5
+476	reframedb_a00095	Viability assay	viability	0.5
+547	reframedb_a00482	Biochemical assay	biochemical	0.5
+815	reframedb_a00666	GFP fluorescence	fluorescence	0.5
+946	gse1	Gene expression profiling	Expression profiling by array	0.4
+1003	gse10001	Gene expression profiling	Expression profiling by array	0.4
+82	gse225776	Gene expression profiling	Expression profiling by array	0.4
+568	reframedb_a00191	High content microscopy assay	high content imaging	0.4
+869	lds-1023	KINOMEscan assay	KINOMEscan kinase-small molecule binding assay	0.4
+135	gse94302	Gene expression profiling	Expression profiling by array	0.4
+836	lds-1013	KinomeScan assay	KINOMEscan kinase-small molecule binding assay	0.4
+892	lds-1074	KiNativ assay	KiNativ kinase-small molecule binding assay	0.4
+990	gse100006	Gene expression profiling	Expression profiling by array	0.4
+441	reframedb_a00507	Cell culture	cell based	0.3333333333333333
+860	lds-1077	KiNativ assay platform	KiNativ kinase-small molecule binding assay	0.3333333333333333
+631	reframedb_a00197	Cell fixation	cell based	0.3333333333333333
+266	reframedb_a00398	Cell staining	cell based	0.3333333333333333
+858	lds-1028	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+1172	reframedb_a00489	Cell seeding	cell based	0.3333333333333333
+856	lds-1009	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+1122	reframedb_a00436	Cell culture	cell based	0.3333333333333333
+1159	reframedb_a00545	Cell culture	cell based	0.3333333333333333
+1146	reframedb_a00505	Cell plating	cell based	0.3333333333333333
+595	reframedb_a00225	Cell seeding	cell based	0.3333333333333333
+722	reframedb_a00487	Cell culture	cell based	0.3333333333333333
+303	reframedb_a00252	Cell tracking	cell based	0.3333333333333333
+839	lds-1025	KINOMEscan assay platform	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+611	reframedb_a00240	Cell culture	cell based	0.3333333333333333
+845	lds-1006	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+848	lds-1012	KINOMEscan assay platform	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+851	lds-1018	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+853	lds-1017	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+939	lds-1011	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+875	lds-1032	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+877	lds-1026	KINOMEscan assay platform	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+426	reframedb_a00462	Cell culture	cell based	0.3333333333333333
+221	reframedb_a00520	Bioluminescence-based biochemical assay	biochemical	0.3333333333333333
+920	lds-1027	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+883	lds-1075	KiNativ assay platform	KiNativ kinase-small molecule binding assay	0.3333333333333333
+912	lds-1073	KiNativ assay platform	KiNativ kinase-small molecule binding assay	0.3333333333333333
+660	reframedb_a00383	High-throughput phenotypic screen	phenotypic	0.3333333333333333
+1060	reframedb_a00360	Cell culture	cell based	0.3333333333333333
+902	lds-1076	KiNativ assay platform	KiNativ kinase-small molecule binding assay	0.3333333333333333
+409	reframedb_a00496	Cell lysis	cell based	0.3333333333333333
+397	reframedb_a00338	Cell culture	cell based	0.3333333333333333
+543	reframedb_a00198	Cell seeding	cell based	0.3333333333333333
+924	lds-1022	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+922	lds-1015	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+927	lds-1020	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+1109	reframedb_a00334	Phenotypic luminescence screening	phenotypic	0.3333333333333333
+1179	reframedb_a00461	Cell transfection	cell based	0.3333333333333333
+929	lds-1029	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+1190	reframedb_a00509	Cell seeding	cell based	0.3333333333333333
+931	lds-1014	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+934	lds-1030	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+873	lds-1007	Competition binding assay	KINOMEscan kinase-small molecule binding assay	0.3333333333333333
+1186	reframedb_a00508	Cell culture	cell based	0.3333333333333333
+1053	gse100019	SNP array analysis	Genome variation profiling by SNP array	0.2857142857142857
+972	gse100001	mRNA expression profiling	Expression profiling by high throughput sequencing	0.2857142857142857
+26	gse141878	Whole-genome methylation profiling	Methylation profiling by high throughput sequencing	0.2857142857142857
+828	reframedb_a00516	High Content Image Analysis	high content imaging phenotypic assay	0.2857142857142857
+562	reframedb_a00413	Cytotoxicity assay	cell based assay	0.25
+733	reframedb_a00411	Screening assay	enzyme-based fluorometric assay	0.25
+656	reframedb_a00443	Fluorimeter assay	enzyme-based fluorometric assay	0.25
+329	reframedb_a00357	Live cell imaging	cell based	0.25
+1170	reframedb_a00486	Cell viability assay	cell based	0.25
+125	gse225785	comparative gene expression profiling analysis	Expression profiling by high throughput sequencing	0.2222222222222222
+1016	gse100011	Whole genome bisulfite sequencing (WGBS)	Genome binding/occupancy profiling by high throughput sequencing	0.2
+1204	reframedb_a00466	Cell-based assay	cell based phenotypic assay	0.2
+416	reframedb_a00442	Mammosphere formation assay	formation of mammospheres)	0.2
+956	gse10000	Microarray profiling	Expression profiling by array	0.2
+191	gse57172	Transcript profiling	Expression profiling by array	0.2
+1212	reframedb_a00485	High-content imaging assay	cell based phenotypic assay	0.16666666666666666
+1099	reframedb_a00414	hiPSC-derived neuronal progenitor cell culture	cell based	0.16666666666666666
+1132	reframedb_a00544	High-throughput FRET-based screen	biochemical high throughput screen	0.16666666666666666
+1035	gse100016	Sequencing	Expression profiling by high throughput sequencing	0.16666666666666666
+997	gse100007	Ribosome profiling	Expression profiling by high throughput sequencing	0.14285714285714285
+1223	reframedb_a00478	Cell transfection	cell based virus entry inhibitor assay	0.14285714285714285
+176	gse149413	Transcriptome profiling	Expression profiling by high throughput sequencing	0.14285714285714285
+197	gse185198	RNA sequencing	Expression profiling by high throughput sequencing	0.14285714285714285
+88	gse39113	mRNA profiling	Expression profiling by high throughput sequencing	0.14285714285714285
+208	gse193158	Illumina sequencing	Expression profiling by high throughput sequencing	0.14285714285714285
+1038	gse100017	miRNA expression profiling	Non-coding RNA profiling by array	0.14285714285714285
+57	gse168192	Transcriptional profiling	Expression profiling by high throughput sequencing	0.14285714285714285
+150	gse153099	Gene profiling	Expression profiling by high throughput sequencing	0.14285714285714285
+42	gse55382	Sequencing	Genome binding/occupancy profiling by high throughput sequencing	0.14285714285714285
+1021	gse100013	mRNA sequencing	Expression profiling by high throughput sequencing	0.14285714285714285
+51	gse77962	Whole-genome gene expression analysis	Expression profiling by array	0.14285714285714285
+1008	gse100010	Deep sequencing	Expression profiling by high throughput sequencing	0.14285714285714285
+218	gse125941	RNA sequencing	Expression profiling by high throughput sequencing	0.14285714285714285
+273	reframedb_a00343	Fluorescent DNA or cell membrane binding dyes	cell based	0.125
+185	gse145161	gene expression analysis	Expression profiling by high throughput sequencing	0.125
+190	gse97389	RNA sequencing (RNAseq)	Expression profiling by high throughput sequencing	0.125
+157	gse86031	Population RNA profiling	Expression profiling by high throughput sequencing	0.125
+40	gse41538	RNA collection	Non-coding RNA profiling by high throughput sequencing	0.125
+164	gse118402	RNA sequencing (RNA-seq)	Expression profiling by high throughput sequencing	0.125
+74	gse159211	Single-cell RNA sequencing	Expression profiling by high throughput sequencing	0.125
+156	gse968	Apoptosis targeted gene array analysis	Expression profiling by array	0.125
+142	gse33163	Multiparallel sequencing	Genome binding/occupancy profiling by high throughput sequencing	0.125
+948	gse10	Serial analysis of gene expression (SAGE)	Expression profiling by SAGE	0.1111111111111111
+18	gse51484	Affymetrix Human Genome U133A 2.0 array	Expression profiling by array	0.1111111111111111
+29	gse160787	Single cell RNA sequencing	Expression profiling by high throughput sequencing	0.1111111111111111
+85	gse105736	Chromatin immunoprecipitation sequencing (ChIP-seq)	Genome binding/occupancy profiling by high throughput sequencing	0.1
+101	gse154493	Chromatin immunoprecipitation sequencing (ChIP-seq)	Genome binding/occupancy profiling by high throughput sequencing	0.1
+217	gse56068	Illumina Infinium 450k Human Methylation Beadchip	Methylation profiling by genome tiling array	0.09090909090909091
+1	gse57323	miRNA profiling using TaqMan® Array Human microRNA Cards v3.0	Expression profiling by RT-PCR	0.08333333333333333
+708	reframedb_a00156	Antimalarial drug testing	phenotypic	0.0
+716	reframedb_a00309	Video motion capture	phenotypic	0.0
+724	reframedb_a00227	Growth inhibition assay	cell based	0.0
+795	reframedb_a00546	50% tissue culture infective dose (TCID50) assay	phenotypic	0.0
+748	reframedb_a00385	Dose response assay	phenotypic	0.0
+954	gse1000	Control experiments	Expression profiling by array	0.0
+1104	reframedb_a00417	High-throughput screening (HTS)	cell-based	0.0
+1138	reframedb_a00465	Luminescence-based assay	cell based	0.0
+1125	reframedb_a00463	Protease inhibitor assay	not known	0.0
+1127	reframedb_a00460	Inhibition of COVID-19 replication in cells	not known	0.0
+1129	reframedb_a00464	Replicon assay	not known	0.0
+1059	reframedb_a00172	Plate-based detection	cell-based	0.0
+949	gse100	RNA immunoprecipitation (RNA IP)	Expression profiling by array	0.0
+977	gse100002	BacTRAP analysis	Other	0.0
+964	gse100000	Fosl1 overexpression	Expression profiling by high throughput sequencing	0.0
+978	gse100003	Extracellular flux measurements	Expression profiling by array	0.0
+1025	gse100014	FACS sorting	Expression profiling by array	0.0
+1028	gse100015	Microarray analysis	Expression profiling by array	0.0
+1048	gse100018	CLIP-seq	Other	0.0
+1020	gse100012	RNA extraction	Expression profiling by array	0.0
+981	gse100004	bacTRAP	Other	0.0
+986	gse100005	Immunohistochemistry	Other	0.0
+999	gse100009	ChIP-seq	Expression profiling by high throughput sequencing	0.0
+196	gse151330	mRNA-sequencing	Expression profiling by high throughput sequencing	0.0
+331	reframedb_a00386	Growth inhibition assay	phenotypic	0.0
+64	gse45593	Microarray analysis	Expression profiling by array	0.0
+46	gse202238	Transcriptomic analysis	Expression profiling by high throughput sequencing	0.0
+50	gse212104	Promoter capture HiC (High-throughput chromosome conformation capture)	Other	0.0
+65	gse170953	DNase-seq	Genome binding/occupancy profiling by high throughput sequencing	0.0
+66	gse89744	Mutant FoxP3 allele analysis	Expression profiling by array	0.0
+78	gse96578	RNA-Seq analysis	Expression profiling by high throughput sequencing	0.0
+79	gse99566	ATAC-Seq (Assay for Transposase-Accessible Chromatin using sequencing)	Genome binding/occupancy profiling by high throughput sequencing	0.0
+9	gse53862	RNA-seq	Expression profiling by high throughput sequencing	0.0
+8	gse88224	shRNA knockdown	Expression profiling by high throughput sequencing	0.0
+6	gse108631	RNA-Seq	Genome binding/occupancy profiling by high throughput sequencing	0.0
+86	gse173004	DNase-seq	Genome binding/occupancy profiling by high throughput sequencing	0.0
+140	gse157461	RNA purification	Expression profiling by high throughput sequencing	0.0
+133	gse51802	Microarray analysis	Genome binding/occupancy profiling by genome tiling array	0.0
+89	gse83003	ChIP-seq	Genome binding/occupancy profiling by high throughput sequencing	0.0
+143	gse92160	eCLIP	Other	0.0
+144	gse91709	ChIP-seq	Genome binding/occupancy profiling by high throughput sequencing	0.0
+123	gse98006	Xenograft models	Genome binding/occupancy profiling by high throughput sequencing	0.0
+105	gse162842	ChIP-seq	Genome binding/occupancy profiling by high throughput sequencing	0.0
+90	gse119163	ChIP-seq	Genome binding/occupancy profiling by high throughput sequencing	0.0
+95	gse132843	Flow cytometry	Expression profiling by array	0.0
+109	gse81972	Fixation with paraformaldehyde	Expression profiling by high throughput sequencing	0.0
+604	reframedb_a00647	bead coupling	ligand binding	0.0
+382	reframedb_a00642	Fluorescence measurement	ligand binding	0.0
+481	reframedb_a00272	Microscopy imaging	cell based	0.0
+492	reframedb_a00640	Microsphere-based screen	biochemical	0.0
