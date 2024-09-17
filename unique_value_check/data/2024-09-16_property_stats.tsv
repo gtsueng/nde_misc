@@ -1,0 +1,7 @@
+	property	API	total_records	unique_vals
+0	infectiousAgent	staging	223000	43412
+1	infectiousAgent	prod	441459	43091
+2	species	staging	1092131	35676
+3	species	prod	1084261	35206
+4	healthCondition	staging	990312	8666
+5	healthCondition	prod	983602	8653
