@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6344584",
+    "_score": 23.59891,
+    "author": [
+        {
+            "identifier": "0000-0002-8823-0016",
+            "name": "Badulescu"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-03-11",
+    "dateModified": "2022-03-11",
+    "datePublished": "2022-03-10T00:00:00",
+    "description": "Social Media data and sales for promotional product from 2017-2019",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6344585/files-archive",
+            "dateModified": "2022-03-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.6344584",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100001711",
+                "name": "Swiss National Science Foundation"
+            },
+            "identifier": "100018_176349",
+            "name": "Inventory management of short life cycle products with demand forecasts using Big data and judgmental information"
+        }
+    ],
+    "identifier": "zenodo.6344584",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Social Media data and sales for promotional product",
+    "sameAs": [
+        "https://zenodo.org/records/6344585"
+    ],
+    "url": "https://zenodo.org/record/6344584"
+}

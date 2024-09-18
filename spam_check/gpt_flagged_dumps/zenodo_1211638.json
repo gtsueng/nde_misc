@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1211638",
+    "_score": 25.751087,
+    "author": [
+        {
+            "name": "barkha bansal"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-04-03T00:00:00",
+    "description": "https://www.kaggle.com/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1211639/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1211638",
+    "identifier": "zenodo.1211638",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "amazon mobile reviews",
+    "sameAs": [
+        "https://zenodo.org/records/1211639"
+    ],
+    "url": "https://zenodo.org/record/1211638"
+}

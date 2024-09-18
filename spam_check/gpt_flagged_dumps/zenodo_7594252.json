@@ -1,0 +1,43 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7594252",
+    "_score": 25.486233,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Istituto Auxologico Italiano, IRCCS"
+            },
+            "name": "Luigi Badano"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-02-02",
+    "dateModified": "2023-02-02",
+    "datePublished": "2023-02-01T00:00:00",
+    "description": "Added Echo Value dataset",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7594253/files-archive",
+            "dateModified": "2023-02-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.7594252",
+    "identifier": "zenodo.7594252",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "ADDED Echo Value",
+    "sameAs": [
+        "https://zenodo.org/records/7594253"
+    ],
+    "url": "https://zenodo.org/record/7594252"
+}

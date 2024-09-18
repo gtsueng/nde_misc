@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6631777",
+    "_score": 22.227608,
+    "author": [
+        {
+            "affiliation": {
+                "name": "EPHE"
+            },
+            "name": "Hablot, Laurent"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-03-28",
+    "dateModified": "2024-03-28",
+    "datePublished": "2022-06-10T00:00:00",
+    "description": "Voir le site web Armma.\n\n\u00a0\n\nCe travail a b\u00e9n\u00e9fici\u00e9 d'une aide de l'Etat g\u00e9r\u00e9e par l'Agence Nationale de la Recherche au titre du Programme d'Investissements d'Avenir portant la r\u00e9f\u00e9rence ANR-21-ESRE-0005 (\u00c9quipEx Biblissima+)",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6631778/files-archive",
+            "dateModified": "2024-03-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.6631777",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100001665",
+                "name": "Agence Nationale de la Recherche"
+            },
+            "identifier": "ANR-21-ESRE-0005",
+            "name": "Biblissima+, Observatoire des cultures \u00e9crites anciennes, de l\u2019argile \u00e0 l\u2019imprim\u00e9"
+        }
+    ],
+    "identifier": "zenodo.6631777",
+    "inLanguage": {
+        "name": "fra"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "histoire m\u00e9di\u00e9vale",
+        "medieval history",
+        "armoiries",
+        "coat of arms",
+        "h\u00e9raldique",
+        "heraldry"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "ArmmA (ARmorial Monumental du Moyen-Age)",
+    "sameAs": [
+        "https://zenodo.org/records/6631778"
+    ],
+    "sdPublisher": [
+        {
+            "name": "cosme2",
+            "url": "https://zenodo.org/communities/cosme2"
+        }
+    ],
+    "url": "https://zenodo.org/record/6631777"
+}

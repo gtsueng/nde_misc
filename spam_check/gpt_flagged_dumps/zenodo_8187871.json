@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8187871",
+    "_score": 24.907202,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Simon Kuznets Kharkiv National University of Economics"
+            },
+            "identifier": "0000-0002-8710-275X",
+            "name": "Serhii Kanyhin"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-07-27",
+    "dateModified": "2023-07-27",
+    "datePublished": "2023-07-27T00:00:00",
+    "description": "Binance cryptocurrencies historical daily data",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8187872/files-archive",
+            "dateModified": "2023-07-27"
+        }
+    ],
+    "doi": "10.5281/zenodo.8187871",
+    "identifier": "zenodo.8187871",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "binance",
+        "cryptocurrencies"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Binance cryptocurrencies historical daily data",
+    "sameAs": [
+        "https://zenodo.org/records/8187872"
+    ],
+    "url": "https://zenodo.org/record/8187871"
+}

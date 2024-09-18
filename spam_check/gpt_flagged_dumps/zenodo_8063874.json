@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8063874",
+    "_score": 24.9654,
+    "author": [
+        {
+            "affiliation": {
+                "name": "DKFZ"
+            },
+            "name": "Kirchhoff, Yannick"
+        },
+        {
+            "affiliation": {
+                "name": "DKFZ"
+            },
+            "name": "Hamm, Benjamin"
+        },
+        {
+            "affiliation": {
+                "name": "DKFZ"
+            },
+            "name": "Rokuss, Maximilian"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-06-25",
+    "dateModified": "2023-06-25",
+    "datePublished": "2023-06-21T00:00:00",
+    "description": "Checkpoint files for our very efficient cell segmentation algorithm",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8063875/files-archive",
+            "dateModified": "2023-06-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.8063874",
+    "identifier": "zenodo.8063874",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Efficient Cell Segmenter",
+    "sameAs": [
+        "https://zenodo.org/records/8063875"
+    ],
+    "url": "https://zenodo.org/record/8063874"
+}

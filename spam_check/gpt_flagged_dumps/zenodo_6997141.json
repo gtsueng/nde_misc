@@ -1,0 +1,43 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6997141",
+    "_score": 25.68746,
+    "author": [
+        {
+            "name": "Ilian H\u00e4ggmark"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-09-01",
+    "dateModified": "2022-09-01",
+    "datePublished": "2022-08-26T00:00:00",
+    "description": "see https://doi.org/10.5281/zenodo.7030750",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6997142/files-archive",
+            "dateModified": "2022-09-01"
+        }
+    ],
+    "doi": "10.5281/zenodo.6997141",
+    "identifier": "zenodo.6997141",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "phase-contrast chest radiographs",
+    "sameAs": [
+        "https://zenodo.org/records/6997142"
+    ],
+    "url": "https://zenodo.org/record/6997141"
+}

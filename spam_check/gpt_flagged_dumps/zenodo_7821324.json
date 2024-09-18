@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7821324",
+    "_score": 25.420303,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Universitas Syiah Kuala"
+            },
+            "name": "Santi Chismirina"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-12",
+    "dateModified": "2024-07-12",
+    "datePublished": "2023-04-12T00:00:00",
+    "description": "Arrive E10 Santi Chismirina",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7821325/files-archive",
+            "dateModified": "2024-07-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.7821324",
+    "identifier": "zenodo.7821324",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "ARRIVE E10 - santi Chismirina",
+    "sameAs": [
+        "https://zenodo.org/records/7821325"
+    ],
+    "url": "https://zenodo.org/record/7821324"
+}

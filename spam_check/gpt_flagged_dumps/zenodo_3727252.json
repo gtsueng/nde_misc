@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3727252",
+    "_score": 24.839321,
+    "author": [
+        {
+            "name": "Anon"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-03-26",
+    "dateModified": "2020-03-26",
+    "datePublished": "2020-03-25T00:00:00",
+    "description": "IO Islamic 2371. Important Collection of Official Letters",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3727253/files-archive",
+            "dateModified": "2020-03-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.3727252",
+    "identifier": "zenodo.3727252",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "IO Islamic 2371",
+        "2371",
+        "India Office"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "IO Islamic 2371. Important Collection of Official Letters",
+    "sameAs": [
+        "https://zenodo.org/records/3727253"
+    ],
+    "url": "https://zenodo.org/record/3727252"
+}

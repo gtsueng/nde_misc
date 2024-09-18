@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8320419",
+    "_score": 26.096188,
+    "author": [
+        {
+            "name": "Guofeng Han"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-09-06",
+    "dateModified": "2023-09-06",
+    "datePublished": "2023-09-06T00:00:00",
+    "description": "V2.4-Abaqus2022+IntelFortran2021-128X128X128-element-C3D8-SVDinversion=0-success",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8320420/files-archive",
+            "dateModified": "2023-09-06"
+        }
+    ],
+    "doi": "10.5281/zenodo.8320419",
+    "identifier": "zenodo.8320419",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "V2.4-Abaqus2022+IntelFortran2021-128X128X128-element-C3D8-SVDinversion=0-success",
+    "sameAs": [
+        "https://zenodo.org/records/8320420"
+    ],
+    "url": "https://zenodo.org/record/8320419"
+}

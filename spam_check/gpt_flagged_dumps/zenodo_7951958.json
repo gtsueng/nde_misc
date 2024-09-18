@@ -1,0 +1,42 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7951958",
+    "_score": 25.890635,
+    "author": [
+        {
+            "identifier": "0000-0002-1502-1731",
+            "name": "Japneet Kaiser"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-05-20",
+    "dateModified": "2023-05-20",
+    "datePublished": "2023-05-20T00:00:00",
+    "description": "Master Chart",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7951959/files-archive",
+            "dateModified": "2023-05-20"
+        }
+    ],
+    "doi": "10.5281/zenodo.7951958",
+    "identifier": "zenodo.7951958",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Master Chartt",
+    "sameAs": [
+        "https://zenodo.org/records/7951959"
+    ],
+    "url": "https://zenodo.org/record/7951958"
+}

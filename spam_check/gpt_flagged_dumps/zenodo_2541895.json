@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2541895",
+    "_score": 24.802668,
+    "author": [
+        {
+            "name": "Gerardo de Miguel"
+        },
+        {
+            "name": "Manuel Zamudio"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2019-01-16T00:00:00",
+    "description": "PML M\u00e9rida Potencia",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2541896/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.2541895",
+    "identifier": "zenodo.2541895",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "PML Potencia Merida",
+    "sameAs": [
+        "https://zenodo.org/records/2541896"
+    ],
+    "url": "https://zenodo.org/record/2541895"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6521801",
+    "_score": 25.686193,
+    "author": [
+        {
+            "affiliation": {
+                "name": "LAY2FORM"
+            },
+            "name": "Consortium partners"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-05-06",
+    "dateModified": "2022-05-06",
+    "datePublished": "2022-05-05T00:00:00",
+    "description": "LAY2FORM compilation of datasets",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6521802/files-archive",
+            "dateModified": "2022-05-06"
+        }
+    ],
+    "doi": "10.5281/zenodo.6521801",
+    "identifier": "zenodo.6521801",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "LAY2FORM Datasets",
+    "sameAs": [
+        "https://zenodo.org/records/6521802"
+    ],
+    "sdPublisher": [
+        {
+            "name": "lay2form",
+            "url": "https://zenodo.org/communities/lay2form"
+        }
+    ],
+    "url": "https://zenodo.org/record/6521801"
+}

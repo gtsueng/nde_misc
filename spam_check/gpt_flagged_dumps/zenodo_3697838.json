@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3697838",
+    "_score": 22.836363,
+    "author": [
+        {
+            "name": "Anthony of Boston (Anthony Moore)"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-22",
+    "dateModified": "2024-07-22",
+    "datePublished": "2020-03-05T00:00:00",
+    "description": "This is the historical daily percentage price changes in the S&P 500 from 1928 to the present with the daily percentage changes already calculated for you.\n\n\nhttp://www.thedowcast.com/s-p-500-historical-prices--1928---present-.html",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3697839/files-archive",
+            "dateModified": "2024-07-22"
+        }
+    ],
+    "doi": "10.5281/zenodo.3697838",
+    "identifier": "zenodo.3697838",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "S&P 500",
+        "percent change",
+        "S&P 500 daily historical prices",
+        "Dow Jones",
+        "stock market data"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "S&P 500 Historical Daily Percentage Changes from 1928 to the present",
+    "sameAs": [
+        "https://zenodo.org/records/3697839"
+    ],
+    "url": "https://zenodo.org/record/3697838"
+}

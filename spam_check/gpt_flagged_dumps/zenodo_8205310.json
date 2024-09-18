@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8205310",
+    "_score": 25.619175,
+    "author": [
+        {
+            "affiliation": {
+                "name": "ETH Zurich"
+            },
+            "name": "Wang,Hanyu"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-08-03",
+    "dateModified": "2023-08-03",
+    "datePublished": "2023-08-01T00:00:00",
+    "description": "https://github.com/Nozidoali/MapBuf",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8205311/files-archive",
+            "dateModified": "2023-08-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.8205310",
+    "identifier": "zenodo.8205310",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "MapBuf Benchmarks",
+    "sameAs": [
+        "https://zenodo.org/records/8205311"
+    ],
+    "sdPublisher": [
+        {
+            "name": "ieee",
+            "url": "https://zenodo.org/communities/ieee"
+        }
+    ],
+    "url": "https://zenodo.org/record/8205310"
+}

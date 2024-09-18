@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_803375",
+    "_score": 23.40432,
+    "author": [
+        {
+            "affiliation": {
+                "name": "PNNL"
+            },
+            "name": "Brislawn, Colin"
+        },
+        {
+            "affiliation": {
+                "name": "PNNL"
+            },
+            "name": "Bernstein, Hans"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2017-06-06T00:00:00",
+    "description": "This is a 16S data set that is part of a larger project. Please visit our github repo\u00a0for more information:\u00a0\nhttps://github.com/pnnl/bernstein-2017-productivity-and-diversity-2",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/803376/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.803375",
+    "identifier": "zenodo.803375",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "16S, microbiome, productivity, diversity"
+    ],
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "name": "bernstein-2017-productivity-and-diversity-2-16S",
+    "sameAs": [
+        "https://zenodo.org/records/803376"
+    ],
+    "url": "https://zenodo.org/record/803375"
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7246266",
+    "_score": 25.161694,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UTIG/USU"
+            },
+            "name": "Shreedharan, Srisharan"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-10-25",
+    "dateModified": "2022-10-25",
+    "datePublished": "2022-10-24T00:00:00",
+    "description": "Data for Hikurangi SSE and healing paper",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7246267/files-archive",
+            "dateModified": "2022-10-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.7246266",
+    "identifier": "zenodo.7246266",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Data for Hikurangi SSE and healing paper",
+    "sameAs": [
+        "https://zenodo.org/records/7246267"
+    ],
+    "url": "https://zenodo.org/record/7246266"
+}

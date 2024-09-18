@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4985806",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 17.58893,
+    "author": [
+        {
+            "affiliation": {
+                "name": "National Museum of Natural History"
+            },
+            "name": "Burguiere, Thomas"
+        },
+        {
+            "affiliation": {
+                "name": "National Museum of Natural History"
+            },
+            "name": "Causse, Florian"
+        },
+        {
+            "affiliation": {
+                "name": "National Museum of Natural History"
+            },
+            "name": "Ung, Visotheary"
+        },
+        {
+            "affiliation": {
+                "name": "National Museum of Natural History"
+            },
+            "name": "Vignes-Lebbe, R\u00e9gine"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-19",
+    "dateModified": "2024-07-19",
+    "datePublished": "2012-08-04T00:00:00",
+    "description": "Single-access keys are a major tool for biologists who need to identify specimens. The construction process of these keys is particularly complex (especially if the input dataset is large) so having an automatic single-access key generation tool is essential. As part of the European project ViBRANT, our aim was to develop such a tool as a web service, thus allowing end-users to integrate it directly into their workflow. IKey+generates single-access keys on demand, for single users or research institutions. It receives user input data (using the standard SDD format), accepts several key-generation parameters (affecting the key topology and representation), and supports several output formats. IKey+ is freely available (sources and binary packages) at www.identificationkey.fr. Furthermore, it is deployed on our server and can be queried (for testing purposes) via a simple web client also available at www.identificationkey.fr. Finally a client plugin will be integrated to the Scratchpads biodiversity networking tool (scratchpads.eu).",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4985806/files-archive",
+            "dateModified": "2024-07-19"
+        }
+    ],
+    "doi": "10.5061/dryad.3ft19",
+    "identifier": "zenodo.4985806",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Web service",
+        "Single-access key",
+        "Biodiversity informatics"
+    ],
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Data from: IKey+: a new single-access key generation web service",
+    "sdPublisher": [
+        {
+            "name": "dryad",
+            "url": "https://zenodo.org/communities/dryad"
+        }
+    ],
+    "url": "https://zenodo.org/records/4985806"
+}

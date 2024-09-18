@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4990161",
+    "_score": 25.420303,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Antioquia"
+            },
+            "name": "Jefferson Antionio Buendia"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-06-19",
+    "dateModified": "2021-06-19",
+    "datePublished": "2021-06-18T00:00:00",
+    "description": "DB SMART , STEP 2",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4990162/files-archive",
+            "dateModified": "2021-06-19"
+        }
+    ],
+    "doi": "10.5281/zenodo.4990161",
+    "identifier": "zenodo.4990161",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "DB SMART Step 2",
+    "sameAs": [
+        "https://zenodo.org/records/4990162"
+    ],
+    "url": "https://zenodo.org/record/4990161"
+}

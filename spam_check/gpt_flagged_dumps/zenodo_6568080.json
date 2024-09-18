@@ -1,0 +1,64 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6568080",
+    "_score": 25.549824,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Anonymous"
+            },
+            "name": "Anonymous"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-07-15",
+    "dateModified": "2022-07-15",
+    "datePublished": "2022-05-20T00:00:00",
+    "description": "Data sets for anonymous submission",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6583594/files-archive",
+            "dateModified": "2022-07-15"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6568081/files-archive",
+            "dateModified": "2022-07-15"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6578160/files-archive",
+            "dateModified": "2022-07-15"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6583599/files-archive",
+            "dateModified": "2022-07-15"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6840924/files-archive",
+            "dateModified": "2022-07-16"
+        }
+    ],
+    "doi": "10.5281/zenodo.6568080",
+    "identifier": "zenodo.6568080",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Datasets and models for MINT",
+    "sameAs": [
+        "https://zenodo.org/records/6583594",
+        "https://zenodo.org/records/6568081",
+        "https://zenodo.org/records/6578160",
+        "https://zenodo.org/records/6583599",
+        "https://zenodo.org/records/6840924"
+    ],
+    "url": "https://zenodo.org/record/6568080"
+}

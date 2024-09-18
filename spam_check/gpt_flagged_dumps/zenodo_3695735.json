@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3695735",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.628551,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Institut Fran\u00e7ais de la Vigne et du Vin"
+            },
+            "identifier": "0000-0003-3670-044X",
+            "name": "Romain Fernandez"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-03-03",
+    "dateModified": "2020-03-03",
+    "datePublished": "2020-03-03T00:00:00",
+    "description": "This dataset is delivered with the Fijiyama plugin for reviewing purpose and as unit tests. However, this dataset could be useful for anyone starting processing image with Fijiyama.\n\u00a0\u00a0\u00a0 More information at the official plugin page: https://imagej.net/Fijiyama",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3695736/files-archive",
+            "dateModified": "2020-03-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.3695735",
+    "identifier": "zenodo.3695735",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Image processing",
+        "Image registration",
+        "Multimodal imaging",
+        "Time-lapse imaging",
+        "Fijiyama",
+        "Fiji"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Fijiyama_DOI",
+    "sameAs": [
+        "https://zenodo.org/records/3695736"
+    ],
+    "url": "https://zenodo.org/record/3695735"
+}

@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3962720",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.477438,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Pretoria"
+            },
+            "name": "de Jager, Deon"
+        },
+        {
+            "affiliation": {
+                "name": "University of Pretoria"
+            },
+            "name": "Swarts, Petrus"
+        },
+        {
+            "affiliation": {
+                "name": "University of Pretoria"
+            },
+            "name": "Harper, Cindy"
+        },
+        {
+            "affiliation": {
+                "name": "University of Pretoria"
+            },
+            "name": "Bloomer, Paulette"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-05-29",
+    "dateModified": "2022-05-29",
+    "datePublished": "2020-07-16T00:00:00",
+    "description": "The identification of related and unrelated individuals from molecular marker data is often difficult, particularly when no pedigree information is available and the data set is large. High levels of relatedness or inbreeding can influence genotype frequencies and thus genetic marker evaluation, as well as the accurate inference of hidden genetic structure. Identification of related and unrelated individuals is also important in breeding programmes, to inform decisions about breeding pairs and translocations. We present Friends and Family, a Windows executable program with a graphical user interface that identifies unrelated individuals from a pairwise relatedness matrix or table generated in programs such as COANCESTRY and GenAlEx. Friends and Family outputs a list of samples that are all unrelated to each other, based on a user-defined relatedness cut-off value. This unrelated data set can be used in downstream analyses, such as marker evaluation or inference of genetic structure. The results can be compared to that of the full data set to determine the effect related individuals have on the analyses. We demonstrate one of the applications of the program: how the removal of related individuals altered the Hardy-Weinberg equilibrium test outcome for microsatellite markers in an empirical data set. Friends and Family can be obtained from https://github.com/DeondeJager/Friends-and-Family.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3962720/files-archive",
+            "dateModified": "2022-05-29"
+        }
+    ],
+    "doi": "10.5061/dryad.1c2d3",
+    "identifier": "zenodo.3962720",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "translocation",
+        "relatedness",
+        "translocation",
+        "kinship",
+        "kinship",
+        "Syncerus caffer caffer",
+        "Breeding programmes",
+        "Hardy-Weinberg Equilibrium",
+        "relatedness"
+    ],
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Data from: Friends and Family: a software program for identification of unrelated individuals from molecular marker data. And from: Genetic diversity, relatedness and inbreeding of ranched and fragmented Cape buffalo populations in southern Africa",
+    "sdPublisher": [
+        {
+            "name": "dryad",
+            "url": "https://zenodo.org/communities/dryad"
+        }
+    ],
+    "url": "https://zenodo.org/records/3962720"
+}

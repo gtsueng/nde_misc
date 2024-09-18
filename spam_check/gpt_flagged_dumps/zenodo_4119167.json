@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4119167",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.15765,
+    "author": [
+        {
+            "affiliation": {
+                "name": "None"
+            },
+            "name": "Fausto De La Torre"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-10-26",
+    "dateModified": "2020-10-26",
+    "datePublished": "2020-10-22T00:00:00",
+    "description": "Con el af\u00e1n de tomar decisiones m\u00e1s acertadas en relaci\u00f3n a la inversi\u00f3n en bienes ra\u00edces, he decidido recolectar informaci\u00f3n acerca de los terrenos disponibles a la venta en la ciudad de Quito, Ecuador y sus alrededores.\n\n\nUno de los sitios web con m\u00e1s prestigio dentro de Ecuador para la publicaci\u00f3n de compra y venta de bienes inmuebles es **plusvalia.com**. Cuenta con un sinn\u00famero de informaci\u00f3n acerca de propiedades en su base de datos, sin embargo no existe una api p\u00fablica con la cu\u00e1l obtener la informaci\u00f3n deseada. La informaci\u00f3n que ese puede enontrar en esta p\u00e1gina esta relacionada al precio de venta, tama\u00f1o, sector, etc. de dichos bienes, lo cu\u00e1l me servir\u00e1 para analizar \u00e1reas con m\u00e1yor pluval\u00eda que otras as\u00ed como el precio por metro cuadrado para saber en donde puedo invertir.\n\n\nEl contenido del set de datos generados contiene un listado de anuncios de terrenos en venta en la ciudad de Quito, Ecuador. Fue obtenido el 22 de octubre de 2019 y contiene 5.453 registros obtenidos de 219 p\u00e1ginas en el sitio web.\n\n\nEl contenido del set de datos generados contiene un listado de anuncios de terrenos en venta con los siguientes campos:\n\n\n\n\t\nnombre: Nombre del terreno en venta\n\t\nsector: Sector donde se encuentra el terreno, el valor ser\u00e1 Sector, Ciudad (todos los registros corresponden a Quito)\n\t\nprecio: Valor en d\u00f3lares, el valor incluye la moneda (USD 24.500)\n\t\narea: \u00c1rea del terreno con su unidad y descripci\u00f3n (500 m2 totales)\n\t\npublicador1: Empresa que publica el anuncio de venta. El valor es obtenido de la imagen del logo (/mutualistaPichincha.jpg)\n\t\npublicador2: Segunda empresa (si existe) que publica el anuncio de venta. El valor es obtenido de la imagen del logo\n\t\ntiempo_publicacion: Hace cu\u00e1nto fue publicado el anuncio de venta\n\t\nfinalizado: Indica si el bien est\u00e1 finalizado o en planos, si el valor est\u00e1 vac\u00edo es que ya est\u00e1 finalizado\n\t\nfecha_venta: Indica cuando el bien esta disponible para la venta, si el valor est\u00e1 vac\u00edo quiere decir que est\u00e1 disponible\n\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4119168/files-archive",
+            "dateModified": "2020-10-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.4119167",
+    "identifier": "zenodo.4119167",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "terrenos, lotes, precio venta terrenos, terrenos venta"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "terrenos_quito",
+    "sameAs": [
+        "https://zenodo.org/records/4119168"
+    ],
+    "url": "https://zenodo.org/record/4119167"
+}

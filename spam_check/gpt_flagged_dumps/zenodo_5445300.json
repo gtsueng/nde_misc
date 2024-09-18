@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5445300",
+    "_score": 25.887123,
+    "author": [
+        {
+            "name": "ZPL"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-09-04",
+    "dateModified": "2021-09-04",
+    "datePublished": "2021-09-04T00:00:00",
+    "description": "Related BTC Transactions",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5445301/files-archive",
+            "dateModified": "2021-09-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.5445300",
+    "identifier": "zenodo.5445300",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Related BTC Transactions",
+    "sameAs": [
+        "https://zenodo.org/records/5445301"
+    ],
+    "url": "https://zenodo.org/record/5445300"
+}

@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7330985",
+    "_score": 25.417479,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Universitas Muhammadiyah Sidoarjo"
+            },
+            "identifier": "0000-0002-1771-8575",
+            "name": "Angga Kusdiyanto"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-11-17",
+    "dateModified": "2022-11-17",
+    "datePublished": "2022-11-17T00:00:00",
+    "description": "data uts digital forensic\u00a0computer-assisted",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7330986/files-archive",
+            "dateModified": "2022-11-17"
+        }
+    ],
+    "doi": "10.5281/zenodo.7330985",
+    "identifier": "zenodo.7330985",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "UTS Digital Forensic, Computer-Assisted",
+    "sameAs": [
+        "https://zenodo.org/records/7330986"
+    ],
+    "url": "https://zenodo.org/record/7330985"
+}

@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3877212",
+    "_score": 23.59891,
+    "author": [
+        {
+            "name": "Maul\u00e2n\u00e2 N\u00fbr-ald\u00een Mu\u1e25ammad 'Auf\u00ee"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-06-04",
+    "dateModified": "2020-06-04",
+    "datePublished": "2020-06-04T00:00:00",
+    "description": "IO Islamic 595. Jaw\u00e2mi\u2019-al\u1e25ik\u00e2y\u00e2t wa law\u00e2mi\u2019-alriw\u00e2y\u00e2t, A Complete Copy of the Famous Collection of Stories and Anecdotes",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3877213/files-archive",
+            "dateModified": "2020-06-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.3877212",
+    "identifier": "zenodo.3877212",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "IO Islamic 595",
+        "595",
+        "India Office"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "IO Islamic 595. Jaw\u00e2mi'-al\u1e25ik\u00e2y\u00e2t wa law\u00e2mi'-alriw\u00e2y\u00e2t, A Complete Copy of the Famous Collection of Stories and Anecdotes",
+    "sameAs": [
+        "https://zenodo.org/records/3877213"
+    ],
+    "url": "https://zenodo.org/record/3877212"
+}

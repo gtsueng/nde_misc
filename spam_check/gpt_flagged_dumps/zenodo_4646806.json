@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4646806",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 20.744267,
+    "author": [
+        {
+            "name": "Guillem Mir Fuster"
+        },
+        {
+            "name": "Antoni Vanrell Valls"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-04-06",
+    "dateModified": "2021-04-06",
+    "datePublished": "2021-04-06T00:00:00",
+    "description": "El dataset seg\u00fcent recull la informaci\u00f3 b\u00e0sica de les \u00faltimes novetats aparegudes a la p\u00e0gina de salut i cura personal d'Amazon Espanya.\n\n\nEn concret, es recull: l'ID\u00a0(posici\u00f3 del producte en les darreres novetats en salut i cuidat personal), el Nom\u00a0(nom complet del producte), el Link_Productes (link del producte per accedir a comprar-lo), el Preu (interval de preu del producte), la\u00a0Puntuaci\u00f3\u00a0(puntuaci\u00f3 entre el 0 i el 5 mitjana de diferents ressenyes), les Ressenyes\u00a0(total de ressenyes del producte) i el Link_Ressenyes (link amb les ressenyes dels clients).\n\n\nA dia 06/04/2021.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4646807/files-archive",
+            "dateModified": "2021-04-06"
+        }
+    ],
+    "doi": "10.5281/zenodo.4646806",
+    "identifier": "zenodo.4646806",
+    "inLanguage": {
+        "name": "cat"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "\u00daltimes novetats en salut i cura personal d'Amazon Espanya.",
+    "sameAs": [
+        "https://zenodo.org/records/4646807"
+    ],
+    "url": "https://zenodo.org/record/4646806"
+}

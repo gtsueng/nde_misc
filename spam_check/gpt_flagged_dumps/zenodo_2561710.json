@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2561710",
+    "_score": 26.027971,
+    "author": [
+        {
+            "name": "GREEKC"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-02-11T00:00:00",
+    "description": "Jamboree Datasets.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2561711/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.2561710",
+    "identifier": "zenodo.2561710",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Jamboree Datasets",
+    "sameAs": [
+        "https://zenodo.org/records/2561711"
+    ],
+    "url": "https://zenodo.org/record/2561710"
+}

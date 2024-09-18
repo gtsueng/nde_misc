@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5731532",
+    "_score": 25.754812,
+    "author": [
+        {
+            "name": "Pirro, S"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-11-28",
+    "dateModified": "2021-11-28",
+    "datePublished": "2021-11-27T00:00:00",
+    "description": ".",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5731533/files-archive",
+            "dateModified": "2021-11-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.5731532",
+    "identifier": "zenodo.5731532",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Amissidens hainesi RB0400 ARBOR decontaminated FSCR",
+    "sameAs": [
+        "https://zenodo.org/records/5731533"
+    ],
+    "url": "https://zenodo.org/record/5731532"
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7031460",
+    "_score": 26.163782,
+    "author": [
+        {
+            "name": "hey"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-08-29",
+    "dateModified": "2022-08-29",
+    "datePublished": "2022-08-29T00:00:00",
+    "description": "hey",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7031461/files-archive",
+            "dateModified": "2022-08-29"
+        }
+    ],
+    "doi": "10.5281/zenodo.7031460",
+    "identifier": "zenodo.7031460",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Excel",
+    "sameAs": [
+        "https://zenodo.org/records/7031461"
+    ],
+    "url": "https://zenodo.org/record/7031460"
+}

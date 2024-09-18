@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3539576",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 16.669914,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Department of Earth and Environment, Boston University, 685 Commonwealth Avenue, 16 Boston, MA 02215, United States"
+            },
+            "identifier": "0000-0003-0018-4471",
+            "name": "Shijuan Chen"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Earth and Environment, Boston University, 685 Commonwealth Avenue, 16 Boston, MA 02215, United States"
+            },
+            "name": "Curtis E. Woodcock"
+        },
+        {
+            "affiliation": {
+                "name": "US Forest Service, Rocky Mountain Research Station, Ogden, UT 84401, USA"
+            },
+            "name": "Eric L. Bullock"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Earth and Environment, Boston University, 685 Commonwealth Avenue, 16 Boston, MA 02215, United States"
+            },
+            "name": "Paulo Ar\u00e9valo"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Biodiversity and Forestry, Ministry of Environmental Protection and Agriculture 19 of Georgia, Tbilisi, Georgia"
+            },
+            "name": "Paata Torchinava"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Earth and Environment, Boston University, 685 Commonwealth Avenue, 16 Boston, MA 02215, United States"
+            },
+            "name": "Siqi Peng"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Earth and Environment, Boston University, 685 Commonwealth Avenue, 16 Boston, MA 02215, United States"
+            },
+            "name": "Pontus Olofsson"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-09-02",
+    "dateModified": "2021-09-02",
+    "datePublished": "2021-08-16T00:00:00",
+    "description": "Area estimates of forest degradation and deforestation in the country of Georgia by region from 1987\u00a0to 2019. Unit is square kilometers.\n\n\ngeorgia_forest_def_0512.csv: Area estimates of deforestation\n\n\ngeorgia_forest_deg_0512.csv: Area estimates of forest degradation\n\n\nPlease cite the data\u00a0as:\u00a0Chen, S., Woodcock, C.E., Bullock, E.L., Ar\u00e9valo, P., Torchinava, P., Peng, S. and Olofsson, P., 2021. Monitoring temperate forest degradation on Google Earth Engine using Landsat time series analysis. Remote Sensing of Environment, 265, p.112648.\n\n\nClick here to get 50-day free access without registration",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5167928/files-archive",
+            "dateModified": "2021-09-02"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3547839/files-archive",
+            "dateModified": "2021-09-02"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3539577/files-archive",
+            "dateModified": "2021-09-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.3539576",
+    "identifier": "zenodo.3539576",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Area Estimates of Forest Degradation and Deforestation in the Country of Georgia by Region",
+    "sameAs": [
+        "https://zenodo.org/records/5167928",
+        "https://zenodo.org/records/3547839",
+        "https://zenodo.org/records/3539577"
+    ],
+    "url": "https://zenodo.org/record/3539576"
+}

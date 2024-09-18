@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_439584",
+    "_score": 25.354733,
+    "author": [
+        {
+            "name": "Jos\u00e9e Tass\u00e9"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2013-06-27T00:00:00",
+    "description": "More info can be found at\u00a0http://openscience.us/repo/issues/mtdjedit.html.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/439584/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.439584",
+    "identifier": "zenodo.439584",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "issues"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "mtdjedit",
+    "sdPublisher": [
+        {
+            "name": "seacraft",
+            "url": "https://zenodo.org/communities/seacraft"
+        }
+    ],
+    "url": "https://zenodo.org/records/439584"
+}

@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3353537",
+    "_score": 21.335917,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Department of Mathematics, Faculty of Science, Cairo University, Giza 12613, Egypt"
+            },
+            "identifier": "0000-0002-3948-3367",
+            "name": "Hend Dawood"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-02-02",
+    "dateModified": "2023-02-02",
+    "datePublished": "2023-02-01T00:00:00",
+    "description": "InCLosure Input and Output Files for Interval Automatic Differentiation. To run the code download version 3.0 or later of InCLosure. Download latest release of InCLosure via https://doi.org/10.5281/zenodo.2702404",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7595449/files-archive",
+            "dateModified": "2023-02-02"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7011632/files-archive",
+            "dateModified": "2023-02-01"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3353538/files-archive",
+            "dateModified": "2023-02-01"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3904248/files-archive",
+            "dateModified": "2023-02-01"
+        }
+    ],
+    "doi": "10.5281/zenodo.3353537",
+    "identifier": "zenodo.3353537",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "InCLosure",
+        "Interval Mathematics",
+        "Automatic Differentiation",
+        "Differentiation Arithmetic",
+        "Interval Automatic Differentiation",
+        "Interval Differentiation Arithmetic",
+        "Interval analysis",
+        "Interval-valued functions",
+        "Guaranteed interval enclosures",
+        "Verified computations"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "InCLosure Code for Interval Automatic Differentiation",
+    "sameAs": [
+        "https://zenodo.org/records/7595449",
+        "https://zenodo.org/records/7011632",
+        "https://zenodo.org/records/3353538",
+        "https://zenodo.org/records/3904248"
+    ],
+    "sdPublisher": [
+        {
+            "name": "mathscicu",
+            "url": "https://zenodo.org/communities/mathscicu"
+        },
+        {
+            "name": "inclosure",
+            "url": "https://zenodo.org/communities/inclosure"
+        }
+    ],
+    "url": "https://zenodo.org/record/3353537"
+}

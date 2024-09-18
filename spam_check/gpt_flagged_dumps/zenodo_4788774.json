@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4788774",
+    "_score": 25.486233,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Kaggle"
+            },
+            "name": "Sriram Reddy Kalluri"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-05-25",
+    "dateModified": "2021-05-25",
+    "datePublished": "2018-08-24T00:00:00",
+    "description": "Apples Oranges Bananas",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4788775/files-archive",
+            "dateModified": "2021-05-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.4788774",
+    "identifier": "zenodo.4788774",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Fruits fresh and rotten for classification",
+    "sameAs": [
+        "https://zenodo.org/records/4788775"
+    ],
+    "url": "https://zenodo.org/record/4788774"
+}

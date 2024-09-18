@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4313191",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.83574,
+    "author": [
+        {
+            "affiliation": {
+                "name": "DIW Berlin"
+            },
+            "identifier": "0000-0002-6981-7487",
+            "name": "Schill, Wolf-Peter"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-11-27",
+    "dateModified": "2021-11-27",
+    "datePublished": "2021-11-26T00:00:00",
+    "description": "This is the little graph I used for my #energy_graph tweet, including the underlying data, in an Excel file. Here is the tweet:\u00a0 https://twitter.com/WPSchill/status/1464368711817740298?s=20. And here is last year's tweet: https://twitter.com/WPSchill/status/1336633040676720640?s=20\n\n\nI occasionally tweet stuff like this. Follow me, if you like ;) https://twitter.com/WPSchill",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5730662/files-archive",
+            "dateModified": "2021-11-27"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4313192/files-archive",
+            "dateModified": "2021-11-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.4313191",
+    "identifier": "zenodo.4313191",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "#energy_graph, renewables, electricity, Australia, Germany"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "#energy_graph on renewable shares in electricity and CO2 emission factors in Australia and Germany",
+    "sameAs": [
+        "https://zenodo.org/records/5730662",
+        "https://zenodo.org/records/4313192"
+    ],
+    "url": "https://zenodo.org/record/4313191"
+}

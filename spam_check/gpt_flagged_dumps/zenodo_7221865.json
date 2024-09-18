@@ -1,0 +1,60 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7221865",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 23.48471,
+    "author": [
+        {
+            "affiliation": {
+                "name": "PNNL"
+            },
+            "identifier": "0000-0001-8093-8397",
+            "name": "Dorheim, Kalyn"
+        },
+        {
+            "affiliation": {
+                "name": "NASA"
+            },
+            "identifier": "0000-0003-4022-5979",
+            "name": "Shiklomanov, Alexey"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-10-25",
+    "dateModified": "2022-10-25",
+    "datePublished": "2022-10-18T00:00:00",
+    "description": "The minted inputs used by hectordata to generate input tables and in files for hector, the simple climate model. For more information on hectordata visit\u00a0https://github.com/jgcri/hectordata for more information on hector visit\u00a0https://github.com/jgcri/hector.\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7249210/files-archive",
+            "dateModified": "2022-10-25"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7221866/files-archive",
+            "dateModified": "2022-10-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.7221865",
+    "identifier": "zenodo.7221865",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "hectordata inputs",
+    "sameAs": [
+        "https://zenodo.org/records/7249210",
+        "https://zenodo.org/records/7221866"
+    ],
+    "url": "https://zenodo.org/record/7221865"
+}

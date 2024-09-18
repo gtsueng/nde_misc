@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6637795",
+    "_score": 23.480167,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Department of Telecommunications, Faculty of Electrical Engineering and Computer Science, VSB - Technical University of Ostrava, 70833 Ostrava-Poruba, Czech Republic"
+            },
+            "name": "Ladislav Beh\u00e1\u0148"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-06-13",
+    "dateModified": "2022-06-13",
+    "datePublished": "2022-06-13T00:00:00",
+    "description": "Real-world CDR records gathered from Telemarketer PBX and mobile phone users.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6637796/files-archive",
+            "dateModified": "2022-06-13"
+        }
+    ],
+    "doi": "10.5281/zenodo.6637795",
+    "identifier": "zenodo.6637795",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Data mining",
+        ",Machine learning",
+        "SPIT",
+        "VoIP"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Telemarketer & Regular user CDR phone records",
+    "sameAs": [
+        "https://zenodo.org/records/6637796"
+    ],
+    "url": "https://zenodo.org/record/6637795"
+}

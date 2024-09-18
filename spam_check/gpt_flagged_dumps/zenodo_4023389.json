@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4023389",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.567217,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Kuaishou"
+            },
+            "identifier": "0000-0003-4834-8949",
+            "name": "Fei Tao"
+        },
+        {
+            "affiliation": {
+                "name": "Kuaishou"
+            },
+            "name": "Xudong Liu"
+        },
+        {
+            "affiliation": {
+                "name": "Kuaishou"
+            },
+            "name": "Xiaorong Mei"
+        },
+        {
+            "affiliation": {
+                "name": "Kuaishou"
+            },
+            "name": "Lei Yuan"
+        },
+        {
+            "affiliation": {
+                "name": "Kuaishou"
+            },
+            "name": "Ji Liu"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-09-15",
+    "dateModified": "2020-09-15",
+    "datePublished": "2020-09-12T00:00:00",
+    "description": "It consists\u00a0of 85,432 ads videos from the China popular short-term video app, Kwai. The videos were made and uploaded by commercial advertisers rather than personal users. The reason to use the ads videos lied on two folds: 1) the source guarantees the videos under control to some level, such as high-resolution pictures and intention-ally designed scene; 2) the ads videos mimic the style of the ones uploaded by personal users, as they are played in be-tween the personal videos in Kwai app. It can be seen as a quality controlled UGVs dataset.The dataset was collected in two batches (Batch-1 is our preliminary work), coming with the tags of ads industry cluster. The videos were randomly picked from a pool. The pool was formed by selecting the ads from several contiguous days.Half of the selected ads had click through rate(CTR) in top30000 within that day and the other half had CTR in bottom30000. It should be noticed that the released dataset is a sub-set of the pool. The audio track had2 channels (we mixed to mono channel in the study) and was sampled at 44.1 kHz, while the visual track had resolution of1280\u00d7720 and was sampled at 25frame per second(FPS).This dataset is a extension of the KWAI-AD corpus [3]. It is not only suitable for tasks in multimodal learning area, but also for ones in ads recommendation. It shows that the ads videos have three main characteristics: 1) The videos may have very inconsistent information in visual or audio streams. For example, the video may play a drama-like story at first, and then present the product introduction, whose scenes are very different. 2) The correspondence between audio and visual streams is not clear.For instance, similar visual objects (e.g. talking salesman)come with very different audio streams. 3) The relationship between audio and video varies in different industries. For example, game or E-commerce ads will have very different styles. These characteristics make the dataset suitable yet challenging for our study about the AVC learning.\n\n\nIn the folder, you will see: audio_features.tar.gz, meta, README, samples, ad_label.npy, video_fetaures.tar.gz. The details are included in README.\n\n\nIf you use our dataset, please cite our paper: \"Themes Inferred Audio-visual Correspondence Learning\" (https://arxiv.org/pdf/2009.06573.pdf)",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4023390/files-archive",
+            "dateModified": "2020-09-15"
+        }
+    ],
+    "doi": "10.5281/zenodo.4023389",
+    "identifier": "zenodo.4023389",
+    "inLanguage": {
+        "name": "zho"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Audiovisual signal processing, correspondence learning, multimodal signal processing"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "KWAI-AD-AudVis",
+    "sameAs": [
+        "https://zenodo.org/records/4023390"
+    ],
+    "sdPublisher": [
+        {
+            "name": "ieee",
+            "url": "https://zenodo.org/communities/ieee"
+        }
+    ],
+    "url": "https://zenodo.org/record/4023389"
+}

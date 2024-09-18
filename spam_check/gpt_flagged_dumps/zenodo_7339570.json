@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7339570",
+    "_score": 24.292034,
+    "author": [
+        {
+            "name": "BBG"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-11-23",
+    "dateModified": "2022-11-23",
+    "datePublished": "2022-11-20T00:00:00",
+    "description": "Most relevant job offers published in the categories of software development, data and sysadming and devops of the web Remotive.com",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7339571/files-archive",
+            "dateModified": "2022-11-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.7339570",
+    "identifier": "zenodo.7339570",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Job offers of remote and data-science related positions - Source: Remotive.com",
+    "sameAs": [
+        "https://zenodo.org/records/7339571"
+    ],
+    "url": "https://zenodo.org/record/7339570"
+}

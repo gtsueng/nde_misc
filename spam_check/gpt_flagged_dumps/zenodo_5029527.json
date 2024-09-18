@@ -1,0 +1,43 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5029527",
+    "_score": 25.616545,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Bristol"
+            },
+            "name": "Hedger, Emily"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-06-28",
+    "dateModified": "2021-06-28",
+    "datePublished": "2021-06-24T00:00:00",
+    "description": "Exemplar COMSOL files",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5029528/files-archive",
+            "dateModified": "2021-06-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.5029527",
+    "identifier": "zenodo.5029527",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Exemplar COMSOL files",
+    "sameAs": [
+        "https://zenodo.org/records/5029528"
+    ],
+    "url": "https://zenodo.org/record/5029527"
+}

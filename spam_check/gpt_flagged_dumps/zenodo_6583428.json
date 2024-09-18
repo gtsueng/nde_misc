@@ -1,0 +1,43 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6583428",
+    "_score": 24.529917,
+    "author": [
+        {
+            "affiliation": {
+                "name": "EY AI Centre of Excellence in Document Intelligence, NCSR \"Demokritos\" and Department of Informatics, Athens University of Economics and Business"
+            },
+            "name": "Manos Fergadiotis"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-05-26",
+    "dateModified": "2022-05-26",
+    "datePublished": "2022-05-26T00:00:00",
+    "description": "TUTA original pre-trained models",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6583429/files-archive",
+            "dateModified": "2022-05-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.6583428",
+    "identifier": "zenodo.6583428",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "TUTA Models",
+    "sameAs": [
+        "https://zenodo.org/records/6583429"
+    ],
+    "url": "https://zenodo.org/record/6583428"
+}

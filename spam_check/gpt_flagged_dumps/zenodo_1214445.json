@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1214445",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 16.682167,
+    "author": [
+        {
+            "affiliation": {
+                "name": "yeditepe university"
+            },
+            "identifier": "0000-0002-2561-7547",
+            "name": "fethi okyar"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-04-07T00:00:00",
+    "description": "7Tepe Parametric Lumbar Spine Model\n\n\nTweaking parameters of associative CAD models offer interesting pathways for the application of artificial intelligence methods, such as optimization by genetic algorithms and neural networks.\n\n\nConstruction of a robust lumbar verteral assembly requires a holistic design approach. The concept of using a layout-sketch as the core of a cad model is becoming more popular due to its top-down design philosophy. However, there remains local issues such as the contact properties at the transverse facet joints, which cannot be taken care of alone by the top-down approach. Inverting the perspective to a bottom-up approach and observing some of the intricate geometrical features of for example the laminae leads to a model that can simply be represented by a relatively scarce number of parameters, yet capturing the physiological aspect of the organ in quite an accurate way.\n\n\nFor those who are interested in what our 7Tepe Parametric Lumbar Spine Model version 0.1 currently looks like, just download the source in Parasolid format (x_t extension) and import it to your favorite CAD system. Currently, we have not shared our source CAD file belonging to proprietary software products, but we intend to do so in the near future.\n\n\nDesigned by Ogulcan in proprietary solid modeling software.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1214446/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1214445",
+    "identifier": "zenodo.1214445",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "lumbar spine, CAD model, parametric, feature-based, morphometric"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "parametric CAD model of the lumbar spine",
+    "sameAs": [
+        "https://zenodo.org/records/1214446"
+    ],
+    "url": "https://zenodo.org/record/1214445"
+}

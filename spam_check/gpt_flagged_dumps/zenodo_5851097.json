@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5851097",
+    "_score": 24.472713,
+    "author": [
+        {
+            "name": "Benno F\u00fcnfst\u00fcck"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-01-15",
+    "dateModified": "2022-01-15",
+    "datePublished": "2022-01-14T00:00:00",
+    "description": "RDF dump of wikidata produced with wdumps.\n            \n\n            \n\n            business in korean and english\n            View on wdumper\n            \n\n            \n\n            entity count: 0, statement count: 0, triple count: 0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5851098/files-archive",
+            "dateModified": "2022-01-15"
+        }
+    ],
+    "doi": "10.5281/zenodo.5851097",
+    "identifier": "zenodo.5851097",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Wikidata Dump business",
+    "sameAs": [
+        "https://zenodo.org/records/5851098"
+    ],
+    "url": "https://zenodo.org/record/5851097"
+}

@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3870582",
+    "_score": 23.705193,
+    "author": [
+        {
+            "name": "Anon"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-05-31",
+    "dateModified": "2020-05-31",
+    "datePublished": "2020-05-31T00:00:00",
+    "description": "IO Islamic 992. T\u00e2j-al\u1e33i\u1e63a\u1e63, A Large Collection of Biographies and Legends of the Prophets from \u00c2dam to Mu\u1e25ammad",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3870583/files-archive",
+            "dateModified": "2020-05-31"
+        }
+    ],
+    "doi": "10.5281/zenodo.3870582",
+    "identifier": "zenodo.3870582",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "IO Islamic 992",
+        "992",
+        "India Office"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "IO Islamic 992. T\u00e2j-al\u1e33i\u1e63a\u1e63, A Large Collection of Biographies and Legends of the Prophets from \u00c2dam to Mu\u1e25ammad",
+    "sameAs": [
+        "https://zenodo.org/records/3870583"
+    ],
+    "url": "https://zenodo.org/record/3870582"
+}

@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3735326",
+    "_score": 25.754812,
+    "author": [
+        {
+            "name": "naveen"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-04-15",
+    "dateModified": "2020-04-01",
+    "datePublished": "2020-04-15T00:00:00",
+    "description": "abc-finder docker tar file",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3735327/files-archive",
+            "dateModified": "2020-04-01"
+        }
+    ],
+    "doi": "10.5281/zenodo.3735326",
+    "identifier": "zenodo.3735326",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "abc-finder docker tar file",
+    "sameAs": [
+        "https://zenodo.org/records/3735327"
+    ],
+    "url": "https://zenodo.org/record/3735326"
+}

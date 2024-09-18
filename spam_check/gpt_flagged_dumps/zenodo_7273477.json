@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7273477",
+    "_score": 25.686193,
+    "author": [
+        {
+            "name": "BAL, MEGHNA"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-11-02",
+    "dateModified": "2022-11-02",
+    "datePublished": "2022-11-02T00:00:00",
+    "description": "INTERVIEWS WITH COPYRIGHT PIRATES ON TELEGRAM\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7273478/files-archive",
+            "dateModified": "2022-11-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.7273477",
+    "identifier": "zenodo.7273477",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "TELEGRAM PIRACY",
+    "sameAs": [
+        "https://zenodo.org/records/7273478"
+    ],
+    "url": "https://zenodo.org/record/7273477"
+}

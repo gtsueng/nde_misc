@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7519248",
+    "_score": 26.166847,
+    "author": [
+        {
+            "name": "xy"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-01-10",
+    "dateModified": "2023-01-10",
+    "datePublished": "2023-01-10T00:00:00",
+    "description": "\u5b66\u4e60",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7519249/files-archive",
+            "dateModified": "2023-01-10"
+        }
+    ],
+    "doi": "10.5281/zenodo.7519248",
+    "identifier": "zenodo.7519248",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "\u5b66\u4e60\u7855\u58eb",
+    "sameAs": [
+        "https://zenodo.org/records/7519249"
+    ],
+    "url": "https://zenodo.org/record/7519248"
+}

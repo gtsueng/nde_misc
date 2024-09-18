@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7558210",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 23.043364,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Biomedical Engineer"
+            },
+            "name": "Bashar Shami"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-01-23",
+    "dateModified": "2023-01-23",
+    "datePublished": "2023-01-22T00:00:00",
+    "description": "3D CT data for bone with metallic implants , for Deep learning 3d semantic segmentation of bones with metallic implants and correct metallic artifacts in CT images by deep learning , Novel Approach ,Fully deep artifact correction\u00a0by threshold masking\u00a0 and 3d segmentation,\u00a0 Work genuinely by Eng. Bashar Shami., biodevelopeng@gmail.com",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7558211/files-archive",
+            "dateModified": "2023-01-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.7558210",
+    "identifier": "zenodo.7558210",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Bone Metal 3D Segmentation",
+    "sameAs": [
+        "https://zenodo.org/records/7558211"
+    ],
+    "url": "https://zenodo.org/record/7558210"
+}

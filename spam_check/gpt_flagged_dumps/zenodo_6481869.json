@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6481869",
+    "_score": 23.825918,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Tsinghua University"
+            },
+            "name": "vws2022"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-04-25",
+    "dateModified": "2022-04-25",
+    "datePublished": "2022-04-25T00:00:00",
+    "description": "Training dataset for Carotid Vessel Wall Segmentation and Atherosclerosis Diagnosis Challenge, MICCAI 2022.\u00a0\n\n\nPlease refer to our website:\u00a0https://vessel-wall-segmentation-2022.grand-challenge.org/.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6481870/files-archive",
+            "dateModified": "2022-04-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.6481869",
+    "identifier": "zenodo.6481869",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Carotid vessel wall",
+        "Segmentation",
+        "Atherosclerosis"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Training dataset for Carotid Vessel Wall Segmentation and Atherosclerosis Diagnosis Challenge, MICCAI 2022",
+    "sameAs": [
+        "https://zenodo.org/records/6481870"
+    ],
+    "url": "https://zenodo.org/record/6481869"
+}

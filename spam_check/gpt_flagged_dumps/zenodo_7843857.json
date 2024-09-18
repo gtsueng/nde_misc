@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7843857",
+    "_score": 25.226171,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Antioquia"
+            },
+            "identifier": "0000-0001-6455-5564",
+            "name": "Restrepo,Diego"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-04-19",
+    "dateModified": "2023-04-19",
+    "datePublished": "2023-04-18T00:00:00",
+    "description": "See\u00a0https://github.com/colav-playground/advanced_user_tests",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7843858/files-archive",
+            "dateModified": "2023-04-19"
+        }
+    ],
+    "doi": "10.5281/zenodo.7843857",
+    "identifier": "zenodo.7843857",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Enriched OpenAlex Data for Colombia",
+    "sameAs": [
+        "https://zenodo.org/records/7843858"
+    ],
+    "url": "https://zenodo.org/record/7843857"
+}

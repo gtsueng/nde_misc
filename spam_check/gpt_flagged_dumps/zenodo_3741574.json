@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3741574",
+    "_score": 23.938978,
+    "author": [
+        {
+            "name": "Rosemberg Alvarez Diaz"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-04-06",
+    "dateModified": "2020-04-06",
+    "datePublished": "2020-04-06T00:00:00",
+    "description": "Este conjunto de datos provee la oferta de las mejores instituciones educativas privadas en Colombia a trav\u00e9s de un conjunto de datos de caracterizaci\u00f3n completo, veraz y actualizado.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3741574/files-archive",
+            "dateModified": "2020-04-06"
+        }
+    ],
+    "doi": "10.1234/MejoresColegios.csv",
+    "identifier": "zenodo.3741574",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "colegios"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "OFERTA DE LOS MEJORES COLEGIOS DE COLOMBIA",
+    "url": "https://zenodo.org/records/3741574"
+}

@@ -1,0 +1,75 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4126947",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 19.178844,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Vrije Universiteit Amsterdam"
+            },
+            "name": "Seth van der Bijl"
+        },
+        {
+            "affiliation": {
+                "name": "Vrije Universiteit Amsterdam"
+            },
+            "name": "Alex Hoorn"
+        },
+        {
+            "affiliation": {
+                "name": "Vrije Universiteit Amsterdam"
+            },
+            "name": "Ramon Cremers"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-10-26",
+    "dateModified": "2020-10-26",
+    "datePublished": "2020-10-24T00:00:00",
+    "description": "We proudly present you the IMDB show ontology. This is an ontology based on IMDB data and geocoded locations data for many scenes for shows which previously was not available in a single dataset. The present ontology is extensively documented in our GitHub repository:\u00a0https://github.com/AlexHoorn/group51-kdd Relations are aligned with foaf and schema ontologies and every show is explicitly aligned with wikidata via a Owl:sameAs predicate.\n\n\nFor the contents and structure of this ontology we would kindly refer you here:\u00a0https://github.com/AlexHoorn/MovieLocationsOntology\n\n\nFor the creation and data in this ontology we would kindly refer you here:\u00a0https://github.com/AlexHoorn/MovieLocationsOntology/tree/main/data\n\n\nWe highly recommended you to visit our movie location app to explore this data.\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4126948/files-archive",
+            "dateModified": "2020-10-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.4126947",
+    "identifier": "zenodo.4126947",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "IMDB",
+        "Shows",
+        "Locations",
+        "Scenes",
+        "Characters",
+        "Actors",
+        "Directors",
+        "Genres",
+        "Series",
+        "Movies",
+        "Coordinates"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "IMDB Shows data with scenes and locations ontology",
+    "sameAs": [
+        "https://zenodo.org/records/4126948"
+    ],
+    "url": "https://zenodo.org/record/4126947"
+}

@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1200914",
+    "_score": 25.68746,
+    "author": [
+        {
+            "name": "Caglar Senaras"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-03-16T00:00:00",
+    "description": "Deep Slides \u00a0(updated model)",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1200915/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1200914",
+    "identifier": "zenodo.1200914",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Deep Slides  (updated model)",
+    "sameAs": [
+        "https://zenodo.org/records/1200915"
+    ],
+    "url": "https://zenodo.org/record/1200914"
+}

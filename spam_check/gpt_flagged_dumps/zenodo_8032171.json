@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8032171",
+    "_score": 25.68746,
+    "author": [
+        {
+            "affiliation": {
+                "name": "ZheJiang University"
+            },
+            "name": "Tianyue Wang"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-06-14",
+    "dateModified": "2023-06-14",
+    "datePublished": "2023-06-13T00:00:00",
+    "description": "KarmaLoop anaconda enviornment",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8032172/files-archive",
+            "dateModified": "2023-06-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.8032171",
+    "identifier": "zenodo.8032171",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "KarmaLoop anaconda enviornment",
+    "sameAs": [
+        "https://zenodo.org/records/8032172"
+    ],
+    "url": "https://zenodo.org/record/8032171"
+}

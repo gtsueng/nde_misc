@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5166914",
+    "_score": 26.16586,
+    "author": [
+        {
+            "name": "xinyu"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-08-06",
+    "dateModified": "2021-08-06",
+    "datePublished": "2021-08-06T00:00:00",
+    "description": "no",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5166915/files-archive",
+            "dateModified": "2021-08-06"
+        }
+    ],
+    "doi": "10.5281/zenodo.5166914",
+    "identifier": "zenodo.5166914",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "K1matrix",
+    "sameAs": [
+        "https://zenodo.org/records/5166915"
+    ],
+    "url": "https://zenodo.org/record/5166914"
+}

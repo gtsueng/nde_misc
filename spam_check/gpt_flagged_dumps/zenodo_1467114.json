@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1467114",
+    "_score": 24.718065,
+    "author": [
+        {
+            "name": "Koh, Pang Wei"
+        },
+        {
+            "name": "Pierson, Emma"
+        },
+        {
+            "name": "Kundaje, Anshul"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2017-07-12T00:00:00",
+    "description": "Single bp resolution ChIP-seq denoising - https://github.com/kundajelab/coda",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1467114/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.1093/bioinformatics/btx243",
+    "identifier": "zenodo.1467114",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Kipoi",
+        "Histone modification"
+    ],
+    "license": "https://opensource.org/licenses/MIT",
+    "name": "extended_coda  model files",
+    "url": "https://zenodo.org/records/1467114"
+}

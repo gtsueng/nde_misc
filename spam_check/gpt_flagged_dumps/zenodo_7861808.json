@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7861808",
+    "_score": 25.68746,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Mines Paris - PSL"
+            },
+            "identifier": "0000-0002-7749-3996",
+            "name": "Kerfriden, Pierre"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-04-25",
+    "dateModified": "2023-04-25",
+    "datePublished": "2023-04-25T00:00:00",
+    "description": "Mesh",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7861809/files-archive",
+            "dateModified": "2023-04-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.7861808",
+    "identifier": "zenodo.7861808",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Mesh dogbone",
+    "sameAs": [
+        "https://zenodo.org/records/7861809"
+    ],
+    "url": "https://zenodo.org/record/7861808"
+}

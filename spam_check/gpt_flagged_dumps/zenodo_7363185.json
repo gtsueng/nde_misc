@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7363185",
+    "_score": 25.753584,
+    "author": [
+        {
+            "affiliation": {
+                "name": "puc"
+            },
+            "name": "MARIA SALOME CAJAS GARCIA"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-11-26",
+    "dateModified": "2022-11-26",
+    "datePublished": "2022-11-25T00:00:00",
+    "description": "table database",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7363186/files-archive",
+            "dateModified": "2022-11-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.7363185",
+    "identifier": "zenodo.7363185",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "LPP laser",
+    "sameAs": [
+        "https://zenodo.org/records/7363186"
+    ],
+    "url": "https://zenodo.org/record/7363185"
+}

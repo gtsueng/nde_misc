@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5819161",
+    "_score": 20.744267,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Department of Clinical Neurosciences, Hermanas Hospitalarias, Villa S. Benedetto Menni Hospital, Albese (Como) AND  Humanitas University Department of Biomedical Sciences, Milan, Italy"
+            },
+            "name": "Perna, Giampaolo"
+        },
+        {
+            "affiliation": {
+                "name": "Humanitas Clinical and Research Center, IRCCS, Milan, Italy"
+            },
+            "name": "Alciati Alessandra"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Clinical Neurosciences, Villa San Benedetto Menni Hospital, Hermanas Hospitalarias, Como, I"
+            },
+            "name": "Sangiorgio, Erika"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Clinical Neurosciences, Hermanas Hospitalarias, Villa S. Benedetto Menni Hospital, Albese (Como) AND  Humanitas University Department of Biomedical Sciences, Milan, Italy"
+            },
+            "name": "Caldirola, Daniela"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Psychiatry, Institute of Early Life Adversity Research, and Mulva Clinic for Neuroscience, Dell Medical School, University of Texas, Austin"
+            },
+            "name": "Nemeroff, Charles B."
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-01-05",
+    "dateModified": "2022-01-05",
+    "datePublished": "2022-01-04T00:00:00",
+    "description": "Personalized Clinical Approaches To Anxiety Disorders",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5819162/files-archive",
+            "dateModified": "2022-01-05"
+        }
+    ],
+    "doi": "10.5281/zenodo.5819161",
+    "identifier": "zenodo.5819161",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Personalized Clinical Approaches To Anxiety Disorders",
+    "sameAs": [
+        "https://zenodo.org/records/5819162"
+    ],
+    "url": "https://zenodo.org/record/5819161"
+}

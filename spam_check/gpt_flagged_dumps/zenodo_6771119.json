@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6771119",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.227608,
+    "author": [
+        {
+            "affiliation": {
+                "name": "TU Dortmund"
+            },
+            "identifier": "0000-0002-8365-3634",
+            "name": "Fabian Ostermann"
+        },
+        {
+            "affiliation": {
+                "name": "TU Dortmund"
+            },
+            "identifier": "0000-0002-9454-9402",
+            "name": "Igor Vatolkin"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-03-24",
+    "dateModified": "2023-03-24",
+    "datePublished": "2022-06-28T00:00:00",
+    "description": "This is the tiny demo version with 20 samples from the AAM dataset, which originally contains 3,000 artificial music audio tracks. In contrast to the full version, which has lossless audio, we only provide mp3 tracks for demonstration and testing purposes.\n\n\nFor the full version and more information see: zenodo.5794629",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6771120/files-archive",
+            "dateModified": "2023-03-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.6771119",
+    "identifier": "zenodo.6771119",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Tiny AAM: Sample from the Artificial Audio Multitracks Dataset",
+    "sameAs": [
+        "https://zenodo.org/records/6771120"
+    ],
+    "url": "https://zenodo.org/record/6771119"
+}

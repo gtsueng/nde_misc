@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7348661",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.102802,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Student"
+            },
+            "name": "Alba Sanz Horcajo"
+        },
+        {
+            "affiliation": {
+                "name": "Student"
+            },
+            "name": "Carlos Santamar\u00eda de las Heras"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-11-23",
+    "dateModified": "2022-11-23",
+    "datePublished": "2022-11-22T00:00:00",
+    "description": "El dataset est\u00e1 compuesto por 2169 registros y 10 atributos, todos correspondientes a inmuebles en venta en Madrid Capital. Contiene\u00a0los metros cuadrados, su precio, la planta en la que se encuentra, el n\u00famero de ba\u00f1os y habitaciones con las que cuenta, si dispone o no de calefacci\u00f3n, aire acondicionado y/o ascensor y el enlace al anuncio original de Fotocasa. Adem\u00e1s del\u00a0t\u00edtulo de cada anuncio donde podemos encontrar informaci\u00f3n adicional sobre el inmueble como su tipo o su localizaci\u00f3n.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7348662/files-archive",
+            "dateModified": "2022-11-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.7348661",
+    "identifier": "zenodo.7348661",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/1.0/legalcode",
+    "name": "Inmuebles en venta en Madrid Capital",
+    "sameAs": [
+        "https://zenodo.org/records/7348662"
+    ],
+    "url": "https://zenodo.org/record/7348661"
+}

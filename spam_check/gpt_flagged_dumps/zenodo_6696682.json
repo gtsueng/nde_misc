@@ -1,0 +1,43 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6696682",
+    "_score": 25.887123,
+    "author": [
+        {
+            "name": "I. B\u00e1rbara"
+        },
+        {
+            "name": "D.G.SanLe\u00f3n"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-06-23",
+    "dateModified": "2022-06-23",
+    "datePublished": "2022-06-23T00:00:00",
+    "description": "SANT-Algae 24661",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6696683/files-archive",
+            "dateModified": "2022-06-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.6696682",
+    "identifier": "zenodo.6696682",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "SANT-Algae 24661",
+    "sameAs": [
+        "https://zenodo.org/records/6696683"
+    ],
+    "url": "https://zenodo.org/record/6696682"
+}

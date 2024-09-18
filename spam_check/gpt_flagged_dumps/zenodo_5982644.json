@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5982644",
+    "_score": 25.487612,
+    "author": [
+        {
+            "name": "J. Octavio"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-02-06",
+    "dateModified": "2022-02-06",
+    "datePublished": "2022-02-06T00:00:00",
+    "description": "Datasets practica 5 DLC",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5982645/files-archive",
+            "dateModified": "2022-02-06"
+        }
+    ],
+    "doi": "10.5281/zenodo.5982644",
+    "identifier": "zenodo.5982644",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "BiciMad, DLC"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "DLC MASTER CIENCIA DE DATOS",
+    "sameAs": [
+        "https://zenodo.org/records/5982645"
+    ],
+    "url": "https://zenodo.org/record/5982644"
+}

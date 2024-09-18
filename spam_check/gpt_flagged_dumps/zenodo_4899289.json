@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4899289",
+    "_score": 23.71184,
+    "author": [
+        {
+            "affiliation": {
+                "name": "HSLU"
+            },
+            "name": "Grobe, Lars Oliver"
+        },
+        {
+            "name": "Scheidegger, Robyn"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-06-04",
+    "dateModified": "2021-06-04",
+    "datePublished": "2021-06-04T00:00:00",
+    "description": "Die xml-Datein der beiden BSDF der Musterproben des Sonnenschutzsystems MicroLouvre Koolshade, in der bronzefarbenen Ausf\u00fchrung.\n\n\nBISOL123_Solar_Klems_1Layer ist der 1fache Shading Layer\n\n\nBISOL123_Solar_Klems_1Layer ist der 2fache Shading Layer",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4899290/files-archive",
+            "dateModified": "2021-06-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.4899289",
+    "identifier": "zenodo.4899289",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "BSDF"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "BSDF MicroLouvre Koolshade",
+    "sameAs": [
+        "https://zenodo.org/records/4899290"
+    ],
+    "url": "https://zenodo.org/record/4899289"
+}

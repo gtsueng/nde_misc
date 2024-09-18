@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7845986",
+    "_score": 24.175203,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Universitat Oberta de Catalunya"
+            },
+            "name": "Jordi Pomada Foix"
+        },
+        {
+            "affiliation": {
+                "name": "Universitat Oberta de Catalunya"
+            },
+            "name": "Marina Arias Queralt"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-04-25",
+    "dateModified": "2023-04-25",
+    "datePublished": "2023-04-19T00:00:00",
+    "description": "Dataset on prompts from BesAIPrompts from promptbase.com. The dataset is composed of 1047 observations of 13 variables.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7845987/files-archive",
+            "dateModified": "2023-04-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.7845986",
+    "identifier": "zenodo.7845986",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "BestAIPrompts from promptbase.com",
+    "sameAs": [
+        "https://zenodo.org/records/7845987"
+    ],
+    "url": "https://zenodo.org/record/7845986"
+}

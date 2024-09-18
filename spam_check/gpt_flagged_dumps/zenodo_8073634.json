@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8073634",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.579756,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Functional Urology Research Group, Department for BioMedical Research DBMR, University of Bern, Switzerland"
+            },
+            "identifier": "0000-0003-3186-7478",
+            "name": "Akshay Akshay"
+        },
+        {
+            "affiliation": {
+                "name": "Institute of Neuropathology, Universit\u00e4tsklinikum Erlangen, Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU), Erlangen, Germany"
+            },
+            "name": "Mitali Katoch"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Medical Data Science, Leipzig University Medical Centre, 04107 Leipzig, Germany"
+            },
+            "name": "Navid Shekarchizadeh"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Medical Data Science, Leipzig University Medical Centre, 04107 Leipzig, Germany"
+            },
+            "name": "Masoud Abedi"
+        },
+        {
+            "affiliation": {
+                "name": "KG Jebsen Centre for B-cell malignancies, Institute for Clinical Medicine, University of Oslo, Oslo, Norway"
+            },
+            "name": "Ankush Sharma"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Urology, Inselspital University Hospital, 3010 Bern, Switzerland"
+            },
+            "name": "Fiona C. Burkhard"
+        },
+        {
+            "affiliation": {
+                "name": "Harvard Medical School, Boston, Department of Surgery MA, USA"
+            },
+            "name": "Rosalyn M. Adam"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Urology, Inselspital University Hospital, 3010 Bern, Switzerland"
+            },
+            "name": "Katia Monastyrskaya"
+        },
+        {
+            "affiliation": {
+                "name": "Harvard Medical School, Boston, Department of Surgery MA, USA"
+            },
+            "name": "Ali Hashemi Gheinani"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-06-25",
+    "dateModified": "2023-06-25",
+    "datePublished": "2023-06-23T00:00:00",
+    "description": "Machine learning (ML) has emerged as a vital asset for researchers to analyze and extract valuable information from complex datasets. However, developing an effective and robust ML pipeline can present a real challenge, demanding considerable time and effort, thereby impeding research progress. Existing tools in this landscape require a profound understanding of ML principles and programming skills. Furthermore, users are required to engage in the comprehensive configuration of their ML pipeline to obtain optimal performance.\n\n\nTo address these challenges, we have developed a novel tool called Machine Learning Made Easy (MLme) that streamlines the use of ML in research, specifically focusing on classification problems at present. By integrating four essential functionalities, namely Data Exploration, AutoML, CustomML, and Visualization, MLme fulfills the diverse requirements of researchers while eliminating the need for extensive coding efforts. To demonstrate the applicability of MLme, we conducted rigorous testing on six distinct datasets, each presenting unique characteristics and challenges. Our results consistently showed promising performance across different datasets, reaffirming the versatility and effectiveness of the tool. Additionally, by utilizing MLme's feature selection functionality, we successfully identified significant markers for CD8+ na\u00efve (BACH2), CD16+ (CD16), and CD14+ (VCAN) cell populations.\n\n\nMLme serves as a valuable resource for leveraging machine learning (ML) to facilitate insightful data analysis and enhance research outcomes, while alleviating concerns related to complex coding scripts. The source code and a detailed tutorial for MLme are available at https://github.com/FunctionalUrology/MLme.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8073635/files-archive",
+            "dateModified": "2023-06-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.8073634",
+    "identifier": "zenodo.8073634",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Supporting data for \"Machine Learning Made Easy (MLme): A Comprehensive Toolkit for Machine Learning-Driven Data Analysis\"",
+    "sameAs": [
+        "https://zenodo.org/records/8073635"
+    ],
+    "url": "https://zenodo.org/record/8073634"
+}

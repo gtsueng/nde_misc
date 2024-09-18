@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_31051",
+    "_score": 25.889484,
+    "author": [
+        {
+            "affiliation": {
+                "name": "AIP"
+            },
+            "name": "sindhya"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-08-04",
+    "dateModified": "2024-08-04",
+    "datePublished": "2015-09-16T00:00:00",
+    "description": "Successfull Weekend Tips",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/31051/files-archive",
+            "dateModified": "2024-08-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.31051",
+    "identifier": "zenodo.31051",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Successfull Weekend",
+    "url": "https://zenodo.org/records/31051"
+}

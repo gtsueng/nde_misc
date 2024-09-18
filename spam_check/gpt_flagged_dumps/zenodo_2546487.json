@@ -1,0 +1,59 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2546487",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.22468,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Nokia Bell-Labs"
+            },
+            "name": "Bart Theeten"
+        },
+        {
+            "affiliation": {
+                "name": "Nokia Bell-Labs"
+            },
+            "name": "Frederik Vandeputte"
+        },
+        {
+            "affiliation": {
+                "name": "Nokia Bell-Labs"
+            },
+            "name": "Tom Van Cutsem"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-01-22T00:00:00",
+    "description": "Supplemental material to the MSR 2019 submission, containing a Jupyter Notebook to reproduce some of the results of the evaluation section, as well as trained vectors in multiple dimensions for the Java, JS and Python ecosystems.\n\n\nFor a live demo of a contextual search engine built on import2vec, please visit\u00a0https://www.code-compass.com.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2546488/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.2546487",
+    "identifier": "zenodo.2546487",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Import2vec - Learning Embeddings for Software Libraries",
+    "sameAs": [
+        "https://zenodo.org/records/2546488"
+    ],
+    "url": "https://zenodo.org/record/2546487"
+}

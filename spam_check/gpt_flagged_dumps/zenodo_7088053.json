@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7088053",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 20.754112,
+    "author": [
+        {
+            "name": "WangTao"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-09-20",
+    "dateModified": "2022-09-20",
+    "datePublished": "2022-09-17T00:00:00",
+    "description": "This is a human activity recognition dataset with measurements from both mmWave radar and camera sensor. Meanwhile, we set multiple people scenario to mimic more realistic scenes. The other dataset collected in non-LOS(line-of-sight) environment, you can visit\u00a0https://zenodo.org/record/7096889#.YynBvuhBwQ8 to get it. The mmWave radar sensors used in our experiments are composed of TI\u00a0IWR6843ISK-ODS, eradar ESRR(corner radar), eradar EMRR(front radar). We appreciate the support of the eradar company, that provides corner radars and front radars for us, you can visit\u00a0\u00a0http://en.eradartech.com/\u00a0to get more information.\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7088054/files-archive",
+            "dateModified": "2022-09-20"
+        }
+    ],
+    "doi": "10.5281/zenodo.7088053",
+    "identifier": "zenodo.7088053",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "multiple sensor",
+        "multiple people scenario"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "mmWave Radar and RGB-D Camera Sensor Data for Human Activity Recognition",
+    "sameAs": [
+        "https://zenodo.org/records/7088054"
+    ],
+    "url": "https://zenodo.org/record/7088053"
+}

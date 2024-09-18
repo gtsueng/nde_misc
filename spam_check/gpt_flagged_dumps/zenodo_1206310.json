@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1206310",
+    "_score": 26.026903,
+    "author": [
+        {
+            "name": "BUT"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-02-26",
+    "dateModified": "2021-02-26",
+    "datePublished": "2018-03-24T00:00:00",
+    "description": "LateSys 0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1206311/files-archive",
+            "dateModified": "2021-02-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.1206310",
+    "identifier": "zenodo.1206310",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "LateSys",
+    "sameAs": [
+        "https://zenodo.org/records/1206311"
+    ],
+    "sdPublisher": [
+        {
+            "name": "dihard2018",
+            "url": "https://zenodo.org/communities/dihard2018"
+        }
+    ],
+    "url": "https://zenodo.org/record/1206310"
+}

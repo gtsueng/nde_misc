@@ -1,0 +1,230 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4162527",
+    "_score": 12.564568,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Department of Physics, The Pennsylvania State University, University Park, PA 16802, USA"
+            },
+            "name": "Sachdev, Surabhi"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Physics, The Pennsylvania State University, University Park, PA 16802, USA"
+            },
+            "name": "Rana SK, Javed"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Physics, The Pennsylvania State University, University Park, PA 16802, USA"
+            },
+            "name": "Godwin, Patrick"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Physics, The Pennsylvania State University, University Park, PA 16802, USA"
+            },
+            "name": "Magee, Ryan"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Physics, The Pennsylvania State University, University Park, PA 16802, USA"
+            },
+            "name": "Hanna, Chad"
+        },
+        {
+            "affiliation": {
+                "name": "The University of Tokyo, Hongo 7-3-1 Bunkyo-ku, Tokyo 113-0033, Japan"
+            },
+            "name": "Cannon, Kipp"
+        },
+        {
+            "affiliation": {
+                "name": "NASA/Goddard Space Flight Center, Greenbelt, MD 20771, USA"
+            },
+            "name": "Singer, Leo"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Physics, The Pennsylvania State University, University Park, PA 16802, USA"
+            },
+            "name": "Mukherjee, Debnandini"
+        },
+        {
+            "affiliation": {
+                "name": "Nikhef, Science Park, 1098 XG Amsterdam, Netherlands"
+            },
+            "name": "Caudill, Sarah"
+        },
+        {
+            "affiliation": {
+                "name": "The University of Tokyo, Hongo 7-3-1 Bunkyo-ku, Tokyo 113-0033, Japan"
+            },
+            "name": "Chan, Chiwai"
+        },
+        {
+            "affiliation": {
+                "name": "Leonard E. Parker Center for Gravitation, Cosmology, and Astrophysics, University of Wisconsin-Milwaukee, Milwaukee, WI 53201, USA}"
+            },
+            "name": "Creighton, Jolien D. E."
+        },
+        {
+            "affiliation": {
+                "name": "Department of Physics, The Pennsylvania State University, University Park, PA 16802, USA"
+            },
+            "name": "Ewing, Becca"
+        },
+        {
+            "affiliation": {
+                "name": "The University of Tokyo, Hongo 7-3-1 Bunkyo-ku, Tokyo 113-0033, Japan"
+            },
+            "name": "Fong, Heather"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Physics, The Pennsylvania State University, University Park, PA 16802, USA"
+            },
+            "name": "Huxford, Rachael"
+        },
+        {
+            "affiliation": {
+                "name": "International Centre for Theoretical Sciences, Tata Institute of Fundamental Research, Bengaluru 560089, India"
+            },
+            "name": "Kapadia, Shasvath"
+        },
+        {
+            "affiliation": {
+                "name": "LIGO Laboratory, California Institute of Technology, MS 100-36, Pasadena, California 91125, USA"
+            },
+            "name": "Li, Alvin K. Y."
+        },
+        {
+            "affiliation": {
+                "name": "LIGO Laboratory, California Institute of Technology, MS 100-36, Pasadena, California 91125, USA"
+            },
+            "name": "Lo, Rico Ka Lok"
+        },
+        {
+            "affiliation": {
+                "name": "Leonard E. Parker Center for Gravitation, Cosmology, and Astrophysics, University of Wisconsin-Milwaukee, Milwaukee, WI 53201, USA"
+            },
+            "name": "Meacher, Duncan"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Physics, University of Texas, Austin, TX 78712, USA"
+            },
+            "name": "Messick, Cody"
+        },
+        {
+            "affiliation": {
+                "name": "Leonard E. Parker Center for Gravitation, Cosmology, and Astrophysics, University of Wisconsin-Milwaukee, Milwaukee, WI 53201, USA"
+            },
+            "name": "Mohite, Siddharth R."
+        },
+        {
+            "affiliation": {
+                "name": "The University of Tokyo, Hongo 7-3-1 Bunkyo-ku, Tokyo 113-0033, Japan"
+            },
+            "name": "Nishizawa, Atsushi"
+        },
+        {
+            "affiliation": {
+                "name": "The University of Tokyo, Hongo 7-3-1 Bunkyo-ku, Tokyo 113-0033, Japan"
+            },
+            "name": "Ohta, Hiroaki"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Physics, The Pennsylvania State University, University Park, PA 16802, USA"
+            },
+            "name": "Pace, Alexander"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Physics, Indian Institute of Technology Gandhinagar, Gujarat 382355, India"
+            },
+            "name": "Reza, Amit"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Physics, The Pennsylvania State University, University Park, PA 16802, USA"
+            },
+            "name": "Sathyaprakash, B. S."
+        },
+        {
+            "affiliation": {
+                "name": "The University of Tokyo, Hongo 7-3-1 Bunkyo-ku, Tokyo 113-0033, Japan"
+            },
+            "name": "Shikauchi, Minori"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Physics, The Pennsylvania State University, University Park, PA 16802, USA"
+            },
+            "name": "Singh, Divya"
+        },
+        {
+            "affiliation": {
+                "name": "The University of Tokyo, Hongo 7-3-1 Bunkyo-ku, Tokyo 113-0033, Japan"
+            },
+            "name": "Tsukada, Leo"
+        },
+        {
+            "affiliation": {
+                "name": "The University of Tokyo, Hongo 7-3-1 Bunkyo-ku, Tokyo 113-0033, Japan"
+            },
+            "name": "Tsuna, Daichi"
+        },
+        {
+            "affiliation": {
+                "name": "The University of Tokyo, Hongo 7-3-1 Bunkyo-ku, Tokyo 113-0033, Japan"
+            },
+            "name": "Tsutsui, Takuya"
+        },
+        {
+            "affiliation": {
+                "name": "he University of Tokyo, Hongo 7-3-1 Bunkyo-ku, Tokyo 113-0033, Japan"
+            },
+            "name": "Ueno, Koh"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-10-31",
+    "dateModified": "2020-10-31",
+    "datePublished": "2020-10-30T00:00:00",
+    "description": "Visit\n\n\nhttps://gstlal.docs.ligo.org/ewgw-data-release/index.html\n\n\nfor a web version.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4162528/files-archive",
+            "dateModified": "2020-10-31"
+        }
+    ],
+    "doi": "10.5281/zenodo.4162527",
+    "identifier": "zenodo.4162527",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "binary neutron stars, multi-messenger astronomy, gravitational-waves"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Dataset: An early warning system for EM follow-up of GW events",
+    "sameAs": [
+        "https://zenodo.org/records/4162528"
+    ],
+    "url": "https://zenodo.org/record/4162527"
+}

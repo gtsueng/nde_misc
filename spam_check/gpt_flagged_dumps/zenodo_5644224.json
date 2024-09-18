@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5644224",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.102802,
+    "author": [
+        {
+            "name": "Mag\u00ed P\u00e0mies Sans"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-11-04",
+    "dateModified": "2021-11-04",
+    "datePublished": "2021-11-03T00:00:00",
+    "description": "Relaci\u00f3 dels 20 productes m\u00e9s venuts, els \u00faltims trenta dies,\u00a0a\u00a0la web del portal de venda de cubs de Rubik\u00a0ziicube.\n\n\nCada producte t\u00e9 els\u00a0seg\u00fcents atributs:\n\n\n\n\t\npos: Posici\u00f3 en el r\u00e0rquing dels m\u00e9s venuts\n\t\nid: Codi d'identificaci\u00f3 del producte\n\t\nname: Nom del producte\n\t\nprice: Preu del producte en $\n\t\nrat: Valoraci\u00f3 del producte per part dels consumidors (0-100)\n\t\nlikes: N\u00famero de m'agrades que ha rebut el producte\n\t\nbrand_name: Nom de l'empresa que produeix el producte\n\t\nweb: P\u00e0gina web del producte",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5644225/files-archive",
+            "dateModified": "2021-11-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.5644224",
+    "identifier": "zenodo.5644224",
+    "inLanguage": {
+        "name": "cat"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "rubik",
+        "scraping",
+        "sellers",
+        "top_sellers"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "name": "Els 20 productes m\u00e9s venuts a Ziicube",
+    "sameAs": [
+        "https://zenodo.org/records/5644225"
+    ],
+    "url": "https://zenodo.org/record/5644224"
+}

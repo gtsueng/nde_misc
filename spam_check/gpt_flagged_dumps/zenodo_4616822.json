@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4616822",
+    "_score": 24.408413,
+    "author": [
+        {
+            "affiliation": {
+                "name": "EMBL-EBI"
+            },
+            "identifier": "0000-0002-8170-8806",
+            "name": "Bacon, Wendi Anne"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-08-04",
+    "dateModified": "2022-08-04",
+    "datePublished": "2021-03-18T00:00:00",
+    "description": "These datasets are for use in the Galaxy Training Network tutorial:\u00a0Filter, Plot and Explore Single-cell RNA-seq Data",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4616823/files-archive",
+            "dateModified": "2022-08-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.4616822",
+    "identifier": "zenodo.4616822",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Filter, Plot and Explore Single-cell RNA-seq Data",
+    "sameAs": [
+        "https://zenodo.org/records/4616823"
+    ],
+    "sdPublisher": [
+        {
+            "name": "galaxy-training",
+            "url": "https://zenodo.org/communities/galaxy-training"
+        }
+    ],
+    "url": "https://zenodo.org/record/4616822"
+}

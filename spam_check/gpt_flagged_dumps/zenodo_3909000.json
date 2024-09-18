@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3909000",
+    "_score": 25.48347,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Bologna"
+            },
+            "name": "Emanuela Iovino"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-06-26",
+    "dateModified": "2020-06-26",
+    "datePublished": "2020-06-26T00:00:00",
+    "description": "example file for uncoverapp\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3909001/files-archive",
+            "dateModified": "2020-06-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.3909000",
+    "identifier": "zenodo.3909000",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "example file for uncoverapp",
+    "sameAs": [
+        "https://zenodo.org/records/3909001"
+    ],
+    "url": "https://zenodo.org/record/3909000"
+}

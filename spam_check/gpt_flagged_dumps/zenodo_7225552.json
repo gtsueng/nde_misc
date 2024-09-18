@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7225552",
+    "_score": 25.48347,
+    "author": [
+        {
+            "name": "Daniel Sol\u00e1"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-10-19",
+    "dateModified": "2022-10-19",
+    "datePublished": "2022-10-19T00:00:00",
+    "description": "Michael Jackson Singles & EPs",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7225553/files-archive",
+            "dateModified": "2022-10-19"
+        }
+    ],
+    "doi": "10.5281/zenodo.7225552",
+    "identifier": "zenodo.7225552",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "music"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Michael Jackson Singles & EPs",
+    "sameAs": [
+        "https://zenodo.org/records/7225553"
+    ],
+    "url": "https://zenodo.org/record/7225552"
+}

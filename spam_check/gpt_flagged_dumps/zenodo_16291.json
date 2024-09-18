@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_16291",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.28368,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Freie Universit\u00e4t Berlin"
+            },
+            "name": "Matej Kanduc"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2015-03-24T00:00:00",
+    "description": "Equilibrated DLPC lipid bilayer ran with Gromacs 4.5.4 with Berger force field, 80ns, T=300K, 72 DLPC molecules, hydration level nw=20 water/lipid.\n\n\nThis data is used in the project \"Matching lipid force fields with NMR data\". More information at : http://nmrlipids.blogspot.fi/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/16291/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.16291",
+    "identifier": "zenodo.16291",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "MD trajectory for DLPC bilayer (Berger, Gromacs 4.5.4), nw=20 w/l",
+    "sdPublisher": [
+        {
+            "name": "nmrlipids",
+            "url": "https://zenodo.org/communities/nmrlipids"
+        }
+    ],
+    "url": "https://zenodo.org/records/16291"
+}

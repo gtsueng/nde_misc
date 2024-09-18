@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1919006",
+    "_score": 23.050833,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Wroc\u0142aw"
+            },
+            "identifier": "0000-0002-6530-1328",
+            "name": "Losada Palenzuela, Jos\u00e9 Luis"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-12-04T00:00:00",
+    "description": "Data,\u00a0scripts and web site\u00a0of the project \u201cDigital mapping of fictional places in Spanish Early Modern Byzantine novels\u201d. \u00a0Visit the project web page at http://editio.github.io/mapping.literature",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1919007/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1919006",
+    "identifier": "zenodo.1919006",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Digital mapping",
+        "Literary Cartography",
+        "Novela Bizantina",
+        "R, rstats",
+        "Spanish Golden Age Literature",
+        "leaflet"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Digital mapping of literature. Data, scripts and web",
+    "sameAs": [
+        "https://zenodo.org/records/1919007"
+    ],
+    "url": "https://zenodo.org/record/1919006"
+}

@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1466129",
+    "_score": 24.776787,
+    "author": [
+        {
+            "name": "Byunghan Lee"
+        },
+        {
+            "name": "Junghwan Baek"
+        },
+        {
+            "name": "Seunghyun Park"
+        },
+        {
+            "name": "Sungroh Yoon"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2016-03-30T00:00:00",
+    "description": "'''deepTarget miRNA target prediction - http://data.snu.ac.kr/pub/deepTarget/ '''",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1466129/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.1145/2975167.2975212",
+    "identifier": "zenodo.1466129",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Kipoi",
+        "RNA binding"
+    ],
+    "license": "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
+    "name": "deepTarget  model files",
+    "url": "https://zenodo.org/records/1466129"
+}

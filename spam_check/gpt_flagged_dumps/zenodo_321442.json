@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_321442",
+    "_score": 25.028944,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Laseeb"
+            },
+            "name": "Dias, Ana"
+        },
+        {
+            "affiliation": {
+                "name": "Laseeb"
+            },
+            "name": "Rosa, Agostinho"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2017-02-22T00:00:00",
+    "description": "MSc Thesis AVC NFT dataset of 2 subjects",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/321442/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.321442",
+    "identifier": "zenodo.321442",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Neurofeedback Stroke"
+    ],
+    "name": "ADias AVC NFT dataset",
+    "url": "https://zenodo.org/records/321442"
+}

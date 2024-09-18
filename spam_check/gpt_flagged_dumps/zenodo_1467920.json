@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1467920",
+    "_score": 24.294044,
+    "author": [
+        {
+            "identifier": "0000-0002-2534-1165",
+            "name": "Fabian-Robert St\u00f6ter"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2014-09-01T00:00:00",
+    "description": "The unison source separation data set consist of several single, isolated instruments notes all of the same fundamental frequency (C4).\n\n\nFor more information our accompanying website",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1467921/files-archive",
+            "dateModified": "2020-01-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3465552/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1467920",
+    "identifier": "zenodo.1467920",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Unison Source Separation Dataset",
+    "sameAs": [
+        "https://zenodo.org/records/1467921",
+        "https://zenodo.org/records/3465552"
+    ],
+    "url": "https://zenodo.org/record/1467920"
+}

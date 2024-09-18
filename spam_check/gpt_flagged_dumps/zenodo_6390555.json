@@ -1,0 +1,87 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6390555",
+    "_score": 22.831322,
+    "author": [
+        {
+            "identifier": "0000-0001-7545-7847",
+            "name": "Gioelli, F"
+        },
+        {
+            "affiliation": {
+                "name": "Universit\u00e0 di Torino"
+            },
+            "identifier": "0000-0002-4893-1205",
+            "name": "Marucco, Paolo"
+        },
+        {
+            "affiliation": {
+                "name": "Universit\u00e0 di Torino"
+            },
+            "identifier": "0000-0001-7933-8589",
+            "name": "Mozzanini, Eric"
+        },
+        {
+            "identifier": "0000-0002-9703-4973",
+            "name": "Balsari, Paolo"
+        },
+        {
+            "affiliation": {
+                "name": "Universitat Polit\u00e8cnica de Catalunya"
+            },
+            "identifier": "0000-0002-3929-5649",
+            "name": "Gil Moya, Emilio"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-03-29",
+    "dateModified": "2022-03-29",
+    "datePublished": "2020-05-13T00:00:00",
+    "description": "INNOSETA database: industry solutions",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6390556/files-archive",
+            "dateModified": "2022-03-29"
+        }
+    ],
+    "doi": "10.5281/zenodo.6390555",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "773864",
+            "name": "Accelerating Innovative practices for Spraying Equipment, Training and Advising in European agriculture through the mobilization of Agricultural Knowledge and Innovation Systems"
+        }
+    ],
+    "identifier": "zenodo.6390555",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "INNOSETA database: industry solutions",
+    "sameAs": [
+        "https://zenodo.org/records/6390556"
+    ],
+    "sdPublisher": [
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/6390555"
+}

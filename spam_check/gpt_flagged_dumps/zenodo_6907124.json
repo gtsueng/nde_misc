@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6907124",
+    "_score": 24.412174,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Core Unit for Bioinformatics Data Analysis, Medical Faculty, University of Bonn, Venusberg-Campus 1, 53127 Bonn, Germany"
+            },
+            "identifier": "0000-0001-5239-5137",
+            "name": "Sivalingam, Sugirtahn"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-07-27",
+    "dateModified": "2022-07-27",
+    "datePublished": "2022-07-26T00:00:00",
+    "description": "Raw Data - WES Twist Bonn",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6907125/files-archive",
+            "dateModified": "2022-07-27"
+        }
+    ],
+    "doi": "10.5281/zenodo.6907124",
+    "identifier": "zenodo.6907124",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Twist Data - SIG4 Benchmarking",
+    "sameAs": [
+        "https://zenodo.org/records/6907125"
+    ],
+    "url": "https://zenodo.org/record/6907124"
+}

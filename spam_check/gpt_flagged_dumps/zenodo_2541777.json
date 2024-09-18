@@ -1,0 +1,57 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2541777",
+    "_score": 25.890635,
+    "author": [
+        {
+            "affiliation": {
+                "name": "PCP"
+            },
+            "name": "PCP"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-01-16T00:00:00",
+    "description": ".",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2541778/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.2541777",
+    "identifier": "zenodo.2541777",
+    "inLanguage": {
+        "name": "ang"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "meteo",
+        "ocurrence"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "MeteoUC",
+    "sameAs": [
+        "https://zenodo.org/records/2541778"
+    ],
+    "sdPublisher": [
+        {
+            "name": "1234a",
+            "url": "https://zenodo.org/communities/1234a"
+        }
+    ],
+    "url": "https://zenodo.org/record/2541777"
+}

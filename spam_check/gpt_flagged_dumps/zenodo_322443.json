@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_322443",
+    "_score": 25.09283,
+    "author": [
+        {
+            "name": "Marian Jureckzo"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2010-07-26T00:00:00",
+    "description": "This dataset uses the\u00a0CK\u00a0OO metrics.\n\n\nMore information at\u00a0http://openscience.us/repo/defect/ck/poi.html",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/322443/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.322443",
+    "identifier": "zenodo.322443",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "defect",
+        "ck"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "poi",
+    "sdPublisher": [
+        {
+            "name": "seacraft",
+            "url": "https://zenodo.org/communities/seacraft"
+        }
+    ],
+    "url": "https://zenodo.org/records/322443"
+}

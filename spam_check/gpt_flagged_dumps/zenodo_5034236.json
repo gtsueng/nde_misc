@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5034236",
+    "_score": 25.420303,
+    "author": [
+        {
+            "affiliation": {
+                "name": "eNIOS"
+            },
+            "name": "Bianca Pasat"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-06-26",
+    "dateModified": "2021-06-26",
+    "datePublished": "2021-06-26T00:00:00",
+    "description": "FASTQ files for using VELVET at ANASTASIA",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5034237/files-archive",
+            "dateModified": "2021-06-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.5034236",
+    "identifier": "zenodo.5034236",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "VELVET fastq reference files",
+    "sameAs": [
+        "https://zenodo.org/records/5034237"
+    ],
+    "url": "https://zenodo.org/record/5034236"
+}

@@ -1,0 +1,60 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7844637",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 19.77756,
+    "author": [
+        {
+            "name": "Aprea Castro, Cesar"
+        },
+        {
+            "name": "Martin Solano, Jon Ander"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-04-24",
+    "dateModified": "2023-04-24",
+    "datePublished": "2023-04-19T00:00:00",
+    "description": "El dataset contiene informaci\u00f3n sobre los inmuebles (apartamentos) puestos en venta en las localidades de Madrid y Barcelona.\n\n\n1 fila cabecera y 506 filas de datos.\n\n\nEl dataset est\u00e1\u00a0compuesto por los siguientes campos:\n\n\n\n\t\nPoblaci\u00f3n: indica la poblaci\u00f3n del inmueble, puede ser MADRID o BARCELONA\n\t\nT\u00edtulo: descripci\u00f3n corta del anuncio\n\t\nPrecio: precio del inmueble con la moneda local\n\t\nSuperficie: superficie del inmueble con la unidad\n\t\nHabitaciones: n\u00famero de habitaciones\n\t\nAseos: n\u00famero de aseos\n\t\nReferencia: referencia \u00fanica del anuncio\n\t\nUbicaci\u00f3n: direcci\u00f3n completa del inmueble\n\t\nConsumo: consumo energ\u00e9tico del inmueble\n\t\nAnunciante: descripci\u00f3n del anunciante\n\t\nDescripci\u00f3n: descripci\u00f3n completa del inmueble\n\t\nImages: json con informaci\u00f3n relativa a la primera imagen del anuncio\n\t\nUrl: direcci\u00f3n web original del anuncio\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7857222/files-archive",
+            "dateModified": "2023-04-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7844638/files-archive",
+            "dateModified": "2023-04-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.7844637",
+    "identifier": "zenodo.7844637",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Real state",
+        "Madrid",
+        "Barcelona"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Real state in Madrid and Barcelona: Apartments for selling",
+    "sameAs": [
+        "https://zenodo.org/records/7857222",
+        "https://zenodo.org/records/7844638"
+    ],
+    "url": "https://zenodo.org/record/7844637"
+}

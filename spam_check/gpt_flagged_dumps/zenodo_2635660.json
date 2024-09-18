@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2635660",
+    "_score": 24.907202,
+    "author": [
+        {
+            "affiliation": {
+                "name": "VDL Weweler"
+            },
+            "name": "Peter van Wilgen"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-02-23",
+    "dateModified": "2021-02-23",
+    "datePublished": "2019-04-10T00:00:00",
+    "description": "Sample data measurement machine and mill VDL Weweler",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2635661/files-archive",
+            "dateModified": "2021-02-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.2635660",
+    "identifier": "zenodo.2635660",
+    "inLanguage": {
+        "name": "nld"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Sample data measurement machine and mill VDL Weweler",
+    "sameAs": [
+        "https://zenodo.org/records/2635661"
+    ],
+    "sdPublisher": [
+        {
+            "name": "serena",
+            "url": "https://zenodo.org/communities/serena"
+        }
+    ],
+    "url": "https://zenodo.org/record/2635660"
+}

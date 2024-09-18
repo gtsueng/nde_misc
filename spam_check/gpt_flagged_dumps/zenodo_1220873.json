@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1220873",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 19.150593,
+    "author": [
+        {
+            "affiliation": {
+                "name": "JobsPikr"
+            },
+            "name": "JobsPikr"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-04-19T00:00:00",
+    "description": "SEEK is Australia's number one employment marketplace. This dataset contains 30000 job postings from SEEK Australia website.\n\n\nFollowing data fields are included in the dataset:\n\n\n\n\t\ncategory\n\t\ncity\n\t\nstate\n\t\ncompany name\n\t\njob title\n\t\njob description\n\t\njob type\n\t\nsalary offered\n\t\nposting date\n\n\n\nObjectives\n\n\nThe uses of this dataset are endless. Some of the inspirations could be:\n\n\n\n\t\nTop paying companies\n\t\nHighest number of job posting by a particular company\n\t\nState/City with highest job openings\n\t\nSalary distribution by state\n\t\nRatio of different job types\n\n\n\nBackground\n\n\nThis data was extracted using\u00a0JobsPikr\u00a0- a job data delivery platform that extracts job data from various company sites across the globe on daily basis powered by machine learning techniques.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1220874/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1220873",
+    "identifier": "zenodo.1220873",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "recruitment",
+        "job data",
+        "seek australia",
+        "job board data",
+        "jobspikr"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "30000 job postings from SEEK Australia",
+    "sameAs": [
+        "https://zenodo.org/records/1220874"
+    ],
+    "url": "https://zenodo.org/record/1220873"
+}

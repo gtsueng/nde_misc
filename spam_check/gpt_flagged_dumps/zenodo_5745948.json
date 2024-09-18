@@ -1,0 +1,66 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5745948",
+    "_score": 25.959112,
+    "author": [
+        {
+            "name": "Hanna Anderson"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-01-14",
+    "dateModified": "2022-01-14",
+    "datePublished": "2021-11-30T00:00:00",
+    "description": "Cruise data\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5758971/files-archive",
+            "dateModified": "2022-01-14"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5759077/files-archive",
+            "dateModified": "2022-01-14"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5745949/files-archive",
+            "dateModified": "2022-01-14"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5816068/files-archive",
+            "dateModified": "2022-01-14"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5851755/files-archive",
+            "dateModified": "2022-01-15"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5851761/files-archive",
+            "dateModified": "2023-11-27"
+        }
+    ],
+    "doi": "10.5281/zenodo.5745948",
+    "identifier": "zenodo.5745948",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Cruise data",
+    "sameAs": [
+        "https://zenodo.org/records/5758971",
+        "https://zenodo.org/records/5759077",
+        "https://zenodo.org/records/5745949",
+        "https://zenodo.org/records/5816068",
+        "https://zenodo.org/records/5851755",
+        "https://zenodo.org/records/5851761"
+    ],
+    "url": "https://zenodo.org/record/5745948"
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3730498",
+    "_score": 25.68746,
+    "author": [
+        {
+            "affiliation": {
+                "name": "SINTEF"
+            },
+            "name": "Fuchs, Franz Georg"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-03-28",
+    "dateModified": "2020-03-28",
+    "datePublished": "2020-03-27T00:00:00",
+    "description": "Enlisted MaxCut solutions",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3730499/files-archive",
+            "dateModified": "2020-03-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.3730498",
+    "identifier": "zenodo.3730498",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "MaxCut"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "MaxCut solutions",
+    "sameAs": [
+        "https://zenodo.org/records/3730499"
+    ],
+    "url": "https://zenodo.org/record/3730498"
+}

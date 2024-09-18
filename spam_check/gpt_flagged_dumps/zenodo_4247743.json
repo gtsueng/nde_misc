@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4247743",
+    "_score": 24.719858,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UOC"
+            },
+            "name": "\u00c0lex Penina"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-11-06",
+    "dateModified": "2020-11-06",
+    "datePublished": "2020-11-05T00:00:00",
+    "description": "Habitatges en lloguer a Barcelona que hi ha al\u00a0portal d'Habitaclia, en data 4 de novembre del 2020.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4247744/files-archive",
+            "dateModified": "2020-11-06"
+        }
+    ],
+    "doi": "10.5281/zenodo.4247743",
+    "identifier": "zenodo.4247743",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Habitatges de lloguer a Barcelona",
+    "sameAs": [
+        "https://zenodo.org/records/4247744"
+    ],
+    "url": "https://zenodo.org/record/4247743"
+}

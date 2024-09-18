@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6395455",
+    "_score": 25.754812,
+    "author": [
+        {
+            "affiliation": {
+                "name": "KAIST"
+            },
+            "name": "SeungHeon Doh"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-03-31",
+    "dateModified": "2022-03-31",
+    "datePublished": "2022-03-30T00:00:00",
+    "description": "music zeroshot models",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6395456/files-archive",
+            "dateModified": "2022-03-31"
+        }
+    ],
+    "doi": "10.5281/zenodo.6395455",
+    "identifier": "zenodo.6395455",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Music Zeroshot Models",
+    "sameAs": [
+        "https://zenodo.org/records/6395456"
+    ],
+    "url": "https://zenodo.org/record/6395455"
+}

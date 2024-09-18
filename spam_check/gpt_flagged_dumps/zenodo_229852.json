@@ -1,0 +1,37 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_229852",
+    "_score": 25.889484,
+    "author": [
+        {
+            "name": "TENARIS"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-08-03",
+    "dateModified": "2024-08-03",
+    "datePublished": "2017-01-04T00:00:00",
+    "description": "Documentation from TENARIS",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/229852/files-archive",
+            "dateModified": "2024-08-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.229852",
+    "identifier": "zenodo.229852",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Documentation from TENARIS",
+    "url": "https://zenodo.org/records/229852"
+}

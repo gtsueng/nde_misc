@@ -1,0 +1,66 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8193573",
+    "_score": 25.553862,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UIUC"
+            },
+            "name": "Hyun Park"
+        },
+        {
+            "affiliation": {
+                "name": "UIC"
+            },
+            "name": "Xiaoli Yan"
+        },
+        {
+            "affiliation": {
+                "name": "Argonne"
+            },
+            "name": "Eliu Huerta"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-01-11",
+    "dateModified": "2024-01-11",
+    "datePublished": "2024-01-10T00:00:00",
+    "description": "Nanodiamonds Argonne",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10486066/files-archive",
+            "dateModified": "2024-01-11"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/8270981/files-archive",
+            "dateModified": "2023-08-22"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/8193574/files-archive",
+            "dateModified": "2023-08-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.8193573",
+    "identifier": "zenodo.8193573",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Nanodiamonds",
+    "sameAs": [
+        "https://zenodo.org/records/10486066",
+        "https://zenodo.org/records/8270981",
+        "https://zenodo.org/records/8193574"
+    ],
+    "url": "https://zenodo.org/record/8193573"
+}

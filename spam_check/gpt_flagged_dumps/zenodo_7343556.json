@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7343556",
+    "_score": 25.68746,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Ramos"
+            },
+            "name": "Gerard"
+        },
+        {
+            "affiliation": {
+                "name": "Verges"
+            },
+            "name": "Jaume"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-11-23",
+    "dateModified": "2022-11-23",
+    "datePublished": "2022-11-21T00:00:00",
+    "description": "Summary of Instant Games",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7343557/files-archive",
+            "dateModified": "2022-11-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.7343556",
+    "identifier": "zenodo.7343556",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Instant Gaming",
+    "sameAs": [
+        "https://zenodo.org/records/7343557"
+    ],
+    "url": "https://zenodo.org/record/7343556"
+}

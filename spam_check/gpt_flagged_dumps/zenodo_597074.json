@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_597074",
+    "_score": 23.596565,
+    "author": [
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-10-19",
+    "dateModified": "2023-10-19",
+    "datePublished": "2023-10-19T00:00:00",
+    "description": "This software offers the most recent and mostly stable version of the EDICTOR tool, also available for direct usage from digling.org/edictor/.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10021530/files-archive",
+            "dateModified": "2023-10-19"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4685130/files-archive",
+            "dateModified": "2021-04-14"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3832086/files-archive",
+            "dateModified": "2021-04-14"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/48834/files-archive",
+            "dateModified": "2021-04-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.597074",
+    "identifier": "zenodo.597074",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "wordlist",
+        "linguistics",
+        "computer-assisted language comparison"
+    ],
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "EDICTOR. A web-based interactive tool for creating, inspecting, editing, and publishing etymological datasets",
+    "sameAs": [
+        "https://zenodo.org/records/10021530",
+        "https://zenodo.org/records/4685130",
+        "https://zenodo.org/records/3832086",
+        "https://zenodo.org/records/48834"
+    ],
+    "sdPublisher": [
+        {
+            "name": "lexibank",
+            "url": "https://zenodo.org/communities/lexibank"
+        },
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/597074"
+}

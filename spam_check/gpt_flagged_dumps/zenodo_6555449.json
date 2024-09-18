@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6555449",
+    "_score": 25.818918,
+    "author": [
+        {
+            "name": "Jefferson Buendia"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-05-17",
+    "dateModified": "2022-05-17",
+    "datePublished": "2022-05-17T00:00:00",
+    "description": "CU Tocilizumab Colombia",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6555450/files-archive",
+            "dateModified": "2022-05-17"
+        }
+    ],
+    "doi": "10.5281/zenodo.6555449",
+    "identifier": "zenodo.6555449",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "CU Tocilizumab Colombia",
+    "sameAs": [
+        "https://zenodo.org/records/6555450"
+    ],
+    "url": "https://zenodo.org/record/6555449"
+}

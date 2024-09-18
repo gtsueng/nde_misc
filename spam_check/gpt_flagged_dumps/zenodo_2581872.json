@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2581872",
+    "_score": 24.051388,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Freiburg"
+            },
+            "identifier": "0000-0002-9464-6640",
+            "name": "Maier, Wolfgang"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-05-25",
+    "dateModified": "2023-05-25",
+    "datePublished": "2023-05-23T00:00:00",
+    "description": "Oncology-specific annotation files for use with GEMINI - with (upcoming) special support through Galaxy's GEMINI annotate tool wrapper.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7962928/files-archive",
+            "dateModified": "2023-05-25"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/2581873/files-archive",
+            "dateModified": "2023-05-23"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7962919/files-archive",
+            "dateModified": "2023-05-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.2581872",
+    "identifier": "zenodo.2581872",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "cancer",
+        "variant analysis",
+        "molecular oncology",
+        "annotation",
+        "gemini",
+        "Galaxy"
+    ],
+    "license": "http://www.opendatacommons.org/licenses/odbl/1.0/",
+    "name": "GEMINI onco-extras package",
+    "sameAs": [
+        "https://zenodo.org/records/7962928",
+        "https://zenodo.org/records/2581873",
+        "https://zenodo.org/records/7962919"
+    ],
+    "sdPublisher": [
+        {
+            "name": "free-onco-anno",
+            "url": "https://zenodo.org/communities/free-onco-anno"
+        }
+    ],
+    "url": "https://zenodo.org/record/2581872"
+}

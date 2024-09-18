@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3888530",
+    "_score": 24.781975,
+    "author": [
+        {
+            "affiliation": {
+                "name": "IST Austria"
+            },
+            "name": "Alexander Johnson"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-06-14",
+    "dateModified": "2020-06-14",
+    "datePublished": "2020-06-10T00:00:00",
+    "description": "Example data to test analysis at\u00a010.5281/zenodo.3888519\n\n\nFor further details please check\u00a0www.github.com/ajohnsoncode/plantCmeMethods",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3888531/files-archive",
+            "dateModified": "2020-06-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.3888530",
+    "identifier": "zenodo.3888530",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Plant CME Methods - Example Data",
+    "sameAs": [
+        "https://zenodo.org/records/3888531"
+    ],
+    "url": "https://zenodo.org/record/3888530"
+}

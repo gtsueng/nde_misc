@@ -1,0 +1,43 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7355111",
+    "_score": 25.958002,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Peking University"
+            },
+            "name": "Zongzhi Wu"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2100-11-22",
+    "dateModified": "2022-11-24",
+    "datePublished": "2100-11-22T00:00:00",
+    "description": "GWVD",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7355112/files-archive",
+            "dateModified": "2022-11-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.7355111",
+    "identifier": "zenodo.7355111",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "GWVD",
+    "sameAs": [
+        "https://zenodo.org/records/7355112"
+    ],
+    "url": "https://zenodo.org/record/7355111"
+}

@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5594847",
+    "_score": 25.955711,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Xi"
+            },
+            "name": "Rui"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-06-03",
+    "dateModified": "2022-06-03",
+    "datePublished": "2022-01-13T00:00:00",
+    "description": "GoHigh's Dataset.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6610608/files-archive",
+            "dateModified": "2022-06-03"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5594848/files-archive",
+            "dateModified": "2022-06-03"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5843540/files-archive",
+            "dateModified": "2022-06-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.5594847",
+    "identifier": "zenodo.5594847",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "GoHigh's Dataset",
+    "sameAs": [
+        "https://zenodo.org/records/6610608",
+        "https://zenodo.org/records/5594848",
+        "https://zenodo.org/records/5843540"
+    ],
+    "url": "https://zenodo.org/record/5594847"
+}

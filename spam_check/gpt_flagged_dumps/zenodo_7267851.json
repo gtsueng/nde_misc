@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7267851",
+    "_score": 23.12658,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Aarhus University"
+            },
+            "name": "Arian Bakhtiarnia"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-01-31",
+    "dateModified": "2023-01-31",
+    "datePublished": "2022-10-31T00:00:00",
+    "description": "PromptMix: Text-to-image diffusion models enhance the performance of lightweight networks",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7267852/files-archive",
+            "dateModified": "2023-01-31"
+        }
+    ],
+    "doi": "10.5281/zenodo.7267851",
+    "identifier": "zenodo.7267851",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "PromptMix - Part 2",
+    "sameAs": [
+        "https://zenodo.org/records/7267852"
+    ],
+    "url": "https://zenodo.org/record/7267851"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3749303",
+    "_score": 24.535456,
+    "author": [
+        {
+            "name": "Wallisson Moreira de Carvalho"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-11-04",
+    "dateModified": "2020-11-04",
+    "datePublished": "2020-04-16T00:00:00",
+    "description": "This is a discontinued project. There is a Python package with an improvement in these functions. You can see it clicking on here",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3755040/files-archive",
+            "dateModified": "2020-11-04"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3755065/files-archive",
+            "dateModified": "2020-11-04"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3749304/files-archive",
+            "dateModified": "2020-11-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.3749303",
+    "identifier": "zenodo.3749303",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "HidroData",
+    "sameAs": [
+        "https://zenodo.org/records/3755040",
+        "https://zenodo.org/records/3755065",
+        "https://zenodo.org/records/3749304"
+    ],
+    "url": "https://zenodo.org/record/3749303"
+}

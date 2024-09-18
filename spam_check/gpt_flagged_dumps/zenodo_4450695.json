@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4450695",
+    "_score": 25.226171,
+    "author": [
+        {
+            "affiliation": {
+                "name": "JGI"
+            },
+            "name": "Bushnell, Brian"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-01-20",
+    "dateModified": "2021-01-20",
+    "datePublished": "2021-01-19T00:00:00",
+    "description": "See\u00a0http://seqanswers.com/forums/archive/index.php/t-42552.html",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4450696/files-archive",
+            "dateModified": "2021-01-20"
+        }
+    ],
+    "doi": "10.5281/zenodo.4450695",
+    "identifier": "zenodo.4450695",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Human genome for contaminant removal of metagenome reads",
+    "sameAs": [
+        "https://zenodo.org/records/4450696"
+    ],
+    "url": "https://zenodo.org/record/4450695"
+}

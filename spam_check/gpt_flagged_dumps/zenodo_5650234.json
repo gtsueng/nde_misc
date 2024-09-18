@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5650234",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 20.417406,
+    "author": [
+        {
+            "name": "Truman Tapia"
+        },
+        {
+            "name": "Julio Zamora Guerrero"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-11-07",
+    "dateModified": "2021-11-07",
+    "datePublished": "2021-11-06T00:00:00",
+    "description": "Information about hotel rooms in the best 10 cities according to THE WORLD'S BEST CITIES 2021 (https://www.bestcities.org/rankings/worlds-best-cities/). The dataset covers the time interval from\u00a01/12/2021 to\u00a028/2/2022. Text fields are in Spanish.\n\n\nColumns description:\n\n\n\n\t\n\n\t\nciudad_busqueda:\u00a0Ciudad del hotel\n\t\n\t\n\n\t\nfecha_busqueda:\u00a0Marca de tiempo de la b\u00fasqueda\n\t\n\t\n\n\t\nfecha_registro:\u00a0Fecha de entrada al hotel\n\t\n\t\n\n\t\nnombre_establecimiento:\u00a0Nombre del hotel\n\t\n\t\n\n\t\ndireccion_establecimiento:\u00a0Direcci\u00f3n del hotel\n\t\n\t\n\n\t\nservicios_establecimiento:\u00a0Servicios disponibles del hotel\n\t\n\t\n\n\t\nimagen_establecimiento:\u00a0URL a la foto de portada del hotel\n\t\n\t\n\n\t\nlink_reserva:\u00a0Link para reservar en hoteles.com\u00a0\n\t\n\t\n\n\t\nprecio:\u00a0Precio del hotel en USD por habitaci\u00f3n y por noche",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5650235/files-archive",
+            "dateModified": "2021-11-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.5650234",
+    "identifier": "zenodo.5650234",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "hotel",
+        "travel",
+        "tourism"
+    ],
+    "license": null,
+    "name": "Hotel rooms in the best 10 cities of the world",
+    "sameAs": [
+        "https://zenodo.org/records/5650235"
+    ],
+    "url": "https://zenodo.org/record/5650234"
+}

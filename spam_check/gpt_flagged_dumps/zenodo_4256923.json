@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4256923",
+    "_score": 24.412174,
+    "author": [
+        {
+            "name": "Gerard L\u00f3pez Roig"
+        },
+        {
+            "name": "Antonio \u00c0ngel Mart\u00ednez Chamizo"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-11-08",
+    "dateModified": "2020-11-08",
+    "datePublished": "2020-11-07T00:00:00",
+    "description": "Web Scraper dels preus i caracter\u00edstiques dels vehicles de la marca AUDI de segona m\u00e0 anunciats a Autocasion.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4256924/files-archive",
+            "dateModified": "2020-11-08"
+        }
+    ],
+    "doi": "10.5281/zenodo.4256923",
+    "identifier": "zenodo.4256923",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Audi, Ocasi\u00f3n, CSV"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Audi Ocasi\u00f3n Espanya",
+    "sameAs": [
+        "https://zenodo.org/records/4256924"
+    ],
+    "url": "https://zenodo.org/record/4256923"
+}

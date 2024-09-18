@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4383179",
+    "_score": 25.821346,
+    "author": [
+        {
+            "name": "Chaudhary, Ujwal"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-12-23",
+    "dateModified": "2020-12-23",
+    "datePublished": "2020-12-21T00:00:00",
+    "description": "MCS Data Comicon",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4383180/files-archive",
+            "dateModified": "2020-12-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.4383179",
+    "identifier": "zenodo.4383179",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "MCS Data Comicon",
+    "sameAs": [
+        "https://zenodo.org/records/4383180"
+    ],
+    "url": "https://zenodo.org/record/4383179"
+}

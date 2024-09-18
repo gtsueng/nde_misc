@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3252168",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 11.316829,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of French Guiana"
+            },
+            "identifier": "0000-0001-9869-401X",
+            "name": "Marie Latour"
+        },
+        {
+            "affiliation": {
+                "name": "University of French Guiana"
+            },
+            "name": "Caroline Boiteux"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-06-21T00:00:00",
+    "description": "This serious game was created within the library of the University of French Guiana by Marie Latour and Caroline Boiteux to ensure understanding of the main principles of Open Access, and to start the debate on the challenges raised. To this end, the players are invited to reflect on the weight of traditional journals, by comparing these with the Open Access green model. A first approach to the question of the evaluation of research \u2013 with its indicators \u2013 is proposed.\u00a0\n\n\nThis game was presented for the first time during the Open Access Week 2016, which was organized in Cayenne by the BU, with the financial support of COUPERIN. For this event, a graphic designer, Jordy le Bruchec (Signarama, Cayenne) was hired to create the visuals. Two presentation sessions were organized in Cayenne for PhD students at the \u201cDiversities, health and development in Amazonia\u201d postgraduate school (University of French Guiana). This game was then included as part of the doctoral training offered each year by the library of the University of French Guiana and its PhD students. Other schools and universities then adopted it and tailored it for their events and own training courses: INSA - Lyon, Lilliad - Lille, Claude Bernard University (Lyon 1), etc.\n\n\nIn 2019, this game is translated into English to be presented at the IFLA Libraries congress at Athens (Greece) and at LIBER European Libraries congress at Dublin (Ireland). The professional traductor selected was Y.A.N.A Traduction (Cayenne, French Guiana).\n\n\nThe library of the University of French Guiana gives the opportunity to download the entire game to be able to use it freely and at no cost in your establishments. Three formats are avaible : JPEG, PDF and InDesign. It is placed under the Creative Commons BY NC SA license, which allows its free re-use provided that the authors are cited and there is no commercial use. It is possible to modify the game: however, all modifications must be exclusively shared under the same license under which the initial game was placed. We would like to remind you that the removal of the logos of the University of French Guiana from the cards and game boards is strictly prohibited.\n\n\nAll the files for this game are freely available and downloadable under the Creative Commons BY NC SA license on the permanent archiving site in three formats: JPEG, PDF and InDesign. They are modifiable and distributable, but it is requested not to use them commercially. Institutions interested in buying a copy of the game are offered this possibility: besides the price of the game, fixed price of \u20ac30 per game must be paid to the University of French Guiana. This amount will be reinvested in the creation of new educational and enjoyable products, which will be shared with the community!\u00a0\n\n\nFor more information or to purchase a copy, please contact Marie Latour, delegate director of the library of the University of French Guiana and creator of these games using the following email: marie.latour@univ-guyane.fr\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3252169/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3252168",
+    "identifier": "zenodo.3252168",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Card game",
+        "Serious Game",
+        "PhD",
+        "Gamification",
+        "Open Access",
+        "Open Science"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Card game \"Open Strategist\" (English version)",
+    "sameAs": [
+        "https://zenodo.org/records/3252169"
+    ],
+    "sdPublisher": [
+        {
+            "name": "adbu_competencesinformationnelles",
+            "url": "https://zenodo.org/communities/adbu_competencesinformationnelles"
+        }
+    ],
+    "url": "https://zenodo.org/record/3252168"
+}

@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8165831",
+    "_score": 23.259604,
+    "author": [
+        {
+            "name": "faiith"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-11",
+    "dateModified": "2024-07-11",
+    "datePublished": "2023-07-19T00:00:00",
+    "description": "2023)2024 Fountain Unveristy, Oshogbo 1st/2nd Batch Admission List\u00a0 has been Released is out. CALL (0)8039816237) +2348039816237 TO CHECK TRANSFER , ADMISSION,IJMB,JUPEB,PRE DEGREE FORM",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8165832/files-archive",
+            "dateModified": "2024-07-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.8165831",
+    "identifier": "zenodo.8165831",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "2023)2024 Fountain Unveristy, Oshogbo 1st/2nd Batch Admission List\u00a0 has been Released is out. CALL (0)8039816237) +2348039816237 TO CHECK TRANSFER , ADMISSION,IJMB,JUPEB,PRE DEGREE FORM",
+    "sameAs": [
+        "https://zenodo.org/records/8165832"
+    ],
+    "url": "https://zenodo.org/record/8165831"
+}

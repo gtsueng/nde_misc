@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3691517",
+    "_score": 22.831322,
+    "author": [
+        {
+            "affiliation": {
+                "name": "NoHo"
+            },
+            "name": "Klemens Kopetzky"
+        },
+        {
+            "affiliation": {
+                "name": "INRIA"
+            },
+            "name": "Sebastian Vizcay"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-02-29",
+    "dateModified": "2020-02-29",
+    "datePublished": "2020-02-28T00:00:00",
+    "description": "3D models of the Catalhoyuk reconstructed houses and objects included in the EMOTIVE Catalhoyuk virtual reality experience. More information can be found here: https://emotiveproject.eu/index.php/what-we-do/experiences/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3691518/files-archive",
+            "dateModified": "2020-02-29"
+        }
+    ],
+    "doi": "10.5281/zenodo.3691517",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "727188",
+            "name": "Emotive Virtual cultural Experiences through personalized storytelling"
+        }
+    ],
+    "identifier": "zenodo.3691517",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Catalhoyuk, archaeological site, 3D models"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "3D models of Catalhoyuk reconstructed houses and objects",
+    "sameAs": [
+        "https://zenodo.org/records/3691518"
+    ],
+    "sdPublisher": [
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/3691517"
+}

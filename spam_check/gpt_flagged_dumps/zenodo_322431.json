@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_322431",
+    "_score": 24.613113,
+    "author": [
+        {
+            "name": "Marian Jureckzo"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2010-07-26T00:00:00",
+    "description": "Additional info at\u00a0http://openscience.us/repo/defect/ck/berek.html",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/322431/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.322431",
+    "identifier": "zenodo.322431",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "defect",
+        "ck"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "berek",
+    "sdPublisher": [
+        {
+            "name": "seacraft",
+            "url": "https://zenodo.org/communities/seacraft"
+        }
+    ],
+    "url": "https://zenodo.org/records/322431"
+}

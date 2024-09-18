@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4697618",
+    "_score": 25.751087,
+    "author": [
+        {
+            "name": "Anonymous"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-04-17",
+    "dateModified": "2021-04-17",
+    "datePublished": "2021-04-16T00:00:00",
+    "description": "Source (link)\u00a0of Silent Misconfigurations",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4697619/files-archive",
+            "dateModified": "2021-04-17"
+        }
+    ],
+    "doi": "10.5281/zenodo.4697618",
+    "identifier": "zenodo.4697618",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Source of Silent Misconfigurations",
+    "sameAs": [
+        "https://zenodo.org/records/4697619"
+    ],
+    "url": "https://zenodo.org/record/4697618"
+}

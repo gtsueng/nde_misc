@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4058440",
+    "_score": 25.959112,
+    "author": [
+        {
+            "name": "Shchukarev, Andrey"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-09-30",
+    "dateModified": "2020-09-30",
+    "datePublished": "2020-09-29T00:00:00",
+    "description": "D-Glucosamine hydrochloride",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4058441/files-archive",
+            "dateModified": "2020-09-30"
+        }
+    ],
+    "doi": "10.5281/zenodo.4058440",
+    "identifier": "zenodo.4058440",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "D-Glucosamine hydrochloride",
+    "sameAs": [
+        "https://zenodo.org/records/4058441"
+    ],
+    "url": "https://zenodo.org/record/4058440"
+}

@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7561886",
+    "_score": 25.822535,
+    "author": [
+        {
+            "affiliation": {
+                "name": "a"
+            },
+            "name": "abel"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-01-24",
+    "dateModified": "2023-01-24",
+    "datePublished": "2023-01-23T00:00:00",
+    "description": "toy meteo",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7561886/files-archive",
+            "dateModified": "2023-01-24"
+        }
+    ],
+    "doi": "10.3256/abe.lgb",
+    "identifier": "zenodo.7561886",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "meteo"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "meteo_abel",
+    "sdPublisher": [
+        {
+            "name": "1a2b3c4d",
+            "url": "https://zenodo.org/communities/1a2b3c4d"
+        }
+    ],
+    "url": "https://zenodo.org/records/7561886"
+}

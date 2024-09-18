@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6569381",
+    "_score": 23.48471,
+    "author": [
+        {
+            "affiliation": {
+                "name": "HSE University"
+            },
+            "name": "Maxim Rachinskiy"
+        },
+        {
+            "affiliation": {
+                "name": "HSE University, Lomonosov Moscow State University, Samsung Research Center Russia"
+            },
+            "name": "Nikolay Arefyev"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-05-22",
+    "dateModified": "2022-05-22",
+    "datePublished": "2022-05-21T00:00:00",
+    "description": "Precomputed vectors for the GlossReader system. \nLSCDiscovery Competition: https://codalab.lisn.upsaclay.fr/competitions/2243.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6569382/files-archive",
+            "dateModified": "2022-05-22"
+        }
+    ],
+    "doi": "10.5281/zenodo.6569381",
+    "identifier": "zenodo.6569381",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "GlossReader at LSCDiscovery: Train to Select a Proper Gloss in English -- Discover Lexical Semantic Change in Spanish",
+    "sameAs": [
+        "https://zenodo.org/records/6569382"
+    ],
+    "url": "https://zenodo.org/record/6569381"
+}

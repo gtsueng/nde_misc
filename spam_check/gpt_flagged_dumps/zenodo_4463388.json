@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4463388",
+    "_score": 23.596565,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Universit\u00e9 Polytechnique Hauts-de-France"
+            },
+            "name": "G\u00f3is Mateus, Bruno"
+        },
+        {
+            "affiliation": {
+                "name": "Universit\u00e9 Polytechnique Hauts-de-France"
+            },
+            "name": "Martinez, Matias"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-02-05",
+    "dateModified": "2021-02-05",
+    "datePublished": "2021-01-25T00:00:00",
+    "description": "The largest publicy available dataset of Open-source applications written in Kotlin.\n\n\n\u00a0\n\n\nThe source code of all applications from FAMAZOA v3.\n\n\nMore info\u00a0available at: \u00a0https://uphf.github.io/FAMAZOA/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4463389/files-archive",
+            "dateModified": "2021-02-05"
+        }
+    ],
+    "doi": "10.5281/zenodo.4463388",
+    "identifier": "zenodo.4463388",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "kotlin, android applications, open source"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "FAMAZOA v3.0",
+    "sameAs": [
+        "https://zenodo.org/records/4463389"
+    ],
+    "url": "https://zenodo.org/record/4463388"
+}

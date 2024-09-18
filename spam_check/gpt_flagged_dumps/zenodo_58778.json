@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_58778",
+    "_score": 26.026903,
+    "author": [
+        {
+            "affiliation": {
+                "name": "ITB"
+            },
+            "name": "Aila"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2016-07-25T00:00:00",
+    "description": "Game",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/58778/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.58778",
+    "identifier": "zenodo.58778",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Game pecahan",
+    "url": "https://zenodo.org/records/58778"
+}

@@ -1,0 +1,101 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7780498",
+    "_score": 20.754112,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Chalmers University of Technology, Gothenburg, Sweden"
+            },
+            "identifier": "0000-0003-1916-7348",
+            "name": "John, Jobin"
+        },
+        {
+            "affiliation": {
+                "name": "Graz University of Technology, Graz, Austria"
+            },
+            "name": "Klug, Corina"
+        },
+        {
+            "affiliation": {
+                "name": "University of Ljubljana, Ljubljana, Slovenia"
+            },
+            "name": "Kranjec, Matej"
+        },
+        {
+            "affiliation": {
+                "name": "Dynamore Nordic AB, Gothenburg, Sweden"
+            },
+            "name": "Svenning, Erik"
+        },
+        {
+            "affiliation": {
+                "name": "Chalmers University of Technology, Gothenburg, Sweden"
+            },
+            "identifier": "0000-0001-9360-0707",
+            "name": "Iraeus, Johan"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-03-31",
+    "dateModified": "2023-03-31",
+    "datePublished": "2023-03-29T00:00:00",
+    "description": "LS-Dyna simulations files (animations[d3plots] and binary outputs [binouts]) from the publication introducing VIVA+ Human Body Models, https://www.frontiersin.org/articles/10.3389/fbioe.2022.918904/full",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7780499/files-archive",
+            "dateModified": "2023-03-31"
+        }
+    ],
+    "doi": "10.5281/zenodo.7780498",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "768960",
+            "name": "Open access virtual testing protocols for enhanced road users safety"
+        }
+    ],
+    "identifier": "zenodo.7780498",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Finite element simulations",
+        "LS-Dyna",
+        "Human Body Model",
+        "Sex-differences",
+        "Crash safety,",
+        "Vulnerable Road Users",
+        "Blunt impact",
+        "Model validation"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Hello, world! VIVA+ blunt impact simulations",
+    "sameAs": [
+        "https://zenodo.org/records/7780499"
+    ],
+    "sdPublisher": [
+        {
+            "name": "vivaplus",
+            "url": "https://zenodo.org/communities/vivaplus"
+        },
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/7780498"
+}

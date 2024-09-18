@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3973227",
+    "_score": 25.161694,
+    "author": [
+        {
+            "name": "Zakaria Louadi"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-08-06",
+    "dateModified": "2020-08-06",
+    "datePublished": "2020-08-05T00:00:00",
+    "description": "Example 1 Cufflinks output (brain.fpkm_tracking).\n\n\n\u00a0\n\n\nDIGGER:\u00a0https://exbio.wzw.tum.de/digger/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3973228/files-archive",
+            "dateModified": "2020-08-06"
+        }
+    ],
+    "doi": "10.5281/zenodo.3973227",
+    "identifier": "zenodo.3973227",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Example 1 Cufflinks output (brain.fpkm_tracking)",
+    "sameAs": [
+        "https://zenodo.org/records/3973228"
+    ],
+    "url": "https://zenodo.org/record/3973227"
+}

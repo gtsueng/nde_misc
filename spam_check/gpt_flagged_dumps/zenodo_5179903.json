@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5179903",
+    "_score": 24.414122,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Bonn"
+            },
+            "name": "Yaser Souri"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-08-11",
+    "dateModified": "2021-08-11",
+    "datePublished": "2021-08-11T00:00:00",
+    "description": "Breakfast Dataset with I3D features for Action Segmentation Using MuCon\n\n\n\u00a0\n\n\nVisit: https://github.com/yassersouri/MuCon",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5179904/files-archive",
+            "dateModified": "2021-08-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.5179903",
+    "identifier": "zenodo.5179903",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Breakfast Dataset with I3D features for Action Segmentation Using MuCon",
+    "sameAs": [
+        "https://zenodo.org/records/5179904"
+    ],
+    "url": "https://zenodo.org/record/5179903"
+}

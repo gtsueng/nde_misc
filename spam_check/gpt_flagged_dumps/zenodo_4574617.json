@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4574617",
+    "_score": 24.239687,
+    "author": [
+        {
+            "affiliation": {
+                "name": "State University of Maring\u00e1"
+            },
+            "name": "Giovanna Bettin"
+        },
+        {
+            "affiliation": {
+                "name": "State University of Maring\u00e1"
+            },
+            "name": "Edson OliveiraJr"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-03-03",
+    "dateModified": "2021-03-03",
+    "datePublished": "2021-03-02T00:00:00",
+    "description": "SMartyPerspective - Estudo Qualitativo",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4574618/files-archive",
+            "dateModified": "2021-03-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.4574617",
+    "identifier": "zenodo.4574617",
+    "inLanguage": {
+        "name": "por"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "SMartyPerspective - Estudo Qualitativo",
+    "sameAs": [
+        "https://zenodo.org/records/4574618"
+    ],
+    "url": "https://zenodo.org/record/4574617"
+}

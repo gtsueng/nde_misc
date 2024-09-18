@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4774460",
+    "_score": 25.958002,
+    "author": [
+        {
+            "affiliation": {
+                "name": "BUENDIA"
+            },
+            "name": "Jefferson"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-05-20",
+    "dateModified": "2021-05-20",
+    "datePublished": "2021-05-20T00:00:00",
+    "description": "DB \u00a0azithromycin\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4774461/files-archive",
+            "dateModified": "2021-05-20"
+        }
+    ],
+    "doi": "10.5281/zenodo.4774460",
+    "identifier": "zenodo.4774460",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "DB  azithromycin",
+    "sameAs": [
+        "https://zenodo.org/records/4774461"
+    ],
+    "url": "https://zenodo.org/record/4774460"
+}

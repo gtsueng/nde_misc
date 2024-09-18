@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7641457",
+    "_score": 24.055458,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Bari"
+            },
+            "name": "Daniele Cornara"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-06-25",
+    "dateModified": "2024-06-25",
+    "datePublished": "2023-02-14T00:00:00",
+    "description": "EPG Recs Bgss inoculation",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7641458/files-archive",
+            "dateModified": "2024-06-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.7641457",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "835732",
+            "name": "Understanding the relationship between Xylella fastidiosa and the meadow spittlebug Philaenus spumarius for a sustainable bacterial-mediated diseases control"
+        }
+    ],
+    "identifier": "zenodo.7641457",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "EPG Recs Bgss inoculation",
+    "sameAs": [
+        "https://zenodo.org/records/7641458"
+    ],
+    "url": "https://zenodo.org/record/7641457"
+}

@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6402640",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 18.605999,
+    "author": [
+        {
+            "name": "Javier Guimerans Alonso"
+        },
+        {
+            "name": "Gerson Villalva Arana"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-04-03",
+    "dateModified": "2022-04-03",
+    "datePublished": "2022-04-03T00:00:00",
+    "description": "El dataset contiene los siguientes campos:\n\n* ID N\u00famero identificativo de la vivienda.\n* Precio (\u20ac/mes): Precio de la vivienda en euros mensuales.\n* Tipo: Tipo de vivienda.\n* Tel\u00e9fono: N\u00famero de tel\u00e9fono del anunciante.\n* Ciudad: Ciudad donde se encuentra el inmueble.\n* Direcci\u00f3n: Calle donde se encuentra el inmueble.\n* Barrio: Barrio donde se encuentra la vivienda.\n* Habitaciones: N\u00famero de habitaciones.\n* Ba\u00f1os: N\u00famero de ba\u00f1os.\n* Superficie (m2): Superficie de la vivienda en metros cuadrados.\n* Planta: Planta donde se encuentra la vivienda.\n* Ascensor: La vivienda dispone de ascensor.\n* Terraza: La vivienda dispone de terraza.\n* Parking: La vivienda dispone de parking.\n* Calefacci\u00f3n: La vivienda dispone de calefacci\u00f3n.\n* Aire: La vivienda dispone de aire acondicionado.\n* Balc\u00f3n: La vivienda dispone de balc\u00f3n.\n* Precio del m2 (\u20ac/m2): Relaci\u00f3n entre el precio y la superficie \nde la vivienda en euros por metro cuadrado.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6409348/files-archive",
+            "dateModified": "2022-04-03"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6402641/files-archive",
+            "dateModified": "2022-04-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.6402640",
+    "identifier": "zenodo.6402640",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "price, rent, alquiler, precio"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Rent prices",
+    "sameAs": [
+        "https://zenodo.org/records/6409348",
+        "https://zenodo.org/records/6402641"
+    ],
+    "url": "https://zenodo.org/record/6402640"
+}

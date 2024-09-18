@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1341107",
+    "_score": 24.412174,
+    "author": [
+        {
+            "affiliation": {
+                "name": "i3mainz - Institut f\u00fcr Raumbezogene Informations-und Messtechnik"
+            },
+            "identifier": "0000-0002-3246-3531",
+            "name": "Florian Thiery"
+        },
+        {
+            "affiliation": {
+                "name": "i3mainz - Institut f\u00fcr Raumbezogene Informations-und Messtechnik"
+            },
+            "name": "Martin Unold"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-01-19T00:00:00",
+    "description": "Academic Meta Tool - mainzed ontology",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1341108/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1341107",
+    "identifier": "zenodo.1341107",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Academic Meta Tool - mainzed ontology",
+    "sameAs": [
+        "https://zenodo.org/records/1341108"
+    ],
+    "url": "https://zenodo.org/record/1341107"
+}

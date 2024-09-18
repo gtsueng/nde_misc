@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3351374",
+    "_score": 24.907202,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Mus\u00e9um National d'Histoire Naturelle"
+            },
+            "name": "Yguel Benjamin"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-08-04",
+    "dateModified": "2022-08-04",
+    "datePublished": "2019-07-25T00:00:00",
+    "description": "Example file for the tutorial STOC indicator trend",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3351375/files-archive",
+            "dateModified": "2022-08-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.3351374",
+    "identifier": "zenodo.3351374",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "STOC indicator trend - Galaxy Training Network",
+    "sameAs": [
+        "https://zenodo.org/records/3351375"
+    ],
+    "sdPublisher": [
+        {
+            "name": "galaxy-training",
+            "url": "https://zenodo.org/communities/galaxy-training"
+        }
+    ],
+    "url": "https://zenodo.org/record/3351374"
+}

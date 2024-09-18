@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4742024",
+    "_score": 25.959112,
+    "author": [
+        {
+            "name": "Watcharasupat, Karn"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-05-10",
+    "dateModified": "2021-05-10",
+    "datePublished": "2021-05-07T00:00:00",
+    "description": "DCASE Heatmap",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4742025/files-archive",
+            "dateModified": "2021-05-10"
+        }
+    ],
+    "doi": "10.5281/zenodo.4742024",
+    "identifier": "zenodo.4742024",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "DCASE Heatmap",
+    "sameAs": [
+        "https://zenodo.org/records/4742025"
+    ],
+    "url": "https://zenodo.org/record/4742024"
+}

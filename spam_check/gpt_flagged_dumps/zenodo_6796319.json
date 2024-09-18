@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6796319",
+    "_score": 25.818918,
+    "author": [
+        {
+            "name": "liu,wendao"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-07-05",
+    "dateModified": "2022-07-05",
+    "datePublished": "2022-07-05T00:00:00",
+    "description": "meitan land price",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6796320/files-archive",
+            "dateModified": "2022-07-05"
+        }
+    ],
+    "doi": "10.5281/zenodo.6796319",
+    "identifier": "zenodo.6796319",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "meitan land price",
+    "sameAs": [
+        "https://zenodo.org/records/6796320"
+    ],
+    "url": "https://zenodo.org/record/6796319"
+}

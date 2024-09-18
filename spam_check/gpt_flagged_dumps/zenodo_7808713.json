@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7808713",
+    "_score": 24.594746,
+    "author": [
+        {
+            "affiliation": {
+                "name": "King AbdulAziz University"
+            },
+            "name": "Ahmad Fajar Tatang"
+        },
+        {
+            "affiliation": {
+                "name": "King AbdulAziz University"
+            },
+            "name": "Abdullah M. Algarni"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-04-10",
+    "dateModified": "2023-04-10",
+    "datePublished": "2023-04-07T00:00:00",
+    "description": "Full dataset of Unified MOOCs",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7808714/files-archive",
+            "dateModified": "2023-04-10"
+        }
+    ],
+    "doi": "10.5281/zenodo.7808713",
+    "identifier": "zenodo.7808713",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "unified moocs",
+        "semantic search engine"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Unified MOOCs Semantic Search Engine",
+    "sameAs": [
+        "https://zenodo.org/records/7808714"
+    ],
+    "url": "https://zenodo.org/record/7808713"
+}

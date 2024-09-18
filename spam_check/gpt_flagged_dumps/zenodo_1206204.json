@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1206204",
+    "_score": 25.955711,
+    "author": [
+        {
+            "affiliation": {
+                "name": "CPqD"
+            },
+            "name": "CPqD"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-03-23T00:00:00",
+    "description": "best j21",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1206205/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1206204",
+    "identifier": "zenodo.1206204",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "system-j21",
+    "sameAs": [
+        "https://zenodo.org/records/1206205"
+    ],
+    "sdPublisher": [
+        {
+            "name": "dihard2018",
+            "url": "https://zenodo.org/communities/dihard2018"
+        }
+    ],
+    "url": "https://zenodo.org/record/1206204"
+}

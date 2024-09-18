@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4085729",
+    "_score": 24.844421,
+    "author": [
+        {
+            "affiliation": {
+                "name": "SGC, University of Toronto"
+            },
+            "name": "Seitova A."
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-10-15",
+    "dateModified": "2020-10-15",
+    "datePublished": "2020-10-14T00:00:00",
+    "description": "Recombinant human ACE2 protein production and purification",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4085730/files-archive",
+            "dateModified": "2020-10-15"
+        }
+    ],
+    "doi": "10.5281/zenodo.4085729",
+    "identifier": "zenodo.4085729",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "ACE2",
+        "Covid 19"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Recombinant human ACE2 protein production and purification",
+    "sameAs": [
+        "https://zenodo.org/records/4085730"
+    ],
+    "url": "https://zenodo.org/record/4085729"
+}

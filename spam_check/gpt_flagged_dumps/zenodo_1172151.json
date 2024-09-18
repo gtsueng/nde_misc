@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1172151",
+    "_score": 23.59891,
+    "author": [
+        {
+            "affiliation": {
+                "name": "U. Pittsburgh"
+            },
+            "identifier": "0000-0002-1296-6887",
+            "name": "Llu\u00eds Galbany"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-04-02",
+    "dateModified": "2020-04-02",
+    "datePublished": "2018-02-13T00:00:00",
+    "description": "Dataproducts from PISCO. More details at\u00a0https://github.com/lgalbany/pisco",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1172732/files-archive",
+            "dateModified": "2020-04-02"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/1172152/files-archive",
+            "dateModified": "2020-04-02"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/1172156/files-archive",
+            "dateModified": "2020-04-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.1172151",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/100000001",
+                "name": "National Science Foundation"
+            },
+            "identifier": "1311862",
+            "name": "Type Ia Supernovae in the Near Infrared - Clearing a Path through the Dust"
+        }
+    ],
+    "identifier": "zenodo.1172151",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": null,
+    "name": "PISCO: The PMAS/PPak Integral field Supernova hosts COmpilation",
+    "sameAs": [
+        "https://zenodo.org/records/1172732",
+        "https://zenodo.org/records/1172152",
+        "https://zenodo.org/records/1172156"
+    ],
+    "sdPublisher": [
+        {
+            "name": "aas",
+            "url": "https://zenodo.org/communities/aas"
+        }
+    ],
+    "url": "https://zenodo.org/record/1172151"
+}

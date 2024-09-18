@@ -1,0 +1,42 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7949804",
+    "_score": 25.616545,
+    "author": [
+        {
+            "affiliation": {
+                "name": "diankeli@foxmail.com"
+            },
+            "identifier": "0000-0001-9580-3292",
+            "name": "Dianke Li"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-01-05",
+    "dateModified": "2024-01-05",
+    "datePublished": "2023-07-25T00:00:00",
+    "description": "https://github.com/LiDlab/TransDSI",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7949804/files-archive",
+            "dateModified": "2024-01-05"
+        }
+    ],
+    "doi": "10.0725/diankeli.pdsid",
+    "identifier": "zenodo.7949804",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "TransDSI Supplementary Files",
+    "url": "https://zenodo.org/records/7949804"
+}

@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2582677",
+    "_score": 24.781975,
+    "author": [
+        {
+            "affiliation": {
+                "name": "SoftBank Corp."
+            },
+            "identifier": "0000-0002-7653-4434",
+            "name": "Kyosuke Yamamoto"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-03-04T00:00:00",
+    "description": "Full Paper available for download at LINK",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2582678/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.2582677",
+    "identifier": "zenodo.2582677",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Distillation of crop models to learn plant physiology theories using machine learning",
+    "sameAs": [
+        "https://zenodo.org/records/2582678"
+    ],
+    "url": "https://zenodo.org/record/2582677"
+}

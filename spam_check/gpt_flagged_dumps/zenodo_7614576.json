@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7614576",
+    "_score": 21.454948,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Department of Clinical Neuroscience, Lausanne University Hospital (CHUV) and University of Lausanne (UNIL), Lausanne, Switzerland"
+            },
+            "identifier": "0000-0001-7112-0091",
+            "name": "Nicolas Hankov"
+        },
+        {
+            "affiliation": {
+                "name": "NeuroX Institute and Brain Mind Institute, School of Life Sciences, Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland"
+            },
+            "identifier": "0000-0002-2627-4291",
+            "name": "Miroslav Caban"
+        },
+        {
+            "affiliation": {
+                "name": "NeuroX Institute and Brain Mind Institute, School of Life Sciences, Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland"
+            },
+            "identifier": "0000-0002-5744-4142",
+            "name": "Gr\u00e9goire Courtine"
+        },
+        {
+            "affiliation": {
+                "name": "ONWARD Medical, Lausanne, Switzerland"
+            },
+            "identifier": "0000-0002-4662-9088",
+            "name": "Joachim von Zitzewitz"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Clinical Neuroscience, Lausanne University Hospital (CHUV) and University of Lausanne (UNIL), Lausanne, Switzerland"
+            },
+            "identifier": "0000-0002-6405-1590",
+            "name": "Jocelyne Bloch"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-06-25",
+    "dateModified": "2024-06-25",
+    "datePublished": "2024-06-12T00:00:00",
+    "description": "Data depository for publication.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/12533019/files-archive",
+            "dateModified": "2024-06-25"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/10391521/files-archive",
+            "dateModified": "2024-06-10"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7614577/files-archive",
+            "dateModified": "2024-02-10"
+        }
+    ],
+    "doi": "10.5281/zenodo.7614576",
+    "identifier": "zenodo.7614576",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Neurorobotics"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "ENHANCED ROBOTICS",
+    "sameAs": [
+        "https://zenodo.org/records/12533019",
+        "https://zenodo.org/records/10391521",
+        "https://zenodo.org/records/7614577"
+    ],
+    "url": "https://zenodo.org/record/7614576"
+}

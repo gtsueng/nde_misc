@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5856249",
+    "_score": 26.16586,
+    "author": [
+        {
+            "name": "xJ"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-01-17",
+    "dateModified": "2022-01-17",
+    "datePublished": "2022-01-16T00:00:00",
+    "description": "No",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5856250/files-archive",
+            "dateModified": "2022-01-17"
+        }
+    ],
+    "doi": "10.5281/zenodo.5856249",
+    "identifier": "zenodo.5856249",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "K9Stiffness",
+    "sameAs": [
+        "https://zenodo.org/records/5856250"
+    ],
+    "url": "https://zenodo.org/record/5856249"
+}

@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3778342",
+    "_score": 26.024681,
+    "author": [
+        {
+            "name": "\u062f\u06a9\u062a\u0631 \u0639\u0628\u0627\u0633 \u06a9\u0634\u062a\u06a9\u0627\u0631"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-04-30",
+    "dateModified": "2020-04-30",
+    "datePublished": "2020-04-30T00:00:00",
+    "description": "ISI-journal",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3778343/files-archive",
+            "dateModified": "2020-04-30"
+        }
+    ],
+    "doi": "10.5281/zenodo.3778342",
+    "identifier": "zenodo.3778342",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "ISI-journal",
+    "sameAs": [
+        "https://zenodo.org/records/3778343"
+    ],
+    "url": "https://zenodo.org/record/3778342"
+}

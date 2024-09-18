@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6912521",
+    "_score": 24.842697,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Konstanz"
+            },
+            "identifier": "0000-0002-8319-8010",
+            "name": "Dorendorf, Till"
+        },
+        {
+            "affiliation": {
+                "name": "University of Manchester"
+            },
+            "name": "Zacharchenko, Thomas"
+        },
+        {
+            "affiliation": {
+                "name": "University of Konstanz"
+            },
+            "identifier": "0000-0001-6876-8532",
+            "name": "Mayans, Olga"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-03-22",
+    "dateModified": "2023-03-22",
+    "datePublished": "2022-07-27T00:00:00",
+    "description": "Images files of Crystal",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6912522/files-archive",
+            "dateModified": "2023-03-22"
+        }
+    ],
+    "doi": "10.5281/zenodo.6912521",
+    "identifier": "zenodo.6912521",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "dmUNC89-PK1_ADP",
+    "sameAs": [
+        "https://zenodo.org/records/6912522"
+    ],
+    "url": "https://zenodo.org/record/6912521"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1199677",
+    "_score": 25.753584,
+    "author": [
+        {
+            "affiliation": {
+                "name": "CPqD"
+            },
+            "name": "CPqD"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2018-03-15T00:00:00",
+    "description": "system j2 - new feats",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1199678/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.1199677",
+    "identifier": "zenodo.1199677",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "system-j2",
+    "sameAs": [
+        "https://zenodo.org/records/1199678"
+    ],
+    "sdPublisher": [
+        {
+            "name": "dihard2018",
+            "url": "https://zenodo.org/communities/dihard2018"
+        }
+    ],
+    "url": "https://zenodo.org/record/1199677"
+}

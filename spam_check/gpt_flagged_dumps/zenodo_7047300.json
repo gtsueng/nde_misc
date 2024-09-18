@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7047300",
+    "_score": 25.160135,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Second Institute of Oceanography, Ministry of Natural Resources"
+            },
+            "identifier": "0000-0002-0635-9220",
+            "name": "Peng Chen"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-09-04",
+    "dateModified": "2022-09-04",
+    "datePublished": "2022-09-04T00:00:00",
+    "description": "CALIPO bbp products by DNN methods",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7047301/files-archive",
+            "dateModified": "2022-09-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.7047300",
+    "identifier": "zenodo.7047300",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "DNN-CALIPO-PRODUCTS",
+    "sameAs": [
+        "https://zenodo.org/records/7047301"
+    ],
+    "url": "https://zenodo.org/record/7047300"
+}

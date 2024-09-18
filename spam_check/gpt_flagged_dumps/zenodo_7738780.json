@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7738780",
+    "_score": 24.658068,
+    "author": [
+        {
+            "name": "Abhishek Palchoudhary"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-03-16",
+    "dateModified": "2023-03-16",
+    "datePublished": "2023-03-15T00:00:00",
+    "description": "Reduced number of elements and output variables: Pre Computed LCF FE Simulations - TP Athens",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7738781/files-archive",
+            "dateModified": "2023-03-16"
+        }
+    ],
+    "doi": "10.5281/zenodo.7738780",
+    "identifier": "zenodo.7738780",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Reduced Pre Computed LCF FE Simulations - TP Athens",
+    "sameAs": [
+        "https://zenodo.org/records/7738781"
+    ],
+    "url": "https://zenodo.org/record/7738780"
+}

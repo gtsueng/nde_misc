@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3779953",
+    "_score": 25.686193,
+    "author": [
+        {
+            "affiliation": {
+                "name": "IIT Delhi"
+            },
+            "name": "Keshav Kolluru"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-05-03",
+    "dateModified": "2020-05-03",
+    "datePublished": "2020-05-01T00:00:00",
+    "description": "Pre-trained models for IMoJIE",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3779954/files-archive",
+            "dateModified": "2020-05-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.3779953",
+    "identifier": "zenodo.3779953",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "IMoJIE Models",
+    "sameAs": [
+        "https://zenodo.org/records/3779954"
+    ],
+    "url": "https://zenodo.org/record/3779953"
+}

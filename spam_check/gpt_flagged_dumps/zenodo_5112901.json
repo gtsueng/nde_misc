@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5112901",
+    "_score": 25.821346,
+    "author": [
+        {
+            "name": "Shchukarev, Andrey"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-07-19",
+    "dateModified": "2021-07-19",
+    "datePublished": "2021-07-19T00:00:00",
+    "description": "Soy Phospholipids, Asolectin",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5112902/files-archive",
+            "dateModified": "2021-07-19"
+        }
+    ],
+    "doi": "10.5281/zenodo.5112901",
+    "identifier": "zenodo.5112901",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Soy Phospholipids, Asolectin",
+    "sameAs": [
+        "https://zenodo.org/records/5112902"
+    ],
+    "url": "https://zenodo.org/record/5112901"
+}

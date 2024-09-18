@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8308028",
+    "_score": 24.842697,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Student"
+            },
+            "name": "Daniel Rosa"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-09-02",
+    "dateModified": "2023-09-02",
+    "datePublished": "2023-09-01T00:00:00",
+    "description": "voila un lien pour telecharger les cartos parametriques pour l'IRM ex vivo du rat endo stroke",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8308029/files-archive",
+            "dateModified": "2023-09-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.8308028",
+    "identifier": "zenodo.8308028",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "cartos parametriques pour l'IRM",
+    "sameAs": [
+        "https://zenodo.org/records/8308029"
+    ],
+    "url": "https://zenodo.org/record/8308028"
+}

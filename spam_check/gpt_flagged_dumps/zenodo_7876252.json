@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7876252",
+    "_score": 24.173138,
+    "author": [
+        {
+            "identifier": "0000-0002-4951-0250",
+            "name": "Majidzadeh"
+        },
+        {
+            "identifier": "0000-0002-4574-1545",
+            "name": "Mehrdad Ashtiani"
+        },
+        {
+            "identifier": "0000-0003-4289-0606",
+            "name": "Morteza Zakeri-Nasrabadi"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-04-29",
+    "dateModified": "2023-04-29",
+    "datePublished": "2022-12-14T00:00:00",
+    "description": "Contains issue-commit and issue-method links extracted from GitHub repositories.\n\n\nAvailable on GitHub:\u00a0https://github.com/pragma-once/utilizing-bert-for-traceability/releases",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7876253/files-archive",
+            "dateModified": "2023-04-29"
+        }
+    ],
+    "doi": "10.5281/zenodo.7876252",
+    "identifier": "zenodo.7876252",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Datasets of issue-commit and issue-method links extracted from GitHub repositories",
+    "sameAs": [
+        "https://zenodo.org/records/7876253"
+    ],
+    "url": "https://zenodo.org/record/7876252"
+}

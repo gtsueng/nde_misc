@@ -1,0 +1,43 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7860035",
+    "_score": 25.033766,
+    "author": [
+        {
+            "name": "Eug\u00e8nia Sarsanedas"
+        },
+        {
+            "name": "Xavier Grau"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-04-25",
+    "dateModified": "2023-04-25",
+    "datePublished": "2023-04-24T00:00:00",
+    "description": "Les vitamines i suplements m\u00e9s buscats a la web WebMD.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7860036/files-archive",
+            "dateModified": "2023-04-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.7860035",
+    "identifier": "zenodo.7860035",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Les vitamines i suplements m\u00e9s buscats",
+    "sameAs": [
+        "https://zenodo.org/records/7860036"
+    ],
+    "url": "https://zenodo.org/record/7860035"
+}

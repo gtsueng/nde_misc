@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7933299",
+    "_score": 25.821346,
+    "author": [
+        {
+            "identifier": "0000-0002-8912-6595",
+            "name": "Marc Jofre"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-05-14",
+    "dateModified": "2023-05-14",
+    "datePublished": "2023-05-13T00:00:00",
+    "description": "Dataset files",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7933338/files-archive",
+            "dateModified": "2023-05-14"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7933300/files-archive",
+            "dateModified": "2023-05-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.7933299",
+    "identifier": "zenodo.7933299",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Datasets Quantum Cybersecurity",
+    "sameAs": [
+        "https://zenodo.org/records/7933338",
+        "https://zenodo.org/records/7933300"
+    ],
+    "url": "https://zenodo.org/record/7933299"
+}

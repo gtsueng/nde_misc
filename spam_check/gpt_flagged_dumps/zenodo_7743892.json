@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7743892",
+    "_score": 24.469006,
+    "author": [
+        {
+            "affiliation": {
+                "name": "IN3 - UOC"
+            },
+            "identifier": "0000-0002-5334-9041",
+            "name": "Adem Ait"
+        },
+        {
+            "affiliation": {
+                "name": "IN3 - UOC"
+            },
+            "identifier": "0000-0002-2326-1700",
+            "name": "Javier Luis C\u00e1novas Izquierdo"
+        },
+        {
+            "affiliation": {
+                "name": "LIST"
+            },
+            "identifier": "0000-0003-2418-2489",
+            "name": "Jordi Cabot"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-19",
+    "dateModified": "2024-07-19",
+    "datePublished": "2024-06-21T00:00:00",
+    "description": "Monthly SQL dump release of the HFCommunity database.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/12782059/files-archive",
+            "dateModified": "2024-07-19"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/10020642/files-archive",
+            "dateModified": "2023-10-19"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/8324809/files-archive",
+            "dateModified": "2023-09-07"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/8240989/files-archive",
+            "dateModified": "2023-09-07"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/8172383/files-archive",
+            "dateModified": "2023-09-07"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/8112880/files-archive",
+            "dateModified": "2023-09-07"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7743896/files-archive",
+            "dateModified": "2023-09-07"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7743893/files-archive",
+            "dateModified": "2023-09-07"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7943753/files-archive",
+            "dateModified": "2023-09-07"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7855371/files-archive",
+            "dateModified": "2023-09-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.7743892",
+    "identifier": "zenodo.7743892",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "HFCommunity SQL Dumps",
+    "sameAs": [
+        "https://zenodo.org/records/12782059",
+        "https://zenodo.org/records/10020642",
+        "https://zenodo.org/records/8324809",
+        "https://zenodo.org/records/8240989",
+        "https://zenodo.org/records/8172383",
+        "https://zenodo.org/records/8112880",
+        "https://zenodo.org/records/7743896",
+        "https://zenodo.org/records/7743893",
+        "https://zenodo.org/records/7943753",
+        "https://zenodo.org/records/7855371"
+    ],
+    "url": "https://zenodo.org/record/7743892"
+}

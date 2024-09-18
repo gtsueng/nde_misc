@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7969240",
+    "_score": 24.9654,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Universidad Autonoma de Madrid | Jozef Stefan Institute"
+            },
+            "identifier": "0000-0003-2564-3005",
+            "name": "Horacio V Guzman"
+        },
+        {
+            "affiliation": {
+                "name": "University of Buffalo"
+            },
+            "name": "Viviana Monje-Galvan"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-10-17",
+    "dateModified": "2023-10-16",
+    "datePublished": "2023-10-17T00:00:00",
+    "description": "Private repo!",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10011593/files-archive",
+            "dateModified": "2023-10-16"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7969241/files-archive",
+            "dateModified": "2023-06-12"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/8028119/files-archive",
+            "dateModified": "2023-06-12"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/8436904/files-archive",
+            "dateModified": "2023-10-13"
+        }
+    ],
+    "doi": "10.5281/zenodo.7969240",
+    "identifier": "zenodo.7969240",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "adsorption"
+    ],
+    "name": "Membrna",
+    "sameAs": [
+        "https://zenodo.org/records/10011593",
+        "https://zenodo.org/records/7969241",
+        "https://zenodo.org/records/8028119",
+        "https://zenodo.org/records/8436904"
+    ],
+    "url": "https://zenodo.org/record/7969240"
+}

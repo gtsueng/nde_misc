@@ -1,0 +1,59 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_581792",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 23.050833,
+    "author": [
+        {
+            "name": "Kevin J. North"
+        },
+        {
+            "name": "Shane Bolan"
+        },
+        {
+            "name": "Anita Sarma"
+        },
+        {
+            "name": "Myra B. Cohen"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2015-12-12T00:00:00",
+    "description": "Developer Earcons, Examples of Sonifying Developers, \u00a0Day Separator Earcon, \u00a0Day Separator Example, \u00a0Conflict Drums: One Conflict, \u00a0Conflict Drums: Two Conflicts., \u00a0Conflict Drums: Three Conflicts, \u00a0Conflict Drum Examples, \u00a0Sonification of Real-World Data, \u00a0Task Sonification Used in Our User Study\n\n\nhttp://cse.unl.edu/~myra/artifacts/NIER15/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/581792/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.581792",
+    "identifier": "zenodo.581792",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "other"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "GitSonifier",
+    "sdPublisher": [
+        {
+            "name": "seacraft",
+            "url": "https://zenodo.org/communities/seacraft"
+        }
+    ],
+    "url": "https://zenodo.org/records/581792"
+}

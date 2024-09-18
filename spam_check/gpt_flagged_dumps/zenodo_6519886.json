@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6519886",
+    "_score": 23.480167,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Trento"
+            },
+            "identifier": "0000-0001-8763-082X",
+            "name": "Morlot, Martin"
+        },
+        {
+            "affiliation": {
+                "name": "University of Trento"
+            },
+            "identifier": "0000-0002-0252-1462",
+            "name": "Formetta, Giuseppe"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-05-05",
+    "dateModified": "2022-05-05",
+    "datePublished": "2022-05-05T00:00:00",
+    "description": "GEOFrame folders and observations point for the Adige River in Trentino / Alto-Adige\n\n\n\u00a0\n\n\nThe authors decline all responsibility for any liability due to the use or misuse of this data set",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6519887/files-archive",
+            "dateModified": "2022-05-05"
+        }
+    ],
+    "doi": "10.5281/zenodo.6519886",
+    "identifier": "zenodo.6519886",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Adige GEOFrame folders",
+    "sameAs": [
+        "https://zenodo.org/records/6519887"
+    ],
+    "url": "https://zenodo.org/record/6519886"
+}

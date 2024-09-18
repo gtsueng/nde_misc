@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7892163",
+    "_score": 24.806515,
+    "author": [
+        {
+            "name": "Abhishek Palchoudhary"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-05-03",
+    "dateModified": "2023-05-03",
+    "datePublished": "2023-05-03T00:00:00",
+    "description": "Self Heating for Healthy Specimen, Heating part",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7892164/files-archive",
+            "dateModified": "2023-05-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.7892163",
+    "identifier": "zenodo.7892163",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "PalliersC3N5_Heating",
+    "sameAs": [
+        "https://zenodo.org/records/7892164"
+    ],
+    "url": "https://zenodo.org/record/7892163"
+}

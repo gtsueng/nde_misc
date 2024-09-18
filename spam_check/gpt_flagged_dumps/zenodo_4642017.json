@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4642017",
+    "_score": 23.259604,
+    "author": [
+        {
+            "name": "Vahid Garousi"
+        },
+        {
+            "name": "Alper Bu\u011fra Kele\u015f"
+        },
+        {
+            "name": "Yunus Balaman"
+        },
+        {
+            "name": "Zeynep \u00d6zdemir G\u00fcler"
+        },
+        {
+            "name": "Andrea Arcuri"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-03-28",
+    "dateModified": "2021-03-28",
+    "datePublished": "2021-03-27T00:00:00",
+    "description": "The dataset for a paper on\u00a0MBT of Testinium\n\n\nThe updated code is available at:\u00a0https://github.com/vgarousi/MBTofTestinium\n\n\nAnd more\u00a0YouTube videos of the work are at: www.bit.ly/VideosMBTTestinium",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4642018/files-archive",
+            "dateModified": "2021-03-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.4642017",
+    "identifier": "zenodo.4642017",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "MBT of Testinium-test suite and demo video run of the test suite",
+    "sameAs": [
+        "https://zenodo.org/records/4642018"
+    ],
+    "url": "https://zenodo.org/record/4642017"
+}

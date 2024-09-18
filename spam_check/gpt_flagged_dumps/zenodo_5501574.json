@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5501574",
+    "_score": 25.754812,
+    "author": [
+        {
+            "name": "Pirro, S"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-09-12",
+    "dateModified": "2021-09-12",
+    "datePublished": "2021-09-11T00:00:00",
+    "description": ".",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5501575/files-archive",
+            "dateModified": "2021-09-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.5501574",
+    "identifier": "zenodo.5501574",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Brustiarius nox RB0369 NOVOGENE SPAdes preassembly",
+    "sameAs": [
+        "https://zenodo.org/records/5501575"
+    ],
+    "url": "https://zenodo.org/record/5501574"
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6920830",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.427544,
+    "author": [
+        {
+            "name": "Keyahta"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-07-28",
+    "dateModified": "2022-07-28",
+    "datePublished": "2022-07-28T00:00:00",
+    "description": "HUSTData is an indoor localization dataset. It is collected from a typical lecture building D, with a total area of 482m2 in Huazhong University of Science and Technology. Source codes of our previous work using this dataset with detailed explanations are in progress. Click the GitHub button on the right or use https://github.com/Keyahta/grabay\u00a0 to go to the dataset.\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6920831/files-archive",
+            "dateModified": "2022-07-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.6920830",
+    "identifier": "zenodo.6920830",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": null,
+    "name": "Keyahta/grabay: Indoor localization dataset",
+    "sameAs": [
+        "https://zenodo.org/records/6920831"
+    ],
+    "url": "https://zenodo.org/record/6920830"
+}

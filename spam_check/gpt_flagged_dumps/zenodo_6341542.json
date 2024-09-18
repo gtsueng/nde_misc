@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6341542",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.41936,
+    "author": [
+        {
+            "affiliation": {
+                "name": "ELTE-DH"
+            },
+            "identifier": "0000-0002-4394-8577",
+            "name": "Palk\u00f3, G\u00e1bor"
+        },
+        {
+            "affiliation": {
+                "name": "ELTE-DH"
+            },
+            "identifier": "0000-0001-8090-3661",
+            "name": "Indig, Bal\u00e1zs"
+        },
+        {
+            "affiliation": {
+                "name": "ELTE-DH"
+            },
+            "identifier": "0000-0001-9199-1759",
+            "name": "Fellegi, Zs\u00f3fia"
+        },
+        {
+            "affiliation": {
+                "name": "ELTE-DH"
+            },
+            "identifier": "0000-0002-2558-0633",
+            "name": "S\u00e1rk\u00f6zi-Lindner, Zs\u00f3fia"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-04-13",
+    "dateModified": "2022-04-13",
+    "datePublished": "2022-03-09T00:00:00",
+    "description": "This object contains is the most comprehensive curated version available at the date of publication.  For further information on the content and for other fractions see: 444.hu.Please fill in the following form before requesting access to this dataset:ACCES FORM",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6341543/files-archive",
+            "dateModified": "2022-04-13"
+        }
+    ],
+    "doi": "10.5281/zenodo.6341542",
+    "identifier": "zenodo.6341542",
+    "inLanguage": {
+        "name": "hun"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Web crawling",
+        "Article",
+        "Web curation",
+        "Web archive",
+        "Data curation"
+    ],
+    "name": "444.hu [TEI]",
+    "sameAs": [
+        "https://zenodo.org/records/6341543"
+    ],
+    "sdPublisher": [
+        {
+            "name": "elte-dh",
+            "url": "https://zenodo.org/communities/elte-dh"
+        }
+    ],
+    "url": "https://zenodo.org/record/6341542"
+}

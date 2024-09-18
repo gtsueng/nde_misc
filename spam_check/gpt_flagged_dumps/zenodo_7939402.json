@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7939402",
+    "_score": 23.050833,
+    "author": [
+        {
+            "identifier": "0000-0003-3465-0952",
+            "name": "Arshdeep Singh"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-05-18",
+    "dateModified": "2023-05-18",
+    "datePublished": "2023-05-16T00:00:00",
+    "description": "The checkpoints of the pruned model (CNN14) when 50% of the filters from C7 to C12 convolutional layers are pruned.\n\n\nPlease see\u00a0 Github link to live sound recognition demo using E-PANNs + the architecture of E-PANNs\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7939403/files-archive",
+            "dateModified": "2023-05-18"
+        }
+    ],
+    "doi": "10.5281/zenodo.7939402",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/100014013",
+                "name": "UK Research and Innovation"
+            },
+            "identifier": "EP/T019751/1",
+            "name": "AI for Sound"
+        }
+    ],
+    "identifier": "zenodo.7939402",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "E-PANNs checkpoint",
+    "sameAs": [
+        "https://zenodo.org/records/7939403"
+    ],
+    "url": "https://zenodo.org/record/7939402"
+}

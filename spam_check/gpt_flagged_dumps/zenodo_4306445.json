@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4306445",
+    "_score": 25.753584,
+    "author": [
+        {
+            "name": "Anonymous"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-12-05",
+    "dateModified": "2020-12-05",
+    "datePublished": "2020-12-04T00:00:00",
+    "description": "Boutiques execution data-set",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4306446/files-archive",
+            "dateModified": "2020-12-05"
+        }
+    ],
+    "doi": "10.5281/zenodo.4306445",
+    "identifier": "zenodo.4306445",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Boutiques",
+        "BIDS app example"
+    ],
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Boutiques-execution-cd1dd2",
+    "sameAs": [
+        "https://zenodo.org/records/4306446"
+    ],
+    "url": "https://zenodo.org/record/4306445"
+}

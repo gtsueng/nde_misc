@@ -1,0 +1,66 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3252154",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.716758,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of French Guiana"
+            },
+            "identifier": "0000-0001-9869-401X",
+            "name": "Marie Latour"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-06-21T00:00:00",
+    "description": "Since 2015, the library of the University of French Guiana has been engaged in the renewal of its teaching resources: game sequences are regularly introduced into its documentary methodology training courses to foster interactivity and the pleasure of learning. After having created three previous board games on Open Access in 2017, the university library presented \u201cLicenses to Kill\u201d, a new serious game created in 2018. a graphic designer, Benedicte Sauvage Signarama, Cayenne, French Guiana), was hired to create the visuals.\n\n\nIn 2019, this game is translated into English to be presented at the IFLA International Libraries congress at Athens and at LIBER European Libraries congress. The professional traductor selected is Y.A.N.A Traduction (Cayenne, French Guiana).\n\n\nThe \u201cTo be in the norms\u201d game, developed mainly for Master\u2019s and PhD students, is used in order to teach them difficult-to-learn and sometimes boring skills in a fun and visual way. It allows the student to understand what a bibliographic standard is, and the rigor with which it must be applied. The goal is to then to pair this game and training session with a bibliographic reference management tool, which will allow the student to manage their bibliographic citations automatically and rigorously.\n\n\nAll the files for this game are freely available and downloadable under the Creative Commons BY NC SA license on the permanent archiving site in three formats: JPEG, PDF and InDesign. They are modifiable and distributable, but it is requested not to use them commercially. Institutions interested in buying a copy of the game are offered this possibility: besides the price of the game, fixed price of \u20ac30 per game must be paid to the University of French Guiana. This amount will be reinvested in the creation of new educational and enjoyable products, which will be shared with the community!\u00a0\n\n\nFor more information or to purchase a copy, please contact Marie Latour, assistant manager of the CDS of the University of French Guiana and creator of these games using the following email: marie.latour@univ-guyane.fr\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3252155/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3252154",
+    "identifier": "zenodo.3252154",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Master",
+        "PhD",
+        "Multipluridisciplinarity",
+        "bibliographic norms",
+        "boad game",
+        "serious game",
+        "gamification"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Serious board game \"To be in the norms\" (English version)",
+    "sameAs": [
+        "https://zenodo.org/records/3252155"
+    ],
+    "sdPublisher": [
+        {
+            "name": "adbu_competencesinformationnelles",
+            "url": "https://zenodo.org/communities/adbu_competencesinformationnelles"
+        }
+    ],
+    "url": "https://zenodo.org/record/3252154"
+}

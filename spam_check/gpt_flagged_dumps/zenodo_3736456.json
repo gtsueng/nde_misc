@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3736456",
+    "_score": 25.751087,
+    "author": [
+        {
+            "name": "Raposa"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-04-28",
+    "dateModified": "2020-04-28",
+    "datePublished": "2020-04-01T00:00:00",
+    "description": "Fastq files for Samples",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3736457/files-archive",
+            "dateModified": "2020-04-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.3736456",
+    "identifier": "zenodo.3736456",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Sample Fastq Files",
+    "sameAs": [
+        "https://zenodo.org/records/3736457"
+    ],
+    "sdPublisher": [
+        {
+            "name": "bioinformatics2020",
+            "url": "https://zenodo.org/communities/bioinformatics2020"
+        }
+    ],
+    "url": "https://zenodo.org/record/3736456"
+}

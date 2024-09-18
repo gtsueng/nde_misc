@@ -1,0 +1,77 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6189067",
+    "_score": 23.480167,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Limerick"
+            },
+            "name": "Milad Asgarpour Khansary"
+        },
+        {
+            "affiliation": {
+                "name": "University of Limerick"
+            },
+            "name": "Saeed Shirazian"
+        },
+        {
+            "affiliation": {
+                "name": "University of Limerick"
+            },
+            "name": "Gavin Walker"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-02-22",
+    "dateModified": "2022-02-22",
+    "datePublished": "2022-02-20T00:00:00",
+    "description": "Source datasets for CoCryM project, more info on:\u00a0https://sites.google.com/view/makhansary/publications\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6189068/files-archive",
+            "dateModified": "2022-02-22"
+        }
+    ],
+    "doi": "10.5281/zenodo.6189067",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "801165",
+            "name": "Engineering Solutions for the Process Industry"
+        }
+    ],
+    "identifier": "zenodo.6189067",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "CoCryM project - Datasets - 02",
+    "sameAs": [
+        "https://zenodo.org/records/6189068"
+    ],
+    "sdPublisher": [
+        {
+            "name": "ulir",
+            "url": "https://zenodo.org/communities/ulir"
+        },
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/6189067"
+}

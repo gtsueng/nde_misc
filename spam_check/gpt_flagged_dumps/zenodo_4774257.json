@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4774257",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 18.617397,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Two Six Labs"
+            },
+            "name": "Obayomi, Banjo"
+        },
+        {
+            "affiliation": {
+                "name": "Two Six Labs"
+            },
+            "name": "Todd, Christopher H."
+        },
+        {
+            "affiliation": {
+                "name": "Two Six Labs"
+            },
+            "name": "Cadalzo, Lucas"
+        },
+        {
+            "affiliation": {
+                "name": "Two Six Labs"
+            },
+            "name": "Killian, David"
+        },
+        {
+            "affiliation": {
+                "name": "Unaffiliated"
+            },
+            "name": "Wong, Anthony C."
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-05-20",
+    "dateModified": "2021-05-20",
+    "datePublished": "2021-05-19T00:00:00",
+    "description": "Magicwand Data Tool Datasets\n\n\nThe following datasets were generated utilizing the\u00a0https://github.com/twosixlabs/magicwand-datatool tool (described below).\n\n\nMagicwand Data Tool\u00a0\n\n\nThe Magicwand Datatool is a\u00a0PCAP generation platform to facilitate machine learning model development for identifying benign traffic vs. malicious \"low volume\" denial of service traffic.\n\n\nMagicwand is a platform to provide high-quality, reliable, and reproducible data sets for low-and-slow DDoS attacks. With the use of Docker images and customizable JSON files, users can generate a multitude of network traffic PCAPS.\n\n\nFor complete documentation on Magicwand, a gallery of available attacks, the configuration guide, tutorials, and teaching resources, frequently asked questions, and more, please read our\u00a0documentation.\n\n\nRelevant Versions for Generated Data\n\n\nmagicwand: 1.0.4\nOS: macOS\u00a011.2.3\nDocker:\u00a0Docker version 20.10.5, build 55c4c88",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4774258/files-archive",
+            "dateModified": "2021-05-20"
+        }
+    ],
+    "doi": "10.5281/zenodo.4774257",
+    "identifier": "zenodo.4774257",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "DDoS",
+        "LSDDoS",
+        "Apachekill",
+        "Sockstress",
+        "Slowloris",
+        "R U Dead Yet"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Magicwand: A platform to provide high-quality, reliable, and reproducible data sets for low-and-slow DDoS attacks",
+    "sameAs": [
+        "https://zenodo.org/records/4774258"
+    ],
+    "url": "https://zenodo.org/record/4774257"
+}

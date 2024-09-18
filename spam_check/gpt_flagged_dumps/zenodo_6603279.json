@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6603279",
+    "_score": 24.9654,
+    "author": [
+        {
+            "name": "Centre International de Codicologie ASBL"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-06-02",
+    "dateModified": "2022-06-02",
+    "datePublished": "2022-06-01T00:00:00",
+    "description": "Voir le site http://www.scriptorium.be/catalogue.php",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6603280/files-archive",
+            "dateModified": "2022-06-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.6603279",
+    "identifier": "zenodo.6603279",
+    "inLanguage": {
+        "name": "fra"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "histoire m\u00e9di\u00e9vale",
+        "manuscrits",
+        "codicologie",
+        "litt\u00e9rature m\u00e9di\u00e9vale"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Scriptorium / Bulletin codicologique",
+    "sameAs": [
+        "https://zenodo.org/records/6603280"
+    ],
+    "sdPublisher": [
+        {
+            "name": "cosme2",
+            "url": "https://zenodo.org/communities/cosme2"
+        }
+    ],
+    "url": "https://zenodo.org/record/6603279"
+}

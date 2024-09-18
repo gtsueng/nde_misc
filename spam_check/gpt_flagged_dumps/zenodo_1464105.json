@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1464105",
+    "_score": 22.219204,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Rotman Research Institute, Baycrest"
+            },
+            "identifier": "0000-0001-8780-9299",
+            "name": "Shen, Kelly"
+        },
+        {
+            "affiliation": {
+                "name": "McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University"
+            },
+            "name": "Bezgin, Gleb"
+        },
+        {
+            "affiliation": {
+                "name": "Robarts Research Institute, University of Western Ontario"
+            },
+            "name": "Everling, Stefan"
+        },
+        {
+            "affiliation": {
+                "name": "Rotman Research Institute, Baycrest"
+            },
+            "name": "McIntosh, Anthony R."
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-08-19",
+    "dateModified": "2022-08-19",
+    "datePublished": "2018-10-16T00:00:00",
+    "description": "A whole-cortex macaque structural connectome constructed from a combination of axonal tract-tracing\u00a0and diffusion-weighted imaging\u00a0data. Created for modeling\u00a0brain dynamics using TheVirtualBrain platform. Website: thevirtualbrain.org",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1464106/files-archive",
+            "dateModified": "2022-08-19"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/1471588/files-archive",
+            "dateModified": "2022-08-19"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7011292/files-archive",
+            "dateModified": "2022-11-29"
+        }
+    ],
+    "doi": "10.5281/zenodo.1464105",
+    "identifier": "zenodo.1464105",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "The Virtual Macaque Brain: A macaque connectome for large-scale network simulations in TheVirtualBrain",
+    "sameAs": [
+        "https://zenodo.org/records/1464106",
+        "https://zenodo.org/records/1471588",
+        "https://zenodo.org/records/7011292"
+    ],
+    "url": "https://zenodo.org/record/1464105"
+}

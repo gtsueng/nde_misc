@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5725636",
+    "_score": 24.173138,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University College Dublin"
+            },
+            "name": "Eugenia Siapera"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-11-24",
+    "dateModified": "2023-11-24",
+    "datePublished": "2021-11-24T00:00:00",
+    "description": "RePAST Focus groups",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5725637/files-archive",
+            "dateModified": "2023-11-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.5725636",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "769252",
+            "name": "Strengthening European integration through the analysis of conflict discourses: revisiting the past, anticipating the future"
+        }
+    ],
+    "identifier": "zenodo.5725636",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "RePAST, H2020"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "RePAST Focus groups",
+    "sameAs": [
+        "https://zenodo.org/records/5725637"
+    ],
+    "sdPublisher": [
+        {
+            "name": "repast",
+            "url": "https://zenodo.org/communities/repast"
+        },
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/5725636"
+}

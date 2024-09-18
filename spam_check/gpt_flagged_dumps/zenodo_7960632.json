@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7960632",
+    "_score": 25.095966,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Faculty of Medicine, Thammasat University"
+            },
+            "name": "Sombat Muengtaweepongsa"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-12",
+    "dateModified": "2024-07-12",
+    "datePublished": "2023-05-23T00:00:00",
+    "description": "Oral Cannabis ARRIVE Essential 10 checklist",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7960633/files-archive",
+            "dateModified": "2024-07-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.7960632",
+    "identifier": "zenodo.7960632",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Oral Cannabis ARRIVE Essential 10 checklist",
+    "sameAs": [
+        "https://zenodo.org/records/7960633"
+    ],
+    "url": "https://zenodo.org/record/7960632"
+}

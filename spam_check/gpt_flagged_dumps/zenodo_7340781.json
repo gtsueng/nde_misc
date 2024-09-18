@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7340781",
+    "_score": 24.169168,
+    "author": [
+        {
+            "name": "MARC CLUPES"
+        },
+        {
+            "name": "PAULA MIRALLES"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-11-21",
+    "dateModified": "2022-11-21",
+    "datePublished": "2022-11-21T00:00:00",
+    "description": "Extracci\u00f3 de\u00a0dades de la p\u00e0gina de rebaixes de Nike, concretament:\n\n\n\n\t\nNom dels productes\n\t\nDetalls dels productes\n\t\nN\u00ba de colors disponibles dels productes\n\t\nDescompte dels productes\n\t\nLink del producte",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7340782/files-archive",
+            "dateModified": "2022-11-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.7340781",
+    "identifier": "zenodo.7340781",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Nike Sales Products",
+    "sameAs": [
+        "https://zenodo.org/records/7340782"
+    ],
+    "url": "https://zenodo.org/record/7340781"
+}

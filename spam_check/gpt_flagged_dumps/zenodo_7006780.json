@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7006780",
+    "_score": 25.033766,
+    "author": [
+        {
+            "affiliation": {
+                "name": "IRCCS Fondazione Don Carlo Gnocchi ONLUS"
+            },
+            "identifier": "0000-0001-8237-6164",
+            "name": "Francesca Borgnis"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-08-18",
+    "dateModified": "2022-08-18",
+    "datePublished": "2022-08-18T00:00:00",
+    "description": "Link Tool and Dataset for Analysis",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7006781/files-archive",
+            "dateModified": "2022-08-18"
+        }
+    ],
+    "doi": "10.5281/zenodo.7006780",
+    "identifier": "zenodo.7006780",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Data and Materials EXIT 360\u00b0",
+    "sameAs": [
+        "https://zenodo.org/records/7006781"
+    ],
+    "url": "https://zenodo.org/record/7006780"
+}

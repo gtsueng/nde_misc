@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3608960",
+    "_score": 25.289516,
+    "author": [
+        {
+            "name": "Mu\u00f1iz Ja\u00e9n, Laura"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2020-01-15T00:00:00",
+    "description": "Lista de Millonarios con su nombre y empresa y puesto de trabajo.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3608961/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3608960",
+    "identifier": "zenodo.3608960",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Billionaires",
+    "sameAs": [
+        "https://zenodo.org/records/3608961"
+    ],
+    "url": "https://zenodo.org/record/3608960"
+}

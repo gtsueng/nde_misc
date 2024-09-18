@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5725598",
+    "_score": 23.70955,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Michigan"
+            },
+            "name": "Deng, Changyu"
+        },
+        {
+            "name": "Wang, Yizhou"
+        },
+        {
+            "name": "Qin, Can"
+        },
+        {
+            "name": "Fu, Yun"
+        },
+        {
+            "name": "Lu, Wei"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-11-26",
+    "dateModified": "2021-11-26",
+    "datePublished": "2021-11-24T00:00:00",
+    "description": "Code and results of the paper \"Self-Directed Online Machine Learning for Topology Optimization\".\n\n\nSee latest updates at\u00a0https://github.com/deng-cy/deep_learning_topology_opt",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5725599/files-archive",
+            "dateModified": "2021-11-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.5725598",
+    "identifier": "zenodo.5725598",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Self-Directed Online Machine Learning for Topology Optimization",
+    "sameAs": [
+        "https://zenodo.org/records/5725599"
+    ],
+    "url": "https://zenodo.org/record/5725598"
+}

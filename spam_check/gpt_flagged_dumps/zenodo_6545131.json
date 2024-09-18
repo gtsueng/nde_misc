@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6545131",
+    "_score": 23.934813,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Stanford University"
+            },
+            "identifier": "0000-0002-8414-7397",
+            "name": "Levitt, Michael"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-05-14",
+    "dateModified": "2022-05-14",
+    "datePublished": "2022-05-13T00:00:00",
+    "description": "Excel of Excess Death Comparison",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6545132/files-archive",
+            "dateModified": "2022-05-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.6545131",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/100000002",
+                "name": "National Institutes of Health"
+            },
+            "identifier": "5R35GM122543-02",
+            "name": "Cost Effective, Synergistic Macromolecular Structure Determination, Analysis & Simulation"
+        }
+    ],
+    "identifier": "zenodo.6545131",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "COVID-19",
+        "mortality",
+        "excess mortality",
+        "modeling",
+        "epidemiology"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "CC, Master Excel Supplement STATIC",
+    "sameAs": [
+        "https://zenodo.org/records/6545132"
+    ],
+    "sdPublisher": [
+        {
+            "name": "cov_immunity",
+            "url": "https://zenodo.org/communities/cov_immunity"
+        }
+    ],
+    "url": "https://zenodo.org/record/6545131"
+}

@@ -1,0 +1,60 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6047570",
+    "_score": 24.173138,
+    "author": [
+        {
+            "affiliation": {
+                "name": "7emezzo.biz di DANIELE BURSICH"
+            },
+            "identifier": "0000-0002-0545-9406",
+            "name": "Daniele Bursich"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-03-17",
+    "dateModified": "2022-03-17",
+    "datePublished": "2022-02-11T00:00:00",
+    "description": "Rilievi e scansione 3D - Grotte di Catullo",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6047571/files-archive",
+            "dateModified": "2022-03-17"
+        }
+    ],
+    "doi": "10.5281/zenodo.6047570",
+    "identifier": "zenodo.6047570",
+    "inLanguage": {
+        "name": "ita"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "3D scan",
+        "photogrammetry",
+        "Sirmione",
+        "Grotte di Catullo"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Sirmione (BS) - Rilievi e scansione 3D delle Grotte di Catullo",
+    "sameAs": [
+        "https://zenodo.org/records/6047571"
+    ],
+    "sdPublisher": [
+        {
+            "name": "e-archeo",
+            "url": "https://zenodo.org/communities/e-archeo"
+        }
+    ],
+    "url": "https://zenodo.org/record/6047570"
+}

@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4075191",
+    "_score": 25.955711,
+    "author": [
+        {
+            "name": "lizhang"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-10-11",
+    "dateModified": "2020-10-11",
+    "datePublished": "2020-10-09T00:00:00",
+    "description": "link for pubmed data",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4075192/files-archive",
+            "dateModified": "2020-10-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.4075191",
+    "identifier": "zenodo.4075191",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "pm-dataset",
+    "sameAs": [
+        "https://zenodo.org/records/4075192"
+    ],
+    "url": "https://zenodo.org/record/4075191"
+}

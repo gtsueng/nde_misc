@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7770990",
+    "_score": 26.096188,
+    "author": [
+        {
+            "name": "CHUJING ZHANG"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-03-26",
+    "dateModified": "2023-03-26",
+    "datePublished": "2023-03-26T00:00:00",
+    "description": "111",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7770991/files-archive",
+            "dateModified": "2023-03-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.7770990",
+    "identifier": "zenodo.7770990",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "AdultNeu",
+    "sameAs": [
+        "https://zenodo.org/records/7770991"
+    ],
+    "url": "https://zenodo.org/record/7770990"
+}

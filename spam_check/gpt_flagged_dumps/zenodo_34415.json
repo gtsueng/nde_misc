@@ -1,0 +1,62 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_34415",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 19.349245,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Aalto University"
+            },
+            "name": "Girych Mykhailo"
+        },
+        {
+            "affiliation": {
+                "name": "Aalto University"
+            },
+            "name": "Ollila O. H. Samuli"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2015-11-30T00:00:00",
+    "description": "MD simulation trajectory and related files for fully hydrated POPC bilayer with 0.35M CaCl2. The LIPID14 force field was used with Gromacs 5.0.3. Ions were described by AMBER99SB-ILDN force field. Conditions: T=298.15, 128 POPC molecules, 6400 tip3p waters (lipid/water 1:50), 35 Ca, 70 Cl. 200ns trajectory\u00a0 (preceded by 5ns NPT equillibration) (2 files of 100ns).\n\n\nTHE TRAJECTORY\u00a0\"035M_CaCl2_POPC_AMB_100_200ns.xtc\" IS CORRUPTED. FOR THE UNCORRUPTED FILE PLEASE FOLLOW THE LINK:\u00a0https://zenodo.org/record/46234\n\n\nThis data is ran for the nmrlipids.blospot.fi project. More details from nmrlipids.blospot.fi and https://github.com/NMRLipids/nmrlipids.blogspot.fi",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/34415/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.34415",
+    "identifier": "zenodo.34415",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "POPC",
+        "LIPID14",
+        "Gromacs",
+        "molecular dynamics"
+    ],
+    "license": "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
+    "name": "POPC_AMBER_LIPID14_CaCl2_035Mol",
+    "sdPublisher": [
+        {
+            "name": "nmrlipids",
+            "url": "https://zenodo.org/communities/nmrlipids"
+        }
+    ],
+    "url": "https://zenodo.org/records/34415"
+}

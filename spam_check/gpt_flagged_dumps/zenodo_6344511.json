@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6344511",
+    "_score": 25.028944,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UTE"
+            },
+            "name": "Acosta Francisco"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-03-11",
+    "dateModified": "2022-03-11",
+    "datePublished": "2022-03-09T00:00:00",
+    "description": "1000 photos of different angles of a pigeon in real size printed in 3D",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6344512/files-archive",
+            "dateModified": "2022-03-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.6344511",
+    "identifier": "zenodo.6344511",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "3D Pigeon Pictures",
+    "sameAs": [
+        "https://zenodo.org/records/6344512"
+    ],
+    "url": "https://zenodo.org/record/6344511"
+}

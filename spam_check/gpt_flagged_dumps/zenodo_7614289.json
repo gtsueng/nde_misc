@@ -1,0 +1,43 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7614289",
+    "_score": 25.55252,
+    "author": [
+        {
+            "affiliation": {
+                "name": "my university"
+            },
+            "name": "Xiao, Xiao"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-04-25",
+    "dateModified": "2023-04-25",
+    "datePublished": "2023-02-07T00:00:00",
+    "description": "http://chinageorefmodel.org",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7614290/files-archive",
+            "dateModified": "2023-04-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.7614289",
+    "identifier": "zenodo.7614289",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "test of China Geophysical Reference Model",
+    "sameAs": [
+        "https://zenodo.org/records/7614290"
+    ],
+    "url": "https://zenodo.org/record/7614289"
+}

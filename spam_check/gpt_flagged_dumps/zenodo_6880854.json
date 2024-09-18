@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6880854",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.424694,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Hermess"
+            },
+            "name": "Hesselmans, Gerard"
+        },
+        {
+            "affiliation": {
+                "name": "Genscape, Int."
+            },
+            "name": "Bonekamp,Hans"
+        },
+        {
+            "affiliation": {
+                "name": "Informus"
+            },
+            "name": "Fell, Frank"
+        },
+        {
+            "affiliation": {
+                "name": "AER"
+            },
+            "name": "Leidner, Mark"
+        },
+        {
+            "affiliation": {
+                "name": "Verisk Analytics GmbH"
+            },
+            "identifier": "0000-0002-4621-1300",
+            "name": "Tjemkes, Stephen"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-07-22",
+    "dateModified": "2022-07-22",
+    "datePublished": "2022-07-22T00:00:00",
+    "description": "Aeolus return signal colocated with surface wind speed, and chlorophyll information over selected regions and periods. Data prepared under the SeaFlect project funded by ESA Aeolus + Innovation project (contract reference 4000133131/20/I-BG)\n\n\nMore information on the SeaFlect project can be found at https://aeolus-surface-wind.aer.com/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6880855/files-archive",
+            "dateModified": "2022-07-22"
+        }
+    ],
+    "doi": "10.5281/zenodo.6880854",
+    "identifier": "zenodo.6880854",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Aeolus"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "SeaFlect DataPool",
+    "sameAs": [
+        "https://zenodo.org/records/6880855"
+    ],
+    "url": "https://zenodo.org/record/6880854"
+}

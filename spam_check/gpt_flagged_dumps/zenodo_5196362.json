@@ -1,0 +1,90 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5196362",
+    "_score": 25.754812,
+    "author": [
+        {
+            "name": "Anonymous"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-05-30",
+    "dateModified": "2023-05-30",
+    "datePublished": "2022-06-23T00:00:00",
+    "description": "ReBack BenchMark",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6715562/files-archive",
+            "dateModified": "2023-05-30"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5805419/files-archive",
+            "dateModified": "2023-05-30"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5253496/files-archive",
+            "dateModified": "2023-05-30"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5805410/files-archive",
+            "dateModified": "2023-05-30"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5395503/files-archive",
+            "dateModified": "2023-05-30"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5260023/files-archive",
+            "dateModified": "2023-05-30"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5196363/files-archive",
+            "dateModified": "2023-05-30"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5260007/files-archive",
+            "dateModified": "2023-05-30"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7987976/files-archive",
+            "dateModified": "2024-02-19"
+        }
+    ],
+    "doi": "10.5281/zenodo.5196362",
+    "identifier": "zenodo.5196362",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Backport",
+        "Pull-request",
+        "Pull",
+        "GitHub"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "ReBack BenchMark",
+    "sameAs": [
+        "https://zenodo.org/records/6715562",
+        "https://zenodo.org/records/5805419",
+        "https://zenodo.org/records/5253496",
+        "https://zenodo.org/records/5805410",
+        "https://zenodo.org/records/5395503",
+        "https://zenodo.org/records/5260023",
+        "https://zenodo.org/records/5196363",
+        "https://zenodo.org/records/5260007",
+        "https://zenodo.org/records/7987976"
+    ],
+    "url": "https://zenodo.org/record/5196362"
+}

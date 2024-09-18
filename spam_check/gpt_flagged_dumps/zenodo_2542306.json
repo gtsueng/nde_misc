@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2542306",
+    "_score": 25.417479,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Shandong University of Finance and Economics"
+            },
+            "name": "Muwei Jian"
+        },
+        {
+            "name": "Qiang Qi"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-01-17T00:00:00",
+    "description": "Underwater Images",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2542307/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.2542306",
+    "identifier": "zenodo.2542306",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Underwater Images",
+    "sameAs": [
+        "https://zenodo.org/records/2542307"
+    ],
+    "url": "https://zenodo.org/record/2542306"
+}

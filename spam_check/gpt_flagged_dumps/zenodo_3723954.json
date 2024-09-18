@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3723954",
+    "_score": 25.226171,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Secretar\u00eda Nacional de Ciencia, Tecnolog\u00eda e Innovaci\u00f3n"
+            },
+            "identifier": "0000-0002-2141-0565",
+            "name": "Zapata, Robinson"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-03-23",
+    "dateModified": "2020-03-23",
+    "datePublished": "2020-03-23T00:00:00",
+    "description": "[Sample] [Panama]",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3723955/files-archive",
+            "dateModified": "2020-03-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.3723954",
+    "identifier": "zenodo.3723954",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Dataset",
+        "Sample",
+        "Panama"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Publication Panama",
+    "sameAs": [
+        "https://zenodo.org/records/3723955"
+    ],
+    "url": "https://zenodo.org/record/3723954"
+}

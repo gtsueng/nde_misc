@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3749227",
+    "_score": 24.844421,
+    "author": [
+        {
+            "name": "Xavier Parramon Boada"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-04-12",
+    "dateModified": "2020-04-12",
+    "datePublished": "2020-04-12T00:00:00",
+    "description": "Recopilation of all the articles: (code, description and PVP) from the web page of ACO Iberia",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3749228/files-archive",
+            "dateModified": "2020-04-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.3749227",
+    "identifier": "zenodo.3749227",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Drainage product Market Price",
+    "sameAs": [
+        "https://zenodo.org/records/3749228"
+    ],
+    "url": "https://zenodo.org/record/3749227"
+}

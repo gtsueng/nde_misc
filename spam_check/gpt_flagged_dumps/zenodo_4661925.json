@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4661925",
+    "_score": 24.596601,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Korea Institute of Geoscience and Mineral Resources"
+            },
+            "identifier": "0000-0001-7510-4507",
+            "name": "Lim, Hobin"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-03-15",
+    "dateModified": "2023-03-15",
+    "datePublished": "2021-04-05T00:00:00",
+    "description": "This is the full copy of the website 'https://www.naenamarray2020.info'",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7732708/files-archive",
+            "dateModified": "2023-03-15"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4970556/files-archive",
+            "dateModified": "2023-03-14"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4661926/files-archive",
+            "dateModified": "2023-03-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.4661925",
+    "identifier": "zenodo.4661925",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "A copy of website at https://www.naenamarray2020.info",
+    "sameAs": [
+        "https://zenodo.org/records/7732708",
+        "https://zenodo.org/records/4970556",
+        "https://zenodo.org/records/4661926"
+    ],
+    "url": "https://zenodo.org/record/4661925"
+}

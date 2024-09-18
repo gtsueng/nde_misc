@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2382366",
+    "_score": 25.095966,
+    "author": [
+        {
+            "affiliation": {
+                "name": "KIP Heidelberg"
+            },
+            "name": "Geist, Jeschua"
+        },
+        {
+            "affiliation": {
+                "name": "KIP Heidelberg"
+            },
+            "name": "Fleischmann, Andreas"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2018-12-18T00:00:00",
+    "description": "fit-files of maXs30 Thorium measurements",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2382367/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.2382366",
+    "identifier": "zenodo.2382366",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "maXs fit-files complete - Heidelberg",
+    "sameAs": [
+        "https://zenodo.org/records/2382367"
+    ],
+    "sdPublisher": [
+        {
+            "name": "nuclock",
+            "url": "https://zenodo.org/communities/nuclock"
+        }
+    ],
+    "url": "https://zenodo.org/record/2382366"
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_13140",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 18.498402,
+    "author": [
+        {
+            "name": "Carballo Garcia, Alvaro"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2014-12-07T00:00:00",
+    "description": "High quality backlinks to vimeo.com. The retrieval process was completed on 05-Dec-2014.\n\n\n\u00a0\n\n\nNote that the bots in varocarbas.com (Project 1 - Stage 2)\u00a0are collecting a maximum of 1000 high-quality backlinks (e.g., \"site.com/backlink\" rather than \"site.com/this/that/backlink\") for each domain.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/13140/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.13140",
+    "identifier": "zenodo.13140",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "backlinks",
+        "web crawling",
+        "web domains",
+        "independent data source"
+    ],
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "1000 Backlinks to vimeo.com (05-Dec-2014) -- varocarbas.com",
+    "url": "https://zenodo.org/records/13140"
+}

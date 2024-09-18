@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4001617",
+    "_score": 24.414122,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Oxford"
+            },
+            "name": "Bianchini, Francesco"
+        },
+        {
+            "name": "Gazzard, Katherine"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-02-10",
+    "dateModified": "2022-02-10",
+    "datePublished": "2020-08-26T00:00:00",
+    "description": "Digital Glossary of Sinhala Prakrit (version 1.0), letters A to M, linked to www.siddham.network",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4001618/files-archive",
+            "dateModified": "2022-02-10"
+        }
+    ],
+    "doi": "10.5281/zenodo.4001617",
+    "identifier": "zenodo.4001617",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Digital Glossary of Sinhala Prakrit (version 1.0), letters A to M",
+    "sameAs": [
+        "https://zenodo.org/records/4001618"
+    ],
+    "sdPublisher": [
+        {
+            "name": "indicprakrits",
+            "url": "https://zenodo.org/communities/indicprakrits"
+        }
+    ],
+    "url": "https://zenodo.org/record/4001617"
+}

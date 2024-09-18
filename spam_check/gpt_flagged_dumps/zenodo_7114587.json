@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7114587",
+    "_score": 24.656242,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Huber Digital"
+            },
+            "identifier": "0000-0002-2151-6415",
+            "name": "Huber, Alexander"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-11-04",
+    "dateModified": "2022-11-04",
+    "datePublished": "2022-09-26T00:00:00",
+    "description": "RDF dump of the entire PRISMS knowledge graph in N-Quads format.\u00a0\u00a0www.prisms.digital",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7114588/files-archive",
+            "dateModified": "2022-11-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.7114587",
+    "identifier": "zenodo.7114587",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "RDF",
+        "Semantic Web",
+        "Knowledge graph",
+        "N-Quads",
+        "PRISMS"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "PRISMS RDF dump",
+    "sameAs": [
+        "https://zenodo.org/records/7114588"
+    ],
+    "url": "https://zenodo.org/record/7114587"
+}

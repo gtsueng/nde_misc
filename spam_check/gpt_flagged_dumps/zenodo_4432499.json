@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4432499",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.093271,
+    "author": [
+        {
+            "name": "Nor Halimah"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-01-12",
+    "dateModified": "2021-01-12",
+    "datePublished": "2021-01-11T00:00:00",
+    "description": "Self-paced learning means that you can study on your own time and schedule. You don't have to complete the same assignment or study at the same time as others. You can proceed from one topic or segment to the next at your own pace. Why we chose Google Classroom Media is because it's so easy to use. For people who are using Google classrooms for the first time, they will definitely have no trouble operating them.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4432500/files-archive",
+            "dateModified": "2021-01-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.4432499",
+    "identifier": "zenodo.4432499",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Developing an English course for Beginners with the topic Part of Speech using Google Classroom",
+    "sameAs": [
+        "https://zenodo.org/records/4432500"
+    ],
+    "sdPublisher": [
+        {
+            "name": "iainpky",
+            "url": "https://zenodo.org/communities/iainpky"
+        }
+    ],
+    "url": "https://zenodo.org/record/4432499"
+}

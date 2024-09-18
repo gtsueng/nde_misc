@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6329732",
+    "_score": 25.753584,
+    "author": [
+        {
+            "name": "Pirro, S"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-03-05",
+    "dateModified": "2022-03-05",
+    "datePublished": "2022-03-04T00:00:00",
+    "description": ".",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6329733/files-archive",
+            "dateModified": "2022-03-05"
+        }
+    ],
+    "doi": "10.5281/zenodo.6329732",
+    "identifier": "zenodo.6329732",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Arius proximus RB0375 ARBOR decontaminated FSCR",
+    "sameAs": [
+        "https://zenodo.org/records/6329733"
+    ],
+    "url": "https://zenodo.org/record/6329732"
+}

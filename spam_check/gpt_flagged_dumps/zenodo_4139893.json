@@ -1,0 +1,61 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4139893",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 19.77756,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UOC"
+            },
+            "name": "Daria Gracheva"
+        },
+        {
+            "affiliation": {
+                "name": "UOC"
+            },
+            "name": "Zechao Jin"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-10-29",
+    "dateModified": "2020-10-29",
+    "datePublished": "2020-10-27T00:00:00",
+    "description": "El dataset contiene los datos num\u00e9ricos, binarios y textuales m\u00e1s relevantes recopilados de cada uno de los anuncios de una ciudad dada, en este caso Barcelona: Precio, Titulo de anuncio, Superficie, N\u00famero de habitaciones, N\u00famero de ba\u00f1os, Barrio, Descripci\u00f3n completa, Amueblamiento (s\u00ed/no), Calefacci\u00f3n (s\u00ed/no), Aire acondicionado (s\u00ed/no), Ascensor (s\u00ed/no), Detalles de distribuci\u00f3n y Caracter\u00edsticas adicionales. Aunque los datos sobre calefacci\u00f3n, aire acondicionado, etc, tambi\u00e9n se recopilan dentro de la variable \u201cfeatures_detail\u201d para tener el dato consistente y separar las caracter\u00edsticas de m\u00e1s inter\u00e9s en las variables independientes directamente. Al momento de realizaci\u00f3n de scraping hay alrededor de 13.000 anuncios.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4139894/files-archive",
+            "dateModified": "2020-10-29"
+        }
+    ],
+    "doi": "10.5281/zenodo.4139893",
+    "identifier": "zenodo.4139893",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "barcelona",
+        "rent",
+        "sale",
+        "alquiler",
+        "ventas",
+        "viviendas"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Las caracter\u00edsticas de anuncios de alquiler en la ciudad de Barcelona de plataforma habitaclia.",
+    "sameAs": [
+        "https://zenodo.org/records/4139894"
+    ],
+    "url": "https://zenodo.org/record/4139893"
+}

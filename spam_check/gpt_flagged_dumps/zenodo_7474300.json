@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7474300",
+    "_score": 24.9654,
+    "author": [
+        {
+            "affiliation": {
+                "name": "International Institute of Humanities, Cultural Criticism and Social Sciences"
+            },
+            "name": "Carrasco-Jim\u00e9nez, Edison"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-15",
+    "dateModified": "2024-07-15",
+    "datePublished": "2022-12-22T00:00:00",
+    "description": "A2: DIFERENCIADORES SINT\u00c9TICOS",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7474301/files-archive",
+            "dateModified": "2024-07-15"
+        }
+    ],
+    "doi": "10.5281/zenodo.7474300",
+    "identifier": "zenodo.7474300",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "docencia universitaria, derecho, chile"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "A2: DIFERENCIADORES SINT\u00c9TICOS",
+    "sameAs": [
+        "https://zenodo.org/records/7474301"
+    ],
+    "url": "https://zenodo.org/record/7474300"
+}

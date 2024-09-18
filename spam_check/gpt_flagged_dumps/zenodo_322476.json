@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_322476",
+    "_score": 25.549824,
+    "author": [
+        {
+            "name": "Emmanuel Leiter"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2012-09-03T00:00:00",
+    "description": "More information at\u00a0http://openscience.us/repo/model/quantitative.html",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/322476/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.322476",
+    "identifier": "zenodo.322476",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "model"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "quantitative",
+    "sdPublisher": [
+        {
+            "name": "seacraft",
+            "url": "https://zenodo.org/communities/seacraft"
+        }
+    ],
+    "url": "https://zenodo.org/records/322476"
+}

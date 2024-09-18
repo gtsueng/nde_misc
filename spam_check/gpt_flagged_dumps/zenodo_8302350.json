@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8302350",
+    "_score": 25.616545,
+    "author": [
+        {
+            "name": "anonymous"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-08-31",
+    "dateModified": "2023-08-31",
+    "datePublished": "2023-08-30T00:00:00",
+    "description": "NEW API Misuse manual verification",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8302351/files-archive",
+            "dateModified": "2023-08-31"
+        }
+    ],
+    "doi": "10.5281/zenodo.8302350",
+    "identifier": "zenodo.8302350",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "NEW API Misuse manual verification",
+    "sameAs": [
+        "https://zenodo.org/records/8302351"
+    ],
+    "url": "https://zenodo.org/record/8302350"
+}

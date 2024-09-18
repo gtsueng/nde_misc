@@ -1,0 +1,65 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3612293",
+    "_score": 24.173138,
+    "author": [
+        {
+            "affiliation": {
+                "name": "PUSDIKLAT al-Hikmah Karangmojo"
+            },
+            "identifier": "0000-0002-0797-9181",
+            "name": "Muhammad Taqiyuddin"
+        },
+        {
+            "affiliation": {
+                "name": "Universitas Darussalam Gontor (Darussalam University)"
+            },
+            "identifier": "0000-0003-2491-8839",
+            "name": "Fitra Awalia Rahmawati"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2020-01-19T00:00:00",
+    "description": "This was AD ART of Pusat Pendidikan dan Pelatihan Pengabdian al-Hikmah Karangmojo",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3612294/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3612293",
+    "identifier": "zenodo.3612293",
+    "inLanguage": {
+        "name": "ind"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Pesantren",
+        "Islamic Education"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "AD & ART",
+    "sameAs": [
+        "https://zenodo.org/records/3612294"
+    ],
+    "sdPublisher": [
+        {
+            "name": "pusdiklatal-hikmahkarangmojo",
+            "url": "https://zenodo.org/communities/pusdiklatal-hikmahkarangmojo"
+        }
+    ],
+    "url": "https://zenodo.org/record/3612293"
+}

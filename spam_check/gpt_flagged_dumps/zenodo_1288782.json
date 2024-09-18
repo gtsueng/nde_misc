@@ -1,0 +1,85 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1288782",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.338835,
+    "author": [
+        {
+            "affiliation": {
+                "name": "EPFL"
+            },
+            "identifier": "0000-0002-2836-2623",
+            "name": "Christian Sieben"
+        },
+        {
+            "affiliation": {
+                "name": "EPFL"
+            },
+            "name": "Niccol\u00f2 Banterle"
+        },
+        {
+            "affiliation": {
+                "name": "EPFL"
+            },
+            "identifier": "0000-0003-4694-0922",
+            "name": "Kyle M. Douglass"
+        },
+        {
+            "affiliation": {
+                "name": "EPFL"
+            },
+            "name": "Pierre G\u00f6nczy"
+        },
+        {
+            "affiliation": {
+                "name": "EPFL"
+            },
+            "identifier": "0000-0002-4755-4778",
+            "name": "Suliana Manley"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-06-13T00:00:00",
+    "description": "Example data\u00a0to test the features of SPARTAN,\u00a0a general-purpose particle analysis software for single-molecule localization microscopy (SMLM). The software is integrated into a newly developed framework to perform multi-color 3D reconstruction from 2D SMLM data.\n\n\nSPARTAN is available on GitHub: https://github.com/christian-7/MultiColorSPR\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1288783/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1288782",
+    "identifier": "zenodo.1288782",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "single molecule localization microscopy",
+        "single particle reconstruction",
+        "super resolution microscopy"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "SPARTAN example data",
+    "sameAs": [
+        "https://zenodo.org/records/1288783"
+    ],
+    "sdPublisher": [
+        {
+            "name": "epfl",
+            "url": "https://zenodo.org/communities/epfl"
+        }
+    ],
+    "url": "https://zenodo.org/record/1288782"
+}

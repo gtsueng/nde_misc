@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6650720",
+    "_score": 25.291004,
+    "author": [
+        {
+            "name": "R\u00e9gis Longchamp"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-06-22",
+    "dateModified": "2022-06-22",
+    "datePublished": "2022-06-16T00:00:00",
+    "description": "See competition website",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6673844/files-archive",
+            "dateModified": "2022-06-22"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6650721/files-archive",
+            "dateModified": "2022-06-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.6650720",
+    "identifier": "zenodo.6650720",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Codalab ML competition - No GPS, No problem! - Training dataset",
+    "sameAs": [
+        "https://zenodo.org/records/6673844",
+        "https://zenodo.org/records/6650721"
+    ],
+    "url": "https://zenodo.org/record/6650720"
+}

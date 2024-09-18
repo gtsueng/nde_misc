@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4000387",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 18.617397,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Software engineering lab, University of Mons"
+            },
+            "identifier": "0000-0003-1041-439X",
+            "name": "Mehdi Golzadeh"
+        },
+        {
+            "affiliation": {
+                "name": "Software engineering lab, University of Mons"
+            },
+            "name": "Alexandre Decan"
+        },
+        {
+            "affiliation": {
+                "name": "Software engineering lab, University of Mons"
+            },
+            "name": "Damien Legay"
+        },
+        {
+            "affiliation": {
+                "name": "Software engineering lab, University of Mons"
+            },
+            "name": "Tom Mens"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-09-01",
+    "dateModified": "2023-09-01",
+    "datePublished": "2020-08-25T00:00:00",
+    "description": "This dataset is a ground truth dataset we used to identify bots. Each account in this dataset is rated by at least 3 raters with high interrater agreement.\n\n\n===\n\n\nThis dataset is outdated (it was created in 2020) and therefore no longer recommended for use. Many of the classified GitHub bot accounts are no longer active or even available today, and some may even have changed their status from bot to human (or conversely) since. If you want to use a ground-truth dataset of bot accounts for academic (or other) purposes, we therefore recommend to use a more recent and more complete dataset of GitHub bot accounts. Such a dataset can be found here:\n\n\nhttps://doi.org/10.5281/zenodo.7740520\n\n\n===",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4000388/files-archive",
+            "dateModified": "2023-09-01"
+        }
+    ],
+    "doi": "10.5281/zenodo.4000387",
+    "identifier": "zenodo.4000387",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Ground-truth; Bot, Human, GitHub accounts, Repository"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "A ground-truth dataset to identify bots in GitHub",
+    "sameAs": [
+        "https://zenodo.org/records/4000388"
+    ],
+    "sdPublisher": [
+        {
+            "name": "msr",
+            "url": "https://zenodo.org/communities/msr"
+        },
+        {
+            "name": "empirical-software-engineering",
+            "url": "https://zenodo.org/communities/empirical-software-engineering"
+        }
+    ],
+    "url": "https://zenodo.org/record/4000387"
+}

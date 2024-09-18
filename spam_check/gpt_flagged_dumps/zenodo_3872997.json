@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3872997",
+    "_score": 24.169168,
+    "author": [
+        {
+            "name": "Anon"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-06-02",
+    "dateModified": "2020-06-02",
+    "datePublished": "2020-06-02T00:00:00",
+    "description": "IO Islamic 2028. Ta\u2019r\u00eekh-i-Anbiy\u00e2, A Very Detailed Work on the Prophets and Holy Men",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3872998/files-archive",
+            "dateModified": "2020-06-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.3872997",
+    "identifier": "zenodo.3872997",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "IO Islamic 2028",
+        "2028",
+        "India Office"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "IO Islamic 2028. Ta'r\u00eekh-i-Anbiy\u00e2, A Very Detailed Work on the Prophets and Holy Men",
+    "sameAs": [
+        "https://zenodo.org/records/3872998"
+    ],
+    "url": "https://zenodo.org/record/3872997"
+}

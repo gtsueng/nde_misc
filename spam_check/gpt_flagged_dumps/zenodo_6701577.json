@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6701577",
+    "_score": 23.934813,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Universit\u00e0 degli Studi dell'Aquila"
+            },
+            "identifier": "0000-0001-7877-4741",
+            "name": "Hans-Bianchi, Barbara"
+        },
+        {
+            "identifier": "0000-0001-5408-0147",
+            "name": "Balsamo, Camilla"
+        },
+        {
+            "identifier": "0000-0002-8796-3672",
+            "name": "De Lauretis, Lorenzo"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-10-21",
+    "dateModified": "2022-10-21",
+    "datePublished": "2022-02-01T00:00:00",
+    "description": "ENDE corpus\u00a0\n\n\naligned translation corpus ENG - PDC, lemmatised and POS-annotated\n\n\nwww.deitsch.eu\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6701578/files-archive",
+            "dateModified": "2022-10-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.6701577",
+    "identifier": "zenodo.6701577",
+    "inLanguage": {
+        "name": "pdc"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Pennsylvania German, English, translation corpus, POS-annotation STTS"
+    ],
+    "name": "The English-Deitsch Translation Corpus Database",
+    "sameAs": [
+        "https://zenodo.org/records/6701578"
+    ],
+    "url": "https://zenodo.org/record/6701577"
+}

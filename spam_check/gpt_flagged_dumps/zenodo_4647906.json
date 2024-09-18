@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4647906",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.83574,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Wuhan University"
+            },
+            "name": "Xu Zhibang"
+        },
+        {
+            "affiliation": {
+                "name": "Wuhan University"
+            },
+            "name": "Jiao Limin"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-09-01",
+    "dateModified": "2021-09-01",
+    "datePublished": "2021-03-31T00:00:00",
+    "description": "Global Hierarchical Urban Boundaries (GHUB) vector Database 2018.\n\n\nGeoPackage (gpkg) format.\n\n\nPlease cite the following article\u00a0when using this data,\n\n\nXu, Z., Jiao, L., Lan, T., Zhou, Z., Cui, H., Li, C., Xu, G., & Liu, Y. (2021). Mapping hierarchical urban boundaries for global urban settlements. International Journal of Applied Earth Observation and Geoinformation, 103, 102480. https://doi.org/10.1016/j.jag.2021.102480\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5168383/files-archive",
+            "dateModified": "2021-09-01"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4647907/files-archive",
+            "dateModified": "2021-09-01"
+        }
+    ],
+    "doi": "10.5281/zenodo.4647906",
+    "identifier": "zenodo.4647906",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Urban",
+        "Urban boundaries",
+        "Global data",
+        "Vector data"
+    ],
+    "license": "https://creativecommons.org/licenses/by/3.0/legalcode",
+    "name": "Global Hierarchical Urban Boundaries (GHUB)",
+    "sameAs": [
+        "https://zenodo.org/records/5168383",
+        "https://zenodo.org/records/4647907"
+    ],
+    "url": "https://zenodo.org/record/4647906"
+}

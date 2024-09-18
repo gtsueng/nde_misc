@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7190662",
+    "_score": 26.026903,
+    "author": [
+        {
+            "name": "Sylvie"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-10-13",
+    "dateModified": "2022-10-13",
+    "datePublished": "2022-10-12T00:00:00",
+    "description": ".lei images",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7190663/files-archive",
+            "dateModified": "2022-10-13"
+        }
+    ],
+    "doi": "10.5281/zenodo.7190662",
+    "identifier": "zenodo.7190662",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": ".lei images",
+    "sameAs": [
+        "https://zenodo.org/records/7190663"
+    ],
+    "url": "https://zenodo.org/record/7190662"
+}

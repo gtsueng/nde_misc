@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4838516",
+    "_score": 25.619175,
+    "author": [
+        {
+            "name": "Brinda, Karel"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-05-30",
+    "dateModified": "2021-05-30",
+    "datePublished": "2021-05-28T00:00:00",
+    "description": "Assemblies in the FASTA format",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4838517/files-archive",
+            "dateModified": "2021-05-30"
+        }
+    ],
+    "doi": "10.5281/zenodo.4838516",
+    "identifier": "zenodo.4838516",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "NCTC 3000 complete assemblies",
+    "sameAs": [
+        "https://zenodo.org/records/4838517"
+    ],
+    "url": "https://zenodo.org/record/4838516"
+}

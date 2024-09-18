@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1229720",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.62336,
+    "author": [
+        {
+            "name": "SSIX"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2017-07-01T00:00:00",
+    "description": "SSIX Finance Gold Standards\u00a0\n\n\n\n\t\nMicroblogs - English\n\t\nNews Headlines - English\n\n\n\nThese resources were created in the context of the SSIX project. Only a sample is available here, to\u00a0download the full files please follow the instruction at https://ssix-project.eu/knowledgebase/gold-standards/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1229721/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1229720",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "645425",
+            "name": "Social Sentiment analysis financial IndeXes"
+        }
+    ],
+    "identifier": "zenodo.1229720",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Gold Standard",
+        "Financial Microblogs",
+        "News Headlines"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "name": "SSIX Finance Gold Standards",
+    "sameAs": [
+        "https://zenodo.org/records/1229721"
+    ],
+    "sdPublisher": [
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/1229720"
+}

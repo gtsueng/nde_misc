@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7863787",
+    "_score": 24.28817,
+    "author": [
+        {
+            "name": "Marcos Iturbe Marenco"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-04-26",
+    "dateModified": "2023-04-26",
+    "datePublished": "2023-04-25T00:00:00",
+    "description": "El dataset contiene la informaci\u00f3n de todos los alquileres de Espa\u00f1a disponibles en www.pisos.com.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7863788/files-archive",
+            "dateModified": "2023-04-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.7863787",
+    "identifier": "zenodo.7863787",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "real estate",
+        "web scrapping"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "AlquiESP(v0.04/2023) - Pisos de alquiler en Espa\u00f1a disponibles en Pisos.com",
+    "sameAs": [
+        "https://zenodo.org/records/7863788"
+    ],
+    "url": "https://zenodo.org/record/7863787"
+}

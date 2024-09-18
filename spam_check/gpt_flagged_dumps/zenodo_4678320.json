@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4678320",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.62336,
+    "author": [
+        {
+            "name": "Francisco de Borja Navas Torres"
+        },
+        {
+            "name": "\u00c1lvaro de la Fuente D\u00edaz"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-04-11",
+    "dateModified": "2021-04-11",
+    "datePublished": "2021-04-10T00:00:00",
+    "description": "El dataset contiene informaci\u00f3n de cada una de las diferentes unidades inmobiliarias que tiene en comercializaci\u00f3n la promotora Metrovacesa por cada una de sus promociones, municipios y provincias. Dentro de cada una de estas unidades, se detallan\u00a0los datos b\u00e1sicos de cada una de ellas y el precio de comercializaci\u00f3n.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4678321/files-archive",
+            "dateModified": "2021-04-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.4678320",
+    "identifier": "zenodo.4678320",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Metrovacesa - Unidades inmobiliarias en comercializaci\u00f3n",
+    "sameAs": [
+        "https://zenodo.org/records/4678321"
+    ],
+    "url": "https://zenodo.org/record/4678320"
+}

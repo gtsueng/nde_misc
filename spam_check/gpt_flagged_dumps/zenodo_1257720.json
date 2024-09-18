@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1257720",
+    "_score": 25.221636,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Stanford University"
+            },
+            "identifier": "0000-0003-3321-7583",
+            "name": "Gorgolewski, Krzysztof Jacek"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-06-01T00:00:00",
+    "description": "See:\u00a0https://github.com/chrisfilo/peaks2maps",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1257721/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1257720",
+    "identifier": "zenodo.1257720",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "tensorflow"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "peaks2maps pretrained model: OHBM2018 release v1.0.0",
+    "sameAs": [
+        "https://zenodo.org/records/1257721"
+    ],
+    "url": "https://zenodo.org/record/1257720"
+}

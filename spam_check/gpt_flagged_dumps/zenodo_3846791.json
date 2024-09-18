@@ -1,0 +1,43 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3846791",
+    "_score": 25.955711,
+    "author": [
+        {
+            "affiliation": {
+                "name": "PUC"
+            },
+            "name": "Ossandon"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-05-26",
+    "dateModified": "2020-05-26",
+    "datePublished": "2020-05-25T00:00:00",
+    "description": "ADHD data",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3846792/files-archive",
+            "dateModified": "2020-05-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.3846791",
+    "identifier": "zenodo.3846791",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "ADHD_Project",
+    "sameAs": [
+        "https://zenodo.org/records/3846792"
+    ],
+    "url": "https://zenodo.org/record/3846791"
+}

@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5517851",
+    "_score": 26.027971,
+    "author": [
+        {
+            "name": "Mark Vincent Ty"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-12-21",
+    "dateModified": "2021-12-21",
+    "datePublished": "2021-09-20T00:00:00",
+    "description": "oneshotrealhumanspkl",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5517852/files-archive",
+            "dateModified": "2021-12-21"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5795284/files-archive",
+            "dateModified": "2021-12-22"
+        }
+    ],
+    "doi": "10.5281/zenodo.5517851",
+    "identifier": "zenodo.5517851",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "oneshotrealhumanspkl",
+    "sameAs": [
+        "https://zenodo.org/records/5517852",
+        "https://zenodo.org/records/5795284"
+    ],
+    "url": "https://zenodo.org/record/5517851"
+}

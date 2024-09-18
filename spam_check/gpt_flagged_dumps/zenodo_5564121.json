@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5564121",
+    "_score": 25.751087,
+    "author": [
+        {
+            "name": "Liu"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-10-14",
+    "dateModified": "2021-10-14",
+    "datePublished": "2021-10-12T00:00:00",
+    "description": "dgj CR1000XSeries SystemA1 Data",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5564122/files-archive",
+            "dateModified": "2021-10-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.5564121",
+    "identifier": "zenodo.5564121",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "dgj CR1000XSeries SystemA1 Data",
+    "sameAs": [
+        "https://zenodo.org/records/5564122"
+    ],
+    "url": "https://zenodo.org/record/5564121"
+}

@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1973209",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.791519,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Universit\u00e9 de Guyane"
+            },
+            "identifier": "0000-0001-9869-401X",
+            "name": "Latour Marie"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-12-05T00:00:00",
+    "description": "Depuis 2015, le SCD de l\u2019Universit\u00e9 de Guyane est engag\u00e9 dans un renouvellement de sa p\u00e9dagogie : des s\u00e9quences de jeux sont r\u00e9guli\u00e8rement introduites dans ses formations \u00e0 la m\u00e9thodologie documentaire afin de favoriser l\u2019interactivit\u00e9 et le plaisir de l\u2019apprentissage. Apr\u00e8s avoir cr\u00e9\u00e9 trois pr\u00e9c\u00e9dents jeux de plateaux sur l\u2019Open Access en 2017, la BU pr\u00e9sente \u00ab Licences to kill \u00bb, un nouveau jeu p\u00e9dagogique cr\u00e9\u00e9 en 2018.\n\n\n\nCe jeu, \u00ab R\u00e9vise tes bases !\u00bb,, a \u00e9t\u00e9 cr\u00e9\u00e9 d\u2019apr\u00e8s une id\u00e9e originale de la biblioth\u00e9caire Magalie Le Gall. Il est utilis\u00e9 en fin de cours afin de r\u00e9capituler les \u00e9l\u00e9ments vus pendant la s\u00e9ance, pour en faciliter la m\u00e9morisation. C\u2019est un petit m\u00e9mory qui permet aux \u00e9tudiants d\u2019assimiler les grandes fonctionnalit\u00e9s pr\u00e9sentes dans la majorit\u00e9 des bases de donn\u00e9es auxquelles donne acc\u00e8s la biblioth\u00e8que.\n\n\n\nTous les fichiers de ce jeu sont librement disponibles et t\u00e9l\u00e9chargeables sous licence Creative Commons BY NC SA sur le site d\u2019archivage p\u00e9renne en trois formats : JPEG, PDF et InDesign. Ils sont modifiables et diffusables, mais il est demand\u00e9 de ne pas en faire d\u2019exploitation commerciale. Une possibilit\u00e9 est offerte aux \u00e9tablissements int\u00e9ress\u00e9s d\u2019acheter un exemplaire du jeu : en plus du prix de celui-ci, qui sera r\u00e9alis\u00e9 par notre prestataire graphique guyanais Signarama, un forfait de 30 \u20ac par jeu est demand\u00e9 \u00e0 destination de l\u2019Universit\u00e9 de Guyane. Ce montant sera r\u00e9investi dans la cr\u00e9ation de nouveaux produits p\u00e9dagogiques et ludiques, qui seront \u00e0 leur tour partag\u00e9s \u00e0 la communaut\u00e9 !\n\n\nPour toute information compl\u00e9mentaire ou achat d\u2019un exemplaire, merci de contacter Marie Latour, directrice adjointe du SCD de l\u2019Universit\u00e9 de Guyane et cr\u00e9atrice de ces jeux \u00e0 l\u2019adresse suivante : marie.latour@univ-guyane.fr",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1973210/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1973209",
+    "identifier": "zenodo.1973209",
+    "inLanguage": {
+        "name": "fra"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "licence",
+        "master",
+        "doctorat",
+        "recherche",
+        "jeu p\u00e9dagogique",
+        "bachelor",
+        "PhD",
+        "Research"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Jeu \"R\u00e9vise tes bases\"",
+    "sameAs": [
+        "https://zenodo.org/records/1973210"
+    ],
+    "sdPublisher": [
+        {
+            "name": "guyane_et_outre-mere_universites",
+            "url": "https://zenodo.org/communities/guyane_et_outre-mere_universites"
+        },
+        {
+            "name": "adbu_competencesinformationnelles",
+            "url": "https://zenodo.org/communities/adbu_competencesinformationnelles"
+        }
+    ],
+    "url": "https://zenodo.org/record/1973209"
+}

@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7877552",
+    "_score": 23.480167,
+    "author": [
+        {
+            "affiliation": {
+                "name": "QED FILM & STAGE PRODUCTIONS LTD, UK"
+            },
+            "name": "Giberti, Luca"
+        },
+        {
+            "affiliation": {
+                "name": "QED FILM & STAGE PRODUCTIONS LTD, UK"
+            },
+            "name": "Santucci, Raffaella"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-12",
+    "dateModified": "2024-07-12",
+    "datePublished": "2023-04-28T00:00:00",
+    "description": "SMART-electron\u00a0Poster and SMART-electron Rollup in the black-and-white palette.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7877553/files-archive",
+            "dateModified": "2024-07-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.7877552",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "964591",
+            "name": "ULTRAFAST ALL-OPTICAL SPATIO-TEMPORAL ELECTRON MODULATORS: OPENING NEW FRONTIERS IN ELECTRON MICROSCOPY"
+        }
+    ],
+    "identifier": "zenodo.7877552",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "SMART-electron Poster & Rollup",
+    "sameAs": [
+        "https://zenodo.org/records/7877553"
+    ],
+    "sdPublisher": [
+        {
+            "name": "smart-electron",
+            "url": "https://zenodo.org/communities/smart-electron"
+        },
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/7877552"
+}

@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2632727",
+    "_score": 24.776787,
+    "author": [
+        {
+            "affiliation": {
+                "name": "R\u00f6misch-Germanisches Zentralmuseum (RGZM)"
+            },
+            "identifier": "0000-0002-3246-3531",
+            "name": "Florian Thiery"
+        },
+        {
+            "affiliation": {
+                "name": "R\u00f6misch-Germanisches Zentralmuseum (RGZM)"
+            },
+            "identifier": "0000-0002-7634-5342",
+            "name": "Allard Mees"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2018-09-01T00:00:00",
+    "description": "more data at\u00a0https://github.com/RGZM/alligator-mt-data",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2632728/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.2632727",
+    "identifier": "zenodo.2632727",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://opendatacommons.org/licenses/by/1.0/",
+    "name": "Alligator Method Test - The Data",
+    "sameAs": [
+        "https://zenodo.org/records/2632728"
+    ],
+    "url": "https://zenodo.org/record/2632727"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7514888",
+    "_score": 23.823685,
+    "author": [
+        {
+            "name": "Rishabh Srivastava"
+        },
+        {
+            "name": "Amruth Sagar"
+        },
+        {
+            "name": "Ravi Kiran Sarvadevabhatla"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-03-05",
+    "dateModified": "2024-03-05",
+    "datePublished": "2023-01-09T00:00:00",
+    "description": "The Indic-Ads Dataset is a collection of image ads that are of Indian origin or made on some popular indian brands. More details can be found at https://skeleton.iiit.ac.in/indicads.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7514889/files-archive",
+            "dateModified": "2024-03-05"
+        }
+    ],
+    "doi": "10.5281/zenodo.7514888",
+    "identifier": "zenodo.7514888",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Indian Ads"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Indic Ads",
+    "sameAs": [
+        "https://zenodo.org/records/7514889"
+    ],
+    "url": "https://zenodo.org/record/7514888"
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8003623",
+    "_score": 24.968655,
+    "author": [
+        {
+            "affiliation": {
+                "name": "IIT GANDHINAGAR"
+            },
+            "identifier": "0000-0002-0662-2906",
+            "name": "Chuphal, Dipesh"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-08-24",
+    "dateModified": "2023-08-24",
+    "datePublished": "2023-06-05T00:00:00",
+    "description": "Trial",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8003624/files-archive",
+            "dateModified": "2023-08-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.8003623",
+    "identifier": "zenodo.8003623",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "H08, mizuRoute, Streamflow, India, Hydrology, Water management, Climate change adaptation, Hydroclimatic extremes analysis"
+    ],
+    "name": "Trial version",
+    "sameAs": [
+        "https://zenodo.org/records/8003624"
+    ],
+    "url": "https://zenodo.org/record/8003623"
+}

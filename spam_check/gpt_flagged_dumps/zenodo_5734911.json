@@ -1,0 +1,81 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5734911",
+    "_score": 22.219204,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Jacobs University Bremen"
+            },
+            "identifier": "0000-0003-1171-1222",
+            "name": "Giacomo Nodjoumi"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-11-23",
+    "dateModified": "2022-11-23",
+    "datePublished": "2021-11-29T00:00:00",
+    "description": "Initial training dataset for\u00a0DeepLandforms: A Deep Learning Computer Vision toolset applied to a prime use case for mapping planetary skylights",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5734912/files-archive",
+            "dateModified": "2022-11-23"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7351391/files-archive",
+            "dateModified": "2022-11-23"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6818611/files-archive",
+            "dateModified": "2022-11-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.5734911",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "101004214",
+            "name": "Innovative Scientific Data Exploration and Exploitation Applications for Space Sciences"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "871149",
+            "name": "Europlanet 2024 Research Infrastructure"
+        }
+    ],
+    "identifier": "zenodo.5734911",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": null,
+    "name": "DeepLandforms: A Deep Learning Computer Vision toolset applied to a prime use case for mapping planetary skylights  - ANc",
+    "sameAs": [
+        "https://zenodo.org/records/5734912",
+        "https://zenodo.org/records/7351391",
+        "https://zenodo.org/records/6818611"
+    ],
+    "sdPublisher": [
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/5734911"
+}

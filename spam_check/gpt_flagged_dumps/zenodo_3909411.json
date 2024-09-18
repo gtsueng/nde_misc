@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3909411",
+    "_score": 22.227608,
+    "author": [
+        {
+            "name": "Naww\u00e2b \u1e62am\u1e63\u00e2m-aldaulah Sh\u00e2hnaw\u00e2zkh\u00e2n Shah\u00eed Khw\u00e2f\u00ee Aurang\u00e2b\u00e2d\u00ee"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-06-26",
+    "dateModified": "2020-06-26",
+    "datePublished": "2020-06-26T00:00:00",
+    "description": "IO Islamic 839. Ma\u00e2thir-alumar\u00e2, The First Edition of the Great Biographical Dictionary of the Famous Am\u00eers, Naww\u00e2bs, and other Noblemen who Lived during the Reign of the T\u00eem\u00fbrides in India",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3909412/files-archive",
+            "dateModified": "2020-06-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.3909411",
+    "identifier": "zenodo.3909411",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "IO Islamic 839",
+        "839",
+        "India Office"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "IO Islamic 839. Ma\u00e2thir-alumar\u00e2, The First Edition of the Great Biographical Dictionary of the Famous Am\u00eers, Naww\u00e2bs, and other Noblemen who Lived during the Reign of the T\u00eem\u00fbrides in India",
+    "sameAs": [
+        "https://zenodo.org/records/3909412"
+    ],
+    "url": "https://zenodo.org/record/3909411"
+}

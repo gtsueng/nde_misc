@@ -1,0 +1,62 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6327236",
+    "_score": 22.028395,
+    "author": [
+        {
+            "affiliation": {
+                "name": "CSIRO"
+            },
+            "identifier": "0000-0001-5429-0515",
+            "name": "Inkyu Sa"
+        },
+        {
+            "affiliation": {
+                "name": "CARES, Department of Electrical, Computer and Software Engineering, University of Auckland"
+            },
+            "name": "Jong Yoon Lim"
+        },
+        {
+            "affiliation": {
+                "name": "CARES, Department of Electrical, Computer and Software Engineering, University of Auckland"
+            },
+            "name": "Ho Seok Ahn"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-05-09",
+    "dateModified": "2022-05-09",
+    "datePublished": "2022-03-09T00:00:00",
+    "description": "This dataset contains nirscene NIR+RGB dataset used in our paper; deepNIR: Dataset for generating synthetic NIR images and improved fruit detection system using deep learning techniques.\n\n\nPlease refer to http://tiny.one/deepNIR for more detail.\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6529979/files-archive",
+            "dateModified": "2022-05-09"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6327237/files-archive",
+            "dateModified": "2022-05-09"
+        }
+    ],
+    "doi": "10.5281/zenodo.6327236",
+    "identifier": "zenodo.6327236",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "(nirscene) deepNIR: Dataset for generating synthetic NIR images",
+    "sameAs": [
+        "https://zenodo.org/records/6529979",
+        "https://zenodo.org/records/6327237"
+    ],
+    "url": "https://zenodo.org/record/6327236"
+}

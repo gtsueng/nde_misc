@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5141194",
+    "_score": 25.958002,
+    "author": [
+        {
+            "name": "anonymouse"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-07-28",
+    "dateModified": "2021-07-28",
+    "datePublished": "2021-07-28T00:00:00",
+    "description": "SCAM 2021",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5141195/files-archive",
+            "dateModified": "2021-07-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.5141194",
+    "identifier": "zenodo.5141194",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "jsPerf Sampling Data",
+    "sameAs": [
+        "https://zenodo.org/records/5141195"
+    ],
+    "url": "https://zenodo.org/record/5141194"
+}

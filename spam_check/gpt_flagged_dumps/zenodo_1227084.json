@@ -1,0 +1,69 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1227084",
+    "_score": 23.048244,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Karlstad University"
+            },
+            "identifier": "0000-0001-5241-6815",
+            "name": "H\u00f8iland-J\u00f8rgensen, Toke"
+        },
+        {
+            "affiliation": {
+                "name": "University of Modena and Reggio Emilia"
+            },
+            "name": "Augusto Grazia, Carlo"
+        },
+        {
+            "affiliation": {
+                "name": "Karlstad University"
+            },
+            "name": "Hurtig, Per"
+        },
+        {
+            "affiliation": {
+                "name": "Karlstad University"
+            },
+            "name": "Brunstrom, Anna"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-04-23T00:00:00",
+    "description": "This is the experimental dataset from the paper \"Flent: The FLExible Network Tester\" published at the ValueTools 2017 conference.\n\n\nAlso published at: https://www.cs.kau.se/tohojo/flent/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1227085/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1227084",
+    "identifier": "zenodo.1227084",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "name": "Flent: The FLExible Network Tester",
+    "sameAs": [
+        "https://zenodo.org/records/1227085"
+    ],
+    "sdPublisher": [
+        {
+            "name": "kaucs",
+            "url": "https://zenodo.org/communities/kaucs"
+        }
+    ],
+    "url": "https://zenodo.org/record/1227084"
+}

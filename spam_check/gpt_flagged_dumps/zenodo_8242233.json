@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8242233",
+    "_score": 25.620478,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Professor"
+            },
+            "name": "VLADIMIR CUDRIS"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-08-15",
+    "dateModified": "2023-08-15",
+    "datePublished": "2023-08-13T00:00:00",
+    "description": "abs pla dataert",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8242234/files-archive",
+            "dateModified": "2023-08-15"
+        }
+    ],
+    "doi": "10.5281/zenodo.8242233",
+    "identifier": "zenodo.8242233",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "plas abs dataset",
+    "sameAs": [
+        "https://zenodo.org/records/8242234"
+    ],
+    "sdPublisher": [
+        {
+            "name": "fablab_iub",
+            "url": "https://zenodo.org/communities/fablab_iub"
+        }
+    ],
+    "url": "https://zenodo.org/record/8242233"
+}

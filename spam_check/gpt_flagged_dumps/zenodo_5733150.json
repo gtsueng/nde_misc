@@ -1,0 +1,138 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5733150",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 19.469488,
+    "author": [
+        {
+            "identifier": "0000-0002-5593-5546",
+            "name": "Spangenberg, Philippa"
+        },
+        {
+            "identifier": "0000-0002-8098-0402",
+            "name": "Hagemann, Nina"
+        },
+        {
+            "identifier": "0000-0002-8796-7868",
+            "name": "Squire, Anthony"
+        },
+        {
+            "identifier": "0000-0003-4226-754X",
+            "name": "F\u00f6rster, Nils"
+        },
+        {
+            "identifier": "0000-0001-6271-9940",
+            "name": "Krau\u00df, Sascha D."
+        },
+        {
+            "name": "Qi, Yachao"
+        },
+        {
+            "identifier": "0000-0001-6863-7612",
+            "name": "Yusuf, Ayan Mohamud"
+        },
+        {
+            "name": "Wang, Jing"
+        },
+        {
+            "identifier": "0000-0002-7928-5613",
+            "name": "Gr\u00fcneboom, Anika"
+        },
+        {
+            "name": "Kowitz, Lennart"
+        },
+        {
+            "identifier": "0000-0001-5834-447X",
+            "name": "Korste, Sebastian"
+        },
+        {
+            "name": "Totzek, Matthias"
+        },
+        {
+            "name": "Cibir, Z\u00fclal"
+        },
+        {
+            "name": "Tuz, Ali Ata"
+        },
+        {
+            "identifier": "0000-0002-7361-8317",
+            "name": "Singh, Vikramjeet"
+        },
+        {
+            "identifier": "0000-0003-1869-1930",
+            "name": "Siemes, Devon"
+        },
+        {
+            "name": "Struensee, Laura"
+        },
+        {
+            "identifier": "0000-0001-7301-353X",
+            "name": "Engel, Daniel R."
+        },
+        {
+            "name": "Ludewig, Peter"
+        },
+        {
+            "name": "Melo, Luiza Martins Nascentes"
+        },
+        {
+            "name": "Helfrich, Iris"
+        },
+        {
+            "name": "Chen, Jianxu"
+        },
+        {
+            "identifier": "0000-0002-5534-6055",
+            "name": "Gunzer, Matthias"
+        },
+        {
+            "identifier": "0000-0003-0198-3152",
+            "name": "Hermann, Dirk M."
+        },
+        {
+            "identifier": "0000-0001-7266-8323",
+            "name": "Mosig, Axel"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-02-25",
+    "dateModified": "2023-02-25",
+    "datePublished": "2022-05-15T00:00:00",
+    "description": "This dataset contains raw, segmented and skeletonized 3D light-sheet microscopic\u00a0image volumes of\u00a0blood vessels of different organs which were processed by VesselExpress. Please find the software here:\u00a0https://github.com/RUB-Bioinf/VesselExpress. For details on how to run and setup\u00a0the software please watch our tutorial (https://youtu.be/a8GWVKJNh68).",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6025935/files-archive",
+            "dateModified": "2023-02-25"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5733151/files-archive",
+            "dateModified": "2023-02-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.5733150",
+    "identifier": "zenodo.5733150",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "3D light-sheet fluorescence microscopy"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "VesselExpress: Rapid and fully automated blood vasculature analysis in 3D light-sheet image volumes of different organs",
+    "sameAs": [
+        "https://zenodo.org/records/6025935",
+        "https://zenodo.org/records/5733151"
+    ],
+    "url": "https://zenodo.org/record/5733150"
+}

@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5562633",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 23.043364,
+    "author": [
+        {
+            "name": "ESG Hound"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-10-14",
+    "dateModified": "2021-10-14",
+    "datePublished": "2021-10-11T00:00:00",
+    "description": "Starship Project Environmental Assessment Critique and Findings.\u00a0The Boca Chica launch site's environmental impact statement draft is full of errors and missing important details - ESG Hound is on the case.\n\n\n\u00a0\n\n\nLatest version of dataset at https://www.esghound.com.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5562634/files-archive",
+            "dateModified": "2021-10-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.5562633",
+    "identifier": "zenodo.5562633",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "SpaceX",
+        "NEPA",
+        "EPA",
+        "Starbase",
+        "Energy",
+        "Elon Musk"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "ESG Hound Published Findings on Starship Project Environmental Assessment",
+    "sameAs": [
+        "https://zenodo.org/records/5562634"
+    ],
+    "url": "https://zenodo.org/record/5562633"
+}

@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2544177",
+    "_score": 25.417479,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Students"
+            },
+            "name": "UC"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-01-19T00:00:00",
+    "description": "DATOS ORIGINALES:\n\n\nhttp://www.tenerifedata.com/dataset/pernoctaciones",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2545937/files-archive",
+            "dateModified": "2020-01-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/2544178/files-archive",
+            "dateModified": "2020-01-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/2545944/files-archive",
+            "dateModified": "2020-01-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/2545998/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.2544177",
+    "identifier": "zenodo.2544177",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "turismo",
+        "tenerife",
+        "pernoctaciones"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Turismo_Tenerife",
+    "sameAs": [
+        "https://zenodo.org/records/2545937",
+        "https://zenodo.org/records/2544178",
+        "https://zenodo.org/records/2545944",
+        "https://zenodo.org/records/2545998"
+    ],
+    "sdPublisher": [
+        {
+            "name": "dlcturismouc",
+            "url": "https://zenodo.org/communities/dlcturismouc"
+        }
+    ],
+    "url": "https://zenodo.org/record/2544177"
+}

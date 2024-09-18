@@ -1,0 +1,43 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4264983",
+    "_score": 25.818918,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University Nebraska - Lincoln"
+            },
+            "name": "Furbeck, Rebecca"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-11-10",
+    "dateModified": "2020-11-10",
+    "datePublished": "2020-11-09T00:00:00",
+    "description": "nanorun",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4264984/files-archive",
+            "dateModified": "2020-11-10"
+        }
+    ],
+    "doi": "10.5281/zenodo.4264983",
+    "identifier": "zenodo.4264983",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "NanoPack",
+    "sameAs": [
+        "https://zenodo.org/records/4264984"
+    ],
+    "url": "https://zenodo.org/record/4264983"
+}

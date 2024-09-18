@@ -1,0 +1,38 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_50627",
+    "_score": 24.936293,
+    "author": [
+        {
+            "name": "Ragnar Har\u00f0arson"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-08-04",
+    "dateModified": "2024-08-04",
+    "datePublished": "2016-04-28T00:00:00",
+    "description": "This is an item called Baby",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/50627/files-archive",
+            "dateModified": "2024-08-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.50627",
+    "identifier": "zenodo.50627",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "http://www.rosenlaw.com/AFL3.0.htm",
+    "name": "Baby",
+    "url": "https://zenodo.org/records/50627"
+}

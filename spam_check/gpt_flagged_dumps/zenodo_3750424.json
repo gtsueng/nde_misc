@@ -1,0 +1,59 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3750424",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 23.264318,
+    "author": [
+        {
+            "affiliation": {
+                "name": "https://github.com/carlosgomezarma"
+            },
+            "name": "Carlos G\u00f3mez"
+        },
+        {
+            "affiliation": {
+                "name": "https://github.com/KRLSMolina"
+            },
+            "name": "Carlos Molina"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-04-14",
+    "dateModified": "2020-04-14",
+    "datePublished": "2020-04-13T00:00:00",
+    "description": "Dataset with the list of existing and future confirmed games for the Google Stadia streaming video game platform. Data such as release date, price and score can be found on other platforms.\n\n\nMore information at: https://github.com/KRLSMolina/ScrapingStadia",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3750425/files-archive",
+            "dateModified": "2020-04-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.3750424",
+    "identifier": "zenodo.3750424",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Stadia"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Stadia Games Info",
+    "sameAs": [
+        "https://zenodo.org/records/3750425"
+    ],
+    "url": "https://zenodo.org/record/3750424"
+}

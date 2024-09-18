@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6433988",
+    "_score": 25.160135,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Phd student"
+            },
+            "name": "Razgallah, Asma"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-04-16",
+    "dateModified": "2022-04-16",
+    "datePublished": "2022-04-10T00:00:00",
+    "description": "clean Android applications from Androzoo",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6433989/files-archive",
+            "dateModified": "2022-04-16"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6465263/files-archive",
+            "dateModified": "2022-04-17"
+        }
+    ],
+    "doi": "10.5281/zenodo.6433988",
+    "identifier": "zenodo.6433988",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "apks",
+        "Android",
+        "applications",
+        "clean",
+        "benign"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Clean Apks - Androzoo",
+    "sameAs": [
+        "https://zenodo.org/records/6433989",
+        "https://zenodo.org/records/6465263"
+    ],
+    "url": "https://zenodo.org/record/6433988"
+}

@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6724153",
+    "_score": 25.751087,
+    "author": [
+        {
+            "name": "Pirro, S"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-06-24",
+    "dateModified": "2022-06-24",
+    "datePublished": "2022-06-24T00:00:00",
+    "description": ".",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6724154/files-archive",
+            "dateModified": "2022-06-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.6724153",
+    "identifier": "zenodo.6724153",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Brustiarius nox RB0369 ARBOR decontaminated gx",
+    "sameAs": [
+        "https://zenodo.org/records/6724154"
+    ],
+    "url": "https://zenodo.org/record/6724153"
+}

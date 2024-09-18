@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4135681",
+    "_score": 25.686193,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Strasbourg"
+            },
+            "name": "Chennen, Kirsley"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-10-27",
+    "dateModified": "2020-10-27",
+    "datePublished": "2020-10-26T00:00:00",
+    "description": "PAMPAS datasets",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4135682/files-archive",
+            "dateModified": "2020-10-27"
+        }
+    ],
+    "doi": "10.5281/zenodo.4135681",
+    "identifier": "zenodo.4135681",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "proteome"
+    ],
+    "name": "PAMPAS datasets",
+    "sameAs": [
+        "https://zenodo.org/records/4135682"
+    ],
+    "url": "https://zenodo.org/record/4135681"
+}

@@ -1,0 +1,62 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5206106",
+    "_score": 24.173138,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Institut Pasteur"
+            },
+            "identifier": "0000-0002-0998-4718",
+            "name": "Jean-Yves Tinevez"
+        },
+        {
+            "affiliation": {
+                "name": "University of Turku"
+            },
+            "identifier": "0000-0002-9286-920X",
+            "name": "Guillaume Jacquemet"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-18",
+    "dateModified": "2024-07-18",
+    "datePublished": "2021-08-16T00:00:00",
+    "description": "Cancer cells migration followed with TrackMate.\n\n\nFor more details see\u00a0https://imagej.net/plugins/trackmate/trackmate-stardist\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5206107/files-archive",
+            "dateModified": "2024-07-18"
+        }
+    ],
+    "doi": "10.5281/zenodo.5206106",
+    "identifier": "zenodo.5206106",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Microscopy",
+        "Tracking"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Cancer cell migration followed with TrackMate",
+    "sameAs": [
+        "https://zenodo.org/records/5206107"
+    ],
+    "sdPublisher": [
+        {
+            "name": "trackmate",
+            "url": "https://zenodo.org/communities/trackmate"
+        }
+    ],
+    "url": "https://zenodo.org/record/5206106"
+}

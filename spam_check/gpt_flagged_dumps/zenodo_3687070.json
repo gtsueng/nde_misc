@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3687070",
+    "_score": 25.958002,
+    "author": [
+        {
+            "name": "Benedikt Boenninghoff"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-03-09",
+    "dateModified": "2020-03-09",
+    "datePublished": "2020-02-25T00:00:00",
+    "description": "WE",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3687071/files-archive",
+            "dateModified": "2020-03-09"
+        }
+    ],
+    "doi": "10.5281/zenodo.3687070",
+    "identifier": "zenodo.3687070",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "New trained WE",
+    "sameAs": [
+        "https://zenodo.org/records/3687071"
+    ],
+    "url": "https://zenodo.org/record/3687070"
+}

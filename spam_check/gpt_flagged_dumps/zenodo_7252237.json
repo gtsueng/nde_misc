@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7252237",
+    "_score": 22.839045,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Barcelona Supercomputing Center"
+            },
+            "name": "Miranda Escalada, Antonio"
+        },
+        {
+            "affiliation": {
+                "name": "TurkuNLP Group, Department of Computing, University of Turku"
+            },
+            "name": "Mehryary, Farrokh"
+        },
+        {
+            "affiliation": {
+                "name": "TurkuNLP Group, Department of Computing, University of Turku"
+            },
+            "name": "Luoma, Jouni"
+        },
+        {
+            "affiliation": {
+                "name": "TurkuNLP Group, Department of Computing, University of Turku"
+            },
+            "name": "Pyysalo, Sampo"
+        },
+        {
+            "affiliation": {
+                "name": "Barcelona Supercomputing Center"
+            },
+            "name": "Krallinger, Martin"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-08-15",
+    "dateModified": "2023-08-15",
+    "datePublished": "2022-10-28T00:00:00",
+    "description": "DrugProt Complete PubMed Knowledge Graph",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7252238/files-archive",
+            "dateModified": "2023-08-15"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/8246229/files-archive",
+            "dateModified": "2023-12-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.7252237",
+    "identifier": "zenodo.7252237",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "NLP",
+        "biocreative",
+        "NER",
+        "biomedical NLP",
+        "relation extraction"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "DrugProt Complete PubMed Knowledge Graph",
+    "sameAs": [
+        "https://zenodo.org/records/7252238",
+        "https://zenodo.org/records/8246229"
+    ],
+    "url": "https://zenodo.org/record/7252237"
+}

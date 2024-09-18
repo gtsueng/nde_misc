@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8216388",
+    "_score": 25.751087,
+    "author": [
+        {
+            "name": "Cuixianglin"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-08-05",
+    "dateModified": "2023-08-05",
+    "datePublished": "2023-08-05T00:00:00",
+    "description": "AD-brain functional gene network",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8216389/files-archive",
+            "dateModified": "2023-08-05"
+        }
+    ],
+    "doi": "10.5281/zenodo.8216388",
+    "identifier": "zenodo.8216388",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "AD-brain functional gene network",
+    "sameAs": [
+        "https://zenodo.org/records/8216389"
+    ],
+    "url": "https://zenodo.org/record/8216388"
+}

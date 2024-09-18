@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4256498",
+    "_score": 24.173138,
+    "author": [
+        {
+            "affiliation": {
+                "name": "USTC"
+            },
+            "name": "FAN KAI"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-11-08",
+    "dateModified": "2020-11-08",
+    "datePublished": "2020-11-07T00:00:00",
+    "description": "The Data of Hooked Chorus Wave.\u00a0The Data of Hooked Chorus Wave.\u00a0The Data of Hooked Chorus Wave.\u00a0The Data of Hooked Chorus Wave.\u00a0The Data of Hooked Chorus Wave.\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4256499/files-archive",
+            "dateModified": "2020-11-08"
+        }
+    ],
+    "doi": "10.5281/zenodo.4256498",
+    "identifier": "zenodo.4256498",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "The Data of Hooked Chorus Wave",
+    "sameAs": [
+        "https://zenodo.org/records/4256499"
+    ],
+    "url": "https://zenodo.org/record/4256498"
+}

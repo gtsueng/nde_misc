@@ -1,0 +1,125 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3333023",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.866568,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Posgrado en Ciencias Biol\u00f3gicas, Facultad de Ciencias, Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM). Puerto de Abrigo s/n, C.P. 97356, Sisal, Yucat\u00e1n, M\u00e9xico"
+            },
+            "identifier": "0000-0003-1449-6273",
+            "name": "Antar Mijail Perez-Botello"
+        },
+        {
+            "affiliation": {
+                "name": "Programa de Biodiversidad Marina de Yucat\u00e1n, Unidad Acad\u00e9mica Yucat\u00e1n, Facultad de Ciencias, Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM). Puerto de Abrigo s/n, C.P. 97356, Sisal, Yucat\u00e1n, M\u00e9xico."
+            },
+            "identifier": "0000-0003-3418-0030",
+            "name": "Nuno Sim\u00f5es"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-08-12",
+    "dateModified": "2021-08-12",
+    "datePublished": "2021-02-17T00:00:00",
+    "description": "English\n\n\nNew version of the long-awaited database of guest/host relationships in reef sponges. +500 new records of 19 different papers were added. With this update we have a more complete database and information from groups such as Cnidarians, Fish and Mollusks is recovered.\n\n\nDo not miss it!\n\n\nIf you would like to collaborate with this project contact me: antarmijail@comunidad.unam.mx\n\n\nGulf of Mexico and Caribbean sea sponge dwelling-fauna data base. Data extracted of index papers. Aviable at http://globalbioticinteractions.org`\n\n\nEspa\u00f1ol\n\n\nNueva versi\u00f3n de la tan esperada base de datos de relaciones hu\u00e9sped/hospedero en esponjas arrecifales. Se agregaron +500 nuevos registros de 19 art\u00edculos diferentes. Con esta actualizaci\u00f3n se tiene una base de datos m\u00e1s completa y se recupera informaci\u00f3n de grupos como Cnidarios, Peces y Moluscos aparte de sumar nueva informaci\u00f3n sobre artr\u00f3podos\n\n\nNo te la pierdas\n\n\nSi te gustar\u00eda colaborar con este proyecto cont\u00e1ctame: antarmijail@comunidad.unam.mx\n\n\nBase de datos de fauna hu\u00e9sped asociada a esponjas arrecifales del golfo de M\u00e9xico y mar Caribe. Registros extra\u00eddos de publicaciones en revistas indexadas. Informaci\u00f3n disponible en http://globalbioticinteractions.org`",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4544355/files-archive",
+            "dateModified": "2021-08-12"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4395322/files-archive",
+            "dateModified": "2021-08-12"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3967747/files-archive",
+            "dateModified": "2021-08-12"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3348390/files-archive",
+            "dateModified": "2021-08-12"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3348387/files-archive",
+            "dateModified": "2021-08-12"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3333794/files-archive",
+            "dateModified": "2021-08-12"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3333024/files-archive",
+            "dateModified": "2021-08-12"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4471163/files-archive",
+            "dateModified": "2021-08-12"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4395301/files-archive",
+            "dateModified": "2021-08-12"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3966511/files-archive",
+            "dateModified": "2021-08-12"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4441649/files-archive",
+            "dateModified": "2021-08-12"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4445331/files-archive",
+            "dateModified": "2021-08-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.3333023",
+    "identifier": "zenodo.3333023",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Marine ecology",
+        "Community ecology",
+        "Interaction networks",
+        "Symbiosis",
+        "Mutualism",
+        "Commensalism",
+        "Parasitism"
+    ],
+    "license": null,
+    "name": "Sponge dwelling-fauna from the Northwestern Atlantic Ocean: a bibliographic records database.",
+    "sameAs": [
+        "https://zenodo.org/records/4544355",
+        "https://zenodo.org/records/4395322",
+        "https://zenodo.org/records/3967747",
+        "https://zenodo.org/records/3348390",
+        "https://zenodo.org/records/3348387",
+        "https://zenodo.org/records/3333794",
+        "https://zenodo.org/records/3333024",
+        "https://zenodo.org/records/4471163",
+        "https://zenodo.org/records/4395301",
+        "https://zenodo.org/records/3966511",
+        "https://zenodo.org/records/4441649",
+        "https://zenodo.org/records/4445331"
+    ],
+    "sdPublisher": [
+        {
+            "name": "globalbioticinteractions",
+            "url": "https://zenodo.org/communities/globalbioticinteractions"
+        }
+    ],
+    "url": "https://zenodo.org/record/3333023"
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7971997",
+    "_score": 25.754812,
+    "author": [
+        {
+            "affiliation": {
+                "name": "AUA"
+            },
+            "name": "Reklitis Dimitrios"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-05-26",
+    "dateModified": "2023-05-26",
+    "datePublished": "2023-05-25T00:00:00",
+    "description": "Social Media Analytics",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7971998/files-archive",
+            "dateModified": "2023-05-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.7971997",
+    "identifier": "zenodo.7971997",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Social Media Analytics",
+    "sameAs": [
+        "https://zenodo.org/records/7971998"
+    ],
+    "url": "https://zenodo.org/record/7971997"
+}

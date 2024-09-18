@@ -1,0 +1,57 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4292510",
+    "_score": 23.48471,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Division of Monetary Affairs, Federal Reserve Board, Washington, USA"
+            },
+            "name": "Grishchenko Olesya V."
+        },
+        {
+            "affiliation": {
+                "name": "Universit\u00e9 de Rennes, CNRS, CREM, France"
+            },
+            "identifier": "0000-0001-8100-3630",
+            "name": "Moraux Franck"
+        },
+        {
+            "affiliation": {
+                "name": "Universit\u00e9 de Rennes, CNRS, CREM, France"
+            },
+            "name": "Pakulyak Olga"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-09-06",
+    "dateModified": "2022-09-06",
+    "datePublished": "2020-11-26T00:00:00",
+    "description": "French par-yield curves from October 22, 1987, through April 10, 2018.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4292511/files-archive",
+            "dateModified": "2022-09-06"
+        }
+    ],
+    "doi": "10.5281/zenodo.4292510",
+    "identifier": "zenodo.4292510",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Fuel up with OATmeals! Par-Yield Curves",
+    "sameAs": [
+        "https://zenodo.org/records/4292511"
+    ],
+    "url": "https://zenodo.org/record/4292510"
+}

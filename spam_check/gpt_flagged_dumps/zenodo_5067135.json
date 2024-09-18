@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5067135",
+    "_score": 25.751087,
+    "author": [
+        {
+            "name": "Andrea Messori"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-18",
+    "dateModified": "2024-07-18",
+    "datePublished": "2021-07-03T00:00:00",
+    "description": "SCHEDA HTA STENTFIX\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5067136/files-archive",
+            "dateModified": "2024-07-18"
+        }
+    ],
+    "doi": "10.5281/zenodo.5067135",
+    "identifier": "zenodo.5067135",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "SCHEDA HTA STENTFIX",
+    "sameAs": [
+        "https://zenodo.org/records/5067136"
+    ],
+    "url": "https://zenodo.org/record/5067135"
+}

@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5625615",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 16.251041,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Department of Computer Science and Technology, Tsinghua University"
+            },
+            "identifier": "0000-0002-9542-2710",
+            "name": "Xin Wang"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Earth System Science, Tsinghua University"
+            },
+            "identifier": "0000-0002-3866-1168",
+            "name": "Yilun Han"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-11-01",
+    "dateModified": "2021-11-01",
+    "datePublished": "2021-10-30T00:00:00",
+    "description": "This is\u00a0sampling data\u00a0of \"Stable climate simulations using a realistic GCM with neural network parameterizations for atmospheric moist physics and radiation processes\".\n\n\n'qv_nn_in' for the large scale specific humidity, [kg/kg]\n'T_nn_in' for the large scale temperature, [K]\n'dqvls_nn_in' for the large scale moisture advection, [kg/kg/s]\n'dTls_nn_in' for the large scale moisture advection, [K/s]\n'qtend_check' for the moistening rate by CRM, [kg/kg/s]\n'stend_check' for the heating rate by CRM, [K/s]\n'SOLS' for direct shorwave solar radiation down to surface, [W/m2]\n'SOLSD' for diffusive shortwave solar radiation down to surface, [W/m2]\n'SOLL' for direct near infrared solar radiation down to surface, [W/m2]\n'SOLLD' for diffusive near infrared solar radiation down to surface, [W/m2]\n'SOLIN' for insolation at model top, [W/m2]\n'FSNS' for net shortwave radiation at model surface, [W/m2]\n'FSNT' for net shortwave radiation at model top, [W/m2]\n'FLNS' for net longwave radiation at model surface, [W/m2]\n'FLNT' for net longwave radiation at model top, [W/m2]\n'SPPS' for surface pressure, [Pa]\n\n\nTo download the full dataset of the SPCAM simulation in 1998. Please click the dropbox link: https://www.dropbox.com/s/p841v1tw00rokdy/SPCAM_VAR_1998.tar.gz?dl=0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5625616/files-archive",
+            "dateModified": "2021-11-01"
+        }
+    ],
+    "doi": "10.5281/zenodo.5625615",
+    "identifier": "zenodo.5625615",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Data for \"Stable climate simulations using a realistic GCM with neural network parameterizations for atmospheric moist physics and radiation processes\"",
+    "sameAs": [
+        "https://zenodo.org/records/5625616"
+    ],
+    "url": "https://zenodo.org/record/5625615"
+}

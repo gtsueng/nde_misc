@@ -1,0 +1,62 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8250704",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 23.259604,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Baylor College of Medicine"
+            },
+            "name": "Ivy Strope"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-16",
+    "dateModified": "2024-02-16",
+    "datePublished": "2024-02-16T00:00:00",
+    "description": "This contains all the following files that can be specified while running \"Xenomake\"\u00a0(spatial PDX processing pipeline)\n\nHuman Assembly (fasta and gtf files)\nMouse Assembly (fasta and gtf files)\nXengsort Index Directory\nFastq files to run for sample dataset\nXenomake Github: https://github.com/Biivy/xenomake",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10655403/files-archive",
+            "dateModified": "2024-02-16"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/10120014/files-archive",
+            "dateModified": "2023-11-13"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/8250705/files-archive",
+            "dateModified": "2023-09-07"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/8326731/files-archive",
+            "dateModified": "2023-09-09"
+        }
+    ],
+    "doi": "10.5281/zenodo.8250704",
+    "identifier": "zenodo.8250704",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Xenomake",
+    "sameAs": [
+        "https://zenodo.org/records/10655403",
+        "https://zenodo.org/records/10120014",
+        "https://zenodo.org/records/8250705",
+        "https://zenodo.org/records/8326731"
+    ],
+    "url": "https://zenodo.org/record/8250704"
+}

@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6855757",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.227608,
+    "author": [
+        {
+            "affiliation": {
+                "name": "ELTE-DH"
+            },
+            "identifier": "0000-0002-4394-8577",
+            "name": "Palk\u00f3, G\u00e1bor"
+        },
+        {
+            "affiliation": {
+                "name": "ELTE-DH"
+            },
+            "identifier": "0000-0001-8090-3661",
+            "name": "Indig, Bal\u00e1zs"
+        },
+        {
+            "affiliation": {
+                "name": "ELTE-DH"
+            },
+            "identifier": "0000-0001-9199-1759",
+            "name": "Fellegi, Zs\u00f3fia"
+        },
+        {
+            "affiliation": {
+                "name": "ELTE-DH"
+            },
+            "identifier": "0000-0002-2558-0633",
+            "name": "S\u00e1rk\u00f6zi-Lindner, Zs\u00f3fia"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-09-20",
+    "dateModified": "2022-09-20",
+    "datePublished": "2022-07-18T00:00:00",
+    "description": "This object contains is the most comprehensive curated version available at the date of publication.  For further information on the content and for other fractions see: 24.hu - Roboraptor. Please fill in the following form before requesting access to this dataset: ACCESS FORM",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6855758/files-archive",
+            "dateModified": "2022-09-20"
+        }
+    ],
+    "doi": "10.5281/zenodo.6855757",
+    "identifier": "zenodo.6855757",
+    "inLanguage": {
+        "name": "hun"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Web crawling",
+        "Article",
+        "Web curation",
+        "Web archive",
+        "Data curation"
+    ],
+    "name": "24.hu - Roboraptor [TEI]",
+    "sameAs": [
+        "https://zenodo.org/records/6855758"
+    ],
+    "sdPublisher": [
+        {
+            "name": "elte-dh",
+            "url": "https://zenodo.org/communities/elte-dh"
+        }
+    ],
+    "url": "https://zenodo.org/record/6855757"
+}

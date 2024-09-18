@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7523348",
+    "_score": 24.057583,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Earth and Space Sciences, University of Washington, Alaska Earthquake Centre, University of Alaska Fairbanks"
+            },
+            "name": "Akash Kharita, Marine Denolle, Michael West"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-01-11",
+    "dateModified": "2023-01-11",
+    "datePublished": "2023-01-10T00:00:00",
+    "description": "Find the description on -\u00a0https://github.com/Akashkharita/Icequake_Earthquake_Discrimination/blob/main/README.md",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7523349/files-archive",
+            "dateModified": "2023-01-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.7523348",
+    "identifier": "zenodo.7523348",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Icequake and Earthquake waveforms",
+    "sameAs": [
+        "https://zenodo.org/records/7523349"
+    ],
+    "url": "https://zenodo.org/record/7523348"
+}

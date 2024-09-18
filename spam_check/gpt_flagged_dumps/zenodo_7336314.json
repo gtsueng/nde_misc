@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7336314",
+    "_score": 24.173138,
+    "author": [
+        {
+            "name": "Merino, Andr\u00e9s"
+        },
+        {
+            "name": "Cueva, Mario"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-11-19",
+    "dateModified": "2022-11-19",
+    "datePublished": "2022-11-19T00:00:00",
+    "description": "Base de datos con la oferta de venta de celulares de la marca Xiaomi (Mi, POCO, Redmi), caracter\u00edstica, precio y comparaci\u00f3n con el precio oficial.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7336315/files-archive",
+            "dateModified": "2022-11-19"
+        }
+    ],
+    "doi": "10.5281/zenodo.7336314",
+    "identifier": "zenodo.7336314",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "xiaomi",
+        "tel\u00e9fono"
+    ],
+    "license": "https://creativecommons.org/licenses/by/1.0/legalcode",
+    "name": "Oferta celulares Xiaomi (Ecuador)",
+    "sameAs": [
+        "https://zenodo.org/records/7336315"
+    ],
+    "url": "https://zenodo.org/record/7336314"
+}

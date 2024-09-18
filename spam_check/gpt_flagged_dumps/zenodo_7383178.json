@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7383178",
+    "_score": 25.889484,
+    "author": [
+        {
+            "name": "Bevers"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-01-11",
+    "dateModified": "2023-01-11",
+    "datePublished": "2022-11-30T00:00:00",
+    "description": "SMM Results",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7383179/files-archive",
+            "dateModified": "2023-01-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.7383178",
+    "identifier": "zenodo.7383178",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "SMM Thesis Results 2022",
+    "sameAs": [
+        "https://zenodo.org/records/7383179"
+    ],
+    "url": "https://zenodo.org/record/7383178"
+}

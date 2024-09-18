@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4050575",
+    "_score": 24.414122,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Savitribai Phule Pune University, India"
+            },
+            "identifier": "0000-0001-9296-5149",
+            "name": "Sweta Singh"
+        },
+        {
+            "affiliation": {
+                "name": "Universidad Distrital Francisco Jose de Caldas, Colombia"
+            },
+            "identifier": "0000-0002-5339-4459",
+            "name": "Hector Florez"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-09-26",
+    "dateModified": "2020-09-26",
+    "datePublished": "2020-09-25T00:00:00",
+    "description": "Molecular docking\u00a0to discover natural\u00a0molecules against COVID-19",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4050576/files-archive",
+            "dateModified": "2020-09-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.4050575",
+    "identifier": "zenodo.4050575",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Molecular Docking"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Molecular Docking ZINC DB",
+    "sameAs": [
+        "https://zenodo.org/records/4050576"
+    ],
+    "url": "https://zenodo.org/record/4050575"
+}

@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7703284",
+    "_score": 24.175203,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Department of Hematology and Oncology, Shenzhen Children's Hospital of China Medical University, Shenzhen, China"
+            },
+            "name": "Chuiqin Fan"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-03-28",
+    "dateModified": "2023-03-28",
+    "datePublished": "2023-03-07T00:00:00",
+    "description": "ShinyPack: Package Shiny applications into executable multi-platform desktop applications",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7778342/files-archive",
+            "dateModified": "2023-03-28"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7703345/files-archive",
+            "dateModified": "2023-03-28"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7703285/files-archive",
+            "dateModified": "2023-03-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.7703284",
+    "identifier": "zenodo.7703284",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "ShinyPack: Package Shiny applications into executable multi-platform desktop applications",
+    "sameAs": [
+        "https://zenodo.org/records/7778342",
+        "https://zenodo.org/records/7703345",
+        "https://zenodo.org/records/7703285"
+    ],
+    "url": "https://zenodo.org/record/7703284"
+}

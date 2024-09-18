@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6625110",
+    "_score": 25.887123,
+    "author": [
+        {
+            "name": "Pirro, S"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-06-10",
+    "dateModified": "2022-06-10",
+    "datePublished": "2022-06-08T00:00:00",
+    "description": ".",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6625111/files-archive",
+            "dateModified": "2022-06-10"
+        }
+    ],
+    "doi": "10.5281/zenodo.6625110",
+    "identifier": "zenodo.6625110",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Phenganax stokvisi decontaminated gx",
+    "sameAs": [
+        "https://zenodo.org/records/6625111"
+    ],
+    "url": "https://zenodo.org/record/6625110"
+}

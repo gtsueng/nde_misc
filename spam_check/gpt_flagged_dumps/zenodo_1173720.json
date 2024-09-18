@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1173720",
+    "_score": 25.821346,
+    "author": [
+        {
+            "identifier": "0000-0002-4394-8577",
+            "name": "Palk\u00f3 G\u00e1bor"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-11-14",
+    "dateModified": "2021-11-14",
+    "datePublished": "2018-02-16T00:00:00",
+    "description": "Digiphil FOXML backup",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1491501/files-archive",
+            "dateModified": "2021-11-14"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/1174075/files-archive",
+            "dateModified": "2021-11-13"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/1173721/files-archive",
+            "dateModified": "2021-11-13"
+        }
+    ],
+    "doi": "10.5281/zenodo.1173720",
+    "identifier": "zenodo.1173720",
+    "inLanguage": {
+        "name": "hun"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "DigiPhil backup",
+    "sameAs": [
+        "https://zenodo.org/records/1491501",
+        "https://zenodo.org/records/1174075",
+        "https://zenodo.org/records/1173721"
+    ],
+    "url": "https://zenodo.org/record/1173720"
+}

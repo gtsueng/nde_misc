@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4700231",
+    "_score": 25.68363,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Antioquia"
+            },
+            "name": "jefferson buendia"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-04-19",
+    "dateModified": "2021-04-19",
+    "datePublished": "2021-04-19T00:00:00",
+    "description": "BD Dupilumab\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4700232/files-archive",
+            "dateModified": "2021-04-19"
+        }
+    ],
+    "doi": "10.5281/zenodo.4700231",
+    "identifier": "zenodo.4700231",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "BD CU Dupilumab",
+    "sameAs": [
+        "https://zenodo.org/records/4700232"
+    ],
+    "url": "https://zenodo.org/record/4700231"
+}

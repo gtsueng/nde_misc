@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8287323",
+    "_score": 23.938978,
+    "author": [
+        {
+            "affiliation": {
+                "name": "wuhan unversity"
+            },
+            "name": "Yu Ding"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-08-28",
+    "dateModified": "2023-08-28",
+    "datePublished": "2023-08-27T00:00:00",
+    "description": "Chinese all-day hourly\u00a0PM2.5 dataset with a resolution of 0.1\u00d70.1\u00b0;if need PM2.5 dataset in 2020 with a resolution of\u00a00.01\u00d70.01\u00b0 (over 800 GB), please connect with Dr.Li (siwei.li@whu.edu.cn)",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8287324/files-archive",
+            "dateModified": "2023-08-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.8287323",
+    "identifier": "zenodo.8287323",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Chinese all-day hourly PM2.5 dataset in 2020",
+    "sameAs": [
+        "https://zenodo.org/records/8287324"
+    ],
+    "url": "https://zenodo.org/record/8287323"
+}

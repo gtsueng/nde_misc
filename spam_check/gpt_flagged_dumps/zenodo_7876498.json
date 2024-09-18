@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7876498",
+    "_score": 25.553862,
+    "author": [
+        {
+            "name": "ITAINNOVA"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-05-09",
+    "dateModified": "2023-05-09",
+    "datePublished": "2023-04-28T00:00:00",
+    "description": "\u00a0PI Cargo Network Cargo Flows",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7876499/files-archive",
+            "dateModified": "2023-05-09"
+        }
+    ],
+    "doi": "10.5281/zenodo.7876498",
+    "identifier": "zenodo.7876498",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "PI Cargo Network Cargo Flows",
+    "sameAs": [
+        "https://zenodo.org/records/7876499"
+    ],
+    "sdPublisher": [
+        {
+            "name": "h2020planetproject",
+            "url": "https://zenodo.org/communities/h2020planetproject"
+        }
+    ],
+    "url": "https://zenodo.org/record/7876498"
+}

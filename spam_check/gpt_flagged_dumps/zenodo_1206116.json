@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1206116",
+    "_score": 25.818918,
+    "author": [
+        {
+            "name": "ViVoLab"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-03-23T00:00:00",
+    "description": "VivoLab Sys 2",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1206117/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1206116",
+    "identifier": "zenodo.1206116",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "VivoLab Sys 2",
+    "sameAs": [
+        "https://zenodo.org/records/1206117"
+    ],
+    "sdPublisher": [
+        {
+            "name": "dihard2018",
+            "url": "https://zenodo.org/communities/dihard2018"
+        }
+    ],
+    "url": "https://zenodo.org/record/1206116"
+}

@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6347204",
+    "_score": 24.658068,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Archives nationales"
+            },
+            "name": "Martin-Chabot, Eug\u00e8ne"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-03-12",
+    "dateModified": "2022-03-12",
+    "datePublished": "2022-03-11T00:00:00",
+    "description": "Voir: https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/consultationIR.action?formCaller=GENERALISTE&irId=FRAN_IR_058159",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6347205/files-archive",
+            "dateModified": "2022-03-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.6347204",
+    "identifier": "zenodo.6347204",
+    "inLanguage": {
+        "name": "fra"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Inventaires",
+        "archives",
+        "\u00e9tablissements religieux"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Inventaires anciens d'archives eccl\u00e9siastiques (Paris, Saint-Germain-des-Pr\u00e9s, Saint-Denis)",
+    "sameAs": [
+        "https://zenodo.org/records/6347205"
+    ],
+    "sdPublisher": [
+        {
+            "name": "cosme2",
+            "url": "https://zenodo.org/communities/cosme2"
+        }
+    ],
+    "url": "https://zenodo.org/record/6347204"
+}

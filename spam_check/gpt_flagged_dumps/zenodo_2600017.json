@@ -1,0 +1,59 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2600017",
+    "_score": 25.351843,
+    "author": [
+        {
+            "affiliation": {
+                "name": "IBENS"
+            },
+            "name": "Dorrell, Richard"
+        },
+        {
+            "affiliation": {
+                "name": "IBENS"
+            },
+            "identifier": "0000-0001-9872-0337",
+            "name": "Rocha Jimenez Vieira, Fabio"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-03-21T00:00:00",
+    "description": "1kp clean libraries",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2600018/files-archive",
+            "dateModified": "2020-01-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3325631/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.2600017",
+    "identifier": "zenodo.2600017",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "1kp clean libraries",
+    "sameAs": [
+        "https://zenodo.org/records/2600018",
+        "https://zenodo.org/records/3325631"
+    ],
+    "url": "https://zenodo.org/record/2600017"
+}

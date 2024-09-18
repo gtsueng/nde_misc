@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7851170",
+    "_score": 25.226171,
+    "author": [
+        {
+            "name": "Hung, Andrew J."
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-07-07",
+    "dateModified": "2023-07-07",
+    "datePublished": "2023-06-05T00:00:00",
+    "description": "please contact us if you need this dataset for research purpose",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7851171/files-archive",
+            "dateModified": "2023-07-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.7851170",
+    "identifier": "zenodo.7851170",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "RAPN (pt5)",
+    "sameAs": [
+        "https://zenodo.org/records/7851171"
+    ],
+    "sdPublisher": [
+        {
+            "name": "uscurologycrse",
+            "url": "https://zenodo.org/communities/uscurologycrse"
+        }
+    ],
+    "url": "https://zenodo.org/record/7851170"
+}

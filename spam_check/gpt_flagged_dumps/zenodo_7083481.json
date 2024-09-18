@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7083481",
+    "_score": 25.48347,
+    "author": [
+        {
+            "identifier": "0000-0003-0337-6217",
+            "name": "Em\u00edlia Sampaio Rocha"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-09-16",
+    "dateModified": "2022-09-16",
+    "datePublished": "2022-09-15T00:00:00",
+    "description": "https://docs.google.com/spreadsheets/d/1rQ60zzWutScoisgKjy_6ZnmHs9xHy2gG3oc76VDeqCk/edit?pli=1#gid=0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7083482/files-archive",
+            "dateModified": "2022-09-16"
+        }
+    ],
+    "doi": "10.5281/zenodo.7083481",
+    "identifier": "zenodo.7083481",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Multic\u00eantrico Respirar",
+    "sameAs": [
+        "https://zenodo.org/records/7083482"
+    ],
+    "url": "https://zenodo.org/record/7083481"
+}

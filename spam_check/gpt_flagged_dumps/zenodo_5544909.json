@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5544909",
+    "_score": 24.408413,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Biocomplexity Institute and Initiative, University of Virginia"
+            },
+            "name": "Przemyslaw Porebski"
+        },
+        {
+            "affiliation": {
+                "name": "Biocomplexity Institute and Initiative, University of Virginia"
+            },
+            "name": "Srini Venkatramanan"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-10-02",
+    "dateModified": "2021-10-02",
+    "datePublished": "2021-10-01T00:00:00",
+    "description": "Age-stratified synthetic mobility networks for XAD",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5544910/files-archive",
+            "dateModified": "2021-10-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.5544909",
+    "identifier": "zenodo.5544909",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": null,
+    "name": "PatchFlow v1.0 age-stratified networks XAD",
+    "sameAs": [
+        "https://zenodo.org/records/5544910"
+    ],
+    "sdPublisher": [
+        {
+            "name": "patchflow_v1",
+            "url": "https://zenodo.org/communities/patchflow_v1"
+        }
+    ],
+    "url": "https://zenodo.org/record/5544909"
+}

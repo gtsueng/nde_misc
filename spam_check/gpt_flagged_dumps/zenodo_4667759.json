@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4667759",
+    "_score": 26.094038,
+    "author": [
+        {
+            "name": "Kononchuk Rodion"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-04-07",
+    "dateModified": "2021-04-07",
+    "datePublished": "2021-04-06T00:00:00",
+    "description": "trial",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4667760/files-archive",
+            "dateModified": "2021-04-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.4667759",
+    "identifier": "zenodo.4667759",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "trial",
+    "sameAs": [
+        "https://zenodo.org/records/4667760"
+    ],
+    "url": "https://zenodo.org/record/4667759"
+}

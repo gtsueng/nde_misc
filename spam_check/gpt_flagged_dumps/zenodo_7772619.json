@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7772619",
+    "_score": 26.097216,
+    "author": [
+        {
+            "name": "Kandarp Joshi"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-03-27",
+    "dateModified": "2023-03-27",
+    "datePublished": "2023-03-26T00:00:00",
+    "description": "bigbeds",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7772620/files-archive",
+            "dateModified": "2023-03-27"
+        }
+    ],
+    "doi": "10.5281/zenodo.7772619",
+    "identifier": "zenodo.7772619",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "bigbeds",
+    "sameAs": [
+        "https://zenodo.org/records/7772620"
+    ],
+    "url": "https://zenodo.org/record/7772619"
+}

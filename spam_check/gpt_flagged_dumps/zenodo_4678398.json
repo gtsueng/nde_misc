@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4678398",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.099463,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Beijing University of Posts and Telecommunications"
+            },
+            "name": "Yuhao Gao"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-04-11",
+    "dateModified": "2021-04-11",
+    "datePublished": "2021-04-10T00:00:00",
+    "description": "Gambling Apps Dataset, including 100 Android gambling apps. For the reason of the dataset's size, if you need the entire dataset, please contact us.\u00a0\n\n\nHomepage:\u00a0https://mobile-app-research.github.io/\n\n\nFor academic purposes only.\u00a0\n\n\nIf you want to use this dataset, please contact us for the privilege and\u00a0refer to our publication in your publications:\u00a0\n\n\nYuhao Gao, Haoyu Wang, Li Li, Xiapu Luo, Guoai Xu, and Xuanzhe Liu.2021. Demystifying Illegal Mobile Gambling Apps. In\u00a0Proceedings of the Web Conference 2021 (WWW '21), April 19\u201323, 2021, Ljubljana, Slovenia.ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3442381.3449932",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4678399/files-archive",
+            "dateModified": "2021-04-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.4678398",
+    "identifier": "zenodo.4678398",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Gambling Apps",
+    "sameAs": [
+        "https://zenodo.org/records/4678399"
+    ],
+    "url": "https://zenodo.org/record/4678398"
+}

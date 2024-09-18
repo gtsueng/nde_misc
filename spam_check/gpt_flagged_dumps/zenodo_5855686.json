@@ -1,0 +1,43 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5855686",
+    "_score": 23.941158,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Anonymous"
+            },
+            "name": "Anonymous"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-03-25",
+    "dateModified": "2023-03-25",
+    "datePublished": "2022-01-16T00:00:00",
+    "description": "Financial tables annotated for Cell type and Column level hierarchies. These tables are to be used in tandem with IBM FinTabNet available at\u00a0https://developer.ibm.com/exchanges/data/all/fintabnet/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5855687/files-archive",
+            "dateModified": "2023-03-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.5855686",
+    "identifier": "zenodo.5855686",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Layout-Aware Neural Model for Resolving Hierarchical Table Structure",
+    "sameAs": [
+        "https://zenodo.org/records/5855687"
+    ],
+    "url": "https://zenodo.org/record/5855686"
+}

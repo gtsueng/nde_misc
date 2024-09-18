@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7146758",
+    "_score": 24.294044,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of W\u00fcrzburg"
+            },
+            "name": "Vogel, Patrick"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-10-05",
+    "dateModified": "2022-10-05",
+    "datePublished": "2022-10-05T00:00:00",
+    "description": "Supporting files for manuscript:\n\n\n\"iMPI \u2013 portable human-sized Magnetic Particle Imaging Scanner for real-time endovascular Interventions\"",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7146759/files-archive",
+            "dateModified": "2022-10-05"
+        }
+    ],
+    "doi": "10.5281/zenodo.7146758",
+    "identifier": "zenodo.7146758",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "iMPI \u2013 portable human-sized Magnetic Particle Imaging Scanner for real-time endovascular Interventions",
+    "sameAs": [
+        "https://zenodo.org/records/7146759"
+    ],
+    "url": "https://zenodo.org/record/7146758"
+}

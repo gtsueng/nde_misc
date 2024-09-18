@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4067995",
+    "_score": 26.027971,
+    "author": [
+        {
+            "name": "Michael Oeverhaus"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-10-08",
+    "dateModified": "2020-10-08",
+    "datePublished": "2020-10-06T00:00:00",
+    "description": "Data set",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4067996/files-archive",
+            "dateModified": "2020-10-08"
+        }
+    ],
+    "doi": "10.5281/zenodo.4067995",
+    "identifier": "zenodo.4067995",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "MaxView",
+    "sameAs": [
+        "https://zenodo.org/records/4067996"
+    ],
+    "url": "https://zenodo.org/record/4067995"
+}

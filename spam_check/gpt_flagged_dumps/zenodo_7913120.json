@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7913120",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 20.104599,
+    "author": [
+        {
+            "affiliation": {
+                "name": "IBM Ireland"
+            },
+            "name": "Moises Sanchez"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-12",
+    "dateModified": "2024-07-12",
+    "datePublished": "2023-05-09T00:00:00",
+    "description": "The services described in this white paper address warehouse collaboration analytics, for which AI-based volume forecasting models were developed and evaluated to determine future amounts of containers arriving at a warehouse and being transported across corridors. Such models aim to help warehouse and transport operators to predict changes in the movement of freight volume and its arrival to discharge ports, warehouses, or distribution centres. This is with the objective of enabling forward planning and timely readiness by reducing the risk of wasting resources, for the required management of the arriving volume.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7913121/files-archive",
+            "dateModified": "2024-07-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.7913120",
+    "identifier": "zenodo.7913120",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "AI Based Freight Volume Forecasting | White Paper",
+    "sameAs": [
+        "https://zenodo.org/records/7913121"
+    ],
+    "sdPublisher": [
+        {
+            "name": "h2020planetproject",
+            "url": "https://zenodo.org/communities/h2020planetproject"
+        }
+    ],
+    "url": "https://zenodo.org/record/7913120"
+}

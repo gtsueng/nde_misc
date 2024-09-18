@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3737566",
+    "_score": 23.266811,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Universit\u00e4t Leipzig"
+            },
+            "identifier": "0000-0003-2451-0665",
+            "name": "Potthast, Martin"
+        },
+        {
+            "affiliation": {
+                "name": "Martin-Luther-Universit\u00e4t Halle-Wittenberg"
+            },
+            "identifier": "0000-0002-9733-2890",
+            "name": "Hagen, Matthias"
+        },
+        {
+            "affiliation": {
+                "name": "Bauhaus-Universit\u00e4t Weimar"
+            },
+            "identifier": "0000-0001-9033-2217",
+            "name": "Stein, Benno"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-04-02",
+    "dateModified": "2020-04-02",
+    "datePublished": "2016-09-05T00:00:00",
+    "description": "We provide you with a training corpus that consists of documents that are to be obfuscated, and other documents from the same author.\n\n\nMore information:\u00a0Link\n\n\nBrowser:\u00a0https://data.webis.de/masking",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3737567/files-archive",
+            "dateModified": "2020-04-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.3737566",
+    "identifier": "zenodo.3737566",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "author masking",
+        "obfuscation",
+        "pan",
+        "2016"
+    ],
+    "name": "PAN16 Author Obfuscation: Author-Masking",
+    "sameAs": [
+        "https://zenodo.org/records/3737567"
+    ],
+    "sdPublisher": [
+        {
+            "name": "pan",
+            "url": "https://zenodo.org/communities/pan"
+        }
+    ],
+    "url": "https://zenodo.org/record/3737566"
+}

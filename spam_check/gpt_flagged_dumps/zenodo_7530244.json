@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7530244",
+    "_score": 24.414122,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Icahn School of Medicine at Mount Sinai"
+            },
+            "identifier": "0000-0002-6864-6911",
+            "name": "Sadjad Fakouri Baygi"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-01-13",
+    "dateModified": "2023-01-13",
+    "datePublished": "2023-01-12T00:00:00",
+    "description": "IDSL.CSA unique CSA variants for the ST001000 - full deconvolution",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7530245/files-archive",
+            "dateModified": "2023-01-13"
+        }
+    ],
+    "doi": "10.5281/zenodo.7530244",
+    "identifier": "zenodo.7530244",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "IDSL.CSA unique CSA variants for the ST001000 - full deconvolution",
+    "sameAs": [
+        "https://zenodo.org/records/7530245"
+    ],
+    "url": "https://zenodo.org/record/7530244"
+}

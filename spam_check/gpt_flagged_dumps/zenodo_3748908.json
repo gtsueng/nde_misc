@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3748908",
+    "_score": 25.097557,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Inria Saclay"
+            },
+            "name": "H\u00f6chenberger, Richard"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-04-15",
+    "dateModified": "2020-04-15",
+    "datePublished": "2020-04-14T00:00:00",
+    "description": "Data files for our interactive dipole similator.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3752121/files-archive",
+            "dateModified": "2020-04-15"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3748909/files-archive",
+            "dateModified": "2020-04-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.3748908",
+    "identifier": "zenodo.3748908",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": null,
+    "name": "Forward Matrices and BEM Solution for Dipole Simulator",
+    "sameAs": [
+        "https://zenodo.org/records/3752121",
+        "https://zenodo.org/records/3748909"
+    ],
+    "url": "https://zenodo.org/record/3748908"
+}

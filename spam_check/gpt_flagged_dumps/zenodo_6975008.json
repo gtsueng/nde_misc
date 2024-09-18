@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6975008",
+    "_score": 24.88864,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Zenodo"
+            },
+            "name": "Goddy, Julian"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-08-26",
+    "dateModified": "2022-08-26",
+    "datePublished": "2022-08-10T00:00:00",
+    "description": "Test DataFed Upload New Version",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6975009/files-archive",
+            "dateModified": "2022-08-26"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7004855/files-archive",
+            "dateModified": "2022-08-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.6975008",
+    "identifier": "zenodo.6975008",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Test DataFed Upload-5.1",
+    "sameAs": [
+        "https://zenodo.org/records/6975009",
+        "https://zenodo.org/records/7004855"
+    ],
+    "url": "https://zenodo.org/record/6975008"
+}

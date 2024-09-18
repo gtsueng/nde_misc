@@ -1,0 +1,76 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8094928",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.0314,
+    "author": [
+        {
+            "affiliation": {
+                "name": "ChemSec"
+            },
+            "name": "Lennquist, Anna"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-06-30",
+    "dateModified": "2023-06-30",
+    "datePublished": "2023-06-29T00:00:00",
+    "description": "ChemSec's PFAS Guide:\u00a0PFAS chemicals are used in many product categories, even where you least expect it. The PFAS Guide can alert you to products likely to contain these chemicals and give your company advice on how to phase them out.\n\n\nMore information and a user interface for this dataset is available at\u00a0https://pfas.chemsec.org/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8094929/files-archive",
+            "dateModified": "2023-06-30"
+        }
+    ],
+    "doi": "10.5281/zenodo.8094928",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "101036756",
+            "name": "ZeroPM: Zero pollution of Persistent, Mobile substances"
+        }
+    ],
+    "identifier": "zenodo.8094928",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "PFAS",
+        "Product",
+        "Alternatives"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "ChemSec's PFAS Guide dataset",
+    "sameAs": [
+        "https://zenodo.org/records/8094929"
+    ],
+    "sdPublisher": [
+        {
+            "name": "zeropm-h2020",
+            "url": "https://zenodo.org/communities/zeropm-h2020"
+        },
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/8094928"
+}

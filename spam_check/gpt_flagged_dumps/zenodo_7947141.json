@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7947141",
+    "_score": 25.822535,
+    "author": [
+        {
+            "name": "BENKHADDA Mohamed Yassine"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-05-15",
+    "dateModified": "2024-05-15",
+    "datePublished": "2023-05-18T00:00:00",
+    "description": "DirLkit",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7947142/files-archive",
+            "dateModified": "2024-05-15"
+        }
+    ],
+    "doi": "10.5281/zenodo.7947141",
+    "identifier": "zenodo.7947141",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Darija Dialect Moroccan DirLkit",
+    "sameAs": [
+        "https://zenodo.org/records/7947142"
+    ],
+    "url": "https://zenodo.org/record/7947141"
+}

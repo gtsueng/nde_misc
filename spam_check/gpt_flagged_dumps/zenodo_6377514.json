@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6377514",
+    "_score": 25.68746,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Princess Margaret Cancer Centre"
+            },
+            "name": "Haibe-Kains, Benjamin"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-03-24",
+    "dateModified": "2022-03-24",
+    "datePublished": "2022-03-22T00:00:00",
+    "description": "Default description",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6377515/files-archive",
+            "dateModified": "2022-03-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.6377514",
+    "identifier": "zenodo.6377514",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "New Upload",
+    "sameAs": [
+        "https://zenodo.org/records/6377515"
+    ],
+    "url": "https://zenodo.org/record/6377514"
+}

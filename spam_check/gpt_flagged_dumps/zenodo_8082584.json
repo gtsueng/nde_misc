@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8082584",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 18.605999,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Science and Technology of China"
+            },
+            "identifier": "0000-0001-7247-561X",
+            "name": "Xiao Xiao"
+        },
+        {
+            "affiliation": {
+                "name": "University of Science and Technology of China"
+            },
+            "name": "Cheng, Shihua"
+        },
+        {
+            "affiliation": {
+                "name": "Institute of Geophysics, China Earthquake Administration"
+            },
+            "name": "Wu, Jianping"
+        },
+        {
+            "affiliation": {
+                "name": "Institute of Geophysics, China Earthquake Administration"
+            },
+            "name": "Wang, Weilai"
+        },
+        {
+            "affiliation": {
+                "name": "China Earthquake Networks Center, China Earthquake Administration"
+            },
+            "name": "Sun, Li"
+        },
+        {
+            "affiliation": {
+                "name": "China Earthquake Networks Center, China Earthquake Administration"
+            },
+            "name": "Wang, Xiaoxin"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Geosciences, State University of New York at Stony Brook"
+            },
+            "name": "Wen, Lianxing"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-11",
+    "dateModified": "2024-07-11",
+    "datePublished": "2023-06-26T00:00:00",
+    "description": "This database contains the short-period Rayleigh wave ellipticity (4 - 8 s in period) measured from continuous\u00a0waveforms of seismic ambient noise recorded by 3848\u00a0 seismic stations deployed in\u00a0the continental China during 1990 and 2017.\u00a0Please click\u00a0on the link\u00a0to download the constructed high-resolution 3-D seismic model of the shallow crust in continental China.\n\n\n\u672c\u6570\u636e\u5e93\u5305\u542b\u4e86\u5229\u7528\u4ece1990\u81f32017\u5e74\u95f4\u90e8\u7f72\u5728\u4e2d\u56fd\u5927\u9646\u7684\u5730\u9707\u53f0\u7ad9\u8bb0\u5f55\u7684\u8fde\u7eed\u80cc\u666f\u566a\u58f0\u6570\u636e\u6d4b\u91cf\u5f97\u5230\u7684\u77ed\u5468\u671f\u745e\u5229\u6ce2\u504f\u632f( \u5468\u671f 4 - 8 s )\u3002\u8bf7\u70b9\u51fb\u94fe\u63a5\u4e0b\u8f7d\u5229\u7528\u672c\u6570\u636e\u5e93\u6784\u5efa\u7684\u4e2d\u56fd\u533a\u57df\u9ad8\u7cbe\u5ea6\u6d45\u5c42\u5730\u58f3\u6a21\u578b\u3002\n\n\nIf you face any problem or issue in the usage of this\u00a0dataset, Please feel free to communicate with the corresponding author Xiao Xiao: xiaox.seis@gmail.com.\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8082585/files-archive",
+            "dateModified": "2024-07-11"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/8101105/files-archive",
+            "dateModified": "2024-07-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.8082584",
+    "identifier": "zenodo.8082584",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "CSRM Level 2 dataset: short-period Rayleigh wave ellipticity in continental China",
+    "sameAs": [
+        "https://zenodo.org/records/8082585",
+        "https://zenodo.org/records/8101105"
+    ],
+    "url": "https://zenodo.org/record/8082584"
+}

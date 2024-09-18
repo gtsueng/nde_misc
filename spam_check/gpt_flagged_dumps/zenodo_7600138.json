@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7600138",
+    "_score": 22.028395,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Computational Mass Spectrometry, Technical University of Munich"
+            },
+            "identifier": "0000-0001-6440-9794",
+            "name": "Gabriel, Wassim"
+        },
+        {
+            "affiliation": {
+                "name": "Computational Mass Spectrometry, Technical University of Munich"
+            },
+            "identifier": "0000-0003-0428-1703",
+            "name": "Picciani, Mario"
+        },
+        {
+            "affiliation": {
+                "name": "Chair of Proteomics and Bioanalytics, Technical University of Munich"
+            },
+            "identifier": "0000-0002-5401-5553",
+            "name": "The, Matthew"
+        },
+        {
+            "affiliation": {
+                "name": "Computational Mass Spectrometry, Technical University of Munich"
+            },
+            "identifier": "0000-0002-9224-3258",
+            "name": "Wilhelm, Mathias"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-02-08",
+    "dateModified": "2023-02-08",
+    "datePublished": "2023-02-06T00:00:00",
+    "description": "Example input data for Oktoberfest\u00a0https://github.com/wilhelm-lab/oktoberfest\u00a0\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7613029/files-archive",
+            "dateModified": "2023-02-08"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7600139/files-archive",
+            "dateModified": "2023-02-08"
+        }
+    ],
+    "doi": "10.5281/zenodo.7600138",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "823839",
+            "name": "European Proteomics Infrastructure Consortium providing Access"
+        }
+    ],
+    "identifier": "zenodo.7600138",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Mass Spectrometry",
+        "Peptide Identification",
+        "Deep Learning",
+        "Rescoring",
+        "Immonupeptidomics",
+        "Prosit"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Input data for oktoberfest",
+    "sameAs": [
+        "https://zenodo.org/records/7613029",
+        "https://zenodo.org/records/7600139"
+    ],
+    "sdPublisher": [
+        {
+            "name": "proteomics",
+            "url": "https://zenodo.org/communities/proteomics"
+        },
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/7600138"
+}

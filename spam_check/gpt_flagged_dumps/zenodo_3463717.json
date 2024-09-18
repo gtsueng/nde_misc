@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3463717",
+    "_score": 25.68363,
+    "author": [
+        {
+            "name": "Zhang, Wei"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-09-28T00:00:00",
+    "description": "Large files in ai-matrix.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3463718/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3463717",
+    "identifier": "zenodo.3463717",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "ai-matrix SSD_VGG16_Caffe",
+    "sameAs": [
+        "https://zenodo.org/records/3463718"
+    ],
+    "url": "https://zenodo.org/record/3463717"
+}

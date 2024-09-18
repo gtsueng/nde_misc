@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1321153",
+    "_score": 26.171822,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Zenodo"
+            },
+            "name": "asda"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2018-07-25T00:00:00",
+    "description": "asdasdasdasdasdasdasdsa",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1321154/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.1321153",
+    "identifier": "zenodo.1321153",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Max2",
+    "sameAs": [
+        "https://zenodo.org/records/1321154"
+    ],
+    "url": "https://zenodo.org/record/1321153"
+}

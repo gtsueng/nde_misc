@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7514466",
+    "_score": 25.421717,
+    "author": [
+        {
+            "name": "Judy Birmingham"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-01-10",
+    "dateModified": "2023-01-10",
+    "datePublished": "2023-01-09T00:00:00",
+    "description": "Notebook that goes over the trenches of blah blah blah",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7514467/files-archive",
+            "dateModified": "2023-01-10"
+        }
+    ],
+    "doi": "10.5281/zenodo.7514466",
+    "identifier": "zenodo.7514466",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "D14 Notebook",
+    "sameAs": [
+        "https://zenodo.org/records/7514467"
+    ],
+    "url": "https://zenodo.org/record/7514466"
+}

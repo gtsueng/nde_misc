@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6052712",
+    "_score": 25.351843,
+    "author": [
+        {
+            "identifier": "0000-0003-2118-5211",
+            "name": "Rosario Pizarro"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-02-13",
+    "dateModified": "2022-02-13",
+    "datePublished": "2022-02-12T00:00:00",
+    "description": "Revistas de concurso Biblioteca UCLM 2021",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6052713/files-archive",
+            "dateModified": "2022-02-13"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6052774/files-archive",
+            "dateModified": "2022-02-13"
+        }
+    ],
+    "doi": "10.5281/zenodo.6052712",
+    "identifier": "zenodo.6052712",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Revistas de concurso Biblioteca UCLM 2021",
+    "sameAs": [
+        "https://zenodo.org/records/6052713",
+        "https://zenodo.org/records/6052774"
+    ],
+    "url": "https://zenodo.org/record/6052712"
+}

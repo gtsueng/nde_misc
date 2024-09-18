@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7330401",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.838821,
+    "author": [
+        {
+            "affiliation": {
+                "name": "IIIT-H"
+            },
+            "name": "Nikhil Bansal"
+        },
+        {
+            "affiliation": {
+                "name": "IIIT-H"
+            },
+            "name": "Kartik Gupta"
+        },
+        {
+            "affiliation": {
+                "name": "IIIT-H"
+            },
+            "name": "Kiruthika Kannan"
+        },
+        {
+            "affiliation": {
+                "name": "IIIT-H"
+            },
+            "name": "Sivani Pentapati"
+        },
+        {
+            "affiliation": {
+                "name": "IIIT-H"
+            },
+            "name": "Ravi Kiran Sarvadevabhatla"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-11-17",
+    "dateModified": "2022-11-17",
+    "datePublished": "2022-11-17T00:00:00",
+    "description": "Dataset for training CanvasNet, a\u00a0model for detecting atypical sketch instances.\u00a0CanvasNet processes the rendered image as input and outputs a list of atypical activities (if any) along with associated meta-information (atypical content category, 2-D spatial location).\n\n\nFor more details, visit our page\u00a0https://drawm0n.github.io/.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7330402/files-archive",
+            "dateModified": "2022-11-17"
+        }
+    ],
+    "doi": "10.5281/zenodo.7330401",
+    "identifier": "zenodo.7330401",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "computer-vision deep-learning dataset sketch-recognition pictionary text-detection-recognition tensorflow2 separable-convolution acmmm2022"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "DrawMon: A Distributed System for Detection of Atypical Sketch Content in Concurrent Pictionary Games",
+    "sameAs": [
+        "https://zenodo.org/records/7330402"
+    ],
+    "url": "https://zenodo.org/record/7330401"
+}

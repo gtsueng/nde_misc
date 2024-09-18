@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3722877",
+    "_score": 25.821346,
+    "author": [
+        {
+            "name": "MD. Shihab Shahriar Khan"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-03-21",
+    "dateModified": "2020-03-21",
+    "datePublished": "2020-03-21T00:00:00",
+    "description": "MRI Scans",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3722878/files-archive",
+            "dateModified": "2020-03-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.3722877",
+    "identifier": "zenodo.3722877",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "MRI Scans",
+    "sameAs": [
+        "https://zenodo.org/records/3722878"
+    ],
+    "url": "https://zenodo.org/record/3722877"
+}

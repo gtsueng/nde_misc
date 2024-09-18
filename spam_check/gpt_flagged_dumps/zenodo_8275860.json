@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8275860",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.22468,
+    "author": [
+        {
+            "name": "LogPAI"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-03-03",
+    "dateModified": "2024-03-03",
+    "datePublished": "2023-08-23T00:00:00",
+    "description": "See dataset details:\u00a0https://github.com/logpai/Loghub-2.0\n\nThe datasets are freely available for research or academic work, subject to\u00a0the following condition: For any usage or distribution of the LogPub datasets, please refer to the LogPub repository URL (https://github.com/logpai/Loghub-2.0) and cite the LogPub paper (A Large-scale Evaluation for Log Parsing Techniques: How Far are We?) where applicable.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8275861/files-archive",
+            "dateModified": "2024-03-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.8275860",
+    "identifier": "zenodo.8275860",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Log Parsing",
+        "Log Analysis"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Loghub-2.0: a collection of large-scale datasets for log parsing",
+    "sameAs": [
+        "https://zenodo.org/records/8275861"
+    ],
+    "url": "https://zenodo.org/record/8275860"
+}

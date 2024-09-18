@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6686931",
+    "_score": 22.62336,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Ruhr-Universit\u00e4t Bochum"
+            },
+            "name": "Schloegel, Moritz"
+        },
+        {
+            "affiliation": {
+                "name": "Ruhr-Universit\u00e4t Bochum"
+            },
+            "name": "Blayztko, Tim"
+        },
+        {
+            "affiliation": {
+                "name": "Ruhr-Universit\u00e4t Bochum"
+            },
+            "name": "Contag, Moritz"
+        },
+        {
+            "affiliation": {
+                "name": "Ruhr-Universit\u00e4t Bochum"
+            },
+            "name": "Aschermann, Cornelius"
+        },
+        {
+            "affiliation": {
+                "name": "Ruhr-Universit\u00e4t Bochum"
+            },
+            "name": "Basler, Julius"
+        },
+        {
+            "affiliation": {
+                "name": "CISPA Helmholtz Center for Information Security"
+            },
+            "name": "Holz, Thorsten"
+        },
+        {
+            "affiliation": {
+                "name": "Ruhr-Universit\u00e4t Bochum"
+            },
+            "name": "Abbasi, Ali"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-08-26",
+    "dateModified": "2022-08-26",
+    "datePublished": "2022-06-22T00:00:00",
+    "description": "Artifact containing binaries and result data produced during our evaluation. Check out the code on Github:\u00a0https://github.com/RUB-SysSec/loki",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6686932/files-archive",
+            "dateModified": "2022-08-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.6686931",
+    "identifier": "zenodo.6686931",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "obfuscation",
+        "deobfuscation",
+        "software protection"
+    ],
+    "license": "https://www.gnu.org/licenses/agpl.txt",
+    "name": "Loki: Hardening Code Obfuscation Against Automated Attacks",
+    "sameAs": [
+        "https://zenodo.org/records/6686932"
+    ],
+    "url": "https://zenodo.org/record/6686931"
+}

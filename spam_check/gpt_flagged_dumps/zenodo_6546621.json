@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6546621",
+    "_score": 25.818918,
+    "author": [
+        {
+            "name": "Fergadiotis Manos"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-05-22",
+    "dateModified": "2022-05-22",
+    "datePublished": "2022-05-13T00:00:00",
+    "description": "TUTA EDGAR Spreadsheets",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6546622/files-archive",
+            "dateModified": "2022-05-22"
+        }
+    ],
+    "doi": "10.5281/zenodo.6546621",
+    "identifier": "zenodo.6546621",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "TUTA EDGAR Spreadsheets",
+    "sameAs": [
+        "https://zenodo.org/records/6546622"
+    ],
+    "url": "https://zenodo.org/record/6546621"
+}

@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3700566",
+    "_score": 24.169168,
+    "author": [
+        {
+            "name": "'Al\u00ee Mu\u1e25ammadkh\u00e2n"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-03-08",
+    "dateModified": "2020-03-08",
+    "datePublished": "2020-03-07T00:00:00",
+    "description": "IO Islamic 222. Mir\u00e2t-i- A\u1e25mad\u00ee, A Very Extensive and Rare History of Gujar\u00e2t",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3700567/files-archive",
+            "dateModified": "2020-03-08"
+        }
+    ],
+    "doi": "10.5281/zenodo.3700566",
+    "identifier": "zenodo.3700566",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "IO Islamic 222",
+        "222",
+        "India Office"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "IO Islamic 222. Mir\u00e2t-i- A\u1e25mad\u00ee, A Very Extensive and Rare History of Gujar\u00e2t",
+    "sameAs": [
+        "https://zenodo.org/records/3700567"
+    ],
+    "url": "https://zenodo.org/record/3700566"
+}

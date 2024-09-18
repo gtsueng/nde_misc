@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6391612",
+    "_score": 25.033766,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Michigan"
+            },
+            "identifier": "0000-0002-8225-6514",
+            "name": "Mahjour, Babak"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-03-30",
+    "dateModified": "2022-03-30",
+    "datePublished": "2022-03-28T00:00:00",
+    "description": "Download and unzip to use MusicVAE functionalities with SAMPLES.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6391613/files-archive",
+            "dateModified": "2022-03-30"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6395321/files-archive",
+            "dateModified": "2022-03-31"
+        }
+    ],
+    "doi": "10.5281/zenodo.6391612",
+    "identifier": "zenodo.6391612",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Tensorflow MusicVAE Model for SAMPLES",
+    "sameAs": [
+        "https://zenodo.org/records/6391613",
+        "https://zenodo.org/records/6395321"
+    ],
+    "url": "https://zenodo.org/record/6391612"
+}

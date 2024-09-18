@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_847571",
+    "_score": 24.169168,
+    "author": [
+        {
+            "name": "VE2WU - Marten"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2017-08-23T00:00:00",
+    "description": "Flex-Radio SDR-6700 20 Meters IQ Data\n\n\n1478 Covey Hill Road, FRANKLIN, QC CANADA Square FN35AA\n\n\nAntenna 6 over 6 over 6 stacked Yagi Array beaming Europe",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/847572/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.847571",
+    "identifier": "zenodo.847571",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "VE2WU"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "ve2wu 20 Meters IQ data",
+    "sameAs": [
+        "https://zenodo.org/records/847572"
+    ],
+    "url": "https://zenodo.org/record/847571"
+}

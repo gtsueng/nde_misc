@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6438649",
+    "_score": 24.292034,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UOC"
+            },
+            "name": "David Closa, Catalin Dediu"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-04-11",
+    "dateModified": "2022-04-11",
+    "datePublished": "2022-04-10T00:00:00",
+    "description": "Joc de dades resultant de la primera pr\u00e0ctica.\n\n\nM\u00e9s informaci\u00f3 a\u00a0https://github.com/dclosao/tipologia_PRA1",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6438650/files-archive",
+            "dateModified": "2022-04-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.6438649",
+    "identifier": "zenodo.6438649",
+    "inLanguage": {
+        "name": "cat"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Output Pr\u00e0ctica 1 de tipologia i cicle de vida de les dades",
+    "sameAs": [
+        "https://zenodo.org/records/6438650"
+    ],
+    "url": "https://zenodo.org/record/6438649"
+}

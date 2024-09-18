@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4682152",
+    "_score": 24.656242,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UOC"
+            },
+            "name": "Mar\u00eda S\u00e1nchez"
+        },
+        {
+            "affiliation": {
+                "name": "UOC"
+            },
+            "name": "Cayetano Bautista"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-04-13",
+    "dateModified": "2021-04-13",
+    "datePublished": "2021-04-12T00:00:00",
+    "description": "Ofertas de trabajos relacionadas con los datos publicadas en el portal web https://www.domestika.org.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4682153/files-archive",
+            "dateModified": "2021-04-13"
+        }
+    ],
+    "doi": "10.5281/zenodo.4682152",
+    "identifier": "zenodo.4682152",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "data",
+        "offers",
+        "jobs"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Data Jobs Offers",
+    "sameAs": [
+        "https://zenodo.org/records/4682153"
+    ],
+    "url": "https://zenodo.org/record/4682152"
+}

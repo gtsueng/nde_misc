@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5876245",
+    "_score": 26.097216,
+    "author": [
+        {
+            "name": "smartfan project"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-01-20",
+    "dateModified": "2022-01-20",
+    "datePublished": "2022-01-19T00:00:00",
+    "description": "smartfan-axial-impeller-design",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5876246/files-archive",
+            "dateModified": "2022-01-20"
+        }
+    ],
+    "doi": "10.5281/zenodo.5876245",
+    "identifier": "zenodo.5876245",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "smartfan-axial-impeller-design",
+    "sameAs": [
+        "https://zenodo.org/records/5876246"
+    ],
+    "url": "https://zenodo.org/record/5876245"
+}

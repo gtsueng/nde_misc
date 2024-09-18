@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4035167",
+    "_score": 25.890635,
+    "author": [
+        {
+            "name": "IGN"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-12-12",
+    "dateModified": "2020-12-12",
+    "datePublished": "2020-09-17T00:00:00",
+    "description": "DTM FROM IGN",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4035168/files-archive",
+            "dateModified": "2020-12-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.4035167",
+    "identifier": "zenodo.4035167",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "DTM - VALENCIA",
+    "sameAs": [
+        "https://zenodo.org/records/4035168"
+    ],
+    "url": "https://zenodo.org/record/4035167"
+}

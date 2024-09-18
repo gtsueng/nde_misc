@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3243467",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 20.750656,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Laboratoire Jean Perrin, UMR 8237 Sorbonne Universit\u00e9s, UPMC Universit\u00e9 Paris 06, Paris, France"
+            },
+            "identifier": "0000-0002-9182-4624",
+            "name": "Ollion, Jean"
+        },
+        {
+            "affiliation": {
+                "name": "Laboratoire Jean Perrin, UMR 8237 Sorbonne Universit\u00e9s, UPMC Universit\u00e9 Paris 06, Paris, France; Institute of Systems and Synthetic Biology, UMR 8030, CNRS, Commissariat \u00e0 l'Energie Atomique et aux Energies Alternatives, Genopole, Universit\u00e9 d'Evry Val-d'Essonne, Universit\u00e9 Paris Saclay, Evry, France"
+            },
+            "name": "Elez, Marina"
+        },
+        {
+            "affiliation": {
+                "name": "Laboratoire Jean Perrin, UMR 8237 Sorbonne Universit\u00e9s, UPMC Universit\u00e9 Paris 06, Paris, France; Micalis Institute, Institut National de la Recherche Agronomique, AgroParisTech, Universit\u00e9 Paris-Saclay, Jouy-en-Josas, France"
+            },
+            "name": "Robert, Lydia"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-05-31T00:00:00",
+    "description": "Example datasets for BACMMAN software",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3243468/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3243467",
+    "identifier": "zenodo.3243467",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "mother machine",
+        "bacteria",
+        "phase contrast",
+        "fluorescence",
+        "mutation",
+        "image processing"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "name": "Example datasets for BACMMAN software",
+    "sameAs": [
+        "https://zenodo.org/records/3243468"
+    ],
+    "url": "https://zenodo.org/record/3243467"
+}

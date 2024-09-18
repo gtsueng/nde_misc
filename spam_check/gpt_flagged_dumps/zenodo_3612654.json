@@ -1,0 +1,60 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3612654",
+    "_score": 24.173138,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Research Squirrel Engineers (RSE)"
+            },
+            "identifier": "0000-0002-3246-3531",
+            "name": "Florian Thiery"
+        },
+        {
+            "affiliation": {
+                "name": "Research Squirrel Engineers (RSE)"
+            },
+            "identifier": "0000-0003-4696-2101",
+            "name": "Sophie Charlotte Schmidt"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2020-01-19T00:00:00",
+    "description": "Ogham Stones Wikidata Import\n\n\nmore at:\u00a0https://github.com/ogi-ogham/ogham-wikidata/tree/master/OgamStones",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3612655/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3612654",
+    "identifier": "zenodo.3612654",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "ogham",
+        "wikidata",
+        "openrefine"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Ogham Stones Wikidata Import",
+    "sameAs": [
+        "https://zenodo.org/records/3612655"
+    ],
+    "url": "https://zenodo.org/record/3612654"
+}

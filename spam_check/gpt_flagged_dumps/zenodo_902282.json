@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_902282",
+    "_score": 22.839045,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Natural History Museum of Los Angeles County, Los Angeles, United States of America"
+            },
+            "name": "Wetzer, Regina"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2015-05-12T00:00:00",
+    "description": "United States vendors for commonly used supplies.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/902282/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.3897/BDJ.3.e4912.suppl1",
+    "identifier": "zenodo.902282",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "habitat",
+        "trap",
+        "night light",
+        "net",
+        "sieve",
+        "dredge",
+        "box core",
+        "ethanol",
+        "storage"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Supplementary material 1 from: Wetzer R (2015) Collecting and Preserving Marine and Freshwater Isopoda (Crustacea: Peracarida). Biodiversity Data Journal 3: e4912. https://doi.org/10.3897/BDJ.3.e4912",
+    "sdPublisher": [
+        {
+            "name": "biosyslit",
+            "url": "https://zenodo.org/communities/biosyslit"
+        }
+    ],
+    "url": "https://zenodo.org/records/902282"
+}

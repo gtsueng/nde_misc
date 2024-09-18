@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3350868",
+    "_score": 24.055458,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Texas A&M University"
+            },
+            "name": "Sun, Deqiang"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-07-24T00:00:00",
+    "description": "These three lookup table data files are required for MOABS software to speed up computation. See more at\u00a0https://github.com/sunnyisgalaxy/moabs",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3350869/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3350868",
+    "identifier": "zenodo.3350868",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Epigenetics, MOABS, Methylation"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Lookup table data files for MOABS software",
+    "sameAs": [
+        "https://zenodo.org/records/3350869"
+    ],
+    "url": "https://zenodo.org/record/3350868"
+}

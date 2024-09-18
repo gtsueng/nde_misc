@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5386317",
+    "_score": 23.487103,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Technical University of Denmark"
+            },
+            "identifier": "0000-0002-2487-1164",
+            "name": "Gemma Di Federico"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-09-03",
+    "dateModified": "2021-09-03",
+    "datePublished": "2021-09-02T00:00:00",
+    "description": "Linac is a smart environment simulator. The files and datasets refer to a simulation performed using the tool. The simulation consists of replicating the activities recorded in the CASAS datasets. Linac is available at http://linac.compute.dtu.dk/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5386318/files-archive",
+            "dateModified": "2021-09-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.5386317",
+    "identifier": "zenodo.5386317",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "datasets",
+        "simulation"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Linac Simulation",
+    "sameAs": [
+        "https://zenodo.org/records/5386318"
+    ],
+    "url": "https://zenodo.org/record/5386317"
+}

@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3520142",
+    "_score": 24.781975,
+    "author": [
+        {
+            "affiliation": {
+                "name": "plainsite.com"
+            },
+            "name": "@PlainSite"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-04-28",
+    "dateModified": "2021-04-28",
+    "datePublished": "2019-10-27T00:00:00",
+    "description": "Elon Musk lawsuits listings at PlainSite.com, available at\u00a0https://www.plainsite.org/profiles/musk-elon-reeve/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4724077/files-archive",
+            "dateModified": "2021-04-28"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3520143/files-archive",
+            "dateModified": "2021-04-27"
+        }
+    ],
+    "doi": "10.5281/zenodo.3520142",
+    "identifier": "zenodo.3520142",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "tesla",
+        "elon musk",
+        "finance",
+        "trials",
+        "lawsuits"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Elon Musk Lawsuits at PlainSite",
+    "sameAs": [
+        "https://zenodo.org/records/4724077",
+        "https://zenodo.org/records/3520143"
+    ],
+    "url": "https://zenodo.org/record/3520142"
+}

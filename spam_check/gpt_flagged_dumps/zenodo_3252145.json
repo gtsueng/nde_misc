@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3252145",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.050717,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of French Guiana"
+            },
+            "identifier": "0000-0001-9869-401X",
+            "name": "Marie Latour"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-06-21T00:00:00",
+    "description": "Since 2015, the Central Documentation Service (CDS) of the University of French Guiana is engaged in the renewal of their teaching capacities. Some game segments are introduced on a regular basis into its courses in the document methodology in order to promote interactivity and the pleasure of learning.\n\n\nFollowing the creation of three board games on Open Access in 2017, the university library is introducing \u201cLicenses to Kill\u201d, a new teaching game created in 2018. This version in French language is avaible at this address : https://zenodo.org/record/1972975#.XQ0b6etKjIU. The Game Design is made by our Guianese graphic provider Signarama (Cayenne, French Guiana).\n\n\nIn 2019, this game was translated into English to be presented at the LIBER European Libraries congress at Dublin and at the IFLA International Libraries Congress at Athens. The traductors were a team of student-translators from L2 LLCER English in Theme and Journalistic Version of the University of French Guiana. Their supervisor teacher was Mr. PINDARD, a professional Traductor for Y.A.N.A Traduction (Cayenne, French Guiana)\n\n\nThis game, originally made for Master and Doctorate students, is used in order to teach them difficult-to-learn and sometimes boring skills in a fun and visual way.\n\n\nIn the context to the fight against plagiarism, \u201cLicenses to Kill\u201d allows the student to familiarize himself with the major intellectual property licenses (Copyright, Public Property, Creative Commons, and Copyleft) and assimilate the terms of re-use of content that he may use for academic purposes. All the game\u2019s files are freely available and downloadable under the Creative Commons License such as the attribution rights (BY), Non-Commercial rights (NC), and Share-Alike rights (SA) on the long-term archiving website in three different forms: JPEG, PDF and InDesign. They are modifiable and publishable, but it is requested to refrain from commercial use. Institutions interested in buying a copy of the game are offered this possibility: besides the price of the game, a fixed price of \u20ac30 ($34) per game must be paid to the University of French Guiana.\n\n\n\u00a0This amount will be reinvested in the creation of new educational and enjoyable products, which will be shared with the community!\n\n\nFor more information or to purchase a copy, please contact Marie Latour, delegate director of the CDS of the University of French Guiana and creator of these games using the following email: marie.latour@univ-guyane.fr.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3252146/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3252145",
+    "identifier": "zenodo.3252145",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "PhD",
+        "Master",
+        "Multidisciplinary",
+        "Board game",
+        "Serious Game",
+        "Gamification",
+        "License",
+        "Author's right"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Serious board-game \"Licenses to kill\" (english version)",
+    "sameAs": [
+        "https://zenodo.org/records/3252146"
+    ],
+    "sdPublisher": [
+        {
+            "name": "adbu_competencesinformationnelles",
+            "url": "https://zenodo.org/communities/adbu_competencesinformationnelles"
+        }
+    ],
+    "url": "https://zenodo.org/record/3252145"
+}

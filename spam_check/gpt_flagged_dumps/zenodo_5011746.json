@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5011746",
+    "_score": 25.417479,
+    "author": [
+        {
+            "affiliation": {
+                "name": "alpine pals"
+            },
+            "name": "lortie, christopher"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-06-02",
+    "dateModified": "2022-06-02",
+    "datePublished": "2013-04-02T00:00:00",
+    "description": "global plant neighbourhood removal",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5011746/files-archive",
+            "dateModified": "2022-06-02"
+        }
+    ],
+    "doi": "10.15146/R3CP4C",
+    "identifier": "zenodo.5011746",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "alpine plants"
+    ],
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "alpine plant removal",
+    "sdPublisher": [
+        {
+            "name": "dryad",
+            "url": "https://zenodo.org/communities/dryad"
+        }
+    ],
+    "url": "https://zenodo.org/records/5011746"
+}

@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6833441",
+    "_score": 25.753584,
+    "author": [
+        {
+            "name": "Pirro, S"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-07-14",
+    "dateModified": "2022-07-14",
+    "datePublished": "2022-07-14T00:00:00",
+    "description": ".",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6833442/files-archive",
+            "dateModified": "2022-07-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.6833441",
+    "identifier": "zenodo.6833441",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Netuma bilineata RB0194 GRAHAM decontaminated gx",
+    "sameAs": [
+        "https://zenodo.org/records/6833442"
+    ],
+    "url": "https://zenodo.org/record/6833441"
+}

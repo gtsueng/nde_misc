@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5992127",
+    "_score": 25.620478,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Antioquia"
+            },
+            "name": "Jefferson Buendia Rodriguez"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-02-07",
+    "dateModified": "2022-02-07",
+    "datePublished": "2022-02-07T00:00:00",
+    "description": "DB Biomarker FWS",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5992128/files-archive",
+            "dateModified": "2022-02-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.5992127",
+    "identifier": "zenodo.5992127",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "DATABASE BIOMARKERS",
+    "sameAs": [
+        "https://zenodo.org/records/5992128"
+    ],
+    "url": "https://zenodo.org/record/5992127"
+}

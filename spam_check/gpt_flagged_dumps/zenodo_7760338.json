@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7760338",
+    "_score": 24.412174,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Universidad de Talca"
+            },
+            "identifier": "0000-0002-5491-4233",
+            "name": "Rivera, C\u00e9sar"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-12",
+    "dateModified": "2024-07-12",
+    "datePublished": "2023-03-22T00:00:00",
+    "description": "Certificados del Curso de Perfeccionamiento\u00a0de An\u00e1lisis Comprensivo de Manuscritos Cient\u00edficos de la Universidad de Talca, Chile.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7760339/files-archive",
+            "dateModified": "2024-07-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.7760338",
+    "identifier": "zenodo.7760338",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Certificados Curso de Perfeccionamiento An\u00e1lisis Comprensivo de Manuscritos Cient\u00edficos",
+    "sameAs": [
+        "https://zenodo.org/records/7760339"
+    ],
+    "url": "https://zenodo.org/record/7760338"
+}

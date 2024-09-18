@@ -1,0 +1,60 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5619825",
+    "_score": 25.157059,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Students"
+            },
+            "name": "Adri\u00e0 Aumedes Floreta i Josep Rib\u00f3 F\u00e9rriz."
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-11-08",
+    "dateModified": "2021-11-08",
+    "datePublished": "2021-10-29T00:00:00",
+    "description": "Immobles en venda o lloguer a Andorra",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5619826/files-archive",
+            "dateModified": "2021-11-08"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5655527/files-archive",
+            "dateModified": "2021-11-09"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5655532/files-archive",
+            "dateModified": "2021-11-09"
+        }
+    ],
+    "doi": "10.5281/zenodo.5619825",
+    "identifier": "zenodo.5619825",
+    "inLanguage": {
+        "name": "cat"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "uoc scraping"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "UOC-Webscraping",
+    "sameAs": [
+        "https://zenodo.org/records/5619826",
+        "https://zenodo.org/records/5655527",
+        "https://zenodo.org/records/5655532"
+    ],
+    "url": "https://zenodo.org/record/5619825"
+}

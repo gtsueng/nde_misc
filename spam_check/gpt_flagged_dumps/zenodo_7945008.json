@@ -1,0 +1,90 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7945008",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.866568,
+    "author": [
+        {
+            "affiliation": {
+                "name": "National Institute of Advanced Industrial Science and Technology, Tokyo Institute of Technology"
+            },
+            "identifier": "0009-0000-3991-3251",
+            "name": "Sora Takashima"
+        },
+        {
+            "affiliation": {
+                "name": "National Institute of Advanced Industrial Science and Technology"
+            },
+            "identifier": "0009-0005-7887-5450",
+            "name": "Ryo Hayamizu"
+        },
+        {
+            "affiliation": {
+                "name": "National Institute of Advanced Industrial Science and Technology, Tokyo Institute of Technology"
+            },
+            "identifier": "0000-0002-9761-4142",
+            "name": "Nakamasa Inoue"
+        },
+        {
+            "affiliation": {
+                "name": "National Institute of Advanced Industrial Science and Technology"
+            },
+            "identifier": "0000-0001-8844-165X",
+            "name": "Hirokatsu Kataoka"
+        },
+        {
+            "affiliation": {
+                "name": "National Institute of Advanced Industrial Science and Technology, Tokyo Institute of Technology"
+            },
+            "identifier": "0000-0001-7573-7873",
+            "name": "Rio Yokota"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-05-25",
+    "dateModified": "2023-05-25",
+    "datePublished": "2023-05-24T00:00:00",
+    "description": "VisualAtom is a cutting-edge artificial image dataset, specifically designed for pre-training deep learning models for image recognition tasks, such as Vision Transformers. Generated through the innovative synthesis of geometric contours, VisualAtom offers a rich and diverse synthetic images, achieved by assigning various stationary waveforms to the contour lines.\nThe primary goal of VisualAtom is to provide pre-training effect that rivals large real image datasets, such as ImageNet and JFT. By offering a wide variety of synthesized geometric contours, VisualAtom allows deep learning models to develop a robust understanding of diverse visual structures, thus enabling them to perform at comparable levels to models pre-trained on real images. Furthermore, the datasets and models are licensed for commercial use and are not restricted to educational or academic use only.\nTo facilitate easy access and customization, the generation scripts and usage instructions for VisualAtom are available on our GitHub page at https://github.com/masora1030/CVPR2023-FDSL-on-VisualAtom. Users are encouraged to explore the repository and generate and pre-train on VisualAtom to their specific needs, further expanding the possibilities of VisualAtom.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7945009/files-archive",
+            "dateModified": "2023-05-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.7945008",
+    "identifier": "zenodo.7945008",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "deep learning",
+        "machine learning",
+        "Vision Transformer",
+        "formula-driven supervised learning",
+        "FDSL",
+        "VisualAtom",
+        "datasets",
+        "computer vision",
+        "CVPR2023"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "VisualAtom-1k",
+    "sameAs": [
+        "https://zenodo.org/records/7945009"
+    ],
+    "url": "https://zenodo.org/record/7945008"
+}

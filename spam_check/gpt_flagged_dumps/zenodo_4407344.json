@@ -1,0 +1,86 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4407344",
+    "_score": 24.902193,
+    "author": [
+        {
+            "affiliation": {
+                "name": "R\u00f6misch-Germanisches Zentralmuseum"
+            },
+            "identifier": "0000-0002-3246-3531",
+            "name": "Florian Thiery"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-05-16",
+    "dateModified": "2021-05-16",
+    "datePublished": "2021-05-16T00:00:00",
+    "description": "Linked Ogham Ontology @ http://ontology.ogham.link",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4765568/files-archive",
+            "dateModified": "2021-05-16"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4757263/files-archive",
+            "dateModified": "2021-05-16"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4407345/files-archive",
+            "dateModified": "2021-05-16"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4410587/files-archive",
+            "dateModified": "2021-05-16"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4407372/files-archive",
+            "dateModified": "2021-05-16"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4409744/files-archive",
+            "dateModified": "2021-05-16"
+        }
+    ],
+    "doi": "10.5281/zenodo.4407344",
+    "identifier": "zenodo.4407344",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "ogham",
+        "ontology",
+        "linked data",
+        "LOD",
+        "semantic web"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Linked Ogham Ontology",
+    "sameAs": [
+        "https://zenodo.org/records/4765568",
+        "https://zenodo.org/records/4757263",
+        "https://zenodo.org/records/4407345",
+        "https://zenodo.org/records/4410587",
+        "https://zenodo.org/records/4407372",
+        "https://zenodo.org/records/4409744"
+    ],
+    "sdPublisher": [
+        {
+            "name": "researchsquirrelengineers",
+            "url": "https://zenodo.org/communities/researchsquirrelengineers"
+        }
+    ],
+    "url": "https://zenodo.org/record/4407344"
+}

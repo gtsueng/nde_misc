@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7827594",
+    "_score": 24.719858,
+    "author": [
+        {
+            "name": "Jureckzo Marian"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-04-14",
+    "dateModified": "2023-04-14",
+    "datePublished": "2022-01-04T00:00:00",
+    "description": "This dataset uses web metrics.\n\n\nMore information at\u00a0http://openscience.us/repo/defect/ck/lucene.html",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7827595/files-archive",
+            "dateModified": "2023-04-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.7827594",
+    "identifier": "zenodo.7827594",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Detect Related Bugs from Lucene Source Code Using Bug Information",
+    "sameAs": [
+        "https://zenodo.org/records/7827595"
+    ],
+    "url": "https://zenodo.org/record/7827594"
+}

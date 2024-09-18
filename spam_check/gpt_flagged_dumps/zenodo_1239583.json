@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1239583",
+    "_score": 25.616545,
+    "author": [
+        {
+            "name": "Mu\u00f1oz Alvis, Jose"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-05-02T00:00:00",
+    "description": "Information for\u00a0Twitter Data Selfies \u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1239584/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1239583",
+    "identifier": "zenodo.1239583",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Twitter Data Selfies",
+    "sameAs": [
+        "https://zenodo.org/records/1239584"
+    ],
+    "url": "https://zenodo.org/record/1239583"
+}

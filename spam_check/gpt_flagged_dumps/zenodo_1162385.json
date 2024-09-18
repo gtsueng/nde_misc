@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1162385",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.219204,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Yale University"
+            },
+            "identifier": "0000-0002-6640-808X",
+            "name": "Dockum, Rikker"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-01-29T00:00:00",
+    "description": "Comma-separated values (CSV) of historical tone data for 300+ Tai doculects (languages and dialects). Gives historical categories (Gedney 1972) and tone numerals (Chao 1930). Contact author for source citations. I recommend getting in touch if you'd like to use this dataset\u00a0There is a good chance I have a newer (bigger, cleaner, better) version of it you could use!",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1162386/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1162385",
+    "identifier": "zenodo.1162385",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Historical tone data for Tai languages",
+    "sameAs": [
+        "https://zenodo.org/records/1162386"
+    ],
+    "sdPublisher": [
+        {
+            "name": "kra-dai",
+            "url": "https://zenodo.org/communities/kra-dai"
+        }
+    ],
+    "url": "https://zenodo.org/record/1162385"
+}

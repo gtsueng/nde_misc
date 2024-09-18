@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3520140",
+    "_score": 24.844421,
+    "author": [
+        {
+            "affiliation": {
+                "name": "plainsite.com"
+            },
+            "name": "@PlainSite"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-25",
+    "dateModified": "2020-01-25",
+    "datePublished": "2019-10-27T00:00:00",
+    "description": "Tesla, Inc. lawsuit listings at PlainSite.org, located at\u00a0https://www.plainsite.org/profiles/tesla-motors-inc/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3520141/files-archive",
+            "dateModified": "2020-01-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.3520140",
+    "identifier": "zenodo.3520140",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Tesla",
+        "lawsuit",
+        "Finance",
+        "Elon Musk"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Tesla, Inc. Lawsuits at PlainSite",
+    "sameAs": [
+        "https://zenodo.org/records/3520141"
+    ],
+    "url": "https://zenodo.org/record/3520140"
+}

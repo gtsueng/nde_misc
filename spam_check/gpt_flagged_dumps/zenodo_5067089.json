@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5067089",
+    "_score": 25.818918,
+    "author": [
+        {
+            "name": "Andrea Messori"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-07-04",
+    "dateModified": "2021-07-04",
+    "datePublished": "2021-07-03T00:00:00",
+    "description": "SCHEDA HTA AMDS",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5067090/files-archive",
+            "dateModified": "2021-07-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.5067089",
+    "identifier": "zenodo.5067089",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "SCHEDA HTA AMDS",
+    "sameAs": [
+        "https://zenodo.org/records/5067090"
+    ],
+    "url": "https://zenodo.org/record/5067089"
+}

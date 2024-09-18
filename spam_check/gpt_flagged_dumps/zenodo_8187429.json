@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8187429",
+    "_score": 25.356182,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UIUC"
+            },
+            "name": "Hyun Park"
+        },
+        {
+            "affiliation": {
+                "name": "UIUC"
+            },
+            "name": "Andres Arango"
+        },
+        {
+            "affiliation": {
+                "name": "UIUC"
+            },
+            "name": "Fulbabu Shaikh"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-07-27",
+    "dateModified": "2023-07-27",
+    "datePublished": "2023-07-26T00:00:00",
+    "description": "Kinase Lego Kit",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8187430/files-archive",
+            "dateModified": "2023-07-27"
+        }
+    ],
+    "doi": "10.5281/zenodo.8187429",
+    "identifier": "zenodo.8187429",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Kinase Lego Kit",
+    "sameAs": [
+        "https://zenodo.org/records/8187430"
+    ],
+    "url": "https://zenodo.org/record/8187429"
+}

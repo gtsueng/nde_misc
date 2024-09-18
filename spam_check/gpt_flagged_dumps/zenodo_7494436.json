@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7494436",
+    "_score": 26.166847,
+    "author": [
+        {
+            "name": "XY"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-01-03",
+    "dateModified": "2023-01-03",
+    "datePublished": "2022-12-30T00:00:00",
+    "description": "DESKTOPDOCALL",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7494437/files-archive",
+            "dateModified": "2023-01-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.7494436",
+    "identifier": "zenodo.7494436",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "deskpostdoc",
+    "sameAs": [
+        "https://zenodo.org/records/7494437"
+    ],
+    "url": "https://zenodo.org/record/7494436"
+}

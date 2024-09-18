@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3361766",
+    "_score": 24.714579,
+    "author": [
+        {
+            "affiliation": {
+                "name": "New England Biolabs"
+            },
+            "identifier": "0000-0001-7390-1094",
+            "name": "Langhorst, Bradley W."
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-08-01T00:00:00",
+    "description": "Data supporting the release of the NEBNext Small RNA kit (E7300, E7330, E7580, E7560).",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3361767/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3361766",
+    "identifier": "zenodo.3361766",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "name": "NEBNext Small RNA Validation",
+    "sameAs": [
+        "https://zenodo.org/records/3361767"
+    ],
+    "url": "https://zenodo.org/record/3361766"
+}

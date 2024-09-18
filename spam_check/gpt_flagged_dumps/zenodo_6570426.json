@@ -1,0 +1,62 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6570426",
+    "_score": 23.266811,
+    "author": [
+        {
+            "affiliation": {
+                "name": "IT University of Copenhagen"
+            },
+            "name": "Petya Buchkova <pebu@itu.dk>"
+        },
+        {
+            "affiliation": {
+                "name": "IT University of Copenhagen"
+            },
+            "name": "Joakim Hey Hinnerskov <jhhi@itu.dk"
+        },
+        {
+            "affiliation": {
+                "name": "IT University of Copenhagen"
+            },
+            "name": "Kasper Olsen <kols@itu.dk>"
+        },
+        {
+            "affiliation": {
+                "name": "IT University of Copenhagen"
+            },
+            "name": "Rolf-Helge Pfeiffer <ropf@itu.dk>"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-05-23",
+    "dateModified": "2022-05-23",
+    "datePublished": "2022-05-22T00:00:00",
+    "description": "A continuously updated dataset of dependency networks covering various software ecosystems. Read more on http://dasea.org/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6570427/files-archive",
+            "dateModified": "2022-05-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.6570426",
+    "identifier": "zenodo.6570426",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "name": "DaSEA - Dataset for Software Ecosystem Analysis 05-22-2022",
+    "sameAs": [
+        "https://zenodo.org/records/6570427"
+    ],
+    "url": "https://zenodo.org/record/6570426"
+}

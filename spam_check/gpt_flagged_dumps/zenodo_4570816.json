@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4570816",
+    "_score": 25.620478,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UDIMA"
+            },
+            "name": "Juan Luis Rubio"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-03-02",
+    "dateModified": "2021-03-02",
+    "datePublished": "2021-03-01T00:00:00",
+    "description": "Software and Data - Model ITIL",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4570817/files-archive",
+            "dateModified": "2021-03-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.4570816",
+    "identifier": "zenodo.4570816",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Data&software",
+    "sameAs": [
+        "https://zenodo.org/records/4570817"
+    ],
+    "url": "https://zenodo.org/record/4570816"
+}

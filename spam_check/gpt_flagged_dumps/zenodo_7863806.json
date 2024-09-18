@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7863806",
+    "_score": 25.553862,
+    "author": [
+        {
+            "name": "Mario Mesas Rodriguez"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-04-26",
+    "dateModified": "2023-04-26",
+    "datePublished": "2023-04-25T00:00:00",
+    "description": "Stock of NVIDIA GC at Newegg.com (April 2023)",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7863807/files-archive",
+            "dateModified": "2023-04-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.7863806",
+    "identifier": "zenodo.7863806",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "name": "newegg-nvidia-gc-stock-ds",
+    "sameAs": [
+        "https://zenodo.org/records/7863807"
+    ],
+    "url": "https://zenodo.org/record/7863806"
+}

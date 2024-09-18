@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3491150",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.022787,
+    "author": [
+        {
+            "affiliation": {
+                "name": "GWU"
+            },
+            "name": "Le, Yuan"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-10-15T00:00:00",
+    "description": "This is the data set used for an analysis of Education, Healthcare, and Military expense of 10 G-20 countries from 2010 to 2016, together with the raw data and the python script used to clean up the data. The corresponding visualization ppt is included to show generated charts of the analysis. For complete charts and visualization, please access\u00a0my visualization webpage.\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3491154/files-archive",
+            "dateModified": "2020-01-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3491151/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3491150",
+    "identifier": "zenodo.3491150",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Education, Healthcare and Military Expense for G20 countries between 2010 and 2016",
+    "sameAs": [
+        "https://zenodo.org/records/3491154",
+        "https://zenodo.org/records/3491151"
+    ],
+    "url": "https://zenodo.org/record/3491150"
+}

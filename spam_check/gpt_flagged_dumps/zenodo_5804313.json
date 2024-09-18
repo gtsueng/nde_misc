@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5804313",
+    "_score": 24.935091,
+    "author": [
+        {
+            "name": "Pirro, S"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-12-25",
+    "dateModified": "2021-12-25",
+    "datePublished": "2021-12-25T00:00:00",
+    "description": ".",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5804314/files-archive",
+            "dateModified": "2021-12-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.5804313",
+    "identifier": "zenodo.5804313",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Arius berneyi RB0526 ARBOR SPAdes preassembly",
+    "sameAs": [
+        "https://zenodo.org/records/5804314"
+    ],
+    "url": "https://zenodo.org/record/5804313"
+}

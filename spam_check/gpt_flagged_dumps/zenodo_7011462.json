@@ -1,0 +1,42 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7011462",
+    "_score": 24.529917,
+    "author": [
+        {
+            "identifier": "0000-0002-6330-5974",
+            "name": "Martin Paczona"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-08-20",
+    "dateModified": "2022-08-20",
+    "datePublished": "2022-08-19T00:00:00",
+    "description": "Raw Data of experiments\u00a0with the EVTM\u00a0Tool.\n\n\nThe tool can be downloaded using following link https://austria.omilab.org/psm/content/EVTM/info\n\n\n\u00a0\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7011463/files-archive",
+            "dateModified": "2022-08-20"
+        }
+    ],
+    "doi": "10.5281/zenodo.7011462",
+    "identifier": "zenodo.7011462",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/3.0/at/legalcode",
+    "name": "EVTM Experiment Data",
+    "sameAs": [
+        "https://zenodo.org/records/7011463"
+    ],
+    "url": "https://zenodo.org/record/7011462"
+}

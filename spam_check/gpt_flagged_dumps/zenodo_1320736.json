@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1320736",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 19.174944,
+    "author": [
+        {
+            "name": "Eva Johnson"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-08-02",
+    "dateModified": "2024-08-02",
+    "datePublished": "2018-07-25T00:00:00",
+    "description": "Regenerative Medicine 2018 aims to learn and share knowledge in Tissue Engineering & Regenerative Medicine. Regenerative Medicine 2018 is a global platform to discuss and learn about Scaffolds, Cord Blood& Regenerative Medicine, Stem cells, Tissue Biomarkers, Immunotherapy, Applications of Tissue Engineering & Regenerative Medicine, Tissue Regeneration, Tissue Engineering & 3D Printing. Regenerative Medicine 2018 is an excellent platform to focusing on the theme \u201cRedefining Health Care through Regenerative Medicine\u201d. To know more about the conference, please visit our website: https://tissuescience-regenerativemedicine.conferenceseries.com/\n\n\nThe Three days conference includes Regenerative Medicine workshops, symposiums and special keynote sessions conducted by eminent and renowned speakers who excel in the field of Tissue Engineering & Regenerative Medicine. This Regenerative Medicine 2018 global also encourages the active participation of young students, upcoming researchers and budding scientists as we are hosting Poster Award Competition and Young research Forum at the conference venue.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1320737/files-archive",
+            "dateModified": "2024-08-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.1320736",
+    "identifier": "zenodo.1320736",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "11th International Conference on Tissue Engineering & Regenerative Medicine",
+    "sameAs": [
+        "https://zenodo.org/records/1320737"
+    ],
+    "url": "https://zenodo.org/record/1320736"
+}

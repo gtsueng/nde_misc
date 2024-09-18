@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4135052",
+    "_score": 24.907202,
+    "author": [
+        {
+            "name": "Martin Montoro, Diego"
+        },
+        {
+            "name": "Hern\u00e1ndez Hern\u00e1ndez, Javier"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-11-06",
+    "dateModified": "2020-11-06",
+    "datePublished": "2020-11-06T00:00:00",
+    "description": "Data set con datos falsos simulando informaci\u00f3n de tel\u00e9fonos en la web de amazon.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4135053/files-archive",
+            "dateModified": "2020-11-06"
+        }
+    ],
+    "doi": "10.5281/zenodo.4135052",
+    "identifier": "zenodo.4135052",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/1.0/legalcode",
+    "name": "Amazon Smartphones",
+    "sameAs": [
+        "https://zenodo.org/records/4135053"
+    ],
+    "url": "https://zenodo.org/record/4135052"
+}

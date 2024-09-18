@@ -1,0 +1,92 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1292313",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 19.178844,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Texas at Austin"
+            },
+            "identifier": "0000-0002-7310-6522",
+            "name": "Czerniawski,Thomas"
+        },
+        {
+            "affiliation": {
+                "name": "University of Texas at Austin"
+            },
+            "name": "Leite, Fernanda"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-06-18T00:00:00",
+    "description": "Please visit the 3DFacilities website, thomasczerniawski.com/3dfacilities\n\n\n3DFacilities is an annotated RGB-D data-set of building facilities. It currently contains over 25,000 individual frames and 110 scene reconstructions.\n\n\nThe data-set was created for training machine learning algorithms to perform semantic segmentation. Classes included in the data-set are: furniture, door, wall, floor, window, ceiling, column, beam, stairs, railing, light fixture, elevator, plumbing, duct, diffuser, sprinkler, cable tray, and conduit",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3549034/files-archive",
+            "dateModified": "2020-01-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/1292314/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1292313",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/100000001",
+                "name": "National Science Foundation"
+            },
+            "identifier": "1562438",
+            "name": "Collaborative Research: Living Building Information Model (BIM): A Layered Approach for Automatic and Continuous Built Environment Model Update"
+        }
+    ],
+    "identifier": "zenodo.1292313",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Computer Vision",
+        "Deep Learning",
+        "Image Classification",
+        "Semantic Segmentation",
+        "Building Systems",
+        "Building Information Modeling",
+        "Building Information Modelling",
+        "Architecture",
+        "Facility Management",
+        "Images",
+        "RGB-D",
+        "Structure IO",
+        "Range Camera",
+        "Range Images",
+        "Depth Images",
+        "Depth Camera",
+        "3D Reconstruction",
+        "3D Imaging",
+        "3D Images",
+        "Machine Learning"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "name": "3DFacilities",
+    "sameAs": [
+        "https://zenodo.org/records/3549034",
+        "https://zenodo.org/records/1292314"
+    ],
+    "url": "https://zenodo.org/record/1292313"
+}

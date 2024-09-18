@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7015051",
+    "_score": 24.292034,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Dartmouth College, University of Oregon"
+            },
+            "name": "Biasi, Joseph"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-08-22",
+    "dateModified": "2022-08-22",
+    "datePublished": "2022-08-22T00:00:00",
+    "description": "Noddy models for Volcano Monitoring with Magnetic Measurements: A Simulation of Eruptions at Axial Seamount, K\u012blauea, B\u00e1r\u00f0arbunga, and Mount Saint Helens",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7015052/files-archive",
+            "dateModified": "2022-08-22"
+        }
+    ],
+    "doi": "10.5281/zenodo.7015051",
+    "identifier": "zenodo.7015051",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Noddy Aeromag Volcano Models",
+    "sameAs": [
+        "https://zenodo.org/records/7015052"
+    ],
+    "url": "https://zenodo.org/record/7015051"
+}

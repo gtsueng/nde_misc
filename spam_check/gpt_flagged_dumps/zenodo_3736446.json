@@ -1,0 +1,57 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3736446",
+    "_score": 24.594746,
+    "author": [
+        {
+            "name": "City of Stockholm"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-04-01",
+    "dateModified": "2020-04-01",
+    "datePublished": "2020-04-01T00:00:00",
+    "description": "Baseline information from deliveries regarding building logistics center",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3736447/files-archive",
+            "dateModified": "2020-04-01"
+        }
+    ],
+    "doi": "10.5281/zenodo.3736446",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "646456",
+            "name": "GrowSmarter"
+        }
+    ],
+    "identifier": "zenodo.3736446",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "GrowSmarter Smart building logistics with alternative fuelled vehicles Stockholm",
+    "sameAs": [
+        "https://zenodo.org/records/3736447"
+    ],
+    "sdPublisher": [
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/3736446"
+}

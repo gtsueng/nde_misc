@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8282310",
+    "_score": 24.47463,
+    "author": [
+        {
+            "name": "Sara Amini"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-08-25",
+    "dateModified": "2023-08-25",
+    "datePublished": "2023-08-25T00:00:00",
+    "description": "Check this link for the algorithm\n\n\nhttps://docs.sdv.dev/sdv/multi-table-data/modeling/synthesizers/hmasynthesizer",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8282311/files-archive",
+            "dateModified": "2023-08-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.8282310",
+    "identifier": "zenodo.8282310",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Hotel",
+        "Guest",
+        "SDV",
+        "Multi Table Synthetic Data"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Hotels and Guests Dataset; synthetic and Non-synthetic",
+    "sameAs": [
+        "https://zenodo.org/records/8282311"
+    ],
+    "url": "https://zenodo.org/record/8282310"
+}

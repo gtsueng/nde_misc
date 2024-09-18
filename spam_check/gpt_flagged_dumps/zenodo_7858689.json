@@ -1,0 +1,59 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7858689",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.485502,
+    "author": [
+        {
+            "affiliation": {
+                "name": "CNRS, UCA"
+            },
+            "identifier": "0000-0002-1059-6165",
+            "name": "Monteux Julien"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-12",
+    "dateModified": "2024-07-12",
+    "datePublished": "2023-04-24T00:00:00",
+    "description": "Source material to obtain\u00a0the figures from the article entitled\u00a0: Conditions\u00a0for segregation of a crystal-rich layer within a convective magma ocean (JGR Planets 2023).\n\n\nThe data that support the findings of this study were obtained using the commercial software COMSOL Multiphysics (version 5.4). COMSOL Multiphysics\u00ae is a simulation platform that provides fully coupled multiphysics and single-physics modelling capabilities. COMSOL Multiphysics (version 5.4) has been previously validated for two phase flow applications (Qaddah et al, 2019, Qaddah et al., 2020). To compute our simulations we used the Heat Transfer (www.comsol.com/heat-transfer-module) and Computational Flow Dynamics (www.comsol.com/cfd-module) modules in addition to the main Multiphysics platform (www.comsol.com/comsol-multiphysics). All the parameters used in our simulation are listed and described in the manuscript. The open source software used for data visualisation was Xmgrace (https://plasma-gate.weizmann.ac.il/Grace/).\u00a0\n\n\nThe software used for this study is the commercial software COMSOL Multiphysics (version 5.4) previously validated for two phase flow applications (Qaddah et al., 2019, Qaddah et al., 2020). User manual can be downloaded here:\n\u00a0https://doc.comsol.com/5.4/doc/com.comsol.help.cfd/CFDModuleUsersGuide.pdf.\u00a0\n\u00a0A trial version of COMSOL Multiphysics may be requested (see www.comsol.com).\n\u00a0\n\u00a0More details can be found on the following COMSOL webpages:\n- On the Foundations of the General Heat Transfer Equation:\nhttps://doc.comsol.com/6.1/docserver/#!/com.comsol.help.heat/heat_ug_theory.07.002.html\n\n\n- Theory for Heat Transfer in Fluids :\nhttps://doc.comsol.com/6.1/docserver/#!/com.comsol.help.heat/heat_ug_theory.07.008.html\n\n\n- The Euler\u2013Euler Model Equations and in particular how incompressibility is handled:\nhttps://doc.comsol.com/6.1/docserver/#!/com.comsol.help.cfd/cfd_ug_fluidflow_multi.09.153.html\n\n\n- The Boussinesq Approximation:\nhttps://doc.comsol.com/6.1/docserver/#!/com.comsol.help.cfd/cfd_ug_fluidflow_noniso.07.20.html\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7858690/files-archive",
+            "dateModified": "2024-07-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.7858689",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100001665",
+                "name": "Agence Nationale de la Recherche"
+            },
+            "identifier": "ANR-10-LABX-0006",
+            "name": "Clermont-Ferrand centre for research on volcanism"
+        }
+    ],
+    "identifier": "zenodo.7858689",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Monteux et al., JGR Planets, 2023. Data Repository",
+    "sameAs": [
+        "https://zenodo.org/records/7858690"
+    ],
+    "url": "https://zenodo.org/record/7858689"
+}

@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8051079",
+    "_score": 25.958002,
+    "author": [
+        {
+            "name": "Kinjo Katsuki"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-06-18",
+    "dateModified": "2023-06-18",
+    "datePublished": "2023-06-17T00:00:00",
+    "description": "Dataset for adg2736",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8051080/files-archive",
+            "dateModified": "2023-06-18"
+        }
+    ],
+    "doi": "10.5281/zenodo.8051079",
+    "identifier": "zenodo.8051079",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/2.0/legalcode",
+    "name": "adg2736",
+    "sameAs": [
+        "https://zenodo.org/records/8051080"
+    ],
+    "url": "https://zenodo.org/record/8051079"
+}

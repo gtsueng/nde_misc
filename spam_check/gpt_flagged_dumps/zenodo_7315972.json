@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7315972",
+    "_score": 25.417479,
+    "author": [
+        {
+            "affiliation": {
+                "name": "NA"
+            },
+            "name": "szamani"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-11-13",
+    "dateModified": "2022-11-13",
+    "datePublished": "2022-11-12T00:00:00",
+    "description": "https://www.kaggle.com/datasets/rrmartin/twitter-mental-disorder-tweets-and-musics?resource=download",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7315973/files-archive",
+            "dateModified": "2022-11-13"
+        }
+    ],
+    "doi": "10.5281/zenodo.7315972",
+    "identifier": "zenodo.7315972",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Twitter Mental Disorder Tweets and Musics Dataset",
+    "sameAs": [
+        "https://zenodo.org/records/7315973"
+    ],
+    "url": "https://zenodo.org/record/7315972"
+}

@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6515972",
+    "_score": 23.480167,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Amsterdam"
+            },
+            "name": "Madelon Hulsebos"
+        },
+        {
+            "affiliation": {
+                "name": "Sigma Computing"
+            },
+            "name": "\u00c7a\u011fatay Demiralp"
+        },
+        {
+            "affiliation": {
+                "name": "University of Amsterdam"
+            },
+            "name": "Paul Groth"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-06-06",
+    "dateModified": "2022-06-06",
+    "datePublished": "2022-05-03T00:00:00",
+    "description": "This dataset contains >800K CSV files behind the GitTables 1M corpus.\n\n\nFor more information about\u00a0the GitTables corpus, visit:\n\n\n- our\u00a0website for GitTables, or\n\n\n- the\u00a0main GitTables download page on Zenodo.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6515973/files-archive",
+            "dateModified": "2022-06-06"
+        }
+    ],
+    "doi": "10.5281/zenodo.6515972",
+    "identifier": "zenodo.6515972",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "GitTables 1M - CSV files",
+    "sameAs": [
+        "https://zenodo.org/records/6515973"
+    ],
+    "url": "https://zenodo.org/record/6515972"
+}

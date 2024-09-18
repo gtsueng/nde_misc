@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5816244",
+    "_score": 23.874939,
+    "author": [
+        {
+            "identifier": "0000-0003-2663-8179",
+            "name": "David Kazdan AD8Y"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-01-06",
+    "dateModified": "2022-01-06",
+    "datePublished": "2022-01-04T00:00:00",
+    "description": "10 MHz data collected by AD8Y during 2020 and 2021. Details at www.hamsci.org/grape1.\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5816245/files-archive",
+            "dateModified": "2022-01-06"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5816258/files-archive",
+            "dateModified": "2022-01-06"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5824351/files-archive",
+            "dateModified": "2022-01-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.5816244",
+    "identifier": "zenodo.5816244",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "10 MHz WWV 10 MHz Doppler Recording, AD8Y",
+    "sameAs": [
+        "https://zenodo.org/records/5816245",
+        "https://zenodo.org/records/5816258",
+        "https://zenodo.org/records/5824351"
+    ],
+    "url": "https://zenodo.org/record/5816244"
+}

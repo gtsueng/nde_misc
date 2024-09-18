@@ -1,0 +1,59 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3928243",
+    "_score": 24.051388,
+    "author": [
+        {
+            "affiliation": {
+                "name": "DLR German Aerospace Center"
+            },
+            "name": "Aldo Saul Gago"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-19",
+    "dateModified": "2024-07-19",
+    "datePublished": "2020-07-02T00:00:00",
+    "description": "Abstract summarizing the scope of NEWELY project",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3928244/files-archive",
+            "dateModified": "2024-07-19"
+        }
+    ],
+    "doi": "10.5281/zenodo.3928243",
+    "identifier": "zenodo.3928243",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Electrolyser",
+        "AEMWE",
+        "Anion exchange membrane",
+        "Material development"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "NEwely - Next Generation Alkaline Water Electrolysers with improved Components and Materials - Abstract",
+    "sameAs": [
+        "https://zenodo.org/records/3928244"
+    ],
+    "sdPublisher": [
+        {
+            "name": "newely",
+            "url": "https://zenodo.org/communities/newely"
+        }
+    ],
+    "url": "https://zenodo.org/record/3928243"
+}

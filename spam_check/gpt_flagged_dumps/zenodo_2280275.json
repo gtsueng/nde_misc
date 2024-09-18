@@ -1,0 +1,65 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2280275",
+    "_score": 24.529917,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Minnesota"
+            },
+            "identifier": "0000-0002-7818-671X",
+            "name": "Kumar, Praveen"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-12-14T00:00:00",
+    "description": "Sample PSM input file for metaproteomics galaxy workflow to describe Query Tabular tool",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2283138/files-archive",
+            "dateModified": "2020-01-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/2283682/files-archive",
+            "dateModified": "2020-01-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/2280276/files-archive",
+            "dateModified": "2020-01-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/2530899/files-archive",
+            "dateModified": "2020-01-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/2508401/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.2280275",
+    "identifier": "zenodo.2280275",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Improve your Galaxy text life: The Query Tabular Tool",
+    "sameAs": [
+        "https://zenodo.org/records/2283138",
+        "https://zenodo.org/records/2283682",
+        "https://zenodo.org/records/2280276",
+        "https://zenodo.org/records/2530899",
+        "https://zenodo.org/records/2508401"
+    ],
+    "url": "https://zenodo.org/record/2280275"
+}

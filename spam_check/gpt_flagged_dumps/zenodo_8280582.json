@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8280582",
+    "_score": 24.051388,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Virginia Tech"
+            },
+            "name": "Gustavo Arango"
+        },
+        {
+            "affiliation": {
+                "name": "Virginia Tech"
+            },
+            "name": "Liqing Zhang"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-08-25",
+    "dateModified": "2023-08-25",
+    "datePublished": "2018-06-23T00:00:00",
+    "description": "Database and models for deepARG:\u00a0\n\n\nsee this link for details:\u00a0gusphdproj / deeparg-ss \u2014 Bitbucket",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8280582/files-archive",
+            "dateModified": "2023-08-25"
+        }
+    ],
+    "doi": "10.1186/s40168-018-0401-z",
+    "identifier": "zenodo.8280582",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "deepARG Antibiotic Resistance"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "DeepARG: a deep learning approach for predicting antibiotic resistance genes from metagenomic data",
+    "url": "https://zenodo.org/records/8280582"
+}

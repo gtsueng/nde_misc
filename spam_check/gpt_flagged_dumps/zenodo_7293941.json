@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7293941",
+    "_score": 25.161694,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Los Alamos National Laboratory"
+            },
+            "name": "Shihang Feng"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-11-06",
+    "dateModified": "2022-11-06",
+    "datePublished": "2022-11-05T00:00:00",
+    "description": "OpenFWI Tutorial Pretrained Model and Figure",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7293942/files-archive",
+            "dateModified": "2022-11-06"
+        }
+    ],
+    "doi": "10.5281/zenodo.7293941",
+    "identifier": "zenodo.7293941",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "OpenFWI Tutorial Pretrained Model and Figure",
+    "sameAs": [
+        "https://zenodo.org/records/7293942"
+    ],
+    "url": "https://zenodo.org/record/7293941"
+}

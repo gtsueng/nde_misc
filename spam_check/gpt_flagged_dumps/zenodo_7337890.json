@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7337890",
+    "_score": 24.658068,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Universitas Muhamadiyah Sidoarjo"
+            },
+            "name": "Tresnia Octaviani Sumarsono"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-15",
+    "dateModified": "2024-07-15",
+    "datePublished": "2022-11-19T00:00:00",
+    "description": "Ini merupakan aset dari artikel rivew cyberlaw and online ads",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7337891/files-archive",
+            "dateModified": "2024-07-15"
+        }
+    ],
+    "doi": "10.5281/zenodo.7337890",
+    "identifier": "zenodo.7337890",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "online ads"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Dataset Literatur Riview on Cyberlaw and online ads",
+    "sameAs": [
+        "https://zenodo.org/records/7337891"
+    ],
+    "url": "https://zenodo.org/record/7337890"
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1067696",
+    "_score": 24.780216,
+    "author": [
+        {
+            "affiliation": {
+                "name": "ONERA"
+            },
+            "identifier": "0000-0002-2335-5774",
+            "name": "Xavier Olive"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2017-03-01T00:00:00",
+    "description": "Data collected through the OpenSky network. https://opensky-network.org/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1067697/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.1067696",
+    "identifier": "zenodo.1067696",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "ADS-B and EHS trajectories through Toulouse\u2013Blagnac (LFBO/TLS) airport in February 2017",
+    "sameAs": [
+        "https://zenodo.org/records/1067697"
+    ],
+    "url": "https://zenodo.org/record/1067696"
+}

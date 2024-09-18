@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7257537",
+    "_score": 25.753584,
+    "author": [
+        {
+            "name": "LidongGuo"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-10-29",
+    "dateModified": "2022-10-29",
+    "datePublished": "2022-10-28T00:00:00",
+    "description": "Running data for SymbointScreener",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7257538/files-archive",
+            "dateModified": "2022-10-29"
+        }
+    ],
+    "doi": "10.5281/zenodo.7257537",
+    "identifier": "zenodo.7257537",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Running data for SymbointScreener",
+    "sameAs": [
+        "https://zenodo.org/records/7257538"
+    ],
+    "url": "https://zenodo.org/record/7257537"
+}

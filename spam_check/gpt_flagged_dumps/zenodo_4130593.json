@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4130593",
+    "_score": 25.224653,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Fresno"
+            },
+            "name": "stecker"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-10-26",
+    "dateModified": "2020-10-26",
+    "datePublished": "2020-10-25T00:00:00",
+    "description": "2019 data on AD and diet in the UK with demogrraphics",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4130594/files-archive",
+            "dateModified": "2020-10-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.4130593",
+    "identifier": "zenodo.4130593",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "AD and Diet Data",
+    "sameAs": [
+        "https://zenodo.org/records/4130594"
+    ],
+    "url": "https://zenodo.org/record/4130593"
+}

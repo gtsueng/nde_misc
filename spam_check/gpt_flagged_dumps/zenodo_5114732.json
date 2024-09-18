@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5114732",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 20.08842,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Computational Biology Unit (CBU) and Department of Chemistry, University of Bergen,  N-5020 Bergen, Norway"
+            },
+            "identifier": "0000-0002-5763-6304",
+            "name": "Mathai, Neann"
+        },
+        {
+            "affiliation": {
+                "name": "Center for Bioinformatics (ZBH), Department of Informatics, Universit\u00e4t Hamburg,  20146 Hamburg"
+            },
+            "identifier": "0000-0002-5499-742X",
+            "name": "Stork, Conrad"
+        },
+        {
+            "affiliation": {
+                "name": "Division of Pharmaceutical Chemistry, Department of Pharmaceutical Sciences, University of Vienna,  1090 Vienna, Austria"
+            },
+            "identifier": "0000-0003-2667-5877",
+            "name": "Kirchmair, Johannes"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-01-31",
+    "dateModified": "2024-01-31",
+    "datePublished": "2021-07-19T00:00:00",
+    "description": "BonMOLi\u00e8re is a set of small-sized libraries of readily purchasable compounds, optimized to produce genuine hits in biological screens across the protein space. The corresponding research article has been published in Int. J. Mol. Sci. 2021, 22(15), 7773, DOI: https://doi.org/10.3390/ijms22157773",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5114733/files-archive",
+            "dateModified": "2024-01-31"
+        }
+    ],
+    "doi": "10.5281/zenodo.5114732",
+    "identifier": "zenodo.5114732",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "optimized compound library",
+        "biological screening",
+        "purchasable compounds",
+        "evolutionary optimization",
+        "genetic algorithms",
+        "tool compounds",
+        "novel targets"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "BonMOLi\u00e8re: Small-Sized Libraries of Readily Purchasable Compounds, Optimized to Produce Genuine Hits in Biological Screens across the Protein Space",
+    "sameAs": [
+        "https://zenodo.org/records/5114733"
+    ],
+    "url": "https://zenodo.org/record/5114732"
+}

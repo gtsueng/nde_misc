@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6247763",
+    "_score": 25.68746,
+    "author": [
+        {
+            "name": "Jefferson Antonio Buendia Rodriguez"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-02-24",
+    "dateModified": "2022-02-24",
+    "datePublished": "2022-02-23T00:00:00",
+    "description": "BD HFCN CPAP",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6247764/files-archive",
+            "dateModified": "2022-02-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.6247763",
+    "identifier": "zenodo.6247763",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "BD CPAP HFNC",
+    "sameAs": [
+        "https://zenodo.org/records/6247764"
+    ],
+    "url": "https://zenodo.org/record/6247763"
+}

@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2594104",
+    "_score": 25.417479,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Royal Adelaide Hospital"
+            },
+            "name": "Matthew Jennings"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-03-15T00:00:00",
+    "description": "A water phantom DICOM file",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2594105/files-archive",
+            "dateModified": "2020-01-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/2594436/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.2594104",
+    "identifier": "zenodo.2594104",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://www.gnu.org/licenses/agpl.txt",
+    "name": "DicomCT Water Phantom",
+    "sameAs": [
+        "https://zenodo.org/records/2594105",
+        "https://zenodo.org/records/2594436"
+    ],
+    "sdPublisher": [
+        {
+            "name": "pymedphys",
+            "url": "https://zenodo.org/communities/pymedphys"
+        }
+    ],
+    "url": "https://zenodo.org/record/2594104"
+}

@@ -1,0 +1,61 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1468868",
+    "_score": 22.836363,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Waterloo"
+            },
+            "name": "Mendler, Kerrin"
+        },
+        {
+            "affiliation": {
+                "name": "University of Waterloo"
+            },
+            "name": "Doxey, Andrew"
+        },
+        {
+            "affiliation": {
+                "name": "University of Waterloo"
+            },
+            "name": "Chen, Han"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-10-22T00:00:00",
+    "description": "This file is the MYSQL database for AnnoTree, functionally annotated tree of life.\u00a0\n\n\nIt includes a partial Pfam database (v31.0) and a tree of life database, and GTDB revision 83.\n\n\nPlease refer to http://annotree.uwaterloo.ca for full site.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1468869/files-archive",
+            "dateModified": "2020-01-24"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/2555457/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1468868",
+    "identifier": "zenodo.1468868",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "name": "AnnoTree: Functionally Annotated Tree of Life",
+    "sameAs": [
+        "https://zenodo.org/records/1468869",
+        "https://zenodo.org/records/2555457"
+    ],
+    "url": "https://zenodo.org/record/1468868"
+}

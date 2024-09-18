@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4671109",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 20.08842,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Instituto de F\u00edsica y Astronom\u00eda - Uniiiversidad de Valpara\u00edso"
+            },
+            "identifier": "0000-0003-3057-9677",
+            "name": "M\u00e9ndez-Hern\u00e1ndez, Hugo"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-04-09",
+    "dateModified": "2021-04-09",
+    "datePublished": "2021-04-08T00:00:00",
+    "description": "Dataset to run Example.py script of the Valpara\u00edso Stacking Analysis Tool (VSAT-2D). The Valpara\u00edso Stacking Analysis Tool (VSAT-2D) provides a series of tools for selecting, stacking, and analyzing\u00a0moment-0\u00a0intensity maps from interferometric datasets. It is intended for stacking samples of moment-0 extracted from interferometric datasets,\u00a0belonging to large extragalactic catalogs by selecting subsamples of galaxies defined by their available properties (e.g. redshift, stellar mass, star formation rate) being possible to generate diverse (e.g. median, average, weighted average, histogram) composite spectra. However, it is possible to also use VSAT-2D on smaller datasets containing any type of astronomical object.\n\n\nVSAT-2D can be downloaded from the github repository\u00a0link.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4671110/files-archive",
+            "dateModified": "2021-04-09"
+        }
+    ],
+    "doi": "10.5281/zenodo.4671109",
+    "identifier": "zenodo.4671109",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Astronomy",
+        "Analysis Tools",
+        "2D",
+        "code",
+        "python"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "VSAT-2D Example Dataset",
+    "sameAs": [
+        "https://zenodo.org/records/4671110"
+    ],
+    "url": "https://zenodo.org/record/4671109"
+}

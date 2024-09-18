@@ -1,0 +1,61 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7981074",
+    "_score": 24.6527,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Alberta"
+            },
+            "name": "Matthew Martell"
+        },
+        {
+            "affiliation": {
+                "name": "Haven"
+            },
+            "name": "Nathaniel"
+        },
+        {
+            "affiliation": {
+                "name": "Zemp"
+            },
+            "name": "Roger"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-07-04",
+    "dateModified": "2023-07-04",
+    "datePublished": "2023-05-29T00:00:00",
+    "description": "Pre-trained models and training, test, and validation datasets for CycleGAN-enabled UV-PARS virtual H&E histology.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7981075/files-archive",
+            "dateModified": "2023-07-04"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/8115040/files-archive",
+            "dateModified": "2023-07-05"
+        }
+    ],
+    "doi": "10.5281/zenodo.7981074",
+    "identifier": "zenodo.7981074",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "UV-PARS Virtual Histology",
+    "sameAs": [
+        "https://zenodo.org/records/7981075",
+        "https://zenodo.org/records/8115040"
+    ],
+    "url": "https://zenodo.org/record/7981074"
+}

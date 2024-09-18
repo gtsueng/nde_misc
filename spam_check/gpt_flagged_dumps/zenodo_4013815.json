@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4013815",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.787036,
+    "author": [
+        {
+            "affiliation": {
+                "name": "MLabs Optronics"
+            },
+            "identifier": "0000-0001-5202-4926",
+            "name": "Medina Heierle, Victor"
+        },
+        {
+            "affiliation": {
+                "name": "University of Granada"
+            },
+            "name": "Tejada Casado, Mar\u00eda"
+        },
+        {
+            "affiliation": {
+                "name": "MLabs Optronics"
+            },
+            "name": "Briasco Gonz\u00e1lez, Alberto"
+        },
+        {
+            "affiliation": {
+                "name": "MLabs Optronics"
+            },
+            "name": "Jestes Zoilo, Hugo"
+        },
+        {
+            "affiliation": {
+                "name": "MLabs Optronics"
+            },
+            "name": "Mart\u00edn Tapia, Jes\u00fas"
+        },
+        {
+            "affiliation": {
+                "name": "MLabs Optronics"
+            },
+            "name": "Altamirano Aguilar, Adeodato"
+        },
+        {
+            "affiliation": {
+                "name": "MLabs Optronics"
+            },
+            "name": "Mu\u00f1oz de Luna Clemente, Javier"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-09-04",
+    "dateModified": "2020-09-04",
+    "datePublished": "2019-05-06T00:00:00",
+    "description": "This dataset contains data used in the research published by MLabs Optronics in the paper:\n\n\nMedina Heierle, Victor, Mar\u00eda Tejada Casado, Alberto Briasco Gonz\u00e1lez, Hugo Jestes Zoilo, Jes\u00fas Mart\u00edn Tapia, Adeodato Altamirano Aguilar, and Javier Mu\u00f1oz De Luna Clemente. Evaluation Framework for Multiband Image Enhancement and Blending Algorithms in Enhanced Flight Vision Systems. Proceedings of the 14th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS), pp. 274-280. IEEE, 2018.\n\n\n\nThe dataset is classified into 3 folders:\n\n\n- IR_VIS: Contains 28 pairs of images in the IR (some images may be in the NIR spectrum instead) and Visual spectrum, taken from different public repositories off the internet, which are typically used in multispectral fusion research.\n\u00a0\n- Fusion: Contains 8 sets with the results of applying each of the 4 fusion algorithms described in the paper on some of the images in folder \"IR_VIS\".\n\n\n- VIS haze filtering: Contains 24 images taken with a CCD camera of a contrast target inside a fog simulation cabin in a laboratory. For comparison purposes, all images have been taken with a similar amount of fog, which is as much as was possible while still being able to see the target with the camera through the fog. Each image has been taken with a different type of filter (filter information is provided in another image inside the folder).\n\n\n\u00a0\n\n\nMlabs Optronics\nPTA\nCalle Pierre Laffitte, 8\n29590 M\u00e1laga (Spain)\n\n\nwww.mlabsoptronics.com\ninfo@mlabsoptronics.com",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4013816/files-archive",
+            "dateModified": "2020-09-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.4013815",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "785315",
+            "name": "SEnsorial awareNess System fOR obstacle detectIon And collisioN avoidanCE"
+        }
+    ],
+    "identifier": "zenodo.4013815",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "image enhancement",
+        "multiband sensors",
+        "scattering",
+        "dehazing",
+        "EFVS"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Evaluation Framework for Multiband Image Enhancement and Blending Algorithms in Enhanced Flight Vision Systems - Image Dataset",
+    "sameAs": [
+        "https://zenodo.org/records/4013816"
+    ],
+    "sdPublisher": [
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/4013815"
+}

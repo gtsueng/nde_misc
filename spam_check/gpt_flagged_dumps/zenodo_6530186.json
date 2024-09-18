@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6530186",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.854111,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Javier"
+            },
+            "identifier": "0000-0003-3401-7081",
+            "name": "Pacheco-Labrador"
+        },
+        {
+            "affiliation": {
+                "name": "Maria Pilar"
+            },
+            "identifier": "0000-0001-5887-7890",
+            "name": "Cendrero-Mateo"
+        },
+        {
+            "affiliation": {
+                "name": "Shari Van"
+            },
+            "identifier": "0000-0002-5699-0352",
+            "name": "Wittenberghe"
+        },
+        {
+            "affiliation": {
+                "name": "Gerbrand"
+            },
+            "identifier": "0000-0002-2275-0713",
+            "name": "Koren"
+        },
+        {
+            "affiliation": {
+                "name": "Zbyn\u011bk"
+            },
+            "identifier": "0000-0002-1271-8103",
+            "name": "Malenovsk\u00fd"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-01-22",
+    "dateModified": "2023-01-22",
+    "datePublished": "2022-05-09T00:00:00",
+    "description": "This dataset contains the data additional data provided for the\u00a0SPATIAL SCALING CHALLENGE organized in the framework of the SENSECO COST Action CA17143 \u201cOptical synergies for spatiotemporal SENsing of Scalable ECOphysiological traits\u201d (https://www.senseco.eu/), by the Working Group 1. \u201cClosing the scaling gap: from leaf measurements to satellite images\u201d (https://www.senseco.eu/working-groups/wg1-scaling-gap/).\n\n\n\u00a0\n\n\nThe main dataset, documentation and scripts of the\u00a0SPATIAL SCALING CHALLENGE must be downloaded from: https://doi.org/10.5281/zenodo.6451335\n\n\nThis additional dataset includes half-hourly\u00a0time series of down-welling incoming spectral\u00a0irradiance\u00a0(W m-2 \u00b5m-1) in the visible and near-infrared domains as measured by a field spectroradiometer operating in a nearby ecosystem station. The inclusion of these data in the Spatial Scaling Challenge is at the discretion of the participants.\u00a0\n\n\n\u00a0\n\n\nThe SPATIAL SCALING CHALLENGE aims at gathering the community\u2019s expertise and knowledge to tackle the scaling problems posed by variables of different nature. These experiences will be summarized in a journal article where all the participants are invited to contribute. The exercise is internationally open. Ph.D. students, early career and senior researchers, spin-offs, and companies working in the field of remote sensing of vegetation ecophysiology are welcome to participate.\n\n\n\u00a0\n\n\nSTILL OPEN FOR PARTICIPATION! New deadline\u00a031st\u00a0of October 2022.\n\n\n\u00a0\n\n\nFollow all the communications and updates of the SPATIAL SCALING CHALLENGE\u00a0in the RG site:\u00a0https://www.researchgate.net/project/Spatial-Scaling-Challenge-COST-Action-CA17134-SENSECO-Working-Group-1.\n\n\n\u00a0\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6530187/files-archive",
+            "dateModified": "2023-01-22"
+        }
+    ],
+    "doi": "10.5281/zenodo.6530186",
+    "identifier": "zenodo.6530186",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Spatial Scaling Challenge, Remote sensing, plant physiology, scaling, hyperspectral, fluorescence, thermal, biophysical properties"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Spatial Scaling Challenge - Additional Data. COST Action CA17134 SENSECO. Working Group 1",
+    "sameAs": [
+        "https://zenodo.org/records/6530187"
+    ],
+    "sdPublisher": [
+        {
+            "name": "remote-sensing",
+            "url": "https://zenodo.org/communities/remote-sensing"
+        }
+    ],
+    "url": "https://zenodo.org/record/6530186"
+}

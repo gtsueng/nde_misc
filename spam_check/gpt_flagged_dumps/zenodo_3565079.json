@@ -1,0 +1,76 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3565079",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 11.312565,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Indian Institute of Technology Kharagpur, India"
+            },
+            "name": "Soumyadeep Roy"
+        },
+        {
+            "affiliation": {
+                "name": "Indian Institute of Technology Kharagpur, India"
+            },
+            "name": "Niloy Ganguly"
+        },
+        {
+            "affiliation": {
+                "name": "Indian Institute of Technology Kharagpur, India"
+            },
+            "name": "Shamik Sural"
+        },
+        {
+            "affiliation": {
+                "name": "Adobe Research, Bangalore, India"
+            },
+            "name": "Niyati Chhaya"
+        },
+        {
+            "affiliation": {
+                "name": "Adobe Research, Bangalore, India"
+            },
+            "name": "Anandhavelu Natarajan"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-06-26T00:00:00",
+    "description": "If you want this dataset, kindly fill the \"Request access\" form towards the bottom of this page and also mail at : soumyadeep.roy9@gmail.com.\n\n\nKindly cite the paper :\u00a0https://dl.acm.org/citation.cfm?id=3326048\n\n\nBibTex :\u00a0\n\n\n@inproceedings{Roy:2019:UBC:3292522.3326048,\n author = {Roy, Soumyadeep and Ganguly, Niloy and Sural, Shamik and Chhaya, Niyati and Natarajan, Anandhavelu},\n title = {Understanding Brand Consistency from Web Content},\n booktitle = {Proceedings of the 10th ACM Conference on Web Science},\n series = {WebSci '19},\n year = {2019},\n isbn = {978-1-4503-6202-3},\n location = {Boston, Massachusetts, USA},\n pages = {245--253},\n numpages = {9},\n url = {http://doi.acm.org/10.1145/3292522.3326048},\n doi = {10.1145/3292522.3326048},\n acmid = {3326048},\n publisher = {ACM},\n address = {New York, NY, USA},\n keywords = {affective computing, brand personality, reputation management, text classification},\n} \n\n\nAbstract :\n\n\nBrands produce content to engage with the audience continually and tend to maintain a set of human characteristics in their marketing campaigns. In this era of digital marketing, they need to create a lot of content to keep up the engagement with their audiences. However, such kind of content authoring at scale introduces challenges in maintaining consistency in a brand's messaging tone, which is very important from a brand's perspective to ensure a persistent impression for its customers and audiences. In this work, we quantify brand personality and formulate its linguistic features. We score text articles extracted from brand communications on five personality dimensions: sincerity, excitement, competence, ruggedness and sophistication, and show that a linear SVM model achieves a decent F1 score of $0.822$. The linear SVM allows us to annotate a large set of data points free of any annotation error. We utilize this huge annotated dataset to characterize the notion of brand consistency, which is maintaining a company's targeted brand personality across time and over different content categories; we make certain interesting observations. As per our knowledge, this is the first study which investigates brand personality from the company's official websites, and that formulates and analyzes the notion of brand consistency on such a large scale.\n\n\nDataset description:\nEach file contain the scrapped textual content from the official webpages of Fortune 1000 companies. We use the 2017 Fortune 1000 list ranks. Please read the paper for details about data collection and cleaning\n\n\nDirectory structure : compressed size - 3.7 GB, uncompressed size -\u00a028.9 GB\n\n\n\u251c\u2500\u2500 Cleaned MTlarge data\n\u2502\u00a0\u00a0 \u251c\u2500\u2500 final_dynamic_data.csv (1.0 GB) : Dynamic pages per company\n\u2502\u00a0\u00a0 \u2514\u2500\u2500 final_static_data.csv (3.8 MB) : Static pages for each company\n\u2514\u2500\u2500 Raw Scrapped Data (27.8 GB)\n    \u251c\u2500\u2500 first50fortune.csv : contains raw scrapped files for Fortune 1000 companies between the rank 1 and 50\n    \u251c\u2500\u2500 fortune150_300.csv : Between Rank 150 and 300\n    \u251c\u2500\u2500 fortune300_500.csv : Between Rank 300 to 500\n    \u251c\u2500\u2500 fortune500_550.csv : Between Rank 500 and 550\n    \u251c\u2500\u2500 fortune50_150.csv : Between Rank 50 and 150\n    \u251c\u2500\u2500 fortune550_800.csv : Between Rank 550 and 800\n    \u2514\u2500\u2500 fortune800_1000.csv : Between Rank 800 and 1000\n\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3565079/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.1145/3292522.3326048",
+    "identifier": "zenodo.3565079",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "brand personality",
+        "reputation management",
+        "affective computing",
+        "text classification"
+    ],
+    "name": "Understanding Brand Consistency from Web Content",
+    "url": "https://zenodo.org/records/3565079"
+}

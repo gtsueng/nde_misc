@@ -1,0 +1,59 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4444750",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 17.58893,
+    "author": [
+        {
+            "affiliation": {
+                "name": "China University of Petroleum (East China)"
+            },
+            "identifier": "0000-0001-9206-7760",
+            "name": "Hao Ren"
+        },
+        {
+            "affiliation": {
+                "name": "China University of Petroleum (East China)"
+            },
+            "name": "Qian Zhang"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-01-17",
+    "dateModified": "2021-01-17",
+    "datePublished": "2021-01-16T00:00:00",
+    "description": "Simulation data and code of ML protocol for 2DUV spectra of proteins.\n\n\nAny researchers who interested in protein spectroscopy can use our ML protocol online service:\u00a0http://www.dcaiku.com:13000\n\n\nFor the machine learning protocol source code written\u00a0in\u00a0Python\u00a0and Bash\u00a0language which including:\n\n\n\n\t\n2duv_simulation folder\n\t\n\n\t\t\n2DUV folder\n\t\t\n\n\t\t\t\n0_parse_traj.py:\u00a0Parse the MD trajectory in pdb format.\n\t\t\t\n1_bench_genH.sh: PBS script for generating the excition Hamiltonian,and E/M dipoles.\n\t\t\t\n1_cal_Hamil.py:\u00a0 Python script for submitting a large number of PBS script at once.\n\t\t\t\n2_extract_struc.py:\u00a0 Extract\u00a0 mode information\u00a0of secondary structure segments\u00a0from pdb file.\n\t\t\t\n3_extract_Hamil.py: Extract Hamiltonian, E/M dipoles information of\u00a0secondary structure segments.\n\t\t\t\n4_cal_spectra.py: Python script for calculate the 2DUV spectra.\n\t\t\t\n4_run_calspectra.py:\u00a0 Python script for submitting a large number of PBS script\u00a0 for calculating 2DUV spectra at once.\n\t\t\t\n4_sub_calspectra.pbs:\u00a0PBS script for runing python script of calculating 2DUV spectra.\n\t\t\t\ninputs folder: Spectron main input files.\n\t\t\n\t\t\n\t\t\nGramacsFile: Gromacs main input files.\n\t\n\t\n\t\nweb-api folder: Source code of\u00a0\u00a0our ML protocol online service.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4444751/files-archive",
+            "dateModified": "2021-01-17"
+        }
+    ],
+    "doi": "10.5281/zenodo.4444750",
+    "identifier": "zenodo.4444750",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "machine learning",
+        "2DUV",
+        "proteins"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "2DUV Machine Learning Protocol Code",
+    "sameAs": [
+        "https://zenodo.org/records/4444751"
+    ],
+    "url": "https://zenodo.org/record/4444750"
+}

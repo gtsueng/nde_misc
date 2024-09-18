@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4679924",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.831322,
+    "author": [
+        {
+            "name": "Alejandro Hern\u00e1ndez Naranjo"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-04-12",
+    "dateModified": "2021-04-12",
+    "datePublished": "2021-04-12T00:00:00",
+    "description": "El dataset contiene la informaci\u00f3n b\u00e1sica de los anuncios publicados en el portal Fotocasa.es para el territorio de la isla de Gran Canaria. Esta informaci\u00f3n es la que aparece en las \u201ctarjetas\u201d de cada anuncio en el listado de anuncios que vemos despu\u00e9s de seleccionar la regi\u00f3n.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4679925/files-archive",
+            "dateModified": "2021-04-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.4679924",
+    "identifier": "zenodo.4679924",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Conjunto de anuncios de viviendas publicados en Gran Canaria Abril 2021",
+    "sameAs": [
+        "https://zenodo.org/records/4679925"
+    ],
+    "url": "https://zenodo.org/record/4679924"
+}

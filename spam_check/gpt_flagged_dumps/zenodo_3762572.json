@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3762572",
+    "_score": 25.955711,
+    "author": [
+        {
+            "name": "Antonio Luque"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-04-23",
+    "dateModified": "2020-04-23",
+    "datePublished": "2020-04-22T00:00:00",
+    "description": "HILOFIT Database",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3762573/files-archive",
+            "dateModified": "2020-04-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.3762572",
+    "identifier": "zenodo.3762572",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "HILOFIT Database",
+    "sameAs": [
+        "https://zenodo.org/records/3762573"
+    ],
+    "url": "https://zenodo.org/record/3762572"
+}

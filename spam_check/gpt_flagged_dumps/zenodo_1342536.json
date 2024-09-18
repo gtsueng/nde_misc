@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1342536",
+    "_score": 24.47463,
+    "author": [
+        {
+            "affiliation": {
+                "name": "i3mainz - Institut f\u00fcr Raumbezogene Informations-und Messtechnik"
+            },
+            "identifier": "0000-0002-3246-3531",
+            "name": "Florian Thiery"
+        },
+        {
+            "affiliation": {
+                "name": "i3mainz - Institut f\u00fcr Raumbezogene Informations-und Messtechnik"
+            },
+            "name": "Martin Unold"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2018-01-19T00:00:00",
+    "description": "Academic Meta Tool - Ontology",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1402373/files-archive",
+            "dateModified": "2020-01-21"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/1342537/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.1342536",
+    "identifier": "zenodo.1342536",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Academic Meta Tool - Ontology",
+    "sameAs": [
+        "https://zenodo.org/records/1402373",
+        "https://zenodo.org/records/1342537"
+    ],
+    "url": "https://zenodo.org/record/1342536"
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4925207",
+    "_score": 25.754812,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Ing"
+            },
+            "name": "Jose, Julio, Francisco"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-06-11",
+    "dateModified": "2021-06-11",
+    "datePublished": "2021-06-11T00:00:00",
+    "description": "Frutas segmentadas",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4925208/files-archive",
+            "dateModified": "2021-06-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.4925207",
+    "identifier": "zenodo.4925207",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Frutas, segmentacion"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Frutas",
+    "sameAs": [
+        "https://zenodo.org/records/4925208"
+    ],
+    "url": "https://zenodo.org/record/4925207"
+}

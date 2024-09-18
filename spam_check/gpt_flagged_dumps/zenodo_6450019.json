@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6450019",
+    "_score": 25.028944,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Joshua Prior"
+            },
+            "name": "Joshua Prior"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-04-12",
+    "dateModified": "2022-04-12",
+    "datePublished": "2022-04-11T00:00:00",
+    "description": "Descarga inicial de CMC para la posterior creaci\u00f3n de un dataset mayor.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6450020/files-archive",
+            "dateModified": "2022-04-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.6450019",
+    "identifier": "zenodo.6450019",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/1.0/legalcode",
+    "name": "Descarga CMC Mejores ganancias",
+    "sameAs": [
+        "https://zenodo.org/records/6450020"
+    ],
+    "url": "https://zenodo.org/record/6450019"
+}

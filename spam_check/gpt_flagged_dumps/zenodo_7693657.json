@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7693657",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.838821,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Rutgers, The State University of New Jersey"
+            },
+            "name": "Yang Wang"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-12",
+    "dateModified": "2024-07-12",
+    "datePublished": "2023-03-02T00:00:00",
+    "description": "The dataset includes the setup code and input files for simulations of internal tide-eddy interactions using MITgcm. Due to the large size of the model output data, it is not included but can be made available upon request at yangwangow@gmail.com. If you have any questions about using or testing these files, please feel free to reach out. Cheers!\n\n\n\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7693658/files-archive",
+            "dateModified": "2024-07-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.7693657",
+    "identifier": "zenodo.7693657",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "MITgcm, internal tide-eddy simulation"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Model setup code and input for internal tide-eddy simulation",
+    "sameAs": [
+        "https://zenodo.org/records/7693658"
+    ],
+    "url": "https://zenodo.org/record/7693657"
+}

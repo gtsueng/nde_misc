@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1310015",
+    "_score": 23.043364,
+    "author": [
+        {
+            "affiliation": {
+                "name": "State University of Maring\u00e1"
+            },
+            "name": "Giovanna Bettin"
+        },
+        {
+            "affiliation": {
+                "name": "State University of Maring\u00e1"
+            },
+            "name": "Ricardo Theis Geraldi"
+        },
+        {
+            "affiliation": {
+                "name": "State University of Maring\u00e1"
+            },
+            "identifier": "0000-0002-4760-1626",
+            "name": "Edson OliveiraJr"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-07-11T00:00:00",
+    "description": "Pacote Experimental - SMartyCheck vs. Ad Hoc - Diagrama de Componentes",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1310016/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1310015",
+    "identifier": "zenodo.1310015",
+    "inLanguage": {
+        "name": "por"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Diagrama de Componentes",
+        "Inspe\u00e7\u00e3o de Software",
+        "Linha de Produto de Software",
+        "SMarty",
+        "SMartyCheck",
+        "UML"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Pacote Experimental - SMartyCheck vs. Ad Hoc - Diagrama de Componentes",
+    "sameAs": [
+        "https://zenodo.org/records/1310016"
+    ],
+    "url": "https://zenodo.org/record/1310015"
+}

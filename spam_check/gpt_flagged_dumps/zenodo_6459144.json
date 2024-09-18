@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6459144",
+    "_score": 25.09283,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Student"
+            },
+            "name": "David Peterson"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-04-14",
+    "dateModified": "2022-04-14",
+    "datePublished": "2022-04-13T00:00:00",
+    "description": "Trained YOLOv3 Model Weights for License Plate Detection",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6459145/files-archive",
+            "dateModified": "2022-04-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.6459144",
+    "identifier": "zenodo.6459144",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Trained YOLOv3 Model Weights for License Plate Detection",
+    "sameAs": [
+        "https://zenodo.org/records/6459145"
+    ],
+    "url": "https://zenodo.org/record/6459144"
+}

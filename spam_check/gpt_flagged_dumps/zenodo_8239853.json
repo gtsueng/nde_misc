@@ -1,0 +1,60 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8239853",
+    "_score": 24.714579,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Massachusetts Institute of Technology"
+            },
+            "identifier": "0000-0002-0657-9426",
+            "name": "Burns, Jackson"
+        },
+        {
+            "affiliation": {
+                "name": "Oak Ridge National Laboratory"
+            },
+            "identifier": "0000-0002-5187-1768",
+            "name": "Rogers, David"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-10-04",
+    "dateModified": "2023-10-04",
+    "datePublished": "2023-08-11T00:00:00",
+    "description": "Quantum-Mechanical Properties for 3.5k Olfactory Molecules",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8239854/files-archive",
+            "dateModified": "2023-10-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.8239853",
+    "identifier": "zenodo.8239853",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "quantum chemistry",
+        "olfaction",
+        "dataset"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "QuantumScents",
+    "sameAs": [
+        "https://zenodo.org/records/8239854"
+    ],
+    "url": "https://zenodo.org/record/8239853"
+}

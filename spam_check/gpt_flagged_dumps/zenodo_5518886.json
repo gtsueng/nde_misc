@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5518886",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 19.766926,
+    "author": [
+        {
+            "affiliation": {
+                "name": "+917995158734"
+            },
+            "identifier": "0000-0002-8747-0667",
+            "name": "Praharshit Sharma"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-09-21",
+    "dateModified": "2021-09-21",
+    "datePublished": "2021-09-21T00:00:00",
+    "description": "P - {Pro} - Proline\u00a020-mer Basis LCR/ CBZ: Low Complexity Regions (or) Compositionally Biased Zones in Proteins.\n\n\nhttps://prosite.expasy.org/scanprosite/\n\n\nOption 2 - Submit MOTIFS to scan them against a PROTEIN sequence database.\n\n\nSTEP 1 - Enter a MOTIF or a combination of MOTIFS\n\n\nP(20)\n\n\nSTEP2 - Select a PROTEIN sequence database\n\nUniProtKB: \n\u00a0 \u00a0 \u00a0 Swiss-Prot + Include isoforms\n\u00a0 \u00a0 \u00a0 + TrEMBL (Also).\n\n\nSTEP 3 - Select output options and submit your job\n\nOutput format: Simple View\nMaximum number of displayed matches: 10,000\n\n\n--> START THE SCAN\n\n\nhttps://prosite.expasy.org/cgi-bin/prosite/PSScan.cgi",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5518887/files-archive",
+            "dateModified": "2021-09-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.5518886",
+    "identifier": "zenodo.5518886",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "HyperProteoGenome",
+        "20 Extremely LCRs",
+        "DP for Epitope mapping"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "P - {Pro} - Proline 20-mer Basis LCR/ CBZ: Low Complexity Regions (or) Compositionally Biased Zones in Real Protein Sequences",
+    "sameAs": [
+        "https://zenodo.org/records/5518887"
+    ],
+    "url": "https://zenodo.org/record/5518886"
+}

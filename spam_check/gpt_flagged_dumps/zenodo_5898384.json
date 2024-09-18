@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5898384",
+    "_score": 25.616545,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UC"
+            },
+            "name": "Miguel"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-01-25",
+    "dateModified": "2022-01-25",
+    "datePublished": "2022-01-24T00:00:00",
+    "description": "Dataset de testosterona de prueba para DLC.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5898385/files-archive",
+            "dateModified": "2022-01-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.5898384",
+    "identifier": "zenodo.5898384",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "TestosteronaMarcosCruz",
+    "sameAs": [
+        "https://zenodo.org/records/5898385"
+    ],
+    "sdPublisher": [
+        {
+            "name": "comunidadpracticadlc",
+            "url": "https://zenodo.org/communities/comunidadpracticadlc"
+        }
+    ],
+    "url": "https://zenodo.org/record/5898384"
+}

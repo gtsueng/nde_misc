@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6324274",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 16.669914,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UNIS, UiO, NCCS"
+            },
+            "identifier": "0000-0002-6017-9415",
+            "name": "Betlem, Peter"
+        },
+        {
+            "affiliation": {
+                "name": "UNIS, UiO, ARCEx"
+            },
+            "identifier": "0000-0002-2252-4687",
+            "name": "Birchall, Thomas"
+        },
+        {
+            "affiliation": {
+                "name": "Svalbox"
+            },
+            "name": "Svalbox Team"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-17",
+    "dateModified": "2024-07-17",
+    "datePublished": "2022-03-20T00:00:00",
+    "description": "Model description: Outcrop model of the faulted caprock shales of the Janusfjellet Subgroup in Criocerasdalen. The faulted, mudstone-dominated sequences form the caprock to the proposed Longyearbyen CO2 Lab reservoir. Obs: Images contain anomalous GPS/geospatial coordinates, with the resulting model being wrongly oriented.Data availability:All uploaded archives are to be extracted to the same directory for a functional working environment, i.e., at the very least consisting of a project folder with the data and metashape subdirectories. The included processing report specifies the processing parameters that were used as input for the processing software (Agisoft Metashape, v1.7.2.12040).Exported model data use CRS epsg:32633.Show and visualise on Svalbox.no:Through Svalbox we aim to take geoscientific research and education to the next level \u2013 with the simple motto of placing all key information and data sets in their correct spatial position. We bring modern technology, in particular cost-effective digital outcrops, to complement more than 200 years of geoscientific research on Svalbard. Finally, Svalbox provides a sustainable platform for sharing results, workflows and teaching material with the wider geoscientific community.For more information, contact the Svalbox team at svalbox[at]gmail.com.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6324275/files-archive",
+            "dateModified": "2024-07-17"
+        }
+    ],
+    "doi": "10.5281/zenodo.6324274",
+    "identifier": "zenodo.6324274",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "digital outcrop models",
+        "outcrop",
+        "Svalbard",
+        "Arctic",
+        "High Arctic",
+        "Svalbox",
+        "digital outcrop",
+        "virtual geology",
+        "digital geology",
+        "virtual outcrop",
+        "Agardfjellet Formation",
+        "fault",
+        "caprock",
+        "shale",
+        "mudstone"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "name": "Svalbox-DOM_2019-0019_Criocerasdalen",
+    "sameAs": [
+        "https://zenodo.org/records/6324275"
+    ],
+    "sdPublisher": [
+        {
+            "name": "svalbox",
+            "url": "https://zenodo.org/communities/svalbox"
+        }
+    ],
+    "url": "https://zenodo.org/record/6324274"
+}

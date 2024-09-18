@@ -1,0 +1,195 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4650904",
+    "_score": 18.089828,
+    "author": [
+        {
+            "affiliation": {
+                "name": "STEER Centre, Department of Geography, Loughborough University"
+            },
+            "identifier": "0000-0003-1801-899X",
+            "name": "Allington, Lucy"
+        },
+        {
+            "affiliation": {
+                "name": "STEER Centre, Department of Geography, Loughborough University"
+            },
+            "identifier": "0000-0002-1214-8913",
+            "name": "Cannone, Carla"
+        },
+        {
+            "affiliation": {
+                "name": "KTH Royal Institute of Technology"
+            },
+            "identifier": "0000-0001-7537-5470",
+            "name": "Pappis, Ioannis"
+        },
+        {
+            "affiliation": {
+                "name": "University of Cambridge"
+            },
+            "identifier": "0000-0001-9185-3022",
+            "name": "Cervantes Barron, Karla"
+        },
+        {
+            "affiliation": {
+                "name": "KTH Royal Institute of Technology"
+            },
+            "identifier": "0000-0001-9367-1791",
+            "name": "Usher, Will"
+        },
+        {
+            "affiliation": {
+                "name": "University College London"
+            },
+            "identifier": "0000-0003-1793-2552",
+            "name": "Pye, Steve"
+        },
+        {
+            "affiliation": {
+                "name": "STEER Centre, Department of Geography, Loughborough University; Imperial College London"
+            },
+            "identifier": "0000-0001-6419-4957",
+            "name": "Howells, Mark"
+        },
+        {
+            "affiliation": {
+                "name": "KTH Royal Institute of Technology; Cyprus Institute, Nicosia"
+            },
+            "identifier": "0000-0003-4022-5506",
+            "name": "Taliotis, Constantinos"
+        },
+        {
+            "affiliation": {
+                "name": "KTH Royal Institute of Technology"
+            },
+            "name": "Sundin, Caroline"
+        },
+        {
+            "affiliation": {
+                "name": "KTH Royal Institute of Technology"
+            },
+            "identifier": "0000-0003-0764-2615",
+            "name": "Sridharan, Vignesh"
+        },
+        {
+            "affiliation": {
+                "name": "KTH Royal Institute of Technology"
+            },
+            "identifier": "0000-0001-9061-8485",
+            "name": "Ramos, Eunice"
+        },
+        {
+            "affiliation": {
+                "name": "University College Cork"
+            },
+            "identifier": "0000-0002-8980-9062",
+            "name": "Brinkerink, Maarten"
+        },
+        {
+            "affiliation": {
+                "name": "University College Cork"
+            },
+            "identifier": "0000-0002-4681-7791",
+            "name": "Deane, Paul"
+        },
+        {
+            "affiliation": {
+                "name": "International Atomic Energy Agency"
+            },
+            "name": "Gritsevskyi, Andrii"
+        },
+        {
+            "affiliation": {
+                "name": "Federal University of Ouro Preto"
+            },
+            "name": "Moura, Gustavo"
+        },
+        {
+            "affiliation": {
+                "name": "International Energy Agency"
+            },
+            "name": "Rouget, Arnaud"
+        },
+        {
+            "affiliation": {
+                "name": "Asia Pacific Energy Research Centre"
+            },
+            "name": "Wogan, David"
+        },
+        {
+            "affiliation": {
+                "name": "Asia Pacific Energy Research Centre"
+            },
+            "name": "Barcelona, Edito"
+        },
+        {
+            "affiliation": {
+                "name": "KTH Royal Institute of Technology"
+            },
+            "identifier": "0000-0002-1045-9830",
+            "name": "Rogner, Holger"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-01-16",
+    "dateModified": "2023-01-16",
+    "datePublished": "2023-01-16T00:00:00",
+    "description": "A starter data kit for Equatorial Guinea",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7526342/files-archive",
+            "dateModified": "2023-01-16"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4650905/files-archive",
+            "dateModified": "2023-01-15"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4756751/files-archive",
+            "dateModified": "2023-01-15"
+        }
+    ],
+    "doi": "10.5281/zenodo.4650904",
+    "identifier": "zenodo.4650904",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "energy",
+        "OSeMOSYS",
+        "#CCG",
+        "clicSAND",
+        "energy system modelling",
+        "GNUMathProg",
+        "GLPK",
+        "linear programming",
+        "Equatorial Guinea"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "CCG Starter Data Kit: Equatorial Guinea",
+    "sameAs": [
+        "https://zenodo.org/records/7526342",
+        "https://zenodo.org/records/4650905",
+        "https://zenodo.org/records/4756751"
+    ],
+    "sdPublisher": [
+        {
+            "name": "ccg",
+            "url": "https://zenodo.org/communities/ccg"
+        }
+    ],
+    "url": "https://zenodo.org/record/4650904"
+}

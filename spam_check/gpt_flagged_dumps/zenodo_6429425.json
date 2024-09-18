@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6429425",
+    "_score": 24.9654,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Data Science Masters Student in UOC (Universitat Oberta de Catalunya)"
+            },
+            "name": "Marcos Caballero"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-04-10",
+    "dateModified": "2022-04-10",
+    "datePublished": "2022-04-09T00:00:00",
+    "description": "Refer to\u00a0https://github.com/mcaballero99/wine_crawler/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6429426/files-archive",
+            "dateModified": "2022-04-10"
+        }
+    ],
+    "doi": "10.5281/zenodo.6429425",
+    "identifier": "zenodo.6429425",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Wine Crawler Datasets",
+    "sameAs": [
+        "https://zenodo.org/records/6429426"
+    ],
+    "url": "https://zenodo.org/record/6429425"
+}

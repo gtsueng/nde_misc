@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7947017",
+    "_score": 25.549824,
+    "author": [
+        {
+            "name": "BENKHADDA Mohamed Yassine"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-05-31",
+    "dateModified": "2023-05-31",
+    "datePublished": "2023-03-15T00:00:00",
+    "description": "Audios in Moroccan dialect",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7947018/files-archive",
+            "dateModified": "2023-05-31"
+        }
+    ],
+    "doi": "10.5281/zenodo.7947017",
+    "identifier": "zenodo.7947017",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Data Darija Audios - MY",
+    "sameAs": [
+        "https://zenodo.org/records/7947018"
+    ],
+    "url": "https://zenodo.org/record/7947017"
+}

@@ -1,0 +1,57 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6340414",
+    "_score": 22.22468,
+    "author": [
+        {
+            "affiliation": {
+                "name": "CSIRO"
+            },
+            "identifier": "0000-0001-5429-0515",
+            "name": "Inkyu Sa"
+        },
+        {
+            "affiliation": {
+                "name": "CARES, Department of Electrical, Computer and Software Engineering, University of Auckland"
+            },
+            "name": "Jong Yoon Lim"
+        },
+        {
+            "affiliation": {
+                "name": "CARES, Department of Electrical, Computer and Software Engineering, University of Auckland"
+            },
+            "name": "Ho Seok Ahn"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-03-10",
+    "dateModified": "2022-03-10",
+    "datePublished": "2022-03-09T00:00:00",
+    "description": "This dataset contains\u00a0capsicum\u00a0NIR+RGB dataset used in our paper; deepNIR: Dataset for generating synthetic NIR images and improved fruit detection system using deep learning techniques.\n\n\nPlease refer to\u00a0http://tiny.one/deepNIR\u00a0for more detail.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6340415/files-archive",
+            "dateModified": "2022-03-10"
+        }
+    ],
+    "doi": "10.5281/zenodo.6340414",
+    "identifier": "zenodo.6340414",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "(capsicum) deepNIR: Dataset for generating synthetic NIR images",
+    "sameAs": [
+        "https://zenodo.org/records/6340415"
+    ],
+    "url": "https://zenodo.org/record/6340414"
+}

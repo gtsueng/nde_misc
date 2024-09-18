@@ -1,0 +1,57 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5771131",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 17.581238,
+    "author": [
+        {
+            "name": "First Street Foundation"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-06-17",
+    "dateModified": "2024-06-17",
+    "datePublished": "2021-10-11T00:00:00",
+    "description": "Up to 15 different hazard layers are available, representing 3 different time periods (2021, 2036, 2051) and 4-5 different return periods from the 2-year (coastal only) to the 500-year intervals.\n\n\nData is delivered in GeoTIFF format and at a 3 meter resolution with each pixel representing depth of flooding in centimeters. This high resolution dataset allows you to visualize flood extents at multiple return periods both today and in the future.\n\n\nThe hazard inundation layers are emailed through a clickable link that automatically starts the download of the datasets. The Version 1.3\u00a0hazards are available for the contiguous United States.\n\n\nYou can download a sample of the hazard layers generated from First Street's Flood Model on this page. You can request access to the hazard layers for areas within the contiguous United States on the First Street website here. You can find the data dictionary which breaks down the data that is available with each hazard layer purchase here. If you are also interested in the flood risk statistics, you can find more information here.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5771132/files-archive",
+            "dateModified": "2024-06-17"
+        }
+    ],
+    "doi": "10.5281/zenodo.5771131",
+    "identifier": "zenodo.5771131",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Flood",
+        "Risk",
+        "Climate Risk",
+        "Climate Change",
+        "Flood Risk"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "First Street Foundation Flood Model Hazard Layers V1.3",
+    "sameAs": [
+        "https://zenodo.org/records/5771132"
+    ],
+    "sdPublisher": [
+        {
+            "name": "first_street",
+            "url": "https://zenodo.org/communities/first_street"
+        }
+    ],
+    "url": "https://zenodo.org/record/5771131"
+}

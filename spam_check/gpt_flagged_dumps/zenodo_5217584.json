@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5217584",
+    "_score": 25.754812,
+    "author": [
+        {
+            "name": "Pirro, S"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-08-19",
+    "dateModified": "2021-08-19",
+    "datePublished": "2021-08-18T00:00:00",
+    "description": ".",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5217585/files-archive",
+            "dateModified": "2021-08-19"
+        }
+    ],
+    "doi": "10.5281/zenodo.5217584",
+    "identifier": "zenodo.5217584",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Brustiarius proximus RB0375 NOVOGENE SPAdes preassembly",
+    "sameAs": [
+        "https://zenodo.org/records/5217585"
+    ],
+    "url": "https://zenodo.org/record/5217584"
+}

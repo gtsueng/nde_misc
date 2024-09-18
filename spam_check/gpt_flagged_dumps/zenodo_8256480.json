@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8256480",
+    "_score": 24.055458,
+    "author": [
+        {
+            "affiliation": {
+                "name": "shandong university"
+            },
+            "identifier": "0000-0003-4023-0719",
+            "name": "junhai qi"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-08-20",
+    "dateModified": "2023-08-20",
+    "datePublished": "2023-08-17T00:00:00",
+    "description": "These datasets are used to evaluate our hybrid clustering algorithm. For details of our algorithm, please refer to https://github.com/junhaiqi/Hybrid_clustering.git.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8256481/files-archive",
+            "dateModified": "2023-08-20"
+        }
+    ],
+    "doi": "10.5281/zenodo.8256480",
+    "identifier": "zenodo.8256480",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Datasets S1 ~ S6 for evaluating hybrid clustering algorithm",
+    "sameAs": [
+        "https://zenodo.org/records/8256481"
+    ],
+    "url": "https://zenodo.org/record/8256480"
+}

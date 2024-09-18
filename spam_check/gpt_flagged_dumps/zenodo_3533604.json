@@ -1,0 +1,66 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3533604",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 17.124714,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Heidelberg University"
+            },
+            "identifier": "0000-0002-7808-4254",
+            "name": "van Oosten, Luuk N."
+        },
+        {
+            "affiliation": {
+                "name": "Heidelberg University"
+            },
+            "identifier": "0000-0003-3522-9182",
+            "name": "Klein, Christian D."
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-03-24",
+    "dateModified": "2020-03-24",
+    "datePublished": "2020-03-19T00:00:00",
+    "description": "Dataset relating to the publication:\n\n\nMachine learning in mass spectrometry: A MALDI-TOF MS approach to phenotypic antibacterial screening\n\n\nby Luuk Nico van Oosten and Christian D. Klein\n\n\nPublished in the Journal of Medicinal Chemistry, 2020\n\n\nImportant notice:\n\n\nThe data are free to use for non-commercial, academic purposes, provided that the original source is\ncited and the authors and the publication are credited in any derivative work.\n\n\nA patent application has been filed for the method described by van Oosten and Klein, which uses mass\nspectrometry and machine learning to identify the pharmacological or other effects of compounds on cell\ncultures and other biological systems.\n\n\nTherefore, a license for the commercial use of the method must be negotiated by contacting either\n\n\nAnke Faller\nUniversit\u00e4t Heidelberg\nDezernat Forschung\nRechts- und Strukturfragen der Forschungsf\u00f6rderung\nSeminarstra\u00dfe 2, 69117 Heidelberg\nTel. +49 6221 54-12611\nanke.faller(at)zuv.uni-heidelberg.de\n\n\nor\n\n\nProf. Dr. C. Klein; c.klein(at)uni-heidelberg.de\nMedicinal Chemistry\nInstitute of Pharmacy and Molecular Biotechnology IPMB\nHeidelberg University, INF 364\nD-69120 Heidelberg\nGermany\nPhone: ++49-6221-54-4875\nFAX\u00a0 : ++49-6221-54-6430\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3533605/files-archive",
+            "dateModified": "2020-03-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3533604",
+    "identifier": "zenodo.3533604",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Medicinal Chemistry",
+        "Drug Discovery",
+        "Machine Learning",
+        "Antibiotics",
+        "Mechanism of Action",
+        "Phenotypic Screening",
+        "Mass Spectrometry",
+        "MALDI-TOF",
+        "Bacteria"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Machine learning in mass spectrometry: A MALDI-TOF MS approach to phenotypic antibacterial screening",
+    "sameAs": [
+        "https://zenodo.org/records/3533605"
+    ],
+    "url": "https://zenodo.org/record/3533604"
+}

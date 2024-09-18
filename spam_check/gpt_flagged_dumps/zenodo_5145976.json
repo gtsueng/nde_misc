@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5145976",
+    "_score": 25.620478,
+    "author": [
+        {
+            "affiliation": {
+                "name": "TU Darmstadt"
+            },
+            "name": "Muhammad Hassan Asghar"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-07-30",
+    "dateModified": "2021-07-30",
+    "datePublished": "2021-07-29T00:00:00",
+    "description": "https://git.rwth-aachen.de/hassan.asghar/k71_coop.git",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5145977/files-archive",
+            "dateModified": "2021-07-30"
+        }
+    ],
+    "doi": "10.5281/zenodo.5145976",
+    "identifier": "zenodo.5145976",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "10x7x5xY",
+    "sameAs": [
+        "https://zenodo.org/records/5145977"
+    ],
+    "url": "https://zenodo.org/record/5145976"
+}

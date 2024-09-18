@@ -1,0 +1,59 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1418887",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.62336,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Technische Hochschule Mittelhessen"
+            },
+            "name": "Michael Menzel"
+        },
+        {
+            "affiliation": {
+                "name": "Technische Hochschule Mittelhessen"
+            },
+            "name": "Stefan Glasenhardt"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2018-09-14T00:00:00",
+    "description": "Tar-archive includes the following data:\n\n\n\n\t\nSqlite3-database needed for Enhort\n\t\nAll bed-Files referenced by database\n\n\n\nThese files are only needed when you want to host your own Enhort-Server. If you only want to use the software, please visit https://enhort.mni.thm.de.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1418888/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.1418887",
+    "identifier": "zenodo.1418887",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Enhort",
+        "genomic positions"
+    ],
+    "name": "Dataset for Enhort: A Platform for Deep Analysis of Genomic Positions",
+    "sameAs": [
+        "https://zenodo.org/records/1418888"
+    ],
+    "url": "https://zenodo.org/record/1418887"
+}

@@ -1,0 +1,68 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6084581",
+    "_score": 23.487103,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Washington"
+            },
+            "name": "Iqbal, Umar"
+        },
+        {
+            "affiliation": {
+                "name": "University of Iowa"
+            },
+            "name": "Wolfe, Charlie"
+        },
+        {
+            "affiliation": {
+                "name": "University of California-Davis"
+            },
+            "name": "Nguyen, Charles"
+        },
+        {
+            "affiliation": {
+                "name": "DuckDuckGo"
+            },
+            "name": "Englehardt, Steven"
+        },
+        {
+            "affiliation": {
+                "name": "University of California-Davis"
+            },
+            "name": "Shafiq, Zubair"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-03-02",
+    "dateModified": "2022-03-02",
+    "datePublished": "2022-03-01T00:00:00",
+    "description": "Dataset release for\u00a0USENIX Security Symposium (USENIX)\u00a02022 paper entitled Khaleesi: Breaker of Advertising and Tracking Request Chains",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6084582/files-archive",
+            "dateModified": "2022-03-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.6084581",
+    "identifier": "zenodo.6084581",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Khaleesi: Breaker of Advertising and Tracking Request Chains",
+    "sameAs": [
+        "https://zenodo.org/records/6084582"
+    ],
+    "url": "https://zenodo.org/record/6084581"
+}

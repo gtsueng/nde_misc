@@ -1,0 +1,63 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6394656",
+    "_score": 24.175203,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Universit\u00e9 de Reims Champagne-Ardenne - CERHiC"
+            },
+            "name": "Heullant-Donat, Isabelle"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-03-31",
+    "dateModified": "2022-03-31",
+    "datePublished": "2022-03-29T00:00:00",
+    "description": "Voir: http://telma-chartes.irht.cnrs.fr/bullarium-franciscanum/page/presentation",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6394657/files-archive",
+            "dateModified": "2022-03-31"
+        }
+    ],
+    "doi": "10.5281/zenodo.6394656",
+    "identifier": "zenodo.6394656",
+    "inLanguage": {
+        "name": "lat"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "histoire m\u00e9di\u00e9vale",
+        "medieval history",
+        "papaut\u00e9",
+        "franciscains",
+        "ordre franciscain",
+        "lettres pontificales",
+        "Sbaraglia (Giovanni Gioacinto)",
+        "Eubel (Konrad)"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Bullarium Franciscanum romanorum pontificum",
+    "sameAs": [
+        "https://zenodo.org/records/6394657"
+    ],
+    "sdPublisher": [
+        {
+            "name": "cosme2",
+            "url": "https://zenodo.org/communities/cosme2"
+        }
+    ],
+    "url": "https://zenodo.org/record/6394656"
+}

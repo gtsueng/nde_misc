@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5566775",
+    "_score": 25.754812,
+    "author": [
+        {
+            "name": "Pirro, S"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-10-14",
+    "dateModified": "2021-10-14",
+    "datePublished": "2021-10-13T00:00:00",
+    "description": ".",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5566776/files-archive",
+            "dateModified": "2021-10-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.5566775",
+    "identifier": "zenodo.5566775",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Arius nenga RB0580 GRAHAM SPAdes preassembly",
+    "sameAs": [
+        "https://zenodo.org/records/5566776"
+    ],
+    "url": "https://zenodo.org/record/5566775"
+}

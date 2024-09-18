@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7515284",
+    "_score": 22.41936,
+    "author": [
+        {
+            "affiliation": {
+                "name": "ENS Paris-Saclay"
+            },
+            "identifier": "0000-0002-9115-4886",
+            "name": "Amaury Laporte"
+        },
+        {
+            "affiliation": {
+                "name": "ENS Paris-Saclay"
+            },
+            "identifier": "0000-0002-7970-0522",
+            "name": "Blanche Tardif de Moidrey"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-01-10",
+    "dateModified": "2023-01-10",
+    "datePublished": "2023-01-09T00:00:00",
+    "description": "Spectres d'excitation, d'\u00e9mission et d'absorption de 6 liquides fluorescents afin de r\u00e9aliser un arc-en-ciel de boissons fluorescentes \u00e0 savoir : spiruline, Red Bull, curcuma, vin blanc, Schweppes Indian Tonic, Red Bull Blue Edition",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7515284/files-archive",
+            "dateModified": "2023-01-10"
+        }
+    ],
+    "doi": "10.1234/0506200128082003.bar",
+    "identifier": "zenodo.7515284",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "fluorescence",
+        "cocktail",
+        "light",
+        "spectrum",
+        "excitation",
+        "emission",
+        "absorption",
+        "spirulina",
+        "red bull",
+        "riboflavin",
+        "anthocyanin",
+        "curcuma",
+        "wine",
+        "turmeric",
+        "schweppes",
+        "quinine"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Spectres arc-en-ciel de cocktails",
+    "url": "https://zenodo.org/records/7515284"
+}

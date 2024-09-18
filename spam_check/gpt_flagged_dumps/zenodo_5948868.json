@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5948868",
+    "_score": 25.549824,
+    "author": [
+        {
+            "name": "Pirro, S"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-02-03",
+    "dateModified": "2022-02-03",
+    "datePublished": "2022-02-02T00:00:00",
+    "description": "Arius mastersi RB0482 ARBOR spades",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5948869/files-archive",
+            "dateModified": "2022-02-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.5948868",
+    "identifier": "zenodo.5948868",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Arius mastersi RB0482 ARBOR spades",
+    "sameAs": [
+        "https://zenodo.org/records/5948869"
+    ],
+    "url": "https://zenodo.org/record/5948868"
+}

@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4924961",
+    "_score": 25.619175,
+    "author": [
+        {
+            "name": "Ruben Sanchez Garcia"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-12-13",
+    "dateModified": "2022-12-13",
+    "datePublished": "2021-06-10T00:00:00",
+    "description": "DeepEMhancer models\n\n\nhttps://github.com/rsanchezgarc/deepEMhancer",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7432763/files-archive",
+            "dateModified": "2022-12-13"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4924962/files-archive",
+            "dateModified": "2022-12-13"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7432693/files-archive",
+            "dateModified": "2022-12-13"
+        }
+    ],
+    "doi": "10.5281/zenodo.4924961",
+    "identifier": "zenodo.4924961",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "DeepEMhancer models",
+    "sameAs": [
+        "https://zenodo.org/records/7432763",
+        "https://zenodo.org/records/4924962",
+        "https://zenodo.org/records/7432693"
+    ],
+    "url": "https://zenodo.org/record/4924961"
+}

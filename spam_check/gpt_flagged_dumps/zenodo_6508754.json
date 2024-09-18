@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6508754",
+    "_score": 23.823685,
+    "author": [
+        {
+            "name": "Mengying Han"
+        },
+        {
+            "name": "Sheng Liu"
+        },
+        {
+            "name": "Dachuan Zhang"
+        },
+        {
+            "name": "Rui Zhang"
+        },
+        {
+            "name": "Dongliang Liu"
+        },
+        {
+            "name": "Huadong Xing"
+        },
+        {
+            "name": "Dandan Sun"
+        },
+        {
+            "name": "Linlin Gong"
+        },
+        {
+            "name": "Pengli Cai"
+        },
+        {
+            "name": "Weizhong Tu"
+        },
+        {
+            "name": "Junni Chen"
+        },
+        {
+            "name": "Qian-Nan Hu"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-05-01",
+    "dateModified": "2022-05-01",
+    "datePublished": "2022-04-30T00:00:00",
+    "description": "Please refer to\u00a0http://design.rxnfinder.org/addictedchem/prediction.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6508755/files-archive",
+            "dateModified": "2022-05-01"
+        }
+    ],
+    "doi": "10.5281/zenodo.6508754",
+    "identifier": "zenodo.6508754",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "AddictedChem: A comprehensive addictive compound knowledge base and integrated analysis platform",
+    "sameAs": [
+        "https://zenodo.org/records/6508755"
+    ],
+    "url": "https://zenodo.org/record/6508754"
+}

@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5151562",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 19.178844,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UNIS, UiO, NCCS"
+            },
+            "identifier": "0000-0002-6017-9415",
+            "name": "Betlem, Peter"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-03-20",
+    "dateModified": "2022-03-20",
+    "datePublished": "2021-08-01T00:00:00",
+    "description": "Model description: \nModel of the outcrops in outer Hanaskogdalen, Svalbard, close to Revneset.\n\nData availability:\nThe included processing report specifies the processing parameters that were used as input for the processing software (Agisoft Metashape, v1.7.1.11797).\nExported model data use CRS epsg:32633.\n\nShow and visualise on Svalbox.no:\nThrough Svalbox we aim to take geoscientific research and education to the next level \u2013 with the simple motto of placing all key information and data sets in their correct spatial position. We bring modern technology, in particular cost-effective digital outcrops, to complement more than 200 years of geoscientific research on Svalbard. Finally, Svalbox provides a sustainable platform for sharing results, workflows and teaching material with the wider geoscientific community.\n\nFor more information, contact the Svalbox team at svalbox[at]gmail.com.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5151563/files-archive",
+            "dateModified": "2022-03-20"
+        }
+    ],
+    "doi": "10.5281/zenodo.5151562",
+    "identifier": "zenodo.5151562",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "digital outcrop models",
+        "outcrop",
+        "Svalbard",
+        "Arctic",
+        "High Arctic",
+        "Svalbox",
+        "digital outcrop",
+        "virtual geology",
+        "digital geology",
+        "virtual outcrop",
+        "snow",
+        "shadows",
+        "Hanaskogdalen",
+        "valley"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "name": "Svalbox-DOM_2020-0004_Hanaskogelva",
+    "sameAs": [
+        "https://zenodo.org/records/5151563"
+    ],
+    "sdPublisher": [
+        {
+            "name": "unis",
+            "url": "https://zenodo.org/communities/unis"
+        },
+        {
+            "name": "svalbox",
+            "url": "https://zenodo.org/communities/svalbox"
+        }
+    ],
+    "url": "https://zenodo.org/record/5151562"
+}

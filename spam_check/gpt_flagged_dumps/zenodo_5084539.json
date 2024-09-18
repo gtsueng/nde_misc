@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5084539",
+    "_score": 25.311852,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Harbin Institute of Technology"
+            },
+            "identifier": "0000-0002-5969-1956",
+            "name": "Zhao, Weisong"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-07-09",
+    "dateModified": "2021-07-09",
+    "datePublished": "2021-07-09T00:00:00",
+    "description": "TRY for my first time zenodo repository",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5084540/files-archive",
+            "dateModified": "2021-07-09"
+        }
+    ],
+    "doi": "10.5281/zenodo.5084539",
+    "identifier": "zenodo.5084539",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "fluorescence",
+        "microscopy"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "TRY",
+    "sameAs": [
+        "https://zenodo.org/records/5084540"
+    ],
+    "url": "https://zenodo.org/record/5084539"
+}

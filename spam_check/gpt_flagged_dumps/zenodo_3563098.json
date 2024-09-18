@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3563098",
+    "_score": 25.620478,
+    "author": [
+        {
+            "name": "Anonymous"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-12-04T00:00:00",
+    "description": "Boutiques execution data-set",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3563099/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3563098",
+    "identifier": "zenodo.3563098",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Boutiques",
+        "MCFLIRT",
+        "MCFLIRT",
+        "MCFLIRT",
+        "MCFLIRT",
+        "MCFLIRT"
+    ],
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Boutiques-execution-7870d7",
+    "sameAs": [
+        "https://zenodo.org/records/3563099"
+    ],
+    "url": "https://zenodo.org/record/3563098"
+}

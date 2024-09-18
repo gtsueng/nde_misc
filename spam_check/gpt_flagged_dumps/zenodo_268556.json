@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_268556",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.427544,
+    "author": [
+        {
+            "affiliation": {
+                "name": "FlowCAP Consortium"
+            },
+            "name": "FlowCAP"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2017-02-03T00:00:00",
+    "description": "The goal of\u00a0Flow Cytometry: Critical Assessment of Population Identification Methods (FlowCAP)\u00a0is to advance the development of computational methods for the identification of cell populations of interest in flow cytometry data.\u00a0FlowCAP\u00a0will provide the means to objectively test these methods, first by comparison to manual analysis by experts using common datasets, and second by prediction of a clinical/biological outcome.\n\n\nFor more information, please visit:\n\n\nhttp://flowcap.flowsite.org/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/268556/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.268556",
+    "identifier": "zenodo.268556",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "FlowCAP-II",
+    "url": "https://zenodo.org/records/268556"
+}

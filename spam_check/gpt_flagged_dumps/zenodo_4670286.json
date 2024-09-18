@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4670286",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.628551,
+    "author": [
+        {
+            "name": "L\u00f3pez Simpson, Elisabeth Anna"
+        },
+        {
+            "name": "Blay Tamarit, Jes\u00fas Antonio"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-04-09",
+    "dateModified": "2021-04-09",
+    "datePublished": "2021-04-07T00:00:00",
+    "description": "This dataset is formed from the results obtained from the different tourist rentals available on the hometogo.com portal during the period 05/31 to 06/06 in Switzerland and with a price lower than 175 euros per night.\n\n\nFor more details you can visit the following GitHub repository:\nhttps://github.com/ElisabethUoc/Web_Scraping",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4670287/files-archive",
+            "dateModified": "2021-04-09"
+        }
+    ],
+    "doi": "10.5281/zenodo.4670286",
+    "identifier": "zenodo.4670286",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Switzerland tourist rentals",
+    "sameAs": [
+        "https://zenodo.org/records/4670287"
+    ],
+    "url": "https://zenodo.org/record/4670286"
+}

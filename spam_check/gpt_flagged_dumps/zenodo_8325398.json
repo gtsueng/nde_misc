@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8325398",
+    "_score": 26.027971,
+    "author": [
+        {
+            "affiliation": {
+                "name": "\u5357\u4eac\u4fe1\u606f\u5de5\u7a0b\u5927\u5b66\u8ba1\u7b97\u673a\u5b66\u9662"
+            },
+            "name": "william"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-09-07",
+    "dateModified": "2023-09-07",
+    "datePublished": "2023-09-07T00:00:00",
+    "description": "\u4e2d\u6587\u6838\u5fc3\u7ed3\u679c\u53ef\u89c6\u5316",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8325399/files-archive",
+            "dateModified": "2023-09-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.8325398",
+    "identifier": "zenodo.8325398",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "\u4e2d\u6587\u6838\u5fc3\u7ed3\u679c\u53ef\u89c6\u5316"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "\u4e2d\u6587\u6838\u5fc3\u7ed3\u679c\u53ef\u89c6\u5316",
+    "sameAs": [
+        "https://zenodo.org/records/8325399"
+    ],
+    "url": "https://zenodo.org/record/8325398"
+}

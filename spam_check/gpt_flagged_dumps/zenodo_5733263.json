@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5733263",
+    "_score": 25.753584,
+    "author": [
+        {
+            "name": "Pirro, S"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-11-29",
+    "dateModified": "2021-11-29",
+    "datePublished": "2021-11-28T00:00:00",
+    "description": ".",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5733264/files-archive",
+            "dateModified": "2021-11-29"
+        }
+    ],
+    "doi": "10.5281/zenodo.5733263",
+    "identifier": "zenodo.5733263",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Sciades herzbergii RB0010 GRAHAM decontaminated FSCR",
+    "sameAs": [
+        "https://zenodo.org/records/5733264"
+    ],
+    "url": "https://zenodo.org/record/5733263"
+}

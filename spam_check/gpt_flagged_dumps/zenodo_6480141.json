@@ -1,0 +1,76 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6480141",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.0314,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Kapoorlabs"
+            },
+            "identifier": "0000-0001-5331-7966",
+            "name": "Varun Kapoor"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-04-25",
+    "dateModified": "2022-04-25",
+    "datePublished": "2022-04-23T00:00:00",
+    "description": "Trained models for hela cells for the\u00a0bright field channel\u00a0for locating mitosis events. Provided is an example dataset for bright field image and its corresponding model that can be used using the notebook here:\u00a0https://github.com/Kapoorlabs-CAPED/CAPED-AI-oneat\n\n\n\u00a0\n\n\nMade by oneat software, pip install oneat for training of such datasets.\n\n\n\u00a0\n\n\nOriginal data published by Romain Guiet at\u00a0https://zenodo.org/record/6139958#.YmAh1NpBxhG",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6481440/files-archive",
+            "dateModified": "2022-04-25"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6480142/files-archive",
+            "dateModified": "2022-04-25"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6484966/files-archive",
+            "dateModified": "2022-04-26"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6481021/files-archive",
+            "dateModified": "2022-04-25"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6483483/files-archive",
+            "dateModified": "2022-04-26"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6483294/files-archive",
+            "dateModified": "2022-04-26"
+        }
+    ],
+    "doi": "10.5281/zenodo.6480141",
+    "identifier": "zenodo.6480141",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Oneat, Action classification, Deep learning, Artificial intelligence"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Oneat division model for Hela cells",
+    "sameAs": [
+        "https://zenodo.org/records/6481440",
+        "https://zenodo.org/records/6480142",
+        "https://zenodo.org/records/6484966",
+        "https://zenodo.org/records/6481021",
+        "https://zenodo.org/records/6483483",
+        "https://zenodo.org/records/6483294"
+    ],
+    "url": "https://zenodo.org/record/6480141"
+}

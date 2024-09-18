@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4029502",
+    "_score": 25.959112,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Northwestern University"
+            },
+            "name": "Shibo Zhang"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-09-16",
+    "dateModified": "2020-09-16",
+    "datePublished": "2020-09-14T00:00:00",
+    "description": "Sense2StopSync",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4029503/files-archive",
+            "dateModified": "2020-09-16"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4029523/files-archive",
+            "dateModified": "2020-09-16"
+        }
+    ],
+    "doi": "10.5281/zenodo.4029502",
+    "identifier": "zenodo.4029502",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Sense2StopSync",
+    "sameAs": [
+        "https://zenodo.org/records/4029503",
+        "https://zenodo.org/records/4029523"
+    ],
+    "url": "https://zenodo.org/record/4029502"
+}

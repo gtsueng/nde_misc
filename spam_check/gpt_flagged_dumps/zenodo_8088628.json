@@ -1,0 +1,62 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8088628",
+    "_score": 22.427544,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Guangxi Vocational & Technical Institute of Industry, Nanning, Guangxi, China"
+            },
+            "name": "Caiyu Su"
+        },
+        {
+            "affiliation": {
+                "name": "Guangxi Vocational & Technical Institute of Industry, Nanning, Guangxi, China"
+            },
+            "name": "Jinri Wei"
+        },
+        {
+            "affiliation": {
+                "name": "Universiti Pendidikan Sultan Idris, Tanjong Malim, Malaysia"
+            },
+            "name": "Yuan Lei"
+        },
+        {
+            "affiliation": {
+                "name": "Guangxi University of Foreign Languages, Nanning, Guangxi, China"
+            },
+            "name": "Jiahui Li"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-06-28",
+    "dateModified": "2023-06-28",
+    "datePublished": "2023-06-28T00:00:00",
+    "description": "https://tianchi.aliyun.com/dataset/56",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8088629/files-archive",
+            "dateModified": "2023-06-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.8088628",
+    "identifier": "zenodo.8088628",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "A federated learning framework based on transfer learning and knowledge distillation for targeted advertising-Ad Display/Click Data on Taobao.com dataset",
+    "sameAs": [
+        "https://zenodo.org/records/8088629"
+    ],
+    "url": "https://zenodo.org/record/8088628"
+}

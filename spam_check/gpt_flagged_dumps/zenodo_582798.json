@@ -1,0 +1,38 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_582798",
+    "_score": 25.889484,
+    "author": [
+        {
+            "name": "..."
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2017-05-24T00:00:00",
+    "description": "...",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/582798/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.582798",
+    "identifier": "zenodo.582798",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Gold Atlas Male pelvic region",
+    "url": "https://zenodo.org/records/582798"
+}

@@ -1,0 +1,65 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1160350",
+    "_score": 24.839321,
+    "author": [
+        {
+            "affiliation": {
+                "name": "i3mainz, RGZM"
+            },
+            "identifier": "0000-0002-3246-3531",
+            "name": "Florian Thiery"
+        },
+        {
+            "affiliation": {
+                "name": "i3mainz"
+            },
+            "name": "Martin Unold"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2018-01-19T00:00:00",
+    "description": "Academic Meta Tool Vocabulary more at\u00a0http://academic-meta-tool.xyz/vocab/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1160351/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.1160350",
+    "identifier": "zenodo.1160350",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Academic Meta Tool Vocabulary",
+    "sameAs": [
+        "https://zenodo.org/records/1160351"
+    ],
+    "sdPublisher": [
+        {
+            "name": "rgzm-kbwissit",
+            "url": "https://zenodo.org/communities/rgzm-kbwissit"
+        },
+        {
+            "name": "linkedgeodesy",
+            "url": "https://zenodo.org/communities/linkedgeodesy"
+        },
+        {
+            "name": "mainzed",
+            "url": "https://zenodo.org/communities/mainzed"
+        }
+    ],
+    "url": "https://zenodo.org/record/1160350"
+}

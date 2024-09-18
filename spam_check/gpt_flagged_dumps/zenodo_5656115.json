@@ -1,0 +1,80 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5656115",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.57528,
+    "author": [
+        {
+            "affiliation": {
+                "name": "lzmneu@163.com"
+            },
+            "name": "Zhenming Li"
+        },
+        {
+            "affiliation": {
+                "name": "wangying@swc.neu.edu.cn"
+            },
+            "name": "Ying Wang"
+        },
+        {
+            "affiliation": {
+                "name": "Zeqi.Lin@microsoft.com"
+            },
+            "name": "Zeqi Lin"
+        },
+        {
+            "affiliation": {
+                "name": "scc@cse.ust.hk"
+            },
+            "name": "Shing-Chi Cheung"
+        },
+        {
+            "affiliation": {
+                "name": "jlou@microsoft.com"
+            },
+            "name": "Jian-Guang Lou"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-04-22",
+    "dateModified": "2022-04-22",
+    "datePublished": "2021-11-09T00:00:00",
+    "description": "With the rapid evolution of the .NET ecosystem, managing dependencies in .NET projects becomes a critical challenge. Due to the fragmentation of .NET ecosystem, developers often suffer from dependency maze (DM) issues, i.e., package dependency constraints are violated (e.g, constraints on package versions and target platforms) when updating a project\u2019s platform or dependency versions. DM issues are serious, since they can block the package installations, causing build errors. Fixing a DM issue can be challenging. Multiple DM issues often occur in a project at the same time. For those projects with large dependency graphs, fixing such issues is a time-consuming and error-prone process that exercises a series of changes in dependency constraints in response to newly induced DM issues. More importantly, when deciding a fixing solution, developers often consider their desired properties of configuration (e.g., installing fewer packages, inducing fewer risky build warnings). However, it is difficult for developers to imagine all possible dependency graphs affected by dependency changes, to figure out an optimal solution that satisfies their preferences. To help .NET developers tackle DM issues, we developed a tool, NuFix (VS plugin)(Homepage:\u00a0http://www.nufix-dependency-maze.com/), to automatically generate fixes.\u00a0It is built on top of our comprehensive study of developers\u2019 preferences in fixing DM issues. By encoding the empirical findings into a linear optimization model, NuFix seeks for the global optimal fixing solution. One interesting feature of NuFix is that, it allows developers to customize and iteratively refine the search scope of package versions based on their requirements. A video demo is available at: https://youtu.be/8NECIM0wjhw\n\n\nOur evaluation shows that NuFix can generate fixes for a given .NET project within 12 seconds and achieves a 100% fixing ratio for 262 real DM issues. We invited ten experienced .NET experts working in MSRA to evaluate the quality our generated fixes. Their feedback indicates that the generated fixes meet the developers'\u00a0desired properties for the build management. Encouragingly, 20 projects (including affected projects such as Dropbox) have approved and merged our generated fixes, and shown great interests in our technique (the merged PRs are available on NuFix's website).",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5656116/files-archive",
+            "dateModified": "2022-04-22"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5681282/files-archive",
+            "dateModified": "2022-04-22"
+        }
+    ],
+    "doi": "10.5281/zenodo.5656115",
+    "identifier": "zenodo.5656115",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        ".NET",
+        "NuGet",
+        "dependency management"
+    ],
+    "name": "Nufix: Escape From NuGet Dependency Maze",
+    "sameAs": [
+        "https://zenodo.org/records/5656116",
+        "https://zenodo.org/records/5681282"
+    ],
+    "url": "https://zenodo.org/record/5656115"
+}

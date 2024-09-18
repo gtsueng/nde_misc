@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7923012",
+    "_score": 24.844421,
+    "author": [
+        {
+            "name": "Anonymous"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-05-11",
+    "dateModified": "2023-05-11",
+    "datePublished": "2023-05-11T00:00:00",
+    "description": "Sample data for\u00a0RESTful API Testing with the Power of Large Language Models",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7923013/files-archive",
+            "dateModified": "2023-05-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.7923012",
+    "identifier": "zenodo.7923012",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "RESTful API Testing with the Power of Large Language Models",
+    "sameAs": [
+        "https://zenodo.org/records/7923013"
+    ],
+    "url": "https://zenodo.org/record/7923012"
+}

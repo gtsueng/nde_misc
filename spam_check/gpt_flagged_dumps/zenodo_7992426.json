@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7992426",
+    "_score": 23.823685,
+    "author": [
+        {
+            "affiliation": {
+                "name": "MIT"
+            },
+            "identifier": "0000-0002-9184-9979",
+            "name": "Subramanian, Akshay"
+        },
+        {
+            "affiliation": {
+                "name": "MIT"
+            },
+            "identifier": "0000-0002-6466-1401",
+            "name": "Greenman, Kevin P."
+        },
+        {
+            "affiliation": {
+                "name": "Swiss Airtainer"
+            },
+            "name": "Gervaix, Alexis"
+        },
+        {
+            "affiliation": {
+                "name": "National Tsing Hua University"
+            },
+            "identifier": "0000-0002-6751-9806",
+            "name": "Yang, Tzuhsiung"
+        },
+        {
+            "affiliation": {
+                "name": "MIT"
+            },
+            "identifier": "0000-0002-9495-8599",
+            "name": "G\u00f3mez-Bombarelli, Rafael"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-06-07",
+    "dateModified": "2023-06-07",
+    "datePublished": "2023-06-05T00:00:00",
+    "description": "USPTO granted patents 2001-2023 with CDX/MOL files present",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7992427/files-archive",
+            "dateModified": "2023-06-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.7992426",
+    "identifier": "zenodo.7992426",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "PatentChem - USPTO granted chemistry patents 2001-2023",
+    "sameAs": [
+        "https://zenodo.org/records/7992427"
+    ],
+    "url": "https://zenodo.org/record/7992426"
+}

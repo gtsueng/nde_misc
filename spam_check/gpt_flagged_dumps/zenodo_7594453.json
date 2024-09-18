@@ -1,0 +1,70 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7594453",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 19.174944,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Talarify"
+            },
+            "identifier": "0000-0003-3142-9558",
+            "name": "Nomalungelo Maphanga"
+        },
+        {
+            "affiliation": {
+                "name": "Talarify"
+            },
+            "identifier": "0000-0003-4245-8119",
+            "name": "Anelda Van der Walt"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-02-02",
+    "dateModified": "2023-02-02",
+    "datePublished": "2023-02-01T00:00:00",
+    "description": "In 2019 the Research Software Alliance set out to map the research software landscape in the Global North. In 2021 they followed up with a mapping of the Global South with support from consultants in various regions in Africa, South America and Asia.\n\n\nBased on Talarify's extensive networks in Africa and past collaboration with various research software communities, we built on the mapping by ReSA in 2022 and added an additional 166 African research software stakeholders. We also developed a Shiny app to visualise the data online.\n\n\nRead more about this project and the projects it builds on at\u00a0https://www.talarify.co.za/2023/02/01/mapping-the-rse-landscape-in-africa/.\n\n\nTo add data to the dataset, please complete the form available at\u00a0https://forms.gle/oufnEiZ28YGGeYy16.\n\n\nThe additional mapping was funded by Talarify.\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7594454/files-archive",
+            "dateModified": "2023-02-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.7594453",
+    "identifier": "zenodo.7594453",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "research software engineer",
+        "Africa",
+        "research software",
+        "Research Software Alliance"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Research software stakeholders in Africa",
+    "sameAs": [
+        "https://zenodo.org/records/7594454"
+    ],
+    "sdPublisher": [
+        {
+            "name": "rsse-africa",
+            "url": "https://zenodo.org/communities/rsse-africa"
+        }
+    ],
+    "url": "https://zenodo.org/record/7594453"
+}

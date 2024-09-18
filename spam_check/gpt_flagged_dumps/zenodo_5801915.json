@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5801915",
+    "_score": 23.050833,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Geneva"
+            },
+            "name": "Garc\u00eda-Calvo, Jos\u00e9"
+        },
+        {
+            "affiliation": {
+                "name": "University of Geneva"
+            },
+            "name": "L\u00f3pez-Andarias, Javier"
+        },
+        {
+            "affiliation": {
+                "name": "University of Geneva"
+            },
+            "name": "Maillard, Jimmy"
+        },
+        {
+            "affiliation": {
+                "name": "University of Geneva"
+            },
+            "name": "Mercier, Vincent"
+        },
+        {
+            "affiliation": {
+                "name": "University of Geneva"
+            },
+            "name": "Roffay, Chlo\u00e9"
+        },
+        {
+            "affiliation": {
+                "name": "University of Geneva"
+            },
+            "name": "Roux, Aur\u00e9lien"
+        },
+        {
+            "affiliation": {
+                "name": "University of Geneva"
+            },
+            "name": "F\u00fcrstenberg, Alexandre"
+        },
+        {
+            "affiliation": {
+                "name": "University of Geneva"
+            },
+            "name": "Sakai, Naomi"
+        },
+        {
+            "affiliation": {
+                "name": "University of Geneva"
+            },
+            "name": "Matile, Stefan"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-08-17",
+    "dateModified": "2023-08-17",
+    "datePublished": "2021-12-23T00:00:00",
+    "description": "Original data",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5801916/files-archive",
+            "dateModified": "2023-08-17"
+        }
+    ],
+    "doi": "10.5281/zenodo.5801915",
+    "identifier": "zenodo.5801915",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "HydroFlipper membrane tension probes",
+    "sameAs": [
+        "https://zenodo.org/records/5801916"
+    ],
+    "sdPublisher": [
+        {
+            "name": "matile_group",
+            "url": "https://zenodo.org/communities/matile_group"
+        },
+        {
+            "name": "nccr-mse-ord",
+            "url": "https://zenodo.org/communities/nccr-mse-ord"
+        }
+    ],
+    "url": "https://zenodo.org/record/5801915"
+}

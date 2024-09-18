@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5843920",
+    "_score": 26.16586,
+    "author": [
+        {
+            "name": "x"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-01-13",
+    "dateModified": "2022-01-13",
+    "datePublished": "2022-01-13T00:00:00",
+    "description": "n0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5843921/files-archive",
+            "dateModified": "2022-01-13"
+        }
+    ],
+    "doi": "10.5281/zenodo.5843920",
+    "identifier": "zenodo.5843920",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "K3stiffness",
+    "sameAs": [
+        "https://zenodo.org/records/5843921"
+    ],
+    "url": "https://zenodo.org/record/5843920"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3257734",
+    "_score": 25.157059,
+    "author": [
+        {
+            "name": "Manuzina Alena"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-06-26T00:00:00",
+    "description": "Statistics of fee-based Open Access publishing,\u00a02005-2019",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3257735/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3257734",
+    "identifier": "zenodo.3257734",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "science",
+        "higher edication",
+        "open access"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Fee-based Open Access publishing",
+    "sameAs": [
+        "https://zenodo.org/records/3257735"
+    ],
+    "url": "https://zenodo.org/record/3257734"
+}

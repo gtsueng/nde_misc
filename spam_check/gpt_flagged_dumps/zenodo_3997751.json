@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3997751",
+    "_score": 25.620478,
+    "author": [
+        {
+            "name": "anonymous"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-08-28",
+    "dateModified": "2020-08-25",
+    "datePublished": "2020-08-28T00:00:00",
+    "description": "Refactoring Dataset and Analysis Packages",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3998132/files-archive",
+            "dateModified": "2020-08-25"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3998242/files-archive",
+            "dateModified": "2020-08-25"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3997752/files-archive",
+            "dateModified": "2020-08-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.3997751",
+    "identifier": "zenodo.3997751",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Refactoring Dataset and Analysis Packages",
+    "sameAs": [
+        "https://zenodo.org/records/3998132",
+        "https://zenodo.org/records/3998242",
+        "https://zenodo.org/records/3997752"
+    ],
+    "url": "https://zenodo.org/record/3997751"
+}

@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1244272",
+    "_score": 25.686193,
+    "author": [
+        {
+            "name": "Mantelli, Mathias F."
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2018-05-09T00:00:00",
+    "description": "asdfasdf asdfasdf asfasd fasdf asdf",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1244273/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.1244272",
+    "identifier": "zenodo.1244272",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "robotic"
+    ],
+    "name": "APAGAR",
+    "sameAs": [
+        "https://zenodo.org/records/1244273"
+    ],
+    "url": "https://zenodo.org/record/1244272"
+}

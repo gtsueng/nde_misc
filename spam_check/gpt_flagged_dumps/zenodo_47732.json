@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_47732",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 16.169296,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Barrow Neurological Institute"
+            },
+            "name": "Zwart, Nicholas"
+        },
+        {
+            "affiliation": {
+                "name": "Barrow Neurological Institute"
+            },
+            "name": "James G. Pipe"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2016-03-16T00:00:00",
+    "description": "Need for Speed.\u00a0 Data were simulated using collected projection X-ray of an arterial bolus injection in a patient with an AVM.\u00a0 X-ray data were collected 3 frames per second, for a total of 10 seconds (31 collected frames) which span wash-in to wash-out.\u00a0 These were linearly interpolated in time between frames to create a total of 200 temporal images, each with 512x512 resolution.\u00a0 B1-maps (provided with data) derived from an axial slice through a water phantom using an 8-channel head coil were superimposed on the image to create 8 \u201ccoil\u201d images.\u00a0 Independent noise was added to each channel.\u00a0 The data were synthesized over 200 trajectories, each with 2000 points.\u00a0 Data for each trajectory are synthesized from one temporal frame of the time series.\u00a0\u00a0\n\nClick here\u00a0to get descriptions of trajectories (the pdf files), read/write code for C and Matlab, and B1\u00a0maps.\u00a0\nClick here\u00a0for the NFS truth data set, which has no header, is floating point (4 byte) real data, and arranged as a 3D array of 512x512x37.\n\n\nYou may then choose from any of the following sets:\n\n\nA.\u00a0\u00a0Click here\u00a0to get a\u00a0Spiral\u00a0trajectory coordinates and data. (trajectory designed by Nick Zwart,\u00a0\n\u00a0\u00a0\u00a0\u00a0 Barrow Neurological Institute)\n\n\nB.\u00a0\u00a0Click here\u00a0to get a\u00a0PR\u00a0trajectory coordinates and data. (trajectory designed by Alexey Samsonov,\u00a0\n\u00a0\u00a0\u00a0\u00a0 University of Wisconsin)",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/47732/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.47732",
+    "identifier": "zenodo.47732",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "2010 ISMRM Recon Challenge - Need for Speed",
+    "sdPublisher": [
+        {
+            "name": "ismrm",
+            "url": "https://zenodo.org/communities/ismrm"
+        }
+    ],
+    "url": "https://zenodo.org/records/47732"
+}

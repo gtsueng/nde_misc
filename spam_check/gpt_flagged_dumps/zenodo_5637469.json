@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5637469",
+    "_score": 25.55252,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Antioquia"
+            },
+            "name": "Jefferson Antonio Buendia Rodriguez"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-11-02",
+    "dateModified": "2021-11-02",
+    "datePublished": "2021-11-01T00:00:00",
+    "description": "BD",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5637470/files-archive",
+            "dateModified": "2021-11-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.5637469",
+    "identifier": "zenodo.5637469",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "BD Smart step 3",
+    "sameAs": [
+        "https://zenodo.org/records/5637470"
+    ],
+    "url": "https://zenodo.org/record/5637469"
+}

@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4726706",
+    "_score": 25.68363,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Duksung Women's University"
+            },
+            "name": "Jae Yong Ryu"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-04-09",
+    "dateModified": "2023-04-09",
+    "datePublished": "2021-04-29T00:00:00",
+    "description": "Scaffold library",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7810285/files-archive",
+            "dateModified": "2023-04-09"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4726717/files-archive",
+            "dateModified": "2023-04-08"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4726707/files-archive",
+            "dateModified": "2023-04-08"
+        }
+    ],
+    "doi": "10.5281/zenodo.4726706",
+    "identifier": "zenodo.4726706",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Scaffold library",
+    "sameAs": [
+        "https://zenodo.org/records/7810285",
+        "https://zenodo.org/records/4726717",
+        "https://zenodo.org/records/4726707"
+    ],
+    "url": "https://zenodo.org/record/4726706"
+}

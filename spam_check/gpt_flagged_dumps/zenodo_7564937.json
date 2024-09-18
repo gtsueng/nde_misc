@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7564937",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 23.266811,
+    "author": [
+        {
+            "identifier": "0000-0003-0143-5535",
+            "name": "Gricourt"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-01-24",
+    "dateModified": "2023-01-24",
+    "datePublished": "2023-01-24T00:00:00",
+    "description": "Dependencies needed by Retropath2_wrapper\n\n\nRelated to:\n\n\nDel\u00e9pine B, Duigou T, Carbonell P, Faulon JL. RetroPath2.0: A retrosynthesis workflow for metabolic engineers. Metabolic Engineering, 45: 158-170, 2018. DOI: https://doi.org/10.1016/j.ymben.2017.12.002\n\n\nEmbedded Knime v4.7.0 (linux, mac, windows) and the associated dependencies.\n\n\nVisit also KNIME website",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7564938/files-archive",
+            "dateModified": "2023-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.7564937",
+    "identifier": "zenodo.7564937",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Retropath2_wrapper_Knime_4.7.0",
+    "sameAs": [
+        "https://zenodo.org/records/7564938"
+    ],
+    "url": "https://zenodo.org/record/7564937"
+}

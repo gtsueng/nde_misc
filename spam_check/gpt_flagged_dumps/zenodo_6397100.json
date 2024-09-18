@@ -1,0 +1,63 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6397100",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 20.081688,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Wuhan University"
+            },
+            "identifier": "0000-0003-2104-0194",
+            "name": "Li Zhang"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-15",
+    "dateModified": "2024-02-15",
+    "datePublished": "2024-02-08T00:00:00",
+    "description": "The incompleteness of author names is a well-known issue in the MEDLINE database. It was since 2002, the full author name has been systematically indexed in MEDLINE. Although many full author names have been added to MEDLINE, we still found a significant number of abbreviated names in papers published after 2002.\n\nHere we built an enhanced author name dataset for MEDLINE, called EAN,\u00a0 achieved by linking the whole PubMed to other large literature databases and conducting a large-scale name comparison and restoration with obtained multi-sources author names. Our evaluation shows that more than 90% of author names in EAN are complete as compared to the ratio of ~60% in MEDLINE.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10663234/files-archive",
+            "dateModified": "2024-02-15"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/10251358/files-archive",
+            "dateModified": "2024-02-15"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/10221029/files-archive",
+            "dateModified": "2023-11-29"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6397101/files-archive",
+            "dateModified": "2023-02-22"
+        }
+    ],
+    "doi": "10.5281/zenodo.6397100",
+    "identifier": "zenodo.6397100",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "An enhanced author name dataset for PubMed/MEDLINE",
+    "sameAs": [
+        "https://zenodo.org/records/10663234",
+        "https://zenodo.org/records/10251358",
+        "https://zenodo.org/records/10221029",
+        "https://zenodo.org/records/6397101"
+    ],
+    "url": "https://zenodo.org/record/6397100"
+}

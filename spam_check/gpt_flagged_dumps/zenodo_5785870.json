@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5785870",
+    "_score": 25.487612,
+    "author": [
+        {
+            "name": "Motaz Saad"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-12-16",
+    "dateModified": "2021-12-16",
+    "datePublished": "2021-12-16T00:00:00",
+    "description": "Full Changelog: https://github.com/motazsaad/arzWikiExtracts/compare/v0.1...v1.1",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5785871/files-archive",
+            "dateModified": "2021-12-16"
+        }
+    ],
+    "doi": "10.5281/zenodo.5785870",
+    "identifier": "zenodo.5785870",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": null,
+    "name": "motazsaad/arzWikiExtracts: v1.1",
+    "sameAs": [
+        "https://zenodo.org/records/5785871"
+    ],
+    "url": "https://zenodo.org/record/5785870"
+}

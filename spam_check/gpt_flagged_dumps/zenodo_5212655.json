@@ -1,0 +1,42 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5212655",
+    "_score": 25.291004,
+    "author": [
+        {
+            "identifier": "0000-0003-2664-8502",
+            "name": "Ping Wu"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-18",
+    "dateModified": "2024-07-18",
+    "datePublished": "2021-08-17T00:00:00",
+    "description": "The test results of BarcodeFinder.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5212656/files-archive",
+            "dateModified": "2024-07-18"
+        }
+    ],
+    "doi": "10.5281/zenodo.5212655",
+    "identifier": "zenodo.5212655",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "BarcodeFinder: all-in-one solution for discovering novel DNA barcodes",
+    "sameAs": [
+        "https://zenodo.org/records/5212656"
+    ],
+    "url": "https://zenodo.org/record/5212655"
+}

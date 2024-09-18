@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5032499",
+    "_score": 24.486757,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Stanford University"
+            },
+            "identifier": "0000-0001-5540-350X",
+            "name": "Matt Olm"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-18",
+    "dateModified": "2024-07-18",
+    "datePublished": "2021-06-25T00:00:00",
+    "description": "Mutant colony sequencing for EvolvingSTEM Bioinformatics",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5032500/files-archive",
+            "dateModified": "2024-07-18"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5032528/files-archive",
+            "dateModified": "2024-07-18"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5086407/files-archive",
+            "dateModified": "2024-07-18"
+        }
+    ],
+    "doi": "10.5281/zenodo.5032499",
+    "identifier": "zenodo.5032499",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "EvolvingSTEM Bioinformatics mutant colony sequencing",
+    "sameAs": [
+        "https://zenodo.org/records/5032500",
+        "https://zenodo.org/records/5032528",
+        "https://zenodo.org/records/5086407"
+    ],
+    "url": "https://zenodo.org/record/5032499"
+}

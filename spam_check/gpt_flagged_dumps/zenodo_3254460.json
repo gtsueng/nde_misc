@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3254460",
+    "_score": 24.842697,
+    "author": [
+        {
+            "name": "Rafael Ferreira da Silva"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-06-24T00:00:00",
+    "description": "Workload downloaded from WorkflowHub, see http://workflowhub.isi.edu/.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3254461/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3254460",
+    "identifier": "zenodo.3254460",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Workflow Trace Archive workflowhub_montage_dataset-02_degree-2-0_osg_schema-0-2_montage-2-0-osg-run007 trace",
+    "sameAs": [
+        "https://zenodo.org/records/3254461"
+    ],
+    "url": "https://zenodo.org/record/3254460"
+}

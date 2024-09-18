@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6966821",
+    "_score": 23.80816,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Instituto Gulbenkian de Ciencia"
+            },
+            "name": "Genomics Unit"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-08-05",
+    "dateModified": "2022-08-05",
+    "datePublished": "2022-08-05T00:00:00",
+    "description": "Sample Sheet TapeStation",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6966822/files-archive",
+            "dateModified": "2022-08-05"
+        }
+    ],
+    "doi": "10.5281/zenodo.6966821",
+    "identifier": "zenodo.6966821",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Sample Sheet TapeStation",
+    "sameAs": [
+        "https://zenodo.org/records/6966822"
+    ],
+    "url": "https://zenodo.org/record/6966821"
+}

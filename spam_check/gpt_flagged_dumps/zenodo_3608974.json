@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3608974",
+    "_score": 25.486233,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Si"
+            },
+            "name": "Javier"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2020-01-15T00:00:00",
+    "description": "datos de los mas ricos del mundo",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3608975/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3608974",
+    "identifier": "zenodo.3608974",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "billionaire"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "datos de billonarios",
+    "sameAs": [
+        "https://zenodo.org/records/3608975"
+    ],
+    "url": "https://zenodo.org/record/3608974"
+}

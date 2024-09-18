@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3549049",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.489959,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Applied Psychoacoustics Lab (APL), University of Huddersfield"
+            },
+            "identifier": "0000-0001-9066-6946",
+            "name": "Hyunkook Lee"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-11-20T00:00:00",
+    "description": "ESMA3D (Equal Segment Microphone Array 3D) is a 3D mic array technique for 360\u00b0 recording developed by Hyunkook Lee of the APL. It consists of 8 microphones arranged in a horizontally spaced, vertically coincident fashion. This provides a very good spaciousness and stable/accurate horizontal and vertical imaging as well as a realistic impression of being there and strong immersion. The main layer (mainly responsible for capture sound sources) is a 50cm x 50cm square of four cardioid microphones spaced with a 90\u00b0 subtended angle between each pair of mics. The upper layer uses 4 supercardioid mics facing upwards for capturing ambience and elevated sources like birds. The lower and upper layers are coincident (0 spacing, but with a subtended angle of 90 to 120\u00b0 to have enough level difference between the layers for stable vertical localisation). This design is based on our previous findings showing that vertical mic spacing has little or no contribution to spatial impression in 3D recording. The Schoeps ORTF3D is a brother/sister mic array sharing the same concept - horizontal spacing/vertical coincidence.\n\n\nThe reproduction of ESMA3D requires the 8-channel Cube speaker array or 9.1 Dolby Atmos or Auro-3D setup (without the centre and sub), or it can be also binaurally or/and Ambisonically rendered, which still preserves a good quality if used with a good quality decoder, e.g. IEM plugin suite or Aalto SPARTA suite.\n\n\nMore details about the array design and listening test results can be found in our AES papers below.\n\n\nhttp://www.aes.org/e-lib/browse.cfm?elib=19883\n\n\nhttp://www.aes.org/e-lib/browse.cfm?elib=19401\n\n\nhttp://www.aes.org/e-lib/browse.cfm?elib=17560\n\n\nhttp://www.aes.org/e-lib/browse.cfm?elib=20392",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3549050/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3549049",
+    "identifier": "zenodo.3549049",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "3D audio",
+        "ESMA-3D",
+        "Immersive audio"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "ESMA-3D Immersive Soundscape Recordings",
+    "sameAs": [
+        "https://zenodo.org/records/3549050"
+    ],
+    "url": "https://zenodo.org/record/3549049"
+}

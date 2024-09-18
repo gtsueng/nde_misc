@@ -1,0 +1,42 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_59256",
+    "_score": 25.619175,
+    "author": [
+        {
+            "name": "Wahyu Murti"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2016-08-02T00:00:00",
+    "description": "RPP Game Transformasi",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/59256/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.59256",
+    "identifier": "zenodo.59256",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Game",
+        "Transformasi",
+        "Gardening"
+    ],
+    "name": "RPP Game Transformasi",
+    "url": "https://zenodo.org/records/59256"
+}

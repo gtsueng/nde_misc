@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4309140",
+    "_score": 23.941158,
+    "author": [
+        {
+            "name": "Lana Takau"
+        },
+        {
+            "name": "Mary Walworth"
+        },
+        {
+            "name": "Aviva Shimelman"
+        },
+        {
+            "name": "Sandrine Bessis"
+        },
+        {
+            "name": "Tom Ennever"
+        },
+        {
+            "name": "Iveth Rodriguez"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko"
+        },
+        {
+            "name": "Daria D\u00ebrmaku"
+        },
+        {
+            "name": "Murray Garde"
+        },
+        {
+            "name": "Marie-France Duhamel"
+        },
+        {
+            "name": "Giovanni Abete"
+        },
+        {
+            "name": "Laura W\u00e4gerle"
+        },
+        {
+            "name": "Kaitip W. Kami"
+        },
+        {
+            "name": "Russell Gray"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-04-02",
+    "dateModified": "2024-04-02",
+    "datePublished": "2024-03-15T00:00:00",
+    "description": "Available online at https://vanuatuvoices.clld.org",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10821732/files-archive",
+            "dateModified": "2024-04-02"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4309141/files-archive",
+            "dateModified": "2020-12-09"
+        }
+    ],
+    "doi": "10.5281/zenodo.4309140",
+    "identifier": "zenodo.4309140",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "name": "Vanuatu Voices",
+    "sameAs": [
+        "https://zenodo.org/records/10821732",
+        "https://zenodo.org/records/4309141"
+    ],
+    "sdPublisher": [
+        {
+            "name": "lexibank",
+            "url": "https://zenodo.org/communities/lexibank"
+        }
+    ],
+    "url": "https://zenodo.org/record/4309140"
+}

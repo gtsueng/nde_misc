@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7337519",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.028395,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UOC"
+            },
+            "name": "Doehne, Lukaz Martin"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-02-16",
+    "dateModified": "2023-02-16",
+    "datePublished": "2022-11-19T00:00:00",
+    "description": "The dataset contains 1,254 records with 12\u00a0variables of apartments on sale in Barcelona.\n\n\nThe source webpage is www.engelvoelkers.com\nThe data has been captured in Spanish, although the columns name are written in English.\n\n\n7 of the variables are categorical and 5 numerical and are the following:\n\n\n\u00b7 id, title, location, location_status, status, year, area,\u00a0bathrooms, bedrooms, heating_type,\u00a0energy_class, price",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7337520/files-archive",
+            "dateModified": "2023-02-16"
+        }
+    ],
+    "doi": "10.5281/zenodo.7337519",
+    "identifier": "zenodo.7337519",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Engel&Voelkers, real estate barcelona"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Barcelona apartments from Engel&Voelkers",
+    "sameAs": [
+        "https://zenodo.org/records/7337520"
+    ],
+    "url": "https://zenodo.org/record/7337519"
+}

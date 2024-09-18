@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3212221",
+    "_score": 22.631319,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Washington"
+            },
+            "identifier": "0000-0002-7431-0234",
+            "name": "Francois Ribalet"
+        },
+        {
+            "affiliation": {
+                "name": "University of Washington"
+            },
+            "identifier": "0000-0001-9610-5883",
+            "name": "Annette Hynes"
+        },
+        {
+            "affiliation": {
+                "name": "University of Washington"
+            },
+            "name": "Chris Berthiaume"
+        },
+        {
+            "affiliation": {
+                "name": "University of Washington"
+            },
+            "name": "Jarred Swalwell"
+        },
+        {
+            "affiliation": {
+                "name": "University of Washington"
+            },
+            "name": "E Virginia Armbrust"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-08-20",
+    "dateModified": "2020-08-20",
+    "datePublished": "2019-06-11T00:00:00",
+    "description": "We have added 6 new cruises\u00a0to the SeaFlow data repository. Clic here\u00a0for details regarding these cruises.\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3243582/files-archive",
+            "dateModified": "2020-08-20"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3212222/files-archive",
+            "dateModified": "2020-08-20"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/3445393/files-archive",
+            "dateModified": "2020-08-20"
+        }
+    ],
+    "doi": "10.5281/zenodo.3212221",
+    "identifier": "zenodo.3212221",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "SeaFlow",
+        "flow cytometry",
+        "phytoplankton",
+        "prochlorococcus",
+        "synechococcus",
+        "Crocosphaera",
+        "picoeukaryotes"
+    ],
+    "name": "SeaFlow data 1.0: 6 new cruises added to the SeaFlow repository",
+    "sameAs": [
+        "https://zenodo.org/records/3243582",
+        "https://zenodo.org/records/3212222",
+        "https://zenodo.org/records/3445393"
+    ],
+    "url": "https://zenodo.org/record/3212221"
+}

@@ -1,0 +1,60 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4454151",
+    "_score": 24.970314,
+    "author": [
+        {
+            "affiliation": {
+                "name": "PhD"
+            },
+            "name": "Namig Isazade"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-19",
+    "dateModified": "2024-07-19",
+    "datePublished": "2021-01-21T00:00:00",
+    "description": "Socio World-Social Research & Behavioral Sciences",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4454152/files-archive",
+            "dateModified": "2024-07-19"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4706183/files-archive",
+            "dateModified": "2024-07-19"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4471164/files-archive",
+            "dateModified": "2024-07-19"
+        }
+    ],
+    "doi": "10.5281/zenodo.4454151",
+    "identifier": "zenodo.4454151",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Socio World-Social Research & Behavioral Sciences"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Socio World-Social Research & Behavioral Sciences",
+    "sameAs": [
+        "https://zenodo.org/records/4454152",
+        "https://zenodo.org/records/4706183",
+        "https://zenodo.org/records/4471164"
+    ],
+    "url": "https://zenodo.org/record/4454151"
+}

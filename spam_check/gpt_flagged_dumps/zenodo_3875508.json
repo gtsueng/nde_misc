@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3875508",
+    "_score": 23.070555,
+    "author": [
+        {
+            "name": "'Al\u00ee bin \u1e24asan alzaww\u00e2r\u00ee"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-06-03",
+    "dateModified": "2020-06-03",
+    "datePublished": "2020-06-03T00:00:00",
+    "description": "IO Islamic 1405. Majma\u2019-alhud\u00e2, Legends and Biographies of the Prophets, Im\u00e2ms, and other Holy Men",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3875509/files-archive",
+            "dateModified": "2020-06-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.3875508",
+    "identifier": "zenodo.3875508",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "IO Islamic 1405",
+        "1405",
+        "India Office"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "IO Islamic 1405. Majma'-alhud\u00e2, Legends and Biographies of the Prophets, Im\u00e2ms, and other Holy Men",
+    "sameAs": [
+        "https://zenodo.org/records/3875509"
+    ],
+    "url": "https://zenodo.org/record/3875508"
+}

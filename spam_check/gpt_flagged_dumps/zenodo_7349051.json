@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7349051",
+    "_score": 25.226171,
+    "author": [
+        {
+            "affiliation": {
+                "name": "National Center for Supercomputing Applications"
+            },
+            "identifier": "0000-0003-4779-041X",
+            "name": "Chen Wang"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-04-18",
+    "dateModified": "2024-04-18",
+    "datePublished": "2022-11-22T00:00:00",
+    "description": "bagit version of joplin hospitals v222",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7349052/files-archive",
+            "dateModified": "2024-04-18"
+        }
+    ],
+    "doi": "10.5281/zenodo.7349051",
+    "identifier": "zenodo.7349051",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Joplin Hospital Bagit",
+    "sameAs": [
+        "https://zenodo.org/records/7349052"
+    ],
+    "url": "https://zenodo.org/record/7349051"
+}

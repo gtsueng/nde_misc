@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4916397",
+    "_score": 23.259604,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Prof."
+            },
+            "name": "Kyriacos Felekkis"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-06-15",
+    "dateModified": "2021-06-15",
+    "datePublished": "2021-06-09T00:00:00",
+    "description": "This repository contains the clinical\u00a0data collected specifically for the OACTIVE project. More information can be found on OACTIVE's site:\u00a0www.oactive.eu",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4916398/files-archive",
+            "dateModified": "2021-06-15"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/4916442/files-archive",
+            "dateModified": "2021-06-15"
+        }
+    ],
+    "doi": "10.5281/zenodo.4916397",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "777159",
+            "name": "Advanced personalised, multi-scale computer models preventing OsteoArthritis"
+        }
+    ],
+    "identifier": "zenodo.4916397",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Osteoarthritis",
+        "knee OA",
+        "Demographics",
+        "Clinical exams",
+        "WOMAC",
+        "MRI",
+        "KOOS"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Advanced personalised, multi-scale computer models preventing osteoarthritis",
+    "sameAs": [
+        "https://zenodo.org/records/4916398",
+        "https://zenodo.org/records/4916442"
+    ],
+    "sdPublisher": [
+        {
+            "name": "oactive",
+            "url": "https://zenodo.org/communities/oactive"
+        },
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/4916397"
+}

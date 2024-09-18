@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5168000",
+    "_score": 26.163782,
+    "author": [
+        {
+            "name": "xinyu"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-08-07",
+    "dateModified": "2021-08-07",
+    "datePublished": "2021-08-06T00:00:00",
+    "description": "no",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5168001/files-archive",
+            "dateModified": "2021-08-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.5168000",
+    "identifier": "zenodo.5168000",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Kmatrix",
+    "sameAs": [
+        "https://zenodo.org/records/5168001"
+    ],
+    "url": "https://zenodo.org/record/5168000"
+}

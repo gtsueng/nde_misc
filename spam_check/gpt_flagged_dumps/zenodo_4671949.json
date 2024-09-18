@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4671949",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.628551,
+    "author": [
+        {
+            "name": "Blay Tamarit, Jes\u00fas Antonio"
+        },
+        {
+            "name": "L\u00f3pez Simpson, Elisabeth Anna"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-04-09",
+    "dateModified": "2021-04-09",
+    "datePublished": "2021-04-08T00:00:00",
+    "description": "This dataset is formed by\u00a0the results obtained from the different vacational rentals available on the hometogo.com portal during the period 05/31 to 06/06 in Switzerland and with a price under\u00a0175 euros per night.\n\n\nFor more details you can visit the following GitHub repository:\nhttps://github.com/ElisabethUoc/Web_Scraping",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4671950/files-archive",
+            "dateModified": "2021-04-09"
+        }
+    ],
+    "doi": "10.5281/zenodo.4671949",
+    "identifier": "zenodo.4671949",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "UOC",
+        "Vacational Rental"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Switzerland vacational rental",
+    "sameAs": [
+        "https://zenodo.org/records/4671950"
+    ],
+    "url": "https://zenodo.org/record/4671949"
+}

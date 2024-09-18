@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5568874",
+    "_score": 25.160135,
+    "author": [
+        {
+            "affiliation": {
+                "name": "BTH"
+            },
+            "identifier": "0000-0001-8879-6450",
+            "name": "Michael Dorner"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-05-18",
+    "dateModified": "2022-05-18",
+    "datePublished": "2022-05-18T00:00:00",
+    "description": "Those are the results of our simulation\u00a0https://github.com/michaeldorner/only-time-will-tell",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6542540/files-archive",
+            "dateModified": "2022-05-18"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5568875/files-archive",
+            "dateModified": "2022-05-18"
+        }
+    ],
+    "doi": "10.5281/zenodo.5568874",
+    "identifier": "zenodo.5568874",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Only Time Will Tell",
+    "sameAs": [
+        "https://zenodo.org/records/6542540",
+        "https://zenodo.org/records/5568875"
+    ],
+    "url": "https://zenodo.org/record/5568874"
+}

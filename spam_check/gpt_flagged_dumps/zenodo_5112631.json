@@ -1,0 +1,57 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5112631",
+    "_score": 24.902193,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Children's Hospital of Philadelphia"
+            },
+            "identifier": "0000-0002-9949-6936",
+            "name": "Ahmed Moustafa"
+        },
+        {
+            "affiliation": {
+                "name": "Children's Hospital of Philadelphia"
+            },
+            "identifier": "0000-0003-0543-0539",
+            "name": "Paul Planet"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-10-25",
+    "dateModified": "2021-10-25",
+    "datePublished": "2021-10-23T00:00:00",
+    "description": "Compressed dataset for GNUVID",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5594708/files-archive",
+            "dateModified": "2021-10-25"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5112632/files-archive",
+            "dateModified": "2021-10-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.5112631",
+    "identifier": "zenodo.5112631",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Compressed Datasets for GNUVID",
+    "sameAs": [
+        "https://zenodo.org/records/5594708",
+        "https://zenodo.org/records/5112632"
+    ],
+    "url": "https://zenodo.org/record/5112631"
+}

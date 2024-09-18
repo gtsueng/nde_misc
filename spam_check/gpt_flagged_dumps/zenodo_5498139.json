@@ -1,0 +1,42 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5498139",
+    "_score": 24.970314,
+    "author": [
+        {
+            "identifier": "0000-0003-2263-2239",
+            "name": "Peter Nimiritsky"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-09-10",
+    "dateModified": "2021-09-10",
+    "datePublished": "2021-09-09T00:00:00",
+    "description": "FINAL Figures TIFF and AI Nimiritsky et al BIOMEDICINES",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5498140/files-archive",
+            "dateModified": "2021-09-10"
+        }
+    ],
+    "doi": "10.5281/zenodo.5498139",
+    "identifier": "zenodo.5498139",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "FINAL Figures TIFF and AI Nimiritsky et al BIOMEDICINES",
+    "sameAs": [
+        "https://zenodo.org/records/5498140"
+    ],
+    "url": "https://zenodo.org/record/5498139"
+}

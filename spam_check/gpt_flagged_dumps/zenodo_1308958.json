@@ -1,0 +1,60 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1308958",
+    "_score": 24.292034,
+    "author": [
+        {
+            "affiliation": {
+                "name": "State University of Maring\u00e1"
+            },
+            "name": "Maicon G. Pazin"
+        },
+        {
+            "affiliation": {
+                "name": "State University of Maring\u00e1"
+            },
+            "name": "Ricardo Theis Geraldi"
+        },
+        {
+            "affiliation": {
+                "name": "State University of Maring\u00e1"
+            },
+            "identifier": "0000-0002-4760-1626",
+            "name": "Edson OliveiraJr"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-07-10T00:00:00",
+    "description": "SMartySPEM qualitative study instruments and dataset.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1308959/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1308958",
+    "identifier": "zenodo.1308958",
+    "inLanguage": {
+        "name": "por"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "SMartySPEM qualitative study instruments and dataset",
+    "sameAs": [
+        "https://zenodo.org/records/1308959"
+    ],
+    "url": "https://zenodo.org/record/1308958"
+}

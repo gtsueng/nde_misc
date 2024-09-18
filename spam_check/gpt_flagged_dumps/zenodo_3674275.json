@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3674275",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.099463,
+    "author": [
+        {
+            "affiliation": {
+                "name": "S.S.Dempo College of Commerce and Economics"
+            },
+            "name": "Dias, Cheryl"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-02-19",
+    "dateModified": "2020-02-19",
+    "datePublished": "2020-02-19T00:00:00",
+    "description": "This is a data collected from Indian and International tourist who have travelled for leisure. The focus is on memorable tourism experiences. It has also captured the visitors intention to revisit or extend their stay. It was collected from December 2018 - February 2020. I want research scholars, students, and academicians to make best use of this data and share any kind of analysis or papers published with me on chervendias@gmail.com.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3674276/files-archive",
+            "dateModified": "2020-02-19"
+        }
+    ],
+    "doi": "10.5281/zenodo.3674275",
+    "identifier": "zenodo.3674275",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Memorable tourism experiences, innovation, social innovation, tourism, leisure, local innovation, true innovation"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Data on Memorable Tourism Experiences",
+    "sameAs": [
+        "https://zenodo.org/records/3674276"
+    ],
+    "url": "https://zenodo.org/record/3674275"
+}

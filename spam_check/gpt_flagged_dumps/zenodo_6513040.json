@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6513040",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.836363,
+    "author": [
+        {
+            "name": "scvi-model-zoo team"
+        },
+        {
+            "name": "Tabula Sapiens team"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-09-11",
+    "dateModified": "2022-09-11",
+    "datePublished": "2022-05-02T00:00:00",
+    "description": "Tabula Sapiens\u00a0paper. The Tabula Sapiens Consortium, Science 376, eabl4896 (2022).\n\n\nTabula Sapiens\u00a0datasets. Before you use this data please see Tabula Sapiens' Data Release Policy available\u00a0here.\n\n\nTabula Sapiens\u00a0figshare. Pisco, Angela; Consortium, Tabula Sapiens (2021): Tabula Sapiens Single-Cell Dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.14267219.v4\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6640402/files-archive",
+            "dateModified": "2022-09-11"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6513080/files-archive",
+            "dateModified": "2022-09-11"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6513237/files-archive",
+            "dateModified": "2022-09-11"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6513041/files-archive",
+            "dateModified": "2022-09-11"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6640358/files-archive",
+            "dateModified": "2022-09-11"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6513306/files-archive",
+            "dateModified": "2022-09-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.6513040",
+    "identifier": "zenodo.6513040",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "scvi Model  & Data Zoo | Tabula Sapiens | Datasets",
+    "sameAs": [
+        "https://zenodo.org/records/6640402",
+        "https://zenodo.org/records/6513080",
+        "https://zenodo.org/records/6513237",
+        "https://zenodo.org/records/6513041",
+        "https://zenodo.org/records/6640358",
+        "https://zenodo.org/records/6513306"
+    ],
+    "url": "https://zenodo.org/record/6513040"
+}

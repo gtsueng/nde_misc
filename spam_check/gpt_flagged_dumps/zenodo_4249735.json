@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4249735",
+    "_score": 24.292034,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Student"
+            },
+            "name": "Adri\u00e1n L\u00f3pez Ib\u00e1\u00f1ez"
+        },
+        {
+            "affiliation": {
+                "name": "Student"
+            },
+            "name": "Nil Busquets Aran"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-11-07",
+    "dateModified": "2020-11-07",
+    "datePublished": "2020-11-06T00:00:00",
+    "description": "This dataset contains data of Netflix and Disney+ films and Shows in Spain\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4249736/files-archive",
+            "dateModified": "2020-11-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.4249735",
+    "identifier": "zenodo.4249735",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Netflix",
+        "Disney+",
+        "Spain"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Netflix and Disney+ films and Shows in Spain",
+    "sameAs": [
+        "https://zenodo.org/records/4249736"
+    ],
+    "url": "https://zenodo.org/record/4249735"
+}

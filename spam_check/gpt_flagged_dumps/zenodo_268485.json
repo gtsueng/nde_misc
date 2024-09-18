@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_268485",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.227608,
+    "author": [
+        {
+            "name": "ISBSG Limited"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2012-11-12T00:00:00",
+    "description": "This is\u00a0teaser data\u00a0from the\u00a0The International Software Benchmarking Standards Group. Stored here is a small subset of of the ISBSG data. The rest of the data can be accessed, for a nominal cost, from\u00a0https://www.isbsg.org/.\n\n\n\u00a0\n\n\nSee also\n\n\nThe COSMIC data set\u00a0http://openscience.us/repo/effort/isbsg/cosmic.html\n\n\nReference\n\n\nThe International Software Benchmarking Standards Group Limited, ISBSG\u00a0http://www.isbsg.org))\n\n\nAttribute Information\n\n\n\n\t\nAttributes:\u00a0https://terapromise.csc.ncsu.edu/repo/effort/isbsg/isbsg10/isbsg-attribute-info.txt",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/268485/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.268485",
+    "identifier": "zenodo.268485",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "effort"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "isbsg10",
+    "sdPublisher": [
+        {
+            "name": "seacraft",
+            "url": "https://zenodo.org/communities/seacraft"
+        }
+    ],
+    "url": "https://zenodo.org/records/268485"
+}

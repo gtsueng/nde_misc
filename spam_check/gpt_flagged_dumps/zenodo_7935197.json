@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7935197",
+    "_score": 18.863176,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Process Systems Engineering, Max Planck Institute for Dynamics of Complex Technical Systems, Sandtorstr. 1, D-39106 Magdeburg, Germany"
+            },
+            "name": "Guzhong Chen"
+        },
+        {
+            "affiliation": {
+                "name": "State Key Laboratory of Chemical Engineering, School of Chemical Engineering, East China University of Science and Technology, 130 Meilong Road, Shanghai 200237, China"
+            },
+            "name": "Zhen Song"
+        },
+        {
+            "affiliation": {
+                "name": "State Key Laboratory of Chemical Engineering, School of Chemical Engineering, East China University of Science and Technology, 130 Meilong Road, Shanghai 200237, China"
+            },
+            "name": "Zhiwen Qi"
+        },
+        {
+            "affiliation": {
+                "name": "Process Systems Engineering, Max Planck Institute for Dynamics of Complex Technical Systems, Sandtorstr. 1, D-39106 Magdeburg, Germany"
+            },
+            "name": "Kai Sundmacher"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-05-16",
+    "dateModified": "2023-05-16",
+    "datePublished": "2023-05-14T00:00:00",
+    "description": "Dataset for \"Generalizing property prediction of ionic liquids from limited labeled data: \u00a0a one-stop framework empowered by transfer learning\", codes can be found here.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7935198/files-archive",
+            "dateModified": "2023-05-16"
+        }
+    ],
+    "doi": "10.5281/zenodo.7935197",
+    "identifier": "zenodo.7935197",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Chemoinformatics",
+        "ionic liquids",
+        "transfer learning"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Dataset for \"Generalizing property prediction of ionic liquids from limited labeled data:  a one-stop framework empowered by transfer learning\"",
+    "sameAs": [
+        "https://zenodo.org/records/7935198"
+    ],
+    "url": "https://zenodo.org/record/7935197"
+}

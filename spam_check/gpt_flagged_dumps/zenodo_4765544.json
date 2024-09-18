@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4765544",
+    "_score": 25.157059,
+    "author": [
+        {
+            "affiliation": {
+                "name": "None"
+            },
+            "name": "None"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-05-16",
+    "dateModified": "2021-05-16",
+    "datePublished": "2021-05-16T00:00:00",
+    "description": "Full list of real world visual bug reports.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4765545/files-archive",
+            "dateModified": "2021-05-16"
+        }
+    ],
+    "doi": "10.5281/zenodo.4765544",
+    "identifier": "zenodo.4765544",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "GIFdroid: Automated Bug Replay from Visual Bug Report",
+    "sameAs": [
+        "https://zenodo.org/records/4765545"
+    ],
+    "url": "https://zenodo.org/record/4765544"
+}

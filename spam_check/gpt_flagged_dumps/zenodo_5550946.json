@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5550946",
+    "_score": 24.472713,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Universidad Internacional de La Rioja, UNIR"
+            },
+            "name": "Moreno-Delgado, Alicia"
+        },
+        {
+            "affiliation": {
+                "name": "Universidad Internacional de La Rioja, UNIR"
+            },
+            "name": "Repiso, Rafael"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-10-06",
+    "dateModified": "2021-10-06",
+    "datePublished": "2021-10-05T00:00:00",
+    "description": "Listado provisional de universidades a distancia a nivel mundial",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5550947/files-archive",
+            "dateModified": "2021-10-06"
+        }
+    ],
+    "doi": "10.5281/zenodo.5550946",
+    "identifier": "zenodo.5550946",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Listado universidades a distancia",
+    "sameAs": [
+        "https://zenodo.org/records/5550947"
+    ],
+    "url": "https://zenodo.org/record/5550946"
+}

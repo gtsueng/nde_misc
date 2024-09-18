@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5819233",
+    "_score": 25.55252,
+    "author": [
+        {
+            "affiliation": {
+                "name": "National Institute of Agricultural Sciences"
+            },
+            "identifier": "0000-0003-2781-0778",
+            "name": "Yedomon Ange Bovys Zoclanclounon"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-01-05",
+    "dateModified": "2022-01-05",
+    "datePublished": "2022-01-05T00:00:00",
+    "description": "Yedomon",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5819234/files-archive",
+            "dateModified": "2022-01-05"
+        }
+    ],
+    "doi": "10.5281/zenodo.5819233",
+    "identifier": "zenodo.5819233",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "Yedomon",
+    "sameAs": [
+        "https://zenodo.org/records/5819234"
+    ],
+    "url": "https://zenodo.org/record/5819233"
+}

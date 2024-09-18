@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5517868",
+    "_score": 26.027971,
+    "author": [
+        {
+            "name": "Mark Vincent Ty"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-12-22",
+    "dateModified": "2021-12-22",
+    "datePublished": "2021-09-20T00:00:00",
+    "description": "gooreal",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5795240/files-archive",
+            "dateModified": "2021-12-22"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5517869/files-archive",
+            "dateModified": "2021-12-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.5517868",
+    "identifier": "zenodo.5517868",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "gooreal",
+    "sameAs": [
+        "https://zenodo.org/records/5795240",
+        "https://zenodo.org/records/5517869"
+    ],
+    "url": "https://zenodo.org/record/5517868"
+}

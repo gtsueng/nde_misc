@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1476299",
+    "_score": 25.224653,
+    "author": [
+        {
+            "affiliation": {
+                "name": "The Museum of Modern Art (MoMA)"
+            },
+            "name": "Robot, Open Data"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-11-01T00:00:00",
+    "description": "Temporary Description",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1476300/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1476299",
+    "identifier": "zenodo.1476299",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "MoMA Collection - Automatic Monthly Update",
+    "sameAs": [
+        "https://zenodo.org/records/1476300"
+    ],
+    "url": "https://zenodo.org/record/1476299"
+}

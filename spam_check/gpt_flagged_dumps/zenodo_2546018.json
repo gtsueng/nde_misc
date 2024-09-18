@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_2546018",
+    "_score": 25.68746,
+    "author": [
+        {
+            "affiliation": {
+                "name": "dlcturismouc"
+            },
+            "name": "UC, Students"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2019-01-21T00:00:00",
+    "description": "Curated Pernoctaciones Tenerife",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/2546019/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.2546018",
+    "identifier": "zenodo.2546018",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Curated Pernoctaciones Tenerife",
+    "sameAs": [
+        "https://zenodo.org/records/2546019"
+    ],
+    "sdPublisher": [
+        {
+            "name": "dlcturismouc",
+            "url": "https://zenodo.org/communities/dlcturismouc"
+        }
+    ],
+    "url": "https://zenodo.org/record/2546018"
+}

@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5517843",
+    "_score": 26.024681,
+    "author": [
+        {
+            "name": "Mark Vincent Ty"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-12-22",
+    "dateModified": "2021-12-22",
+    "datePublished": "2021-09-20T00:00:00",
+    "description": "testrealhumanspkl",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5795290/files-archive",
+            "dateModified": "2021-12-22"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5517844/files-archive",
+            "dateModified": "2021-12-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.5517843",
+    "identifier": "zenodo.5517843",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "testrealhumanspkl",
+    "sameAs": [
+        "https://zenodo.org/records/5795290",
+        "https://zenodo.org/records/5517844"
+    ],
+    "url": "https://zenodo.org/record/5517843"
+}

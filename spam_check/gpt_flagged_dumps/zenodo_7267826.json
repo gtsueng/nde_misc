@@ -1,0 +1,66 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7267826",
+    "_score": 23.043364,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of York"
+            },
+            "identifier": "0000-0001-5431-2032",
+            "name": "James Sherwood"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-10-31",
+    "dateModified": "2022-10-31",
+    "datePublished": "2022-10-31T00:00:00",
+    "description": "Synergistic data analysis tool for green chemistry. Includes visual kinetic analysis (variable time normalization analysis), a linear solvation energy relationship calculator to determine solvent effects, and green chemistry metrics.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7267827/files-archive",
+            "dateModified": "2022-10-31"
+        }
+    ],
+    "doi": "10.5281/zenodo.7267826",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "887398",
+            "name": "Circular High-performance Aza-Michael Polymers as Innovative materials Originating from Nature"
+        }
+    ],
+    "identifier": "zenodo.7267826",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Reaction Optimizer Spreadsheet tool",
+    "sameAs": [
+        "https://zenodo.org/records/7267827"
+    ],
+    "sdPublisher": [
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        },
+        {
+            "name": "champion-project",
+            "url": "https://zenodo.org/communities/champion-project"
+        }
+    ],
+    "url": "https://zenodo.org/record/7267826"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4249646",
+    "_score": 22.836363,
+    "author": [
+        {
+            "name": "Lu\u00eds Le\u00f3n"
+        },
+        {
+            "name": "Sergi Boadas"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-11-06",
+    "dateModified": "2020-11-06",
+    "datePublished": "2020-11-06T00:00:00",
+    "description": "Dataset que contiene informaci\u00f3n referente a todos los productos (ropa y accesorios) que est\u00e1n a la venta en la p\u00e1gina web de la marca espa\u00f1ola Mustang. Estos atributos se han obtenido mediante el uso de WebScraping en una pr\u00e1ctica de la UOC",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4249647/files-archive",
+            "dateModified": "2020-11-06"
+        }
+    ],
+    "doi": "10.5281/zenodo.4249646",
+    "identifier": "zenodo.4249646",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "productos, online, mustang, ropa, accesorios"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Productos a la venta online de la marca espa\u00f1ola \"Mustang\"",
+    "sameAs": [
+        "https://zenodo.org/records/4249647"
+    ],
+    "url": "https://zenodo.org/record/4249646"
+}

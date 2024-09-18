@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_31923",
+    "_score": 22.20396,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of California, Berkeley"
+            },
+            "name": "Alstone, Peter"
+        },
+        {
+            "affiliation": {
+                "name": "Humboldt State University"
+            },
+            "name": "Jacobson, Arne"
+        },
+        {
+            "affiliation": {
+                "name": "University of California, Berkeley"
+            },
+            "name": "Kammen, Daniel"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2016-01-01T00:00:00",
+    "description": "Go to this version for the fixed attachment:\n\n\nhttps://zenodo.org/deposit/63871/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/31923/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.31923",
+    "identifier": "zenodo.31923",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "[BROKEN ATTACHMENT] Off-grid solar energy services enabled and evaluated through information technology",
+    "url": "https://zenodo.org/records/31923"
+}

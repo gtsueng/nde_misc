@@ -1,0 +1,64 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7671434",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 19.178844,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Nexi S.p.A."
+            },
+            "name": "Dezi Fabio"
+        },
+        {
+            "affiliation": {
+                "name": "Nexi S.p.A."
+            },
+            "name": "Testa Paolo"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-02-24",
+    "dateModified": "2023-02-24",
+    "datePublished": "2023-02-23T00:00:00",
+    "description": "The following datasets have been used\u00a0for development an testing of Anomaly Engine Webapp. They\u00a0includes data samples for all the 4 scenarios:\n1 - Simple Self Financing\n2 - Self \u00a0Financing by bank account\n3 - Indirect SF (by recharge)\n4 - Indirect Account Self Financing\n\n\nEach file row represents a graph relationship between a source node (source) and a destination node (target).\n\n\nFiles must have the following schema:\n\n\n\n\t\nsource_type: Source node label;\n\t\nsource_attributes: Source node attributes. Can be null;\n\t\ntarget_type: Destination node label;\n\t\ntarget_attributes: Destination node attributes. Can be null;\n\t\nrelation_type: Relationship label;\n\t\nrelation_attributes: Relationship attributes. Can be null.\n\n\n\nAttributes must be expressed as key-value pairs separated by a semicolon ;. For example\n\n\nkey1=value1;key2=value2\n\n\n\u00a0\n\n\nThe datasets\u00a0are also available in\u00a0Infinitech Marketplace\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7671435/files-archive",
+            "dateModified": "2023-02-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.7671434",
+    "identifier": "zenodo.7671434",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Anti Money Laundering",
+        "Machine Learning",
+        "Pagerank"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Anomaly Engine Development and Testing Datasets",
+    "sameAs": [
+        "https://zenodo.org/records/7671435"
+    ],
+    "sdPublisher": [
+        {
+            "name": "infinitech",
+            "url": "https://zenodo.org/communities/infinitech"
+        }
+    ],
+    "url": "https://zenodo.org/record/7671434"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4243818",
+    "_score": 25.097557,
+    "author": [
+        {
+            "name": "Kemal Jabir"
+        },
+        {
+            "name": "Biyan Farhansyah"
+        },
+        {
+            "name": "Nauval Rendrahadi"
+        },
+        {
+            "name": "Nur Aini Rakhmawati"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-11-04",
+    "dateModified": "2020-11-04",
+    "datePublished": "2020-11-04T00:00:00",
+    "description": "Sentimen kuota kemendikbud.xlsx",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4243819/files-archive",
+            "dateModified": "2020-11-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.4243818",
+    "identifier": "zenodo.4243818",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": null,
+    "name": "Sentimen Warganet Twitter Terhdap Kuota Gratis Kemendikbud",
+    "sameAs": [
+        "https://zenodo.org/records/4243819"
+    ],
+    "url": "https://zenodo.org/record/4243818"
+}

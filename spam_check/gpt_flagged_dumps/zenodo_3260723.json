@@ -1,0 +1,40 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3260723",
+    "_score": 26.027971,
+    "author": [
+        {
+            "affiliation": {
+                "name": "INSERM"
+            },
+            "name": "Manuel LEBEURRIER"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2019-06-28T00:00:00",
+    "description": "TOXOTRMnicolas15236run1Latence",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3260723/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.1234/TOXOTRMnicolas15236run1Latence.bar",
+    "identifier": "zenodo.3260723",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "TOXOTRMnicolas15236run1Latence",
+    "url": "https://zenodo.org/records/3260723"
+}

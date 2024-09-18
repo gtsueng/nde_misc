@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3642405",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.62336,
+    "author": [
+        {
+            "identifier": "0000-0003-1111-4217",
+            "name": "Mirko Zaffaroni"
+        },
+        {
+            "identifier": "0000-0001-5038-3597",
+            "name": "Claudio Rossi"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-03-02",
+    "dateModified": "2023-03-02",
+    "datePublished": "2019-12-06T00:00:00",
+    "description": "The\u00a0dataset is composed of 490 images and their labelled ground truth, which consists of binary masks where zero is assigned to the background pixels and one to the water pixels. You can get the full dataset of 11900 images with their mask at the following link:\u00a0https://drive.google.com/file/d/1Tm0p7XLzpLlXycSxxu2X7WENTYHh97qC/view?usp=sharing",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3642406/files-archive",
+            "dateModified": "2023-03-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.3642405",
+    "identifier": "zenodo.3642405",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Water segmentation",
+        "Binary mask"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Water Segmentation Dataset",
+    "sameAs": [
+        "https://zenodo.org/records/3642406"
+    ],
+    "url": "https://zenodo.org/record/3642405"
+}

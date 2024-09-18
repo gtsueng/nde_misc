@@ -1,0 +1,64 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3227885",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.838821,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Universiteit Antwerpen"
+            },
+            "identifier": "0000-0003-2636-8279",
+            "name": "Ortu\u00f1o Casanova, Roc\u00edo"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-05-24T00:00:00",
+    "description": "Filiteratura es una base de datos de literatura en espa\u00f1ol publicada en Filipinas entre 1872 y 1973 o en cualquier otro lugar pero sobre Filipinas entre esos mismos a\u00f1os.\n\n\nFiliteratura is a database of literature in Spanish published between 1872 and 1973:\n\n\na) published in the Philippines\n\n\nb) with a Philippine topic\n\n\nThe whole Filiteratura database can be searched in\u00a0https://filiteratura.uantwerpen.be/database/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3227886/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3227885",
+    "identifier": "zenodo.3227885",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Philippine Literature",
+        "Hispanic Literature",
+        "Digital Humanities",
+        "Sociology of Literature",
+        "Literatura hispanofilipina"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Filiteratura",
+    "sameAs": [
+        "https://zenodo.org/records/3227886"
+    ],
+    "sdPublisher": [
+        {
+            "name": "uantwerpdatarepository",
+            "url": "https://zenodo.org/communities/uantwerpdatarepository"
+        }
+    ],
+    "url": "https://zenodo.org/record/3227885"
+}

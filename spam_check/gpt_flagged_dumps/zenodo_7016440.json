@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7016440",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 18.078148,
+    "author": [
+        {
+            "affiliation": {
+                "name": "2Institute of Organic Chemistry and Biochemistry of the CAS, Flemingovo n\u00e1m. 2, 16610, Prague, Czech Republic"
+            },
+            "identifier": "0000-0001-7752-8370",
+            "name": "Blahut Jan"
+        },
+        {
+            "affiliation": {
+                "name": "Bayerisches NMR Zentrum (BNMRZ) at Department Chemie, Technische Universit\u00e4t M\u00fcnchen (TUM), 85747 Garching, Germany"
+            },
+            "identifier": "0000-0002-1052-4233",
+            "name": "Brandl Matthias J."
+        },
+        {
+            "affiliation": {
+                "name": "Bayerisches NMR Zentrum (BNMRZ) at Department Chemie, Technische Universit\u00e4t M\u00fcnchen (TUM), 85747 Garching, Germany"
+            },
+            "identifier": "0000-0002-4479-2199",
+            "name": "Pradhan Tejaswini"
+        },
+        {
+            "affiliation": {
+                "name": "Bayerisches NMR Zentrum (BNMRZ) at Department Chemie, Technische Universit\u00e4t M\u00fcnchen (TUM), 85747 Garching, Germany"
+            },
+            "identifier": "0000-0001-7368-7198",
+            "name": "Reif Bernd"
+        },
+        {
+            "affiliation": {
+                "name": "Department of Chemistry, Faculty of Science, Charles University, Albertov 6, 12842 Prague, Czech Republic"
+            },
+            "identifier": "0000-0003-2741-9154",
+            "name": "To\u0161ner, Zden\u011bk"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-08-23",
+    "dateModified": "2022-08-23",
+    "datePublished": "2022-08-23T00:00:00",
+    "description": "The dataset here contains the raw data and pulse programs used\u00a0for the publication \"Sensitivity-enhanced multidimensional solid-state NMR spectroscopy by optimal-control-based transverse mixing sequences\" submitted to JACS.\n\n\nAll data is in a native Bruker TopSpin format. Data is organized in folders corresponding to Figures of the original publication. Detailed description is included in the file description.txt.\n\n\nWe reccomend to visit our website optimal-nmr.net for additional information about optimal control methods applied to pulse sequence development for solid-state magic-angle-spinning NMR studies of proteins.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7016441/files-archive",
+            "dateModified": "2022-08-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.7016440",
+    "identifier": "zenodo.7016440",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "NMR, solid-state, multidimensional spectroscopy, optimal control"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Sensitivity-enhanced multidimensional solid-state NMR spectroscopy by optimal-control-based transverse mixing sequences",
+    "sameAs": [
+        "https://zenodo.org/records/7016441"
+    ],
+    "url": "https://zenodo.org/record/7016440"
+}

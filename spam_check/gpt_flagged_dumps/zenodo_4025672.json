@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4025672",
+    "_score": 25.356182,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Nanjing University of Information Science and Technology"
+            },
+            "identifier": "0000-0002-1622-5330",
+            "name": "Chang, Yunhua"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-09-12",
+    "dateModified": "2020-09-12",
+    "datePublished": "2020-09-12T00:00:00",
+    "description": "Thailand ammonia data",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4025673/files-archive",
+            "dateModified": "2020-09-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.4025672",
+    "identifier": "zenodo.4025672",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Thailand ammonia",
+    "sameAs": [
+        "https://zenodo.org/records/4025673"
+    ],
+    "url": "https://zenodo.org/record/4025672"
+}

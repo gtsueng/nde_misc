@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3543349",
+    "_score": 25.955711,
+    "author": [
+        {
+            "name": "devnlp"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2019-11-15T00:00:00",
+    "description": "test by nova nlp\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3543350/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.3543349",
+    "identifier": "zenodo.3543349",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "NOVATEST",
+    "sameAs": [
+        "https://zenodo.org/records/3543350"
+    ],
+    "url": "https://zenodo.org/record/3543349"
+}

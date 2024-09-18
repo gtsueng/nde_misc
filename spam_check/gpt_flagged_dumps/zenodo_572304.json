@@ -1,0 +1,38 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_572304",
+    "_score": 25.289516,
+    "author": [
+        {
+            "name": "Xu,Huiyan"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2017-05-06T00:00:00",
+    "description": "Best track data of fitow, downloaded from\u00a0http://0205konami.blog.163.com/blog/static/663188852011191057583/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/572304/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.572304",
+    "identifier": "zenodo.572304",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "name": "Best track data",
+    "url": "https://zenodo.org/records/572304"
+}

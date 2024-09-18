@@ -1,0 +1,179 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5825712",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.647123,
+    "author": [
+        {
+            "name": "Charles E. Breeze"
+        },
+        {
+            "name": "Anna Batorsky"
+        },
+        {
+            "name": "Mi Kyeong Lee"
+        },
+        {
+            "name": "Mindy D. Szeto"
+        },
+        {
+            "name": "Xiaoguang Xu"
+        },
+        {
+            "name": "Daniel L. McCartney"
+        },
+        {
+            "name": "Rong Jiang"
+        },
+        {
+            "name": "Amit Patki"
+        },
+        {
+            "name": "Holly J. Kramer"
+        },
+        {
+            "name": "James M. Eales"
+        },
+        {
+            "name": "Laura Raffield"
+        },
+        {
+            "name": "Leslie Lange"
+        },
+        {
+            "name": "Ethan Lange"
+        },
+        {
+            "name": "Peter Durda"
+        },
+        {
+            "name": "Yongmei Liu"
+        },
+        {
+            "name": "Russ P. Tracy"
+        },
+        {
+            "name": "David Van Den Berg"
+        },
+        {
+            "name": "NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium"
+        },
+        {
+            "name": "TOPMed MESA Multi-Omics Working Group"
+        },
+        {
+            "name": "Kathryn L. Evans"
+        },
+        {
+            "name": "William E. Kraus"
+        },
+        {
+            "name": "Svati Shah"
+        },
+        {
+            "name": "Hermant K. Tiwari"
+        },
+        {
+            "name": "Lifang Hou"
+        },
+        {
+            "name": "Eric A. Whitsel"
+        },
+        {
+            "name": "Xiao Jiang"
+        },
+        {
+            "name": "Fadi J. Charchar"
+        },
+        {
+            "name": "Andrea A. Baccarelli"
+        },
+        {
+            "name": "Stephen S. Rich"
+        },
+        {
+            "name": "Andrew P. Morris"
+        },
+        {
+            "name": "Marguerite R. Irvin"
+        },
+        {
+            "name": "Donna K. Arnett"
+        },
+        {
+            "name": "Elizabeth R. Hauser"
+        },
+        {
+            "name": "Jerome I. Rotter"
+        },
+        {
+            "name": "Adolfo Correa"
+        },
+        {
+            "name": "Caroline Hayward"
+        },
+        {
+            "name": "Steve Horvath"
+        },
+        {
+            "name": "Riccardo E. Marioni"
+        },
+        {
+            "name": "Maciej Tomaszewski"
+        },
+        {
+            "name": "Stephan Beck"
+        },
+        {
+            "name": "Sonja I. Berndt"
+        },
+        {
+            "name": "Stephanie J. London"
+        },
+        {
+            "name": "Josyf C. Mychaleckyj"
+        },
+        {
+            "name": "Nora Franceschini"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-01-07",
+    "dateModified": "2022-01-07",
+    "datePublished": "2022-01-06T00:00:00",
+    "description": "Trans-ethnic meta-analysis results for eGFR EWAS\n\n\nDescription of variables:\n\n\nCpG\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0CPG name\nchr\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Chromosome \u00a0 \u00a0\u00a0\npos_hg38 \u00a0 \u00a0 \u00a0 \u00a0 Position hg38 \u00a0 \u00a0 \u00a0 \u00a0\nBeta\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Effect \u00a0\nSE\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Standard error \u00a0\nP\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 P value\u00a0\ntotalsamplesize\u00a0\u00a0 \u00a0 number of participants\u00a0\ndirection\u00a0\u00a0 \u00a0 direction of effect for studies \u00a0 \u00a0 \u00a0\u00a0\nhetpval\u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0 P value for heterogeneity\u00a0\u00a0 \u00a0\u00a0\nhetdf \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Degree of freedom \u00a0\u00a0\ngene\u00a0\u00a0 \u00a0\u00a0\u00a0 \u00a0 Gene location\n\n\nUpload of this dataset was completed by The EWAS Catalog team. The data can be queried along with hundreds of other EWAS at ewascatalog.org. To upload your EWAS summary statistics and have a zenodo DOI generated for you go to ewascatalog.org/upload.\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5825713/files-archive",
+            "dateModified": "2022-01-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.5825712",
+    "identifier": "zenodo.5825712",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Epigenome-wide association study of kidney function identifies trans-ethnic and ethnic-specific loci",
+    "sameAs": [
+        "https://zenodo.org/records/5825713"
+    ],
+    "sdPublisher": [
+        {
+            "name": "ewas-catalog",
+            "url": "https://zenodo.org/communities/ewas-catalog"
+        }
+    ],
+    "url": "https://zenodo.org/record/5825712"
+}

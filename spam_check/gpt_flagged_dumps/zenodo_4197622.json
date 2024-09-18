@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4197622",
+    "_score": 25.09283,
+    "author": [
+        {
+            "name": "Campoverde, Daniel"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-11-04",
+    "dateModified": "2020-11-04",
+    "datePublished": "2020-11-02T00:00:00",
+    "description": "210,000 Job offers in Ecuador from 2013 to late 2020",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4197623/files-archive",
+            "dateModified": "2020-11-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.4197622",
+    "identifier": "zenodo.4197622",
+    "inLanguage": {
+        "name": "spa"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Ecuador",
+        "Job",
+        "Labour"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Ecuador labour supply",
+    "sameAs": [
+        "https://zenodo.org/records/4197623"
+    ],
+    "url": "https://zenodo.org/record/4197622"
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_4545640",
+    "_score": 25.620478,
+    "author": [
+        {
+            "affiliation": {
+                "name": "ICM - Inria"
+            },
+            "name": "Vincent Henry"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-02-18",
+    "dateModified": "2021-02-18",
+    "datePublished": "2021-02-17T00:00:00",
+    "description": "ADMO-tableSuppl1",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/4545641/files-archive",
+            "dateModified": "2021-02-18"
+        }
+    ],
+    "doi": "10.5281/zenodo.4545640",
+    "identifier": "zenodo.4545640",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "molecular biology",
+        "Alzheimer disease"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "ADMO-tableSuppl1",
+    "sameAs": [
+        "https://zenodo.org/records/4545641"
+    ],
+    "url": "https://zenodo.org/record/4545640"
+}

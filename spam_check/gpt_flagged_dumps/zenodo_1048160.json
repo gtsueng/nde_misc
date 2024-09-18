@@ -1,0 +1,62 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1048160",
+    "_score": 24.714579,
+    "author": [
+        {
+            "affiliation": {
+                "name": "CESBIO"
+            },
+            "identifier": "0000-0001-6896-0049",
+            "name": "Jordi Inglada"
+        },
+        {
+            "affiliation": {
+                "name": "CESBIO"
+            },
+            "name": "Arthur Vincent"
+        },
+        {
+            "affiliation": {
+                "name": "CESBIO"
+            },
+            "name": "Vincent Thierion"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-08-03",
+    "dateModified": "2024-08-03",
+    "datePublished": "2017-11-13T00:00:00",
+    "description": "http://osr-cesbio.ups-tlse.fr/~oso/posts/2017-03-30-carte-s2-2016/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1048161/files-archive",
+            "dateModified": "2024-08-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.1048160",
+    "identifier": "zenodo.1048160",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "land cover",
+        "sentinel2",
+        "france"
+    ],
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "name": "Theia OSO Land Cover Map 2106",
+    "sameAs": [
+        "https://zenodo.org/records/1048161"
+    ],
+    "url": "https://zenodo.org/record/1048160"
+}

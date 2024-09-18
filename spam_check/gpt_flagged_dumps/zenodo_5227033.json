@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5227033",
+    "_score": 25.289516,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Georgia"
+            },
+            "name": "Jerry Shannon"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-08-20",
+    "dateModified": "2021-08-20",
+    "datePublished": "2021-08-20T00:00:00",
+    "description": "SNAP authorized dollar stores",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5227034/files-archive",
+            "dateModified": "2021-08-20"
+        }
+    ],
+    "doi": "10.5281/zenodo.5227033",
+    "identifier": "zenodo.5227033",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "snap",
+        "dollar stores"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "SNAP Authorized dollar stores",
+    "sameAs": [
+        "https://zenodo.org/records/5227034"
+    ],
+    "url": "https://zenodo.org/record/5227033"
+}

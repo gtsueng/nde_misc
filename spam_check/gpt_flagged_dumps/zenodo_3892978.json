@@ -1,0 +1,57 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3892978",
+    "_score": 24.658068,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Bilkent University"
+            },
+            "identifier": "0000-0003-0305-1965",
+            "name": "Beyreli \u0130layda"
+        },
+        {
+            "affiliation": {
+                "name": "Bilkent University"
+            },
+            "name": "Karakahya, O\u011fuzhan"
+        },
+        {
+            "affiliation": {
+                "name": "Bilkent University"
+            },
+            "name": "\u00c7i\u00e7ek, A. Erc\u00fcment"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-06-14",
+    "dateModified": "2020-06-14",
+    "datePublished": "2020-06-13T00:00:00",
+    "description": "DeepND - Spatio-temporal Brain Co-Expression Networks",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3892979/files-archive",
+            "dateModified": "2020-06-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.3892978",
+    "identifier": "zenodo.3892978",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "DeepND - Spatio-temporal Brain Co-Expression Networks",
+    "sameAs": [
+        "https://zenodo.org/records/3892979"
+    ],
+    "url": "https://zenodo.org/record/3892978"
+}

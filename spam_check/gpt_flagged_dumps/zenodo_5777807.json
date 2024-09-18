@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5777807",
+    "_score": 25.161694,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Federal University of Paraiba"
+            },
+            "name": "Maria Cec\u00edlia de Ara\u00fajo Silvestre"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-12-14",
+    "dateModified": "2021-12-14",
+    "datePublished": "2021-12-13T00:00:00",
+    "description": "lalalalalalalala\u00a0https://docs.google.com/spreadsheets/d/1nLln9D96PCqwiUPAT4stSoWhuA9Nrk1b_ekT7rTNYkY/edit#gid=0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5777808/files-archive",
+            "dateModified": "2021-12-14"
+        }
+    ],
+    "doi": "10.5281/zenodo.5777807",
+    "identifier": "zenodo.5777807",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "teste"
+    ],
+    "name": "Teste",
+    "sameAs": [
+        "https://zenodo.org/records/5777808"
+    ],
+    "url": "https://zenodo.org/record/5777807"
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_50151",
+    "_score": 24.902193,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Texas A&M AgriLife"
+            },
+            "name": "Johnson, Charles"
+        },
+        {
+            "affiliation": {
+                "name": "Texas A&M AgriLife"
+            },
+            "name": "Brun, Marcel"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-08-04",
+    "dateModified": "2024-08-04",
+    "datePublished": "2016-04-20T00:00:00",
+    "description": "This is a list of Bioinformatics Jobs posts in 2015-2016",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/50151/files-archive",
+            "dateModified": "2024-08-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.50151",
+    "identifier": "zenodo.50151",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Bioinformatic Jobs",
+    "url": "https://zenodo.org/records/50151"
+}

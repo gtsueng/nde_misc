@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6777612",
+    "_score": 25.754812,
+    "author": [
+        {
+            "affiliation": {
+                "name": "monash University"
+            },
+            "name": "xiaoyu.sun@monash.edu"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-06-29",
+    "dateModified": "2022-06-29",
+    "datePublished": "2022-06-29T00:00:00",
+    "description": "APK for testing",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6777613/files-archive",
+            "dateModified": "2022-06-29"
+        }
+    ],
+    "doi": "10.5281/zenodo.6777612",
+    "identifier": "zenodo.6777612",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "APK for testing",
+    "sameAs": [
+        "https://zenodo.org/records/6777613"
+    ],
+    "url": "https://zenodo.org/record/6777612"
+}

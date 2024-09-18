@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6629314",
+    "_score": 24.294044,
+    "author": [
+        {
+            "name": "Resiloc Project EU"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-06-10",
+    "dateModified": "2022-06-10",
+    "datePublished": "2022-06-09T00:00:00",
+    "description": "Resiloc Open Data Entires for Sep 2021 \n For more info see https://www.resilocproject.eu/",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6629315/files-archive",
+            "dateModified": "2022-06-10"
+        }
+    ],
+    "doi": "10.5281/zenodo.6629314",
+    "identifier": "zenodo.6629314",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Resiloc Platform",
+        "Resiloct Project",
+        "Resilient Europe",
+        "Resiloc Open Data",
+        "Static-proxies",
+        "Indicators",
+        "Snapshots",
+        "Scenarios",
+        "Resiloc-Proxies",
+        "Resiloc-Indicators",
+        "Resiloc-Scenarios"
+    ],
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Resiloc-Open-Data-Sep-2021",
+    "sameAs": [
+        "https://zenodo.org/records/6629315"
+    ],
+    "url": "https://zenodo.org/record/6629314"
+}

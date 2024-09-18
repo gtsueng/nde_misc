@@ -1,0 +1,41 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5482813",
+    "_score": 25.955711,
+    "author": [
+        {
+            "name": "Huo,Dan"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2021-09-07",
+    "dateModified": "2021-09-07",
+    "datePublished": "2021-09-07T00:00:00",
+    "description": "IOCAS 130E12N ADCP",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5482814/files-archive",
+            "dateModified": "2021-09-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.5482813",
+    "identifier": "zenodo.5482813",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/1.0/legalcode",
+    "name": "ADCP-130E-12N",
+    "sameAs": [
+        "https://zenodo.org/records/5482814"
+    ],
+    "url": "https://zenodo.org/record/5482813"
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8313381",
+    "_score": 25.68746,
+    "author": [
+        {
+            "affiliation": {
+                "name": "RMIT"
+            },
+            "name": "Daomin Ji"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-09-04",
+    "dateModified": "2023-09-04",
+    "datePublished": "2023-09-03T00:00:00",
+    "description": "Benmarks",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8313382/files-archive",
+            "dateModified": "2023-09-04"
+        }
+    ],
+    "doi": "10.5281/zenodo.8313381",
+    "identifier": "zenodo.8313381",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Robust Table Integration in Data Lakes",
+    "sameAs": [
+        "https://zenodo.org/records/8313382"
+    ],
+    "url": "https://zenodo.org/record/8313381"
+}

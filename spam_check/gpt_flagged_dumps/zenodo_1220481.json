@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1220481",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 18.617397,
+    "author": [
+        {
+            "name": "Ankita Dixit"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2018-04-19T00:00:00",
+    "description": "UK\u2019s best customer services contact numbers directory . Find direct dial phone numbers and get connected straight to customer service department.\n\n\nCommunication\n\n\nSky Customer Services\n\n\nVirgin Media Customer Service\n\n\nVodafone Customer Service\n\n\nO2 Customer Contact Phone Number\n\n\n\u00a0\n\n\nGadget\n\n\nPlayStation Contact Number\n\n\nCarphone Warehouse Customer Service\n\n\nSony Customer Service\n\n\nASUS Customer Service Contact Number \n\n\nToshiba Customer Service Contact Number\n\n\nDell Customer Service Contact Number\n\n\nAcer Customer Service Contact Number\n\n\nLenovo Customer Service Contact Number\n\n\n\u00a0\n\n\nGovernment\n\n\nDvla London Contact Number\n\n\nDvla Glasgow Contact Number\n\n\nDVLA Cardiff Contact Number\n\n\nDWP Contact Number\n\n\nPassport Office Contact Number\n\n\nIncome Support Contact Number\n\n\nESA Phone Number\n\n\n\u00a0\n\n\nTechnology\n\n\nTalk Talk Customer Service Contact Number\n\n\nASUS Contact Number\n\n\nLycamobile Customer Service\n\n\nUPS Contact Number\n\n\n1and1 Customer Service Contact Number\n\n\nCarphone Warehouse Customer Service \n\n\nToshiba Customer Service",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1220482/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.1220481",
+    "identifier": "zenodo.1220481",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "customer service number, customer support number, customer helpline number, uk customer support number, uk customer service directory, uk contact number"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "UK's Customer Service Helpline Numbers",
+    "sameAs": [
+        "https://zenodo.org/records/1220482"
+    ],
+    "url": "https://zenodo.org/record/1220481"
+}

@@ -1,0 +1,65 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5805553",
+    "_score": 25.822535,
+    "author": [
+        {
+            "name": "scvimadz authors"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-09-11",
+    "dateModified": "2022-09-11",
+    "datePublished": "2021-12-27T00:00:00",
+    "description": "N/A",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6371009/files-archive",
+            "dateModified": "2022-09-11"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6370922/files-archive",
+            "dateModified": "2022-09-11"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6371496/files-archive",
+            "dateModified": "2022-09-11"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6371486/files-archive",
+            "dateModified": "2022-09-11"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/5805554/files-archive",
+            "dateModified": "2022-09-11"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/6370962/files-archive",
+            "dateModified": "2022-09-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.5805553",
+    "identifier": "zenodo.5805553",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "name": "[FOR TESTING] scvimadz models",
+    "sameAs": [
+        "https://zenodo.org/records/6371009",
+        "https://zenodo.org/records/6370922",
+        "https://zenodo.org/records/6371496",
+        "https://zenodo.org/records/6371486",
+        "https://zenodo.org/records/5805554",
+        "https://zenodo.org/records/6370962"
+    ],
+    "url": "https://zenodo.org/record/5805553"
+}

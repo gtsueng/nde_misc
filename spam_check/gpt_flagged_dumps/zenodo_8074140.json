@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_8074140",
+    "_score": 23.266811,
+    "author": [
+        {
+            "identifier": "0000-0001-9407-6150",
+            "name": "charousset"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-06-25",
+    "dateModified": "2023-06-25",
+    "datePublished": "2023-06-23T00:00:00",
+    "description": "This dataset contains scenarios results for Case Study 4\u00a0of the openENTRANCE project.\n\n\nVisit the openENTRANCE Scenario Explorer at\u00a0https://data.ece.iiasa.ac.at/openentrance\u00a0for more information.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/8074141/files-archive",
+            "dateModified": "2023-06-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.8074140",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "835896",
+            "name": "Open ENergy TRansition ANalyses for a low-carbon Economy"
+        }
+    ],
+    "identifier": "zenodo.8074140",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Results for plan4EU runs in Case STudy 4 of the Open ENTRANCE project",
+    "sameAs": [
+        "https://zenodo.org/records/8074141"
+    ],
+    "sdPublisher": [
+        {
+            "name": "openentrance",
+            "url": "https://zenodo.org/communities/openentrance"
+        },
+        {
+            "name": "iiasa-ece",
+            "url": "https://zenodo.org/communities/iiasa-ece"
+        },
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/record/8074140"
+}
