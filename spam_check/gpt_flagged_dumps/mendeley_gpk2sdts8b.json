@@ -1,0 +1,54 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_gpk2sdts8b",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 31.702095,
+    "author": [
+        {
+            "familyName": "Learner",
+            "givenName": "RPA",
+            "name": "RPA Learner"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "http://www.rpalearner.com/rpa/blue-prism-training"
+        }
+    ],
+    "date": "2019-05-28",
+    "dateModified": "2019-05-28",
+    "datePublished": "2019-05-28",
+    "description": "Robotics is the new innovation in business and has profound impact on the several processes. Due to a multitude of advantages, Online Blue Prism training has attained a peak in the market. Each and every organization whether it is small or big has been aiming to automate their many business procedures in a way that it becomes competent in the market. Taking the Online Blue Prism training will always endow with successful career. Visit our official website http://www.rpalearner.com/rpa/blue-prism-training , for more details.",
+    "doi": "10.17632/gpk2sdts8b.1",
+    "identifier": "gpk2sdts8b",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:45.471087"
+    },
+    "keywords": [
+        "Education"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Online Blue Prism Training",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/gpk2sdts8b"
+}

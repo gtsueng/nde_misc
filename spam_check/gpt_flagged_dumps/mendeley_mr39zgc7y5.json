@@ -1,0 +1,73 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_mr39zgc7y5",
+    "_score": 33.92068,
+    "author": [
+        {
+            "familyName": "Yan",
+            "givenName": "Shankai",
+            "name": "Shankai Yan"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "software",
+            "url": "https://github.com/cskyan/evntextrc"
+        }
+    ],
+    "date": "2019-01-28",
+    "dateModified": "2019-01-28",
+    "datePublished": "2019-01-28",
+    "description": "See the details on https://github.com/cskyan/evntextrc#locate-the-pre-generated-dataset",
+    "doi": "10.17632/mr39zgc7y5.2",
+    "identifier": "mr39zgc7y5",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:54.642606"
+    },
+    "keywords": [
+        "Bioinformatics"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Biomedical Event Extraction",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3344",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomedical science",
+            "url": "http://edamontology.org/topic_3344"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/mr39zgc7y5"
+}

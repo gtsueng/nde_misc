@@ -1,0 +1,71 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_wtssp4zsrp",
+    "_score": 32.96126,
+    "author": [
+        {
+            "familyName": "ARGOTE SALGADO",
+            "givenName": "MIGUEL GREGORIO",
+            "name": "MIGUEL GREGORIO ARGOTE SALGADO"
+        }
+    ],
+    "date": "2022-02-15",
+    "dateModified": "2022-02-15",
+    "datePublished": "2022-02-15",
+    "description": "Avanzar visionando  imaginarios  alternativos reconfigurantes (AVIAR). Motivad@s,  geosituad@s a saturaciones  sociales",
+    "doi": "10.17632/wtssp4zsrp.1",
+    "identifier": "wtssp4zsrp",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:41.574396"
+    },
+    "keywords": [
+        "Active Learning",
+        "Secondary Education",
+        "Multi-Reference Configuration Interaction",
+        "Analytic Solution",
+        "Street Youth as Vulnerable Population"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "AVIAR-MGAS",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3419",
+            "inDefinedTermSet": "EDAM",
+            "name": "Psychiatry",
+            "url": "http://edamontology.org/topic_3419"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3855",
+            "inDefinedTermSet": "EDAM",
+            "name": "Environmental sciences",
+            "url": "http://edamontology.org/topic_3855"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/wtssp4zsrp"
+}

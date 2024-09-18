@@ -1,0 +1,38 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_w5tsy9s5zk",
+    "_score": 33.527798,
+    "author": [
+        {
+            "familyName": "Khabar Samay",
+            "givenName": "Khabar Samay",
+            "name": "Khabar Samay Khabar Samay"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://www.khabarsamay.com/"
+        }
+    ],
+    "date": "2019-07-30",
+    "dateModified": "2019-07-30",
+    "datePublished": "2019-07-30",
+    "description": "Khabar samay brings latest news from India, today news ... Find exclusive news stories on Indian politics, current affairs, cricket matches, festivals ... Live TV \u00b7 \nVideos \u00b7 Photos \u00b7 World \u00b7 India \u00b7 Entertainment \u00b7 Lifestyle \u00b7 Cricket.",
+    "doi": "10.17632/w5tsy9s5zk.1",
+    "identifier": "w5tsy9s5zk",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:04.450655"
+    },
+    "keywords": [
+        "Hindi Language"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Khabar Samay | Live breaking news, Latest news, Today news, India political news update",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/w5tsy9s5zk"
+}

@@ -1,0 +1,45 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_vry7jn37b2",
+    "_score": 35.051735,
+    "author": [
+        {
+            "familyName": "Adisa",
+            "givenName": "Waziri",
+            "name": "Waziri Adisa"
+        },
+        {
+            "familyName": "Ayobade",
+            "givenName": "Adebowale ",
+            "name": "Adebowale  Ayobade"
+        },
+        {
+            "familyName": "Shittu",
+            "givenName": "Ayodele",
+            "name": "Ayodele Shittu"
+        }
+    ],
+    "date": "2020-08-22",
+    "dateModified": "2020-08-22",
+    "datePublished": "2020-08-22",
+    "description": "SPSS DATA SET FOR RESEARCH ON TRADERS IN LAGOS",
+    "doi": "10.17632/vry7jn37b2.1",
+    "identifier": "vry7jn37b2",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:03.320154"
+    },
+    "keywords": [
+        "Law",
+        "Urban Climate",
+        "Urban Governance",
+        "Urban Policy"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Traders & Law",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/vry7jn37b2"
+}

@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_x58873cncw",
+    "_score": 33.72827,
+    "author": [
+        {
+            "familyName": "cheng",
+            "givenName": "xiawei",
+            "name": "xiawei cheng"
+        }
+    ],
+    "date": "2023-05-02",
+    "dateModified": "2023-04-29",
+    "datePublished": "2023-05-02",
+    "description": "Materials Needed for your Science Advances Manuscript adg4993",
+    "doi": "10.17632/x58873cncw.1",
+    "identifier": "x58873cncw",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:56.234414"
+    },
+    "keywords": [
+        "Biological Database"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Materials Needed for your Science Advances Manuscript adg4993",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3292",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biochemistry",
+            "url": "http://edamontology.org/topic_3292"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3297",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biotechnology",
+            "url": "http://edamontology.org/topic_3297"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/x58873cncw"
+}

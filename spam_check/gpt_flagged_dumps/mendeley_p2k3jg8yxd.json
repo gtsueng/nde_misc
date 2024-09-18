@@ -1,0 +1,68 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_p2k3jg8yxd",
+    "_score": 34.120705,
+    "author": [
+        {
+            "familyName": "Mayburd",
+            "givenName": "Anatoly",
+            "name": "Anatoly Mayburd"
+        }
+    ],
+    "date": "2022-01-05",
+    "dateModified": "2022-01-01",
+    "datePublished": "2022-01-05",
+    "description": "Kaiser permanente data ",
+    "doi": "10.17632/p2k3jg8yxd.1",
+    "identifier": "p2k3jg8yxd",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:32.914011"
+    },
+    "keywords": [
+        "Medicine",
+        "Biotechnology"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Kaiser Permanente ",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3337",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biobank",
+            "url": "http://edamontology.org/topic_3337"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3571",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data governance",
+            "url": "http://edamontology.org/topic_3571"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/p2k3jg8yxd"
+}

@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_f727rc78wp",
+    "_score": 34.112385,
+    "author": [
+        {
+            "familyName": "Moreno Hernandez",
+            "givenName": "Angel",
+            "name": "Angel Moreno Hernandez"
+        }
+    ],
+    "date": "2019-03-11",
+    "dateModified": "2019-03-11",
+    "datePublished": "2019-03-11",
+    "description": "Articulos ",
+    "doi": "10.17632/f727rc78wp.1",
+    "identifier": "f727rc78wp",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:35.504798"
+    },
+    "keywords": [
+        "Artificial Intelligence"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Articulos ",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/f727rc78wp"
+}

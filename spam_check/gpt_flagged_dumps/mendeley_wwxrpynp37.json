@@ -1,0 +1,35 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_wwxrpynp37",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 32.96126,
+    "author": [
+        {
+            "familyName": "deepbuild",
+            "givenName": "deepbuildwell",
+            "name": "deepbuildwell deepbuild"
+        }
+    ],
+    "date": "2023-05-30",
+    "dateModified": "2023-05-27",
+    "datePublished": "2023-05-30",
+    "description": "M3M Capital Walk 113, located in Sector 113, Gurgaon, stands as one of the most promising commercial developments by M3M India. This distinguished project features beautifully designed landscaped gardens, retail shops, office spaces, entertainment areas, restaurants, and much more to offer a remarkable experience for investors. \nmore link - https://www.indiapropertydekho.com/show-projects/m3m-capital-walk/1971",
+    "doi": "10.17632/wwxrpynp37.1",
+    "identifier": "wwxrpynp37",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:33.753556"
+    },
+    "keywords": [
+        "Real Estate Market"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "M3M Capital Walk Gurgaon | M3M Shop Cum Office Space in Sector 113, Gurugram",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/wwxrpynp37"
+}

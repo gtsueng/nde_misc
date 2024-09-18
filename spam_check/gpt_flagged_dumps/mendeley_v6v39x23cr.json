@@ -1,0 +1,56 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_v6v39x23cr",
+    "_score": 34.623665,
+    "author": [
+        {
+            "familyName": "David",
+            "givenName": "Jones",
+            "name": "Jones David"
+        }
+    ],
+    "date": "2022-02-02",
+    "dateModified": "2022-02-02",
+    "datePublished": "2022-02-02",
+    "description": "google ads stats in 2017! ",
+    "doi": "10.17632/v6v39x23cr.1",
+    "identifier": "v6v39x23cr",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:08.072826"
+    },
+    "keywords": [
+        "Cation Adsorption"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "David Jones Limited",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/v6v39x23cr"
+}

@@ -1,0 +1,56 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_zytt98yd9h",
+    "_score": 34.94571,
+    "author": [
+        {
+            "familyName": "Kari",
+            "givenName": "Venkatram",
+            "name": "Venkatram Kari"
+        }
+    ],
+    "date": "2023-06-19",
+    "dateModified": "2023-06-18",
+    "datePublished": "2023-06-19",
+    "description": "Investor informaiton",
+    "doi": "10.17632/zytt98yd9h.1",
+    "identifier": "zytt98yd9h",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:55.760099"
+    },
+    "keywords": [
+        "Data Acquisition"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Investor",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3571",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data governance",
+            "url": "http://edamontology.org/topic_3571"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/zytt98yd9h"
+}

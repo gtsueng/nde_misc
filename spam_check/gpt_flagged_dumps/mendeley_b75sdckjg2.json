@@ -1,0 +1,93 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_b75sdckjg2",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 29.441607,
+    "author": [
+        {
+            "familyName": "Abbaspour",
+            "givenName": "Hossein",
+            "name": "Hossein Abbaspour"
+        },
+        {
+            "familyName": "Drebenstedt",
+            "givenName": "Carsten",
+            "name": "Carsten Drebenstedt"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-33954-8_36"
+        },
+        {
+            "@type": "article",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-319-99220-4_24"
+        },
+        {
+            "@type": "article",
+            "url": "https://www.sciencedirect.com/science/article/pii/S092575351731754X"
+        },
+        {
+            "@type": "article",
+            "url": "https://www.researchgate.net/publication/334823655_Truck-Shovel_vs_IPCC_systems_a_technical_evaluation_in_open_pit_mines_by_system_dynamics_modeling"
+        }
+    ],
+    "date": "2019-12-25",
+    "dateModified": "2019-12-17",
+    "datePublished": "2019-12-25",
+    "description": "This introduces a software called \u201cTEcESaS Indexes\u201d, which is produced through the Venapp tool of Vensim software. This software, which works based on system dynamics modeling, is used to model the technical, economic, environmental, safety and social factors related to the transportation systems including Truck-Shovel and IPCCs. For more details about the definition and calculation of these factors, interested readers are referred to the works done in the provided links below.\nFor benefiting all the features of the software, you need to install Vensim DSS. However, for having partial access to some features, especially simulation, you just will need to install Vensim Reader through the following link:\nhttps://vensim.com/vensim-model-reader/",
+    "doi": "10.17632/b75sdckjg2.2",
+    "identifier": "b75sdckjg2",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:07.049105"
+    },
+    "keywords": [
+        "Software"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "TEcESaS Indexes Software",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/b75sdckjg2"
+}

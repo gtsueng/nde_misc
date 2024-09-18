@@ -1,0 +1,43 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_b825fzbkm6",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 33.9122,
+    "author": [
+        {
+            "familyName": "Qcollege",
+            "givenName": "Qcollege",
+            "name": "Qcollege Qcollege"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://qcollege.com/"
+        }
+    ],
+    "date": "2021-06-09",
+    "dateModified": "2021-06-09",
+    "datePublished": "2021-06-09",
+    "description": "Q College will continue to develop innovative and flexible educational approaches to serve the needs of our students. Q College encourages and supports creativity and innovation in the development of initiatives that address opportunities for constructive change with Campus in Victoria and Vancouver,British Columbia.",
+    "doi": "10.17632/b825fzbkm6.1",
+    "identifier": "b825fzbkm6",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:33.056484"
+    },
+    "keywords": [
+        "Education",
+        "Business Administration",
+        "Web-Building"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Q College",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/b825fzbkm6"
+}

@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_nxfyc632jb",
+    "_score": 34.125748,
+    "author": [
+        {
+            "familyName": "jesus",
+            "givenName": "marcelo",
+            "name": "marcelo jesus"
+        }
+    ],
+    "date": "2020-05-15",
+    "dateModified": "2020-05-15",
+    "datePublished": "2020-05-15",
+    "description": "Levantamento de dados",
+    "doi": "10.17632/nxfyc632jb.1",
+    "identifier": "nxfyc632jb",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:54.069994"
+    },
+    "keywords": [
+        "Health Sciences"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "P4P",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3071",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data management",
+            "url": "http://edamontology.org/topic_3071"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0219",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data submission, annotation, and curation",
+            "url": "http://edamontology.org/topic_0219"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/nxfyc632jb"
+}

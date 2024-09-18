@@ -1,0 +1,65 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_kxspxgxymb",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 32.403465,
+    "author": [
+        {
+            "familyName": "Hyper",
+            "givenName": "Victor",
+            "name": "Victor Hyper"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://www.gemsny.com/aquamarine-pendants/make-your-own-aquamarine-pendant"
+        }
+    ],
+    "date": "2023-05-22",
+    "dateModified": "2023-05-19",
+    "datePublished": "2023-05-22",
+    "description": "Step up your jewelry game with our stunning Emerald Cut Aquamarine Matched Pair Earrings! These earrings are made with exquisite craftsmanship and will make you feel like a million bucks. With their unparalleled sparkle and shine, you're bound to turn heads wherever you go. Order now and make every day a little more glamorous.",
+    "doi": "10.17632/kxspxgxymb.1",
+    "identifier": "kxspxgxymb",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:02.476594"
+    },
+    "keywords": [
+        "Fashion Industry"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Buy Emerald Cut Aquamarine Matched Pair Earrings",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3398",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioengineering",
+            "url": "http://edamontology.org/topic_3398"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3314",
+            "inDefinedTermSet": "EDAM",
+            "name": "Chemistry",
+            "url": "http://edamontology.org/topic_3314"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/kxspxgxymb"
+}

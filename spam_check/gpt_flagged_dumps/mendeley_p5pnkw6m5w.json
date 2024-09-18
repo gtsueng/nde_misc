@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_p5pnkw6m5w",
+    "_score": 34.125748,
+    "author": [
+        {
+            "familyName": "song",
+            "givenName": "hayeon",
+            "name": "hayeon song"
+        }
+    ],
+    "date": "2018-11-27",
+    "dateModified": "2018-11-27",
+    "datePublished": "2018-11-27",
+    "description": "VR tourism data",
+    "doi": "10.17632/p5pnkw6m5w.1",
+    "identifier": "p5pnkw6m5w",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:33.329206"
+    },
+    "keywords": [
+        "Tourism Marketing"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "VR tourism",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3071",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data management",
+            "url": "http://edamontology.org/topic_3071"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/p5pnkw6m5w"
+}

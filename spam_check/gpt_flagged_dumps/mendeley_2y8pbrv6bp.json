@@ -1,0 +1,55 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_2y8pbrv6bp",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 31.354263,
+    "author": [
+        {
+            "familyName": "Sun Spa Wellness",
+            "givenName": "Sun Spa and Wellness",
+            "name": "Sun Spa and Wellness Sun Spa Wellness"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://sunwellness.ca/massage-vaughan/"
+        }
+    ],
+    "date": "2021-08-11",
+    "dateModified": "2021-08-11",
+    "datePublished": "2021-08-11",
+    "description": "Sun Spa & Wellness is one of the best spa destinations for all those who are looking for Massage Spa in Vaughan. We offer various massage techniques performed by the professional therapists to help you in releasing all your body pain and stress. The therapies you can enjoy at our spa are Hot Stone Massage, Deep Tissue Massage, Aromatherapy Massage, Shiatsu Massage, Swedish Massage and Reflexology Massage. Book your appointments right away and enjoy your massage at affordable price.",
+    "doi": "10.17632/2y8pbrv6bp.1",
+    "identifier": "2y8pbrv6bp",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:59.546164"
+    },
+    "keywords": [
+        "Massage Therapy",
+        "Therapeutic Management in Massage"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Massage Spa Vaughan",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3423",
+            "inDefinedTermSet": "EDAM",
+            "name": "Complementary medicine",
+            "url": "http://edamontology.org/topic_3423"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/2y8pbrv6bp"
+}

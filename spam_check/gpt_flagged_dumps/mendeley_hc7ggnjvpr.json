@@ -1,0 +1,66 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_hc7ggnjvpr",
+    "_score": 32.752563,
+    "author": [
+        {
+            "familyName": "Osman",
+            "givenName": "Fuad",
+            "name": "Fuad Osman"
+        }
+    ],
+    "date": "2022-09-20",
+    "dateModified": "2022-09-20",
+    "datePublished": "2022-09-20",
+    "description": "Dataset description Dataset description Dataset description Dataset description",
+    "doi": "10.17632/hc7ggnjvpr.2",
+    "identifier": "hc7ggnjvpr",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:58.584663"
+    },
+    "keywords": [
+        "Science"
+    ],
+    "name": "Newdatasett",
+    "sdPublisher": {
+        "name": "Elsevier Data Repository"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3077",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data acquisition",
+            "url": "http://edamontology.org/topic_3077"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3070",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biology",
+            "url": "http://edamontology.org/topic_3070"
+        }
+    ],
+    "url": "https://elsevier.digitalcommonsdata.com/datasets/hc7ggnjvpr"
+}

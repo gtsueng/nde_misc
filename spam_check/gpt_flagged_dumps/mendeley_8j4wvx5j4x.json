@@ -1,0 +1,73 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_8j4wvx5j4x",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 28.877903,
+    "author": [
+        {
+            "familyName": "Lin",
+            "givenName": "Chung-Yen",
+            "name": "Chung-Yen Lin"
+        }
+    ],
+    "date": "2022-02-14",
+    "dateModified": "2022-02-12",
+    "datePublished": "2022-02-14",
+    "description": "We introduce an electronic laboratory notebook, Elegancy, a cloud-based and standalone web service distributed as a Docker image. Elegancy fits all laboratories but is specially equipped with several features benefitting biochemical laboratories. For example, it can be accessed on mobile devices, allowing researchers to upload photos or audio recordings directly from their smartphones. We also provide a chemical molecule drawing tool, chemical formula insertion tool, and laboratory supply management system. We believe that Elegancy could help the scientific research community gather evidence, share information, reorganize knowledge, and digitize laboratory works with greater ease and security.\n\nAvailability and Implementation: Docker image of Elegancy is freely accessible at\nhttps://hub.docker.com/r/lsbnb/eln, Demo site: http://elncloud.iis.sinica.edu.tw/ , Video\nabstract: https://www.youtube.com/watch?v=KXOa5WNytCM,\nUser guide at  https://elncloud.iis.sinica.edu.tw/eln_document/#/\n",
+    "doi": "10.17632/8j4wvx5j4x.1",
+    "identifier": "8j4wvx5j4x",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:54.713626"
+    },
+    "keywords": [
+        "Communication",
+        "Intelligent Laboratory System",
+        "Data Management",
+        "Data Access"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Elegancy: Electronic Lab notebook",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3292",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biochemistry",
+            "url": "http://edamontology.org/topic_3292"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0607",
+            "inDefinedTermSet": "EDAM",
+            "name": "Laboratory information management",
+            "url": "http://edamontology.org/topic_0607"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3398",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioengineering",
+            "url": "http://edamontology.org/topic_3398"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/8j4wvx5j4x"
+}

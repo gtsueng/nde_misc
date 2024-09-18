@@ -1,0 +1,102 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_gky8fbtdn3",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 29.459663,
+    "author": [
+        {
+            "familyName": "Wen",
+            "givenName": "Hai-Shen",
+            "name": "Hai-Shen Wen"
+        },
+        {
+            "familyName": "Tao",
+            "givenName": "Ya-Xiong",
+            "name": "Ya-Xiong Tao"
+        },
+        {
+            "familyName": "Li",
+            "givenName": "Ji-Fang",
+            "name": "Ji-Fang Li"
+        },
+        {
+            "familyName": "Li",
+            "givenName": "Yun",
+            "name": "Yun Li"
+        },
+        {
+            "familyName": "Hou",
+            "givenName": "Zhi-Shuai",
+            "name": "Zhi-Shuai Hou"
+        },
+        {
+            "familyName": "feng",
+            "givenName": "he",
+            "name": "he feng"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.ygcen.2017.10.001",
+            "name": "Expression of estrogen receptors in female rainbow trout (Oncorhynchus mykiss) during first ovarian development and under dense rearing condition"
+        }
+    ],
+    "date": "2017-11-23",
+    "dateModified": "2017-09-07",
+    "datePublished": "2017-11-23",
+    "description": "We offer the growth performance of trout.\nWe offer the E2 of females trout under density treatment and histological figures of typical ovarian development stages.\nData of ers gene expression will be uploaded later as anothe paper of us about male ers function under environmental stress is under review. After that paper is published, we will upload all data.",
+    "doi": "10.17632/gky8fbtdn3.1",
+    "identifier": "gky8fbtdn3",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:45.445264"
+    },
+    "keywords": [
+        "Endocrinology",
+        "Fish"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Data for: Expression of estrogen receptors in female rainbow trout (Oncorhynchus mykiss) during first ovarian development and under dense rearing condition",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3679",
+            "inDefinedTermSet": "EDAM",
+            "name": "Animal study",
+            "url": "http://edamontology.org/topic_3679"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3500",
+            "inDefinedTermSet": "EDAM",
+            "name": "Zoology",
+            "url": "http://edamontology.org/topic_3500"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0203",
+            "inDefinedTermSet": "EDAM",
+            "name": "Gene expression",
+            "url": "http://edamontology.org/topic_0203"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/gky8fbtdn3"
+}

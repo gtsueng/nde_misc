@@ -1,0 +1,50 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_jwwkwj9wpc",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 31.009413,
+    "author": [
+        {
+            "familyName": "Houghton",
+            "givenName": "Scott",
+            "name": "Scott Houghton"
+        }
+    ],
+    "date": "2022-05-10",
+    "dateModified": "2022-05-10",
+    "datePublished": "2022-05-10",
+    "description": "This dataset contains information on bets advertised on 5 gambling operator and 5 gambling affiliate Twitter accounts over a 2 week period from 16/09/2019 to 29/09/2019. Information recorded includes; the bet advertised, when it was advertised, the type of bet, decimal odds, whether the bet won or lost, how many times it was advertised, whether there was a betting inducement, whether it was advertised as a \"best\" bet and whether the success of the bet was commented upon to followers of the account.",
+    "doi": "10.17632/jwwkwj9wpc.1",
+    "identifier": "jwwkwj9wpc",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:07.835225"
+    },
+    "keywords": [
+        "Social Media Marketing",
+        "Gambling Industry",
+        "Gambling Addiction"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Advertised bets on social media by gambling operators and affiliates",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/jwwkwj9wpc"
+}

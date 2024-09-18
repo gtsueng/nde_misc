@@ -1,0 +1,58 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_69nz58yyds",
+    "_score": 34.63156,
+    "author": [
+        {
+            "familyName": "Molchanova",
+            "givenName": "Elena",
+            "name": "Elena Molchanova"
+        },
+        {
+            "familyName": "\u041c\u043e\u043b\u0447\u0430\u043d\u043e\u0432",
+            "givenName": "\u0421\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u0432",
+            "name": "\u0421\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u0432 \u041c\u043e\u043b\u0447\u0430\u043d\u043e\u0432"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "dataset",
+            "url": "https://mol4alena.com/multistas/%d1%88%d0%ba%d0%be%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d1%83%d1%80%d0%be%d0%ba%d0%b8/"
+        },
+        {
+            "@type": "dataset",
+            "url": "https://mol4alena.com/%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-%d0%ba%d0%b2%d0%b0%d0%b4%d1%80%d0%b0%d1%82%d0%b8%d1%87%d0%bd%d0%b0%d1%8f-%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d1%8f-%d1%88%d0%ba%d0%be%d0%bb%d1%8c/"
+        },
+        {
+            "@type": "dataset",
+            "url": "https://mol4alena.com/multistas/prezentatsii-multistas/"
+        },
+        {
+            "@type": "dataset",
+            "url": "https://mol4alena.com/multistas/krossvordy-dlja-detej-s-otvetami/"
+        }
+    ],
+    "date": "2020-11-16",
+    "dateModified": "2020-11-11",
+    "datePublished": "2020-11-16",
+    "description": "\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u0438 \u0448\u043a\u043e\u043b\u044c\u043d\u044b\u0435 \u0432\u0438\u0434\u0435\u043e \u0443\u0440\u043e\u043a\u0438, \u0434\u0435\u0442\u0441\u043a\u0438\u0435 \u043f\u0435\u0441\u043d\u0438 \u0432 \u0434\u0435\u0442\u0441\u043a\u0438\u0445 \u043a\u043b\u0438\u043f\u0430\u0445. \n\u0423\u0440\u043e\u043a\u0438 \u0438\u0441\u0442\u043e\u0440\u0438\u0438, \u0433\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u0438, \u0444\u0438\u0437\u0438\u043a\u0438, \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438.\n\u0414\u0435\u0442\u0441\u043a\u0438\u0435 \u0440\u0438\u0441\u0443\u043d\u043a\u0438, \u0440\u0430\u043c\u043a\u0438, \u0444\u0443\u0442\u0430\u0436\u0438, \u0441\u043b\u0430\u0439\u0434-\u0448\u043e\u0443. ",
+    "doi": "10.17632/69nz58yyds.1",
+    "identifier": "69nz58yyds",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:36.071802"
+    },
+    "keywords": [
+        "Arts and Humanities",
+        "Applied Sciences",
+        "Natural Sciences",
+        "Mathematics"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "https://mol4alena.com/multistas/",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/69nz58yyds"
+}

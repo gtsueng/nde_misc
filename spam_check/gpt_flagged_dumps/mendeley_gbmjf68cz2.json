@@ -1,0 +1,73 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_gbmjf68cz2",
+    "_score": 32.775093,
+    "author": [
+        {
+            "familyName": "Cammi",
+            "givenName": "Antonio",
+            "name": "Antonio Cammi"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.pnucene.2018.12.008",
+            "name": "A new approach for nuclear reactor analysis based on complex network theory"
+        }
+    ],
+    "date": "2018-12-21",
+    "dateModified": "2018-11-09",
+    "datePublished": "2018-12-21",
+    "description": "Application of Complex Network to Nuclear Engineering",
+    "doi": "10.17632/gbmjf68cz2.1",
+    "identifier": "gbmjf68cz2",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:03.268071"
+    },
+    "keywords": [
+        "Nuclear Engineering"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Data for: A NEWAPPROACH FOR NUCLEAR REACTOR ANALYSIS BASED ON COMPLEX NETWORK THEORY",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/gbmjf68cz2"
+}

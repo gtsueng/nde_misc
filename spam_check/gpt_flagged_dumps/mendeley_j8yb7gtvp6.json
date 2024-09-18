@@ -1,0 +1,56 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_j8yb7gtvp6",
+    "_score": 34.323174,
+    "author": [
+        {
+            "familyName": "S M",
+            "givenName": "Senthil",
+            "name": "Senthil S M"
+        }
+    ],
+    "date": "2022-02-15",
+    "dateModified": "2022-02-15",
+    "datePublished": "2022-02-15",
+    "description": "Design file (CAD) of Intelligent Domestic Waste Segregator",
+    "doi": "10.17632/j8yb7gtvp6.1",
+    "identifier": "j8yb7gtvp6",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:41.684345"
+    },
+    "keywords": [
+        "Computer-Aided Design"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Intelligent Domestic Waste Segregator",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3398",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioengineering",
+            "url": "http://edamontology.org/topic_3398"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3855",
+            "inDefinedTermSet": "EDAM",
+            "name": "Environmental sciences",
+            "url": "http://edamontology.org/topic_3855"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/j8yb7gtvp6"
+}

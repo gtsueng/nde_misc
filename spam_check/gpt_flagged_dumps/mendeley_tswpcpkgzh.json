@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_tswpcpkgzh",
+    "_score": 34.120705,
+    "author": [
+        {
+            "familyName": "Author",
+            "givenName": "Anonymous",
+            "name": "Anonymous Author"
+        }
+    ],
+    "date": "2020-12-03",
+    "dateModified": "2020-12-01",
+    "datePublished": "2020-12-03",
+    "description": "MLM Submission",
+    "doi": "10.17632/tswpcpkgzh.1",
+    "identifier": "tswpcpkgzh",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:36.021601"
+    },
+    "keywords": [
+        "Business"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "MLM Submission",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0219",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data submission, annotation, and curation",
+            "url": "http://edamontology.org/topic_0219"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3474",
+            "inDefinedTermSet": "EDAM",
+            "name": "Machine learning",
+            "url": "http://edamontology.org/topic_3474"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/tswpcpkgzh"
+}

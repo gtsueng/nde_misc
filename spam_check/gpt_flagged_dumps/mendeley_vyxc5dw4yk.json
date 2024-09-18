@@ -1,0 +1,99 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_vyxc5dw4yk",
+    "_score": 30.692894,
+    "author": [
+        {
+            "familyName": "yuvaraj",
+            "givenName": "L",
+            "name": "L yuvaraj"
+        }
+    ],
+    "date": "2020-05-06",
+    "dateModified": "2020-05-06",
+    "datePublished": "2020-05-06",
+    "description": "CAD Design for face mask which as opt for using DIY (Do It Yourself) filtrate using cotton cloth and PU foam to the maximum thickness 10 mm.",
+    "doi": "10.17632/vyxc5dw4yk.1",
+    "identifier": "vyxc5dw4yk",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:53.936453"
+    },
+    "keywords": [
+        "Computer-Aided Design"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "REUSABLE FACE MASK CAD FILES",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "species": [
+        {
+            "alternateName": [
+                "Upland cotton",
+                "Gossypium purpurascens Poir.",
+                "Gossypium hirsutum subsp. mexicanum",
+                "American upland cotton",
+                "cotton",
+                "Gossypium lanceolatum",
+                "Gossypium hirsutum subsp. mexicanum (Tod.) Mauer",
+                "Gossypium purpurascens",
+                "American cotton",
+                "Gossypium lanceolatum Tod.",
+                "Gossypium hirsutum L., 1763"
+            ],
+            "classification": "host",
+            "commonName": "Upland cotton",
+            "curatedBy": {
+                "dateModified": "2024-08-20",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Upland cotton | Gossypium hirsutum",
+            "fromEXTRACT": true,
+            "identifier": "3635",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Gossypium hirsutum",
+            "originalName": "cotton",
+            "url": "https://www.uniprot.org/taxonomy/3635"
+        }
+    ],
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3303",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicine",
+            "url": "http://edamontology.org/topic_3303"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3344",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomedical science",
+            "url": "http://edamontology.org/topic_3344"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/vyxc5dw4yk"
+}

@@ -1,0 +1,77 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_d8mm8spsdz",
+    "_score": 32.76015,
+    "author": [
+        {
+            "familyName": "Oliveira",
+            "givenName": "Paulo H.",
+            "name": "Paulo H. Oliveira"
+        },
+        {
+            "familyName": "Traina Jr.",
+            "givenName": "Caetano",
+            "name": "Caetano Traina Jr."
+        },
+        {
+            "familyName": "Kaster",
+            "givenName": "Daniel",
+            "name": "Daniel Kaster"
+        }
+    ],
+    "date": "2017-11-04",
+    "dateModified": "2017-11-01",
+    "datePublished": "2017-11-04",
+    "description": "Source code to be used along with the Arboretum library.\nLink for the library: https://bitbucket.org/gbdi/sims",
+    "doi": "10.17632/d8mm8spsdz.2",
+    "identifier": "d8mm8spsdz",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:36.064938"
+    },
+    "keywords": [
+        "Source Code"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Source code for our techniques",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3332",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational chemistry",
+            "url": "http://edamontology.org/topic_3332"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/d8mm8spsdz"
+}

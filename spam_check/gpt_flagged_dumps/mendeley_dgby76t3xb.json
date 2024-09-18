@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_dgby76t3xb",
+    "_score": 34.125748,
+    "author": [
+        {
+            "familyName": "fujisaki",
+            "givenName": "itsuki",
+            "name": "itsuki fujisaki"
+        }
+    ],
+    "date": "2023-05-30",
+    "dateModified": "2023-05-28",
+    "datePublished": "2023-05-30",
+    "description": "Data&Code",
+    "doi": "10.17632/dgby76t3xb.1",
+    "identifier": "dgby76t3xb",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:54.930795"
+    },
+    "keywords": [
+        "Psychology"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "DiverseWisdomWithin",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3365",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data architecture, analysis and design",
+            "url": "http://edamontology.org/topic_3365"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/dgby76t3xb"
+}

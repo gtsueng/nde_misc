@@ -1,0 +1,87 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_j6x5mwzm2d",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 27.259935,
+    "author": [
+        {
+            "familyName": "Nakhaee",
+            "givenName": "Mohammad",
+            "name": "Mohammad Nakhaee"
+        },
+        {
+            "familyName": "Ketabi",
+            "givenName": "S. Ahmad",
+            "name": "S. Ahmad Ketabi"
+        },
+        {
+            "familyName": "Peeters",
+            "givenName": "Francois M.",
+            "name": "Francois M. Peeters"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.cpc.2020.107379",
+            "name": "Tight-Binding Studio: A technical software package to find the parameters of tight-binding Hamiltonian"
+        }
+    ],
+    "date": "2020-06-09",
+    "dateModified": "2020-06-09",
+    "datePublished": "2020-06-09",
+    "description": "We present the Tight-Binding Studio (TB Studio) software package that calculates the different parameters of a tight-binding Hamiltonian from a set of Bloch energy bands obtained from first principle theories such as density functional theory, Hartree\u2013Fock calculations or semi-empirical band-structure theory. This will be helpful for scientists who are interested in studying electronic and optical properties of structures using Green\u2019s function theory within the tight-binding approximation. TB Studio is a cross-platform application written in C++ with a graphical user interface design that is user-friendly and easy to work with. This software is powered by Linear Algebra Package C interface library for solving the eigenvalue problems and the standard high performance OpenGL graphic library for real time plotting. TB Studio and its examples together with the tutorials are available for download from tight-binding.com.",
+    "doi": "10.17632/j6x5mwzm2d.1",
+    "identifier": "j6x5mwzm2d",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:53.529732"
+    },
+    "keywords": [
+        "Condensed Matter Physics",
+        "Computational Physics"
+    ],
+    "license": "https://www.gnu.org/licenses/lgpl-3.0.txt",
+    "name": "Tight-Binding Studio: A technical software package to find the parameters of tight-binding Hamiltonian",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/j6x5mwzm2d"
+}

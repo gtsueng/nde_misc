@@ -1,0 +1,79 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_t2wmgv352k",
+    "_score": 33.340218,
+    "author": [
+        {
+            "familyName": "Martins",
+            "givenName": "Henrique",
+            "name": "Henrique Martins"
+        },
+        {
+            "familyName": "Junior",
+            "givenName": "Gerson",
+            "name": "Gerson Junior"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://opencodecom.net/post/2021-05-05-exemplos-de-busca-de-tendencias-do-google-trend/"
+        }
+    ],
+    "date": "2022-01-25",
+    "dateModified": "2022-01-24",
+    "datePublished": "2022-01-25",
+    "description": "Material published at https://opencodecom.net/\n",
+    "doi": "10.17632/t2wmgv352k.1",
+    "identifier": "t2wmgv352k",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:05.735096"
+    },
+    "keywords": [
+        "Business Economics",
+        "Business Administration"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Exemplos de busca de tend\u00eancias do Google Trend published at Open Code Community",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0092",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data visualisation",
+            "url": "http://edamontology.org/topic_0092"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/t2wmgv352k"
+}

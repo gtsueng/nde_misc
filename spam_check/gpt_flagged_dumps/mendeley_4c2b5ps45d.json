@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_4c2b5ps45d",
+    "_score": 32.946526,
+    "author": [
+        {
+            "familyName": "aljware",
+            "givenName": "rasha",
+            "name": "rasha aljware"
+        }
+    ],
+    "date": "2019-03-18",
+    "dateModified": "2019-03-18",
+    "datePublished": "2019-03-18",
+    "description": "different ultrasound images with and without new type of oral contrast media witch can applied to skin as \na gel.\n\n\nFOR: support cooperation and sponsorship \naljware83@gmail .com\n\n",
+    "doi": "10.17632/4c2b5ps45d.1",
+    "identifier": "4c2b5ps45d",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:06.335256"
+    },
+    "keywords": [
+        "Body Image"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "CONTRAST MEDIA IMAGE IN ULTRASOUND EXAM",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_4029",
+            "inDefinedTermSet": "EDAM",
+            "name": "Acoustics",
+            "url": "http://edamontology.org/topic_4029"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3067",
+            "inDefinedTermSet": "EDAM",
+            "name": "Anatomy",
+            "url": "http://edamontology.org/topic_3067"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3063",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medical informatics",
+            "url": "http://edamontology.org/topic_3063"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/4c2b5ps45d"
+}

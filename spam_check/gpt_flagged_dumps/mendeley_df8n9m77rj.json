@@ -1,0 +1,103 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_df8n9m77rj",
+    "_score": 31.343948,
+    "author": [
+        {
+            "familyName": "Jia",
+            "givenName": "Dan",
+            "name": "Dan Jia"
+        },
+        {
+            "familyName": "Li",
+            "givenName": "Tian",
+            "name": "Tian Li"
+        },
+        {
+            "familyName": "Chen",
+            "givenName": "Xiaofei",
+            "name": "Xiaofei Chen"
+        },
+        {
+            "familyName": "Ding",
+            "givenName": "Xuan",
+            "name": "Xuan Ding"
+        },
+        {
+            "familyName": "Chai",
+            "givenName": "Yifeng",
+            "name": "Yifeng Chai"
+        },
+        {
+            "familyName": "Zhu",
+            "givenName": "Zhenyu",
+            "name": "Zhenyu Zhu"
+        },
+        {
+            "familyName": "zhang",
+            "givenName": "chuan",
+            "name": "chuan zhang"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.cbi.2017.10.025",
+            "name": "Salvianic acid A sodium protects HUVEC cells against tert-butyl hydroperoxide induced oxidative injury via mitochondria-dependent pathway"
+        }
+    ],
+    "date": "2017-12-25",
+    "dateModified": "2017-09-14",
+    "datePublished": "2017-12-25",
+    "description": "More information please contact us by email.",
+    "doi": "10.17632/df8n9m77rj.1",
+    "identifier": "df8n9m77rj",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:04.171182"
+    },
+    "keywords": [
+        "Metabolomics"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Data for: Salvianic acid A sodium protects HUVEC cells against tert-butyl hydroperoxide induced oxidative injury via mitochondria-dependent pathway",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2229",
+            "inDefinedTermSet": "EDAM",
+            "name": "Cell biology",
+            "url": "http://edamontology.org/topic_2229"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2640",
+            "inDefinedTermSet": "EDAM",
+            "name": "Oncology",
+            "url": "http://edamontology.org/topic_2640"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0121",
+            "inDefinedTermSet": "EDAM",
+            "name": "Proteomics",
+            "url": "http://edamontology.org/topic_0121"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/df8n9m77rj"
+}

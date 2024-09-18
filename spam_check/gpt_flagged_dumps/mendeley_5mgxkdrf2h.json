@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_5mgxkdrf2h",
+    "_score": 34.112385,
+    "author": [
+        {
+            "familyName": "Alam",
+            "givenName": "Murad",
+            "name": "Murad Alam"
+        }
+    ],
+    "date": "2023-03-29",
+    "dateModified": "2023-03-29",
+    "datePublished": "2023-03-29",
+    "description": "Supplementary Files For Mobile Apps Publication",
+    "doi": "10.17632/5mgxkdrf2h.1",
+    "identifier": "5mgxkdrf2h",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:33.190753"
+    },
+    "keywords": [
+        "Dermatology"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Mobile Apps Supplements",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/5mgxkdrf2h"
+}

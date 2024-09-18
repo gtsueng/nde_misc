@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_bfn8p44vcr",
+    "_score": 34.323174,
+    "author": [
+        {
+            "familyName": "Fr\u00f6hlich",
+            "givenName": "Benjamin",
+            "name": "Benjamin Fr\u00f6hlich"
+        }
+    ],
+    "date": "2019-05-02",
+    "dateModified": "2019-05-02",
+    "datePublished": "2019-05-02",
+    "description": "Flicker Data",
+    "doi": "10.17632/bfn8p44vcr.1",
+    "identifier": "bfn8p44vcr",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:09.298989"
+    },
+    "keywords": [
+        "Biophysics"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Flicker Data",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3071",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data management",
+            "url": "http://edamontology.org/topic_3071"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3070",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biology",
+            "url": "http://edamontology.org/topic_3070"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/bfn8p44vcr"
+}

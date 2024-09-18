@@ -1,0 +1,65 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_ssj5f46k9x",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 32.39385,
+    "author": [
+        {
+            "familyName": "soni",
+            "givenName": "govind",
+            "name": "govind soni"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://www.onlinegemstonebeads.com/"
+        }
+    ],
+    "date": "2023-04-06",
+    "dateModified": "2023-04-06",
+    "datePublished": "2023-04-06",
+    "description": "Manufacturer and Wholesaler of Loose & Semi-Precious Gemstone Beads Supplier from India.\nOverall, gemstone beads can be used in a wide variety of ways, and their versatility and beauty make them a popular choice for many people. When purchasing gemstone beads online, it is important to ensure that they are of good quality and are sourced ethically.",
+    "doi": "10.17632/ssj5f46k9x.1",
+    "identifier": "ssj5f46k9x",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:53.375528"
+    },
+    "keywords": [
+        "Balsaminaceae"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Wholesale Gemstone Beads |",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3398",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioengineering",
+            "url": "http://edamontology.org/topic_3398"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3314",
+            "inDefinedTermSet": "EDAM",
+            "name": "Chemistry",
+            "url": "http://edamontology.org/topic_3314"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/ssj5f46k9x"
+}

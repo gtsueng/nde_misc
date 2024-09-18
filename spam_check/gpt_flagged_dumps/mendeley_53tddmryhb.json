@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_53tddmryhb",
+    "_score": 34.315018,
+    "author": [
+        {
+            "familyName": "Chen",
+            "givenName": "Yongpeng",
+            "name": "Yongpeng Chen"
+        }
+    ],
+    "date": "2023-01-17",
+    "dateModified": "2023-01-15",
+    "datePublished": "2023-01-17",
+    "description": "IBD colonoscopy",
+    "doi": "10.17632/53tddmryhb.1",
+    "identifier": "53tddmryhb",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:34.899688"
+    },
+    "keywords": [
+        "Colonoscopy"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "IBD colonoscopy",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0634",
+            "inDefinedTermSet": "EDAM",
+            "name": "Pathology",
+            "url": "http://edamontology.org/topic_0634"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3409",
+            "inDefinedTermSet": "EDAM",
+            "name": "Gastroenterology",
+            "url": "http://edamontology.org/topic_3409"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3407",
+            "inDefinedTermSet": "EDAM",
+            "name": "Endocrinology and metabolism",
+            "url": "http://edamontology.org/topic_3407"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/53tddmryhb"
+}

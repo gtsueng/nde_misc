@@ -1,0 +1,72 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_vm4b7zyd6j",
+    "_score": 33.72306,
+    "author": [
+        {
+            "familyName": "Machova",
+            "givenName": "Kristyna",
+            "name": "Kristyna Machova"
+        },
+        {
+            "familyName": "Novotn\u00e1",
+            "givenName": "Blanka",
+            "name": "Blanka Novotn\u00e1"
+        }
+    ],
+    "date": "2023-06-30",
+    "dateModified": "2023-06-30",
+    "datePublished": "2023-06-30",
+    "description": "Dog microbiom- Barf and pet food",
+    "doi": "10.17632/vm4b7zyd6j.1",
+    "identifier": "vm4b7zyd6j",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:04.918612"
+    },
+    "keywords": [
+        "Real-Time Polymerase Chain Reaction"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Mikrobiom",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3301",
+            "inDefinedTermSet": "EDAM",
+            "name": "Microbiology",
+            "url": "http://edamontology.org/topic_3301"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3679",
+            "inDefinedTermSet": "EDAM",
+            "name": "Animal study",
+            "url": "http://edamontology.org/topic_3679"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3397",
+            "inDefinedTermSet": "EDAM",
+            "name": "Veterinary medicine",
+            "url": "http://edamontology.org/topic_3397"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/vm4b7zyd6j"
+}

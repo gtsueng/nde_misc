@@ -1,0 +1,58 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_djzbddbxv7",
+    "_score": 34.532997,
+    "author": [
+        {
+            "familyName": "Chen",
+            "givenName": "Cheng",
+            "name": "Cheng Chen"
+        }
+    ],
+    "date": "2020-04-09",
+    "dateModified": "2020-04-09",
+    "datePublished": "2020-04-09",
+    "description": "1001\u4e2aFRP\u6297\u526a\u52a0\u56fa\u8bd5\u4ef6\u7edf\u8ba1",
+    "doi": "10.17632/djzbddbxv7.1",
+    "identifier": "djzbddbxv7",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:07.462442"
+    },
+    "keywords": [
+        "Reinforced Composite",
+        "Concrete Construction",
+        "Glass-Fiber Reinforced Plastic"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "FRP shear strengthening",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_1317",
+            "inDefinedTermSet": "EDAM",
+            "name": "Structural biology",
+            "url": "http://edamontology.org/topic_1317"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/djzbddbxv7"
+}

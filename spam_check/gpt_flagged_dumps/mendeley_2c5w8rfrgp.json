@@ -1,0 +1,56 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_2c5w8rfrgp",
+    "_score": 34.735626,
+    "author": [
+        {
+            "familyName": "Rubbo",
+            "givenName": "Priscila",
+            "name": "Priscila Rubbo"
+        }
+    ],
+    "date": "2022-02-14",
+    "dateModified": "2022-02-13",
+    "datePublished": "2022-02-14",
+    "description": "Covid dados",
+    "doi": "10.17632/2c5w8rfrgp.1",
+    "identifier": "2c5w8rfrgp",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:54.618335"
+    },
+    "keywords": [
+        "Ethics"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "COVID Completo",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3305",
+            "inDefinedTermSet": "EDAM",
+            "name": "Public health and epidemiology",
+            "url": "http://edamontology.org/topic_3305"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/2c5w8rfrgp"
+}

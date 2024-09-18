@@ -1,0 +1,93 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_nwj3p9wrz6",
+    "_score": 31.019936,
+    "author": [
+        {
+            "familyName": "Huang",
+            "givenName": "X.M.",
+            "name": "X.M. Huang"
+        },
+        {
+            "familyName": "Duan",
+            "givenName": "Yang",
+            "name": "Yang Duan"
+        },
+        {
+            "familyName": "Chen",
+            "givenName": "Xintao",
+            "name": "Xintao Chen"
+        },
+        {
+            "familyName": "xu",
+            "givenName": "guoliang",
+            "name": "guoliang xu"
+        },
+        {
+            "familyName": "Ming",
+            "givenName": "Tingzhen",
+            "name": "Tingzhen Ming"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.applthermaleng.2020.114933",
+            "name": "Effects of thermal and electrical contact resistances on the performance of a multi-couple thermoelectric cooler with non-ideal heat dissipation"
+        }
+    ],
+    "date": "2020-01-21",
+    "dateModified": "2019-06-26",
+    "datePublished": "2020-01-21",
+    "description": "Performance curves of thermoelectric refrigeration chips under various working conditions. \nThe download link to TECCad",
+    "doi": "10.17632/nwj3p9wrz6.1",
+    "identifier": "nwj3p9wrz6",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:55.412909"
+    },
+    "keywords": [
+        "Thermoelectric Refrigeration"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Data for: Effects of Thermal and Electrical Contact Resistances on the Performance of a Multi-couple Thermoelectric Cooler with Non-ideal Heat Dissipation ",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3297",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biotechnology",
+            "url": "http://edamontology.org/topic_3297"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/nwj3p9wrz6"
+}

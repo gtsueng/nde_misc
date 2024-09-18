@@ -1,0 +1,92 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_crgbbpjmpc",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 29.453007,
+    "author": [
+        {
+            "familyName": "govind soni",
+            "givenName": "925silvershine",
+            "name": "925silvershine govind soni"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://www.925silvershine.com/meditation/spin-ring"
+        }
+    ],
+    "date": "2023-04-05",
+    "dateModified": "2023-04-05",
+    "datePublished": "2023-04-05",
+    "description": "Spin rings, also known as fidget rings or anxiety rings, are designed to help alleviate anxiety and provide a calming effect by keeping the hands occupied with a repetitive motion. They typically consist of a band with an outer ring that spins around the inner band.\nSpinner rings can be helpful for individuals with anxiety, ADHD, or other conditions that cause restlessness or a need for constant movement. The repetitive motion of spinning the outer ring can provide a soothing sensation and help to redirect nervous energy.\nhttps://www.925silvershine.com/meditation/spin-ring\n",
+    "doi": "10.17632/crgbbpjmpc.1",
+    "healthCondition": [
+        {
+            "curatedBy": {
+                "dateModified": "2024-01-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "fromEXTRACT": true,
+            "identifier": "D001289",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": true,
+            "name": "Attention Deficit Disorder with Hyperactivity",
+            "originalName": "ADHD",
+            "url": "https://id.nlm.nih.gov/mesh/D001289.html"
+        }
+    ],
+    "identifier": "crgbbpjmpc",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:09.638462"
+    },
+    "keywords": [
+        "Reading"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Sterling Silver Spin ring Wholesaler | Anxiety Spinner Ring",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3070",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biology",
+            "url": "http://edamontology.org/topic_3070"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3304",
+            "inDefinedTermSet": "EDAM",
+            "name": "Neurobiology",
+            "url": "http://edamontology.org/topic_3304"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3303",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicine",
+            "url": "http://edamontology.org/topic_3303"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/crgbbpjmpc"
+}

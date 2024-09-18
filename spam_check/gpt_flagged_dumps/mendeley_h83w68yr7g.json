@@ -1,0 +1,100 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_h83w68yr7g",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 24.121693,
+    "author": [
+        {
+            "familyName": "Mitra",
+            "givenName": "Payal",
+            "name": "Payal Mitra"
+        },
+        {
+            "familyName": "Pijnenburg",
+            "givenName": "Thom",
+            "name": "Thom Pijnenburg"
+        },
+        {
+            "familyName": "Sazonau",
+            "givenName": "Viachaslau",
+            "name": "Viachaslau Sazonau"
+        }
+    ],
+    "date": "2020-12-09",
+    "dateModified": "2020-12-09",
+    "datePublished": "2020-12-09",
+    "description": "This is the dataset supporting the publication Discovering Gene-Disease Associations with Biomedical Word Embeddings. \n\nFinding the right target for a disease is critical in the drug development process. This paper presents a machine learning approach for predicting gene-disease associations that (i) employs biomedical word embeddings as features for a classifier trained on Open Targets Platform (OTP) data that (ii) generalises beyond a specific disease or gene class. We train, evaluate and compare different word embedding models and classifiers for the task at hand. In addition, we validate the approach by training on a past OTP release and show that it can assist in identifying probable positive associations among current low evidence associations, confirmed by a recent OTP release. Furthermore, we train word embedding models on different time slices of biomedical articles from ScienceDirect and demonstrate that the trained classifier predicts associations that have not explicitly been mentioned in the training corpus, 5 years into the future.\n\nPlease send a message to Elsevier describing briefly your request on how you would like to use the assets with a short justification. Elsevier will connect directly with you for the elaboration of a personalized license. The contact information can be found in the license information.",
+    "doi": "10.17632/h83w68yr7g.1",
+    "healthCondition": [
+        {
+            "curatedBy": {
+                "dateModified": "2024-01-27",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "fromEXTRACT": true,
+            "identifier": "D003141",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": true,
+            "name": "Communicable Diseases",
+            "originalName": "DISEASE",
+            "url": "https://id.nlm.nih.gov/mesh/D003141.html"
+        }
+    ],
+    "identifier": "h83w68yr7g",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:02.147037"
+    },
+    "keywords": [
+        "Drug Discovery",
+        "Bioinformatics",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Word Embedding"
+    ],
+    "license": "mailto:p.caduff@elsevier.com?subject=License Request for: Discovering Gene-Disease Associations with Biomedical Word Embeddings",
+    "name": "Data for: Discovering Gene-Disease Associations with Biomedical Word Embeddings",
+    "sdPublisher": {
+        "name": "Elsevier Data Repository"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3053",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genetics",
+            "url": "http://edamontology.org/topic_3053"
+        }
+    ],
+    "url": "https://elsevier.digitalcommonsdata.com/datasets/h83w68yr7g"
+}

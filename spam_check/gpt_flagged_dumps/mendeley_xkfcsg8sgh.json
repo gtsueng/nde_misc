@@ -1,0 +1,51 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_xkfcsg8sgh",
+    "_score": 35.212017,
+    "author": [
+        {
+            "familyName": "Kaliontzopoulos",
+            "givenName": "Panos",
+            "name": "Panos Kaliontzopoulos"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "dataset",
+            "url": "http://i-sense.iccs.gr/dictionary"
+        }
+    ],
+    "date": "2017-02-13",
+    "dateModified": "2017-02-13",
+    "datePublished": "2017-02-13",
+    "description": "More than 31.000 terms",
+    "doi": "10.17632/xkfcsg8sgh.1",
+    "identifier": "xkfcsg8sgh",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:09.568057"
+    },
+    "keywords": [
+        "Electronic Engineering"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "English-Greek Lexicon of Electronics_V2",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/xkfcsg8sgh"
+}

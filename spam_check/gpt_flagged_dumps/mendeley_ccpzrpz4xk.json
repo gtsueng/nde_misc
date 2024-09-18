@@ -1,0 +1,37 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_ccpzrpz4xk",
+    "_score": 34.740402,
+    "author": [
+        {
+            "familyName": "Papandrea",
+            "givenName": "Pedro",
+            "name": "Pedro Papandrea"
+        },
+        {
+            "familyName": "Paiva",
+            "givenName": "Anderson",
+            "name": "Anderson Paiva"
+        }
+    ],
+    "date": "2016-10-11",
+    "dateModified": "2016-10-11",
+    "datePublished": "2016-10-11",
+    "description": "Daily quotation of twenty green companies choose by PCA applied on Newsweek Green Companies Ranking of 2014 compiled into a Monthly quotation",
+    "doi": "10.17632/ccpzrpz4xk.2",
+    "identifier": "ccpzrpz4xk",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:02.124968"
+    },
+    "keywords": [
+        "Financial Market"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Monthly quotation of twenty green companies",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/ccpzrpz4xk"
+}

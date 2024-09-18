@@ -1,0 +1,60 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_vf7ss82bxf",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 31.686024,
+    "author": [
+        {
+            "familyName": "Pourmohamadi",
+            "givenName": "Milad",
+            "name": "Milad Pourmohamadi"
+        }
+    ],
+    "date": "2023-06-27",
+    "dateModified": "2023-06-26",
+    "datePublished": "2023-06-27",
+    "description": "Intelligence is power and becoming smarter makes us more powerful than before, and the solution is artificial intelligence. The singularity of artificial intelligence makes us progress and contains many national interests, and governments \"in this article, the Chinese government\" should focus on the project.  Invest in the so-called singularity of artificial intelligence. Any government that achieves this technology sooner will become a global leader, and this technology also has many economic benefits.",
+    "doi": "10.17632/vf7ss82bxf.1",
+    "identifier": "vf7ss82bxf",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:01.849131"
+    },
+    "keywords": [
+        "Politics",
+        "Artificial Intelligence"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Superpower of intelligence",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3474",
+            "inDefinedTermSet": "EDAM",
+            "name": "Machine learning",
+            "url": "http://edamontology.org/topic_3474"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/vf7ss82bxf"
+}

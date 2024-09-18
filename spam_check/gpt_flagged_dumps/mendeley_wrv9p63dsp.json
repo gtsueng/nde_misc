@@ -1,0 +1,77 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_wrv9p63dsp",
+    "_score": 33.714424,
+    "author": [
+        {
+            "familyName": "Castro-Luna",
+            "givenName": "Gracia",
+            "name": "Gracia Castro-Luna"
+        },
+        {
+            "familyName": "Doncel-Fernandez",
+            "givenName": "Carlos",
+            "name": "Carlos Doncel-Fernandez"
+        }
+    ],
+    "date": "2020-05-09",
+    "dateModified": "2020-05-09",
+    "datePublished": "2020-05-09",
+    "description": "Parameters of cataract surgery",
+    "doi": "10.17632/wrv9p63dsp.1",
+    "healthCondition": [
+        {
+            "curatedBy": {
+                "dateModified": "2024-01-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "fromEXTRACT": true,
+            "identifier": "D002386",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": true,
+            "name": "Cataract",
+            "originalName": "cataract",
+            "url": "https://id.nlm.nih.gov/mesh/D002386.html"
+        }
+    ],
+    "identifier": "wrv9p63dsp",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:06.525397"
+    },
+    "keywords": [
+        "Complication of Cataract Surgery"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "CATARACT SURGERY",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3421",
+            "inDefinedTermSet": "EDAM",
+            "name": "Surgery",
+            "url": "http://edamontology.org/topic_3421"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3344",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomedical science",
+            "url": "http://edamontology.org/topic_3344"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/wrv9p63dsp"
+}

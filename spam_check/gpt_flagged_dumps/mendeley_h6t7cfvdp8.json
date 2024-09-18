@@ -1,0 +1,108 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_h6t7cfvdp8",
+    "_score": 32.05162,
+    "author": [
+        {
+            "familyName": "Wang",
+            "givenName": "Ming-Lian",
+            "name": "Ming-Lian Wang"
+        },
+        {
+            "familyName": "Xun",
+            "givenName": "Zhi-Ming",
+            "name": "Zhi-Ming Xun"
+        },
+        {
+            "familyName": "Chan",
+            "givenName": "Paul",
+            "name": "Paul Chan"
+        },
+        {
+            "familyName": "Liu",
+            "givenName": "Wei",
+            "name": "Wei Liu"
+        },
+        {
+            "familyName": "Li",
+            "givenName": "Dan-Yang",
+            "name": "Dan-Yang Li"
+        },
+        {
+            "familyName": "Liu",
+            "givenName": "Qiang-Qiang",
+            "name": "Qiang-Qiang Liu"
+        },
+        {
+            "familyName": "Wang",
+            "givenName": "Xiao-Li",
+            "name": "Xiao-Li Wang"
+        },
+        {
+            "familyName": "Zhang",
+            "givenName": "Ting",
+            "name": "Ting Zhang"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.jviromet.2018.12.005",
+            "name": "Recombinant DENV 2 NS5: An effective antigen for diagnosis of DENV infection"
+        }
+    ],
+    "date": "2018-12-26",
+    "dateModified": "2018-12-13",
+    "datePublished": "2018-12-26",
+    "description": "Table supplyments",
+    "doi": "10.17632/h6t7cfvdp8.1",
+    "identifier": "h6t7cfvdp8",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:08.961509"
+    },
+    "keywords": [
+        "Virology"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "table supplyments",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0219",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data submission, annotation, and curation",
+            "url": "http://edamontology.org/topic_0219"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/h6t7cfvdp8"
+}

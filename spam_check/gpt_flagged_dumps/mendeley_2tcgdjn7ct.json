@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_2tcgdjn7ct",
+    "_score": 34.120705,
+    "author": [
+        {
+            "familyName": "Mav\u010di\u010d",
+            "givenName": "Bla\u017e",
+            "name": "Bla\u017e Mav\u010di\u010d"
+        }
+    ],
+    "date": "2021-11-15",
+    "dateModified": "2021-11-11",
+    "datePublished": "2021-11-15",
+    "description": "Link Lubinus SPII",
+    "doi": "10.17632/2tcgdjn7ct.1",
+    "identifier": "2tcgdjn7ct",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:58.184489"
+    },
+    "keywords": [
+        "Arthroplasty of Hip"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Link Lubinus SPII",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0121",
+            "inDefinedTermSet": "EDAM",
+            "name": "Proteomics",
+            "url": "http://edamontology.org/topic_0121"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/2tcgdjn7ct"
+}

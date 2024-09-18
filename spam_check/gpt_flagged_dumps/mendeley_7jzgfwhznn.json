@@ -1,0 +1,86 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_7jzgfwhznn",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 25.812033,
+    "author": [
+        {
+            "familyName": "NASIR",
+            "givenName": "MUHAMMAD",
+            "name": "MUHAMMAD NASIR"
+        },
+        {
+            "familyName": "Anwar",
+            "givenName": "Muhammad Sabieh",
+            "name": "Muhammad Sabieh Anwar"
+        },
+        {
+            "familyName": "Hassan",
+            "givenName": "Muhammad Umar",
+            "name": "Muhammad Umar Hassan"
+        },
+        {
+            "familyName": "Shoaib",
+            "givenName": "Muhammad",
+            "name": "Muhammad Shoaib"
+        }
+    ],
+    "date": "2022-07-20",
+    "dateModified": "2022-07-20",
+    "datePublished": "2022-07-20",
+    "description": "Mapping out magnetic field profiles from arbitrarily shaped magnets is an essential step in research, manufacturing, and maintenance. It helps you find out what\u2019s under the surface of any object and identify areas of high-flux density in addition to determining field homogeneity which can be crucial for magnetic spectroscopy. Our magnetic field mapper is easy-to-use, has a user-friendly interface, and can be operated remotely. The mapper is a triple axis Hall effect-based magnetometer, which means that it can measure the strength of magnetic fields in 3D. It is made up of three Hall sensors which are mounted on a triple-slot sensor probe which is attached to translation stages allowing motion in three dimensions. The translation in X and Y motion (independent) is from \u221250 to +50 mm while in Z is from \u2212150 to +150 mm with a nominal resolution of 0.1 mm. The height of the magnetometer is 1000 mm and it\u2019s specially design for mapping the magnetic fields for permanent magnet assemblies used in low-field or mobile NMR applications. The mapper is low cost and easy to manufacture. All the required material are easy to find and in this database we provide all the designs required to replicate this instrument.",
+    "doi": "10.17632/7jzgfwhznn.3",
+    "identifier": "7jzgfwhznn",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:03.235300"
+    },
+    "keywords": [
+        "Magnetism",
+        "Magnetic Field Measurement"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Design and implementation of a versatile magnetic field mapper",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3318",
+            "inDefinedTermSet": "EDAM",
+            "name": "Physics",
+            "url": "http://edamontology.org/topic_3318"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0102",
+            "inDefinedTermSet": "EDAM",
+            "name": "Mapping",
+            "url": "http://edamontology.org/topic_0102"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0593",
+            "inDefinedTermSet": "EDAM",
+            "name": "NMR",
+            "url": "http://edamontology.org/topic_0593"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/7jzgfwhznn"
+}

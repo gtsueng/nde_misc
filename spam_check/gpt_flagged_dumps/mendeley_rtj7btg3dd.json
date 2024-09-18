@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_rtj7btg3dd",
+    "_score": 34.906902,
+    "author": [
+        {
+            "familyName": "Bystr\u00f6m ",
+            "givenName": "Jessica",
+            "name": "Jessica Bystr\u00f6m "
+        }
+    ],
+    "date": "2017-03-16",
+    "dateModified": "2017-03-16",
+    "datePublished": "2017-03-16",
+    "description": "test",
+    "doi": "10.17632/rtj7btg3dd.1",
+    "identifier": "rtj7btg3dd",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:45.313246"
+    },
+    "keywords": [
+        "Reference Group"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Work Mendeley adv",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3071",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data management",
+            "url": "http://edamontology.org/topic_3071"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/rtj7btg3dd"
+}

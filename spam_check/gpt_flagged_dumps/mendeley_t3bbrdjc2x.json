@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_t3bbrdjc2x",
+    "_score": 34.323174,
+    "author": [
+        {
+            "familyName": "Jia",
+            "givenName": "Qingzhu",
+            "name": "Qingzhu Jia"
+        }
+    ],
+    "date": "2022-02-14",
+    "dateModified": "2022-02-14",
+    "datePublished": "2022-02-14",
+    "description": "ENPEP cover",
+    "doi": "10.17632/t3bbrdjc2x.1",
+    "identifier": "t3bbrdjc2x",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:03.536174"
+    },
+    "keywords": [
+        "Picture Generation"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "ENPEP cover",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0622",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genomics",
+            "url": "http://edamontology.org/topic_0622"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/t3bbrdjc2x"
+}

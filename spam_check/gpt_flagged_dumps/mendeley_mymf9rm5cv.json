@@ -1,0 +1,56 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_mymf9rm5cv",
+    "_score": 34.112385,
+    "author": [
+        {
+            "familyName": "robot",
+            "givenName": "diyalabs",
+            "name": "diyalabs robot"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://www.diyalabs.com/course/future-ready"
+        },
+        {
+            "@type": "article",
+            "url": "https://www.diyalabs.com/course/future-ready"
+        }
+    ],
+    "date": "2021-05-28",
+    "dateModified": "2021-05-28",
+    "datePublished": "2021-05-28",
+    "description": "Robotics Programming. Learning how to program Robot Operating Systems, as well as configure the physical components of a robotics system.",
+    "doi": "10.17632/mymf9rm5cv.1",
+    "identifier": "mymf9rm5cv",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:06.370795"
+    },
+    "keywords": [
+        "Online Participation",
+        "Online Learning"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Online Robotics Classes For Kids | Robotics For Kids | Diyalabs",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/mymf9rm5cv"
+}

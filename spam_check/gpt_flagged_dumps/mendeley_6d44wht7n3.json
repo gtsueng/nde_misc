@@ -1,0 +1,68 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_6d44wht7n3",
+    "_score": 33.527798,
+    "author": [
+        {
+            "familyName": "Bdiri",
+            "givenName": "Sadok",
+            "name": "Sadok Bdiri"
+        }
+    ],
+    "date": "2016-12-20",
+    "dateModified": "2016-12-20",
+    "datePublished": "2016-12-20",
+    "description": "An ADS simulation of envelope detector.",
+    "doi": "10.17632/6d44wht7n3.1",
+    "identifier": "6d44wht7n3",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:05.883321"
+    },
+    "keywords": [
+        "Wireless Sensor Network",
+        "Internet of Things"
+    ],
+    "license": "http://www.gnu.org/licenses/gpl-3.0.en.html",
+    "name": "Envelope_Detector_ADS",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3365",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data architecture, analysis and design",
+            "url": "http://edamontology.org/topic_3365"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/6d44wht7n3"
+}

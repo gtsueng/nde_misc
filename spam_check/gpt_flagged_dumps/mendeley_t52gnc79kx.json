@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_t52gnc79kx",
+    "_score": 33.33485,
+    "author": [
+        {
+            "familyName": "Kinge",
+            "givenName": "Pravin",
+            "name": "Pravin Kinge"
+        }
+    ],
+    "date": "2021-08-09",
+    "dateModified": "2021-08-09",
+    "datePublished": "2021-08-09",
+    "description": "Automated Excel Sheet for Bank Nifty Option Trading - 7 Day Trial\nWatch attached Video",
+    "doi": "10.17632/t52gnc79kx.1",
+    "identifier": "t52gnc79kx",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:41.761073"
+    },
+    "keywords": [
+        "Stock Price"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Bank Nifty Option Buy or Sell Signal",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0092",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data visualisation",
+            "url": "http://edamontology.org/topic_0092"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/t52gnc79kx"
+}

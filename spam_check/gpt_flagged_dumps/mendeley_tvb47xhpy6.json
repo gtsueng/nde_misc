@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_tvb47xhpy6",
+    "_score": 34.323174,
+    "author": [
+        {
+            "familyName": "cai",
+            "givenName": "minglang",
+            "name": "minglang cai"
+        }
+    ],
+    "date": "2021-05-17",
+    "dateModified": "2021-05-17",
+    "datePublished": "2021-05-17",
+    "description": "datasets for manuscript-starved & refed",
+    "doi": "10.17632/tvb47xhpy6.1",
+    "identifier": "tvb47xhpy6",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:55.686267"
+    },
+    "keywords": [
+        "Database"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "manuscript-starved&refed",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0622",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genomics",
+            "url": "http://edamontology.org/topic_0622"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/tvb47xhpy6"
+}

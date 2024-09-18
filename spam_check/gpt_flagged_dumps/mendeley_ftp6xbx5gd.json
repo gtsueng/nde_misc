@@ -1,0 +1,112 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_ftp6xbx5gd",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 28.859411,
+    "author": [
+        {
+            "familyName": "lala",
+            "givenName": "lalawiddy890",
+            "name": "lalawiddy890 lala"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": " https://springfield.instructure.com/eportfolios/20715/Home/Regarder_Vaurien_2021_film_complet_en_francais_gratuit_en_ligne"
+        },
+        {
+            "@type": "article",
+            "url": "https://springfield.instructure.com/eportfolios/20716/Home/REGARDERVaurien_2021_Film_Streaming_Online_VF"
+        },
+        {
+            "@type": "article",
+            "url": "https://springfield.instructure.com/eportfolios/20717/Home/_VOSTFRVaurien_FILM__2021__Streaming_VF"
+        },
+        {
+            "@type": "article",
+            "url": "https://springfield.instructure.com/eportfolios/20718/Home/Regarder_HD_1080p_Vaurien_Film_complet_VOSFR_en_France"
+        },
+        {
+            "@type": "article",
+            "url": "https://springfield.instructure.com/eportfolios/20719/Home/Vaurien_2021_Film_Complet_Streaming_VF_Entier_Franais"
+        },
+        {
+            "@type": "article",
+            "url": "https://springfield.instructure.com/eportfolios/20721/Home/Regarder_Vaurien_2021_Film_Complet_streaming_vf"
+        },
+        {
+            "@type": "article",
+            "url": "https://springfield.instructure.com/eportfolios/20722/Home/Regarder_Film_Vaurien_Streaming_2021_VF_Complet_En_Ligne"
+        },
+        {
+            "@type": "article",
+            "url": "https://springfield.instructure.com/eportfolios/20723/Home/Voir_Vaurien_2021_film_streaming_complet_vf_vostfr_gratis"
+        },
+        {
+            "@type": "article",
+            "url": "https://springfield.instructure.com/eportfolios/20724/Home/REGARDER_Vaurien_2021_en_Streaming_VF_GRATUIT_Complet_HD"
+        },
+        {
+            "@type": "article",
+            "url": "https://springfield.instructure.com/eportfolios/20725/Home/Regarder_Vaurien_2021_Streaming_vf__Film_complet"
+        }
+    ],
+    "date": "2021-01-11",
+    "dateModified": "2021-01-11",
+    "datePublished": "2021-01-11",
+    "description": "https://springfield.instructure.com/eportfolios/20715/Home/Regarder_Vaurien_2021_film_complet_en_francais_gratuit_en_ligne\nhttps://springfield.instructure.com/eportfolios/20716/Home/REGARDERVaurien_2021_Film_Streaming_Online_VF\nhttps://springfield.instructure.com/eportfolios/20717/Home/_VOSTFRVaurien_FILM__2021__Streaming_VF\nhttps://springfield.instructure.com/eportfolios/20718/Home/Regarder_HD_1080p_Vaurien_Film_complet_VOSFR_en_France\nhttps://springfield.instructure.com/eportfolios/20719/Home/Vaurien_2021_Film_Complet_Streaming_VF_Entier_Franais\nhttps://springfield.instructure.com/eportfolios/20721/Home/Regarder_Vaurien_2021_Film_Complet_streaming_vf\nhttps://springfield.instructure.com/eportfolios/20722/Home/Regarder_Film_Vaurien_Streaming_2021_VF_Complet_En_Ligne\nhttps://springfield.instructure.com/eportfolios/20723/Home/Voir_Vaurien_2021_film_streaming_complet_vf_vostfr_gratis\nhttps://springfield.instructure.com/eportfolios/20724/Home/REGARDER_Vaurien_2021_en_Streaming_VF_GRATUIT_Complet_HD\nhttps://springfield.instructure.com/eportfolios/20725/Home/Regarder_Vaurien_2021_Streaming_vf__Film_complet",
+    "doi": "10.17632/ftp6xbx5gd.1",
+    "identifier": "ftp6xbx5gd",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:01.880559"
+    },
+    "keywords": [
+        "Glycemic Index"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "vaurien film complet vf",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0219",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data submission, annotation, and curation",
+            "url": "http://edamontology.org/topic_0219"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/ftp6xbx5gd"
+}

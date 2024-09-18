@@ -1,0 +1,85 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_nrj2874vhx",
+    "_score": 33.325916,
+    "author": [
+        {
+            "familyName": "Sardi",
+            "givenName": "Bambang",
+            "name": "Bambang Sardi"
+        }
+    ],
+    "date": "2023-05-02",
+    "dateModified": "2023-04-29",
+    "datePublished": "2023-05-02",
+    "description": "Strategi Publikasi Ilmiah International",
+    "doi": "10.17632/nrj2874vhx.1",
+    "identifier": "nrj2874vhx",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:03.555865"
+    },
+    "keywords": [
+        "Certification and Licensure"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Sertifikasi Khusus RumahPublikasi.Org",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "species": [
+        {
+            "classification": "host",
+            "curatedBy": {
+                "dateModified": "2024-09-09",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Strategus",
+            "fromEXTRACT": true,
+            "identifier": "984468",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Strategus",
+            "originalName": "strategi",
+            "url": "https://www.uniprot.org/taxonomy/984468"
+        }
+    ],
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_4010",
+            "inDefinedTermSet": "EDAM",
+            "name": "Open science",
+            "url": "http://edamontology.org/topic_4010"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/nrj2874vhx"
+}

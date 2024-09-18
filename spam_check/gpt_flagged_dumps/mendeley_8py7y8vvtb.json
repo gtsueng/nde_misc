@@ -1,0 +1,338 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_8py7y8vvtb",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 18.622932,
+    "author": [
+        {
+            "familyName": "Nesterova",
+            "givenName": "Anastasia",
+            "name": "Anastasia Nesterova"
+        },
+        {
+            "familyName": "Sozin",
+            "givenName": "Sergey ",
+            "name": "Sergey  Sozin"
+        },
+        {
+            "familyName": "Klimov",
+            "givenName": "Eugene",
+            "name": "Eugene Klimov"
+        },
+        {
+            "familyName": "Golovatenko-Abramov",
+            "givenName": "Pavel",
+            "name": "Pavel Golovatenko-Abramov"
+        },
+        {
+            "familyName": "Linsley",
+            "givenName": "Peter",
+            "name": "Peter Linsley"
+        },
+        {
+            "familyName": "Zharkova",
+            "givenName": "Maria",
+            "name": "Maria Zharkova"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "dataset",
+            "url": "pathwaystudio.com"
+        },
+        {
+            "@type": "software",
+            "url": "https://demo.elseviertextmining.com/"
+        },
+        {
+            "@type": "dataset",
+            "url": "https://www.orpha.net/"
+        },
+        {
+            "@type": "article",
+            "url": "https://www.pharmapendium.com/"
+        },
+        {
+            "@type": "article",
+            "url": "https://clinicaltrials.gov/"
+        },
+        {
+            "@type": "article",
+            "url": "https://www.ncbi.nlm.nih.gov/"
+        },
+        {
+            "@type": "software",
+            "url": "https://www.clinicalkey.com/"
+        }
+    ],
+    "date": "2024-05-28",
+    "dateModified": "2022-04-07",
+    "datePublished": "2024-05-28",
+    "description": "-----> Human Disease Author Aid Collection combines information about rare and common diseases in standardized, easy-to-navigate overview templates and tables. It includes clinical, molecular, and pharmacological data from several Elsevier's and public sources. Tables are planned to be updated quarterly.\n\n-----> Author Aid Templates can be a helpful guide for authors, researchers, clinicians, and students, especially those interested in rare diseases, because it highlights updates and findings from several sources on one page.\n\n-----> Each disease template overview includes 6 sections: Terminology; Epidemiology/Demographics; Clinical presentation/Diagnosis; Etiology/Pathology (genetics, biomarkers, pathways); Treatment/Follow-Up; Case studies. Each subset of data is linked to a list of publications with relevant citations.\n\n-----> Monogenic Rare Diseases \n(Human Disease Author Aid Collection, Part 2) \nIn the current part, monogenic rare diseases were chosen based on their classification, prevalence, and degree of data availability. By \"monogenic\" we mean diseases that are caused by one or few known mutations. We considered worldwide point prevalence between <1/10 or 100 thousand (worldwide) as a criterion for filtering most significant rare diseases.\n\nContents\nA) Curated templates about monogenic rare diseases:\n\u2022\tAchondroplasia\n\u2022\tFacioscapulohumeral dystrophy\n\u2022\tFamilial Mediterranean fever\n\u2022\tHereditary breast and ovarian cancer syndrome\n\u2022\tHuntington disease\n\u2022\tCongenital hypothyroidism\n\u2022\tRett syndrome\n\u2022\tUsher syndrome\n\u2022\tWilson\u2019s disease\n\u2022\tWiskott-Aldrich syndrome\nB) Automatically collected information about additional 21 Rare monogenic diseases.\n\n-----> PLEASE download files to read them and open the links!",
+    "doi": "10.17632/8py7y8vvtb.2",
+    "healthCondition": [
+        {
+            "curatedBy": {
+                "dateModified": "2024-01-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "fromEXTRACT": true,
+            "identifier": "D003409",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": true,
+            "name": "Congenital Hypothyroidism",
+            "originalName": "Congenital hypothyroidism",
+            "url": "https://id.nlm.nih.gov/mesh/D003409.html"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2024-01-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "fromEXTRACT": true,
+            "identifier": "D052245",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": true,
+            "name": "Usher Syndromes",
+            "originalName": "Usher syndrome",
+            "url": "https://id.nlm.nih.gov/mesh/D052245.html"
+        },
+        {
+            "alternateName": [
+                "disease or disorder",
+                "disease",
+                "diseases",
+                "disorder",
+                "medical condition",
+                "disease or disorder, non-neoplastic",
+                "disorders",
+                "diseases and disorders",
+                "condition",
+                "other disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2024-08-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0000001",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "disease",
+            "originalName": "DISEASES",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0000001"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2024-04-10",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "fromEXTRACT": true,
+            "identifier": "D000130",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": true,
+            "name": "Achondroplasia",
+            "originalName": "Achondroplasia",
+            "url": "https://id.nlm.nih.gov/mesh/D000130.html"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2024-01-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "fromEXTRACT": true,
+            "identifier": "D061325",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": true,
+            "name": "Hereditary Breast and Ovarian Cancer Syndrome",
+            "originalName": "Hereditary breast and ovarian cancer",
+            "url": "https://id.nlm.nih.gov/mesh/D061325.html"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2024-01-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "fromEXTRACT": true,
+            "identifier": "D010505",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": true,
+            "name": "Familial Mediterranean Fever",
+            "originalName": "Familial Mediterranean fever",
+            "url": "https://id.nlm.nih.gov/mesh/D010505.html"
+        },
+        {
+            "alternateName": [
+                "huntington's chorea",
+                "huntington disease",
+                "huntington's disease",
+                "hd"
+            ],
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "C82342",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Huntington's Disease",
+            "originalName": "Huntington disease",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C82342"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2024-01-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "fromEXTRACT": true,
+            "identifier": "D014923",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": true,
+            "name": "Wiskott-Aldrich Syndrome",
+            "originalName": "Wiskott-Aldrich syndrome",
+            "url": "https://id.nlm.nih.gov/mesh/D014923.html"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2024-01-27",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "fromEXTRACT": true,
+            "identifier": "D003141",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": true,
+            "name": "Communicable Diseases",
+            "originalName": "DISEASE",
+            "url": "https://id.nlm.nih.gov/mesh/D003141.html"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2024-04-16",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "fromEXTRACT": true,
+            "identifier": "D003141",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": true,
+            "name": "Communicable Diseases",
+            "originalName": "monogenic diseases",
+            "url": "https://id.nlm.nih.gov/mesh/D003141.html"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2024-01-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "fromEXTRACT": true,
+            "identifier": "D015518",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": true,
+            "name": "Rett Syndrome",
+            "originalName": "Rett syndrome",
+            "url": "https://id.nlm.nih.gov/mesh/D015518.html"
+        }
+    ],
+    "identifier": "8py7y8vvtb",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:11.366115"
+    },
+    "keywords": [
+        "Genetics",
+        "Health Sciences",
+        "Orphan Disorder"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Elsevier Author Aid Human Diseases Collection, part 2 (Monogenic Rare Diseases)",
+    "sdPublisher": {
+        "name": "Elsevier Data Repository"
+    },
+    "species": [
+        {
+            "alternateName": [
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapian",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapients",
+                "Homo spaiens",
+                "Homo spiens",
+                "Human",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sapiense",
+                "human"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2024-08-15",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "fromEXTRACT": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "human",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3325",
+            "inDefinedTermSet": "EDAM",
+            "name": "Rare diseases",
+            "url": "http://edamontology.org/topic_3325"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3053",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genetics",
+            "url": "http://edamontology.org/topic_3053"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3344",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomedical science",
+            "url": "http://edamontology.org/topic_3344"
+        }
+    ],
+    "url": "https://elsevier.digitalcommonsdata.com/datasets/8py7y8vvtb"
+}

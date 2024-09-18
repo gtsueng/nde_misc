@@ -1,0 +1,51 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_5snrynxwn4",
+    "_score": 34.315018,
+    "author": [
+        {
+            "familyName": "Kumar",
+            "givenName": "Bijendra",
+            "name": "Bijendra Kumar"
+        },
+        {
+            "familyName": "Sarkar",
+            "givenName": "Prabir",
+            "name": "Prabir Sarkar"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "dataset",
+            "url": "http://dx.doi.org/10.1016/j.pisc.2016.06.082"
+        },
+        {
+            "@type": "dataset",
+            "url": "http://www.sciencedirect.com/science/article/pii/S221302091630221X"
+        },
+        {
+            "@type": "dataset",
+            "url": "https://drive.google.com/folderview?id=0B3mlslFhj5ZBcHhBLU5FUFZMT0U&usp=sharing"
+        }
+    ],
+    "date": "2017-06-21",
+    "dateModified": "2017-06-21",
+    "datePublished": "2017-06-21",
+    "description": "The database contains popular car advertisement of 70 years (1946-2015). All 510 images from the database and source file are attached here. The same can be accessed through the link provided below. ",
+    "doi": "10.17632/5snrynxwn4.8",
+    "identifier": "5snrynxwn4",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:35.752411"
+    },
+    "keywords": [
+        "Image Databases"
+    ],
+    "license": "http://www.gnu.org/licenses/gpl-3.0.en.html",
+    "name": "Car Advertisement (Study Materials)",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/5snrynxwn4"
+}

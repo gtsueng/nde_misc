@@ -1,0 +1,40 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_tst5583273",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 25.579063,
+    "author": [
+        {
+            "familyName": "Offermans",
+            "givenName": "Tim",
+            "name": "Tim Offermans"
+        }
+    ],
+    "date": "2021-02-17",
+    "dateModified": "2021-02-15",
+    "datePublished": "2021-02-17",
+    "description": "Source code for ENDBOSS: Industrial endpoint detection using batch-specific control spaces of spectroscopic data, including a demonstration of the code on relevant and publicly available data from the INDPENSIM simulator.\n\nFor our publication introducing ENDBOSS with this demonstration, please see:\n- Offermans, Tim, et al. \"ENDBOSS: Industrial endpoint detection using batch-specific control spaces of spectroscopic data.\" Chemometrics and Intelligent Laboratory Systems 209 (2021): 104229.\n- https://www.sciencedirect.com/science/article/pii/S016974392030664X\n\nFor the original INDPENSIM data used in this work, please see:\n- Goldrick, S., et al., Moden day monitoring and control challenges outlined on an industrial-scale benchmark fermentation processes. Computers and Chemical Engineering, 2019. 130\n- https://data.mendeley.com/datasets/pdnjz7zz5x/1",
+    "doi": "10.17632/tst5583273.2",
+    "identifier": "tst5583273",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:12.408485"
+    },
+    "keywords": [
+        "Experimental Design",
+        "Multivariate Analysis",
+        "Chemometrics",
+        "Industrial Process",
+        "Chemometrics Software",
+        "Statistical Analysis"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "ENDBOSS source code and demonstration",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/tst5583273"
+}

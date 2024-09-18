@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_7jn6bmc9vp",
+    "_score": 34.125748,
+    "author": [
+        {
+            "familyName": "Miralles-Quiros",
+            "givenName": "Jose Luis",
+            "name": "Jose Luis Miralles-Quiros"
+        }
+    ],
+    "date": "2024-01-15",
+    "dateModified": "2024-01-14",
+    "datePublished": "2024-01-15",
+    "description": "Bigtech Dataset",
+    "doi": "10.17632/7jn6bmc9vp.2",
+    "identifier": "7jn6bmc9vp",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:09.399960"
+    },
+    "keywords": [
+        "Finance"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Bigtech",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/7jn6bmc9vp"
+}

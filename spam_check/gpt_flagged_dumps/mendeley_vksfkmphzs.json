@@ -1,0 +1,90 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_vksfkmphzs",
+    "_score": 31.69612,
+    "author": [
+        {
+            "familyName": "Naik",
+            "givenName": "Sapan",
+            "name": "Sapan Naik"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://ieeexplore.ieee.org/document/7977003"
+        }
+    ],
+    "date": "2019-02-03",
+    "dateModified": "2019-02-03",
+    "datePublished": "2019-02-03",
+    "description": "FLIR One is explored to measure the maturity of mango. Dataset is useful for object counting and color feature extraction method experiments. For more details, contact +91 9586113399.",
+    "doi": "10.17632/vksfkmphzs.1",
+    "identifier": "vksfkmphzs",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:45.525492"
+    },
+    "keywords": [
+        "Computer Vision",
+        "Thermal Imaging",
+        "Machine Vision",
+        "Precision Agriculture"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Thermal Mango Image Dataset - FLIR One",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "species": [
+        {
+            "alternateName": [
+                "Mango",
+                "Magnifera indica",
+                "mango",
+                "Mangifera indica L., 1753"
+            ],
+            "classification": "host",
+            "commonName": "Mango",
+            "curatedBy": {
+                "dateModified": "2024-08-15",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Mango | Mangifera indica",
+            "fromEXTRACT": true,
+            "identifier": "29780",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Mangifera indica",
+            "originalName": "mango",
+            "url": "https://www.uniprot.org/taxonomy/29780"
+        }
+    ],
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3810",
+            "inDefinedTermSet": "EDAM",
+            "name": "Agricultural science",
+            "url": "http://edamontology.org/topic_3810"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/vksfkmphzs"
+}

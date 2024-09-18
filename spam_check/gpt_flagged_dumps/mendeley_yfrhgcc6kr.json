@@ -1,0 +1,72 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_yfrhgcc6kr",
+    "_score": 33.9122,
+    "author": [
+        {
+            "familyName": "Quinteros",
+            "givenName": "Joffre",
+            "name": "Joffre Quinteros"
+        },
+        {
+            "familyName": "Gomez",
+            "givenName": "Javier",
+            "name": "Javier Gomez"
+        }
+    ],
+    "date": "2019-10-31",
+    "dateModified": "2019-10-31",
+    "datePublished": "2019-10-31",
+    "description": "Bibliografia para la mejor tesis del mundo",
+    "doi": "10.17632/yfrhgcc6kr.1",
+    "identifier": "yfrhgcc6kr",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:04.832813"
+    },
+    "keywords": [
+        "Natural Sciences"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Tesis_atrapanieblas",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0622",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genomics",
+            "url": "http://edamontology.org/topic_0622"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/yfrhgcc6kr"
+}

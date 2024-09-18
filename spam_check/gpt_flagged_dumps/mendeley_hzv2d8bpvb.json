@@ -1,0 +1,70 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_hzv2d8bpvb",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 31.009413,
+    "author": [
+        {
+            "familyName": "Li",
+            "givenName": "Z.",
+            "name": "Z. Li"
+        }
+    ],
+    "date": "2018-12-28",
+    "dateModified": "2018-12-28",
+    "datePublished": "2018-12-28",
+    "description": "Comparisons of different assignment rules in terms of the convergence metric (\u03b3), diversity metric (\u25b3) and dominance metric (\u03a9). There is a total of seven rules including RANDOM, SPT, EST, ECT, CT+SC, CT*SC, and DOMINANCE, in which the last three ones are the newly proposed rules in our work. \nPlease kindly click the \u201cDownload all files\u201d button, then you can access the files without any login information.",
+    "doi": "10.17632/hzv2d8bpvb.2",
+    "identifier": "hzv2d8bpvb",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:56.524497"
+    },
+    "keywords": [
+        "Comparison Trials"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Comparisons results of job assignment rules",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/hzv2d8bpvb"
+}

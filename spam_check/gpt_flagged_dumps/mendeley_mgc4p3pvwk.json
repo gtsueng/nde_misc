@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_mgc4p3pvwk",
+    "_score": 33.92068,
+    "author": [
+        {
+            "familyName": "Silva",
+            "givenName": "Andreia Maria",
+            "name": "Andreia Maria Silva"
+        }
+    ],
+    "date": "2022-11-22",
+    "dateModified": "2022-11-21",
+    "datePublished": "2022-11-22",
+    "description": "flexibility and acupuncture project data",
+    "doi": "10.17632/mgc4p3pvwk.1",
+    "identifier": "mgc4p3pvwk",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:33.108220"
+    },
+    "keywords": [
+        "Data Analysis"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Data Insole Acupuncture",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3077",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data acquisition",
+            "url": "http://edamontology.org/topic_3077"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3423",
+            "inDefinedTermSet": "EDAM",
+            "name": "Complementary medicine",
+            "url": "http://edamontology.org/topic_3423"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3398",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioengineering",
+            "url": "http://edamontology.org/topic_3398"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/mgc4p3pvwk"
+}

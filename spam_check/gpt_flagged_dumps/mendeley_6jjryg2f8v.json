@@ -1,0 +1,72 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_6jjryg2f8v",
+    "_score": 33.72306,
+    "author": [
+        {
+            "familyName": "Armstrong",
+            "givenName": "Matthew",
+            "name": "Matthew Armstrong"
+        },
+        {
+            "familyName": "Horner",
+            "givenName": "Jeff",
+            "name": "Jeff Horner"
+        }
+    ],
+    "date": "2022-03-23",
+    "dateModified": "2022-03-23",
+    "datePublished": "2022-03-23",
+    "description": "High HCT",
+    "doi": "10.17632/6jjryg2f8v.1",
+    "identifier": "6jjryg2f8v",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:34.903993"
+    },
+    "keywords": [
+        "Rheology"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "APR18 SS SAOS LAOS & UDLAOS of human blood",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3300",
+            "inDefinedTermSet": "EDAM",
+            "name": "Physiology",
+            "url": "http://edamontology.org/topic_3300"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3408",
+            "inDefinedTermSet": "EDAM",
+            "name": "Haematology",
+            "url": "http://edamontology.org/topic_3408"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3422",
+            "inDefinedTermSet": "EDAM",
+            "name": "Urology and nephrology",
+            "url": "http://edamontology.org/topic_3422"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/6jjryg2f8v"
+}

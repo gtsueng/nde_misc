@@ -1,0 +1,76 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_386jpkp7cj",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 31.702095,
+    "author": [
+        {
+            "familyName": "Do",
+            "givenName": "Tuan",
+            "name": "Tuan Do"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://finsheet.io/"
+        }
+    ],
+    "date": "2022-04-27",
+    "dateModified": "2022-04-24",
+    "datePublished": "2022-04-27",
+    "description": "To reliably and conveniently get stock price in Excel and Google Sheets, Finsheet (https://finsheet.io/) is your answer. Besides stock price, Finsheet also offers global stock fundamentals, historical forex price, ETF holdings and access to world-leading crypto brokers. No matter what financial data you may need, Finsheet has you covered.",
+    "doi": "10.17632/386jpkp7cj.1",
+    "identifier": "386jpkp7cj",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:40.741197"
+    },
+    "keywords": [
+        "Finance"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Finsheet - Stock Price for Excel and Google Sheets ",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3071",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data management",
+            "url": "http://edamontology.org/topic_3071"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/386jpkp7cj"
+}

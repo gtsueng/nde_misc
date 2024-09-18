@@ -1,0 +1,89 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_wwzxwcwj62",
+    "_score": 32.409187,
+    "author": [
+        {
+            "familyName": "Lesser",
+            "givenName": "Cammie",
+            "name": "Cammie Lesser"
+        }
+    ],
+    "date": "2023-02-23",
+    "dateModified": "2023-02-23",
+    "datePublished": "2023-02-23",
+    "description": "Uncropped immunoblots for \"Engineered E. coli for the in situ secretion of therapeutic payloads into the gut\"",
+    "doi": "10.17632/wwzxwcwj62.1",
+    "identifier": "wwzxwcwj62",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:35.964836"
+    },
+    "infectiousAgent": [
+        {
+            "alternateName": [
+                "Colicola",
+                "\"Candidatus Colicola\" Gilroy et al. 2022"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2024-08-15",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Candidatus Colicola",
+            "fromEXTRACT": true,
+            "identifier": "3082809",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Candidatus Colicola",
+            "originalName": "E. coli",
+            "url": "https://www.uniprot.org/taxonomy/3082809"
+        }
+    ],
+    "keywords": [
+        "Synthetic Biology"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Immunoblots PROT3ECT",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3301",
+            "inDefinedTermSet": "EDAM",
+            "name": "Microbiology",
+            "url": "http://edamontology.org/topic_3301"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3912",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genetic engineering",
+            "url": "http://edamontology.org/topic_3912"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/wwzxwcwj62"
+}

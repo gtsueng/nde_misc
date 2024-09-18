@@ -1,0 +1,83 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_nsjggt7tyz",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 32.045765,
+    "author": [
+        {
+            "familyName": "Naik",
+            "givenName": "Sapan",
+            "name": "Sapan Naik"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://ieeexplore.ieee.org/document/7358522"
+        }
+    ],
+    "date": "2019-02-03",
+    "dateModified": "2019-02-03",
+    "datePublished": "2019-02-03",
+    "description": "Image dataset of Kesar mango from Navsai, south Gujarat, India. Used for grading and classification experiments. Graded based on shape (well shaped, deformed), size (small, medium, big) and maturity (unripe, partially ripe, ripe).\nFor more details call - +91 9586113399.",
+    "doi": "10.17632/nsjggt7tyz.1",
+    "identifier": "nsjggt7tyz",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:54.393265"
+    },
+    "keywords": [
+        "Computer Vision",
+        "Agricultural Engineering",
+        "Machine Learning",
+        "Machine Vision",
+        "Precision Agriculture"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Kesar Mango",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "species": [
+        {
+            "alternateName": [
+                "Mango",
+                "Magnifera indica",
+                "mango",
+                "Mangifera indica L., 1753"
+            ],
+            "classification": "host",
+            "commonName": "Mango",
+            "curatedBy": {
+                "dateModified": "2024-08-15",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Mango | Mangifera indica",
+            "fromEXTRACT": true,
+            "identifier": "29780",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Mangifera indica",
+            "originalName": "mango",
+            "url": "https://www.uniprot.org/taxonomy/29780"
+        }
+    ],
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3810",
+            "inDefinedTermSet": "EDAM",
+            "name": "Agricultural science",
+            "url": "http://edamontology.org/topic_3810"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/nsjggt7tyz"
+}

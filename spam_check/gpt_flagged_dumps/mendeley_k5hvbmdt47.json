@@ -1,0 +1,70 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_k5hvbmdt47",
+    "_score": 32.409187,
+    "author": [
+        {
+            "familyName": "atre",
+            "givenName": "minakshi",
+            "name": "minakshi atre"
+        }
+    ],
+    "date": "2018-05-01",
+    "dateModified": "2018-05-01",
+    "datePublished": "2018-05-01",
+    "description": "The above music notes are recorded for Box Shaped Acoustic Guitar for the String 1 with all its 20 frets for Plectrum plucking style.",
+    "doi": "10.17632/k5hvbmdt47.1",
+    "identifier": "k5hvbmdt47",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:42.569712"
+    },
+    "keywords": [
+        "Signal Processing",
+        "Audio Signal Processing",
+        "Signal Modeling",
+        "Acoustic Signal Processing"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Box shaped Acoustic Guitar Music Notes for Plectrum Plucked String 1 with all 20 frets",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_4029",
+            "inDefinedTermSet": "EDAM",
+            "name": "Acoustics",
+            "url": "http://edamontology.org/topic_4029"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3892",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomolecular simulation",
+            "url": "http://edamontology.org/topic_3892"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3416",
+            "inDefinedTermSet": "EDAM",
+            "name": "Musculoskeletal medicine",
+            "url": "http://edamontology.org/topic_3416"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/k5hvbmdt47"
+}

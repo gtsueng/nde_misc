@@ -1,0 +1,73 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_mp4jwbpyjr",
+    "_score": 33.51901,
+    "author": [
+        {
+            "familyName": "malu",
+            "givenName": "lawrence",
+            "name": "lawrence malu"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.2139/ssrn.3404979",
+            "name": "3404979"
+        }
+    ],
+    "date": "2019-06-16",
+    "dateModified": "2019-06-16",
+    "datePublished": "2019-06-16",
+    "description": "arts e books by lawrence malu affiliayted to malu arts projecyts inc",
+    "doi": "10.17632/mp4jwbpyjr.1",
+    "identifier": "mp4jwbpyjr",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:32.515792"
+    },
+    "keywords": [
+        "Visual Arts"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Data for: 3404979",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3071",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data management",
+            "url": "http://edamontology.org/topic_3071"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/mp4jwbpyjr"
+}

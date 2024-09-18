@@ -1,0 +1,70 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_s3gspwv349",
+    "_score": 32.775093,
+    "author": [
+        {
+            "familyName": "POYEN",
+            "givenName": "Faruk Bin Poyen",
+            "name": "Faruk Bin Poyen POYEN"
+        }
+    ],
+    "date": "2016-11-03",
+    "dateModified": "2016-11-03",
+    "datePublished": "2016-11-03",
+    "description": "These diagrams are actual set up of the configuration spoken in the article. ",
+    "doi": "10.17632/s3gspwv349.1",
+    "identifier": "s3gspwv349",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:02.303463"
+    },
+    "keywords": [
+        "Applied Sciences",
+        "Solar Cell",
+        "Sensor",
+        "Actuator"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Sun Tracking Solar Panels and Auto Watering of Farm Lands - Extended Work",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3365",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data architecture, analysis and design",
+            "url": "http://edamontology.org/topic_3365"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3810",
+            "inDefinedTermSet": "EDAM",
+            "name": "Agricultural science",
+            "url": "http://edamontology.org/topic_3810"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3855",
+            "inDefinedTermSet": "EDAM",
+            "name": "Environmental sciences",
+            "url": "http://edamontology.org/topic_3855"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/s3gspwv349"
+}

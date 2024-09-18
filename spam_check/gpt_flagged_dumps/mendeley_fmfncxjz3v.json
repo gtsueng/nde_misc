@@ -1,0 +1,79 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_fmfncxjz3v",
+    "_score": 33.33485,
+    "author": [
+        {
+            "familyName": "Naik",
+            "givenName": "Sapan",
+            "name": "Sapan Naik"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://ieeexplore.ieee.org/document/6968366"
+        },
+        {
+            "@type": "article",
+            "url": "https://ieeexplore.ieee.org/document/7019298"
+        }
+    ],
+    "date": "2019-02-07",
+    "dateModified": "2019-02-07",
+    "datePublished": "2019-02-07",
+    "description": "Mango disease detection, grading and classification experiments can be performed. For more detail, call +91 9586113399.",
+    "doi": "10.17632/fmfncxjz3v.1",
+    "identifier": "fmfncxjz3v",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:08.975458"
+    },
+    "keywords": [
+        "Computer Vision",
+        "Machine Vision",
+        "Precision Agriculture"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Mango Dataset - Studio Setup",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3070",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biology",
+            "url": "http://edamontology.org/topic_3070"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3297",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biotechnology",
+            "url": "http://edamontology.org/topic_3297"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3810",
+            "inDefinedTermSet": "EDAM",
+            "name": "Agricultural science",
+            "url": "http://edamontology.org/topic_3810"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/fmfncxjz3v"
+}

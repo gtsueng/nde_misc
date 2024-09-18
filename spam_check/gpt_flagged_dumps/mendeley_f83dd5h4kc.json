@@ -1,0 +1,74 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_f83dd5h4kc",
+    "_score": 33.527798,
+    "author": [
+        {
+            "familyName": "Schork",
+            "givenName": "Joachim ",
+            "name": "Joachim  Schork"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://opencodecom.net/post/2021-06-01-predictive-mean-matching-imputation-in-r-mice-package-example/"
+        }
+    ],
+    "date": "2022-01-25",
+    "dateModified": "2022-01-24",
+    "datePublished": "2022-01-25",
+    "description": "Material published at https://opencodecom.net/",
+    "doi": "10.17632/f83dd5h4kc.1",
+    "identifier": "f83dd5h4kc",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:34.938502"
+    },
+    "keywords": [
+        "Business Economics",
+        "Business Administration"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Predictive Mean Matching Imputation in R published at Open Code Community",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0092",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data visualisation",
+            "url": "http://edamontology.org/topic_0092"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/f83dd5h4kc"
+}

@@ -1,0 +1,66 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_9k6752fzmz",
+    "_score": 32.775093,
+    "author": [
+        {
+            "familyName": "Mittal",
+            "givenName": "Amit",
+            "name": "Amit Mittal"
+        },
+        {
+            "familyName": "Dubey",
+            "givenName": "Jitendra",
+            "name": "Jitendra Dubey"
+        },
+        {
+            "familyName": "Goel",
+            "givenName": "Nitesh",
+            "name": "Nitesh Goel"
+        }
+    ],
+    "date": "2017-10-11",
+    "dateModified": "2017-10-09",
+    "datePublished": "2017-10-11",
+    "description": "Airway management by DLT placement for surgery requiring lung isolation is always technically difficult,  this situation is further complicated for awake intubations. we overcome the situation using C-MAC video laparoscopy.",
+    "doi": "10.17632/9k6752fzmz.2",
+    "identifier": "9k6752fzmz",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:58.087202"
+    },
+    "keywords": [
+        "Airway Management"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Data for: C-MAC D-Blade Videolaryngoscope: A novel device for awake double lumen tube placement",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3402",
+            "inDefinedTermSet": "EDAM",
+            "name": "Anaesthesiology",
+            "url": "http://edamontology.org/topic_3402"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3303",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicine",
+            "url": "http://edamontology.org/topic_3303"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/9k6752fzmz"
+}

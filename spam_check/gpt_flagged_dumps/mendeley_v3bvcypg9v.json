@@ -1,0 +1,116 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_v3bvcypg9v",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 25.812033,
+    "author": [
+        {
+            "familyName": "Wang",
+            "givenName": "Vei",
+            "name": "Vei Wang"
+        },
+        {
+            "familyName": "Xu",
+            "givenName": "Nan",
+            "name": "Nan Xu"
+        },
+        {
+            "familyName": "Liu",
+            "givenName": "Jin-Cheng",
+            "name": "Jin-Cheng Liu"
+        },
+        {
+            "familyName": "Tang",
+            "givenName": "Gang",
+            "name": "Gang Tang"
+        },
+        {
+            "familyName": "Geng",
+            "givenName": "Wen-Tong",
+            "name": "Wen-Tong Geng"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.cpc.2021.108033",
+            "name": "VASPKIT: A user-friendly interface facilitating high-throughput computing and analysis using VASP code"
+        }
+    ],
+    "date": "2021-06-15",
+    "dateModified": "2021-06-15",
+    "datePublished": "2021-06-15",
+    "description": "We present the VASPKIT, a command-line program that aims at providing a robust and user-friendly interface to perform high-throughput analysis of a variety of material properties from the raw data produced by the VASP code. It consists of mainly the pre- and post-processing modules. The former module is designed to prepare and manipulate input files such as the necessary input files generation, symmetry analysis, supercell transformation, k-path generation for a given crystal structure. The latter module is designed to extract and analyze the raw data about elastic mechanics, electronic structure, charge density, electrostatic potential, linear optical coefficients, wave function plots in real space, etc. This program can run conveniently in either interactive user interface or command line mode. The command-line options allow the user to perform high-throughput calculations together with bash scripts. This article gives an overview of the program structure and presents illustrative examples for some of its usages. The program can run on Linux, macOS, and Windows platforms. The executable versions of VASPKIT and the related examples and tutorials are available on its official website vaspkit.com.",
+    "doi": "10.17632/v3bvcypg9v.1",
+    "identifier": "v3bvcypg9v",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:53.397943"
+    },
+    "infectiousAgent": [
+        {
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2024-08-15",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Transformation",
+            "fromEXTRACT": true,
+            "identifier": "2839062",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Transformation",
+            "originalName": "transformation",
+            "url": "https://www.uniprot.org/taxonomy/2839062"
+        }
+    ],
+    "keywords": [
+        "Condensed Matter Physics",
+        "Density Functional Theory",
+        "Computational Physics"
+    ],
+    "license": "http://www.gnu.org/licenses/gpl-3.0.en.html",
+    "name": "VASPKIT: A user-friendly interface facilitating high-throughput computing and analysis using VASP code",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3332",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational chemistry",
+            "url": "http://edamontology.org/topic_3332"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0219",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data submission, annotation, and curation",
+            "url": "http://edamontology.org/topic_0219"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/v3bvcypg9v"
+}

@@ -1,0 +1,68 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_fjkpbtb2gd",
+    "_score": 33.33485,
+    "author": [
+        {
+            "familyName": "Klanica",
+            "givenName": "Radek",
+            "name": "Radek Klanica"
+        }
+    ],
+    "date": "2019-10-03",
+    "dateModified": "2019-10-03",
+    "datePublished": "2019-10-03",
+    "description": "Data from geophysical methods - ERT, gravity, sesmics and AMT. Please contact owner on email rk@ig.cas.cz before any use.",
+    "doi": "10.17632/fjkpbtb2gd.1",
+    "identifier": "fjkpbtb2gd",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:57.734301"
+    },
+    "keywords": [
+        "Near-Surface Geophysics",
+        "Applied Geophysics"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "The Hranice Abyss",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3077",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data acquisition",
+            "url": "http://edamontology.org/topic_3077"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_4014",
+            "inDefinedTermSet": "EDAM",
+            "name": "Electroencephalography",
+            "url": "http://edamontology.org/topic_4014"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3306",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biophysics",
+            "url": "http://edamontology.org/topic_3306"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/fjkpbtb2gd"
+}

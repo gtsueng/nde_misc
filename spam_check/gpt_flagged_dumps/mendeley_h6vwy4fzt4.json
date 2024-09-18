@@ -1,0 +1,70 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_h6vwy4fzt4",
+    "_score": 32.775093,
+    "author": [
+        {
+            "familyName": "Ahmed",
+            "givenName": "Wasif",
+            "name": "Wasif Ahmed"
+        }
+    ],
+    "date": "2022-12-28",
+    "dateModified": "2022-12-24",
+    "datePublished": "2022-12-28",
+    "description": "This data is not for commercial use . If anyone is interested in using the data, please contact Wasif Ahmed.\nat wasifahmed951@gmail.com",
+    "doi": "10.17632/h6vwy4fzt4.3",
+    "identifier": "h6vwy4fzt4",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:57.771851"
+    },
+    "keywords": [
+        "Automobile",
+        "Wheelchair",
+        "Wheelchair Design",
+        "Automotive Mechatronics"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Multiple control Advanced Electric Wheel Chair for people with disabilities",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3303",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicine",
+            "url": "http://edamontology.org/topic_3303"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3576",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medical biotechnology",
+            "url": "http://edamontology.org/topic_3576"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3344",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomedical science",
+            "url": "http://edamontology.org/topic_3344"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/h6vwy4fzt4"
+}

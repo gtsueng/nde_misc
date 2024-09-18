@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_gz4s5354cd",
+    "_score": 34.315018,
+    "author": [
+        {
+            "familyName": "Carpio Moreno",
+            "givenName": "Luis",
+            "name": "Luis Carpio Moreno"
+        }
+    ],
+    "date": "2019-03-05",
+    "dateModified": "2019-03-05",
+    "datePublished": "2019-03-05",
+    "description": "Zigomatic implanst references",
+    "doi": "10.17632/gz4s5354cd.1",
+    "identifier": "gz4s5354cd",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:08.557053"
+    },
+    "keywords": [
+        "Implant"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Zigomatic Implants",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3368",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomaterials",
+            "url": "http://edamontology.org/topic_3368"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3405",
+            "inDefinedTermSet": "EDAM",
+            "name": "Dentistry",
+            "url": "http://edamontology.org/topic_3405"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3067",
+            "inDefinedTermSet": "EDAM",
+            "name": "Anatomy",
+            "url": "http://edamontology.org/topic_3067"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/gz4s5354cd"
+}

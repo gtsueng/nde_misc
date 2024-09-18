@@ -1,0 +1,32 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_f96x3cysrm",
+    "_score": 36.256832,
+    "author": [
+        {
+            "familyName": "Ma",
+            "givenName": "Chao-Qun",
+            "name": "Chao-Qun Ma"
+        }
+    ],
+    "date": "2021-06-15",
+    "dateModified": "2021-06-15",
+    "datePublished": "2021-06-15",
+    "description": "Bitcoin bubbles",
+    "doi": "10.17632/f96x3cysrm.1",
+    "identifier": "f96x3cysrm",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:52.806045"
+    },
+    "keywords": [
+        "Finance"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Bitcoin bubble",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/f96x3cysrm"
+}

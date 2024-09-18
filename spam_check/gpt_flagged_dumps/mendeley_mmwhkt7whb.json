@@ -1,0 +1,59 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_mmwhkt7whb",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 32.045765,
+    "author": [
+        {
+            "familyName": "motahhir",
+            "givenName": "saad",
+            "name": "saad motahhir"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "other",
+            "url": "https://www.researchgate.net/publication/312328619_MATLABSimulink_Model_of_Photovoltaic_Cell_Panel_and_Array"
+        },
+        {
+            "@type": "other",
+            "url": "https://www.researchgate.net/publication/304489360_Une_ressource_pedagogique_pour_l%27enseignement_par_simulation_cas_des_panneaux_photovoltaiques"
+        }
+    ],
+    "date": "2020-04-12",
+    "dateModified": "2020-04-12",
+    "datePublished": "2020-04-12",
+    "description": "This file focuses on a Matlab/SIMULINK model of a photovoltaic cell, panel and array.\n\n1. The first model is based on mathematical equations.\n\n2. The second model is on mathematical equations and the electrical circuit of the PV panel.\n\n3. The third one is the mathworks PV panel.\n\nPaper Linked to these data: https://hal.archives-ouvertes.fr/hal-01351308/\n\nFor more works and papers, please visit : https://www.researchgate.net/profile/Saad_Motahhir",
+    "doi": "10.17632/mmwhkt7whb.3",
+    "identifier": "mmwhkt7whb",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:35.995202"
+    },
+    "keywords": [
+        "Solar Energy",
+        "Device Modeling"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "MATLAB/Simulink Model of Photovoltaic Cell, Panel and Array",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/mmwhkt7whb"
+}

@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_n4t8mwzh99",
+    "_score": 33.9122,
+    "author": [
+        {
+            "familyName": "Chakrabarti",
+            "givenName": "DhurjatiPrasad",
+            "name": "DhurjatiPrasad Chakrabarti"
+        }
+    ],
+    "date": "2021-01-28",
+    "dateModified": "2021-01-28",
+    "datePublished": "2021-01-28",
+    "description": "Adsorption concentration and isotherm data",
+    "doi": "10.17632/n4t8mwzh99.2",
+    "identifier": "n4t8mwzh99",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:01.624601"
+    },
+    "keywords": [
+        "Adsorption"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Cr6 Adsorption on fish scale",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3370",
+            "inDefinedTermSet": "EDAM",
+            "name": "Analytical chemistry",
+            "url": "http://edamontology.org/topic_3370"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3314",
+            "inDefinedTermSet": "EDAM",
+            "name": "Chemistry",
+            "url": "http://edamontology.org/topic_3314"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3855",
+            "inDefinedTermSet": "EDAM",
+            "name": "Environmental sciences",
+            "url": "http://edamontology.org/topic_3855"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/n4t8mwzh99"
+}

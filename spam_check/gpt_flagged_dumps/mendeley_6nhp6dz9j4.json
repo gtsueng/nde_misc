@@ -1,0 +1,86 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_6nhp6dz9j4",
+    "_score": 32.403465,
+    "author": [
+        {
+            "familyName": "Chiter",
+            "givenName": "Lakhdar",
+            "name": "Lakhdar Chiter"
+        },
+        {
+            "familyName": "Belkacem",
+            "givenName": "Naziheddine",
+            "name": "Naziheddine Belkacem"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": ". https://doi.org/ 10.1007/s10898-016-0485-6"
+        },
+        {
+            "@type": "article",
+            "url": ". https://doi. org/10.1016/j.eswa.2019.113052"
+        },
+        {
+            "@type": "article",
+            "url": ". http://www-optima.amp.i.kyoto-u.ac.jp/member/student/ hedar/Hedar_files/TestGO.htm"
+        }
+    ],
+    "date": "2021-03-09",
+    "dateModified": "2021-02-25",
+    "datePublished": "2021-03-09",
+    "description": "This is a BIRECT Matlab code in 2D for graphic use, written by Naziheddine Belkacem and Lakhdar Chiter. The complete code (up to 10 variables) is only on request. For more details email to: lchiter@univ-setif.dz",
+    "doi": "10.17632/6nhp6dz9j4.3",
+    "identifier": "6nhp6dz9j4",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:07.457591"
+    },
+    "keywords": [
+        "Global Optimization"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "BIRECT-2D code ",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3071",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data management",
+            "url": "http://edamontology.org/topic_3071"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0219",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data submission, annotation, and curation",
+            "url": "http://edamontology.org/topic_0219"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/6nhp6dz9j4"
+}

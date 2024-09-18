@@ -1,0 +1,32 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_gxbngx8np7",
+    "_score": 35.812862,
+    "author": [
+        {
+            "familyName": "Premkumar",
+            "givenName": "Tolkappiyan",
+            "name": "Tolkappiyan Premkumar"
+        }
+    ],
+    "date": "2022-09-15",
+    "dateModified": "2022-09-14",
+    "datePublished": "2022-09-15",
+    "description": "Dr Aimee Farria Full interview",
+    "doi": "10.17632/gxbngx8np7.1",
+    "identifier": "gxbngx8np7",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:04.152031"
+    },
+    "keywords": [
+        "Structured Interview"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Interview Dr Aimee Farria Full interview",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/gxbngx8np7"
+}

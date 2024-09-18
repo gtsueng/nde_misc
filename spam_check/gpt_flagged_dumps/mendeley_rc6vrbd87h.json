@@ -1,0 +1,34 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_rc6vrbd87h",
+    "_score": 35.861725,
+    "author": [
+        {
+            "familyName": "Mikhaylov",
+            "givenName": "Alexey",
+            "name": "Alexey Mikhaylov"
+        }
+    ],
+    "date": "2022-11-17",
+    "dateModified": "2022-11-16",
+    "datePublished": "2022-11-17",
+    "description": "Bitcoin price forecast 2018-2022",
+    "doi": "10.17632/rc6vrbd87h.4",
+    "identifier": "rc6vrbd87h",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:04.810338"
+    },
+    "keywords": [
+        "Random Decision Forest",
+        "Cryptocurrency",
+        "Bitcoin"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Bitcoin price forecast",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/rc6vrbd87h"
+}

@@ -1,0 +1,83 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_t83kt3wnn8",
+    "_score": 33.1351,
+    "author": [
+        {
+            "familyName": "Machova",
+            "givenName": "Kristyna",
+            "name": "Kristyna Machova"
+        }
+    ],
+    "date": "2023-07-13",
+    "dateModified": "2023-07-03",
+    "datePublished": "2023-07-13",
+    "description": "Dog walking during covid 19",
+    "doi": "10.17632/t83kt3wnn8.1",
+    "healthCondition": [
+        {
+            "curatedBy": {
+                "dateModified": "2024-01-27",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "fromEXTRACT": true,
+            "identifier": "D000086382",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": true,
+            "name": "COVID-19",
+            "originalName": "covid 19",
+            "url": "https://id.nlm.nih.gov/mesh/D000086382.html"
+        }
+    ],
+    "identifier": "t83kt3wnn8",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:04.958764"
+    },
+    "keywords": [
+        "Biological Database"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Dog walking",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3305",
+            "inDefinedTermSet": "EDAM",
+            "name": "Public health and epidemiology",
+            "url": "http://edamontology.org/topic_3305"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3679",
+            "inDefinedTermSet": "EDAM",
+            "name": "Animal study",
+            "url": "http://edamontology.org/topic_3679"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/t83kt3wnn8"
+}

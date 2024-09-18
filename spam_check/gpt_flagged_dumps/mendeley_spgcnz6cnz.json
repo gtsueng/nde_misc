@@ -1,0 +1,68 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_spgcnz6cnz",
+    "_score": 34.112385,
+    "author": [
+        {
+            "familyName": "James",
+            "givenName": "Henry",
+            "name": "Henry James"
+        }
+    ],
+    "date": "2019-09-03",
+    "dateModified": "2019-09-03",
+    "datePublished": "2019-09-03",
+    "description": "Data and Eviews result",
+    "doi": "10.17632/spgcnz6cnz.2",
+    "identifier": "spgcnz6cnz",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:09.490116"
+    },
+    "keywords": [
+        "Economics",
+        "Econometrics"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Research Data Nigeria ",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3489",
+            "inDefinedTermSet": "EDAM",
+            "name": "Database management",
+            "url": "http://edamontology.org/topic_3489"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/spgcnz6cnz"
+}

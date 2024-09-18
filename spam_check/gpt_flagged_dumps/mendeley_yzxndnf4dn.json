@@ -1,0 +1,70 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_yzxndnf4dn",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 30.682175,
+    "author": [
+        {
+            "familyName": "nally",
+            "givenName": "sandwra",
+            "name": "sandwra nally"
+        }
+    ],
+    "date": "2020-07-29",
+    "dateModified": "2020-07-29",
+    "datePublished": "2020-07-29",
+    "description": "BuzzBGone Reviews\nBuzzBGone Reviews \u2013 Check BuzzBGone Consumer Reports Here\nThese superbugs also are getting smarter each day. The new invention advanced to diminish their malice seems to paintings for a while after which destroy down due to one reason or every other. You can not assume a eating place, as an example, to have a mosquito net, can you? That would no longer attraction to the customers trying to revel in their night at all. https://apnews.com/283413c30ea9cbe98995d2c213436f88\n",
+    "doi": "10.17632/yzxndnf4dn.1",
+    "identifier": "yzxndnf4dn",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:33.657758"
+    },
+    "keywords": [
+        "Applied Sciences"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "BuzzBGone Reviews",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3398",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioengineering",
+            "url": "http://edamontology.org/topic_3398"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/yzxndnf4dn"
+}

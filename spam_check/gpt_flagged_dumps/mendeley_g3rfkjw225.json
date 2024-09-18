@@ -1,0 +1,69 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_g3rfkjw225",
+    "_score": 33.714424,
+    "author": [
+        {
+            "familyName": "Cortez",
+            "givenName": "David",
+            "name": "David Cortez"
+        }
+    ],
+    "date": "2021-01-08",
+    "dateModified": "2021-01-06",
+    "datePublished": "2021-01-08",
+    "description": "Data associated with \"RADX controls RAD51 filament dynamics to regulate replication fork stability\"",
+    "doi": "10.17632/g3rfkjw225.1",
+    "identifier": "g3rfkjw225",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:01.420901"
+    },
+    "keywords": [
+        "Biochemistry",
+        "DNA Replication",
+        "DNA Repair"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "AdolphRADX2020",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3292",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biochemistry",
+            "url": "http://edamontology.org/topic_3292"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3053",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genetics",
+            "url": "http://edamontology.org/topic_3053"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3070",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biology",
+            "url": "http://edamontology.org/topic_3070"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/g3rfkjw225"
+}

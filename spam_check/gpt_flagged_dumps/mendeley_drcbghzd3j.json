@@ -1,0 +1,56 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_drcbghzd3j",
+    "_score": 33.92581,
+    "author": [
+        {
+            "familyName": "tang",
+            "givenName": "songjia",
+            "name": "songjia tang"
+        }
+    ],
+    "date": "2019-08-02",
+    "dateModified": "2019-08-02",
+    "datePublished": "2019-08-02",
+    "description": "Modified single-hair follicular unit grafting to aesthetically restore eyelashes in Asians",
+    "doi": "10.17632/drcbghzd3j.1",
+    "identifier": "drcbghzd3j",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:46.378967"
+    },
+    "keywords": [
+        "Hair Transplantation"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Modified single-hair follicular unit grafting to aesthetically restore eyelashes in Asians",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3404",
+            "inDefinedTermSet": "EDAM",
+            "name": "Dermatology",
+            "url": "http://edamontology.org/topic_3404"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3574",
+            "inDefinedTermSet": "EDAM",
+            "name": "Human genetics",
+            "url": "http://edamontology.org/topic_3574"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/drcbghzd3j"
+}

@@ -1,0 +1,51 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_vzmd24hzhm",
+    "_score": 34.120705,
+    "author": [
+        {
+            "familyName": "Saputra",
+            "givenName": "Ari Kurniawan",
+            "name": "Ari Kurniawan Saputra"
+        },
+        {
+            "familyName": "Dewi Wijayanti",
+            "givenName": "Ika",
+            "name": "Ika Dewi Wijayanti"
+        }
+    ],
+    "date": "2022-01-10",
+    "dateModified": "2022-01-09",
+    "datePublished": "2022-01-10",
+    "description": "Design of ultra-low-cost and adjustable in-house electrospinning machine to produce polymer nanofibers ",
+    "doi": "10.17632/vzmd24hzhm.1",
+    "identifier": "vzmd24hzhm",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:52.234205"
+    },
+    "keywords": [
+        "Electrospinning",
+        "Nanofibers"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "An ultra-low-cost and adjustable in-house electrospinning machine to produce polymer nanofibers ",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3398",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioengineering",
+            "url": "http://edamontology.org/topic_3398"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/vzmd24hzhm"
+}

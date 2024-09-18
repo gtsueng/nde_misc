@@ -1,0 +1,51 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_s4g2xvjrzd",
+    "_score": 34.72782,
+    "author": [
+        {
+            "familyName": "Cuevas",
+            "givenName": "Conrado",
+            "name": "Conrado Cuevas"
+        },
+        {
+            "familyName": "Bernhardt",
+            "givenName": "Dan",
+            "name": "Dan Bernhardt"
+        }
+    ],
+    "date": "2023-07-03",
+    "dateModified": "2023-06-30",
+    "datePublished": "2023-07-03",
+    "description": "Replication files for ''When financial advice rocks the market\"",
+    "doi": "10.17632/s4g2xvjrzd.2",
+    "identifier": "s4g2xvjrzd",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:03.976184"
+    },
+    "keywords": [
+        "Economics",
+        "Finance"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "When financial advice rocks the market",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/s4g2xvjrzd"
+}

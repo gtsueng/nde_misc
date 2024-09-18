@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_4ts6wf2f76",
+    "_score": 32.76015,
+    "author": [
+        {
+            "familyName": "Burgess",
+            "givenName": "Nicholas",
+            "name": "Nicholas Burgess"
+        }
+    ],
+    "date": "2018-11-07",
+    "dateModified": "2018-11-07",
+    "datePublished": "2018-11-07",
+    "description": "Cross Currency Swap Excel Pricing workbook with Market Data.",
+    "doi": "10.17632/4ts6wf2f76.1",
+    "identifier": "4ts6wf2f76",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:01.800166"
+    },
+    "keywords": [
+        "Financial Investment"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Data for: Cross Currency Swap Theory &amp; Practice - An Illustrated Step-by-Step Guide of How to Price Cross Currency Swaps and Calculate the Basis Spread",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0092",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data visualisation",
+            "url": "http://edamontology.org/topic_0092"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/4ts6wf2f76"
+}

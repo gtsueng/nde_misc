@@ -1,0 +1,68 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_6fwj7z2hpw",
+    "_score": 33.714424,
+    "author": [
+        {
+            "familyName": "Khandual",
+            "givenName": "Asimananda",
+            "name": "Asimananda Khandual"
+        }
+    ],
+    "date": "2022-04-19",
+    "dateModified": "2022-04-14",
+    "datePublished": "2022-04-19",
+    "description": "Data Intigrated sphere Imaging",
+    "doi": "10.17632/6fwj7z2hpw.1",
+    "identifier": "6fwj7z2hpw",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:39.767769"
+    },
+    "keywords": [
+        "Image Acquisition",
+        "Image Color Processing"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Data Intigrated sphere Imaging",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/6fwj7z2hpw"
+}

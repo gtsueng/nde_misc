@@ -1,0 +1,50 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_hcck7zjjvb",
+    "_score": 35.639908,
+    "author": [
+        {
+            "familyName": "Lake",
+            "givenName": "Delancey",
+            "name": "Delancey Lake"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "dataset",
+            "url": "https://visaedu.org"
+        },
+        {
+            "@type": "other",
+            "url": "https://visaedu.org/forum"
+        },
+        {
+            "@type": "other",
+            "url": "https://visaedu.org/flights"
+        },
+        {
+            "@type": "other",
+            "url": "https://visaedu.org/hoome"
+        }
+    ],
+    "date": "2019-02-08",
+    "dateModified": "2019-02-08",
+    "datePublished": "2019-02-08",
+    "description": "Tourism Hospitality and Travel Habits.Flight tickets and hotel booking  of touristic visitors",
+    "doi": "10.17632/hcck7zjjvb.1",
+    "identifier": "hcck7zjjvb",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:58.730146"
+    },
+    "keywords": [
+        "Flight Tracking"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "flight tickets",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/hcck7zjjvb"
+}

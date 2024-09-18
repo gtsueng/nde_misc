@@ -1,0 +1,32 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_96bpgw5j9d",
+    "_score": 36.210407,
+    "author": [
+        {
+            "familyName": "Greenough",
+            "givenName": "Bryhanna",
+            "name": "Bryhanna Greenough"
+        }
+    ],
+    "date": "2021-05-27",
+    "dateModified": "2021-05-27",
+    "datePublished": "2021-05-27",
+    "description": "Heritage Education\n",
+    "doi": "10.17632/96bpgw5j9d.1",
+    "identifier": "96bpgw5j9d",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:05.429556"
+    },
+    "keywords": [
+        "Heritage Conservation"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Heritage Education",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/96bpgw5j9d"
+}

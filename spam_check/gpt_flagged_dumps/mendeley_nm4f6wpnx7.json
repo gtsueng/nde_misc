@@ -1,0 +1,98 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_nm4f6wpnx7",
+    "_score": 31.69612,
+    "author": [
+        {
+            "familyName": "\u0634\u0644\u064a\u0644\u0647",
+            "givenName": "\u0645\u0646\u0635\u0629",
+            "name": "\u0645\u0646\u0635\u0629 \u0634\u0644\u064a\u0644\u0647"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.2139/ssrn.3664971",
+            "name": "3664971"
+        }
+    ],
+    "date": "2020-07-31",
+    "dateModified": "2020-07-31",
+    "datePublished": "2020-07-31",
+    "description": "mjmoatplatformshliilh ar \nmnstshlylh\nAll android web All Al Ai TV robot Automatic transmission apps Desktop javascript SDK clandestinely Adobe Apache APK app etc. ",
+    "doi": "10.17632/nm4f6wpnx7.1",
+    "identifier": "nm4f6wpnx7",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:02.307661"
+    },
+    "infectiousAgent": [
+        {
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2024-09-09",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Glomus sp. Ai",
+            "fromEXTRACT": true,
+            "identifier": "147399",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Glomus sp. Ai",
+            "originalName": "Al Ai",
+            "url": "https://www.uniprot.org/taxonomy/147399"
+        }
+    ],
+    "keywords": [
+        "Applied Sciences",
+        "Social Sciences",
+        "Mathematics",
+        "Health Sciences",
+        "Acute Lymphocytic Leukemia",
+        "World Wide Web",
+        "Allatostatins",
+        "Webworm"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "\u0645\u0646\u0635\u0629-\u0634\u0644\u064a\u0644\u0647",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3263",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data security",
+            "url": "http://edamontology.org/topic_3263"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/nm4f6wpnx7"
+}

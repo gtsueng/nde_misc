@@ -1,0 +1,50 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_zm3d58b86m",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 32.946526,
+    "author": [
+        {
+            "familyName": "Tifferet",
+            "givenName": "Sigal",
+            "name": "Sigal Tifferet"
+        }
+    ],
+    "date": "2019-01-30",
+    "dateModified": "2019-01-30",
+    "datePublished": "2019-01-30",
+    "description": "Fictitious advertisements were created for mineral water, chewing gum and energy bars, manipulating the age of the models. Each participant was randomly placed in one of four conditions using a 2 (Model Age) x 2 (Model Gender) between-subjects experimental design and asked to rate the ads. ",
+    "doi": "10.17632/zm3d58b86m.1",
+    "identifier": "zm3d58b86m",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:57.320367"
+    },
+    "keywords": [
+        "Evolutionary Psychology",
+        "Advertising",
+        "Consumer Psychology"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Ad model age preference by gender",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3410",
+            "inDefinedTermSet": "EDAM",
+            "name": "Gender medicine",
+            "url": "http://edamontology.org/topic_3410"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/zm3d58b86m"
+}

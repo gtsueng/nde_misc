@@ -1,0 +1,45 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_yymxrn9znx",
+    "_score": 33.325916,
+    "author": [
+        {
+            "familyName": "allauto20",
+            "givenName": "allauto20",
+            "name": "allauto20 allauto20"
+        }
+    ],
+    "date": "2020-11-09",
+    "dateModified": "2020-11-09",
+    "datePublished": "2020-11-09",
+    "description": "Cookscape brings in some of the best Modular kitchen designs in the city of Chennai. With Cookscape, you also get to experience a feeling of what your kitchen would look like in its modular Avatar. Cookscape is the Best Interior Designers in Chennai.",
+    "doi": "10.17632/yymxrn9znx.1",
+    "identifier": "yymxrn9znx",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:56.491259"
+    },
+    "keywords": [
+        "Advertising"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Interior Designers In Chennai | Cookscape",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3303",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicine",
+            "url": "http://edamontology.org/topic_3303"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/yymxrn9znx"
+}

@@ -1,0 +1,34 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_4k7thj4vt6",
+    "_score": 35.163002,
+    "author": [
+        {
+            "familyName": "Murray",
+            "givenName": "Nick",
+            "name": "Nick Murray"
+        }
+    ],
+    "date": "2021-10-20",
+    "dateModified": "2021-10-19",
+    "datePublished": "2021-10-20",
+    "description": "Adaptor plate to adapt a different motor to the stock gearbox and mount in the stock location.",
+    "doi": "10.17632/4k7thj4vt6.1",
+    "identifier": "4k7thj4vt6",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:34.624931"
+    },
+    "keywords": [
+        "Engineering",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Gearbox Adaptor Plate",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/4k7thj4vt6"
+}

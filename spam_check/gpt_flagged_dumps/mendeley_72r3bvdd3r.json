@@ -1,0 +1,60 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_72r3bvdd3r",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 32.409187,
+    "author": [
+        {
+            "familyName": "Vernimmen",
+            "givenName": "Ronald",
+            "name": "Ronald Vernimmen"
+        }
+    ],
+    "date": "2019-05-09",
+    "dateModified": "2019-05-09",
+    "datePublished": "2019-05-09",
+    "description": "DTM's for Central Kalimantan and East Sumatra at 500 m spatial resolution as published in Vernimmen et al. 2019:\n\nCreating a lowland and peatland landscape Digital Terrain Model (DTM) from interpolated partial coverage LiDAR data for Central Kalimantan and East Sumatra, Indonesia\n\nContact us on related products.",
+    "doi": "10.17632/72r3bvdd3r.1",
+    "identifier": "72r3bvdd3r",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:32.915444"
+    },
+    "keywords": [
+        "Digital Elevation Model",
+        "Indonesia"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "DTM Central Kalimantan and East Sumatra (Vernimmen et al. 2019)",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3070",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biology",
+            "url": "http://edamontology.org/topic_3070"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3855",
+            "inDefinedTermSet": "EDAM",
+            "name": "Environmental sciences",
+            "url": "http://edamontology.org/topic_3855"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/72r3bvdd3r"
+}

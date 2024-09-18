@@ -1,0 +1,32 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_5y949s68cp",
+    "_score": 36.04078,
+    "author": [
+        {
+            "familyName": "Rizqi",
+            "givenName": "Arvirosya ",
+            "name": "Arvirosya  Rizqi"
+        }
+    ],
+    "date": "2022-06-20",
+    "dateModified": "2022-06-19",
+    "datePublished": "2022-06-20",
+    "description": "part of road blocker",
+    "doi": "10.17632/5y949s68cp.1",
+    "identifier": "5y949s68cp",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:09.709310"
+    },
+    "keywords": [
+        "Computer-Aided Design"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Hydraulic Road Blocker ",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/5y949s68cp"
+}

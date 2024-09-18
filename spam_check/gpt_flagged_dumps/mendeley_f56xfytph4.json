@@ -1,0 +1,69 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_f56xfytph4",
+    "_score": 33.53309,
+    "author": [
+        {
+            "familyName": "Sang",
+            "givenName": "Nguyen Minh",
+            "name": "Nguyen Minh Sang"
+        }
+    ],
+    "date": "2021-10-01",
+    "dateModified": "2021-10-01",
+    "datePublished": "2021-10-01",
+    "description": "All 2000 publications on the topic of the Bitcoin  on Scopus!",
+    "doi": "10.17632/f56xfytph4.2",
+    "identifier": "f56xfytph4",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:09.401296"
+    },
+    "keywords": [
+        "Banking",
+        "Economics",
+        "Finance"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Trends in the Bitcoin research",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/f56xfytph4"
+}

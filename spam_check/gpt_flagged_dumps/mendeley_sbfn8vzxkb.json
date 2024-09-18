@@ -1,0 +1,45 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_sbfn8vzxkb",
+    "_score": 35.373817,
+    "author": [
+        {
+            "familyName": "ArceLopera",
+            "givenName": "Carlos",
+            "name": "Carlos ArceLopera"
+        }
+    ],
+    "date": "2020-09-14",
+    "dateModified": "2020-09-03",
+    "datePublished": "2020-09-14",
+    "description": "new dataset of pulse-annotated Salsa music",
+    "doi": "10.17632/sbfn8vzxkb.1",
+    "identifier": "sbfn8vzxkb",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:04.244522"
+    },
+    "keywords": [
+        "Music"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Salsa Pulse",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/sbfn8vzxkb"
+}

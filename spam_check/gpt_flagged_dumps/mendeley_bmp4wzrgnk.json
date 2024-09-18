@@ -1,0 +1,74 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_bmp4wzrgnk",
+    "_score": 31.702095,
+    "author": [
+        {
+            "familyName": "Burgess",
+            "givenName": "Nicholas",
+            "name": "Nicholas Burgess"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.2139/ssrn.3278907",
+            "name": "Cross Currency Swap Theory &amp; Practice - An Illustrated Step-by-Step Guide of How to Price Cross Currency Swaps and Calculate the Basis Spread"
+        }
+    ],
+    "date": "2019-03-26",
+    "dateModified": "2019-03-26",
+    "datePublished": "2019-03-26",
+    "description": "Cross Currency Excel Pricing Workbook and Bloomberg SWPM Snapshot Document\n",
+    "doi": "10.17632/bmp4wzrgnk.9",
+    "identifier": "bmp4wzrgnk",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:02.321766"
+    },
+    "keywords": [
+        "Financial Instruments",
+        "Financial Investment"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Excel Pricing Workbook: Cross Currency Swap Theory & Practice - An Illustrated Step-by-Step Guide of How to Price Cross Currency Swaps and Calculate the Basis Spread",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3314",
+            "inDefinedTermSet": "EDAM",
+            "name": "Chemistry",
+            "url": "http://edamontology.org/topic_3314"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/bmp4wzrgnk"
+}

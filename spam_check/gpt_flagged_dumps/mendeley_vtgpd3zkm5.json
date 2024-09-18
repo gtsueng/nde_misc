@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_vtgpd3zkm5",
+    "_score": 33.9122,
+    "author": [
+        {
+            "familyName": "Lomakin",
+            "givenName": "Nikolay",
+            "name": "Nikolay Lomakin"
+        }
+    ],
+    "date": "2019-12-19",
+    "dateModified": "2019-12-19",
+    "datePublished": "2019-12-19",
+    "description": "AI-\u0421\u0418\u0421\u0422\u0415\u041c\u0410 \u0411\u0418\u0420\u0416\u0415\u0412\u041e\u0413\u041e \u0422\u041e\u0420\u0413\u041e\u0412\u041e\u0413\u041e \u0420\u041e\u0411\u041e\u0422\u0410  \u0414\u041b\u042f \u0425\u0415\u0414\u0416\u0418\u0420\u041e\u0412\u0410\u041d\u0418\u042f \u0424\u0418\u041d\u0410\u041d\u0421\u041e\u0412\u041e\u0413\u041e \u0420\u0418\u0421\u041a\u0410\n",
+    "doi": "10.17632/vtgpd3zkm5.1",
+    "identifier": "vtgpd3zkm5",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:53.837970"
+    },
+    "keywords": [
+        "Risk"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Artifical Intelligence",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3474",
+            "inDefinedTermSet": "EDAM",
+            "name": "Machine learning",
+            "url": "http://edamontology.org/topic_3474"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/vtgpd3zkm5"
+}

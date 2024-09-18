@@ -1,0 +1,66 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_bgh8kdc6pb",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.379362,
+    "author": [
+        {
+            "familyName": "tang",
+            "givenName": "xiansheng",
+            "name": "xiansheng tang"
+        }
+    ],
+    "date": "2020-05-14",
+    "dateModified": "2020-05-14",
+    "datePublished": "2020-05-14",
+    "description": "News from Nabha prison in India has recently arrived. The jammers they installed interfered with signals from all facilities near the prison, and the entire bank was cut off to be precise. Therefore, the authorities were forced to call engineers to calculate the exact output power and location of the equipment to ensure that the prison was the only facility within the coverage area. This is why we need precise calculations and precision when dealing with cell phone blocking programs. What happens if these people block communications in nearby hospitals? This is not the only problem caused by improper use of equipment that interferes with radio signals, including cell phone jammers.\n\nhttps://www.perfectjammer.com/gps-blockers-jammers.html\n\nThe situation in American prisons is also changing. According to Sacramento Bee, the two prisons in Texas will now have a \u201cmanagement access system,\u201d which only allows calls within the institution Approved phone number. But this is not the answer to the question! This \"hosted access system\" only solves part of the problem. What does it mean for Wi-Fi Internet access? He said nothing because the prisoners became more and more active because of phone smuggling. The focus of the above article is-is it fair to use cell phone jammers in prison? I agree that criminals do not take vacations there, and they must strictly abide by the crime rules. But what is relevant to the guards is that they have no restrictions not only on the use of mobile phones, but also on the use of other wireless devices. And, what if there is an emergency? Directors will not be able to communicate with the outside world of the company and operate in both directions.\n\nhttps://www.perfectjammer.com/wireless-wifi-bluetooth-jammers.html\nHere is an interesting fact: all countries that prohibit the use of blocking devices are actually the countries with the highest percentage of cell phone jammers. This may explain why the United States is the largest country using blocking devices. Believe it or not, but in the past, people were allowed to use these interference devices legally. However, the government later believed that this would be illegal, because if everyone started using such equipment, it might prevent some important agencies from sending out signals. In fact, the United States ranks first in using GPS jamming equipment. Russia ranks second because the people of these countries are more inclined and willing to protect their privacy from invasion. These two countries may use the most advanced technology to follow employees. India is the third user of jamming technology in which signal jamming equipment is used to protect public places from terrorist attacks.\n\nhttps://www.perfectjammer.com/all-gsm-3g-jammers-blockers.html",
+    "doi": "10.17632/bgh8kdc6pb.1",
+    "identifier": "bgh8kdc6pb",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:57.569925"
+    },
+    "infectiousAgent": [
+        {
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2024-09-09",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Isis",
+            "fromEXTRACT": true,
+            "identifier": "1074817",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Isis",
+            "originalName": "is-is",
+            "url": "https://www.uniprot.org/taxonomy/1074817"
+        }
+    ],
+    "keywords": [
+        "Arts and Humanities"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Is it fair to use cell phone jammers in prison?",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3305",
+            "inDefinedTermSet": "EDAM",
+            "name": "Public health and epidemiology",
+            "url": "http://edamontology.org/topic_3305"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/bgh8kdc6pb"
+}

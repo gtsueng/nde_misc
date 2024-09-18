@@ -1,0 +1,147 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_sn964fs2dp",
+    "_score": 30.682175,
+    "author": [
+        {
+            "familyName": "Kervarrec",
+            "givenName": "Thibault",
+            "name": "Thibault Kervarrec"
+        },
+        {
+            "familyName": "Zaragoza",
+            "givenName": "Julia",
+            "name": "Julia Zaragoza"
+        },
+        {
+            "familyName": "Gaboriaud",
+            "givenName": "Pauline",
+            "name": "Pauline Gaboriaud"
+        },
+        {
+            "familyName": "Berthon",
+            "givenName": "Patricia",
+            "name": "Patricia Berthon"
+        },
+        {
+            "familyName": "Fromont",
+            "givenName": "Gaelle",
+            "name": "Gaelle Fromont"
+        },
+        {
+            "familyName": "Le Corre",
+            "givenName": "Yannick",
+            "name": "Yannick Le Corre"
+        },
+        {
+            "familyName": "Hainaut",
+            "givenName": "Ewa",
+            "name": "Ewa Hainaut"
+        },
+        {
+            "familyName": "Aubin",
+            "givenName": "Fran\u00e7ois",
+            "name": "Fran\u00e7ois Aubin"
+        },
+        {
+            "familyName": "Bens",
+            "givenName": "Guido",
+            "name": "Guido Bens"
+        },
+        {
+            "familyName": "Michenet",
+            "givenName": "Patrick",
+            "name": "Patrick Michenet"
+        },
+        {
+            "familyName": "Maillard",
+            "givenName": "Herv\u00e9",
+            "name": "Herv\u00e9 Maillard"
+        },
+        {
+            "familyName": "Houben",
+            "givenName": "Roland",
+            "name": "Roland Houben"
+        },
+        {
+            "familyName": "Schrama",
+            "givenName": "David",
+            "name": "David Schrama"
+        },
+        {
+            "familyName": "Caille",
+            "givenName": "agnes",
+            "name": "agnes Caille"
+        },
+        {
+            "familyName": "Touz\u00e9",
+            "givenName": "Antoine",
+            "name": "Antoine Touz\u00e9"
+        },
+        {
+            "familyName": "Guy\u00e9tant",
+            "givenName": "Serge",
+            "name": "Serge Guy\u00e9tant"
+        },
+        {
+            "familyName": "Samimi",
+            "givenName": "Mahtab",
+            "name": "Mahtab Samimi"
+        }
+    ],
+    "date": "2020-05-10",
+    "dateModified": "2020-03-31",
+    "datePublished": "2020-05-10",
+    "description": "supplements",
+    "doi": "10.17632/sn964fs2dp.2",
+    "identifier": "sn964fs2dp",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:56.235494"
+    },
+    "keywords": [
+        "Merkel Cell Carcinoma"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Merkel cell carcinoma of lymph nodes without a skin primary tumor: a potential metastatic neoplasia associated with a brisk immune response.",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0634",
+            "inDefinedTermSet": "EDAM",
+            "name": "Pathology",
+            "url": "http://edamontology.org/topic_0634"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2640",
+            "inDefinedTermSet": "EDAM",
+            "name": "Oncology",
+            "url": "http://edamontology.org/topic_2640"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/sn964fs2dp"
+}

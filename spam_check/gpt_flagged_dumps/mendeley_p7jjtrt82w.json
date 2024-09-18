@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_p7jjtrt82w",
+    "_score": 34.125748,
+    "author": [
+        {
+            "familyName": "VAISHAMPAYAN",
+            "givenName": "VIJAY ",
+            "name": "VIJAY  VAISHAMPAYAN"
+        },
+        {
+            "familyName": "Kapoor",
+            "givenName": "Ashish",
+            "name": "Ashish Kapoor"
+        },
+        {
+            "familyName": "SIVASAMY",
+            "givenName": "BALSUBRAMANIAN",
+            "name": "BALSUBRAMANIAN SIVASAMY"
+        }
+    ],
+    "date": "2022-12-06",
+    "dateModified": "2022-12-03",
+    "datePublished": "2022-12-06",
+    "description": "3D Printed Lightbox for the imaging of microfluidic device",
+    "doi": "10.17632/p7jjtrt82w.4",
+    "identifier": "p7jjtrt82w",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:33.584000"
+    },
+    "keywords": [
+        "3D Imaging",
+        "Printing"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "HardwareX",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3398",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioengineering",
+            "url": "http://edamontology.org/topic_3398"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_4030",
+            "inDefinedTermSet": "EDAM",
+            "name": "Microfluidics",
+            "url": "http://edamontology.org/topic_4030"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/p7jjtrt82w"
+}

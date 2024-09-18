@@ -1,0 +1,32 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_fvrhvnfvnv",
+    "_score": 36.377697,
+    "author": [
+        {
+            "familyName": "gonzalez",
+            "givenName": "sarai",
+            "name": "sarai gonzalez"
+        }
+    ],
+    "date": "2020-08-01",
+    "dateModified": "2020-08-01",
+    "datePublished": "2020-08-01",
+    "description": "Marketing ",
+    "doi": "10.17632/fvrhvnfvnv.1",
+    "identifier": "fvrhvnfvnv",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:40.923117"
+    },
+    "keywords": [
+        "Marketing"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Marketing",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/fvrhvnfvnv"
+}

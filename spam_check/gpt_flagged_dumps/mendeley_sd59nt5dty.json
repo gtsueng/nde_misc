@@ -1,0 +1,107 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_sd59nt5dty",
+    "_score": 32.775093,
+    "author": [
+        {
+            "familyName": "Lin",
+            "givenName": "Peiliang",
+            "name": "Peiliang Lin"
+        },
+        {
+            "familyName": "Liang",
+            "givenName": "Faya",
+            "name": "Faya Liang"
+        },
+        {
+            "familyName": "Ruan",
+            "givenName": "Jingliang",
+            "name": "Jingliang Ruan"
+        },
+        {
+            "familyName": "Han",
+            "givenName": "Ping",
+            "name": "Ping Han"
+        },
+        {
+            "familyName": "Liao",
+            "givenName": "Jianwei",
+            "name": "Jianwei Liao"
+        },
+        {
+            "familyName": "Chen",
+            "givenName": "Renhui",
+            "name": "Renhui Chen"
+        },
+        {
+            "familyName": "Luo",
+            "givenName": "Baoming",
+            "name": "Baoming Luo"
+        },
+        {
+            "familyName": "Ouyang",
+            "givenName": "Nengtai",
+            "name": "Nengtai Ouyang"
+        },
+        {
+            "familyName": "Huang",
+            "givenName": "Xiaoming",
+            "name": "Xiaoming Huang"
+        }
+    ],
+    "date": "2021-12-16",
+    "dateModified": "2021-12-15",
+    "datePublished": "2021-12-16",
+    "description": "HVCLNMs in PTC",
+    "doi": "10.17632/sd59nt5dty.1",
+    "identifier": "sd59nt5dty",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:39.987775"
+    },
+    "keywords": [
+        "Thyroid Cancer"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "HVCLNMs in PTC",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2640",
+            "inDefinedTermSet": "EDAM",
+            "name": "Oncology",
+            "url": "http://edamontology.org/topic_2640"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3053",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genetics",
+            "url": "http://edamontology.org/topic_3053"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/sd59nt5dty"
+}

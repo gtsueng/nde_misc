@@ -1,0 +1,33 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_pkb7fnn7kc",
+    "_score": 34.740402,
+    "author": [
+        {
+            "familyName": "Voronina",
+            "givenName": "Svetlana",
+            "name": "Svetlana Voronina"
+        }
+    ],
+    "date": "2020-11-03",
+    "dateModified": "2020-11-03",
+    "datePublished": "2020-11-03",
+    "description": "Carbon fiber of Torayca T 300 3K brand (Japan)  the thermal treatment of the filaments",
+    "doi": "10.17632/pkb7fnn7kc.1",
+    "identifier": "pkb7fnn7kc",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:05.875659"
+    },
+    "keywords": [
+        "Carbon Fiber",
+        "Aerospace Material"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Carbon fiber of Torayca T 300 3K brand (Japan)  the thermal treatment of the filaments",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/pkb7fnn7kc"
+}

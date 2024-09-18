@@ -1,0 +1,85 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_6wvj6k57k5",
+    "_score": 31.702095,
+    "author": [
+        {
+            "familyName": "finessedirect",
+            "givenName": "finessedirect",
+            "name": "finessedirect finessedirect"
+        }
+    ],
+    "date": "2023-05-22",
+    "dateModified": "2023-05-22",
+    "datePublished": "2023-05-22",
+    "description": "Finesse is a global software system integrator based in Dubai, UAE. We are Salesforce Partners assisting over 400+ enterprise clients globally, driving their digital transformation.We do implementation of chatbots to enhance customer experience.",
+    "doi": "10.17632/6wvj6k57k5.1",
+    "identifier": "6wvj6k57k5",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:02.446837"
+    },
+    "infectiousAgent": [
+        {
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2024-08-15",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Transformation",
+            "fromEXTRACT": true,
+            "identifier": "2839062",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Transformation",
+            "originalName": "transformation",
+            "url": "https://www.uniprot.org/taxonomy/2839062"
+        }
+    ],
+    "keywords": [
+        "Software"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Global System Integration Company, Qlik Implementation, and Software System Integrators",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/6wvj6k57k5"
+}

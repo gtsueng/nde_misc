@@ -1,0 +1,80 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_wb98x9mgmz",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 30.048649,
+    "author": [
+        {
+            "familyName": "Sass PhD",
+            "givenName": "Julian",
+            "name": "Julian Sass PhD"
+        },
+        {
+            "familyName": "McCraw PhD",
+            "givenName": "Tim",
+            "name": "Tim McCraw PhD"
+        },
+        {
+            "familyName": "Baek",
+            "givenName": "J. Paul",
+            "name": "J. Paul Baek"
+        }
+    ],
+    "date": "2023-05-04",
+    "dateModified": "2023-05-04",
+    "datePublished": "2023-05-04",
+    "description": "These data contain analytical and clinical substantiation for a new patent-pending personal care technology, ACTISOLV\u2122. In this application, ACTISOLV\u2122 allows us to dissolve high concentrations of ascorbic acid into cosmetic formulations. While ascorbic acid formulas containing our ACTISOLV\u2122 technology do darken as the formula ages, the ascorbic acid remain stable and clinically effective for at least 2 years (test period examined). These data include ascorbic acid assay data, color data, comparison with market samples, as well as clinical results for brightening the skin, firming the skin, and improving fine lines and wrinkles.",
+    "doi": "10.17632/wb98x9mgmz.1",
+    "identifier": "wb98x9mgmz",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:46.121564"
+    },
+    "keywords": [
+        "Skin Care"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Increasing ascorbic acid performance",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3292",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biochemistry",
+            "url": "http://edamontology.org/topic_3292"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0209",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicinal chemistry",
+            "url": "http://edamontology.org/topic_0209"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0078",
+            "inDefinedTermSet": "EDAM",
+            "name": "Proteins",
+            "url": "http://edamontology.org/topic_0078"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/wb98x9mgmz"
+}

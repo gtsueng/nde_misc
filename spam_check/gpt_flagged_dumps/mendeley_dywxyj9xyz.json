@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_dywxyj9xyz",
+    "_score": 33.9122,
+    "author": [
+        {
+            "familyName": "Gan",
+            "givenName": "Zhuo",
+            "name": "Zhuo Gan"
+        }
+    ],
+    "date": "2016-08-04",
+    "dateModified": "2016-08-04",
+    "datePublished": "2016-08-04",
+    "description": "Filament Network Analysis Software 2.0 with sample data",
+    "doi": "10.17632/dywxyj9xyz.1",
+    "identifier": "dywxyj9xyz",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:55.944389"
+    },
+    "keywords": [
+        "Software"
+    ],
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "name": "Filament Network Analysis Software 2.0",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/dywxyj9xyz"
+}

@@ -1,0 +1,94 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_4jd6bf7xc5",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 31.360352,
+    "author": [
+        {
+            "familyName": "Decsi",
+            "givenName": "Kincs\u0151",
+            "name": "Kincs\u0151 Decsi"
+        }
+    ],
+    "date": "2022-06-06",
+    "dateModified": "2022-06-06",
+    "datePublished": "2022-06-06",
+    "description": "RNA-seq data set of field control and Elice16Indures-treated rapeseed plants are presented. Elice16Indures\u00ae plant conditioner combines the effects of a number of herbs to increase the yield of dicotyledonous plants in the field.  The file contents RNA supertranscript combined from control and treated RNA sequence.",
+    "doi": "10.17632/4jd6bf7xc5.1",
+    "identifier": "4jd6bf7xc5",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:06.685296"
+    },
+    "keywords": [
+        "RNA Sequencing",
+        "Transcriptome"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Brassica napus spuertranscript data",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "species": [
+        {
+            "alternateName": [
+                "land plants",
+                "higher plants",
+                "plants"
+            ],
+            "classification": "host",
+            "curatedBy": {
+                "dateModified": "2024-08-15",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Embryophyta",
+            "fromEXTRACT": true,
+            "identifier": "3193",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Embryophyta",
+            "originalName": "plants",
+            "url": "https://www.uniprot.org/taxonomy/3193"
+        }
+    ],
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0780",
+            "inDefinedTermSet": "EDAM",
+            "name": "Plant biology",
+            "url": "http://edamontology.org/topic_0780"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3308",
+            "inDefinedTermSet": "EDAM",
+            "name": "Transcriptomics",
+            "url": "http://edamontology.org/topic_3308"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0622",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genomics",
+            "url": "http://edamontology.org/topic_0622"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/4jd6bf7xc5"
+}

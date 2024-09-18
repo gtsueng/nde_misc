@@ -1,0 +1,90 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_wdxwy8gmrz",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 30.379297,
+    "author": [
+        {
+            "familyName": "Baryshnikova",
+            "givenName": "Anastasia",
+            "name": "Anastasia Baryshnikova"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.cels.2016.04.014",
+            "name": "Systematic Functional Annotation and Visualization of Biological Networks"
+        },
+        {
+            "@type": "software",
+            "url": "https://bitbucket.org/abarysh/safe"
+        },
+        {
+            "@type": "article",
+            "url": "http://biorxiv.org/content/early/2016/02/11/030551"
+        }
+    ],
+    "date": "2016-05-05",
+    "dateModified": "2016-05-05",
+    "datePublished": "2016-05-05",
+    "description": "This ZIP archive corresponds to the Supplemental Data File S1 associated with the manuscript \"Systematic Functional Annotation and Visualization of Biological Networks\" (Baryshnikova, Cell Systems, 2016). \n\nThe file contains:\n1) the SAFE source code implemented in MATLAB and sample data files;\n2) the SAFE.app version 1.3 and sample data files that enable to run SAFE without MATLAB.\n\nVisit https://bitbucket.org/abarysh/safe for more information and updates.",
+    "doi": "10.17632/wdxwy8gmrz.1",
+    "identifier": "wdxwy8gmrz",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:32.741021"
+    },
+    "keywords": [
+        "Genetics",
+        "Genomics",
+        "Network (Computer Science)",
+        "Source Code",
+        "Cell Organization",
+        "Yeast",
+        "Gene Function"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "SAFE source code and app",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0602",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular interactions, pathways and networks",
+            "url": "http://edamontology.org/topic_0602"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/wdxwy8gmrz"
+}

@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_fspcyx4t5p",
+    "_score": 33.340218,
+    "author": [
+        {
+            "familyName": "Armstrong",
+            "givenName": "Matthew",
+            "name": "Matthew Armstrong"
+        }
+    ],
+    "date": "2020-07-13",
+    "dateModified": "2020-07-13",
+    "datePublished": "2020-07-13",
+    "description": "SS, SAOS, LAOS, Triangle Ramp, UDLAOS at 0 and 24 hours JUL17",
+    "doi": "10.17632/fspcyx4t5p.1",
+    "identifier": "fspcyx4t5p",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:54.346747"
+    },
+    "keywords": [
+        "Rheology"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "JUL17 SS, SAOS, LAOS, Triangle Ramp, UDLAOS 0 and 24 hours",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/fspcyx4t5p"
+}

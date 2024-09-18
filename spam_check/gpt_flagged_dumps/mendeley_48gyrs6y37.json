@@ -1,0 +1,78 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_48gyrs6y37",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.358282,
+    "author": [
+        {
+            "familyName": "Valeros",
+            "givenName": "Veronica",
+            "name": "Veronica Valeros"
+        },
+        {
+            "familyName": "Garcia",
+            "givenName": "Sebastian",
+            "name": "Sebastian Garcia"
+        }
+    ],
+    "date": "2021-05-17",
+    "dateModified": "2021-05-17",
+    "datePublished": "2021-05-17",
+    "description": "Our dataset of organized services contains the top 50 services offering products or services in the forum. The services were the most discussed in their own forum categories. The data was gathered throughout 2020 and January 2021.\n\nFor every service the dataset contains the following features: \n* User Forum Name: forum user that posted about the service.\n* User Forum Rating: the rating of the user in the forum.\n* User Forum Registration: the date the user registered in the forum.\n* Type of Service Offered: personal, professional, training, computer programs, conferences and events.\n* Types of Advertisement: individuals, groups, organizations\n* Service Overall Maturity Level: low, medium, high\n* Type of User Advertising: on their own behalf, on behalf of a group, on behalf of an organization\n* Service Label: personal service, emerging service, organized service\n* searchengines.guru Category: forum main category where the service was posted\n* searchengines.guru Sub Category: forum sub-category where the service was posted\n* Country of Legal Terms: which country laws they abide\n* Domain Registration: year the domain name of the service was first registered\n* Domain Registrar: registrar organization associated with the domain name\n* Site ASN: autonomous system information associated with the website\n* Site ISP: internet service provider associated with the website\n* Site Hosting Country: country where the website is hosted\n* Site Alexa Ranking: Alexa website popularity global ranking\n* Web Reputation: Cisco Umbrella Security Score: security score based on the domain name. The final risk scores to assess a domain's reputation are Low Risk, Medium Risk, and High Risk.\n* Web Reputation: BrightCloud\u00ae TI Risk: risk level based on the domain name (Trustworthy, Low  Risk, ModerateRisk, Suspicious, and High Risk)\n* Web Reputation: Suspicious Activity from VirusTotal Intelligence Indicators: a positive value (yes) means there is at least one indicator retrieved from VirusTotal that associated the domain with malicious behavior. \n* Web Reputation: OSINT Reports on Suspicious Behavior: a positive value (yes) if there is at least one OSINT report tying the domain to malicious behavior.\n* Trustworthiness Label #1: untrustworthy if at least one of the web reputation indicators is positive. Otherwise trustworthy.\n* Trustworthiness Label #2: untrustworthy if at least two of the web reputation indicators is positive. Otherwise trustworthy.\n* Trustworthiness Label #3: untrustworthy if at least three of the web reputation indicators is positive. Otherwise trustworthy.\n* Trustworthiness Label #4: untrustworthy if at least four of the web reputation indicators is positive. Otherwise trustworthy.",
+    "doi": "10.17632/48gyrs6y37.2",
+    "identifier": "48gyrs6y37",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:58.722283"
+    },
+    "keywords": [
+        "Social Sciences",
+        "Computer Science Applications",
+        "Internet Marketing",
+        "Crime Analysis"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Dataset of 50 Online Services Advertised in the Internet Marketing Forum searchengines.guru",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/48gyrs6y37"
+}

@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_hr42s739bj",
+    "_score": 34.112385,
+    "author": [
+        {
+            "familyName": "Andoor",
+            "givenName": "Paul",
+            "name": "Paul Andoor"
+        }
+    ],
+    "date": "2022-07-29",
+    "dateModified": "2022-07-29",
+    "datePublished": "2022-07-29",
+    "description": "For 1.0M HCl manscript",
+    "doi": "10.17632/hr42s739bj.1",
+    "identifier": "hr42s739bj",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:33.886172"
+    },
+    "keywords": [
+        "Corrosion"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Paulandoor",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3370",
+            "inDefinedTermSet": "EDAM",
+            "name": "Analytical chemistry",
+            "url": "http://edamontology.org/topic_3370"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3365",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data architecture, analysis and design",
+            "url": "http://edamontology.org/topic_3365"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3332",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational chemistry",
+            "url": "http://edamontology.org/topic_3332"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/hr42s739bj"
+}

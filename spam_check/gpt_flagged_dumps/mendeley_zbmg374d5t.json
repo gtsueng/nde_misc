@@ -1,0 +1,58 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_zbmg374d5t",
+    "_score": 33.9122,
+    "author": [
+        {
+            "familyName": "ATA\u015e",
+            "givenName": "Zeynep",
+            "name": "Zeynep ATA\u015e"
+        }
+    ],
+    "date": "2020-12-03",
+    "dateModified": "2020-11-30",
+    "datePublished": "2020-12-03",
+    "description": "Year: February 2020\nLocation: Turkey\nStudied Group: Alcohol Consumers\n\nContact for more information.\n",
+    "doi": "10.17632/zbmg374d5t.1",
+    "identifier": "zbmg374d5t",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:05.984676"
+    },
+    "keywords": [
+        "Parental Care",
+        "Alcohol Craving",
+        "Attitude"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Alcohol Craving and Parental Attitude",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3386",
+            "inDefinedTermSet": "EDAM",
+            "name": "Laboratory animal science",
+            "url": "http://edamontology.org/topic_3386"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3419",
+            "inDefinedTermSet": "EDAM",
+            "name": "Psychiatry",
+            "url": "http://edamontology.org/topic_3419"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/zbmg374d5t"
+}

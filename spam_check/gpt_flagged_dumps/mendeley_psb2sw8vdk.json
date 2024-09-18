@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_psb2sw8vdk",
+    "_score": 33.144184,
+    "author": [
+        {
+            "familyName": "Tahir",
+            "givenName": "Muhammad Hamza",
+            "name": "Muhammad Hamza Tahir"
+        }
+    ],
+    "date": "2023-06-26",
+    "dateModified": "2023-06-25",
+    "datePublished": "2023-06-26",
+    "description": "Easy EDA, KiCAD PCB, PCB Gerber files, 3D printing files, nextion gui files and arduino code files of MEDPRO device",
+    "doi": "10.17632/psb2sw8vdk.1",
+    "identifier": "psb2sw8vdk",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:06.672732"
+    },
+    "keywords": [
+        "Medical Device"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "MEDPRO Device",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3398",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioengineering",
+            "url": "http://edamontology.org/topic_3398"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/psb2sw8vdk"
+}

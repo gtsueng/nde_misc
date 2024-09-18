@@ -1,0 +1,69 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_k7675c7tx9",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 26.77073,
+    "author": [
+        {
+            "familyName": "stevediaz",
+            "givenName": "stevediaz",
+            "name": "stevediaz stevediaz"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://www.igmguru.com/course/ccsp-isc2-certification-training/"
+        },
+        {
+            "@type": "article",
+            "url": "https://www.igmguru.com/course/ccsp-isc2-certification-training/"
+        }
+    ],
+    "date": "2023-03-24",
+    "dateModified": "2023-03-24",
+    "datePublished": "2023-03-24",
+    "description": "CCSP, or Certified Cloud Security Professional, is a certification program that focuses on the knowledge and skills required to design, manage, and secure cloud environments. The CCSP Training  certification is designed for IT professionals who are responsible for ensuring the security of cloud-based applications, services, and data.\n\nMastering cloud security is an essential requirement in today's technology-driven world. As more and more organizations move their data and applications to the cloud, the need for skilled professionals who can secure these environments has increased exponentially. The CCSP certification provides a comprehensive understanding of cloud security, including architecture, design, operations, and compliance.\n\nTo achieve CCSP certification, candidates must have a minimum of five years of IT experience, with three years of experience in information security and one year in cloud computing. The CCSP exam covers six domains: Cloud Concepts, Architecture and Design, Cloud Data Security, Cloud Platform and Infrastructure Security, Cloud Application Security, and Legal, Risk, and Compliance.\n\nBy earning the CCSP certification, IT professionals demonstrate their expertise in securing cloud-based applications, services, and data. It not only enhances their skills and knowledge but also increases their employability and earning potential. CCSP certified professionals can work as cloud security architects, engineers, consultants, analysts, and managers in a variety of industries.",
+    "doi": "10.17632/k7675c7tx9.2",
+    "identifier": "k7675c7tx9",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:46.064974"
+    },
+    "keywords": [
+        "Technology"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "CCSP: Mastering Cloud Security",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3263",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data security",
+            "url": "http://edamontology.org/topic_3263"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/k7675c7tx9"
+}

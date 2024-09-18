@@ -1,0 +1,74 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_3wgnjs79yc",
+    "_score": 33.53309,
+    "author": [
+        {
+            "familyName": "Hyndman",
+            "givenName": "Rob",
+            "name": "Rob Hyndman"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://opencodecom.net/post/2021-09-15-detectando-outliers/"
+        }
+    ],
+    "date": "2022-01-25",
+    "dateModified": "2022-01-24",
+    "datePublished": "2022-01-25",
+    "description": "Material published at https://opencodecom.net/",
+    "doi": "10.17632/3wgnjs79yc.1",
+    "identifier": "3wgnjs79yc",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:57.757954"
+    },
+    "keywords": [
+        "Business Economics",
+        "Business Administration"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Detecting time series outliers published at Open Code Community",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_4010",
+            "inDefinedTermSet": "EDAM",
+            "name": "Open science",
+            "url": "http://edamontology.org/topic_4010"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3489",
+            "inDefinedTermSet": "EDAM",
+            "name": "Database management",
+            "url": "http://edamontology.org/topic_3489"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/3wgnjs79yc"
+}

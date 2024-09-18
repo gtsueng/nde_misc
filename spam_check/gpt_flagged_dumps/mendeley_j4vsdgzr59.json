@@ -1,0 +1,54 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_j4vsdgzr59",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 33.325916,
+    "author": [
+        {
+            "familyName": "flavoractiv",
+            "givenName": "flavoractiv",
+            "name": "flavoractiv flavoractiv"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://www.flavoractiv.com/"
+        }
+    ],
+    "date": "2023-04-13",
+    "dateModified": "2023-04-12",
+    "datePublished": "2023-04-13",
+    "description": "FlavorActiV is leading the way for global food and beverage sensory solutions. Our flavour standards, taster calibration programs, sensory specialist trainers and sensory instruments support professional tasters and tasting panels from food and beverage brands all over the world.",
+    "doi": "10.17632/j4vsdgzr59.1",
+    "identifier": "j4vsdgzr59",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:45.097777"
+    },
+    "keywords": [
+        "Real Estate Services"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Global Sensory Solutions for Food and Beverages FlavorActiV",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3297",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biotechnology",
+            "url": "http://edamontology.org/topic_3297"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/j4vsdgzr59"
+}

@@ -1,0 +1,89 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_xm3njtmpmd",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 30.682175,
+    "author": [
+        {
+            "familyName": "Lockett",
+            "givenName": "Matthew",
+            "name": "Matthew Lockett"
+        }
+    ],
+    "date": "2023-06-12",
+    "dateModified": "2023-06-12",
+    "datePublished": "2023-06-12",
+    "description": "3-zone hypoxia chamber with independent control of oxygen and carbon dioxide partial pressure. The construction of this chamber and the electronic controllers that maintain the experimentally set oxygen and carbon dioxide partial pressure is available at HardwareX or by contacting mlockett@unc.edu.",
+    "doi": "10.17632/xm3njtmpmd.1",
+    "funding": [
+        {
+            "funder": {
+                "identifier": "http://dx.doi.org/10.13039/100000057",
+                "name": "National Institute of General Medical Sciences"
+            },
+            "identifier": "R35GM128697 "
+        },
+        {
+            "funder": {
+                "identifier": "http://dx.doi.org/10.13039/100000066",
+                "name": "National Institute of Environmental Health Sciences"
+            },
+            "identifier": "R01ES032730"
+        }
+    ],
+    "identifier": "xm3njtmpmd",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:55.659637"
+    },
+    "keywords": [
+        "Chemistry",
+        "Biomedical Engineering",
+        "Cell Culture",
+        "Tissue Culture"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Modular Gas-Regulation System for Generating Hypoxia Chambers Capable of Regulating Oxygen and Carbon Dioxide Partial Pressures",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3303",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicine",
+            "url": "http://edamontology.org/topic_3303"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3398",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioengineering",
+            "url": "http://edamontology.org/topic_3398"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3855",
+            "inDefinedTermSet": "EDAM",
+            "name": "Environmental sciences",
+            "url": "http://edamontology.org/topic_3855"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/xm3njtmpmd"
+}

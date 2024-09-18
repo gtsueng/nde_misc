@@ -1,0 +1,97 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_7ztr3jr7s2",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 28.877903,
+    "author": [
+        {
+            "familyName": "Michalek",
+            "givenName": "Jeremy",
+            "name": "Jeremy Michalek"
+        },
+        {
+            "familyName": "Ward",
+            "givenName": "Jacob",
+            "name": "Jacob Ward"
+        },
+        {
+            "familyName": "Ferreira",
+            "givenName": "Pedro",
+            "name": "Pedro Ferreira"
+        },
+        {
+            "familyName": "Samaras",
+            "givenName": "Constantine",
+            "name": "Constantine Samaras"
+        },
+        {
+            "familyName": "Azevedo",
+            "givenName": "In\u00eas",
+            "name": "In\u00eas Azevedo"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.trc.2019.07.026",
+            "name": "Effects of on-demand ridesourcing on vehicle ownership, fuel consumption, vehicle miles traveled, and emissions per capita in U.S. States"
+        }
+    ],
+    "date": "2019-10-09",
+    "dateModified": "2019-07-25",
+    "datePublished": "2019-10-09",
+    "description": "The attached files include the R code that executes the analysis in the paper and the subset of the data used in the paper that is public. With the public data only, the code will execute some of the analysis fully and produce error messages where non-public data are needed. Proprietary data used in the analysis may be purchased from IHS/Polk (https://ishmarkit.com/products/products/automotive-market-data-analysis.html) and Ward's Automotive (https://subscribers.wardsintelligence.com/data-center) to run the full analysis.",
+    "doi": "10.17632/7ztr3jr7s2.1",
+    "identifier": "7ztr3jr7s2",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:56.919467"
+    },
+    "keywords": [
+        "Econometrics",
+        "Statics"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Data for: Effects of on-demand ridesourcing on vehicle ownership, fuel consumption, vehicle miles traveled, and emissions per capita in U.S. states",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3855",
+            "inDefinedTermSet": "EDAM",
+            "name": "Environmental sciences",
+            "url": "http://edamontology.org/topic_3855"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/7ztr3jr7s2"
+}

@@ -1,0 +1,62 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_mg958msfpj",
+    "_score": 32.775093,
+    "author": [
+        {
+            "familyName": "Sheela",
+            "givenName": "Jaspin",
+            "name": "Jaspin Sheela"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.bspc.2019.101657",
+            "name": "An efficient denoising of impulse noise from MRI using adaptive switching modified decision based unsymmetric trimmed median filter"
+        }
+    ],
+    "date": "2019-09-02",
+    "dateModified": "2018-08-28",
+    "datePublished": "2019-09-02",
+    "description": "New novel paper for work of research",
+    "doi": "10.17632/mg958msfpj.1",
+    "identifier": "mg958msfpj",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:06.875920"
+    },
+    "keywords": [
+        "Adaptive Filter Analysis"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Data for: An Efficient Denoising of Impulse Noise from MRI using Adaptive Switching Modified Decision Based Unsymmetric Trimmed Median Filter",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3063",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medical informatics",
+            "url": "http://edamontology.org/topic_3063"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/mg958msfpj"
+}

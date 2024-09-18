@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_tctghdctvc",
+    "_score": 34.120705,
+    "author": [
+        {
+            "familyName": "Castro de Luna",
+            "givenName": "Gracia",
+            "name": "Gracia Castro de Luna"
+        }
+    ],
+    "date": "2020-04-10",
+    "dateModified": "2020-04-10",
+    "datePublished": "2020-04-10",
+    "description": "Refractive surgery",
+    "doi": "10.17632/tctghdctvc.1",
+    "identifier": "tctghdctvc",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:58.573200"
+    },
+    "keywords": [
+        "Ophthalmology"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "DATABASE PRK FS-LASIK",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3297",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biotechnology",
+            "url": "http://edamontology.org/topic_3297"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3421",
+            "inDefinedTermSet": "EDAM",
+            "name": "Surgery",
+            "url": "http://edamontology.org/topic_3421"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/tctghdctvc"
+}

@@ -1,0 +1,52 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_hn8zjc59vf",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 26.763493,
+    "author": [
+        {
+            "familyName": "Islam",
+            "givenName": "Md Shariful",
+            "name": "Md Shariful Islam"
+        }
+    ],
+    "date": "2022-08-15",
+    "dateModified": "2022-08-12",
+    "datePublished": "2022-08-15",
+    "description": "Accessing the restricted-use data:\nWe took the sample data form three main sources. \n\n1. To sum up the greenfield investment project of each Chinese enterprise according to the destination country, the global greenfield investment data is collected from \u201cFDI Markets\u201d. Total 1350 observations are obtained from the database, which contains information on 123 countries.  The dataset is an unbalanced panel for the years 2004 to 2015. In order to obtain data please access the below link to get the data, and audience will be able to access the data by purchasing according to their desired package.\n \nURL: https://www.fdimarkets.com \n\n2. We aggregated the data of nominal exchange rate and trade volume from World Bank, and the data of consumer price level from World Development Indicators (WDI) database. The target country's GDP, per capita GDP, and GDP growth rate in the control variables are also obtained from the World Development Indicators (WDI). In order to obtain data please access the below link.\n\nURL: https://databank.worldbank.org/source/world-development-indicators \n\n3. Data on control of corruption, regulatory quality, government effectiveness, and the rule of law are collected from the Worldwide Governance Indicators (WGI) database of World Bank.\n\nURL: http://info.worldbank.org/governance/WGI/ \n",
+    "doi": "10.17632/hn8zjc59vf.1",
+    "identifier": "hn8zjc59vf",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:32.680179"
+    },
+    "keywords": [
+        "Regional Economics",
+        "Exchange Rate",
+        "Foreign Direct Investment",
+        "Cross-Border Investment",
+        "Economic Integration"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Data description & Do file \"Regional Integration, Exchange Rate Volatility and Overseas Investment of Chinese Enterprises\"",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/hn8zjc59vf"
+}

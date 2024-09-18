@@ -1,0 +1,76 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_sk7sph6hpy",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 31.702095,
+    "author": [
+        {
+            "familyName": "krishna",
+            "givenName": "Murali",
+            "name": "Murali krishna"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "dataset",
+            "url": "https://www.rainbowtraininginstitute.com/oracle-fusion-functional-training/oracle-fusion-hcm-training/oracle-fusion-hcm-online-training"
+        }
+    ],
+    "date": "2021-09-03",
+    "dateModified": "2021-09-03",
+    "datePublished": "2021-09-03",
+    "description": "Rainbow Training Institute is Offering the best Oracle Fusion HCM Online Training with advanced fusion applications. we additionally cover both practical and specialized themes during preparing period. we will convey courses 100% Practical and prophet combination HCM Real-Time project preparing. Complete Suite of prophet combination HCM preparing recordings.",
+    "doi": "10.17632/sk7sph6hpy.1",
+    "identifier": "sk7sph6hpy",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:35.852221"
+    },
+    "keywords": [
+        "Education"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Oracle Fusion HCM Online Training | Oracle Fusion HCM Training | Hyderabad",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/sk7sph6hpy"
+}

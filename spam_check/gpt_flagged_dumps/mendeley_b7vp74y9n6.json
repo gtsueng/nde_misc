@@ -1,0 +1,41 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_b7vp74y9n6",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 31.009413,
+    "author": [
+        {
+            "familyName": "Pilk",
+            "givenName": "Geoff",
+            "name": "Geoff Pilk"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "dataset",
+            "url": "http://www.icbmg.org/"
+        }
+    ],
+    "date": "2023-05-14",
+    "dateModified": "2023-05-12",
+    "datePublished": "2023-05-14",
+    "description": "Following the successes of ICBMG 2012 (Hong Kong, China), ICBMG 2013 (Kuala Lumpur, Malaysia), ICBMG 2014 (Las Vegas, USA), ICBMG 2015 (New York, USA), ICBMG 2016 ( San Francisco, USA), ICBMG 2017 (Townsville, Australia), ICBMG 2018 (Perth, Australia), ICBMG 2019 (Perth, Australia), ICBMG 2020 (Perth, Australia), ICBMG 2021 (virtual conference) and  ICBMG 2022 (virtual conference). The 11th International Conference on Business, Management and Governance (ICBMG 2023) will be held in the University of Western Australia, Perth, Australia during November 20-22, 2023.\nThe conference is sponsored by University of Western Australia and co-sponsored by University of South Australia and Curtin University. ",
+    "doi": "10.17632/b7vp74y9n6.1",
+    "identifier": "b7vp74y9n6",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:33.238034"
+    },
+    "keywords": [
+        "Business Economics"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "The 11th International Conference on Business, Management and Governance (ICBMG 2023)",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/b7vp74y9n6"
+}

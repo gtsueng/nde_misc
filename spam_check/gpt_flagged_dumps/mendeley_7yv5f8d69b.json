@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_7yv5f8d69b",
+    "_score": 33.92068,
+    "author": [
+        {
+            "familyName": "\u00c7ALI\u015eKAN",
+            "givenName": "BERNA",
+            "name": "BERNA \u00c7ALI\u015eKAN"
+        }
+    ],
+    "date": "2021-06-21",
+    "dateModified": "2021-06-21",
+    "datePublished": "2021-06-21",
+    "description": "Modelbuilder toolbox for Stream Model",
+    "doi": "10.17632/7yv5f8d69b.1",
+    "identifier": "7yv5f8d69b",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:39.116740"
+    },
+    "keywords": [
+        "Hydrology"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Stream Modelbuilder toolbox",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3855",
+            "inDefinedTermSet": "EDAM",
+            "name": "Environmental sciences",
+            "url": "http://edamontology.org/topic_3855"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/7yv5f8d69b"
+}

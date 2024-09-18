@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_swvbf7czm3",
+    "_score": 33.72827,
+    "author": [
+        {
+            "familyName": "Chan",
+            "givenName": "Gary",
+            "name": "Gary Chan"
+        }
+    ],
+    "date": "2022-02-14",
+    "dateModified": "2022-02-13",
+    "datePublished": "2022-02-14",
+    "description": "supplemental data for dupi switch manuscript",
+    "doi": "10.17632/swvbf7czm3.1",
+    "identifier": "swvbf7czm3",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:52.543409"
+    },
+    "keywords": [
+        "Clinical Trial"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "EXTEND abro by prior dupi response",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0219",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data submission, annotation, and curation",
+            "url": "http://edamontology.org/topic_0219"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/swvbf7czm3"
+}

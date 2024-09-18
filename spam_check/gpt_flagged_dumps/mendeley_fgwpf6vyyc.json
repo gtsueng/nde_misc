@@ -1,0 +1,58 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_fgwpf6vyyc",
+    "_score": 33.92068,
+    "author": [
+        {
+            "familyName": "Sang",
+            "givenName": "Nguyen Minh",
+            "name": "Nguyen Minh Sang"
+        }
+    ],
+    "date": "2021-07-06",
+    "dateModified": "2021-07-06",
+    "datePublished": "2021-07-06",
+    "description": "All 2688 publications on the topic of the Green finance on Scopus for bibliometric analysis!",
+    "doi": "10.17632/fgwpf6vyyc.2",
+    "identifier": "fgwpf6vyyc",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:46.229227"
+    },
+    "keywords": [
+        "Economics",
+        "Finance",
+        "Bank"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Publications on the Green finance",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3056",
+            "inDefinedTermSet": "EDAM",
+            "name": "Population genetics",
+            "url": "http://edamontology.org/topic_3056"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3855",
+            "inDefinedTermSet": "EDAM",
+            "name": "Environmental sciences",
+            "url": "http://edamontology.org/topic_3855"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/fgwpf6vyyc"
+}

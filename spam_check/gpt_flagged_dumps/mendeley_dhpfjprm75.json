@@ -1,0 +1,42 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_dhpfjprm75",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 32.403465,
+    "author": [
+        {
+            "familyName": "Bruno",
+            "givenName": "Amara",
+            "name": "Amara Bruno"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://www.gemexi.com/gemstones/jewelry/amethyst"
+        }
+    ],
+    "date": "2022-03-02",
+    "dateModified": "2022-03-02",
+    "datePublished": "2022-03-02",
+    "description": "The Amethyst comes in pleasant purple color. This is the birthstone of February-born people. It is worn to make the wearer humble, gentle, and polite. Amethyst Jewelry helps in love, happiness, and peace of mind. At Gemexi we make sure to get the best quality of gemstones. We provide you the handmade silver jewelry with the latest and trending designs at wholesale price. Gemexi gives you the finest collection of Amethyst rings, pendants, earrings, bracelets, and necklaces.",
+    "doi": "10.17632/dhpfjprm75.1",
+    "identifier": "dhpfjprm75",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:06.399200"
+    },
+    "keywords": [
+        "Gemstone",
+        "Gemstones Trade"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Buy Genuine Amethyst Jewelry",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/dhpfjprm75"
+}

@@ -1,0 +1,81 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_n3y4czk55y",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.986115,
+    "author": [
+        {
+            "familyName": "Mosby",
+            "givenName": "Kevin",
+            "name": "Kevin Mosby"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://valueinvesting.io/best-value-stocks"
+        },
+        {
+            "@type": "article",
+            "url": "https://valueinvesting.io/best-growth-stocks"
+        },
+        {
+            "@type": "article",
+            "url": "https://valueinvesting.io/AAPL/valuation/fair-value"
+        },
+        {
+            "@type": "article",
+            "url": "https://valueinvesting.io/MSFT/valuation/fair-value"
+        },
+        {
+            "@type": "article",
+            "url": "https://valueinvesting.io/MSFT/valuation/ev_ebitda-multiple"
+        }
+    ],
+    "date": "2023-05-08",
+    "dateModified": "2023-05-07",
+    "datePublished": "2023-05-08",
+    "description": "1. UiPath\nPATH\n\nUiPath is a global software company that makes robotic process automation software. It was founded in Bucharest, Romania, by Daniel Dines and Marius T\u00eerc\u0103. Its headquarters are in New York City. It\u2019s hard a bad 2022 in the great reset from the 2021 stock market bubble. Also from the invasion of Ukraine.\n\nThe stock is down 70.50% to date in 2022. While Microsoft has overtaken it in no-code and RPA integration, it\u2019s still an important startup in the RPA space.\n\nAt below $10 I\u2019d take a more serious look into the company. The lack of profitability could make it the next Carvana. It might not make it out of 2023 and 2024 unscathed. You could likely pick it up as a penny stock in the near future.\n\n2. Microsoft\nMSFT\n\nWith an attractive dividend and the best diversification in business models, this is the safest stock to own as a future automator of software as a service in 2023. But how to time the bottom? BigTech might have another bad year in 2023, and it all comes down to earnings compression, a strong U.S. dollar and how growth does poorly in a global recession scenario.\n\nMicrosoft has an incredible No-code playbook and product timeline now. ChatGPT with GPT-4 will be potentially important for Microsoft\u2019s ability to compete in search with Bing and rise as a more serious digital advertiser. This could all apy for better automation products.\n\nGitHub Copilot for Business is evolving fast. It\u2019s also a bit of a gimmick in its current state.\n\nMicrosoft\u2019s stock price is down about 27% this year in 2022 thus far. I think it\u2019 becomes interesting at about 35% down, which may not even occur in 2022.\n\n3. Baidu\nBIDU\n\nI\u2019m bullish on Chinese technology stocks in this environment of China\u2019s economy really suffering and trust in its stock market so low. Is China even investable? Baidu will be the global leader in autonomous driving taxis services, there\u2019s little doubt in my mind about that. It has the strongest incentives to be a pure-play A.I. and smart robotics leader as well.\n\nRobo-taxis while late to the party, will begin to increase at scale in the 2025 to 2030 period and I expect Apollo to lead in China. For this reason I have high hopes for the long-term prospects of Baidu as a stock.\n\nThe price of Baidu share are down 20% year to date in 2022. Whatever is the case you will want to buy the stock under $80 (NASDAQ) if possible.",
+    "doi": "10.17632/n3y4czk55y.1",
+    "identifier": "n3y4czk55y",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:06.986620"
+    },
+    "keywords": [
+        "Finance"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "RPA stock data",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0092",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data visualisation",
+            "url": "http://edamontology.org/topic_0092"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/n3y4czk55y"
+}

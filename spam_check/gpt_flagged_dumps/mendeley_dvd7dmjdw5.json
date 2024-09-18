@@ -1,0 +1,63 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_dvd7dmjdw5",
+    "_score": 33.53309,
+    "author": [
+        {
+            "familyName": "Creasey",
+            "givenName": "Colin",
+            "name": "Colin Creasey"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.2139/ssrn.3382629",
+            "name": "3382629"
+        }
+    ],
+    "date": "2019-05-04",
+    "dateModified": "2019-05-04",
+    "datePublished": "2019-05-04",
+    "description": "Magnetic Racing & Mag Racing Track in Scales Cars That Have No Slot-less Grids or Gide in-and-on the Track. RADIO CONTROLLED MODELS. Slot Cars",
+    "doi": "10.17632/dvd7dmjdw5.2",
+    "identifier": "dvd7dmjdw5",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:53.600519"
+    },
+    "keywords": [
+        "Business Models",
+        "Developmental Scales"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Data for: 3382629",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3318",
+            "inDefinedTermSet": "EDAM",
+            "name": "Physics",
+            "url": "http://edamontology.org/topic_3318"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/dvd7dmjdw5"
+}

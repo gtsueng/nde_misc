@@ -1,0 +1,38 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_36m6fjsm4s",
+    "_score": 35.980408,
+    "author": [
+        {
+            "familyName": "Rambe",
+            "givenName": "Nada Safrina",
+            "name": "Nada Safrina Rambe"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "Dr. H.M.Sja\u2019roni, \u201cSTUDI TAFSIR TEMATIK, \u201c Jurnal study Islam Panca Wahana.Edisi 12,2014 hlm 3"
+        }
+    ],
+    "date": "2020-11-23",
+    "dateModified": "2020-11-22",
+    "datePublished": "2020-11-23",
+    "description": "Referensi Tafsir Tematik Dakwah",
+    "doi": "10.17632/36m6fjsm4s.1",
+    "identifier": "36m6fjsm4s",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:53.649712"
+    },
+    "keywords": [
+        "Islam"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Tafsir Tematik Dakwah",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/36m6fjsm4s"
+}

@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_hghjy5mftz",
+    "_score": 33.72827,
+    "author": [
+        {
+            "familyName": "Lindell",
+            "givenName": "Annukka",
+            "name": "Annukka Lindell"
+        }
+    ],
+    "date": "2020-01-16",
+    "dateModified": "2020-01-16",
+    "datePublished": "2020-01-16",
+    "description": "Data for Messina and Lindell Instagram Ad posing biases paper.",
+    "doi": "10.17632/hghjy5mftz.1",
+    "identifier": "hghjy5mftz",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:59.475547"
+    },
+    "keywords": [
+        "Laterality"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Messina & Lindel Instagram Ad Data",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0092",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data visualisation",
+            "url": "http://edamontology.org/topic_0092"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/hghjy5mftz"
+}

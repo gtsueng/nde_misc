@@ -1,0 +1,77 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_sjnv6y4gkz",
+    "_score": 33.51901,
+    "author": [
+        {
+            "familyName": "Valls",
+            "givenName": "Ricardo",
+            "name": "Ricardo Valls"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://www.amazon.ca/Exploring-Geological-Data-CoDaPack-iNZight/dp/1548620335"
+        }
+    ],
+    "date": "2021-08-25",
+    "dateModified": "2021-08-25",
+    "datePublished": "2021-08-25",
+    "description": "All the figures and excel files for the book",
+    "doi": "10.17632/sjnv6y4gkz.4",
+    "identifier": "sjnv6y4gkz",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:03.921343"
+    },
+    "keywords": [
+        "Geology",
+        "Artificial Intelligence",
+        "African Geology",
+        "Machine Learning",
+        "Applied Statistics"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "WEKA-CoDaPack-iNZight",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3071",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data management",
+            "url": "http://edamontology.org/topic_3071"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0092",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data visualisation",
+            "url": "http://edamontology.org/topic_0092"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/sjnv6y4gkz"
+}

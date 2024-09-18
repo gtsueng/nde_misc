@@ -1,0 +1,45 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_nc2dfzmmy7",
+    "_score": 34.528133,
+    "author": [
+        {
+            "familyName": "aljware",
+            "givenName": "rasha",
+            "name": "rasha aljware"
+        }
+    ],
+    "date": "2020-04-12",
+    "dateModified": "2020-04-12",
+    "datePublished": "2020-04-12",
+    "description": "neublizear  inno spire go from philips health care  improvement",
+    "doi": "10.17632/nc2dfzmmy7.1",
+    "identifier": "nc2dfzmmy7",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:08.609068"
+    },
+    "keywords": [
+        "Respiratory Care"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Nose and Sinuses ..philips (inno spire go) with  the new improvement ",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3406",
+            "inDefinedTermSet": "EDAM",
+            "name": "Ear, nose and throat medicine",
+            "url": "http://edamontology.org/topic_3406"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/nc2dfzmmy7"
+}

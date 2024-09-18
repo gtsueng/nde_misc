@@ -1,0 +1,88 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_n4rgzbnbpw",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 28.871101,
+    "author": [
+        {
+            "familyName": "Morawiec",
+            "givenName": "Krzysztof",
+            "name": "Krzysztof Morawiec"
+        },
+        {
+            "familyName": "Zajkowska",
+            "givenName": "Wiktoria",
+            "name": "Wiktoria Zajkowska"
+        },
+        {
+            "familyName": "D\u0142u\u017cewski",
+            "givenName": "Piotr",
+            "name": "Piotr D\u0142u\u017cewski"
+        },
+        {
+            "familyName": "Shiojiri",
+            "givenName": "Makoto",
+            "name": "Makoto Shiojiri"
+        },
+        {
+            "familyName": "Kusi\u0144ski",
+            "givenName": "Jan",
+            "name": "Jan Kusi\u0144ski"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.cpc.2020.107471",
+            "name": "PyHoLo software, a new tool for electron hologram analysis and magnetic investigation"
+        }
+    ],
+    "date": "2020-07-16",
+    "dateModified": "2020-07-14",
+    "datePublished": "2020-07-16",
+    "description": "A new tool, PyHoLo software, was developed to help automate the process of determining magnetic field B from a series of holograms, registered at different environmental conditions (e.g. for upside and downside orientations of a sample in a specimen holder). This procedure involves translating single holograms into phase shift of electron wave, but also alignment of holograms (i.e. shift, rotation, magnification) and finally calculation of magnetic field in an area selected for investigation. PyHoLo gives functionality for performing all those steps without having to refer to different programs and tools. The workflow and results of this procedure are discussed using as an example sample of FeCuSiB.",
+    "doi": "10.17632/n4rgzbnbpw.1",
+    "identifier": "n4rgzbnbpw",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:33.366377"
+    },
+    "keywords": [
+        "Magnetic Material",
+        "Transmission Electron Microscopy",
+        "Holography",
+        "Computational Physics"
+    ],
+    "license": "http://www.gnu.org/licenses/gpl-3.0.en.html",
+    "name": "PyHoLo software, a new tool for electron hologram analysis and magnetic investigation",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0611",
+            "inDefinedTermSet": "EDAM",
+            "name": "Electron microscopy",
+            "url": "http://edamontology.org/topic_0611"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/n4rgzbnbpw"
+}

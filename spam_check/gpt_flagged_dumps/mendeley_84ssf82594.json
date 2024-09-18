@@ -1,0 +1,64 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_84ssf82594",
+    "_score": 33.340218,
+    "author": [
+        {
+            "familyName": "Burgess",
+            "givenName": "Nicholas",
+            "name": "Nicholas Burgess"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.2139/ssrn.2479636",
+            "name": "Bond Option Pricing using the Vasicek Short Rate Model"
+        }
+    ],
+    "date": "2018-11-13",
+    "dateModified": "2018-11-13",
+    "datePublished": "2018-11-13",
+    "description": "Excel Pricing Workbook & Market Data",
+    "doi": "10.17632/84ssf82594.1",
+    "identifier": "84ssf82594",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:32.511270"
+    },
+    "keywords": [
+        "Financial Instruments",
+        "Financial Investment",
+        "Financial Analysis"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Excel Pricing Workbook: Bond Option Pricing using the Vasicek Short Rate Model",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3332",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational chemistry",
+            "url": "http://edamontology.org/topic_3332"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/84ssf82594"
+}

@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_dm2nbyvzz8",
+    "_score": 34.323174,
+    "author": [
+        {
+            "familyName": "Cueva",
+            "givenName": "Paloma",
+            "name": "Paloma Cueva"
+        }
+    ],
+    "date": "2021-11-08",
+    "dateModified": "2021-11-05",
+    "datePublished": "2021-11-08",
+    "description": "curso ",
+    "doi": "10.17632/dm2nbyvzz8.1",
+    "identifier": "dm2nbyvzz8",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:35.157661"
+    },
+    "keywords": [
+        "Medicine"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "CURSO_OCTUBRE",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0092",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data visualisation",
+            "url": "http://edamontology.org/topic_0092"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/dm2nbyvzz8"
+}

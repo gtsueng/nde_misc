@@ -1,0 +1,75 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_sn2jsh469v",
+    "_score": 33.144184,
+    "author": [
+        {
+            "familyName": "Bokuto",
+            "givenName": "Nanashi",
+            "name": "Nanashi Bokuto"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "dataset",
+            "url": "https://t.co/uiNnonwM8F?amp=1"
+        }
+    ],
+    "date": "2020-11-16",
+    "dateModified": "2020-11-12",
+    "datePublished": "2020-11-16",
+    "description": "Haga clic en el enlace de abajo *References*",
+    "doi": "10.17632/sn2jsh469v.1",
+    "identifier": "sn2jsh469v",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:33.779149"
+    },
+    "keywords": [
+        "Cinema",
+        "Streaming (Multimedia Information System)",
+        "Online Participation"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Repelis.!! Kimetsu no Yaiba Movie: Mugen Ressha-hen 2020 Pelicula completa Online espanol Latino HD",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3297",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biotechnology",
+            "url": "http://edamontology.org/topic_3297"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3303",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicine",
+            "url": "http://edamontology.org/topic_3303"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/sn2jsh469v"
+}

@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_5k8rsndy33",
+    "_score": 34.120705,
+    "author": [
+        {
+            "familyName": "Jamshidi",
+            "givenName": "Soleiman",
+            "name": "Soleiman Jamshidi"
+        }
+    ],
+    "date": "2017-11-11",
+    "dateModified": "2017-11-11",
+    "datePublished": "2017-11-11",
+    "description": "Agroecology Journal",
+    "doi": "10.17632/5k8rsndy33.1",
+    "identifier": "5k8rsndy33",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:57.688502"
+    },
+    "keywords": [
+        "Applied Sciences"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Agroecology Journal",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0780",
+            "inDefinedTermSet": "EDAM",
+            "name": "Plant biology",
+            "url": "http://edamontology.org/topic_0780"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3810",
+            "inDefinedTermSet": "EDAM",
+            "name": "Agricultural science",
+            "url": "http://edamontology.org/topic_3810"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3855",
+            "inDefinedTermSet": "EDAM",
+            "name": "Environmental sciences",
+            "url": "http://edamontology.org/topic_3855"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/5k8rsndy33"
+}

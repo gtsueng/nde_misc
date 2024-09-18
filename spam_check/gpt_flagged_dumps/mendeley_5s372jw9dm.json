@@ -1,0 +1,48 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_5s372jw9dm",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 33.33485,
+    "author": [
+        {
+            "familyName": "fitriyah",
+            "givenName": "qoriatul",
+            "name": "qoriatul fitriyah"
+        }
+    ],
+    "date": "2021-05-04",
+    "dateModified": "2021-05-04",
+    "datePublished": "2021-05-04",
+    "description": "Preview Buku K3 Keselamatan dan Kesehatan Kerja\nPreview Buku Teknologi Pembangkit I\nPreview Buku Buku Saku Literasi Informasi\nDetail Buku silakan kunjungi:\nhttps://www.google.co.id/books/edition/Buku_Saku_Literasi_Informasi/D04iEAAAQBAJ?hl=id&gbpv=0\nhttps://www.google.co.id/books/edition/Teknologi_Pembangkit_I/a7QXEAAAQBAJ?hl=id&gbpv=0\nhttps://www.google.co.id/books/edition/K3_Keselamatan_dan_Kesehatan_Kerja/JBEVEAAAQBAJ?hl=id&gbpv=0",
+    "doi": "10.17632/5s372jw9dm.2",
+    "identifier": "5s372jw9dm",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:56.547326"
+    },
+    "keywords": [
+        "Applied Sciences"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Books",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/5s372jw9dm"
+}

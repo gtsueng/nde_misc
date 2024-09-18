@@ -1,0 +1,35 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_kd8g9kszjf",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 33.72306,
+    "author": [
+        {
+            "familyName": "Monde",
+            "givenName": "Haut",
+            "name": "Haut Monde"
+        }
+    ],
+    "date": "2019-10-03",
+    "dateModified": "2019-10-03",
+    "datePublished": "2019-10-03",
+    "description": "HAUT MONDE  provide Budget banquet halls in Gurgaon, Find the list of top Wedding engagement Venues, Birthday Party Halls, Conference Halls and Meeting Rooms in Gurgaon and more top party venue is avalable here for more detail get here. http://www.contitel.co/corporate-party-venues-in-gurgaon/",
+    "doi": "10.17632/kd8g9kszjf.1",
+    "identifier": "kd8g9kszjf",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:40.626383"
+    },
+    "keywords": [
+        "Hotel Blog"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Banquet halls in Gurgaon | Meeting rooms in Gurgaon - HAUT MONDE",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/kd8g9kszjf"
+}

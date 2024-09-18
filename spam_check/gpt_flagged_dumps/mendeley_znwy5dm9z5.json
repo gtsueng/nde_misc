@@ -1,0 +1,32 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_znwy5dm9z5",
+    "_score": 35.984596,
+    "author": [
+        {
+            "familyName": "Ali Eissa",
+            "givenName": "Mourad",
+            "name": "Mourad Ali Eissa"
+        }
+    ],
+    "date": "2019-03-27",
+    "dateModified": "2019-03-27",
+    "datePublished": "2019-03-27",
+    "description": "Special education research ",
+    "doi": "10.17632/znwy5dm9z5.1",
+    "identifier": "znwy5dm9z5",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:55.712947"
+    },
+    "keywords": [
+        "Education Research"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "special Ecucation Research ",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/znwy5dm9z5"
+}

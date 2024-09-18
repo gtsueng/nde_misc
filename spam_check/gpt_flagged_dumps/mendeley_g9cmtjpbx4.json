@@ -1,0 +1,41 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_g9cmtjpbx4",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 31.360352,
+    "author": [
+        {
+            "familyName": "NathaliaYoungny",
+            "givenName": "Nathalia Young",
+            "name": "Nathalia Young NathaliaYoungny"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://www.rananjayexports.com/gemstones/labradorite"
+        }
+    ],
+    "date": "2021-10-29",
+    "dateModified": "2021-10-28",
+    "datePublished": "2021-10-29",
+    "description": "Rananjay Exports is the most trusted wholesale jewelry manufacturer and supplier known for its wide range of sterling silver labradorite jewelry. With authenticity and honesty, we are the most preferred name in the industry of silver jewelry. Online jewelry purchasing is now more comfortable and secure with our hassle-free process. Choose from a wide range of labradorite jewelry with the most beautiful and comfortable designs. Each jewelry piece that is created in the facility of Rananjay Exports has quality and authenticity intact. We strive to make the retail jewelry businesses grow in the best way possible with our jewelry and services.\n",
+    "doi": "10.17632/g9cmtjpbx4.1",
+    "identifier": "g9cmtjpbx4",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:45.275946"
+    },
+    "keywords": [
+        "Materials Design for Fashion"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Buy Labradorite jewellery",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/g9cmtjpbx4"
+}

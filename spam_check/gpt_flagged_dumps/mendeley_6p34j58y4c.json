@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_6p34j58y4c",
+    "_score": 34.315018,
+    "author": [
+        {
+            "familyName": "Rezapour-Mirsaleh",
+            "givenName": "Yasser",
+            "name": "Yasser Rezapour-Mirsaleh"
+        }
+    ],
+    "date": "2022-10-03",
+    "dateModified": "2022-10-02",
+    "datePublished": "2022-10-03",
+    "description": "SPSS & AMOS Files",
+    "doi": "10.17632/6p34j58y4c.1",
+    "identifier": "6p34j58y4c",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:39.648348"
+    },
+    "keywords": [
+        "Marriage"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Single Youth",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3053",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genetics",
+            "url": "http://edamontology.org/topic_3053"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/6p34j58y4c"
+}

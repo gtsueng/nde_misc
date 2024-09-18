@@ -1,0 +1,32 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_3xkrgm25t9",
+    "_score": 36.097137,
+    "author": [
+        {
+            "familyName": "Gupta",
+            "givenName": "Harish",
+            "name": "Harish Gupta"
+        }
+    ],
+    "date": "2021-10-10",
+    "dateModified": "2021-10-10",
+    "datePublished": "2021-10-10",
+    "description": "BRO_Rishi-Rongli-Kupup Road",
+    "doi": "10.17632/3xkrgm25t9.1",
+    "identifier": "3xkrgm25t9",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:45.699564"
+    },
+    "keywords": [
+        "Road Construction"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "BRO_Rishi-Rongli-Kupup Road",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/3xkrgm25t9"
+}

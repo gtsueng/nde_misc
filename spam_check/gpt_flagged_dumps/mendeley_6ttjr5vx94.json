@@ -1,0 +1,70 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_6ttjr5vx94",
+    "_score": 33.51901,
+    "author": [
+        {
+            "familyName": "Capobussi",
+            "givenName": "Matteo",
+            "name": "Matteo Capobussi"
+        }
+    ],
+    "date": "2023-02-02",
+    "dateModified": "2023-02-01",
+    "datePublished": "2023-02-02",
+    "description": "STL files for 3D printing a medical grade dermatoscope",
+    "doi": "10.17632/6ttjr5vx94.1",
+    "identifier": "6ttjr5vx94",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:09.507703"
+    },
+    "keywords": [
+        "Dermatology",
+        "Digital Prototyping",
+        "Emergency Care",
+        "3D Bioprinting"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "3D printed dermatoscope stl files",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3398",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioengineering",
+            "url": "http://edamontology.org/topic_3398"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3404",
+            "inDefinedTermSet": "EDAM",
+            "name": "Dermatology",
+            "url": "http://edamontology.org/topic_3404"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3303",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicine",
+            "url": "http://edamontology.org/topic_3303"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/6ttjr5vx94"
+}

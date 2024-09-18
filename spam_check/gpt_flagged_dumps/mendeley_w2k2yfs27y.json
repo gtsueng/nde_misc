@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_w2k2yfs27y",
+    "_score": 32.403465,
+    "author": [
+        {
+            "familyName": "GHEDADMAL",
+            "givenName": "SONALI",
+            "name": "SONALI GHEDADMAL"
+        }
+    ],
+    "date": "2021-08-11",
+    "dateModified": "2021-08-11",
+    "datePublished": "2021-08-11",
+    "description": "Facial Scrub contain coarse particles which help to exfoliate the skin. When you apply a face scrub, the particles rub against your skin and remove all the dirt from your skin pores. It also removes dead skin cells, making your skin smoother and softer",
+    "doi": "10.17632/w2k2yfs27y.1",
+    "identifier": "w2k2yfs27y",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:08.110700"
+    },
+    "keywords": [
+        "Academic Assessment"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Undergraduate UG Research Conference METRXPlORE",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3292",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biochemistry",
+            "url": "http://edamontology.org/topic_3292"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3404",
+            "inDefinedTermSet": "EDAM",
+            "name": "Dermatology",
+            "url": "http://edamontology.org/topic_3404"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3303",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicine",
+            "url": "http://edamontology.org/topic_3303"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/w2k2yfs27y"
+}

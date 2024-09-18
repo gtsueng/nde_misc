@@ -1,0 +1,88 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_rx4swjx5cn",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 25.812033,
+    "author": [
+        {
+            "familyName": "Soeadyfa",
+            "givenName": "Dimas Arya ",
+            "name": "Dimas Arya  Soeadyfa"
+        },
+        {
+            "familyName": "Suparji",
+            "givenName": "Suparji ",
+            "name": "Suparji  Suparji"
+        },
+        {
+            "familyName": "Sumbawati ",
+            "givenName": "Meini Sondang",
+            "name": "Meini Sondang Sumbawati "
+        }
+    ],
+    "date": "2023-06-02",
+    "dateModified": "2023-06-02",
+    "datePublished": "2023-06-02",
+    "description": "Handayani Airport is a simulation software developed to enhance air traffic control (ATC) simulations using the Euroscope application (https://www.euroscope.hu/wp/). It is used to train and test the skills and abilities of air traffic controllers. Handayani Airport is integrated into the Euroscope application to mimic real-life air traffic control situations. It can be run on Windows operating systems. This software includes various advanced features such as voice recognition system and monitoring features that allow users to control real-time air traffic, select flight paths, provide instructions to pilots, and coordinate with other ATCs. Handayani Airport is also equipped with features that can simulate various situations that may occur in the aviation world, including emergency situations and adverse weather conditions. In Handayani Airport, users can simulate customized air traffic tailored to airports worldwide, and can control thousands of aircraft simultaneously. Handayani Airport also allows users to simulate in online mode, where users can connect with other ATCs around the world and coordinate air traffic simulations together. Handayani Airport has various advanced features that enable users to control real-time air traffic and simulate various situations that may occur in the aviation world. ",
+    "doi": "10.17632/rx4swjx5cn.1",
+    "funding": [
+        {
+            "funder": {
+                "name": "Ministry of Transportation, the Human Resources Development Agency of Transportation (BPSDM Perhubungan) "
+            },
+            "identifier": "Sk.165/BPSDM.2020. "
+        }
+    ],
+    "identifier": "rx4swjx5cn",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:04.903226"
+    },
+    "keywords": [
+        "Computer Science"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Handayani Airport: Enhancing Your ATC Simulation Experience to be More Realistic and Effective.",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/rx4swjx5cn"
+}

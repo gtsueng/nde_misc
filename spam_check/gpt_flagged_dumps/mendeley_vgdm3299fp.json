@@ -1,0 +1,128 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_vgdm3299fp",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 26.77073,
+    "author": [
+        {
+            "familyName": "Maity",
+            "givenName": "Swastika",
+            "name": "Swastika Maity"
+        },
+        {
+            "familyName": "Aakriti",
+            "givenName": "Jaya",
+            "name": "Jaya Aakriti"
+        },
+        {
+            "familyName": "Manandhar",
+            "givenName": "Suman ",
+            "name": "Suman  Manandhar"
+        },
+        {
+            "familyName": "Anchan",
+            "givenName": "Sharad B ",
+            "name": "Sharad B  Anchan"
+        },
+        {
+            "familyName": "Bhat",
+            "givenName": "Ashlesh ",
+            "name": "Ashlesh  Bhat"
+        },
+        {
+            "familyName": "Shetty",
+            "givenName": "Mayur U ",
+            "name": "Mayur U  Shetty"
+        },
+        {
+            "familyName": "Nayak",
+            "givenName": "Yogendra",
+            "name": "Yogendra Nayak"
+        }
+    ],
+    "date": "2022-02-11",
+    "dateModified": "2022-02-10",
+    "datePublished": "2022-02-11",
+    "description": "This data was generated for the preclinical studies where biological samples from rats such as blood, serum, liver were stored in different storage conditions such as room temperature, thermocol box, polypropylene box and in an innovative portable battery-operated re-chargeable refrigerator \"Emvolio\" developed by Blackfrog Technologies Private Limited, Manipal, India. The integrity of biochemical and hematological parameters are given, which indicates that Emvolio is maintaining a constant temperature for 10 hrs. The data also suggests that Emvolio can be effectively used in preclinical sample preservation and transportation. \n\nEmvolio is battery operated small, volume refrigerator for medicines, vaccines, food, beverages, dairy etc. and has Indian Patent (Patent number 201941013056; https://ipindiaservices.gov.in/publicsearch). These data also support its preclinical uses in laboratories where animal test samples can be preserved and transported.",
+    "doi": "10.17632/vgdm3299fp.2",
+    "identifier": "vgdm3299fp",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:53.243393"
+    },
+    "keywords": [
+        "Rat",
+        "Blood",
+        "Liver",
+        "Biologicals",
+        "Temperature",
+        "Refrigeration",
+        "Preclinical Study"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Effect of temperature on hematological and biochemical parameters when the biological sample from rats kept in room temperature, thermocol, polypropylene box and innovative portable refrigerator",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "species": [
+        {
+            "alternateName": [
+                "rats",
+                "rat"
+            ],
+            "classification": "host",
+            "curatedBy": {
+                "dateModified": "2024-08-15",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Rattus",
+            "fromEXTRACT": true,
+            "identifier": "10114",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Rattus",
+            "originalName": "rats",
+            "url": "https://www.uniprot.org/taxonomy/10114"
+        }
+    ],
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3386",
+            "inDefinedTermSet": "EDAM",
+            "name": "Laboratory animal science",
+            "url": "http://edamontology.org/topic_3386"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0622",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genomics",
+            "url": "http://edamontology.org/topic_0622"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3344",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomedical science",
+            "url": "http://edamontology.org/topic_3344"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/vgdm3299fp"
+}

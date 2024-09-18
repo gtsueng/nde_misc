@@ -1,0 +1,68 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_pb7h4yrd4w",
+    "_score": 32.403465,
+    "author": [
+        {
+            "familyName": "Burgess",
+            "givenName": "Nicholas",
+            "name": "Nicholas Burgess"
+        }
+    ],
+    "date": "2022-10-28",
+    "dateModified": "2022-10-27",
+    "datePublished": "2022-10-28",
+    "description": "Credit Default Swap Excel Pricing Workbook with Market Data",
+    "doi": "10.17632/pb7h4yrd4w.3",
+    "identifier": "pb7h4yrd4w",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:39.190198"
+    },
+    "keywords": [
+        "Financial Instruments",
+        "Financial Investment"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Excel Pricing Workbook: Credit Derivative Theory & Practice \u2013 A Credit Primer & Review of the Impact of ISDA Standardization on Credit Default Swap Pricing & Credit Model Calibration",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3055",
+            "inDefinedTermSet": "EDAM",
+            "name": "Quantitative genetics",
+            "url": "http://edamontology.org/topic_3055"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/pb7h4yrd4w"
+}

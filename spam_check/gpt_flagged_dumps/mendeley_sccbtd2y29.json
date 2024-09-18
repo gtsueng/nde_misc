@@ -1,0 +1,74 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_sccbtd2y29",
+    "_score": 33.51901,
+    "author": [
+        {
+            "familyName": " Palazzi",
+            "givenName": "Rafael",
+            "name": "Rafael  Palazzi"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://opencodecom.net/post/2021-05-18-hedge-ratio/"
+        }
+    ],
+    "date": "2022-01-25",
+    "dateModified": "2022-01-24",
+    "datePublished": "2022-01-25",
+    "description": "Material published at https://opencodecom.net/\n",
+    "doi": "10.17632/sccbtd2y29.1",
+    "identifier": "sccbtd2y29",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:45.763145"
+    },
+    "keywords": [
+        "Business Economics",
+        "Business Administration"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Hedge Ratio published at Open Code Community",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3365",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data architecture, analysis and design",
+            "url": "http://edamontology.org/topic_3365"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/sccbtd2y29"
+}

@@ -1,0 +1,72 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_gnmbrzkshp",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 24.952229,
+    "author": [
+        {
+            "familyName": "Garza-Ulloa",
+            "givenName": "Jorge",
+            "name": "Jorge Garza-Ulloa"
+        }
+    ],
+    "date": "2022-06-06",
+    "dateModified": "2022-06-04",
+    "datePublished": "2022-06-06",
+    "description": "\u201cMachine Learning (ML)\u201d is a subset of \u201cAI\u201d that evolved from the study of \u201cpattern recognition and computational learning theory.\u201d \u201cML\u201d has seven specific steps to follow to achieve its goal of obtaining a valid model for prediction. The \u201cML Model\u201d to select to find the solution depends on the type of ML problem; generally, this can be \u201cunsupervised learning,\u201d \u201csupervised learning,\u201d \u201creinforcement learning,\u201d \u201csurvival models,\u201d \u201cassociation rules,\u201d and others. Please read this chapter at science direct: https://www.sciencedirect.com/science/article/pii/B9780128207185000027 or buy the book or eBook at https://www.elsevier.com/books/applied-biomedical-engineering-using-artificial-intelligence-and-cognitive-models/garza-ulloa/978-0-12-820718-5.\nThis data set is organized in 3 folders: Matlab_ML (ML using Matlab), SPSS_MODELER (ML using IBM Watson SPSS Modeler) and Watson_ML (ML using IBM Machine Learning Models) \nSection 4.12.2.1 Research 4.1 Tutorial IBM Watson SPSS Modeler Flow for \u201cML Model for Diabetes\u201d (Folder SPSS_MODELER > SPSS_Clusters)\nSection 4.12.2.2 Research tutorial 4.2 IBM Watson SPSS Modeler Flow for \u201cHeart disease ML model and deployment\u201d (folder SPSS_MODELER > SPSS_Classifier)\nSection 4.12.2.3 Research tutorial 4.3 IBM Watson SPSS Modeler Flow for \u201cKidney disease ML Auto Classifiers Models and deploy the best model\u201d (folder SPSS_MODELER > SPSS_AutoClassifier)\nSection 4.12.2.4 Research tutorial 4.4 IBM Watson AutoAI experimenter for \u201cBreast cancer ML model and deploy the best model\u201d (folder Watson_ML)\nSection 4.12.2.5 Research tutorial 4.5 MATLAB: Statistics and Machine Learning Toolbox for a \u201cDiabetes dataset AI modeling for Classifier Model and a Regression Model\u201d (folder Matlab_ML)\n\n\n\n",
+    "doi": "10.17632/gnmbrzkshp.1",
+    "identifier": "gnmbrzkshp",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:34.160791"
+    },
+    "keywords": [
+        "Medicine",
+        "Biomedical Engineering",
+        "Machine Learning"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Applied Biomedical Engineering Using Artificial Intelligence and Cognitive Models - Chapter 4 - dataset - Machine Learning Models Applied to Biomedical Engineering ",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3474",
+            "inDefinedTermSet": "EDAM",
+            "name": "Machine learning",
+            "url": "http://edamontology.org/topic_3474"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3344",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomedical science",
+            "url": "http://edamontology.org/topic_3344"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/gnmbrzkshp"
+}

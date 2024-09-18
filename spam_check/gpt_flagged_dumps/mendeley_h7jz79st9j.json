@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_h7jz79st9j",
+    "_score": 33.325916,
+    "author": [
+        {
+            "familyName": "Majkut",
+            "givenName": "Jozef",
+            "name": "Jozef Majkut"
+        }
+    ],
+    "date": "2021-05-26",
+    "dateModified": "2021-05-26",
+    "datePublished": "2021-05-26",
+    "description": "S\u00fabor 10 vide\u00ed z v\u00fdvoja aplik\u00e1cie v React Native s vyu\u017eit\u00edm rozm\u00fd\u0161\u013eania nahlas. ",
+    "doi": "10.17632/h7jz79st9j.1",
+    "identifier": "h7jz79st9j",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:35.625041"
+    },
+    "keywords": [
+        "Video"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "React Native v\u00fdvoj aplik\u00e1cie s vyu\u017eit\u00edm ro\u017em\u00fd\u0161\u013eania nahlas",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3365",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data architecture, analysis and design",
+            "url": "http://edamontology.org/topic_3365"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0092",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data visualisation",
+            "url": "http://edamontology.org/topic_0092"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/h7jz79st9j"
+}

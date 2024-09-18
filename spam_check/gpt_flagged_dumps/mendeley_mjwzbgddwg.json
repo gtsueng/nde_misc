@@ -1,0 +1,42 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_mjwzbgddwg",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 33.149624,
+    "author": [
+        {
+            "familyName": "Cool",
+            "givenName": "Hot",
+            "name": "Hot Cool"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "dataset",
+            "url": "https://www.hotncool.com.au"
+        }
+    ],
+    "date": "2023-02-09",
+    "dateModified": "2023-02-08",
+    "datePublished": "2023-02-09",
+    "description": "Looking for top-quality EVAPORATIVE AIRCONS SPARE PARTS at competitive prices? Look no further! HOTNCOOL is an online store (www.hotncool.com.au) for supplies of branded Evaps & Heating products in Australia and worldwide. We offer the wide range of products to meet all your Heating/Cooling replacement needs.",
+    "doi": "10.17632/mjwzbgddwg.1",
+    "identifier": "mjwzbgddwg",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:33.776916"
+    },
+    "keywords": [
+        "Space Cooling",
+        "Combined Cooling Heating System"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "HOTNCOOL - One Stop Solution for all Replacement Needs of Heating & Cooling",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/mjwzbgddwg"
+}

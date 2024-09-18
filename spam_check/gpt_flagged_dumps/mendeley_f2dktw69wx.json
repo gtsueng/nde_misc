@@ -1,0 +1,107 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_f2dktw69wx",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 26.77073,
+    "author": [
+        {
+            "familyName": "Azadeh",
+            "givenName": "Maryam",
+            "name": "Maryam Azadeh"
+        },
+        {
+            "familyName": "Zamani",
+            "givenName": "Cyrus",
+            "name": "Cyrus Zamani"
+        },
+        {
+            "familyName": "Ataie",
+            "givenName": "Abolghasem",
+            "name": "Abolghasem Ataie"
+        },
+        {
+            "familyName": "Morante",
+            "givenName": "J.R.",
+            "name": "J.R. Morante"
+        },
+        {
+            "familyName": "Setoudeh",
+            "givenName": "Nader",
+            "name": "Nader Setoudeh"
+        }
+    ],
+    "date": "2020-01-01",
+    "dateModified": "2019-12-27",
+    "datePublished": "2020-01-01",
+    "description": "The uploaded data is associated with the article \"Role of milling parameters on the mechano-chemically synthesized mesoporous nanosilicon properties for Li-ion batteries anode\" with the DOI: https://doi.org/10.1016/j.jpcs.2019.109318\n\nBriefly, in this dataset, you can find original figures and tables, images. \n\nHighlights:\n\u2022\tNanostructured silicon was achieved by HBEM of rice husk derived nano-silica and Mg and subsequent leaching of products.\n\u2022\tThe influence of milling energy as a rapid process on microstructural properties of synthesized Si has been investigated.\n\u2022\tThe raw materials are low-cost, and the HEBM process is facile and reproducible.\n\u2022\tSi/C product exhibited a reversible specific capacity of 3113 mAh.g-1 (at CD=0.4 A/g).\n\u2022\tElectrochemical characterizations and electrical resistivity of 1.823 \u03a9.cm2, reveals its potentiality as LIB anode.\n\n+ Calculation of milling energy can be provided upon request.  \n+ Please contact us if you are interested.",
+    "doi": "10.17632/f2dktw69wx.1",
+    "identifier": "f2dktw69wx",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:41.116457"
+    },
+    "keywords": [
+        "Silicon",
+        "Anode Materials for Batteries",
+        "Solid State Synthesis of Ceramics"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Role of milling parameters on the mechano-chemically synthesized mesoporous nanosilicon properties for Li-ion batteries anode - Dataset",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "species": [
+        {
+            "alternateName": [
+                "Asian cultivated rice",
+                "Rice",
+                "red rice",
+                "rice",
+                "Oryza sativa L., 1753"
+            ],
+            "classification": "host",
+            "commonName": "Rice",
+            "curatedBy": {
+                "dateModified": "2024-08-15",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Rice | Oryza sativa",
+            "fromEXTRACT": true,
+            "identifier": "4530",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Oryza sativa",
+            "originalName": "rice",
+            "url": "https://www.uniprot.org/taxonomy/4530"
+        }
+    ],
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3368",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomaterials",
+            "url": "http://edamontology.org/topic_3368"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3314",
+            "inDefinedTermSet": "EDAM",
+            "name": "Chemistry",
+            "url": "http://edamontology.org/topic_3314"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/f2dktw69wx"
+}

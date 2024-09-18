@@ -1,0 +1,55 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_7g3jk4hc4k",
+    "_score": 34.120705,
+    "author": [
+        {
+            "familyName": "Environmental Stresses in Crop Sciences",
+            "givenName": "Journal of",
+            "name": "Journal of Environmental Stresses in Crop Sciences"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://escs.birjand.ac.ir/issue_294_307.html?lang=en"
+        }
+    ],
+    "date": "2022-06-08",
+    "dateModified": "2022-06-08",
+    "datePublished": "2022-06-08",
+    "description": "To visit webpage containing full articles (in Persian), please visit: https://escs.birjand.ac.ir/issue_294_307.html?lang=en",
+    "doi": "10.17632/7g3jk4hc4k.1",
+    "identifier": "7g3jk4hc4k",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:59.404882"
+    },
+    "keywords": [
+        "Agricultural Science",
+        "Agronomy",
+        "Salinity",
+        "Abiotic Stress",
+        "Drought"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Vol. 15(2), 2022",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/7g3jk4hc4k"
+}

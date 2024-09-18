@@ -1,0 +1,74 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_kfkm769z2g",
+    "_score": 33.1351,
+    "author": [
+        {
+            "familyName": "Devkar",
+            "givenName": "Shrikant",
+            "name": "Shrikant Devkar"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.2139/ssrn.3345917",
+            "name": "Agricultural Marketing for Sustainable Development - a Focus on Apmc"
+        }
+    ],
+    "date": "2019-03-03",
+    "dateModified": "2019-03-03",
+    "datePublished": "2019-03-03",
+    "description": "IT'S ALL ABOUT FACTORS AFFECTING AGRICULTURAL MARKETING",
+    "doi": "10.17632/kfkm769z2g.1",
+    "identifier": "kfkm769z2g",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:40.958788"
+    },
+    "keywords": [
+        "Agricultural Business",
+        "Agricultural Marketing"
+    ],
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "name": "Data for: 3345917",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3810",
+            "inDefinedTermSet": "EDAM",
+            "name": "Agricultural science",
+            "url": "http://edamontology.org/topic_3810"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/kfkm769z2g"
+}

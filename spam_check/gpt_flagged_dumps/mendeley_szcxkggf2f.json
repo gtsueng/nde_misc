@@ -1,0 +1,76 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_szcxkggf2f",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 24.14642,
+    "author": [
+        {
+            "familyName": "Yourweb",
+            "givenName": "Mimansa",
+            "name": "Mimansa Yourweb"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://mbbswala.in"
+        }
+    ],
+    "date": "2022-07-11",
+    "dateModified": "2022-07-11",
+    "datePublished": "2022-07-11",
+    "description": "MBBS WALA is  No. 1 Medical Education Consultant in India. We provide a professional platform for students seeking career assistance, guidance and support. Our consultant assists students in taking admission in a medical course in India and Abroad. All over India, we have 7 branches.With the experience of 10 years in the field of medical science, we have the expertise and professional shrewdness and we shape & pave the way for students seeking a new avenue for higher studies.We provide admission guidance abroad also. Countries in which we deal are the United Kingdom, USA, Canada, New Zealand, Australia, Georgia, Ukraine, China, Russia, Kyrgyzstan, Nepal, Bangladesh, Armenia and Kazakhstan And Many More Countries.For the students, we as a team are dedicated to exploring various study abroad options. MBBS WALA consultants are specialized in medical education and have many universities of repute as our partners\n\nWe offer those universities which are recognized by MCI, WHO, ECFMG, WFE, AMEE, FAIMER, IMED and the degrees are valid not only in India but also in 142 countries.We keep transparency in our work and help to solve all queries, providing personal guidance to the students for the right program and the right institution as per their choice, financial profile & future career plans, etc. We also assist parents and students with educational planning.We have an experienced and professional team of counselors and they would help the students choose their field of interest. Our team tends to look out for everything, obtaining medical admissions abroad, the visa and all other formalities, travel arrangements, forex & day to day requirements within the institute.One more thing our consultant takes responsibility for all necessary help as and when required till completion of the complete program.\n",
+    "doi": "10.17632/szcxkggf2f.1",
+    "identifier": "szcxkggf2f",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:40.685918"
+    },
+    "keywords": [
+        "Educational Measurement in Medical Education"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "MBBS WALA is  No. 1 Medical Education Consultant in India. We provide a professional platform for students seeking career assistance, guidance and support",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3576",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medical biotechnology",
+            "url": "http://edamontology.org/topic_3576"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3053",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genetics",
+            "url": "http://edamontology.org/topic_3053"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3303",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicine",
+            "url": "http://edamontology.org/topic_3303"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/szcxkggf2f"
+}

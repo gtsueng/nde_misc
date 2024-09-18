@@ -1,0 +1,41 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_dvdg5nwwmc",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 32.76015,
+    "author": [
+        {
+            "familyName": "tichu",
+            "givenName": "tichusilver",
+            "name": "tichusilver tichu"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://tichu.co/"
+        }
+    ],
+    "date": "2022-12-20",
+    "dateModified": "2022-12-20",
+    "datePublished": "2022-12-20",
+    "description": "Tichu is an online store that specializes in silver jewellery. They offer a wide range of products, from simple silver rings to more elaborate pieces. Their prices are very competitive, and they offer free shipping on all orders over $50. They also have a loyalty program where you can earn points for every purchase you make, which can be redeemed for discounts on future purchases. Overall, Tichu is a great option for buying silver jewellery online.",
+    "doi": "10.17632/dvdg5nwwmc.1",
+    "identifier": "dvdg5nwwmc",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:32.416778"
+    },
+    "keywords": [
+        "Sabazia"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "silver jewellery",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/dvdg5nwwmc"
+}

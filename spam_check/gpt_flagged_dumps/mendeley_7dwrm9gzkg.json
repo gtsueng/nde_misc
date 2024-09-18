@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_7dwrm9gzkg",
+    "_score": 34.315018,
+    "author": [
+        {
+            "familyName": "Liang",
+            "givenName": "Jiechun",
+            "name": "Jiechun Liang"
+        }
+    ],
+    "date": "2021-11-16",
+    "dateModified": "2021-11-13",
+    "datePublished": "2021-11-16",
+    "description": "Real-world music molecule",
+    "doi": "10.17632/7dwrm9gzkg.1",
+    "identifier": "7dwrm9gzkg",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:01.715411"
+    },
+    "keywords": [
+        "Small Molecule"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Molecule Music",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_4029",
+            "inDefinedTermSet": "EDAM",
+            "name": "Acoustics",
+            "url": "http://edamontology.org/topic_4029"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3318",
+            "inDefinedTermSet": "EDAM",
+            "name": "Physics",
+            "url": "http://edamontology.org/topic_3318"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3314",
+            "inDefinedTermSet": "EDAM",
+            "name": "Chemistry",
+            "url": "http://edamontology.org/topic_3314"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/7dwrm9gzkg"
+}

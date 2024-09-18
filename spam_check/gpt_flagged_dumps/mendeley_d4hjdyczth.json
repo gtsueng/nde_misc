@@ -1,0 +1,99 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_d4hjdyczth",
+    "_score": 30.059732,
+    "author": [
+        {
+            "familyName": "Batrimenko",
+            "givenName": "Andrey",
+            "name": "Andrey Batrimenko"
+        }
+    ],
+    "date": "2021-04-20",
+    "dateModified": "2021-04-20",
+    "datePublished": "2021-04-20",
+    "description": "Monthly search query's statistics from yandex (russian search engine) & covid-19 cases and deaths in Russia 2020-2021 from January to January.\nThis data can be used to data& correlation analysis. \nSee our results at: https://search-covid.herokuapp.com",
+    "doi": "10.17632/d4hjdyczth.1",
+    "healthCondition": [
+        {
+            "alternateName": [
+                "human coronavirus 2019 infection",
+                "covid-19",
+                "sars coronavirus 2 infection",
+                "2019-ncov infection",
+                "sars-cov2 disease",
+                "sars-cov2 infection",
+                "sars-cov-2 infection",
+                "sars-2 infection",
+                "sars2 infection",
+                "hcov-19 infection",
+                "covid-19 infection",
+                "severe acute respiratory syndrome coronavirus 2 infection",
+                "covid-19 virus infection",
+                "sars-cov-2 disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "C171133",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "COVID-19 Infection",
+            "originalName": "CoViD-19",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C171133"
+        }
+    ],
+    "identifier": "d4hjdyczth",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:35.296184"
+    },
+    "keywords": [
+        "Health Sciences"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Search query's & covid cases /death in Russia 2020-2021",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3305",
+            "inDefinedTermSet": "EDAM",
+            "name": "Public health and epidemiology",
+            "url": "http://edamontology.org/topic_3305"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/d4hjdyczth"
+}

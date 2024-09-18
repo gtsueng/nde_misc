@@ -1,0 +1,68 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_pfdygk2fpk",
+    "_score": 34.323174,
+    "author": [
+        {
+            "familyName": "Guo",
+            "givenName": "Wei",
+            "name": "Wei Guo"
+        }
+    ],
+    "date": "2021-04-06",
+    "dateModified": "2021-04-06",
+    "datePublished": "2021-04-06",
+    "description": "Raw data",
+    "doi": "10.17632/pfdygk2fpk.1",
+    "identifier": "pfdygk2fpk",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:59.289627"
+    },
+    "keywords": [
+        "Cell Biology",
+        "Cancer"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Exostiff",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3077",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data acquisition",
+            "url": "http://edamontology.org/topic_3077"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/pfdygk2fpk"
+}

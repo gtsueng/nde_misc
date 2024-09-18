@@ -1,0 +1,45 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_7wj7yyjkh9",
+    "_score": 34.832623,
+    "author": [
+        {
+            "familyName": "LU",
+            "givenName": "JINXIONG",
+            "name": "JINXIONG LU"
+        }
+    ],
+    "date": "2020-09-01",
+    "dateModified": "2020-08-31",
+    "datePublished": "2020-09-01",
+    "description": "A comprehensive autonomous navigation system for wheel loaders",
+    "doi": "10.17632/7wj7yyjkh9.1",
+    "identifier": "7wj7yyjkh9",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:34.600006"
+    },
+    "keywords": [
+        "Computer Vision Algorithms"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "A comprehensive autonomous navigation system for wheel loaders",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/7wj7yyjkh9"
+}

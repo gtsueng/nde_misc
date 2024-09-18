@@ -1,0 +1,32 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_9hm5rry9cz",
+    "_score": 35.928596,
+    "author": [
+        {
+            "familyName": "Pandey",
+            "givenName": "Arjun",
+            "name": "Arjun Pandey"
+        }
+    ],
+    "date": "2020-03-03",
+    "dateModified": "2020-03-03",
+    "datePublished": "2020-03-03",
+    "description": "the file contains supplementary information for the JGR",
+    "doi": "10.17632/9hm5rry9cz.1",
+    "identifier": "9hm5rry9cz",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:59.528743"
+    },
+    "keywords": [
+        "Tectonics"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "JGR Supplements",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/9hm5rry9cz"
+}

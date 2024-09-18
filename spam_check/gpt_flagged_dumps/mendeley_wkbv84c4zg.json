@@ -1,0 +1,51 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_wkbv84c4zg",
+    "_score": 33.72306,
+    "author": [
+        {
+            "familyName": "finessedirect",
+            "givenName": "finessedirect",
+            "name": "finessedirect finessedirect"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://finessedirect.com/us/big-data-iot-dubai-uae/"
+        }
+    ],
+    "date": "2023-04-21",
+    "dateModified": "2023-04-20",
+    "datePublished": "2023-04-21",
+    "description": "Finesse is one of the leading IoT Big Data solutions companies in Dubai, UAE, that uses Big Data and IoT solutions to redefine technology and communication.",
+    "doi": "10.17632/wkbv84c4zg.1",
+    "identifier": "wkbv84c4zg",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:58.674203"
+    },
+    "keywords": [
+        "Business"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Big Data and IoT Solutions Big Data and Analytics Dubai, UAE ",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3365",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data architecture, analysis and design",
+            "url": "http://edamontology.org/topic_3365"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/wkbv84c4zg"
+}

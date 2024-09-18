@@ -1,0 +1,98 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_33c9crbx93",
+    "_score": 32.403465,
+    "author": [
+        {
+            "familyName": "Oremakinde",
+            "givenName": "Adetunji",
+            "name": "Adetunji Oremakinde"
+        },
+        {
+            "familyName": "Dairo",
+            "givenName": "Magbagbeola",
+            "name": "Magbagbeola Dairo"
+        },
+        {
+            "familyName": "Malomo",
+            "givenName": "Adefolarin",
+            "name": "Adefolarin Malomo"
+        },
+        {
+            "familyName": "Adeleye",
+            "givenName": "Amos",
+            "name": "Amos Adeleye"
+        },
+        {
+            "familyName": "Adeolu",
+            "givenName": "Augustine",
+            "name": "Augustine Adeolu"
+        },
+        {
+            "familyName": "Shokunbi",
+            "givenName": "Matthew",
+            "name": "Matthew Shokunbi"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.inat.2018.10.005",
+            "name": "Assessment of predictors of one-month outcome in head injury in a Nigerian tertiary hospital"
+        }
+    ],
+    "date": "2018-11-09",
+    "dateModified": "2017-09-13",
+    "datePublished": "2018-11-09",
+    "description": "SPSS data",
+    "doi": "10.17632/33c9crbx93.1",
+    "identifier": "33c9crbx93",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:59.376914"
+    },
+    "keywords": [
+        "Traumatic Brain Injury"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Data for: Adetunji Adeniyi Oremakinde",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3071",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data management",
+            "url": "http://edamontology.org/topic_3071"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3489",
+            "inDefinedTermSet": "EDAM",
+            "name": "Database management",
+            "url": "http://edamontology.org/topic_3489"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/33c9crbx93"
+}

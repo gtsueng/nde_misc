@@ -1,0 +1,79 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_kktj9dhbtc",
+    "_score": 32.775093,
+    "author": [
+        {
+            "familyName": "Marroquin",
+            "givenName": "Nathaniel",
+            "name": "Nathaniel Marroquin"
+        },
+        {
+            "familyName": "Sivesind",
+            "givenName": "Torunn",
+            "name": "Torunn Sivesind"
+        },
+        {
+            "familyName": "Burnette",
+            "givenName": "Colin",
+            "name": "Colin Burnette"
+        },
+        {
+            "familyName": "LaMar",
+            "givenName": "Kyle",
+            "name": "Kyle LaMar"
+        },
+        {
+            "familyName": "Dellevalle ",
+            "givenName": "Robert P.",
+            "name": "Robert P. Dellevalle "
+        }
+    ],
+    "date": "2023-02-16",
+    "dateModified": "2023-02-16",
+    "datePublished": "2023-02-16",
+    "description": "Comparison of portable sunscreen dispensers available for online purchase (February 2022)",
+    "doi": "10.17632/kktj9dhbtc.1",
+    "identifier": "kktj9dhbtc",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:35.762905"
+    },
+    "keywords": [
+        "Skin Cancer",
+        "Melanoma",
+        "Sunburn",
+        "Sunscreening Agent"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Table I. Comparison of portable sunscreen dispensers available for online purchase (February 2022)",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3077",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data acquisition",
+            "url": "http://edamontology.org/topic_3077"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3393",
+            "inDefinedTermSet": "EDAM",
+            "name": "Quality affairs",
+            "url": "http://edamontology.org/topic_3393"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/kktj9dhbtc"
+}

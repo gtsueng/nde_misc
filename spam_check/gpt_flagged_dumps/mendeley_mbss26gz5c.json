@@ -1,0 +1,74 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_mbss26gz5c",
+    "_score": 33.340218,
+    "author": [
+        {
+            "familyName": "Schwarz",
+            "givenName": "Lucas",
+            "name": "Lucas Schwarz"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://opencodecom.net/author/lucas-schwarz-since-2021/05/"
+        }
+    ],
+    "date": "2022-01-25",
+    "dateModified": "2022-01-24",
+    "datePublished": "2022-01-25",
+    "description": "Material published at https://opencodecom.net/",
+    "doi": "10.17632/mbss26gz5c.1",
+    "identifier": "mbss26gz5c",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:01.419885"
+    },
+    "keywords": [
+        "Business Economics",
+        "Business Administration"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Erros padr\u00e3o robustos e clusteriza\u00e7\u00e3o dos erros padr\u00e3o published at Open Code Community",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/mbss26gz5c"
+}

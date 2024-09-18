@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_jpcnszr36c",
+    "_score": 33.527798,
+    "author": [
+        {
+            "familyName": "Monton",
+            "givenName": "Javier",
+            "name": "Javier Monton"
+        }
+    ],
+    "date": "2020-01-07",
+    "dateModified": "2020-01-03",
+    "datePublished": "2020-01-07",
+    "description": "Free software to assess breast aesthetic scale (macos version)",
+    "doi": "10.17632/jpcnszr36c.1",
+    "identifier": "jpcnszr36c",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:06.382771"
+    },
+    "keywords": [
+        "Breast Surgery"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Data for: Free tool for breast aesthetic scale computation",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3303",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicine",
+            "url": "http://edamontology.org/topic_3303"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/jpcnszr36c"
+}

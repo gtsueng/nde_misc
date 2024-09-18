@@ -1,0 +1,67 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_95n3n246ct",
+    "_score": 34.125748,
+    "author": [
+        {
+            "familyName": "SERIN",
+            "givenName": "Istemi",
+            "name": "Istemi SERIN"
+        }
+    ],
+    "date": "2022-11-28",
+    "dateModified": "2022-11-26",
+    "datePublished": "2022-11-28",
+    "description": "Gilteritinib Turkey Data Set",
+    "doi": "10.17632/95n3n246ct.1",
+    "identifier": "95n3n246ct",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:52.549608"
+    },
+    "keywords": [
+        "Adult Hematology"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Gilteritinib Turkey",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3366",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0202",
+            "inDefinedTermSet": "EDAM",
+            "name": "Pharmacology",
+            "url": "http://edamontology.org/topic_0202"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/95n3n246ct"
+}

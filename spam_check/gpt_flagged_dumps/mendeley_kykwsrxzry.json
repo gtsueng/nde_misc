@@ -1,0 +1,32 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_kykwsrxzry",
+    "_score": 35.928596,
+    "author": [
+        {
+            "familyName": "Zecui",
+            "givenName": "Gao",
+            "name": "Gao Zecui"
+        }
+    ],
+    "date": "2022-07-14",
+    "dateModified": "2022-07-14",
+    "datePublished": "2022-07-14",
+    "description": "the original data of the MoN supercapacitors",
+    "doi": "10.17632/kykwsrxzry.1",
+    "identifier": "kykwsrxzry",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:53.476450"
+    },
+    "keywords": [
+        "Ceramic Coating"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "MoN supercapacitors",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/kykwsrxzry"
+}

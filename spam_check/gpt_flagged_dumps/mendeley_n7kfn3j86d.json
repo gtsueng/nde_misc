@@ -1,0 +1,70 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_n7kfn3j86d",
+    "_score": 33.149624,
+    "author": [
+        {
+            "familyName": "Rose",
+            "givenName": "Julia Elisabeth",
+            "name": "Julia Elisabeth Rose"
+        },
+        {
+            "familyName": "Rose",
+            "givenName": "Michael",
+            "name": "Michael Rose"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.jbef.2019.04.011",
+            "name": "Ready-made oTree apps for time preference elicitation methods"
+        }
+    ],
+    "date": "2019-05-29",
+    "dateModified": "2019-03-09",
+    "datePublished": "2019-05-29",
+    "description": "Programs for time preference elicitation ",
+    "doi": "10.17632/n7kfn3j86d.1",
+    "identifier": "n7kfn3j86d",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:05.083375"
+    },
+    "keywords": [
+        "Economics",
+        "Choice Experiment",
+        "Behavioral Economics",
+        "Experimental Economics"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Data for: Ready-Made oTree Apps for Time Preference Elicitation Methods",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3365",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data architecture, analysis and design",
+            "url": "http://edamontology.org/topic_3365"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/n7kfn3j86d"
+}

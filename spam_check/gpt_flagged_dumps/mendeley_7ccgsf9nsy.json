@@ -1,0 +1,56 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_7ccgsf9nsy",
+    "_score": 34.112385,
+    "author": [
+        {
+            "familyName": "Irwansyah",
+            "givenName": "Irwansyah",
+            "name": "Irwansyah Irwansyah"
+        }
+    ],
+    "date": "2023-05-14",
+    "dateModified": "2023-05-12",
+    "datePublished": "2023-05-14",
+    "description": "Data analysis and sensory wheel of cake and pastries in Excel file",
+    "doi": "10.17632/7ccgsf9nsy.1",
+    "identifier": "7ccgsf9nsy",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:39.508125"
+    },
+    "keywords": [
+        "Semiotics"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Data and Sensory Wheel of Cake and Pastries",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3292",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biochemistry",
+            "url": "http://edamontology.org/topic_3292"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0092",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data visualisation",
+            "url": "http://edamontology.org/topic_0092"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/7ccgsf9nsy"
+}

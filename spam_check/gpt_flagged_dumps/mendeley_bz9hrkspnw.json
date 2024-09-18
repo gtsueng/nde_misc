@@ -1,0 +1,68 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_bz9hrkspnw",
+    "_score": 33.325916,
+    "author": [
+        {
+            "familyName": "Sang",
+            "givenName": "Nguyen Minh",
+            "name": "Nguyen Minh Sang"
+        }
+    ],
+    "date": "2021-06-04",
+    "dateModified": "2021-06-04",
+    "datePublished": "2021-06-04",
+    "description": "All 1989 publications on the topic of the Fintech on Scopus for bibliometric analysis!",
+    "doi": "10.17632/bz9hrkspnw.1",
+    "identifier": "bz9hrkspnw",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:09.366001"
+    },
+    "keywords": [
+        "Finance",
+        "Bank"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Publications on the Fintech research",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/bz9hrkspnw"
+}

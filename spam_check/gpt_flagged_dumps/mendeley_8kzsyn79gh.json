@@ -1,0 +1,94 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_8kzsyn79gh",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 28.319448,
+    "author": [
+        {
+            "familyName": "Alpat",
+            "givenName": "Behcet",
+            "name": "Behcet Alpat"
+        },
+        {
+            "familyName": "Coban",
+            "givenName": "Abdullah",
+            "name": "Abdullah Coban"
+        },
+        {
+            "familyName": "Kaya",
+            "givenName": "Hakan",
+            "name": "Hakan Kaya"
+        },
+        {
+            "familyName": "Bartolini",
+            "givenName": "Giovanni",
+            "name": "Giovanni Bartolini"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.cpc.2023.108688",
+            "name": "MRADSIM-Converter: A new software for STEP to GDML conversion"
+        }
+    ],
+    "date": "2023-02-24",
+    "dateModified": "2023-02-24",
+    "datePublished": "2023-02-24",
+    "description": "Radiation effects analysis of instruments operative in harsh radiation environment is crucial for performance and functionality of electronic devices and components. Engineering design of instruments is usually carried out in Computer Aided Design (CAD) engineering software. Geant4-based Monte Carlo codes are extensively used for particle transport simulation and analysis. However, Geant4 is not prepared to accept CAD Standard for The Exchange of Product data (STEP) format. MRADSIM-Converter is a new software for STEP to Geometry Description Markup Language (GDML) format conversion, readable by Geant4-based Monte Carlo codes. Its validation with two different converters confirms its higher speed for importing CAD geometries with arbitrary size and complexity having a user-friendly interface for modifying volumes properties.",
+    "doi": "10.17632/8kzsyn79gh.1",
+    "identifier": "8kzsyn79gh",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:36.151899"
+    },
+    "keywords": [
+        "Condensed Matter Physics",
+        "Nuclear Physics",
+        "Radiation",
+        "Computational Physics"
+    ],
+    "license": "https://www.gnu.org/licenses/lgpl-3.0.txt",
+    "name": "MRADSIM-Converter: A new software for STEP to GDML conversion",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/8kzsyn79gh"
+}
