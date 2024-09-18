@@ -1,0 +1,107 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_tcnz9k2csp",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 26.763493,
+    "author": [
+        {
+            "familyName": "raj",
+            "givenName": "mawipi",
+            "name": "mawipi raj"
+        }
+    ],
+    "date": "2022-04-05",
+    "dateModified": "2022-04-05",
+    "datePublished": "2022-04-05",
+    "description": "Genshin Impact Generator Primogems & Crystals No Human Verification\n\nVSIT HERE TO GET FREE PRIMOGEMS AND CRYSTALS :>>> https://gamers-shop.shop/genshin-impact-primogems-crystals-generator/\nVSIT HERE TO GET FREE PRIMOGEMS AND CRYSTALS :>>> https://gamers-shop.shop/genshin-impact-primogems-crystals-generator/\n\nGenshin Impact Generator\ngenshin impact generator primogems\ngenshin impact generator no human verification\ngenshin impact generator without verification\nGenshin Impact Free Crystals Generator No Survey\ngenshin impact generator wish\ngenshin impact generator name\nlegit primogems generator\ngenshin impact generator no verification\nfree primogems genshin impact generator\nfree primogems genshin impact generator no human verification\nintertwined fate genshin impact generator\ngenshin impact outfit generator\ngenshin impact character generator\ngenshin impact avatar maker\ngenshin impact primogems generator no human verification pc\ngenshin impact verification codes\ngenshin impact not getting verification code\nfree primogems genshin impact generator no human verification\ngenshin impact obtaining characters\ngenshin impact names generator\ngenshin impact free codes",
+    "doi": "10.17632/tcnz9k2csp.1",
+    "identifier": "tcnz9k2csp",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:53.897229"
+    },
+    "keywords": [
+        "Gambia"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Genshin Impact Generator Primogems & Crystals No Human Verification",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "species": [
+        {
+            "alternateName": [
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapian",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapients",
+                "Homo spaiens",
+                "Homo spiens",
+                "Human",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sapiense",
+                "human"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2024-08-15",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "fromEXTRACT": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "human",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3053",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genetics",
+            "url": "http://edamontology.org/topic_3053"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/tcnz9k2csp"
+}

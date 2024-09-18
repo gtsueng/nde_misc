@@ -1,0 +1,45 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dataverse_10.7910_dvn_racydd",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 46.720825,
+    "author": [
+        {
+            "name": "Crusher, Lance"
+        }
+    ],
+    "date": "2020-06-26",
+    "dateModified": "2020-06-26",
+    "datePublished": "2020-06-20",
+    "description": "Do you want a Lifeboost Coffee coupon code to enjoy huge discount? Well, Lifeboost Coffee is the energy drink that has lot of benefits. You can use it to boost metabolism, weight loss, mental health and tp increase your energy level. Most important thing, Lifeboost Coffee has no side effect no matter what many time you drink. It is made up from 100% organic ingredients sourced from within authentic coffee farmers.  If you want to purchase Lifeboost Coffee online; then you should think about coupons. Redeeming your Lifeboost Coffee discount is so simple as 1-2-3. Please follow below links to claim your Life boost Coffee promo code now!  Here You Go: https://helpineedhelp.com/lifeboost-coffee-discount-coupon/  This is the website that found on web that claims to provide some incredible saving opportunity. Hope you will find your working lifeboost coupons over there! Let me know how much discount did you got?",
+    "distribution": [
+        {
+            "@id": "10.7910/DVN/RACYDD/L7KZKX",
+            "@type": "DataDownload",
+            "contentUrl": "https://doi.org/10.7910/DVN/RACYDD/L7KZKX",
+            "encodingFormat": "text/tab-separated-values",
+            "name": "Hospitals_by_Province.tab"
+        }
+    ],
+    "doi": "https://doi.org/10.7910/DVN/RACYDD",
+    "identifier": "10.7910/DVN/RACYDD",
+    "includedInDataCatalog": {
+        "@type": "dataset",
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/",
+        "versionDate": "2024-08-17"
+    },
+    "keywords": "Medicine, Health and Life Sciences",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "name": "Lifeboost Coffee Discount Code: Where to Buy cheap?",
+    "sdPublisher": [
+        {
+            "@type": "Organization",
+            "name": "Harvard Dataverse"
+        }
+    ],
+    "url": "https://doi.org/10.7910/DVN/RACYDD"
+}

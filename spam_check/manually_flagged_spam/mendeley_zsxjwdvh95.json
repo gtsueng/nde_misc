@@ -1,0 +1,42 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_zsxjwdvh95",
+    "_score": 35.75046,
+    "author": [
+        {
+            "familyName": "Ghandour Geris",
+            "givenName": "Osama",
+            "name": "Osama Ghandour Geris"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "dataset",
+            "url": "https://www.kaggle.com/datasets/komlamanasseh/bellabeat-external-data-from-fitbit-fitness"
+        },
+        {
+            "@type": "software",
+            "url": "http://softelevator.eb2a.com/?i=1"
+        }
+    ],
+    "date": "2024-01-29",
+    "dateModified": "2024-01-27",
+    "datePublished": "2024-01-29",
+    "description": "burn fat for healthy life",
+    "doi": "10.17632/zsxjwdvh95.1",
+    "identifier": "zsxjwdvh95",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:05.523877"
+    },
+    "keywords": [
+        "Health Promotion and Health Maintenance"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "burn fat",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/zsxjwdvh95"
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10560895",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.839045,
+    "author": [
+        {
+            "name": "Keto FX Gummies"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-01-24",
+    "dateModified": "2024-01-24",
+    "datePublished": "2024-01-24T00:00:00",
+    "description": "Keto FX Gummies Sverige Recensioner - Att vara \u00f6verviktig \u00e4r ett allvarligt problem. Det kan leda till m\u00e5nga h\u00e4lsoproblem, s\u00e5som hj\u00e4rtinfarkt, hj\u00e4rtsjukdomar, ledv\u00e4rk, h\u00f6gre risk f\u00f6r diabetes, ledv\u00e4rk och andra l\u00e5ngvariga sjukdomar.\n\nklicka h\u00e4r f\u00f6r att k\u00f6pa nu fr\u00e5n Keto FX Gummies officiella webbplats",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10560896/files-archive",
+            "dateModified": "2024-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.10560895",
+    "identifier": "zenodo.10560895",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Keto FX Gummies Sverige Recensioner: Keto FX Gummies Bluff Pris k\u00f6pa",
+    "sameAs": [
+        "https://zenodo.org/records/10560896"
+    ],
+    "url": "https://zenodo.org/record/10560895"
+}

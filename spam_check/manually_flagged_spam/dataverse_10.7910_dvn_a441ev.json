@@ -1,0 +1,45 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dataverse_10.7910_dvn_a441ev",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 49.072712,
+    "author": [
+        {
+            "name": "Minna, Kgoal"
+        }
+    ],
+    "date": "2020-06-12",
+    "dateModified": "2020-06-12",
+    "datePublished": "2020-05-23",
+    "description": "Kgoal promo code and Minna Life coupon code is available here! kGoal is the smart kegel trainer that helps to optimize your kegel exercise. It comes with guide for your workout, training process and additional resources. Minna life provides 2 year warranty and best price match guarantee! You should buy Kgoal from official site only to receive free shipping and other benefits.  For a limited time only, enjoy 30% discount on Minna life kegel trainer. Please visit this page to claim your kGoal coupon with just one click!",
+    "distribution": [
+        {
+            "@id": "10.7910/DVN/A441EV/8OSPK9",
+            "@type": "DataDownload",
+            "contentUrl": "https://doi.org/10.7910/DVN/A441EV/8OSPK9",
+            "encodingFormat": "text/tab-separated-values",
+            "name": "Hospitals_by_Province.tab"
+        }
+    ],
+    "doi": "https://doi.org/10.7910/DVN/A441EV",
+    "identifier": "10.7910/DVN/A441EV",
+    "includedInDataCatalog": {
+        "@type": "dataset",
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/",
+        "versionDate": "2024-08-17"
+    },
+    "keywords": "Medicine, Health and Life Sciences",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "name": "Kgoal Coupon Code + Minna Life Reviews",
+    "sdPublisher": [
+        {
+            "@type": "Organization",
+            "name": "Harvard Dataverse"
+        }
+    ],
+    "url": "https://doi.org/10.7910/DVN/A441EV"
+}

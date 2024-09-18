@@ -1,0 +1,45 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dataverse_10.7910_dvn_kcruo1",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 49.072712,
+    "author": [
+        {
+            "name": "Wills, Scalpa"
+        }
+    ],
+    "date": "2020-06-17",
+    "dateModified": "2020-06-17",
+    "datePublished": "2020-06-13",
+    "description": "Do you want a coupon code for Scalpa Shop? Enjoy whopping 40% discount on your entire order at Scalpa Shop! Basically, Scalpa is an online store that features wide selection of high quality products and training courses for aesthetic procedures. If you are looking to purchase microblading pigments, pigmentation pens, supplies and training online; then there is nothing better place than the Scalpa-Shop.  In order to get discount at Scalpa Shop, you don't need any promo code! Just click this link to apply your coupon code automatically at Scalpa Shop!Hope that helps!",
+    "distribution": [
+        {
+            "@id": "10.7910/DVN/KCRUO1/TYDCSZ",
+            "@type": "DataDownload",
+            "contentUrl": "https://doi.org/10.7910/DVN/KCRUO1/TYDCSZ",
+            "encodingFormat": "text/tab-separated-values",
+            "name": "Hospitals_by_Province.tab"
+        }
+    ],
+    "doi": "https://doi.org/10.7910/DVN/KCRUO1",
+    "identifier": "10.7910/DVN/KCRUO1",
+    "includedInDataCatalog": {
+        "@type": "dataset",
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/",
+        "versionDate": "2024-08-17"
+    },
+    "keywords": "Medicine, Health and Life Sciences",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "name": "Awesome Scalpa Shop Coupon Code with Reviews",
+    "sdPublisher": [
+        {
+            "@type": "Organization",
+            "name": "Harvard Dataverse"
+        }
+    ],
+    "url": "https://doi.org/10.7910/DVN/KCRUO1"
+}

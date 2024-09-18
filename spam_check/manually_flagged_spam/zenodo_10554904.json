@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10554904",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 22.836363,
+    "author": [
+        {
+            "name": "Keto Plus Gummies"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-01-23",
+    "dateModified": "2024-01-23",
+    "datePublished": "2024-01-23T00:00:00",
+    "description": "Keto Plus Gummies Sverige Recensioner - Att vara \u00f6verviktig \u00e4r ett allvarligt problem. Det kan leda till m\u00e5nga h\u00e4lsoproblem, s\u00e5som hj\u00e4rtinfarkt, hj\u00e4rtsjukdomar, ledv\u00e4rk, h\u00f6gre risk f\u00f6r diabetes, ledv\u00e4rk och andra l\u00e5ngvariga sjukdomar.\n\nklicka h\u00e4r f\u00f6r att k\u00f6pa nu fr\u00e5n den officiella webbplatsen f\u00f6r Keto Plus Gummies",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10554905/files-archive",
+            "dateModified": "2024-01-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.10554904",
+    "identifier": "zenodo.10554904",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Keto Plus Gummies Sverige Recensioner: Keto Plus Gummies Bluff Pris k\u00f6pa",
+    "sameAs": [
+        "https://zenodo.org/records/10554905"
+    ],
+    "url": "https://zenodo.org/record/10554904"
+}
