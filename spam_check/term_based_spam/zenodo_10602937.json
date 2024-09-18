@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10602937",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.952598,
+    "author": [
+        {
+            "name": "GlucoSlimGummies"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-01",
+    "dateModified": "2024-02-01",
+    "datePublished": "2024-02-01T00:00:00",
+    "description": "[Deutschland] GlucoSlim Gummies Erfahrungen Glucoslim ist ein Nahrungserg\u00e4nzungsmittel, das durch eine einzigartige Mischung nat\u00fcrlicher Inhaltsstoffe Gesundheit und Wohlbefinden f\u00f6rdert. Es ist in erster Linie darauf ausgelegt, einen gesunden Blutzuckerspiegel zu unterst\u00fctzen, das Gewicht zu kontrollieren und die allgemeine Stoffwechselgesundheit zu verbessern. Das Nahrungserg\u00e4nzungsmittel ist in verschiedenen Formen erh\u00e4ltlich, darunter Kapseln, Tabletten und Pulver, sodass es f\u00fcr Benutzer bequem in ihre t\u00e4gliche Routine integriert werden kann.\n\nClick here to buy now from official website of GlucoSlim Gummies",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10602938/files-archive",
+            "dateModified": "2024-02-01"
+        }
+    ],
+    "doi": "10.5281/zenodo.10602937",
+    "identifier": "zenodo.10602937",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "[Deutschland] GlucoSlim Gummies Erfahrungen & Bewertungen Preis, Kaufen Sie mit Rabatt",
+    "sameAs": [
+        "https://zenodo.org/records/10602938"
+    ],
+    "url": "https://zenodo.org/record/10602937"
+}

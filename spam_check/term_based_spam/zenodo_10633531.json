@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10633531",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.199464,
+    "author": [
+        {
+            "name": "PuravivePills"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-08",
+    "dateModified": "2024-02-08",
+    "datePublished": "2024-02-08T00:00:00",
+    "description": "Puravive Pills Reviews: Puravive is a natural beacon of hope for those on a weight loss journey. It sets itself apart by offering a unique, pure, and natural composition. Its proprietary blend comprises eight powerful tropical nutrients and plant-based compounds, all with clinically proven abilities to enhance brown fat levels, a key component in weight loss.\n\nClick here to buy now from official website of Puravive Pills",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10633532/files-archive",
+            "dateModified": "2024-02-08"
+        }
+    ],
+    "doi": "10.5281/zenodo.10633531",
+    "identifier": "zenodo.10633531",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Puravive Pills Reviews \u2014 How it Work USA Price Dose and Intake, Where To Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10633532"
+    ],
+    "url": "https://zenodo.org/record/10633531"
+}

@@ -1,0 +1,81 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dataverse_10.7910_dvn_lfzevi",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 21.871601,
+    "author": [
+        {
+            "name": "Wells, Jaye"
+        }
+    ],
+    "date": "2020-03-17",
+    "dateModified": "2020-03-17",
+    "datePublished": "2020-03-11",
+    "description": "Here is the latest discount code for Power Suggest Pro. With the help of it, you can easily save up to 30% off. Power Suggest Pro is your ultimate market research tool to find the best keyword for your business. Get the edge by finding low competition long tail keywords that are easy to rank and bank. Why should you spend huge on hiring SEO agency; when you can find untapped niches yourself efforlessly. Please follow this link to use our coupons and get huge discount on PowerSuggestPro software!",
+    "distribution": [
+        {
+            "@id": "10.7910/DVN/LFZEVI/GA5JTS",
+            "@type": "DataDownload",
+            "contentUrl": "https://doi.org/10.7910/DVN/LFZEVI/GA5JTS",
+            "description": "New York City Gentrification Data",
+            "encodingFormat": "text/tab-separated-values",
+            "name": "Data_NYC_Gentrification_2000_16.tab"
+        }
+    ],
+    "doi": "https://doi.org/10.7910/DVN/LFZEVI",
+    "identifier": "10.7910/DVN/LFZEVI",
+    "includedInDataCatalog": {
+        "@type": "dataset",
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/",
+        "versionDate": "2024-08-17"
+    },
+    "keywords": "Social Sciences",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "name": "Replication Data for: Power Suggest Pro Coupon Code",
+    "sdPublisher": [
+        {
+            "@type": "Organization",
+            "name": "Harvard Dataverse"
+        }
+    ],
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://doi.org/10.7910/DVN/LFZEVI"
+}

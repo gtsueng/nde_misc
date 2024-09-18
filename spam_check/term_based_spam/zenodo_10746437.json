@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10746437",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.288501,
+    "author": [
+        {
+            "name": "Fitspresso"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-03-02",
+    "dateModified": "2024-03-02",
+    "datePublished": "2024-03-02T00:00:00",
+    "description": "[ALERT] Fitspresso U Reviews & Benefits FitSpresso Tablet represents a convergence of fitness, wellness, and technology in a sleek and portable device. It is designed to serve as a comprehensive companion for individuals striving to lead healthier lifestyles, offering a myriad of features and functionalities tailored to meet diverse needs and preferences.\n\nClick Here To Buy Now From Official Website Of Fitspresso",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10746438/files-archive",
+            "dateModified": "2024-03-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.10746437",
+    "identifier": "zenodo.10746437",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Fitspresso US Honest Reviews - It's Advantages & Benefits Official Price, Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10746438"
+    ],
+    "url": "https://zenodo.org/record/10746437"
+}

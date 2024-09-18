@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10617699",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.199464,
+    "author": [
+        {
+            "name": "Puravive"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-05",
+    "dateModified": "2024-02-05",
+    "datePublished": "2024-02-05T00:00:00",
+    "description": "{Exposed} Puravive Australia Reviews Puravive is not just another weight loss supplement on the market; it stands apart as a pioneering product in its niche, promising health enthusiasts a solution as pure as nature intended. Puravive\u2019s unique formulation, a culmination of nature\u2019s most potent tropical nutrients and plant-based compounds, is what sets it apart from its competitors.\n\nClick Here To Buy Now From Official Website Of Puravive",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10617700/files-archive",
+            "dateModified": "2024-02-05"
+        }
+    ],
+    "doi": "10.5281/zenodo.10617699",
+    "identifier": "zenodo.10617699",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "{Exposed} Puravive Australia Reviews & Experiences \u2014 Fake or Legit? Price, Buy At Discount",
+    "sameAs": [
+        "https://zenodo.org/records/10617700"
+    ],
+    "url": "https://zenodo.org/record/10617699"
+}

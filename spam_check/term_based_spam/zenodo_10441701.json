@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10441701",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.199464,
+    "author": [
+        {
+            "name": "Dreo Space Heater"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-12-29",
+    "dateModified": "2023-12-29",
+    "datePublished": "2023-12-29T00:00:00",
+    "description": "Dreo Space Heater Manual Reviews USA: Dreo Space heaters for indoor use, Fast Heating Ceramic Electric & Portable Heaters with Thermostat, Oscillation, Overheat Protection, for Indoor. Experience Cozy Warmth Anywhere: Dreo Space Heaters provide efficient 70\u00b0 wide-angle heating, enveloping your room in warmth from all directions. Perfect for large rooms like offices, bedrooms, and living rooms.\n\nClick Here To Buy Now From Official Website Of Dreo Space Heater",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10441702/files-archive",
+            "dateModified": "2023-12-29"
+        }
+    ],
+    "doi": "10.5281/zenodo.10441701",
+    "identifier": "zenodo.10441701",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Dreo Space Heater Manual Reviews USA: Portable Dreo Space Heater Price and Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10441702"
+    ],
+    "url": "https://zenodo.org/record/10441701"
+}

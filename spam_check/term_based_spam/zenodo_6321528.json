@@ -1,0 +1,86 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_6321528",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 12.478361,
+    "author": [
+        {
+            "identifier": "0000-0001-7011-0983",
+            "name": "Sharma, Maryada"
+        },
+        {
+            "name": "Vanam, Hari Pankaj"
+        },
+        {
+            "name": "Panda, Naresh K"
+        },
+        {
+            "name": "Patro, Sourabha K"
+        },
+        {
+            "name": "Arora, Rhythm"
+        },
+        {
+            "name": "Bhadada, Sanjay K"
+        },
+        {
+            "name": "Rudramurthy, Sivaprakash M"
+        },
+        {
+            "name": "Singh, Mini P"
+        },
+        {
+            "affiliation": {
+                "name": "Regeneron Pharmaceuticals Inc"
+            },
+            "identifier": "0000-0002-0173-2540",
+            "name": "Koppula, Purushotham Reddy"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-05-11",
+    "dateModified": "2022-05-11",
+    "datePublished": "2022-03-02T00:00:00",
+    "description": "Raw data files of transcriptomic profiling experiments, which form the basis for our publication (https://www.mdpi.com/2673-4540/3/1/13).",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/6321529/files-archive",
+            "dateModified": "2022-05-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.6321528",
+    "identifier": "zenodo.6321528",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "COVID-19; SARS-CoV-2; ACE2; TMPRSS2; Anosmia; Mucormycosis; COVID-associated mucormycosis (CAM); Mucins; Diabetic Keto Acidosis (DKA); Metabolic-Stress-Associated Interactome (MSAI); olfactory neurovascular niche; serine proteases; ferroptosis; redox-iron stress",
+        "Transcriptomic profiling, Protease stressors, in vitro virus-free COVID-19 disease modelling, olfactory transduction"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Deciphering the Neurosensory Olfactory Pathway and  Associated Neo-Immunometabolic Vulnerabilities Implicated in COVID-Associated Mucormycosis (CAM) and COVID-19 in a Diabetes Backdrop\u2014A Novel Perspective",
+    "sameAs": [
+        "https://zenodo.org/records/6321529"
+    ],
+    "sdPublisher": [
+        {
+            "name": "covid-19",
+            "url": "https://zenodo.org/communities/covid-19"
+        }
+    ],
+    "url": "https://zenodo.org/record/6321528"
+}

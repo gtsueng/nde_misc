@@ -1,0 +1,81 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dataverse_10.7910_dvn_2taguy",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 19.642916,
+    "author": [
+        {
+            "name": "China, 2020"
+        }
+    ],
+    "date": "2021-04-01",
+    "dateModified": "2021-04-01",
+    "datePublished": "2020-03-01",
+    "description": "Do you want to buy Julva cream at discount price? You should try this dr anna cabeca coupon code to enjoy up to 30% off. The Julva is the best product to rejuvinate your vulva in natural way. The Mighty Maca is another great product for Dr Anna cabeca. It is green superfood drink. You should buy a combo of Julva and Mighty maca plus for huge saving.   Do you know that Julva is one of the top selling women's vaginal cream. Fortunately, you can now get a tube of Julva for completely FREE. You just have to pay nominal shipping fee. Please visit below links to claim your Julva Coupons before it gone forever!   Please visit this link to apply your promo code!   Alternatively, you can also check this page to claim free trial of Julva!  Last Updated Today Only!!",
+    "distribution": [
+        {
+            "@id": "10.7910/DVN/2TAGUY/OAJ2YP",
+            "@type": "DataDownload",
+            "contentUrl": "https://doi.org/10.7910/DVN/2TAGUY/OAJ2YP",
+            "description": "Total number of hospitals in china for select province level.",
+            "encodingFormat": "text/tab-separated-values",
+            "name": "Hospitals_by_Province.tab"
+        }
+    ],
+    "doi": "https://doi.org/10.7910/DVN/2TAGUY",
+    "identifier": "10.7910/DVN/2TAGUY",
+    "includedInDataCatalog": {
+        "@type": "dataset",
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/",
+        "versionDate": "2024-08-17"
+    },
+    "keywords": "Medicine, Health and Life Sciences",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "name": "Data of Julva Discount Coupon for Dr Anna cabeca [Free Trial]",
+    "sdPublisher": [
+        {
+            "@type": "Organization",
+            "name": "Harvard Dataverse"
+        }
+    ],
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0202",
+            "inDefinedTermSet": "EDAM",
+            "name": "Pharmacology",
+            "url": "http://edamontology.org/topic_0202"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3390",
+            "inDefinedTermSet": "EDAM",
+            "name": "Nutritional science",
+            "url": "http://edamontology.org/topic_3390"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3411",
+            "inDefinedTermSet": "EDAM",
+            "name": "Gynaecology and obstetrics",
+            "url": "http://edamontology.org/topic_3411"
+        }
+    ],
+    "url": "https://doi.org/10.7910/DVN/2TAGUY"
+}

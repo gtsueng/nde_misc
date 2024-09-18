@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10639847",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 12.104551,
+    "author": [
+        {
+            "name": "Style Capsules"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-09",
+    "dateModified": "2024-02-09",
+    "datePublished": "2024-02-09T00:00:00",
+    "description": "Style Capsules UK Reviews If you want to hit a healthy weight this year, you need to start using the best ketones supplement which will help you lose weight safe and effectively. Try Style Capsules to enhance your look effortlessly and with remarkable results.\n\nUnderstanding the importance of a pleasing appearance and a healthy physique in various aspects of life, such as business, presentations, and the workplace, instills a greater sense of confidence in one's capabilities. Projecting a positive image contributes to a more favorable impression. In today's society, there is a widespread emphasis on the desire to appear healthy and fit, making fitness a societal standard. Introducing the revolutionary Style Capsules dietary supplement, backed by scientific evidence for its success, and now accessible to individuals seeking a natural approach to weight loss without compromising their well-being! Beyond its dedicated weight loss support, the innovative Style capsule, enriched with natural ingredients, contributes to enhancing overall health, steering clear of the unwanted side effects often associated with traditional slimming pills. (EXCLUSIVE OFFER) Click Here to Order Style Capsules for Weight Loss For The Lowest Price Online \u00a0\u00a0\n\nClick Here To Buy Now From Official Website of \u00a0Style Capsules",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10639848/files-archive",
+            "dateModified": "2024-02-09"
+        }
+    ],
+    "doi": "10.5281/zenodo.10639847",
+    "identifier": "zenodo.10639847",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Style Capsules UK Reviews - It's Benefits & Advantages Price [50% Discount] Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10639848"
+    ],
+    "url": "https://zenodo.org/record/10639847"
+}

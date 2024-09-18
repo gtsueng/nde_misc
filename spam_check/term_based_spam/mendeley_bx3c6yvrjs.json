@@ -1,0 +1,80 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_bx3c6yvrjs",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 23.13688,
+    "author": [
+        {
+            "familyName": "Nancy",
+            "givenName": "Nancy Diaz",
+            "name": "Nancy Diaz Nancy"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "article",
+            "url": "https://www.wethrift.com/macys"
+        },
+        {
+            "@type": "article",
+            "url": "https://www.wethrift.com/macys"
+        }
+    ],
+    "date": "2020-11-20",
+    "dateModified": "2020-11-18",
+    "datePublished": "2020-11-20",
+    "description": "Wethrift helps shoppers save millions of dollars every month at over 100,000 online stores.\n\nWe help people save money when they shop online by finding and sharing the best coupons and promo codes, including many discounts that you won't find anywhere else. More than 3,000,000 shoppers have discovered new ways to save money at over 100,000 stores in the last month",
+    "doi": "10.17632/bx3c6yvrjs.1",
+    "identifier": "bx3c6yvrjs",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:03.317029"
+    },
+    "keywords": [
+        "Coupon Testing"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "macys coupon code",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3316",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computer science",
+            "url": "http://edamontology.org/topic_3316"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0605",
+            "inDefinedTermSet": "EDAM",
+            "name": "Informatics",
+            "url": "http://edamontology.org/topic_0605"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/bx3c6yvrjs"
+}

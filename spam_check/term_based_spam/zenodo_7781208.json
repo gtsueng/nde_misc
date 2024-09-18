@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7781208",
+    "_score": 14.737771,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Nottingham Trent University"
+            },
+            "identifier": "0000-0002-5406-7927",
+            "name": "Addicoat, Matthew A."
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-05-01",
+    "dateModified": "2024-05-01",
+    "datePublished": "2024-04-18T00:00:00",
+    "description": "Logfiles for curcumin.nH2O and Curcumin.nCH3OH in keto, enol forms and the transition states between them.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10991448/files-archive",
+            "dateModified": "2024-05-01"
+        },
+        {
+            "contentUrl": "https://zenodo.org/api/records/7781209/files-archive",
+            "dateModified": "2024-05-01"
+        }
+    ],
+    "doi": "10.5281/zenodo.7781208",
+    "identifier": "zenodo.7781208",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Keto-Enol Tautomerization of the Medicinal Pigment Curcumin",
+    "sameAs": [
+        "https://zenodo.org/records/10991448",
+        "https://zenodo.org/records/7781209"
+    ],
+    "url": "https://zenodo.org/record/7781208"
+}

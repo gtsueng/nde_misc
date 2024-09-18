@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_11620165",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.157157,
+    "author": [
+        {
+            "name": "NexaSlim UK"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-06-12",
+    "dateModified": "2024-06-12",
+    "datePublished": "2024-06-12T00:00:00",
+    "description": "NexaSlim UK\u00a0is a groundbreaking supplement formulated to support healthy weight management and promote fat loss. Crafted with a blend of natural ingredients backed by scientific research, NexaSlim offers a comprehensive solution for individuals seeking to achieve their weight loss goals effectively and safely.\n\n\u00a0\n\n\u00a0NexaSlim BHB Keto 800mg Capsules \u27be\u27be Special Offers in UK, United Kingdom Australia, New Zealand, Canada, South Africa, India & Ireland\u00a0\u00a0\n\n\nIngredients:\n\nNexaSlim UK\u00a0combines potent ingredients known for their ability to support fat burning, boost metabolism, and suppress appetite. These ingredients include:\n\n\n\nGarcinia Cambogia Extract: Derived from the Garcinia fruit, this ingredient contains hydroxycitric acid (HCA), which is believed to inhibit the enzyme responsible for converting carbohydrates into fat, thus promoting fat burning and weight loss.\n\nGreen Tea Extract: Rich in antioxidants and catechins, green tea extract has been shown to boost metabolism and increase fat oxidation, leading to enhanced\u00a0weight loss.\n\nRaspberry Ketones: Raspberry ketones are compounds found in raspberries that have been linked to increased fat breakdown and improved weight loss.\n\nGreen Coffee Bean Extract: Green coffee beans are high in chlorogenic acid, which may help regulate blood sugar levels, reduce fat absorption, and promote weight loss.\n\nForskolin Extract: Forskolin is extracted from the roots of the Coleus forskohlii plant and has been shown to stimulate the production of cyclic AMP (cAMP), which can help regulate metabolism and promote fat loss.\n\nApple Cider Vinegar: Apple cider vinegar has been touted for its potential to aid weight loss by promoting feelings of fullness, reducing appetite, and improving insulin sensitivity.\n\nCayenne Pepper Extract: Cayenne pepper contains capsaicin, a compound that may increase metabolism and promote fat burning by raising body temperature and promoting thermogenesis.\n\n\n\n\u00a0\n\n\u00a0NexaSlim BHB Keto 800mg Capsules \u27be\u27be Special Offers in UK, United Kingdom Australia, New Zealand, Canada, South Africa, India & Ireland\u00a0\n\n\u00a0\n\nBenefits:\n\nNexaSlim UK\u00a0offers a range of benefits to support individuals in their weight loss journey:\n\n\n\nFat Burning: The ingredients in NexaSlim help stimulate fat metabolism and promote the breakdown of stored fat, leading to enhanced weight loss.\n\nIncreased Metabolism: By boosting metabolism, NexaSlim helps the body burn calories more efficiently, even at rest, facilitating weight loss.\n\nAppetite Suppression: NexaSlim helps curb cravings and suppress appetite, making it easier to stick to a calorie-controlled diet and reduce overall food intake.\n\nEnhanced Energy: Some ingredients in NexaSlim may help increase energy levels, allowing individuals to feel more energized and motivated to engage in physical activity.\n\nImproved Mood: Weight loss can often be accompanied by mood swings and irritability, but NexaSlim contains ingredients that may help promote a positive mood and reduce stress.\n\n\nUses and Expected Results:\n\nTo experience the full benefits of\u00a0NexaSlim UK, it is recommended to take the supplement as directed consistently. While individual\u00a0results\u00a0may vary, many users may start noticing improvements in weight loss, energy levels, and appetite control within a few weeks of regular\u00a0use. Continued\u00a0use\u00a0of NexaSlim, along with a healthy diet and exercise regimen, can lead to long-term weight management and improved overall health.\n\n\n\u00a0\n\n\u00a0NexaSlim BHB Keto 800mg Capsules \u27be\u27be Special Offers in UK, United Kingdom Australia, New Zealand, Canada, South Africa, India & Ireland\u00a0\n\n\u00a0\n\nWhere to Buy:\n\nNexaSlim UK\u00a0is available for purchase online through the\u00a0official website. Buying directly from the official website ensures that you receive a genuine product and may offer special discounts or promotions. Additionally, purchasing from the official website guarantees secure transactions and access to customer support.\n\nIn conclusion,\u00a0NexaSlim UK\u00a0provides a natural and effective solution for individuals looking to achieve their weight loss goals. With its potent blend of scientifically backed ingredients, NexaSlim supports fat burning, metabolism, appetite control, and energy levels, making it easier for users to reach and maintain a healthy weight. To kickstart your\u00a0weight loss\u00a0journey and achieve lasting results, consider trying\u00a0NexaSlim UK\u00a0today.\n\n\n\n\n\n\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/11620166/files-archive",
+            "dateModified": "2024-06-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.11620165",
+    "identifier": "zenodo.11620165",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "NexaSlim BHB Keto 800mg Capsules: Your Path to Effective Weight Loss",
+    "sameAs": [
+        "https://zenodo.org/records/11620166"
+    ],
+    "url": "https://zenodo.org/record/11620165"
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_12568138",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.842123,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Oxford"
+            },
+            "identifier": "0000-0002-5790-2625",
+            "name": "Alekou, Androula"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-06-27",
+    "dateModified": "2024-06-27",
+    "datePublished": "2024-06-27T00:00:00",
+    "description": "BUY NOW -\n\nhttps://www.facebook.com/SmartHempGummiesDischem/\n\n\u00a0\n\nSmart Hemp Gummies Dischem-\n\nSmart Hemp Gummies Dischem\u00a0Reviews come in two qualities - 10 milligrams (mg) and 25 mg - so you can pick the strength that is appropriate for you.\n\n\n\nOfficial Facebook page -\u00a0https://www.facebook.com/SmartHempGummiesDischem/\u00a0\n\n\u00a0\n\nFacebook pages:-\n\nhttps://www.facebook.com/SmartHempGummiesDischem/\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\nhttps://www.facebook.com/people/MANUP-Gummies-NZ/61561367041809/\n\nhttps://www.facebook.com/MANUP.Gummies.Australia.AU\n\nhttps://www.facebook.com/events/752659086800480\n\nhttps://www.facebook.com/people/MANUP-Gummies-NZ/61561367041809/\n\nhttps://www.facebook.com/SmartHempGummiesDischem/\u00a0\n\n\n\nRead More:\n\nhttps://www.facebook.com/SmartHempGummiesDischem/\u00a0\n\nhttps://groups.google.com/g/smarthempischem/c/g64wZ3RkRMw\n\nhttps://www.facebook.com/people/MANUP-Gummies-NZ/61561367041809/\n\nhttps://youtu.be/yIaUCEr_xgQ\n\nhttps://manup-gummies-nz-1.jimdosite.com/\n\nhttps://manupgummiesnz.company.site/\n\nhttps://manup-gummies-nz-b6339d.webflow.io/\n\nhttps://infogram.com/manup-gummies-nz-1h9j6q707elv54g\n\nhttps://medium.com/@maleboosterr/7-health-benefits-of-using-manup-gummies-nz-male-booster-gummies-43f8cd24a6b6\n\nhttps://www.facebook.com/people/MANUP-Gummies-NZ/61561367041809/\n\nhttps://crypto.jobs/events/https-www-facebook-com-people-manup-gummies-nz-61561367041809\n\nhttps://veelo-slim-south-africa.jimdosite.com/\n\nhttps://crypto.jobs/events/veelo-slim-south-africa",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/12568139/files-archive",
+            "dateModified": "2024-06-27"
+        }
+    ],
+    "doi": "10.5281/zenodo.12568138",
+    "identifier": "zenodo.12568138",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "https://www.facebook.com/SmartHempGummiesDischem/",
+    "sameAs": [
+        "https://zenodo.org/records/12568139"
+    ],
+    "url": "https://zenodo.org/record/12568138"
+}

@@ -1,0 +1,46 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dataverse_10.7910_dvn_lfskk7",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 28.046125,
+    "author": [
+        {
+            "name": "belushi, andy"
+        }
+    ],
+    "date": "2020-09-28",
+    "dateModified": "2020-09-28",
+    "datePublished": "2020-04-16",
+    "description": "Buy Spyrix Personal Monitor with our coupon code to get huge discount. Spyrix is the best keylogger software. You can use this personal monitor as parental control of your child's activities.    Try SPRIX25PROMO to Order Spyrix Personal Monitor at 50% OFF, Click Here!   Spyrix.com is available for both Android and iOS device. Furthermore; the software is 100% risk-free and easy to utilize. If you want to spy on another PC without leaving your footprint; then you must try this keylogger tool. This simple program records the user activities and keep sending you update of targeted PC or mobile.   If you are a new user; then you should follow this link to receive up to 50% discount on Spyrix. You get instant download; once you complete the order. They provide 100% satisfaction Guarantee. Ask for refund, if you are not happy with their spy tool.   PS: Spyrix Personal Monitor coupon code is available for our exclusive readers only. It comes with some restriction and expiry, so please check your voucher before using it.",
+    "distribution": [
+        {
+            "@id": "10.7910/DVN/LFSKK7/EMOCD0",
+            "@type": "DataDownload",
+            "contentUrl": "https://doi.org/10.7910/DVN/LFSKK7/EMOCD0",
+            "description": "Ontology for Shop floor",
+            "encodingFormat": "application/octet-stream",
+            "name": "ontology-shop-floor.owl"
+        }
+    ],
+    "doi": "https://doi.org/10.7910/DVN/LFSKK7",
+    "identifier": "10.7910/DVN/LFSKK7",
+    "includedInDataCatalog": {
+        "@type": "dataset",
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/",
+        "versionDate": "2024-08-17"
+    },
+    "keywords": "Computer and Information Science",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "name": "Verified Spyrix Personal Monitor Coupon Code for 65% OFF",
+    "sdPublisher": [
+        {
+            "@type": "Organization",
+            "name": "Harvard Dataverse"
+        }
+    ],
+    "url": "https://doi.org/10.7910/DVN/LFSKK7"
+}

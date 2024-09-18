@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10448275",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.288501,
+    "author": [
+        {
+            "name": "TrumpBadges"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-01-01",
+    "dateModified": "2024-01-01",
+    "datePublished": "2024-01-01T00:00:00",
+    "description": "Trump Badges Reviews - \u00a0The Trump Trading Cards are souvenir cards that allow you to celebrate the career and life of President Donald Trump. Each Physical Trump Card has a unique identifier that can't be copied. The digital cards are recorded on the blockchain, allowing for verification of ownership and authenticity.\n\nClick here to buy now from official website of Trump Badges",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10448276/files-archive",
+            "dateModified": "2024-01-01"
+        }
+    ],
+    "doi": "10.5281/zenodo.10448275",
+    "identifier": "zenodo.10448275",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Trump Badges Reviews - Donald Trump Badges Official Price, Buy 2024",
+    "sameAs": [
+        "https://zenodo.org/records/10448276"
+    ],
+    "url": "https://zenodo.org/record/10448275"
+}

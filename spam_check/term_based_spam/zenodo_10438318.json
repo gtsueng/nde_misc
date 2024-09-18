@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10438318",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.161732,
+    "author": [
+        {
+            "name": "TrumpTrading"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-12-28",
+    "dateModified": "2023-12-28",
+    "datePublished": "2023-12-28T00:00:00",
+    "description": "Trump Trading Cards Reviews Many individuals view the 2020 presidential election as a historic event. Nearly 74 million Americans felt dissatisfied and devastated as they witnessed former President Donald Trump say farewell to the White House. This transition was an awkward moment for many, and a majority of Americans expressed their unhappiness with the decision.\n\nClick here to buy now from official website of Trump Trading",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10438319/files-archive",
+            "dateModified": "2023-12-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.10438318",
+    "identifier": "zenodo.10438318",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Trump Trading Cards Reviews 2024 New Trump Degital Trading Cards Buy, Price",
+    "sameAs": [
+        "https://zenodo.org/records/10438319"
+    ],
+    "url": "https://zenodo.org/record/10438318"
+}

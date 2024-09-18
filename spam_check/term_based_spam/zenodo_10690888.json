@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10690888",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.4555,
+    "author": [
+        {
+            "name": "FitspressoCanada"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-22",
+    "dateModified": "2024-02-22",
+    "datePublished": "2024-02-22T00:00:00",
+    "description": "Fitspresso Canada Reviews FitSpresso is a natural health supplement created to promote healthy fat loss in your body. The creator of the formula claims that it is a proprietary blend of highly potent ingredients that acts in perfect synergy with factors that induce weight loss in a person\u2019s body.\n\nClick here to buy now from official website of Fitspresso Canada",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10690889/files-archive",
+            "dateModified": "2024-02-22"
+        }
+    ],
+    "doi": "10.5281/zenodo.10690888",
+    "identifier": "zenodo.10690888",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Fitspresso Canada Reviews - It's Benefits Dose & Intake Official Price, Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10690889"
+    ],
+    "url": "https://zenodo.org/record/10690888"
+}

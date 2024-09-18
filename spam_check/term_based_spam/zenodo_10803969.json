@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10803969",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.952598,
+    "author": [
+        {
+            "name": "Fungus Exodus"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-03-11",
+    "dateModified": "2024-03-11",
+    "datePublished": "2024-03-11T00:00:00",
+    "description": "Fungus Exodus Reviews US Advantages Topical treatments are one of the most common methods of treating a toenail fungus infection. These infections can be challenging to control, and a topical remedy may not address the root of the issues. Multiple studies show that using the right ingredients in a supplement can target fungus infections from within. That\u2019s where Fungus Exodus sets itself apart.\n\nClick Here To Buy Now From Official website Of Fungus Exodus",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10803970/files-archive",
+            "dateModified": "2024-03-11"
+        }
+    ],
+    "doi": "10.5281/zenodo.10803969",
+    "identifier": "zenodo.10803969",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Fungus Exodus Reviews US Advantages [FRAUD or LEGIT] Dose & Intake Official Price, Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10803970"
+    ],
+    "url": "https://zenodo.org/record/10803969"
+}

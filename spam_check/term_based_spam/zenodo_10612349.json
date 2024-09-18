@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10612349",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.199464,
+    "author": [
+        {
+            "name": "PuraviveCanada"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-03",
+    "dateModified": "2024-02-03",
+    "datePublished": "2024-02-03T00:00:00",
+    "description": "Neo Drops Experiences Germany Price - NEO Drops Germany is quickly becoming a popular wellness supplement and offers a simple, uncomplicated way to integrate natural ingredients into your everyday life. In these comprehensive guides we will learn how NEO Drops Germany works, what the key ingredients are, possible uses, how to use them, what results to expect and where to buy them.\n\nClick here to buy now from official website of Puravive Canada",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10612350/files-archive",
+            "dateModified": "2024-02-03"
+        }
+    ],
+    "doi": "10.5281/zenodo.10612349",
+    "identifier": "zenodo.10612349",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "[New] Puravive Canada Reviews Experiences Official Price, Buy At Special Discount",
+    "sameAs": [
+        "https://zenodo.org/records/10612350"
+    ],
+    "url": "https://zenodo.org/record/10612349"
+}

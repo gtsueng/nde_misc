@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10370142",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.448464,
+    "author": [
+        {
+            "name": "Pure Harmony CBD Gummies"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-12-13",
+    "dateModified": "2023-12-13",
+    "datePublished": "2023-12-13T00:00:00",
+    "description": "Pure Harmony CBD Gummies US Reviews Pure Harmony CBD Gummies are a tasty and effective way to incorporate CBD into your daily routine. They offer a convenient and discreet way to experience the potential benefits of CBD and are available in different strengths and flavors to suit individual preferences. Whether you are a man looking for specific benefits or simply interested in trying CBD, Pure Harmony CBD Gummies are a great option to consider.\nClick Here To Buy Now From Official Website Of Pure Harmony CBD Gummies\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10370143/files-archive",
+            "dateModified": "2023-12-13"
+        }
+    ],
+    "doi": "10.5281/zenodo.10370142",
+    "identifier": "zenodo.10370142",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Pure Harmony CBD Gummies Reviews & Experiences Official Price, Buy (US)",
+    "sameAs": [
+        "https://zenodo.org/records/10370143"
+    ],
+    "url": "https://zenodo.org/record/10370142"
+}

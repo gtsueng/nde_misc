@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10279888",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.842123,
+    "author": [
+        {
+            "name": "GlucoTrust"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-12-07",
+    "dateModified": "2023-12-07",
+    "datePublished": "2023-12-07T00:00:00",
+    "description": "GlucoTrust \u00a0Reviews: Glucotrust Reviews , a notorious blood sugar control supplement, incorporates precise substances that help customers manage blood sugar ranges. This blood sugar aid formula is warranted to improve habitual health. The main reason for the supplement is to blast your body's glucose metabolism so that you don't have excessive blood sugar or diabetes. The supplement also claims to provide new health benefits that keep you healthy and fit.\nGlucoTrust has helped many diabetics better control their condition and even lower their blood sugar. It is a powerful and beneficial drug that has a pronounced and almost immediate effect on blood sugar.\nClick here to buy now from official website of GlucoTrust\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10279889/files-archive",
+            "dateModified": "2023-12-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.10279888",
+    "identifier": "zenodo.10279888",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "GlucoTrust US Reviews It's Benefits & Advantages Official Price, Where To Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10279889"
+    ],
+    "url": "https://zenodo.org/record/10279888"
+}

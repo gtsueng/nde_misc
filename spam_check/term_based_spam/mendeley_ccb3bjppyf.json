@@ -1,0 +1,42 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_ccb3bjppyf",
+    "_score": 19.753822,
+    "author": [
+        {
+            "familyName": "Aji",
+            "givenName": "Hendy Mustiko",
+            "name": "Hendy Mustiko Aji"
+        }
+    ],
+    "date": "2023-12-15",
+    "dateModified": "2023-12-14",
+    "datePublished": "2023-12-15",
+    "description": "This data is about BNPL usage in Indonesia & Malaysia",
+    "doi": "10.17632/ccb3bjppyf.2",
+    "funding": [
+        {
+            "funder": {
+                "@type": "Organization",
+                "name": "Pusat Pengembangan Manajemen (PPM), Department of Management, Faculty of Business and Economics, Universitas Islam Indonesia and Institute of Business Excellence, Universiti Teknologi MARA Shah Alam, Malaysia"
+            }
+        }
+    ],
+    "identifier": "ccb3bjppyf",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:53.959037"
+    },
+    "keywords": [
+        "Marketing",
+        "Consumer Behavior",
+        "Ethics in Marketing"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Buy Now Pay Later Indonesia & Malaysia",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/ccb3bjppyf"
+}

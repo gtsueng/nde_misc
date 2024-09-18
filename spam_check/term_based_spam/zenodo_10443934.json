@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10443934",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.227328,
+    "author": [
+        {
+            "name": "Trump Trading Card"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-12-30",
+    "dateModified": "2023-12-30",
+    "datePublished": "2023-12-30T00:00:00",
+    "description": "Trump Trading Card Reviews - Are you curious to find out the truth behind the hype surrounding the Trump Trading Card? Well, get ready to uncover the secrets and revelations as we delve into the world of this iconic collectible. Just like a hidden treasure waiting to be discovered, this card has captivated the hearts of collectors far and wide. With its unique historical significance as the first-ever mugshot of a U.S. President, it's no wonder why this card has become a symbol of defiance and determination.\n\nClick Here To Buy Now From Official Website Of Trump Trading Card",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10443935/files-archive",
+            "dateModified": "2023-12-30"
+        }
+    ],
+    "doi": "10.5281/zenodo.10443934",
+    "identifier": "zenodo.10443934",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Trump Trading Cards Reviews New Trump Degital Trading Cards Price Where To Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10443935"
+    ],
+    "url": "https://zenodo.org/record/10443934"
+}

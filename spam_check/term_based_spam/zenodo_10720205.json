@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10720205",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.417698,
+    "author": [
+        {
+            "name": "CBDBites"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-28",
+    "dateModified": "2024-02-28",
+    "datePublished": "2024-02-28T00:00:00",
+    "description": "CBD Bites CBD Gummies Reviews: Bliss Bites CBD Gummies have gained popularity as a convenient and delicious way to experience the benefits of CBD. These gummies offer a natural alternative for individuals seeking relief from various health issues without the psychoactive effects of THC.\n\nClick here to buy now from official website of CBD Bites CBD Gummies",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10720206/files-archive",
+            "dateModified": "2024-02-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.10720205",
+    "identifier": "zenodo.10720205",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "CBD Bites CBD Gummies Reviews 2024 How to take Dose & Intake Price, Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10720206"
+    ],
+    "url": "https://zenodo.org/record/10720205"
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10609068",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.199464,
+    "author": [
+        {
+            "name": "Puravive"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-02",
+    "dateModified": "2024-02-02",
+    "datePublished": "2024-02-02T00:00:00",
+    "description": "Puravive Canada Reviews: Puravive is a natural beacon of hope for those on a weight loss journey. It sets itself apart by offering a unique, pure, and natural composition. Its proprietary blend comprises eight powerful tropical nutrients and plant-based compounds, all with clinically proven abilities to enhance brown fat levels, a key component in weight loss.\n\nClick Here To Buy Now From Official Website Of Puravive",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10609069/files-archive",
+            "dateModified": "2024-02-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.10609068",
+    "identifier": "zenodo.10609068",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Puravive Canada Reviews - It's Benefits & Advantages 2024 Official Price, Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10609069"
+    ],
+    "url": "https://zenodo.org/record/10609068"
+}

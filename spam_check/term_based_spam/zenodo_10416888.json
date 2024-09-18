@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10416888",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.448464,
+    "author": [
+        {
+            "name": "Smart Hemp Gummies"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-12-21",
+    "dateModified": "2023-12-21",
+    "datePublished": "2023-12-21T00:00:00",
+    "description": "Smart Hemp Gummies Australia Reviews Smart Hemp Gummies Australia are organic examples that function without provoking negative reactions. Because they are made with pure hemp coloring, Smart Hemp Gummies Australia naturally promote improved health and address medical issues. The way that Smart Hemp Gummies Australia function is by supporting and assisting the body's receptors. The purpose of these neurons is to increase the utility of the ECS architecture. In light of this, CBD oil nourishes receptors and aids in improving the ECS architecture.\n\nClick Here To Buy Now From Official Website Of Smart Hemp Gummies",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10416889/files-archive",
+            "dateModified": "2023-12-21"
+        }
+    ],
+    "doi": "10.5281/zenodo.10416888",
+    "identifier": "zenodo.10416888",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Smart Hemp Gummies Australia Reviews & Experiences Official Price, Buy (New)",
+    "sameAs": [
+        "https://zenodo.org/records/10416889"
+    ],
+    "url": "https://zenodo.org/record/10416888"
+}

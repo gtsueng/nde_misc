@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_12732386",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 12.734648,
+    "author": [
+        {
+            "name": "ChillWell AC"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-12",
+    "dateModified": "2024-07-12",
+    "datePublished": "2024-07-12T00:00:00",
+    "description": "ChillWell AC Reviews & Benefits [Save Electricity] ChillWell is a portable air cooler designed by world-leading engineers to enable people to stay cool and cozy in hot weather conditions without breaking the bank. Many ChillWell Reviews confirm that this portable air cooler provides exceptional cooling possibilities that the conventional home air cooling system cannot. ChillWell AC is easy to operate, cheaper, more energy efficient, cordless, portable, and cost-effective at the same time.\n\nHeatwaves in 2024 have been relentless, with many states having record-setting triple digit temperatures for days at a time. With window AC units and portable air conditioners costing anywhere from a couple hundred dollars to over $1,000, it\u2019s tempting to look for a cheaper alternative to keep your home cool in the summer months. The makers of the Chillwell Portable Air Cooler say that this small unit can cool whole rooms in your home for a fraction of the price, but is it too good to be true?\u00a0\n\nClick Here To Buy Now From Official Website Of ChillWell AC",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/12732387/files-archive",
+            "dateModified": "2024-07-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.12732386",
+    "identifier": "zenodo.12732386",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "ChillWell AC Reviews & Benefits [Save Electricity] - ChillWell AC Experiences Price, Buy",
+    "sameAs": [
+        "https://zenodo.org/records/12732387"
+    ],
+    "url": "https://zenodo.org/record/12732386"
+}

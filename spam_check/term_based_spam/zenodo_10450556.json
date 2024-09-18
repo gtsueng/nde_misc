@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10450556",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.721942,
+    "author": [
+        {
+            "name": "FitspressoCanada"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-01-02",
+    "dateModified": "2024-01-02",
+    "datePublished": "2024-01-02T00:00:00",
+    "description": "Fitspresso Canada Reviews FitSpresso is a fun new way of losing weight from the comfort of your home. This product has been gaining recognition and has been referred to as one of the most effective ways of weight loss naturally.\n\nClick here to buy now from official website of Fitspresso Canada",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10450557/files-archive",
+            "dateModified": "2024-01-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.10450556",
+    "identifier": "zenodo.10450556",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Fitspresso Canada Reviews - It's Benefits & Experiences Official Price, Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10450557"
+    ],
+    "url": "https://zenodo.org/record/10450556"
+}

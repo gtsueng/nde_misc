@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10678891",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.199058,
+    "author": [
+        {
+            "name": "Fitspresso"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-19",
+    "dateModified": "2024-02-19",
+    "datePublished": "2024-02-19T00:00:00",
+    "description": "Fitspresso UK Reviews It's Advantages & Benefits FitSpresso is a natural health supplement created to promote healthy fat loss in your body. The creator of the formula claims that it is a proprietary blend of highly potent ingredients that acts in perfect synergy with factors that induce weight loss in a person\u2019s body.\n\nClick Here To Buy Now From Official Website Of Fitspresso",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10678892/files-archive",
+            "dateModified": "2024-02-19"
+        }
+    ],
+    "doi": "10.5281/zenodo.10678891",
+    "identifier": "zenodo.10678891",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Fitspresso UK Reviews It's Advantages & Benefits Dose & Intake Official Price, Where To Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10678892"
+    ],
+    "url": "https://zenodo.org/record/10678891"
+}

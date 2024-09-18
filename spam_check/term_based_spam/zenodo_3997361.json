@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_3997361",
+    "_score": 13.9331875,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Lomonosov Moscow State University"
+            },
+            "identifier": "0000-0001-7117-3089",
+            "name": "Maria Khrenova"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2020-08-27",
+    "dateModified": "2020-08-27",
+    "datePublished": "2020-08-24T00:00:00",
+    "description": "Gas phase and microsolvation models are marked as \"gas\" and \"solv\" in the file names.\n\n\nCis- and trans-enol formes are marked as \"CIS\" and \"TRANS\", respectively; keto form has \"KETO\" in the file name.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/3997362/files-archive",
+            "dateModified": "2020-08-27"
+        }
+    ],
+    "doi": "10.5281/zenodo.3997361",
+    "identifier": "zenodo.3997361",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Equilibrium geometry configurations of DMMI and DMHI chromophores in gas phase and microsolvation models",
+    "sameAs": [
+        "https://zenodo.org/records/3997362"
+    ],
+    "url": "https://zenodo.org/record/3997361"
+}

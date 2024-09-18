@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_12780140",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.521165,
+    "author": [
+        {
+            "name": "Supranail"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-19",
+    "dateModified": "2024-07-19",
+    "datePublished": "2024-07-19T00:00:00",
+    "description": "Supranail Experiences Dose & Works - SupraNail is a nutritional supplement designed to support healthy feet and nails. Each SupraNail capsule contains a blend of 13 active ingredients\u2014many of which have antifungal and antioxidant properties\u2014to support overall nail health and deliver long-lasting results.\n\nClick Here To Buy Now From Official Website Of Supranail\n\nDoes SupraNail Work?\n\nSupraNail boasts a comprehensive formula comprising essential antioxidants, minerals, vitamins, and herbs aimed at enhancing nail and foot health. Backed by botanical ingredients like Senna Auriculata, Oat Bran, Acay Berry, and more, SupraNail promises to deliver remarkable results in a record time frame. The formula\u2019s focCanada\u00a0 on holistic support without needing a prescription underscores its commitment to offering natural nail and foot care solutions. Moreover, the blend\u2019s non-GMO, vegan, gluten-free, and chemical-free composition emphasizes its dedication to purity and effectiveness. With positive testimonials praising its benefits and the emphasis on natural and potent ingredients, SupraNail appears to be a promising product for individuals seeking to improve their nails and feet\u2019 overall health and appearance.\n\n\u00a0\n\nWhat are the Ingredients in SupraNail?\n\nSenna Auriculata\n\nSenna Auriculata, a potent holy plant Canada ed by Amazonian tribes, rejuvenates the skin, heels, and nails of the feet. Its powerful properties make it an essential ingredient in SupraNail.\n\n\u00a0\n\nOat Bran\n\nOat Bran is vital in supporting the body\u2019s defense mechanisms against damage, enhancing overall nail well-being. It contributes significantly to maintaining healthy and beautiful nails.\n\n\u00a0\n\nAcay Berry\n\nAcay Berry, a remarkable natural ingredient, is a valuable ally for nail health. Its potency and effectiveness make it a key component in the formula, aiding in achieving optimal results.\n\n\u00a0\n\nLicorice Root, Pumpkin Seed Extract, and Cayenne Pepper\n\nThis unique combination of Licorice Root, Pumpkin Seed Extract, and Cayenne Pepper offers long-term comfort and maintenance benefits for nails and feet. Each ingredient complements the others to support nail health comprehensively.\n\n\u00a0\n\nFennel Seed Extract & Prune Juice Extract\n\nLoaded with active nutrients, Fennel Seed Extract and Prune Juice Extract harbor potent properties essential for nail rejuvenation. They work together to provide nourishment and support for maintaining healthy nails.\n\n\u00a0\n\nClick Here To Buy Now From Official Website Of Supranail",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/12780141/files-archive",
+            "dateModified": "2024-07-19"
+        }
+    ],
+    "doi": "10.5281/zenodo.12780140",
+    "identifier": "zenodo.12780140",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Supranail Experiences Dose & Works - Supranail Canada Reviews Ingredients Price, Buy",
+    "sameAs": [
+        "https://zenodo.org/records/12780141"
+    ],
+    "url": "https://zenodo.org/record/12780140"
+}

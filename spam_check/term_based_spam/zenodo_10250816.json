@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10250816",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.714661,
+    "author": [
+        {
+            "name": "Clean as Teen Skin Tag Remover"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-12-02",
+    "dateModified": "2023-12-02",
+    "datePublished": "2023-12-02T00:00:00",
+    "description": "Clean As Teen Skin Tag Remover Reviews: A lot of people think that freckles and skin tags are completely safe. These signs could point to a more serious health problem. Moles are spots of darkened skin that can show up on any part of the body. Skin tags are soft, spongy growths that stick out from the skin's surface.\nClick Here To Buy Now From Official Website Of Clean as Teen Skin Tag Remover\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10250817/files-archive",
+            "dateModified": "2023-12-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.10250816",
+    "identifier": "zenodo.10250816",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Clean as Teen Skin Tag Remover Reviews NEW Price Where to Buy in USA",
+    "sameAs": [
+        "https://zenodo.org/records/10250817"
+    ],
+    "url": "https://zenodo.org/record/10250816"
+}

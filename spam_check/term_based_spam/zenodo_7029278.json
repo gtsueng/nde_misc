@@ -1,0 +1,203 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_7029278",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 9.893673,
+    "author": [
+        {
+            "affiliation": {
+                "name": "VTT"
+            },
+            "identifier": "0000-0002-1671-787X",
+            "name": "F\u00fcl\u00f6p, Ludovic"
+        },
+        {
+            "affiliation": {
+                "name": "University of Helsinki"
+            },
+            "identifier": "0000-0002-4205-8599",
+            "name": "B\u00e4cklund, Pia"
+        },
+        {
+            "affiliation": {
+                "name": "VTT"
+            },
+            "name": "Helminen, Atte"
+        },
+        {
+            "affiliation": {
+                "name": "University of Helsinki"
+            },
+            "identifier": "0000-0003-2341-1892",
+            "name": "Hillers, Gregor"
+        },
+        {
+            "affiliation": {
+                "name": "GTK"
+            },
+            "name": "Hornborg, Noora"
+        },
+        {
+            "affiliation": {
+                "name": "University of Helsinki"
+            },
+            "name": "Junno, Niina"
+        },
+        {
+            "affiliation": {
+                "name": "VTT"
+            },
+            "name": "Keto, Paula"
+        },
+        {
+            "affiliation": {
+                "name": "University of Helsinki"
+            },
+            "identifier": "0000-0001-8940-9248",
+            "name": "Annakaisa Korja"
+        },
+        {
+            "affiliation": {
+                "name": "GTK"
+            },
+            "name": "Kosonen, Emilia"
+        },
+        {
+            "affiliation": {
+                "name": "GTK"
+            },
+            "name": "Lindqvist, Teemu"
+        },
+        {
+            "affiliation": {
+                "name": "University of Helsinki"
+            },
+            "identifier": "0000-0002-7617-8150",
+            "name": "M\u00e4ntyniemi, P\u00e4ivi"
+        },
+        {
+            "affiliation": {
+                "name": "University of Helsinki"
+            },
+            "name": "Oinonen, Kati"
+        },
+        {
+            "affiliation": {
+                "name": "GTK"
+            },
+            "identifier": "0000-0001-8272-4835",
+            "name": "Ojala, Antti"
+        },
+        {
+            "affiliation": {
+                "name": "GTK"
+            },
+            "name": "Putkinen, Niko"
+        },
+        {
+            "affiliation": {
+                "name": "University of Helsinki"
+            },
+            "name": "Rintam\u00e4ki, Annukka"
+        },
+        {
+            "affiliation": {
+                "name": "University of Helsinki"
+            },
+            "name": "Sadeghi-Bagherabadi, Amir"
+        },
+        {
+            "affiliation": {
+                "name": "University of Helsinki"
+            },
+            "identifier": "0000-0001-9447-6146",
+            "name": "Tiira, Timo"
+        },
+        {
+            "identifier": "0000-0002-2722-3525",
+            "name": "Tuomisaari, Johanna"
+        },
+        {
+            "affiliation": {
+                "name": "University of Helsinki"
+            },
+            "identifier": "0000-0003-2740-6185",
+            "name": "Veikkolainen, Toni"
+        },
+        {
+            "affiliation": {
+                "name": "University of Helsinki"
+            },
+            "identifier": "0000-0002-8186-012X",
+            "name": "Vuorinen, Tommi"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2022-08-28",
+    "dateModified": "2022-08-28",
+    "datePublished": "2022-08-28T00:00:00",
+    "description": "These seismic source zones were developed and used in the \u201cMitigation of induced seismic risk in urban environments (SEISRISK) project\u201d (Project no. 337913, 338075 and 339670 of the Academy of Finland). The data files contain two levels of conceptualization of seismic source zones or areas (SSA\u2019s).\n\n\nThe initial delineation work for this project was carried out in an online workshop, organized between on the 08th and 09th of February 2021. About 28 Finnish, Estonian, Russian, Norwegian and Swedish experts participated with presentations, discussions and effective group-work in workshop.\u00a0Four work-groups (WPs) were formed with 7-8 participants each.\u00a0Using the four zoning maps proposed by the WG\u2019s, this\u00a0consensus proposal for zoning was developed.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/7029279/files-archive",
+            "dateModified": "2022-08-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.7029278",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100002341",
+                "name": "Academy of Finland"
+            },
+            "identifier": "338075",
+            "name": "Mitigation of induced seismic risk in urban environments / Consortium: Seismic risk"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100002341",
+                "name": "Academy of Finland"
+            },
+            "identifier": "339670",
+            "name": "Mitigation of induced seismic risk in urban environments / Consortium: Seismic risk"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100002341",
+                "name": "Academy of Finland"
+            },
+            "identifier": "337913",
+            "name": "Mitigation of induced seismic risk in urban environments / Consortium: Seismic risk"
+        }
+    ],
+    "identifier": "zenodo.7029278",
+    "inLanguage": {
+        "name": "eng"
+    },
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "keywords": [
+        "Seismic source zones, probabilistic seismic hazard, Finland"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Seismic source zone delineation for hazard calculations in Finland",
+    "sameAs": [
+        "https://zenodo.org/records/7029279"
+    ],
+    "url": "https://zenodo.org/record/7029278"
+}

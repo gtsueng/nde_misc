@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_11395182",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 16.04728,
+    "author": [
+        {
+            "name": "New Body Drops"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-05-30",
+    "dateModified": "2024-05-30",
+    "datePublished": "2024-05-30T00:00:00",
+    "description": "New Body Drops UK & Ireland Reviews - Die New Body Drops sind ein Produkt, welches beim Gewichtsmanagement helfen soll und dies ohne dass man zwingend zu anderen Ma\u00dfnahmen greifen muss. Au\u00dferdem soll ein langfristiger Erfolg gew\u00e4hrleistet sein. Wir wollten uns das Ganze einmal n\u00e4her ansehen und haben dabei herausgefunden, dass es nicht nur jeden Alters helfen kann.\n\nClick Here To Buy Now From Official Website Of New Body Drops\n\n\u00a0\n\nNatural ingredients\n\n\u00a0\n\nFitSmart Fat Burners are made from natural ingredients that are carefully selected to ensure high quality and purity. These ingredients are used because of their positive properties on the human organism. The precise dosage of these components helps ensure that New Body Drops can be considered a safe addition to a balanced diet.\n\n\u00a0\n\nEffect on the body\n\n\u00a0\n\nNexalyn's approach is based on stimulating the metabolism and thus supporting the body in losing weight. By activating metabolism, the drops can help increase energy expenditure, which in turn could lead to a reduction in body weight. Further details about their effects depend on the specific ingredients contained in the drops.\n\n\u00a0\n\nHealth and vitality benefits\n\n\u00a0\n\nIn addition to the possible support in losing weight, user reports and testimonials about Actifine also emphasize the positive effects on general health and vitality. These can range from strengthening the immune system to improving general well-being. However, it should be noted that the effect may vary depending on the owner.\n\n\u00a0\n\nEffective weight loss\n\n\u00a0\n\nTheanex are a product that attracts a lot of attention in the evening market. These drops promise effective support in losing weight and can also have a positive effect on metabolism.\n\n\u00a0\n\nSupport in losing weight\n\n\u00a0\n\nNew Body Drops aim to support weight loss by reducing feelings of hunger. This makes weight loss easier without the user having to follow a strict diet or increase physical activity.\n\n\u00a0\n\n\n\nClick Here To Buy Now From Official Website Of New Body Drops",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/11395183/files-archive",
+            "dateModified": "2024-05-30"
+        }
+    ],
+    "doi": "10.5281/zenodo.11395182",
+    "identifier": "zenodo.11395182",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "New Body Drops UK & Ireland Reviews - New Body Drops Intake, Ingredients, Buy now",
+    "sameAs": [
+        "https://zenodo.org/records/11395183"
+    ],
+    "url": "https://zenodo.org/record/11395182"
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10450101",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.722067,
+    "author": [
+        {
+            "name": "BiomaProbiotics"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-01-02",
+    "dateModified": "2024-01-02",
+    "datePublished": "2024-01-02T00:00:00",
+    "description": "Bioma Probiotics Weight Loss Reviews Bioma probiotic supplements have been widely reviewed and have received positive feedback from users. One verified purchaser on Amazon, Sandra Castillo, gave it a 5/5 star rating and mentioned a secondary benefit.\n\nClick here to buy now from official website of Bioma Probiotics",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10450102/files-archive",
+            "dateModified": "2024-01-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.10450101",
+    "identifier": "zenodo.10450101",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Bioma Probiotics Weight Loss Reviews [USA] Probiotics Price and where to Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10450102"
+    ],
+    "url": "https://zenodo.org/record/10450101"
+}

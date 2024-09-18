@@ -1,0 +1,46 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dataverse_10.7910_dvn_9ujzfe",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 23.08266,
+    "author": [
+        {
+            "name": "Adwil, Mark"
+        }
+    ],
+    "date": "2020-04-09",
+    "dateModified": "2020-04-09",
+    "datePublished": "2020-04-06",
+    "description": "GetKeyto coupon codes helps to save you whopping $19.50 off for Keyto Premium. Keyto breath sensor is the brand new invention to the latest keto diet. It let you know about your diet process and how to acheive your goal effectively. The keto sensor is available with free mobile application to get updated everyday.  GetKeyto breath sensor is available at free shipping with our discount code and promotional deals. Please visit this webpage to save huge on Get Keyto device now!",
+    "distribution": [
+        {
+            "@id": "10.7910/DVN/9UJZFE/ZGGZ8U",
+            "@type": "DataDownload",
+            "contentUrl": "https://doi.org/10.7910/DVN/9UJZFE/ZGGZ8U",
+            "description": "NYC Gentrification",
+            "encodingFormat": "text/tab-separated-values",
+            "name": "Data_NYC_Gentrification_2000_16.tab"
+        }
+    ],
+    "doi": "https://doi.org/10.7910/DVN/9UJZFE",
+    "identifier": "10.7910/DVN/9UJZFE",
+    "includedInDataCatalog": {
+        "@type": "dataset",
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/",
+        "versionDate": "2024-08-17"
+    },
+    "keywords": "Medicine, Health and Life Sciences",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "name": "$20 off GetKeyto coupon code on breath sensor",
+    "sdPublisher": [
+        {
+            "@type": "Organization",
+            "name": "Harvard Dataverse"
+        }
+    ],
+    "url": "https://doi.org/10.7910/DVN/9UJZFE"
+}

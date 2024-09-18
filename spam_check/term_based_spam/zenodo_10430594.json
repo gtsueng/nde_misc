@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10430594",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.683657,
+    "author": [
+        {
+            "name": "8Greens Gummies"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-12-25",
+    "dateModified": "2023-12-25",
+    "datePublished": "2023-12-25T00:00:00",
+    "description": "8Greens Gummies US Reviews These 8Greens Gummies are loaded with necessary nutrients. Every four chewables has as much vitamin B5 as 15 cups of broccoli, as much B6 as six cups of spinach, as much vitamin C as three oranges.\n\nClick Here To Buy Now From Official Website Of 8Greens Gummies",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10430595/files-archive",
+            "dateModified": "2023-12-25"
+        }
+    ],
+    "doi": "10.5281/zenodo.10430594",
+    "identifier": "zenodo.10430594",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "8Greens Gummies Reviews It's Benefits & Advantages Official Price, Buy US",
+    "sameAs": [
+        "https://zenodo.org/records/10430595"
+    ],
+    "url": "https://zenodo.org/record/10430594"
+}

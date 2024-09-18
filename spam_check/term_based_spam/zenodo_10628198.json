@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10628198",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.455769,
+    "author": [
+        {
+            "name": "StyleCapsules"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-07",
+    "dateModified": "2024-02-07",
+    "datePublished": "2024-02-07T00:00:00",
+    "description": "Style Capsules UK Reviews & Experiences If you want to hit a healthy weight this year, you need to start using the best ketones supplement which will help you lose weight safe and effectively. Try Style Capsules to enhance your look effortlessly and with remarkable results.\n\nClick here to buy now from official website of Style Capsules",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10628199/files-archive",
+            "dateModified": "2024-02-07"
+        }
+    ],
+    "doi": "10.5281/zenodo.10628198",
+    "identifier": "zenodo.10628198",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Style Capsules Reviews - It's Benefits & Advantages UK Price, Where To Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10628199"
+    ],
+    "url": "https://zenodo.org/record/10628198"
+}

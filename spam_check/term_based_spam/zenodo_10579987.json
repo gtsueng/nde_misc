@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10579987",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.843159,
+    "author": [
+        {
+            "name": "Trump Gold Bar"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-01-29",
+    "dateModified": "2024-01-29",
+    "datePublished": "2024-01-29T00:00:00",
+    "description": "Trump Gold Bar Reviews & Experiences You've probably heard all the hype about the Golden Trump Bar. But what are the benefits of this magical elixir? Plated with 99.99% Gold: The Trump Gold Bar is plated with 99.99% 24K gold. It\u2019s among the purest forms of gold available worldwide today. It comes with a weight and style that every Trump believer will love and proudly showcase to other believers. The Trump Bar is considered to represent the honor, commitment, and loyalty. This is the significance of the bar. The artifacts will serve as motivation for Donald Trump fans in the run-up to the 2024 election.\n\nClick Here To Buy Now From Official Website Of Trump Gold Bar\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10579988/files-archive",
+            "dateModified": "2024-01-29"
+        }
+    ],
+    "doi": "10.5281/zenodo.10579987",
+    "identifier": "zenodo.10579987",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Trump Gold Bar Reviews & Experiences - Trump Gold Bar Official Price, Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10579988"
+    ],
+    "url": "https://zenodo.org/record/10579987"
+}

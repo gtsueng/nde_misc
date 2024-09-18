@@ -1,0 +1,85 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_n2kx8t2h75",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 12.091727,
+    "author": [
+        {
+            "familyName": "Zhu",
+            "givenName": "Xiangping",
+            "name": "Xiangping Zhu"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.gr.2019.05.006",
+            "name": "High oxidation magmatic evolution in the Naruo porphyry Cu deposit, Tibet, China"
+        }
+    ],
+    "date": "2020-03-31",
+    "dateModified": "2018-09-22",
+    "datePublished": "2020-03-31",
+    "description": "Table S1 Zircons U-Pb date of the diorite and three porphyry phases in the Naruo porphyry Cu deposit, Tibet\n\nTable S2 Bulk-rock major and trace element, Sr-Nd isotopic results of the diorite and three porphyry phases in the Naruo porphyry Cu deposit, Tibet\nFormulae were calculated as follows: (87Sr/86Sr)i = (87Sr/86Sr)sample \u2013 87Rb/86Sr \u00d7 (e\uf06c1t \u2013 1), \uf06c1 = 1.42 \u00d7 10\u221211 a\u22121, 87Rb/86Sr = Rb/Sr \u00d7 2.981; (143Nd/144Nd)i = (143Nd/144Nd)sample \u2013 147Sm/144Nd \u00d7 (e\uf06ct \u2013 1), 147Sm/144Nd = Sm/Nd \u00d7 [0.531497 + 0.142521 \u00d7 (143Nd/144Nd)sample]; \uf065Nd(t) = [(143Nd/144Nd)sample/(143Nd/144Nd)CHUR(t) \u2013 1] \u00d7 104, (143Nd/144Nd)CHUR(t) = 0.512638 \u2013 0.1967 \u00d7 (e\uf06c2t \u2013 1); TDM = 1/\uf06c2 \u00d7 ln{1 + [((143Nd/144Nd)sample \u2013 0.51315)/((147Sm/144Nd)sample \u2013 0.21317)]}, \uf06c2 = 6.54 \u00d7 10\u221212 a\u22121, where TDM2 is the two-stage Nd depleted-mantle model age calculated using the approach of Keto and Jacobsen (1987), t = 120 Ma.\n\n\nTable S3 Zircons Hf isotopic data of the diorite and three porphyry phases in the Naruo porphyry Cu deposit, Tibet\n\n\uf065Hf(t) = 10000 \uf0b4 {[(176Hf/177Hf)S \u2013 (176Lu/177Hf)S \uf0b4 (e\uf06ct \u2013 1)]/[(176Hf/177Hf)CHUR,0 \u2013 (176Lu/177Hf)CHUR \uf0b4 (e\uf06ct \u2013 1)] \u2013 1}. TDM = 1/\uf06c \uf0b4 ln{1 + [(176Hf/177Hf)S \u2013 (176Hf/177Hf)DM]/[(176Lu/177Hf)S \u2013 (176Lu/177Hf)DM]}. TDMC = TDM \u2013 (TDM \u2013 t) \uf0b4 [(fcc \u2013 fs)/(fcc \u2013 fDM)]. fLu/Hf = (176Lu/177Hf)S/(176Lu/177Hf)CHUR \u2013 1.where, \uf06c = 1.867 \uf0b4 10-11/a(S\u00f6derlund et al., 2004). The (176Lu/177Hf)S and (176Hf/177Hf)S are the measured values of samples; (176Lu/177Hf)CHUR = 0.0332, (176Hf/177Hf)CHUR,0 = 0.282772 (Blichert-Toft et al., 1997); (176Lu/177Hf)DM = 0.0384, (176Hf/177Hf)DM = 0.28325 (Griffin et al., 2000); (176Lu/177Hf)mean crust = 0.015;fcc = [(176Lu/177Hf)meancrust/(176Lu/177Hf)CHUR] \u2013 1; fs = fLu/Hf; fDM = [(176Lu/177Hf)DM/(176Lu/177Hf)CHUR] \u2013 1; t=120Ma.\n\nTable S4 Re-Os isotopic data of molybdenite from the Naruo porphyry copper-gold deposit\n",
+    "doi": "10.17632/n2kx8t2h75.1",
+    "healthCondition": [
+        {
+            "alternateName": [
+                "Influenza with other manifestations",
+                "flu",
+                "influenza with non-respiratory manifestation"
+            ],
+            "curatedBy": {
+                "dateModified": "2024-09-09",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "8469",
+            "inDefinedTermSet": "DOID",
+            "isCurated": true,
+            "name": "influenza",
+            "originalName": "fLu",
+            "url": "http://purl.obolibrary.org/obo/DOID_8469"
+        }
+    ],
+    "identifier": "n2kx8t2h75",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:31:52.563668"
+    },
+    "keywords": [
+        "Economic Geology"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Data for: High oxidation magmatic evolution in the Naruo porphyry Cu deposit, Tibet, China",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3292",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biochemistry",
+            "url": "http://edamontology.org/topic_3292"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3070",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biology",
+            "url": "http://edamontology.org/topic_3070"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/n2kx8t2h75"
+}

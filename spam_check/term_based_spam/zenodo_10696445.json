@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10696445",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.960208,
+    "author": [
+        {
+            "name": "GlycoGuard"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-23",
+    "dateModified": "2024-02-23",
+    "datePublished": "2024-02-23T00:00:00",
+    "description": "GlycoGuard Australia Reviews GlycoGuard is a specially designed nutritional supplement that supports glycogen control. By aiding the body\u2019s natural processes, it helps maintain balanced glycogen levels and ensures optimal energy storage and release.\n\nClick Here To Buy Now From Official Website Of GlycoGuard",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10696446/files-archive",
+            "dateModified": "2024-02-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.10696445",
+    "identifier": "zenodo.10696445",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "GlycoGuard Australia Reviews - How To Use Dose & Intake Official Price, Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10696446"
+    ],
+    "url": "https://zenodo.org/record/10696445"
+}

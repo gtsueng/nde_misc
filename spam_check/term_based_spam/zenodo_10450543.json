@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10450543",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.721942,
+    "author": [
+        {
+            "name": "Probiotics Weight Loss"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-01-02",
+    "dateModified": "2024-01-02",
+    "datePublished": "2024-01-02T00:00:00",
+    "description": "Probiotics Weight Loss Reviews probiotic supplements have been widely reviewed and have received positive feedback from users. One verified purchaser on Amazon, Sandra Castillo, gave it a 5/5 star rating and mentioned a secondary benefit.\n\nClick Here To Buy Now From Official Website Of Probiotics Weight Loss",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10450544/files-archive",
+            "dateModified": "2024-01-02"
+        }
+    ],
+    "doi": "10.5281/zenodo.10450543",
+    "identifier": "zenodo.10450543",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Probiotics Weight Loss Reviews [USA] Probiotics Probiotics Price and where to Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10450544"
+    ],
+    "url": "https://zenodo.org/record/10450543"
+}

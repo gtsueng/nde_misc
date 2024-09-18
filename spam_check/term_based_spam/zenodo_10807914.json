@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10807914",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.2637005,
+    "author": [
+        {
+            "name": "CaviArgan"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-03-12",
+    "dateModified": "2024-03-12",
+    "datePublished": "2024-03-12T00:00:00",
+    "description": "CaviArgan Australia Reviews CaviArgan Cream is not your ordinary skincare product. CaviArgan Cream \u00a0Combining the luxurious benefits of caviar and the nourishing properties of argan oil, this cream offers a unique and powerful formula that will leave your skin feeling pampered and rejuvenated. What sets CaviArgan Cream apart from other creams on the market is its ability to deeply hydrate and moisturize, while also providing essential vitamins and nutrients to promote healthy skin. This cream is perfect for those who want an all-in-one solution to their skincare needs.\n\nClick Here To Buy Now From Official Website Of CaviArgan",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10807915/files-archive",
+            "dateModified": "2024-03-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.10807914",
+    "identifier": "zenodo.10807914",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "CaviArgan Australia Reviews It's Benefits & Advantages Dose Intake Official Price, Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10807915"
+    ],
+    "url": "https://zenodo.org/record/10807914"
+}

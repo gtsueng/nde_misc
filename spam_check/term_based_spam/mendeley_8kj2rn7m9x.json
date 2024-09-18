@@ -1,0 +1,32 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_8kj2rn7m9x",
+    "_score": 20.655275,
+    "author": [
+        {
+            "familyName": "Behera",
+            "givenName": "Chandan",
+            "name": "Chandan Behera"
+        }
+    ],
+    "date": "2023-08-04",
+    "dateModified": "2023-08-04",
+    "datePublished": "2023-08-04",
+    "description": "This data contains the survey responses collected from 226 shoppers to understand their intention to adopt Buy Now Pay Later",
+    "doi": "10.17632/8kj2rn7m9x.1",
+    "identifier": "8kj2rn7m9x",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:07.128222"
+    },
+    "keywords": [
+        "Consumer Marketing"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Dataset on Buy-Now-Pay-Later Adoption",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/8kj2rn7m9x"
+}

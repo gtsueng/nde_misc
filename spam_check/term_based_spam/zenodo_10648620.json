@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10648620",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.199058,
+    "author": [
+        {
+            "name": "FitspressoAustralia"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-12",
+    "dateModified": "2024-02-12",
+    "datePublished": "2024-02-12T00:00:00",
+    "description": "Fitspresso Australia Reviews: Overall, the reviews of FitSpresso are mostly positive (Rating 4.6/5). It seems to be a safe and effective way to help you lose weight without having to make any major lifestyle changes. If you're looking for an easy and convenient way to lose weight, then this product may be worth considering.\n\nClick here to buy now from official website of Fitspresso Australia",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10648621/files-archive",
+            "dateModified": "2024-02-12"
+        }
+    ],
+    "doi": "10.5281/zenodo.10648620",
+    "identifier": "zenodo.10648620",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Fitspresso Australia Reviews & Advantages - Dose and Intake Price [50% Discount] Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10648621"
+    ],
+    "url": "https://zenodo.org/record/10648620"
+}

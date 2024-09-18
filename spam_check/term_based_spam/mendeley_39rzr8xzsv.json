@@ -1,0 +1,78 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_39rzr8xzsv",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.887472,
+    "author": [
+        {
+            "familyName": "Liu",
+            "givenName": "Xiaojing",
+            "name": "Xiaojing Liu"
+        },
+        {
+            "familyName": "Lund",
+            "givenName": "Peder",
+            "name": "Peder Lund"
+        },
+        {
+            "familyName": "Lopes",
+            "givenName": "Mariana",
+            "name": "Mariana Lopes"
+        },
+        {
+            "familyName": "Garcia",
+            "givenName": "Benjamin",
+            "name": "Benjamin Garcia"
+        },
+        {
+            "familyName": "Locasale",
+            "givenName": "Jason",
+            "name": "Jason Locasale"
+        }
+    ],
+    "date": "2018-08-30",
+    "dateModified": "2018-08-12",
+    "datePublished": "2018-08-30",
+    "description": "Here we report that pyruvate, the end product of glycolysis and key node in central carbon metabolism, quantitatively generates acetate in mammals. This phenomenon becomes more pronounced in contexts of nutritional excess such as during hyperactive glucose metabolism. Conversion of pyruvate to acetate occurs through two mechanisms: 1) coupling to reactive oxygen species (ROS), and 2) neomorphic enzyme activity from\nketo acid dehydrogenases that enable function as pyruvate decarboxylases. Further, we demonstrate that de novo acetate production sustains Ac-CoA pools and cell proliferation in limited metabolic environments such as during mitochondrial dysfunction or ATP citrate lyase (ACLY) deficiency.\n\nMass spectrometry data are reported as the integrated peak area or concentration values of each metabolite.\nEach excel sheet or sub-sheet contains the original data used in one or multiple panels of each figure. ",
+    "doi": "10.17632/39rzr8xzsv.1",
+    "identifier": "39rzr8xzsv",
+    "includedInDataCatalog": {
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2024-09-05T08:32:10.331818"
+    },
+    "keywords": [
+        "Biochemistry",
+        "Cell Metabolism"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Acetate production from glucose and coupling to mitochondrial metabolism in mammals",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "species": [
+        {
+            "alternateName": [
+                "mammals"
+            ],
+            "classification": "host",
+            "commonName": "mammals",
+            "curatedBy": {
+                "dateModified": "2024-08-15",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "mammals | Mammalia",
+            "fromEXTRACT": true,
+            "identifier": "40674",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Mammalia",
+            "originalName": "mammals",
+            "url": "https://www.uniprot.org/taxonomy/40674"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/39rzr8xzsv"
+}

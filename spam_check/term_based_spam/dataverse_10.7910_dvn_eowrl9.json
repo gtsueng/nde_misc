@@ -1,0 +1,46 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dataverse_10.7910_dvn_eowrl9",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 27.895746,
+    "author": [
+        {
+            "name": "Wills, Miller"
+        }
+    ],
+    "date": "2020-04-02",
+    "dateModified": "2020-04-02",
+    "datePublished": "2020-03-30",
+    "description": "Can't find valid MILSPIN.com coupon code and discount voucher? This is a dedicated MILSPIN page. You will find all the information about it here. MILSPIN is the America's leading custom metal engraved seller. Whether you are looking for a personalized gift or want to buy metal slide back plants for yourself; this is the perfect destination. Please keep in mind that our special deals and discount code for Milspin are good for an official website only! PS: Skip to HelpIneedHelp Page for Full Details on Milspin!",
+    "distribution": [
+        {
+            "@id": "10.7910/DVN/EOWRL9/X7M1OJ",
+            "@type": "DataDownload",
+            "contentUrl": "https://doi.org/10.7910/DVN/EOWRL9/X7M1OJ",
+            "description": "List of hospitals by province",
+            "encodingFormat": "text/tab-separated-values",
+            "name": "Hospitals_by_Province.tab"
+        }
+    ],
+    "doi": "https://doi.org/10.7910/DVN/EOWRL9",
+    "identifier": "10.7910/DVN/EOWRL9",
+    "includedInDataCatalog": {
+        "@type": "dataset",
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/",
+        "versionDate": "2024-08-17"
+    },
+    "keywords": "Medicine, Health and Life Sciences",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "name": "MILSPIN Coupon Code for 20% OFF",
+    "sdPublisher": [
+        {
+            "@type": "Organization",
+            "name": "Harvard Dataverse"
+        }
+    ],
+    "url": "https://doi.org/10.7910/DVN/EOWRL9"
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10695921",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.714014,
+    "author": [
+        {
+            "name": "Joint Plus CBD Gummies"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-02-23",
+    "dateModified": "2024-02-23",
+    "datePublished": "2024-02-23T00:00:00",
+    "description": "Joint Plus CBD Gummies Reviews US Joint In addition to Joint Plus CBD Gummies are suggested as the most flawless choice for first-time CBD customers in light of the fact that to their simple dosing, as expressed on the authority site. Client criticism was utilized to aggregate this information. These scrumptious sticky bears might assist with easing pressure and nervousness in the wake of a monotonous day.\n\nClick Here To Buy Now From Official Website Of Joint Plus CBD Gummies",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10695922/files-archive",
+            "dateModified": "2024-02-23"
+        }
+    ],
+    "doi": "10.5281/zenodo.10695921",
+    "identifier": "zenodo.10695921",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Joint Plus CBD Gummies Reviews US - How to Use, Where to Buy, Benefits",
+    "sameAs": [
+        "https://zenodo.org/records/10695922"
+    ],
+    "url": "https://zenodo.org/record/10695921"
+}

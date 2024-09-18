@@ -1,0 +1,44 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_10250897",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.60798,
+    "author": [
+        {
+            "name": "BoostaroReviews"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "date": "2024-07-10",
+    "dateModified": "2024-07-10",
+    "datePublished": "2023-12-02T00:00:00",
+    "description": "Boostaro Canada Review Boostaro is a powerful supplement that supports male health to the natural way. When you take Boostaro it starts working right away, resulting in an increase of energy levels, improved bedroom performance and a brand new lease on life! Boostaro is here to stay because of the insurmountable success their customers are having with it!\nBoostaro is a male sexual health enhancer supplement that has been curated to help everyone who struggles to perform better and longer. It is made up of a carefully chosen, highly-researched combination of ingredients that have been used for centuries to assist in enhancing and improving sexual function and performance.\nClick here to buy now from official website of Boostaro\n\u00a0",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/10250898/files-archive",
+            "dateModified": "2024-07-10"
+        }
+    ],
+    "doi": "10.5281/zenodo.10250897",
+    "identifier": "zenodo.10250897",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-08-21"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Boostaro Reviews Canada - Boostaro Benefits Official Price and where to buy 50% off",
+    "sameAs": [
+        "https://zenodo.org/records/10250898"
+    ],
+    "url": "https://zenodo.org/record/10250897"
+}
