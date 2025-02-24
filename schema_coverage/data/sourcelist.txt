@@ -1,7 +1,7 @@
 Zenodo
 AccessClinicalData@NIAID
 NCBI+SRA
-'ClinEpiDB
+ClinEpiDB
 ImmPort
 VEuPathDB
 LINCS
@@ -13,3 +13,13 @@ HuBMAP
 NCBI+GEO
 Omics+Discovery+Index+(OmicsDI)
 Mendeley
+MicrobiomeDB
+NICHD+DASH
+Qiita
+ReframeDB
+VDJServer
+MassIVE
+MalariaGEN
+Human+Cell+Atlas
+Figshare
+biotools
