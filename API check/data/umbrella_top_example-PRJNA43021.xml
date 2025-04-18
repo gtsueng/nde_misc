@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<RecordSet><DocumentSummary uid="43021">
+    <Project>
+        <ProjectID>
+            <ArchiveID accession="PRJNA43021" archive="NCBI" id="43021"/>
+        </ProjectID>
+        <ProjectDescr>
+            <Title>NIH Human Microbiome Project (HMP) Roadmap Project</Title>
+            <Description>The human microbiome refers to the community of microorganism that live in or on the human body. The Human Microbiome Project (HMP) is an NIH Roadmap project that was initiated to generate resources to enable comprehensive characterization of the human microbiota and analysis of its role in human health and disease. The HMP centers will sequence the genomes of a set of microoganisms that have been previously isolated from the human body. In addition, samples from the digestive tract, mouth, skin, nose, and female urogenital tract of human volunteers will be sequenced for 16S ribosomal RNA analysis and considered for metagenomic analysis.</Description>
+            <ExternalLink category="Related Resources" label="NIH HMP DACC">
+                <URL>http://www.hmpdacc.org/</URL>
+            </ExternalLink>
+            <ExternalLink category="Related Resources" label="NIH Common Fund Human Microbiome Project">
+                <URL>https://commonfund.nih.gov/hmp/</URL>
+            </ExternalLink>
+            <Publication date="2009-12-19T00:00:00Z" id="19819907" status="ePublished">
+                <Reference>The NIH Human Microbiome Project</Reference>
+                <DbType>ePubmed</DbType>
+            </Publication>
+        </ProjectDescr>
+        <ProjectType>
+            <ProjectTypeTopAdmin subtype="eFundingInitiative"/>
+        </ProjectType>
+    </Project>
+    <Submission submitted="2010-01-02">
+        <Description>
+            <!-- Submitter information has been removed -->
+            <Organization role="owner" type="center">
+                <Name abbr="NIH Human Microbiome Consortium">NIH Human Microbiome Consortium</Name>
+                <!-- Contact information has been removed -->
+            </Organization>
+            <Access>public</Access>
+        </Description>
+    </Submission>
+    <ProjectLinks>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="28331" accession="PRJNA28331"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="43021" accession="PRJNA43021"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="43017" accession="PRJNA43017"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="43021" accession="PRJNA43021"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="46305" accession="PRJNA46305"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="43021" accession="PRJNA43021"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="48489" accession="PRJNA48489"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="43021" accession="PRJNA43021"/>
+            </Hierarchical>
+        </Link>
+    </ProjectLinks>
+</DocumentSummary>
+
+</RecordSet>

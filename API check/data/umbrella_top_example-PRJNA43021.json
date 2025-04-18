@@ -1,0 +1,122 @@
+{
+    "RecordSet": {
+        "DocumentSummary": {
+            "@uid": "43021",
+            "Project": {
+                "ProjectID": {
+                    "ArchiveID": {
+                        "@accession": "PRJNA43021",
+                        "@archive": "NCBI",
+                        "@id": "43021"
+                    }
+                },
+                "ProjectDescr": {
+                    "Title": "NIH Human Microbiome Project (HMP) Roadmap Project",
+                    "Description": "The human microbiome refers to the community of microorganism that live in or on the human body. The Human Microbiome Project (HMP) is an NIH Roadmap project that was initiated to generate resources to enable comprehensive characterization of the human microbiota and analysis of its role in human health and disease. The HMP centers will sequence the genomes of a set of microoganisms that have been previously isolated from the human body. In addition, samples from the digestive tract, mouth, skin, nose, and female urogenital tract of human volunteers will be sequenced for 16S ribosomal RNA analysis and considered for metagenomic analysis.",
+                    "ExternalLink": [
+                        {
+                            "@category": "Related Resources",
+                            "@label": "NIH HMP DACC",
+                            "URL": "http://www.hmpdacc.org/"
+                        },
+                        {
+                            "@category": "Related Resources",
+                            "@label": "NIH Common Fund Human Microbiome Project",
+                            "URL": "https://commonfund.nih.gov/hmp/"
+                        }
+                    ],
+                    "Publication": {
+                        "@date": "2009-12-19T00:00:00Z",
+                        "@id": "19819907",
+                        "@status": "ePublished",
+                        "Reference": "The NIH Human Microbiome Project",
+                        "DbType": "ePubmed"
+                    }
+                },
+                "ProjectType": {
+                    "ProjectTypeTopAdmin": {
+                        "@subtype": "eFundingInitiative"
+                    }
+                }
+            },
+            "Submission": {
+                "@submitted": "2010-01-02",
+                "Description": {
+                    "Organization": {
+                        "@role": "owner",
+                        "@type": "center",
+                        "Name": {
+                            "@abbr": "NIH Human Microbiome Consortium",
+                            "#text": "NIH Human Microbiome Consortium"
+                        }
+                    },
+                    "Access": "public"
+                }
+            },
+            "ProjectLinks": {
+                "Link": [
+                    {
+                        "ProjectIDRef": {
+                            "@archive": "NCBI",
+                            "@id": "28331",
+                            "@accession": "PRJNA28331"
+                        },
+                        "Hierarchical": {
+                            "@type": "TopAdmin",
+                            "MemberID": {
+                                "@archive": "NCBI",
+                                "@id": "43021",
+                                "@accession": "PRJNA43021"
+                            }
+                        }
+                    },
+                    {
+                        "ProjectIDRef": {
+                            "@archive": "NCBI",
+                            "@id": "43017",
+                            "@accession": "PRJNA43017"
+                        },
+                        "Hierarchical": {
+                            "@type": "TopAdmin",
+                            "MemberID": {
+                                "@archive": "NCBI",
+                                "@id": "43021",
+                                "@accession": "PRJNA43021"
+                            }
+                        }
+                    },
+                    {
+                        "ProjectIDRef": {
+                            "@archive": "NCBI",
+                            "@id": "46305",
+                            "@accession": "PRJNA46305"
+                        },
+                        "Hierarchical": {
+                            "@type": "TopAdmin",
+                            "MemberID": {
+                                "@archive": "NCBI",
+                                "@id": "43021",
+                                "@accession": "PRJNA43021"
+                            }
+                        }
+                    },
+                    {
+                        "ProjectIDRef": {
+                            "@archive": "NCBI",
+                            "@id": "48489",
+                            "@accession": "PRJNA48489"
+                        },
+                        "Hierarchical": {
+                            "@type": "TopAdmin",
+                            "MemberID": {
+                                "@archive": "NCBI",
+                                "@id": "43021",
+                                "@accession": "PRJNA43021"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

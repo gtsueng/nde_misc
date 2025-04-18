@@ -1,0 +1,65 @@
+	_id	_ignored	_score	author
+0	LINCS_LDS-1398		10.600381	{'name': 'Jie Wu, Malcolm Casale, Ryan Lim, Jennifer Stocksdale'}
+1	LINCS_LDS-1431	['all.keyword']	10.600381	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+2	LINCS_LDS-1463	['all.keyword']	10.600381	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+3	LINCS_LDS-1473	['all.keyword']	10.600381	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+4	LINCS_LDS-1508	['all.keyword']	10.600381	{'name': 'Birtwistle, M.; Iyengar, R.; Sobie, E.'}
+5	LINCS_LDS-1586		10.600381	"{'name': ""Avi Ma'ayan, Mario Medvedovic, Stephan Schurer""}"
+6	LINCS_LDS-1603		10.600381	{'name': 'Nicholas Lyons, Ted Natoli, Sarah Pessa, Xiaodong Lu'}
+7	LINCS_LDS-1299	['all.keyword']	10.600381	{'name': 'Joe Gray, Laura Heiser, James Korkola'}
+8	LINCS_LDS-1307	['all.keyword']	10.600381	{'name': 'Joe Gray, Laura Heiser, James Korkola'}
+9	LINCS_LDS-1311	['all.keyword']	10.600381	{'name': 'Joe Gray, Laura Heiser, James Korkola'}
+10	LINCS_LDS-1319	['all.keyword']	10.600381	{'name': 'Joe Gray, Laura Heiser, James Korkola'}
+11	LINCS_LDS-1327	['all.keyword']	10.600381	{'name': 'Joe Gray, Laura Heiser, James Korkola'}
+12	LINCS_LDS-1362	['all.keyword']	10.600381	{'name': 'Marc Hafner, Laura M. Heiser'}
+13	LINCS_LDS-1233	['all.keyword']	10.454861	{'name': 'Todd Golub, Aravind Subramanian'}
+14	LINCS_LDS-1303	['all.keyword']	10.454861	{'name': 'Joe Gray, Laura Heiser, James Korkola'}
+15	LINCS_LDS-1315	['all.keyword']	10.454861	{'name': 'Joe Gray, Laura Heiser, James Korkola'}
+16	LINCS_LDS-1372	['all.keyword']	10.454861	{'name': 'Todd Golub, Aravind Subramanian'}
+17	LINCS_LDS-1614		10.454861	{'name': 'Caitlin Mills, Kartik Subramanian'}
+18	LINCS_LDS-41234	['all.keyword']	10.454861	{'name': 'Malvina Papanastasiou, Jake Jaffe'}
+19	LINCS_EDS-1016		10.454861	"{'name': ""Avi Ma'ayan, Mario Medvedovic, Stephan Schurer""}"
+20	LINCS_LDS-1191	['all.keyword']	10.454861	{'name': 'Todd Golub, Aravind Subramanian'}
+21	LINCS_LDS-1194		10.454861	{'name': 'Stuart Schreiber, Todd Golub'}
+22	LINCS_LDS-1518	['all.keyword']	10.454861	{'name': 'Caitlin E. Mills, Marc Hafner'}
+23	LINCS_LDS-1519	['all.keyword']	10.454861	{'name': 'Caitlin E. Mills, Marc Hafner'}
+24	LINCS_LDS-1523	['all.keyword']	10.454861	{'name': 'Birtwistle, M.; Iyengar, R.; Sobie, E.'}
+25	LINCS_LDS-1585		10.454861	"{'name': ""Avi Ma'ayan, Mario Medvedovic, Stephan Schurer""}"
+26	LINCS_LDS-1435	['all.keyword']	10.454861	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+27	LINCS_LDS-1439	['all.keyword']	10.454861	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+28	LINCS_LDS-1443	['all.keyword']	10.454861	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+29	LINCS_LDS-1447	['all.keyword']	10.454861	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+30	LINCS_LDS-1451	['all.keyword']	10.454861	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+31	LINCS_LDS-1459	['all.keyword']	10.454861	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+32	LINCS_LDS-1465	['all.keyword']	10.454861	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+33	LINCS_LDS-1469	['all.keyword']	10.454861	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+34	LINCS_EDS-1015		10.433613	"{'name': ""Avi Ma'ayan, Mario Medvedovic, Stephan Schurer""}"
+35	LINCS_LDS-1427	['all.keyword']	10.433613	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+36	LINCS_LDS-1453	['all.keyword']	10.433613	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+37	LINCS_LDS-1457	['all.keyword']	10.433613	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+38	LINCS_LDS-1477	['all.keyword']	10.433613	{'name': 'Joe Gray, Gordon Mills, Laura Heiser, James Korkola'}
+39	LINCS_LDS-1499		10.433613	{'name': 'Jie Wu, Malcolm Casale, Ryan Lim, Jennifer Stocksdale\r\n'}
+40	LINCS_LDS-1512	['all.keyword']	10.433613	{'name': 'Birtwistle, M.; Iyengar, R.; Sobie, E.'}
+41	LINCS_LDS-1555		10.433613	{'name': 'Sean Gross, Kaylyn Devlin, Rebecca Smith, Mark Dane'}
+42	LINCS_LDS-1558		10.433613	{'name': 'Sean Gross, Daniel Derrick'}
+43	LINCS_LDS-1597		10.433613	{'name': 'Kaylyn Devlin, Rebecca Smith, David Kilburn, Mark Dane'}
+44	LINCS_LDS-1605		10.433613	{'name': 'Caitlin Mills, Kartik Subramanian'}
+45	LINCS_LDS-41235	['all.keyword']	10.433613	{'name': 'Malvina Papanastasiou, Jake Jaffe'}
+46	LINCS_LDS-1202	['all.keyword']	10.433613	{'name': 'Todd Golub, Aravind Subramanian'}
+47	LINCS_LDS-1203	['all.keyword']	10.433613	{'name': 'Todd Golub, Aravind Subramanian'}
+48	LINCS_LDS-1293	['all.keyword']	10.433613	{'name': 'Todd Golub, Aravind Subramanian'}
+49	LINCS_LDS-1323	['all.keyword']	10.433613	{'name': 'Joe Gray, Laura Heiser, James Korkola'}
+50	LINCS_LDS-1331	['all.keyword']	10.433613	{'name': 'Joe Gray, Laura Heiser, James Korkola'}
+51	LINCS_LDS-1335	['all.keyword']	10.433613	{'name': 'Joe Gray, Laura Heiser, James Korkola'}
+52	LINCS_LDS-1363	['all.keyword']	10.433613	{'name': 'Marc Hafner, Laura M. Heiser'}
+53	LINCS_LDS-1364	['all.keyword']	10.433613	{'name': 'Marc Hafner, Laura M. Heiser'}
+54	LINCS_LDS-1365	['all.keyword']	10.433613	{'name': 'Marc Hafner, Laura M. Heiser'}
+55	LINCS_LDS-1383	['all.keyword']	10.600381	{'name': 'Bernhard Steiert, Bernhard Kramer'}
+56	LINCS_LDS-1384	['all.keyword']	10.600381	{'name': 'Bernhard Steiert, Bernhard Kramer'}
+57	LINCS_LDS-1382	['all.keyword']	10.454861	{'name': 'Bernhard Steiert, Bernhard Kramer'}
+58	LINCS_LDS-1530	['all.keyword']	10.454861	{'name': 'Caitlin E. Mills, Marc Hafner'}
+59	LINCS_LDS-1531	['all.keyword']	10.454861	{'name': 'Huan (Sharon) Wang, Robert Everley'}
+60	LINCS_LDS-1546	['all.keyword']	10.454861	{'name': 'Marc Hafner, Kartik Subramanian'}
+61	LINCS_LDS-1222	['all.keyword']	10.433613	{'name': 'Marc Hafner, Samuel Bandara'}
+62	LINCS_LDS-1547	['all.keyword']	10.433613	{'name': 'Marc Hafner, Kartik Subramanian'}
+63	LINCS_LDS-1580	['all.keyword']	10.433613	{'name': 'Caitlin E. Mills, Maulik Nariya, Marian Kalocsay, Matt Berberich'}

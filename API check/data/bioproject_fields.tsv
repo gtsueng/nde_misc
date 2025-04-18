@@ -1,0 +1,32 @@
+	Name	FullName	Description	TermCount	IsDate	IsNumerical	SingleToken	Hierarchy	IsHidden
+0	ALL	All Fields	All terms from all searchable fields	21121314	N	N	N	N	N
+1	UID	UID	Unique number assigned to publication	0	N	Y	Y	N	Y
+2	FILT	Filter	Limits the records	113	N	N	Y	N	N
+3	ORGN	Organism	Organism	1483944	N	N	Y	Y	N
+4	PRJA	Project Accession	Project Accession	1133988	N	N	Y	N	N
+5	TYPE	Project Type	Project Type	2	N	N	Y	N	N
+6	STPE	Project Subtype	Project Subtype	7	N	N	Y	N	N
+7	DATE	Registration Date	Registration Date	8126	Y	N	Y	N	N
+8	TITL	Title	Title	2218307	N	N	Y	N	N
+9	CEN	Submitter Organization	Submitter Organization(s)	161755	N	N	Y	N	N
+10	ACCN	Replicon accession	Space delimited GenBank or RefSeq Replicon Accessions	473909	N	N	Y	N	N
+11	RTYP	Replicon type	Replicon Type	17	N	N	Y	N	N
+12	RNME	Replicon name	Replicon Name	129	N	N	Y	N	Y
+13	LTP	Locus Tag Prefix	Locus Tag Prefix	3367543	N	N	Y	N	N
+14	WORD	Description	Organism/Project Description	9016247	N	N	Y	N	N
+15	KWRD	Keyword	Keyword	337	N	N	Y	N	N
+16	PROP	Properties	Project/Organism Properties	50	N	N	Y	N	N
+17	DTPE	Project Data Type	Project Data Type	37	N	N	Y	N	N
+18	GRNT	Grant ID	Grant ID	52411	N	N	Y	N	N
+19	FUND	Funding Agency	Funding Agency	13200	N	N	Y	N	N
+20	PMID	PMID	Pubmed ID	195733	N	Y	Y	N	N
+21	DOID	DOI	DOI ID	6132	N	N	Y	N	Y
+22	PID	ProjectID	Project ID	881899	N	Y	Y	Y	N
+23	RELV	Relevance	Relevance	4418	N	N	Y	N	N
+24	ANME	Assembly name	Assembly Name	3368079	N	N	Y	N	N
+25	BPRJ	BioProject ID	BioProject ID or accession	2015622	N	N	Y	N	Y
+26	TPRJ	Top Bioproject	Top Bioproject ID	56371	N	Y	Y	N	Y
+27	WGSA	WGS Accession	WGS Accessions	2095007	N	N	Y	N	N
+28	AACC	Assembly Accession	Assembly Accession	2542678	N	N	Y	N	N
+29	ATNM	Attribute Name	Attribute Name	6	N	N	Y	N	N
+30	ATTR	Attribute	Attribute	190788	N	N	Y	N	N

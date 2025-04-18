@@ -1,0 +1,86 @@
+{
+    "RecordSet": {
+        "DocumentSummary": {
+            "@uid": "197024",
+            "Project": {
+                "ProjectID": {
+                    "ArchiveID": {
+                        "@accession": "PRJNA197024",
+                        "@archive": "NCBI",
+                        "@id": "197024"
+                    }
+                },
+                "ProjectDescr": {
+                    "Name": "Acetanaerobacterium sp. hmp_mda_pilot_jcvi_0109",
+                    "Title": "HMP reference genome",
+                    "Description": "HMP reference genome. Single cell isolate.",
+                    "ExternalLink": {
+                        "@category": "Related Resources",
+                        "@label": "Broad Institute",
+                        "URL": "http://www.broadinstitute.org/"
+                    },
+                    "Relevance": {
+                        "Medical": "yes"
+                    },
+                    "LocusTagPrefix": "HMPREF1674"
+                },
+                "ProjectType": {
+                    "ProjectTypeSubmission": {
+                        "Target": {
+                            "@capture": "eWhole",
+                            "@material": "eGenome",
+                            "@sample_scope": "eMonoisolate",
+                            "Organism": {
+                                "@species": "1316517",
+                                "@taxID": "1316517",
+                                "OrganismName": "Acetanaerobacterium sp. hmp_mda_pilot_jcvi_0109",
+                                "Strain": "hmp_mda_pilot_jcvi_0109",
+                                "Supergroup": "eBacteria"
+                            }
+                        },
+                        "Method": {
+                            "@method_type": "eSequencing"
+                        },
+                        "Objectives": {
+                            "Data": {
+                                "@data_type": "eSequence"
+                            }
+                        },
+                        "ProjectDataTypeSet": {
+                            "DataType": "Genome sequencing"
+                        }
+                    }
+                }
+            },
+            "Submission": {
+                "@last_update": "2013-04-15",
+                "@submitted": "2013-04-15",
+                "Description": {
+                    "Organization": {
+                        "@role": "participant",
+                        "@type": "institute",
+                        "Name": "Broad Institute"
+                    },
+                    "Access": "public"
+                }
+            },
+            "ProjectLinks": {
+                "Link": {
+                    "ProjectIDRef": {
+                        "@archive": "NCBI",
+                        "@id": "197024",
+                        "@accession": "PRJNA197024"
+                    },
+                    "Hierarchical": {
+                        "@type": "TopAdmin",
+                        "MemberID": {
+                            "@archive": "NCBI",
+                            "@id": "28331",
+                            "@accession": "PRJNA28331"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

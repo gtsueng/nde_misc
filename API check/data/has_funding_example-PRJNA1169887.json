@@ -1,0 +1,83 @@
+{
+    "RecordSet": {
+        "DocumentSummary": {
+            "@uid": "1169887",
+            "Project": {
+                "ProjectID": {
+                    "ArchiveID": {
+                        "@accession": "PRJNA1169887",
+                        "@archive": "NCBI",
+                        "@id": "1169887"
+                    },
+                    "LocalID": [
+                        "bp0",
+                        "bp0"
+                    ]
+                },
+                "ProjectDescr": {
+                    "Title": "Whole genome sequencing of Anopheles (Nyssorhynchus) darlingi and related mosquitoes from across South America",
+                    "Description": "Illumina reads from whole-genome sequencing of mosquito specimens",
+                    "Grant": {
+                        "@GrantId": "U19 AI110818",
+                        "Title": "Advancing genomic, transcriptomic and functional approaches to combat globally important and emerging pathogens",
+                        "Agency": {
+                            "@abbr": "NIAID NIH HHS",
+                            "#text": "National Institute of Allergy and Infectious Diseases Extramural Activities"
+                        },
+                        "PI": {
+                            "@affil": "THE BROAD INSTITUTE, INC.",
+                            "@auth": "era",
+                            "@userid": "9621853",
+                            "Last": "Neafsey",
+                            "Given": "Daniel E"
+                        }
+                    }
+                },
+                "ProjectType": {
+                    "ProjectTypeSubmission": {
+                        "Target": {
+                            "@capture": "eWhole",
+                            "@material": "eGenome",
+                            "@sample_scope": "eMultispecies"
+                        },
+                        "Method": {
+                            "@method_type": "eSequencing"
+                        },
+                        "Objectives": {
+                            "Data": {
+                                "@data_type": "eRawSequenceReads"
+                            }
+                        },
+                        "IntendedDataTypeSet": {
+                            "DataType": "raw sequence reads"
+                        },
+                        "ProjectDataTypeSet": {
+                            "DataType": "raw sequence reads"
+                        }
+                    }
+                }
+            },
+            "Submission": {
+                "@last_update": "2024-10-07",
+                "@submission_id": "SUB14775096",
+                "@submitted": "2024-10-07",
+                "Description": {
+                    "Organization": {
+                        "@org_id": "20637",
+                        "@role": "owner",
+                        "@type": "institute",
+                        "@url": "https://www.broadinstitute.org/scientific-community/science/projects/gscid/genomic-center-infectious-diseases",
+                        "Name": {
+                            "@abbr": "Broad_GCID",
+                            "#text": "Broad Institute Genomic Center for Infectious Diseases"
+                        }
+                    },
+                    "Access": "public"
+                },
+                "Action": {
+                    "@action_id": "SUB14775096-bp0"
+                }
+            }
+        }
+    }
+}

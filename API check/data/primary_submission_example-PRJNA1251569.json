@@ -1,0 +1,63 @@
+{
+    "RecordSet": {
+        "DocumentSummary": {
+            "@uid": "1251569",
+            "Project": {
+                "ProjectID": {
+                    "ArchiveID": {
+                        "@accession": "PRJNA1251569",
+                        "@archive": "NCBI",
+                        "@id": "1251569"
+                    },
+                    "LocalID": [
+                        "bp0",
+                        "bp0"
+                    ]
+                },
+                "ProjectDescr": {
+                    "Title": "A lncRNA Regulates Sexual Differentiation and Antigenic Variation in Plasmodium falciparum",
+                    "Description": "Gametocytogenesis in Plasmodium falciparum involves a complex regulatory network, with the transcription factor AP2-G playing a central role in sexual commitment. While epigenetic mechanisms, including heterochromatin modifiers like PfHP1 and PfHda2, are known to suppress ap2-g expression, the factors driving its activation remain unclear. Here, we identify a long noncoding antisense RNA (ap2g-asRNA) originating from the 3' downstream region of the ap2-g locus, which positively correlates with gametocyte production. Our findings uncover ap2g-asRNA as a critical epigenetic regulator of sexual differentiation in malaria parasites, offering new insights for transmission-blocking strategies."
+                },
+                "ProjectType": {
+                    "ProjectTypeSubmission": {
+                        "Target": {
+                            "@capture": "eWhole",
+                            "@material": "eGenome",
+                            "@sample_scope": "eMultispecies"
+                        },
+                        "Method": {
+                            "@method_type": "eSequencing"
+                        },
+                        "Objectives": {
+                            "Data": {
+                                "@data_type": "eRawSequenceReads"
+                            }
+                        },
+                        "IntendedDataTypeSet": {
+                            "DataType": "raw sequence reads"
+                        },
+                        "ProjectDataTypeSet": {
+                            "DataType": "raw sequence reads"
+                        }
+                    }
+                }
+            },
+            "Submission": {
+                "@last_update": "2025-04-16",
+                "@submission_id": "SUB15238475",
+                "@submitted": "2025-04-16",
+                "Description": {
+                    "Organization": {
+                        "@role": "owner",
+                        "@type": "institute",
+                        "Name": "Central South University"
+                    },
+                    "Access": "public"
+                },
+                "Action": {
+                    "@action_id": "SUB15238475-bp0"
+                }
+            }
+        }
+    }
+}

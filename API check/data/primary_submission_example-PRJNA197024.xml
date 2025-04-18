@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<RecordSet><DocumentSummary uid="197024">
+    <Project>
+        <ProjectID>
+            <ArchiveID accession="PRJNA197024" archive="NCBI" id="197024"/>
+        </ProjectID>
+        <ProjectDescr>
+            <Name>Acetanaerobacterium sp. hmp_mda_pilot_jcvi_0109</Name>
+            <Title>HMP reference genome</Title>
+            <Description>HMP reference genome. Single cell isolate.</Description>
+            <ExternalLink category="Related Resources" label="Broad Institute">
+                <URL>http://www.broadinstitute.org/</URL>
+            </ExternalLink>
+            <Relevance>
+                <Medical>yes</Medical>
+            </Relevance>
+            <LocusTagPrefix>HMPREF1674</LocusTagPrefix>
+        </ProjectDescr>
+        <ProjectType>
+            <ProjectTypeSubmission>
+                <Target capture="eWhole" material="eGenome" sample_scope="eMonoisolate">
+                    <Organism species="1316517" taxID="1316517">
+                        <OrganismName>Acetanaerobacterium sp. hmp_mda_pilot_jcvi_0109</OrganismName>
+                        <Strain>hmp_mda_pilot_jcvi_0109</Strain>
+                        <Supergroup>eBacteria</Supergroup>
+                    </Organism>
+                </Target>
+                <Method method_type="eSequencing"/>
+                <Objectives>
+                    <Data data_type="eSequence"/>
+                </Objectives>
+                <ProjectDataTypeSet>
+                    <DataType>Genome sequencing</DataType>
+                </ProjectDataTypeSet>
+            </ProjectTypeSubmission>
+        </ProjectType>
+    </Project>
+    <Submission last_update="2013-04-15" submitted="2013-04-15">
+        <Description>
+            <!-- Submitter information has been removed -->
+            <Organization role="participant" type="institute">
+                <Name>Broad Institute</Name>
+                <!-- Contact information has been removed -->
+            </Organization>
+            <Access>public</Access>
+        </Description>
+    </Submission>
+    <ProjectLinks>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="197024" accession="PRJNA197024"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="28331" accession="PRJNA28331"/>
+            </Hierarchical>
+        </Link>
+    </ProjectLinks>
+</DocumentSummary>
+
+</RecordSet>
