@@ -14,3 +14,4 @@ alternateName
 mainEntityOfPage
 sameAs
 relationship
+sourceOrganization.name

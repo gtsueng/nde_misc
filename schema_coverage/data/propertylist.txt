@@ -9,6 +9,7 @@ measurementTechnique
 measurementTechnique.name
 includedInDataCatalog
 includedInDataCatalog.name
+includedIndataCatalog.archivedAt
 distribution
 distribution.contentUrl
 distribution.dateModified
@@ -27,6 +28,7 @@ species
 variableMeasured
 citation
 citation.pmid
+citation.doi
 conditionsOfAccess
 isBasedOn
 keywords
