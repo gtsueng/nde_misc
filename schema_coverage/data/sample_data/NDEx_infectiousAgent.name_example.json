@@ -1,0 +1,124 @@
+{
+    "@type": "Dataset",
+    "_id": "ndex_1a04f0e4-1c98-11eb-9eee-0ac135e8bacf",
+    "_score": 8.719278,
+    "author": {
+        "name": "Hsuan-lin Her, Po-Ting Lin, Yu-Wei Wu"
+    },
+    "citation": {
+        "description": "PangenomeNet: A pan-genome-based functional network provide mechanistic view on Meropenem Resistome for Escherichia coli strainsHsuan-Lin Her1, Po-Ting Lin2,3*, and Yu-Wei Wu4,5*"
+    },
+    "conditionsOfAccess": "Open",
+    "date": "2020-12-07",
+    "dateCreated": "2020-11-01T23:15:16.209000",
+    "dateModified": "2020-12-07T00:49:36.825000",
+    "description": "Meropenem Resistance gene co-functional network\n",
+    "distribution": {
+        "contentSize": 1880334
+    },
+    "healthCondition": [
+        {
+            "name": "Meropenem resistance"
+        }
+    ],
+    "identifier": "1a04f0e4-1c98-11eb-9eee-0ac135e8bacf",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ndexbio.org/viewer/networks/1a04f0e4-1c98-11eb-9eee-0ac135e8bacf",
+        "name": "NDEx",
+        "url": "https://www.ndexbio.org/",
+        "versionDate": "2025-07-05"
+    },
+    "infectiousAgent": [
+        {
+            "alternateName": [
+                "IAM 12119",
+                "Bacillus coli",
+                "Bacterium coli",
+                "Bacterium coli commune",
+                "Escherchia coli",
+                "Eschericia coli",
+                "Escherichia sp. MAR",
+                "bacterium E3",
+                "Escherichia/Shigella coli",
+                "Enterococcus coli",
+                "\"Bacillus coli\" Migula 1895",
+                "\"Bacterium coli commune\" Escherich 1885",
+                "\"Bacterium coli\" (Migula 1895) Lehmann and Neumann 1896",
+                "Escherichia coli (Migula 1895) Castellani and Chalmers 1919",
+                "bacterium 10a",
+                "strain U5/41",
+                "E. coli",
+                "ATCC 11775",
+                "CCUG 24",
+                "CCUG 29300",
+                "CIP 54.8",
+                "DSM 30083",
+                "JCM 1649",
+                "LMG 2092",
+                "LMG:2092",
+                "NBRC 102203",
+                "NCCB 54008",
+                "NCTC 9001",
+                "Escherichia sp. 3_2_53FAA",
+                "Achromobacter sp. ATCC 35328"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Escherichia coli",
+            "identifier": "562",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Escherichia coli",
+            "originalName": "escherichia coli",
+            "url": "https://www.uniprot.org/taxonomy/562"
+        }
+    ],
+    "keywords": [
+        "Antibiotic resistance",
+        "bacteria",
+        "Escherichia coli",
+        "pangenome",
+        "horizontal gene transfer",
+        "Co-functional Network"
+    ],
+    "license": "MIT license (MIT)",
+    "name": "Meropenem resistant network",
+    "topicCategory": [
+        {
+            "identifier": "topic_0602",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular interactions, pathways and networks",
+            "url": "http://edamontology.org/topic_0602"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_4013",
+            "inDefinedTermSet": "EDAM",
+            "name": "Antimicrobial Resistance",
+            "url": "http://edamontology.org/topic_4013"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0085",
+            "inDefinedTermSet": "EDAM",
+            "name": "Functional genomics",
+            "url": "http://edamontology.org/topic_0085"
+        }
+    ],
+    "url": "https://www.ndexbio.org/viewer/networks/1a04f0e4-1c98-11eb-9eee-0ac135e8bacf"
+}

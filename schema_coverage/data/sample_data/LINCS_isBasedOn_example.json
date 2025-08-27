@@ -1,0 +1,79 @@
+{
+    "@type": "Dataset",
+    "_id": "lds-1002",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 12.031475,
+    "assayformat": "Cell based",
+    "author": [
+        {
+            "affiliation": {
+                "name": "HMS LINCS (Harvard Medical School)"
+            },
+            "name": "Tim Mitchison",
+            "url": "http://lincs.hms.harvard.edu"
+        },
+        {
+            "name": "Nathan Moerke"
+        }
+    ],
+    "date": "2016-07-12",
+    "dateModified": "2016-07-12",
+    "datePublished": "2011-07-15",
+    "description": "Moerke 2 Color Apoptosis: IA-LM, IST-MEL1, NCI-H1648, PC-9 and SK-LMS-1 cells. Dose response of anti-mitotic compounds in human cancer cell lines at 24, 48, and 72 hours to determine their effects on apoptosis.  In this assay, the cell-permeable DNA dye Hoechst 33342 is used to stain the nuclei of all cells.  The fluorescent caspase 3 reporter NucView488 stains the nuclei of cells undergoing apoptosis (in which caspase 3 is active).",
+    "distribution": {
+        "contentSize": "40674"
+    },
+    "funding": {
+        "identifier": "NIH 1U54HG006097-01; NIH 1U54HL127365-01"
+    },
+    "identifier": "LDS-1002",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://lincsportal.ccs.miami.edu/datasets/view/LDS-1002",
+        "name": "LINCS",
+        "url": "https://lincsportal.ccs.miami.edu/datasets/",
+        "versionDate": "2025-08-23"
+    },
+    "isBasedOn": [
+        {
+            "name": "protocol",
+            "url": "LDG-1001_Protocol.pdf"
+        }
+    ],
+    "isRelatedTo": {
+        "_id": "ldg-1001",
+        "identifier": "LDG-1001",
+        "name": "LDG-1001",
+        "url": "https://lincsportal.ccs.miami.edu/datasets/view/LDG-1001"
+    },
+    "keywords": [
+        "Fluorescence imaging",
+        "PC-9",
+        "COLO 800",
+        "Apoptotic process",
+        "Cytological profile",
+        "IA-LM",
+        "IST-MEL1",
+        "NCI-H1648",
+        "Imaging"
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "0002946",
+            "inDefinedTermSet": "OBI",
+            "isCurated": true,
+            "name": "fluorescence imaging-based apoptosis assay",
+            "originalName": "Fluorescence imaging apoptosis assay",
+            "url": "https://ontobee.org/ontology/OBI?iri=http://purl.obolibrary.org/obo/OBI_0002946"
+        }
+    ],
+    "name": "Moerke 2 Color Apoptosis",
+    "url": "https://lincsportal.ccs.miami.edu/datasets/view/LDS-1002",
+    "variableMeasured": {
+        "name": "Fluorescence intensity"
+    }
+}

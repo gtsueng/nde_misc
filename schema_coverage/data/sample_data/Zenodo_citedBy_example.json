@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_5763837",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 2.6650717,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Max Planck Institute for Biogeochemistry, Jena"
+            },
+            "name": "Trautmann, Tina"
+        }
+    ],
+    "citedBy": [
+        {
+            "url": "https://hess.copernicus.org/preprints/hess-2021-394/"
+        }
+    ],
+    "curatedBy": {
+        "@type": "DataCatalog",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2025-04-12"
+    },
+    "date": "2022-01-27",
+    "dateModified": "2022-01-27",
+    "datePublished": "2022-01-26T00:00:00",
+    "description": "Data used to reproduce the analysis and figures of\u00a0Trautmann, T., Koirala, S., Carvalhais, N., G\u00fcntner, A., & Jung, M. (2021). The importance of vegetation to understand terrestrial water storage variations. Hydrology and Earth System Sciences Discussions, 1-31\n\n\nThe .zip files include:\n\n\n\n\n\t\n\u00a0input.7zip\n\t\n\n\t\t\nforcing data and observational constraints\n\t\t\nancillary data such as the regional classification\n\t\t\nall data is provided in *.mat files and adjusted to the study area and considered time period\n\t\t\nall original data is publical available, please se the references and processing as described in Trautmann et al. 2021\n\t\n\t\n\t\nmodel output from different experiments\n\t\n\n\t\t\noutput from different model experiments, including simulated fluxes & states and information on model settings\u00a0\n\t\n\t\n\n\n\nwhen unpacked, that data should be stored in a folder like follows:\n\n\n\n\t\ndata/\n\n\t\n\n\t\t\ninput/ -> the unpacked input.7zip\n\t\t\nmodel_output/ -> the unpacked other .zip files, in 1 folder each",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/5763838/files-archive",
+            "dateModified": "2022-01-27"
+        }
+    ],
+    "doi": "10.5281/zenodo.5763837",
+    "identifier": "zenodo.5763837",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://zenodo.org/records/5763838",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2025-04-12"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Datasets for Trautmann et al. 2021",
+    "sameAs": [
+        "https://zenodo.org/records/5763838"
+    ],
+    "url": "https://zenodo.org/record/5763837"
+}

@@ -1,0 +1,186 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "microbiome_camp_study",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.668658,
+    "abstract": "The CAnine Microbiome during Parasitism (CAMP) study explors the impact of natural enteric parasite infection on diarrhea and the gut microbiome in domesticated dogs.",
+    "alternateName": "MicrobiomeStudyEDA_CAMP_RSRC",
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of Pennsylvania"
+            },
+            "name": "Daniel Beiting"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "contributor": {
+        "affiliation": "University of Pennsylvania",
+        "email": "beiting@sas.upenn.edu"
+    },
+    "description": "Enteric parasitic infections are among the most prevalent infections in the developing world, and have a profound impact on global public health.  While the microbiome is increasingly recognized as a key determinant of gut health and human development, the impact of natural parasite infections on the microbial community in the gut is poorly understood.  There are several challenges to studying parasite-microbiome interactions in a human population, including frequent administration of anti-parasitic treatments, malnourishment, and low prevalence of these infections in developed countries.  In contrast, enteric parasites are routinely identified in annual screens of domestic dogs and cats in the United States, presenting a unique opportunity to investigate the impact of naturally-acquired parasite infections on the microbiome.  Giardia, for example, is among the most prevalent parasites in domestic dogs and cats. Here, we investigated the impact of eukaryotic parasite infection on the composition and diversity of the gut microbiome in a cohort of 270 dogs. Fecal samples of uninfected dogs (43%), dogs infected with a single parasite (48%), and dogs infected with multiple parasites (9%), were obtained from patients at the University of Pennsylvania\u2019s Ryan Veterinary Hospital. The V4 region of the 16S rRNA gene was sequenced at an average depth of 45,000 reads per sample. We observed a significant correlation between parasite infection and beta diversity consistent with the hypothesis that enteric parasites perturb the composition of the bacterial microbiome.  We also observed that, relative to other types of enteric pathogens observed in our dataset, Giardia was associated with a more pronounced perturbation of the microbiome.  Finally, we use publicly available data from large-scale human field studies of enteric diseases to compare and contrast parasite-induced alterations in the microbiome across host species.\nThe CAnine Microbiome during Parasitism (CAMP) study explores the impact of natural enteric parasite infection and diarrhea on the structure and composition of the microbiome.\n155 dogs with confirmed enteric parasite infection and 115 control animals (parasites not detected)\n270 stool samples; V4 region of 16S rRNA gene.\nCase-control (retrospective) design carried out with the Clinical Parasitology Laboratory at PennVet's Ryan Hospital.",
+    "distribution": [
+        {
+            "contentUrl": "https://microbiomedb.org/mbio/app/downloads/release-11/5aa0a2e0934c22d1eb4d7b09cb6af2c2caa10762",
+            "datePublished": "2019-03-07",
+            "identifier": "DS_5aa0a2e093",
+            "name": "MicrobiomeStudyEDA_CAMP_RSRC"
+        },
+        {
+            "contentUrl": "https://microbiomedb.org/mbio/app/downloads/release-32/5aa0a2e0934c22d1eb4d7b09cb6af2c2caa10762",
+            "datePublished": "2023-05-30",
+            "identifier": "DS_5aa0a2e093",
+            "name": "MicrobiomeStudyEDA_CAMP_RSRC"
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "diarrheal disease",
+                "diarrhoea",
+                "diarrheal disorder",
+                "diarrhea",
+                "loose stools",
+                "frequent stools"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0001673",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "diarrheal disease",
+            "originalName": "diarrhea",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0001673"
+        }
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://microbiomedb.org/mbio/app/record/dataset/DS_5aa0a2e093",
+        "name": "MicrobiomeDB",
+        "url": "https://microbiomedb.org/mbio/app",
+        "versionDate": "2025-08-23"
+    },
+    "infectiousAgent": [
+        {
+            "alternateName": [
+                "mice gut metagenome"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "mouse gut metagenome",
+            "fromEXTRACT": true,
+            "identifier": "410661",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "mouse gut metagenome",
+            "originalName": "gut microbiome",
+            "url": "https://www.uniprot.org/taxonomy/410661"
+        },
+        {
+            "alternateName": [
+                "Giardia Kunstler, 1882"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Giardia",
+            "fromEXTRACT": true,
+            "identifier": "5740",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Giardia",
+            "originalName": "Giardia",
+            "url": "https://www.uniprot.org/taxonomy/5740"
+        }
+    ],
+    "keywords": [
+        "Veterinary"
+    ],
+    "name": "CAMP study",
+    "species": [
+        {
+            "alternateName": [
+                "dogs",
+                "beagle dogs",
+                "Canis familiaris Linnaeus, 1758",
+                "Canis borealis Smith, 1839",
+                "Dog",
+                "Canis canis",
+                "beagle dog",
+                "dog",
+                "Canis borealis",
+                "Canis lupus borealis",
+                "Canis lupus familiaris Linnaeus, 1758",
+                "Canis lupus borealis Smith, 1839",
+                "Canis domesticus"
+            ],
+            "classification": "host",
+            "commonName": "Dog",
+            "displayName": "Dog | Canis lupus familiaris",
+            "fromEXTRACT": true,
+            "identifier": "9615",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Canis lupus familiaris",
+            "originalName": "dogs",
+            "url": "https://www.uniprot.org/taxonomy/9615"
+        },
+        {
+            "alternateName": [
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapian",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapients",
+                "Homo spaiens",
+                "Homo spiens",
+                "Human",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sapiense",
+                "human"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromEXTRACT": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "originalName": "human",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        },
+        {
+            "alternateName": [
+                "Cat",
+                "cats",
+                "domestic cat",
+                "cat",
+                "Felis domesticus",
+                "Korat cats",
+                "Felis catus Linnaeus, 1758",
+                "Korat cats L."
+            ],
+            "classification": "host",
+            "commonName": "Cat",
+            "displayName": "Cat | Felis catus",
+            "fromEXTRACT": true,
+            "identifier": "9685",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Felis catus",
+            "originalName": "cats",
+            "url": "https://www.uniprot.org/taxonomy/9685"
+        }
+    ],
+    "url": "https://microbiomedb.org/mbio/app/record/dataset/DS_5aa0a2e093"
+}

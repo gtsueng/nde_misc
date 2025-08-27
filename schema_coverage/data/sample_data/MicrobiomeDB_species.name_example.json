@@ -1,0 +1,863 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "microbiome_diabimmune",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.217035,
+    "abstract": "The DIABIMMUNE project tests for associations between microbiome composition and the development of autoimmune disease, particularly type 1 diabetes by leverage pediatric cohorts with disparte rates of disease prevalence.",
+    "alternateName": "MicrobiomeStudyEDA_DiabImmune_RSRC",
+    "author": [
+        {
+            "affiliation": {
+                "name": "Broad Institute and Mass. General Hospital; Harvard University"
+            },
+            "name": "Ramnik J. Xavier"
+        }
+    ],
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Vatanen T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kostic AD"
+                },
+                {
+                    "@type": "Person",
+                    "name": "d'Hennezel E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Siljander H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Franzosa EA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Yassour M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kolde R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Vlamakis H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arthur TD"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hamalainen AM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Peet A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tillmann V"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Uibo R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mokurov S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorshakova N"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ilonen J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Virtanen SM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Szabo SJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Porter JA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lahdesmaki H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Huttenhower C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gevers D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cullen TW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Knip M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Xavier RJ"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "DIABIMMUNE Study Group"
+                }
+            ],
+            "datePublished": "2016-05-05",
+            "fromPMID": true,
+            "identifier": "PMID:27133167",
+            "journalName": "Cell",
+            "name": "Variation in Microbiome LPS Immunogenicity Contributes to Autoimmunity in Humans.",
+            "pmid": "27133167",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27133167/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Yassour M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Vatanen T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Siljander H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hamalainen AM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Harkonen T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ryhanen SJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Franzosa EA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Vlamakis H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Huttenhower C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gevers D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lander ES"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Knip M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Xavier RJ"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "DIABIMMUNE Study Group"
+                }
+            ],
+            "datePublished": "2016-06-15",
+            "fromPMID": true,
+            "identifier": "PMID:27306663",
+            "journalName": "Science translational medicine",
+            "name": "Natural history of the infant gut microbiome and impact of antibiotic treatment on bacterial strain diversity and stability.",
+            "pmid": "27306663",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27306663/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Kostic AD"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gevers D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Siljander H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Vatanen T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hyotylainen T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hamalainen AM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Peet A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tillmann V"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Poho P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mattila I"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lahdesmaki H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Franzosa EA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Vaarala O"
+                },
+                {
+                    "@type": "Person",
+                    "name": "de Goffau M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Harmsen H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ilonen J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Virtanen SM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Clish CB"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Oresic M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Huttenhower C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Knip M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Xavier RJ"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "DIABIMMUNE Study Group"
+                }
+            ],
+            "datePublished": "2015-02-11",
+            "fromPMID": true,
+            "identifier": "PMID:25662751",
+            "journalName": "Cell host & microbe",
+            "name": "The dynamics of the human infant gut microbiome in development and in progression toward type 1 diabetes.",
+            "pmid": "25662751",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25662751/"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "contributor": {
+        "affiliation": "Broad Institute and Mass. General Hospital; Harvard University",
+        "email": "xavier@molbio.mgh.harvard.edu"
+    },
+    "description": "The DIABIMMUNE project aims to test the hygiene hypothesis and explore its role in the development of type 1 diabetes and other autoimmune diseases. Project researchers are seeking to validate the hypothesis and, in the process, uncover the biological mechanisms through which hygiene influences the immune system and potentially hampers the immune responses. This web site contains information about microbiome analyses conducted for DIABIMMUNE by researchers based at the Broad Institute. Previous studies have shown that a strong association exists between the prevalence of immune-mediated disease and improved standard of living and hygiene. The \u201chygiene hypothesis\u201d is a widely supported theory that accounts for this observed association between the increase in diseases of the immune system and decreased exposure to pathogens. Initially, the hygiene hypothesis referred only to the increased incidence of allergy and asthma in developed countries, but in recent years it has been applied to the increased incidence of autoimmune diseases, such as type 1 diabetes (T1D) as well.The DIABIMMUNE project is looking at the microbiome in subjects from three separate countries \u2013 Russia, Finland, and Estonia \u2013 in order to explore this phenomenon. One of the starkest contrasts in standard of living worldwide is present at the border between Russian Karelia and Finland, where there is a sevenfold difference in the gross national product. Meanwhile, Estonia represents a country in rapid transition, having westernized since breaking away from the USSR over twenty years ago. These three populations comprise a \u201cliving laboratory,\u201d offering a unique opportunity to test the hygiene hypothesis and gene-environmental interactions in the development of autoimmune disease. While there is little difference in the frequency of the HLA (human leukocyte antigen) genotypes that predispose individuals to and protect them from T1D between these countries, the incidence of T1D is six times lower in Russian Karelia than in Finland. The aim of the DIABIMMUNE project is to assess the role of the hygiene hypothesis in the development of immune-mediated diseases \u2013 T1D in particular \u2013 and to define the mechanisms behind the potential protective effect conferred by microbial agents. A part of the study follows 76 children from all the three countries. In this application, funding for the travel expenses to collaborate in this study by conducting statistical and computational modeling for this data is applied.\nBroad Institute's study of three pediatric cohorts that examined the microbiome in children at high risk for development of Type 1 diabetes (T1D).\n289 children across three sites, including Russia (Karelia), Finland and Estonia.\n3184 stool samples; V4 region of 16S rRNA gene.\n1149/3184 stool samples; 'shotgun' metagenomic sequencing.\nProspective cohort design with monthly sampling for the first ~3 years of life.",
+    "distribution": [
+        {
+            "contentUrl": "https://microbiomedb.org/mbio/app/downloads/release-29/a2f8877e68602b8b7527dd054833ade919d39d93",
+            "datePublished": "2022-08-30",
+            "identifier": "DS_a2f8877e68",
+            "name": "MicrobiomeStudyEDA_DiabImmune_RSRC"
+        },
+        {
+            "contentUrl": "https://microbiomedb.org/mbio/app/downloads/release-32/a2f8877e68602b8b7527dd054833ade919d39d93",
+            "datePublished": "2023-05-30",
+            "identifier": "DS_a2f8877e68",
+            "name": "MicrobiomeStudyEDA_DiabImmune_RSRC"
+        },
+        {
+            "contentUrl": "https://microbiomedb.org/mbio/app/downloads/release-37/a2f8877e68602b8b7527dd054833ade919d39d93",
+            "datePublished": "2024-05-07",
+            "identifier": "DS_a2f8877e68",
+            "name": "MicrobiomeStudyEDA_DiabImmune_RSRC"
+        }
+    ],
+    "funding": [
+        {
+            "endDate": "1995-12-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
+                        "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "NIDDK"
+                    ],
+                    "identifier": "https://ror.org/00adh9b73",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P30DK043351-01",
+            "name": "CENTER FOR THE STUDY OF INFLAMMATORY BOWEL DISEASE",
+            "projectNumSplit": {
+                "activityCode": "P30",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "DK",
+                "serialNum": "043351",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "1991-02-05",
+            "url": "https://reporter.nih.gov/project-details/3102172"
+        },
+        {
+            "endDate": "2015-08-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
+                        "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "NIDDK"
+                    ],
+                    "identifier": "https://ror.org/00adh9b73",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01DK092405-01A1",
+            "name": "Autophagy genes and the microbiome in Crohn's Disease",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "DK",
+                "serialNum": "092405",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2012-09-05",
+            "url": "https://reporter.nih.gov/project-details/8295619"
+        },
+        {
+            "endDate": "2016-08-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "Office of Alternative Medicine",
+                        "National Center for Complementary and Alternative Medicine",
+                        "OAM",
+                        "NCCAM",
+                        "NCCIH"
+                    ],
+                    "identifier": "https://ror.org/00190t495",
+                    "name": "National Center for Complementary and Integrative Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "alternateName": [
+                        "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
+                        "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "NIDDK"
+                    ],
+                    "identifier": "https://ror.org/00adh9b73",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "alternateName": [
+                        "Office of the Director",
+                        "Office of the Director, NIH",
+                        "OD",
+                        "Office of the NIH Director"
+                    ],
+                    "identifier": "https://ror.org/00fj8a872",
+                    "name": "NIH Office of the Director",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "8U54DK102557-02",
+            "name": "Characterizing the gut microbial ecosystem for diagnosis and therapy in IBD",
+            "projectNumSplit": {
+                "activityCode": "U54",
+                "applTypeCode": "8",
+                "fullSupportYear": "02",
+                "icCode": "DK",
+                "serialNum": "102557",
+                "suffixCode": "",
+                "supportYear": "02"
+            },
+            "startDate": "2013-09-06",
+            "url": "https://reporter.nih.gov/project-details/8731194"
+        },
+        {
+            "endDate": "2016-08-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "Office of Alternative Medicine",
+                        "National Center for Complementary and Alternative Medicine",
+                        "OAM",
+                        "NCCAM",
+                        "NCCIH"
+                    ],
+                    "identifier": "https://ror.org/00190t495",
+                    "name": "National Center for Complementary and Integrative Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "alternateName": [
+                        "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
+                        "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "NIDDK"
+                    ],
+                    "identifier": "https://ror.org/00adh9b73",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "alternateName": [
+                        "Office of the Director",
+                        "Office of the Director, NIH",
+                        "OD",
+                        "Office of the NIH Director"
+                    ],
+                    "identifier": "https://ror.org/00fj8a872",
+                    "name": "NIH Office of the Director",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "8U54DK102557-02",
+            "name": "Characterizing the gut microbial ecosystem for diagnosis and therapy in IBD",
+            "projectNumSplit": {
+                "activityCode": "U54",
+                "applTypeCode": "8",
+                "fullSupportYear": "02",
+                "icCode": "DK",
+                "serialNum": "102557",
+                "suffixCode": "",
+                "supportYear": "02"
+            },
+            "startDate": "2013-09-06",
+            "url": "https://reporter.nih.gov/project-details/8731194"
+        },
+        {
+            "endDate": "2007-03-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
+                        "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "NIDDK"
+                    ],
+                    "identifier": "https://ror.org/00adh9b73",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01DK060049-01A1",
+            "name": "Toll-like Receptors and the Intestinal Epithelium",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "DK",
+                "serialNum": "060049",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2002-04-01",
+            "url": "https://reporter.nih.gov/project-details/6472945"
+        },
+        {
+            "endDate": "2006-10-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "The National Human Genome Research Institute",
+                        "NIH/National Human Genome Research Institute",
+                        "NHGRI"
+                    ],
+                    "identifier": "https://ror.org/00baak391",
+                    "name": "National Human Genome Research Institute",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U54HG003067-01",
+            "name": "Large Scale Sequencing and Analysis of Genomes",
+            "projectNumSplit": {
+                "activityCode": "U54",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HG",
+                "serialNum": "003067",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2003-11-10",
+            "url": "https://reporter.nih.gov/project-details/6739207"
+        },
+        {
+            "endDate": "1995-12-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
+                        "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "NIDDK"
+                    ],
+                    "identifier": "https://ror.org/00adh9b73",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P30DK043351-01",
+            "name": "CENTER FOR THE STUDY OF INFLAMMATORY BOWEL DISEASE",
+            "projectNumSplit": {
+                "activityCode": "P30",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "DK",
+                "serialNum": "043351",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "1991-02-05",
+            "url": "https://reporter.nih.gov/project-details/3102172"
+        },
+        {
+            "endDate": "2015-08-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
+                        "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "NIDDK"
+                    ],
+                    "identifier": "https://ror.org/00adh9b73",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01DK092405-01A1",
+            "name": "Autophagy genes and the microbiome in Crohn's Disease",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "DK",
+                "serialNum": "092405",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2012-09-05",
+            "url": "https://reporter.nih.gov/project-details/8295619"
+        },
+        {
+            "endDate": "2010-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AI062773-01A1",
+            "name": "Genomic Approaches to Host-Pathogen Interactions",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "AI",
+                "serialNum": "062773",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2006-08-01",
+            "url": "https://reporter.nih.gov/project-details/7030660"
+        },
+        {
+            "endDate": "1995-12-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
+                        "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "NIDDK"
+                    ],
+                    "identifier": "https://ror.org/00adh9b73",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P30DK043351-01",
+            "name": "CENTER FOR THE STUDY OF INFLAMMATORY BOWEL DISEASE",
+            "projectNumSplit": {
+                "activityCode": "P30",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "DK",
+                "serialNum": "043351",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "1991-02-05",
+            "url": "https://reporter.nih.gov/project-details/3102172"
+        },
+        {
+            "endDate": "2016-08-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "Office of Alternative Medicine",
+                        "National Center for Complementary and Alternative Medicine",
+                        "OAM",
+                        "NCCAM",
+                        "NCCIH"
+                    ],
+                    "identifier": "https://ror.org/00190t495",
+                    "name": "National Center for Complementary and Integrative Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "alternateName": [
+                        "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
+                        "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "NIDDK"
+                    ],
+                    "identifier": "https://ror.org/00adh9b73",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "alternateName": [
+                        "Office of the Director",
+                        "Office of the Director, NIH",
+                        "OD",
+                        "Office of the NIH Director"
+                    ],
+                    "identifier": "https://ror.org/00fj8a872",
+                    "name": "NIH Office of the Director",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "8U54DK102557-02",
+            "name": "Characterizing the gut microbial ecosystem for diagnosis and therapy in IBD",
+            "projectNumSplit": {
+                "activityCode": "U54",
+                "applTypeCode": "8",
+                "fullSupportYear": "02",
+                "icCode": "DK",
+                "serialNum": "102557",
+                "suffixCode": "",
+                "supportYear": "02"
+            },
+            "startDate": "2013-09-06",
+            "url": "https://reporter.nih.gov/project-details/8731194"
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "disease, autoimmune",
+                "autoimmune disorder",
+                "autoimmune disease or disorder",
+                "autoimmune disease"
+            ],
+            "fromPMID": true,
+            "identifier": "0007179",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "autoimmune disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0007179"
+        },
+        {
+            "alternateName": [
+                "diabetes mellitus (disease)",
+                "diabetes",
+                "diabetes mellitus",
+                "DM"
+            ],
+            "fromPMID": true,
+            "identifier": "0005015",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "diabetes mellitus",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005015"
+        },
+        {
+            "alternateName": [
+                "diabetes mellitis type 1",
+                "type i diabetes",
+                "type 1 diabetes",
+                "iddm",
+                "diabetes mellitis type i",
+                "immune mediated diabetes",
+                "insulin-dependent diabetes mellitus",
+                "type i diabetes mellitus",
+                "juvenile diabetes",
+                "insulin dependent diabetes"
+            ],
+            "fromPMID": true,
+            "identifier": "0005147",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "type 1 diabetes mellitus",
+            "sameas": [
+                {
+                    "identifier": "DOID:9744",
+                    "url": "http://purl.obolibrary.org/obo/DOID_9744"
+                },
+                {
+                    "identifier": "EFO:0001359",
+                    "name": "obsolete_type I diabetes mellitus",
+                    "url": "http://purl.obolibrary.org/obo/EFO_0001359"
+                },
+                {
+                    "identifier": "MESH:D003922",
+                    "name": "Diabetes Mellitus, Type 1",
+                    "url": "http://purl.obolibrary.org/obo/MESH_D003922"
+                },
+                {
+                    "identifier": "NCIT:C2986",
+                    "url": "http://purl.obolibrary.org/obo/NCIT_C2986"
+                },
+                {
+                    "identifier": "OMIM:222100",
+                    "url": "http://purl.obolibrary.org/obo/OMIM_222100"
+                },
+                {
+                    "identifier": "Orphanet:243377",
+                    "url": "http://purl.obolibrary.org/obo/Orphanet_243377"
+                },
+                {
+                    "identifier": "SCTID:46635009",
+                    "name": [
+                        "Diabetes mellitus type 1 (disorder)",
+                        "Type 1 diabetes mellitus"
+                    ],
+                    "url": "http://purl.obolibrary.org/obo/SCTID_46635009"
+                }
+            ],
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005147"
+        },
+        {
+            "alternateName": [
+                "exposure to drug allergic disease",
+                "allergy of exposure to drug"
+            ],
+            "fromPMID": true,
+            "identifier": "0000775",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "drug allergy",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0000775"
+        },
+        {
+            "alternateName": [
+                "bronchial hyperreactivity"
+            ],
+            "fromPMID": true,
+            "identifier": "0004979",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "asthma",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0004979"
+        }
+    ],
+    "includedInDataCatalog": {
+        "@type": "Dataset",
+        "dataset": "https://microbiomedb.org/mbio/app/record/dataset/DS_a2f8877e68",
+        "name": "MicrobiomeDB",
+        "url": "https://microbiomedb.org/mbio/app",
+        "versionDate": "2025-02-08"
+    },
+    "keywords": [
+        "Human"
+    ],
+    "name": "DIABIMMUNE",
+    "species": [
+        {
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromPMID": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "url": "https://microbiomedb.org/mbio/app/record/dataset/DS_a2f8877e68"
+}

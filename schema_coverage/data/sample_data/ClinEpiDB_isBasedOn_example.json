@@ -1,0 +1,2444 @@
+{
+    "@type": "Dataset",
+    "_id": "clinepidb_ds_0ad509829e",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.897348,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of California, San Francisco, CA, USA"
+            },
+            "name": "Grant Dorsey"
+        },
+        {
+            "affiliation": {
+                "name": "Makerere University, Kampala, Uganda"
+            },
+            "name": "Moses Kamya"
+        },
+        {
+            "affiliation": {
+                "name": "University of California, San Francisco, CA, USA"
+            },
+            "name": "Bryan Greenhouse"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "Emmanuel Arinaitwe"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "Maxwell Kilama"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "Harriet Mayanja-Kizza"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "Joaniter Nankabirwa"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "Agaba Katureebe"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "Elijah Kakande"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "John Rek"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "Sam Nsobya"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "Moses Kiggundu"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "Henry Mawejje"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "Bridget Nzarubara"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "Geoff Lavoy"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "Emmanuel Ruhamyankaka"
+        },
+        {
+            "affiliation": {
+                "name": "Infectious Diseases Research Collaboration, Kampala, Uganda"
+            },
+            "name": "Simon Kigozi"
+        },
+        {
+            "affiliation": {
+                "name": "University of California, San Francisco, CA, USA"
+            },
+            "name": "Philip Rosenthal"
+        },
+        {
+            "affiliation": {
+                "name": "University of California, San Francisco, CA, USA"
+            },
+            "name": "Isabel Rodriguez-Barraquer"
+        },
+        {
+            "affiliation": {
+                "name": "University of California, San Francisco, CA, USA"
+            },
+            "name": "Edwin Charlebois"
+        },
+        {
+            "affiliation": {
+                "name": "University of California, San Francisco, CA, USA"
+            },
+            "name": "Tamara Clark"
+        },
+        {
+            "affiliation": {
+                "name": "London School of Hygiene and Tropical Medicine, London, United Kingdom"
+            },
+            "name": "Sarah Staedke"
+        },
+        {
+            "affiliation": {
+                "name": "London School of Hygiene and Tropical Medicine, London, United Kingdom"
+            },
+            "name": "Chris Drakeley"
+        },
+        {
+            "affiliation": {
+                "name": "Liverpool School of Tropical Medicine, Liverpool, United Kingdom"
+            },
+            "name": "Martin Donnelly"
+        },
+        {
+            "affiliation": {
+                "name": "Durham University, Durham, United Kingdom"
+            },
+            "name": "Steve Lindsay"
+        },
+        {
+            "affiliation": {
+                "name": "University of Washington, Seattle, WA, USA"
+            },
+            "name": "David Smith"
+        },
+        {
+            "affiliation": {
+                "name": "University of Southampton, Southampton, United Kingdom"
+            },
+            "name": "Andrew Tatem"
+        }
+    ],
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Rek JC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Alegana V"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arinaitwe E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cameron E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kamya MR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Katureebe A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lindsay SW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kilama M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Staedke SG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Todd J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorsey G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tusting LS"
+                }
+            ],
+            "datePublished": "2018-02-01",
+            "fromPMID": true,
+            "identifier": "PMID:29615240",
+            "journalName": "The Lancet. Planetary health",
+            "name": "Rapid improvements to rural Ugandan housing and their association with malaria from intense to reduced transmission: a cohort study.",
+            "pmid": "29615240",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29615240/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Kilama M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Smith DL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hutchinson R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kigozi R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Yeka A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lavoy G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kamya MR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Staedke SG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Donnelly MJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Drakeley C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Greenhouse B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorsey G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lindsay SW"
+                }
+            ],
+            "datePublished": "2014-03-21",
+            "fromPMID": true,
+            "identifier": "PMID:24656206",
+            "journalName": "Malaria journal",
+            "name": "Estimating the annual entomological inoculation rate for Plasmodium falciparum transmitted by Anopheles gambiae s.l. using three sampling methods in three sites in Uganda.",
+            "pmid": "24656206",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24656206/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Alegana VA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kigozi SP"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nankabirwa J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arinaitwe E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kigozi R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mawejje H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kilama M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ruktanonchai NW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ruktanonchai CW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Drakeley C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lindsay SW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Greenhouse B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kamya MR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Smith DL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Atkinson PM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorsey G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tatem AJ"
+                }
+            ],
+            "datePublished": "2016-12-12",
+            "fromPMID": true,
+            "identifier": "PMID:27955677",
+            "journalName": "Parasites & vectors",
+            "name": "Spatio-temporal analysis of malaria vector density from baseline through intervention in a high transmission setting.",
+            "pmid": "27955677",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27955677/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Kamya MR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kakuru A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Muhindo M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arinaitwe E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nankabirwa JI"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rek J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bigira V"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kapisi J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Wanzira H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Achan J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Natureeba P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gasasira A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Havlir D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jagannathan P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rosenthal PJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rodriguez-Barraquer I"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorsey G"
+                }
+            ],
+            "datePublished": "2020-08-01",
+            "fromPMID": true,
+            "identifier": "PMID:32431280",
+            "journalName": "The American journal of tropical medicine and hygiene",
+            "name": "The Impact of Control Interventions on Malaria Burden in Young Children in a Historically High-Transmission District of Uganda: A Pooled Analysis of Cohort Studies from 2007 to 2018.",
+            "pmid": "32431280",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32431280/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Tusting LS"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rek J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arinaitwe E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Staedke SG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kamya MR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cano J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bottomley C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Johnston D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorsey G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lindsay SW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lines J"
+                }
+            ],
+            "datePublished": "2016-08-04",
+            "fromPMID": true,
+            "identifier": "PMID:27488674",
+            "journalName": "Infectious diseases of poverty",
+            "name": "Why is malaria associated with poverty? Findings from a cohort study in rural Uganda.",
+            "pmid": "27488674",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27488674/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Katureebe A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Zinszer K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arinaitwe E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rek J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kakande E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Charland K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kigozi R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kilama M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nankabirwa J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Yeka A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mawejje H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mpimbaza A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Katamba H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Donnelly MJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rosenthal PJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Drakeley C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lindsay SW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Staedke SG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Smith DL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Greenhouse B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kamya MR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorsey G"
+                }
+            ],
+            "datePublished": "2016-11-01",
+            "fromPMID": true,
+            "identifier": "PMID:27824885",
+            "journalName": "PLoS medicine",
+            "name": "Measures of Malaria Burden after Long-Lasting Insecticidal Net Distribution and Indoor Residual Spraying at Three Sites in Uganda: A Prospective Observational Study.",
+            "pmid": "27824885",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27824885/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Wanzirah H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tusting LS"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arinaitwe E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Katureebe A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Maxwell K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rek J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bottomley C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Staedke SG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kamya M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorsey G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lindsay SW"
+                }
+            ],
+            "datePublished": "2015-01-01",
+            "fromPMID": true,
+            "identifier": "PMID:25635688",
+            "journalName": "PloS one",
+            "name": "Mind the gap: house structure and the risk of malaria in Uganda.",
+            "pmid": "25635688",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25635688/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Kamya MR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arinaitwe E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Wanzira H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Katureebe A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Barusya C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kigozi SP"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kilama M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tatem AJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rosenthal PJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Drakeley C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lindsay SW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Staedke SG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Smith DL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Greenhouse B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorsey G"
+                }
+            ],
+            "datePublished": "2015-05-01",
+            "fromPMID": true,
+            "identifier": "PMID:25778501",
+            "journalName": "The American journal of tropical medicine and hygiene",
+            "name": "Malaria transmission, infection, and disease at three sites with varied transmission intensity in Uganda: implications for malaria control.",
+            "pmid": "25778501",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25778501/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Zinszer K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Charland K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Vahey S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jahagirdar D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rek JC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arinaitwe E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nankabirwa J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Morrison K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sadoine ML"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tutt-Guerette MA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Staedke SG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kamya MR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Greenhouse B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rodriguez-Barraquer I"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorsey G"
+                }
+            ],
+            "datePublished": "2020-01-02",
+            "fromPMID": true,
+            "identifier": "PMID:31599325",
+            "journalName": "The Journal of infectious diseases",
+            "name": "The Impact of Multiple Rounds of Indoor Residual Spraying on Malaria Incidence and Hemoglobin Levels in a High-Transmission Setting.",
+            "pmid": "31599325",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31599325/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Rek J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Katrak S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Obasi H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nayebare P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Katureebe A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kakande E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arinaitwe E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nankabirwa JI"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jagannathan P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Drakeley C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Staedke SG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Smith DL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bousema T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kamya M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rosenthal PJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorsey G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Greenhouse B"
+                }
+            ],
+            "datePublished": "2016-09-15",
+            "fromPMID": true,
+            "identifier": "PMID:27628178",
+            "journalName": "Malaria journal",
+            "name": "Characterizing microscopic and submicroscopic malaria parasitaemia at three sites with varied transmission intensity in Uganda.",
+            "pmid": "27628178",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27628178/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Yeka A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nankabirwa J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mpimbaza A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kigozi R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arinaitwe E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Drakeley C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Greenhouse B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kamya MR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorsey G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Staedke SG"
+                }
+            ],
+            "datePublished": "2015-01-01",
+            "fromPMID": true,
+            "identifier": "PMID:25768015",
+            "journalName": "PloS one",
+            "name": "Factors associated with malaria parasitemia, anemia and serological responses in a spectrum of epidemiological settings in Uganda.",
+            "pmid": "25768015",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25768015/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Kakande E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Greenhouse B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bajunirwe F"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Drakeley C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nankabirwa JI"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Walakira A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nsobya SL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Katureebe A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rek J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arinaitwe E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rosenthal PJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kamya MR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorsey G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rodriguez-Barraquer I"
+                }
+            ],
+            "datePublished": "2020-01-15",
+            "fromPMID": true,
+            "identifier": "PMID:31941490",
+            "journalName": "Malaria journal",
+            "name": "Associations between red blood cell variants and malaria among children and adults from three areas of Uganda: a prospective cohort study.",
+            "pmid": "31941490",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31941490/"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "date": "2022-03-03",
+    "dateModified": "2022-03-03",
+    "description": "Related Studies:\n        \n        \n        PRISM2 ICEMR Cohort\n        \n        \n        Background: The Program for Resistance, Immunology, Surveillance and Modeling of Malaria in Uganda (PRISM) study is the dedicated East Africa International Center of Excellence for Malaria Research. The data presented in ClinEpiDB include the longitudinal cohort and entomological surveillance component of the PRISM study. \n        \n        Objectives:\n        \n        Perform comprehensive surveillance studies aimed to improve understanding of malaria and measure the impact of population-level control interventions\n        Bring together expertise from multiple disciplines to collect data across multiple levels, reflecting the complex nature of interactions between the mosquito vector, malaria parasite and human host\n        Assess transmission in three sites, ranging from areas of relatively low transmission intensity to areas with some of the highest transmission intensities recorded in the world\n        Emphasize local training and capacity building, transfer of technology, and building strong relationships between researchers and policymakers\n        \n        Methodology:\n        \n        \n        Geographic Location/Study Sites: Uganda, Walukuba (Jinja District), Kihihi (Kanungu District), Nagongera (Tororo District)\n        \n        \n        \n        Dates of Data Collection: August 2011-June 2017. Note that participants from Walukuba and Kihihi sub-counties were followed through June 30, 2016 while participants from Nagongera sub-county were followed for an extra year, through June 30, 2017.\n        \n        Study Design: Longitudinal cohort study with passive and active malaria case detection and entomological surveillance\n        \n        Eligibility Criteria: All households in each sub-county were enumerated and mapped (households were defined as any single permanent or semi-permanent dwelling acting as the primary residence for a person or group of people that generally cook and eat together) from January - June 2011. Using a computerized number generator, random samples of households from each sub-county were approached consecutively, and 100 households were enrolled per site from August - September 2011 into both the entomologic surveys and cohort studies if they met the following criteria:\n        \n        At least one household resident 0.5-10 years of age\n        At least one adult resident available for providing informed consent\n        300 households (100 per site) were enrolled Aug-Sept 2011 and an additional 31 households were enrolled Aug-Sept 2013 to replace households withdrawn during the 1st two years of follow-up\n        \n        \n        All children and up to one primary caregiver from each household were enrolled into the cohort study if they met the following eligibility criteria:\n        \n        Documented age between 6 months and <10 years for children\n        Full time resident of the household\n        No intention to move out of the sub-county for the next two years\n        Agreement to come to a dedicated study clinic located within the sub-county for any febrile illness\n        Agreement to avoid antimalarial medications administered outside this study\n        Provision of written informed consent from parent or guardian\n        \n        \n        Cohorts were dynamic - all newly eligible children were enrolled and study participants reaching 11 years of age were excluded from further follow-up. Study participants were withdrawn from the study based on:\n        \n        Permanent movement out of the sub-county\n        Inability to be located for > 4 months\n        Withdrawal of informed consent\n        Inability to comply with the study schedule and procedures\n        Child reaching 11 years of age\n        A household was withdrawn when all cohort study participants from the household were withdrawn.\n        \n        Data Collection:\n        \n        \n        Household Surveys: Household surveys were conducted at the time of enrollment to collect information on household demographics, characteristics and socioeconomic factors.\n        \n        Cohort Study Enrollment: At enrollment all child participants and their parent or guardian underwent a standardized evaluation including a medical history, physical examination, and collection of blood for hemoglobin measurement and thick/thin blood smear, and were provided with a long lasting insecticide treated bednet (ITN).\n        \n        Cohort Study Follow-Up: Study participants received all medical care free of charge at a designated study clinics open every day, and were encouraged to come to the clinic any time they became ill.\n        \n        For any participant presenting to the clinic with documented fever (tympanic temp >38C) or history of fever in the previous 24 hr, blood was obtained by finger prick for a thick blood smear. Smear-positive patients were diagnosed with malaria, hemoglobin measurements were obtained, and a thin blood smear was performed for parasite species identification. Episodes of uncomplicated malaria were treated with artemether + lumefantrine (AL). Complicated malaria (severe malaria or danger signs) or recurrent malaria within 14 d of prior therapy was treated with quinine or IV artesunate.\n        \n        Routine evaluations including thick blood smears and hemoglobin measurements were performed every ~3 months. In subset of children starting in December 2014, routine blood smears were done every month.\n        \n        \n        \n        Entomological surveys: Surveys were conducted once a month in each household participating in the cohort studies. Mosquitoes were collected using miniature CDC light traps with the light positioned 1 meter above the floor at the foot end of the bed where a cohort study participant slept. Traps were set at 19.00h and collected at 07.00h the following morning by field workers. Female Anopheles mosquitoes were counted and identified taxonomically to species level (A. gambia s.l, A. funestus, or \"other\") based on morphological criteria according to established taxonomic keys. In a random subset of female Anopheles mosquitoes the proportion infected with sporozoites were measured using an ELISA technique.\n        \n        Population Level Vector Control Interventions: Universal Long-lasting insecticide treated bednet (LLIN)campaigns were carried out in Walukuba in November 2013, Kihihi in June 2014 and Nagongera in November 2013. District wide indoor residual spraying (IRS) of insecticide was conducted only in Nagongera. Administered December 2014 - February 2015, June - July 2015, November - December 2015 and June - July 2016. With 96.9%, 95.6%, 96.8% proportion of households sprayed respectively (data not available for June - July 2016).\n        \n        \n        Study Documentation:\n        \n        Case Report Forms (CRFs):\n        \n        \n        Household screening form - Used to screen households prior to enrolling household members in study\n        Individual screening form - Used to screen individuals prior to enrolling participants in study\n        Enrollment form - Used to enroll participants in study and collect first visit information\n        Clinical visit form - Used to collect information each time participants were seen in the clinic\n        Updated clinical visit form (Oct-2015) - Used to collect information when participants were seen in the clinic, revised from the original version\n        Hospital admission form - Used to collect information on the course of illness if a participant was hospitalized\n        Complicated malaria treatment record form - Used to collect information regarding malaria diagnosis and treatment \n        Subject withdrawal form - Used to collect information regarding participant withdrawal from the study\n        Subject death record form - Used to collect information regarding the death of a participant\n        \n        \n        Data Dictionaries:\n        \n        \n        Longitudinal cohort data dictionary - Contains the variables and possible values for each question asked on the household screening form (HSF), individual screening form (ISF), enrollment form (ENR), clinical visit form (CVF), hospital admission form (HAF), subject withdrawal form (SWF), subject death record form (SDR), and complicated malaria treatment record form (CMTR)\n        Household and laboratory sample data dictionary - Contains the variables and possible values for questions asked about the household (household members, household characteristics, and bednet usage) and lab results\n        Entomology data dictionary - Contains the variables and possible values for questions asked about mosquitos collected at different households\n        \n        \n        \n        ClinEpiDB Data Integration: Data files were provided to ClinEpiDB as flat, tab-delimited text files. These datasets were merged by unique ID and redundant or administrative columns were dropped from presentation on ClinEpiDB.org. All dates were obfuscated per participant through the application of a random number algorithm that shifted dates no more than seven days to comply with the ethical conduct of human subjects research.\n        \n        Acknowledgements: We thank the study team and the Infectious Diseases Research Collaboration (IDRC) for administrative and technical support. We are grateful to the study participants who participated in this study and their families.\n        \n        Financial Support: Funding was provided by the National Institutes of Health as part of the International Centers of Excellence in Malaria Research (ICEMR) program (U19AI089674).\n        \n        Ethics Statement: Ethical approval was obtained from the Makerere University School of Medicine Research and Ethics Committee, the Uganda National Council for Science and Technology, the London School of Hygiene & Tropical Medicine Ethics Committee, the Durham University School of Biological and Biomedical Sciences Ethics Committee, the University of California, San Francisco Committee on Human Research and The University of Pennsylvania.\n        \n        Last updated: December 23, 2021\n        The Program for Resistance, Immunology, Surveillance and Modeling of Malaria in Uganda (PRISM) was a longitudinal cohort study conducted in different transmission settings in Uganda. All children 6 months to 10 years old within a household and up to one primary caregiver were enrolled in a dynamic cohort, and children were excluded from follow-up after reaching 11 years of age. Participants had routine clinic visits roughly every 3 months and attended a study clinic any time they became ill.",
+    "disambiguatingDescription": "The PRISM ICEMR Cohort dataset encompasses comprehensive longitudinal data from a malaria study focused in Uganda, aimed at enhancing understanding of malaria transmission dynamics and the effectiveness of population-level control interventions. Covering multiple regions with varying transmission intensities, the study enrolled children aged 6 months to 10 years and their primary caregivers. Participants were monitored through periodic clinic visits and household surveys, alongside routine entomological studies to assess mosquito populations. The study underscores collaboration across various disciplines, emphasizing training and technology transfer between researchers and policymakers, while addressing crucial malaria public health challenges. The PRISM ICEMR Cohort study was conducted in Uganda from August 2011 to June 2017, utilizing a longitudinal cohort design with both passive and active malaria case detection alongside entomological surveillance. Data were collected from household surveys, medical evaluations, and participant follow-ups, ensuring thorough monitoring of malaria prevalence and transmission.",
+    "distribution": {
+        "dateModified": "2022-03-03",
+        "name": "ISASimple_ICEMR_PRISM_cohort_RSRC"
+    },
+    "funding": [
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MR/N011570/1"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MR/N011570/2"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            }
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "106866/Z/15/Z"
+        },
+        {
+            "endDate": "2022-02-28",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "name": "John E. Fogarty International Center for Advanced Study in the Health Sciences"
+                }
+            ],
+            "identifier": "1D43TW010526-01",
+            "name": "Training in malaria surveillance, epidemiology and implementation science research to strengthen malaria policy and control in Uganda",
+            "projectNumSplit": {
+                "activityCode": "D43",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "TW",
+                "serialNum": "010526",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2017-06-01",
+            "url": "https://reporter.nih.gov/project-details/9322270"
+        },
+        {
+            "endDate": "2022-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "name": "John E. Fogarty International Center for Advanced Study in the Health Sciences"
+                }
+            ],
+            "identifier": "1K43TW010365-01A1",
+            "name": "Impact of malaria control interventions on the infectious reservoir, host immunity, and drug resistance in Uganda",
+            "projectNumSplit": {
+                "activityCode": "K43",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "TW",
+                "serialNum": "010365",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2017-08-22",
+            "url": "https://reporter.nih.gov/project-details/9399807"
+        },
+        {
+            "endDate": "2013-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P01HD059454-01",
+            "name": "Novel Strategies to Prevent Malaria and Improve HIV Outcomes in Africa",
+            "projectNumSplit": {
+                "activityCode": "P01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HD",
+                "serialNum": "059454",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2008-09-15",
+            "url": "https://reporter.nih.gov/project-details/7554808"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MR/K012126/1"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MR/N011570/1"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MR/M007383/1"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MR/K012126/1"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            }
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "MR/M007383/1"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "endDate": "2022-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "name": "John E. Fogarty International Center for Advanced Study in the Health Sciences"
+                }
+            ],
+            "identifier": "1K43TW010365-01A1",
+            "name": "Impact of malaria control interventions on the infectious reservoir, host immunity, and drug resistance in Uganda",
+            "projectNumSplit": {
+                "activityCode": "K43",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "TW",
+                "serialNum": "010365",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2017-08-22",
+            "url": "https://reporter.nih.gov/project-details/9399807"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "endDate": "2017-04-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1K23AI100949-01",
+            "name": "Immunologic consequences of highly effective antimalarial chemoprevention",
+            "projectNumSplit": {
+                "activityCode": "K23",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "100949",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2012-05-01",
+            "url": "https://reporter.nih.gov/project-details/8353165"
+        },
+        {
+            "endDate": "2005-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1T32AI007641-01",
+            "name": "BIOLOGY OF INFECTIOUS DISEASES TRAINING PROGRAM",
+            "projectNumSplit": {
+                "activityCode": "T32",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "007641",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2000-08-01",
+            "url": "https://reporter.nih.gov/project-details/6152263"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "endDate": "2022-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "name": "John E. Fogarty International Center for Advanced Study in the Health Sciences"
+                }
+            ],
+            "identifier": "1K43TW010365-01A1",
+            "name": "Impact of malaria control interventions on the infectious reservoir, host immunity, and drug resistance in Uganda",
+            "projectNumSplit": {
+                "activityCode": "K43",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "TW",
+                "serialNum": "010365",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2017-08-22",
+            "url": "https://reporter.nih.gov/project-details/9399807"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089674-01",
+            "name": "Program for Resistance, Immunology, Surveillance & Modeling of Malaria in Uganda",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089674",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945676"
+        },
+        {
+            "endDate": "2022-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "name": "John E. Fogarty International Center for Advanced Study in the Health Sciences"
+                }
+            ],
+            "identifier": "1K43TW010365-01A1",
+            "name": "Impact of malaria control interventions on the infectious reservoir, host immunity, and drug resistance in Uganda",
+            "projectNumSplit": {
+                "activityCode": "K43",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "TW",
+                "serialNum": "010365",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2017-08-22",
+            "url": "https://reporter.nih.gov/project-details/9399807"
+        },
+        {
+            "endDate": "2010-03-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "name": "John E. Fogarty International Center for Advanced Study in the Health Sciences"
+                }
+            ],
+            "identifier": "1D43TW007375-01",
+            "name": "Training in Malaria Research in Uganda",
+            "projectNumSplit": {
+                "activityCode": "D43",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "TW",
+                "serialNum": "007375",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2005-09-16",
+            "url": "https://reporter.nih.gov/project-details/7010489"
+        }
+    ],
+    "healthCondition": [
+        {
+            "fromPMID": true,
+            "identifier": "D002908",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": false,
+            "name": "Chronic Disease",
+            "url": "https://id.nlm.nih.gov/mesh/D002908.html"
+        },
+        {
+            "alternateName": [
+                "Infected with SARS-CoV-2",
+                "Infected"
+            ],
+            "fromPMID": true,
+            "identifier": "C189188",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Infected with SARS-CoV-2",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C189188"
+        },
+        {
+            "fromPMID": true,
+            "identifier": "0005136",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "malaria",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005136"
+        },
+        {
+            "alternateName": [
+                "Fever",
+                "Hyperthermia",
+                "Pyrexia"
+            ],
+            "fromPMID": true,
+            "identifier": "0001945",
+            "inDefinedTermSet": "HP",
+            "isCurated": false,
+            "name": "Fever",
+            "url": "http://purl.obolibrary.org/obo/HP_0001945"
+        },
+        {
+            "alternateName": [
+                "death",
+                "death domain",
+                "death table"
+            ],
+            "fromPMID": true,
+            "identifier": "C154635",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Death Domain",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C154635"
+        },
+        {
+            "fromPMID": true,
+            "identifier": "3659",
+            "inDefinedTermSet": "DOID",
+            "isCurated": false,
+            "name": "sialuria",
+            "url": "http://purl.obolibrary.org/obo/DOID_3659"
+        },
+        {
+            "alternateName": [
+                "communicable disease",
+                "infectious diseases and manifestations",
+                "infection",
+                "infectious disorder",
+                "transmissible disease",
+                "infectious disease",
+                "infectious"
+            ],
+            "fromPMID": true,
+            "identifier": "0005550",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "infectious disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005550"
+        }
+    ],
+    "identifier": "DS_0ad509829e",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e",
+        "name": "ClinEpiDB",
+        "url": "https://clinepidb.org/ce/app/",
+        "versionDate": "2025-08-23"
+    },
+    "isBasedOn": [
+        {
+            "url": "https://www.niaid.nih.gov/research/east-africa-international-center-excellence-malaria-research"
+        }
+    ],
+    "keywords": [
+        "Communicable disease",
+        " Reproductive",
+        " maternal",
+        " newborn",
+        " child and adolescent health",
+        "Observational"
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C15208",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Cohort Study",
+            "originalName": "Cohort",
+            "url": "https://ontobee.org/ontology/NCIT?iri=http://purl.obolibrary.org/obo/NCIT_C15208"
+        }
+    ],
+    "name": "PRISM ICEMR Cohort",
+    "spatialCoverage": {
+        "name": "Uganda"
+    },
+    "temporalCoverage": {
+        "temporalInterval": {
+            "endDate": "2017",
+            "startDate": "2011"
+        }
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3305",
+            "inDefinedTermSet": "EDAM",
+            "name": "Public health and epidemiology",
+            "url": "http://edamontology.org/topic_3305"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3303",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicine",
+            "url": "http://edamontology.org/topic_3303"
+        }
+    ],
+    "url": "https://clinepidb.org/ce/app/record/dataset/DS_0ad509829e",
+    "variableMeasured": [
+        {
+            "name": "Country"
+        },
+        {
+            "name": "Bed"
+        },
+        {
+            "name": "Drinking water source"
+        },
+        {
+            "name": "Radio"
+        },
+        {
+            "name": "Cassette player"
+        },
+        {
+            "name": "Television"
+        },
+        {
+            "name": "Mobile phone"
+        },
+        {
+            "name": "Landline phone"
+        },
+        {
+            "name": "Refrigerator"
+        },
+        {
+            "name": "Table"
+        },
+        {
+            "name": "Chair"
+        },
+        {
+            "name": "Sofa"
+        },
+        {
+            "name": "Cupboard"
+        },
+        {
+            "name": "Clock"
+        },
+        {
+            "name": "Bicycle"
+        },
+        {
+            "name": "Motorcycle or scooter"
+        },
+        {
+            "name": "Dwelling type"
+        },
+        {
+            "name": "Eaves"
+        },
+        {
+            "name": "Roof material"
+        },
+        {
+            "name": "Floor material"
+        },
+        {
+            "name": "Wall material"
+        },
+        {
+            "name": "Household wealth index, numerical"
+        },
+        {
+            "name": "Air bricks"
+        },
+        {
+            "name": "Persons living in house count"
+        },
+        {
+            "name": "Cooking fuel"
+        },
+        {
+            "name": "Sleeping rooms in dwelling count"
+        },
+        {
+            "name": "Acres"
+        },
+        {
+            "name": "Meals per day"
+        },
+        {
+            "name": "Meat meals per week"
+        },
+        {
+            "name": "Food problems per week"
+        },
+        {
+            "name": "Sub-county in Uganda"
+        },
+        {
+            "name": "Household wealth index, categorical"
+        },
+        {
+            "name": "Assets"
+        },
+        {
+            "name": "Animal-drawn cart"
+        },
+        {
+            "name": "Bank account"
+        },
+        {
+            "name": "Boat without a motor"
+        },
+        {
+            "name": "Car or truck"
+        },
+        {
+            "name": "Boat with a motor"
+        },
+        {
+            "name": "Watch"
+        },
+        {
+            "name": "Sleeping places count"
+        },
+        {
+            "name": "Dwelling facilities"
+        },
+        {
+            "name": "Dwelling characteristics"
+        },
+        {
+            "name": "Socioeconomic factors"
+        },
+        {
+            "name": "Human waste facilities"
+        },
+        {
+            "name": "Waste disposal"
+        },
+        {
+            "name": "Household water"
+        },
+        {
+            "name": "Food security"
+        },
+        {
+            "name": "Socioeconomic status"
+        },
+        {
+            "name": "Electricity"
+        },
+        {
+            "name": "Geographic location"
+        },
+        {
+            "name": "Lighting source"
+        },
+        {
+            "name": "Female Anopheles count"
+        },
+        {
+            "name": "Female Anopheles funestus count"
+        },
+        {
+            "name": "Female Anopheles gambiae count"
+        },
+        {
+            "name": "Bloodfed Anopheles funestus count"
+        },
+        {
+            "name": "Bloodfed Anopheles gambiae count"
+        },
+        {
+            "name": "Anopheles dissected for parity count"
+        },
+        {
+            "name": "Anopheles nulliparous count"
+        },
+        {
+            "name": "Anopheles parous count"
+        },
+        {
+            "name": "Gravid Anopheles funestus count"
+        },
+        {
+            "name": "Gravid Anopheles gambiae count"
+        },
+        {
+            "name": "Other female Anopheles species count"
+        },
+        {
+            "name": "Unable to assess Anopheles funestus count"
+        },
+        {
+            "name": "Unable to assess Anopheles gambiae count"
+        },
+        {
+            "name": "Unfed Anopheles funestus count"
+        },
+        {
+            "name": "Unfed Anopheles gambiae count"
+        },
+        {
+            "name": "Anopheles tested for sporozoites count"
+        },
+        {
+            "name": "Sporozoite-pos Anopheles count"
+        },
+        {
+            "name": "Anopheles funestus results"
+        },
+        {
+            "name": "Anopheles gambiae sensu lato results"
+        },
+        {
+            "name": "Anopheles parity"
+        },
+        {
+            "name": "Sporozoite testing"
+        },
+        {
+            "name": "Collection date"
+        },
+        {
+            "name": "Anopheles results"
+        },
+        {
+            "name": "Arthropod sample"
+        },
+        {
+            "name": "Arthropod collection process"
+        },
+        {
+            "name": "Birth date"
+        },
+        {
+            "name": "G6PD genotype"
+        },
+        {
+            "name": "Alpha-thalassemia genotype"
+        },
+        {
+            "name": "HbS genotype"
+        },
+        {
+            "name": "Age at enrollment"
+        },
+        {
+            "name": "Death date"
+        },
+        {
+            "name": "Enrollment date"
+        },
+        {
+            "name": "Last date observed"
+        },
+        {
+            "name": "Reason for withdrawal"
+        },
+        {
+            "name": "Timing of enrollment"
+        },
+        {
+            "name": "Participant genotype"
+        },
+        {
+            "name": "Death information"
+        },
+        {
+            "name": "CD36 genotype"
+        },
+        {
+            "name": "Administrative information"
+        },
+        {
+            "name": "Death location"
+        },
+        {
+            "name": "Demographics"
+        },
+        {
+            "name": "Cause of death"
+        },
+        {
+            "name": "Sex"
+        },
+        {
+            "name": "Observation type"
+        },
+        {
+            "name": "Complicated malaria"
+        },
+        {
+            "name": "Antimalarial medication"
+        },
+        {
+            "name": "Non-malaria medication"
+        },
+        {
+            "name": "Malaria diagnosis"
+        },
+        {
+            "name": "Febrile"
+        },
+        {
+            "name": "Subjective fever"
+        },
+        {
+            "name": "Temperature"
+        },
+        {
+            "name": "Abdominal pain duration"
+        },
+        {
+            "name": "Anorexia duration"
+        },
+        {
+            "name": "Cough duration"
+        },
+        {
+            "name": "Diarrhea duration"
+        },
+        {
+            "name": "Fatigue duration"
+        },
+        {
+            "name": "Headache duration"
+        },
+        {
+            "name": "Jaundice duration"
+        },
+        {
+            "name": "Joint pains duration"
+        },
+        {
+            "name": "Muscle aches duration"
+        },
+        {
+            "name": "Seizures duration"
+        },
+        {
+            "name": "Subjective fever duration"
+        },
+        {
+            "name": "Vomiting duration"
+        },
+        {
+            "name": "Time since enrollment"
+        },
+        {
+            "name": "ITN last night"
+        },
+        {
+            "name": "Hospitalization"
+        },
+        {
+            "name": "Signs and symptoms"
+        },
+        {
+            "name": "Observation details"
+        },
+        {
+            "name": "Other diagnosis"
+        },
+        {
+            "name": "Admitting hospital"
+        },
+        {
+            "name": "Hospital discharge date"
+        },
+        {
+            "name": "Malaria diagnosis and parasite status"
+        },
+        {
+            "name": "Diagnosis at hospitalization"
+        },
+        {
+            "name": "Anthropometry"
+        },
+        {
+            "name": "Observation date"
+        },
+        {
+            "name": "Height"
+        },
+        {
+            "name": "Other medical complaint"
+        },
+        {
+            "name": "Severe malaria signs"
+        },
+        {
+            "name": "Complicated malaria signs"
+        },
+        {
+            "name": "Symptoms"
+        },
+        {
+            "name": "Personal vector intervention"
+        },
+        {
+            "name": "Jaundice"
+        },
+        {
+            "name": "Vomiting"
+        },
+        {
+            "name": "Diarrhea"
+        },
+        {
+            "name": "Abdominal pain"
+        },
+        {
+            "name": "Headache"
+        },
+        {
+            "name": "Joint pains"
+        },
+        {
+            "name": "Muscle aches"
+        },
+        {
+            "name": "Weight"
+        },
+        {
+            "name": "Age"
+        },
+        {
+            "name": "Diagnosis"
+        },
+        {
+            "name": "Physical examination"
+        },
+        {
+            "name": "Treatment"
+        },
+        {
+            "name": "Seizures"
+        },
+        {
+            "name": "Anorexia"
+        },
+        {
+            "name": "Cough"
+        },
+        {
+            "name": "Fatigue"
+        }
+    ]
+}

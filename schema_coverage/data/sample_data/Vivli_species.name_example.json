@@ -1,0 +1,227 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "vivli_e120e4d1-d2b8-4f0d-972c-734a5676fbfc",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 9.076288,
+    "author": {
+        "name": "BioLINCC (a data-sharing platform funded by the National Institutes of Health)"
+    },
+    "conditionsOfAccess": "Restricted",
+    "creator": [
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "@type": "Organization",
+                    "name": "The University of Texas Health Science Center, Houston"
+                }
+            ],
+            "name": "Barry R Davis",
+            "role": "PRINCIPAL_INVESTIGATOR",
+            "title": "Professor of Biostatistics"
+        },
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "@type": "Organization",
+                    "name": "CCTRN Steering Committee Chair"
+                }
+            ],
+            "name": "Robert Simari, MD",
+            "role": "STUDY_CHAIR"
+        }
+    ],
+    "date": "2025-02-06",
+    "dateCreated": "2022-11-16",
+    "dateModified": "2025-02-06",
+    "datePublished": "2022-12-07",
+    "description": "The primary purpose of this study is to examine the safety and feasibility of delivering\r allogeneic human mesenchymal stem cells (allo-MSCs) by transendocardial injection to cancer\r survivors with left ventricular (LV) dysfunction secondary to anthracycline-induced\r cardiomyopathy (AIC).\r\r The secondary purpose of this study is to obtain preliminary evidence for therapeutic\r efficacy of allo-MSCs delivered by transendocardial injection to cancer survivors with LV\r dysfunction secondary to AIC.",
+    "doi": "https://doi.org/10.25934/PR00008647",
+    "funding": [
+        {
+            "funder": {
+                "@type": "Organization",
+                "name": "The University of Texas Health Science Center, Houston"
+            }
+        },
+        {
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "NIH/National Heart, Lung and Blood Institute",
+                    "National Heart Lung & Blood Institute",
+                    "NHLBI"
+                ],
+                "identifier": "https://ror.org/012pb6c26",
+                "name": "National Heart, Lung, and Blood Institute",
+                "parentOrganization": "National Institutes of Health"
+            }
+        }
+    ],
+    "identifier": [
+        "NCT02509156",
+        "5UM1HL087318"
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://doi.org/10.25934/PR00008647",
+        "name": "Vivli",
+        "url": "https://vivli.org/",
+        "versionDate": "2025-08-16"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+        "Interventional",
+        "Pharmacological Interventions",
+        "Injection",
+        "Allogeneic Adipose Tissue-derived Mesenchymal Stem Cells ",
+        "Male and Female",
+        "Young Adult 19-24 years",
+        "Aged 65-79 years",
+        "Adolescent 13-18 years",
+        "Phase1"
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "fromNCT": true,
+            "identifier": "C82639",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Parallel Study",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C82639"
+        },
+        {
+            "@type": "DefinedTerm",
+            "fromNCT": true,
+            "identifier": "C15417",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Randomized Clinical Trial",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15417"
+        },
+        {
+            "@type": "DefinedTerm",
+            "fromNCT": true,
+            "identifier": "C70840",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Blinded Clinical Study",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C70840"
+        }
+    ],
+    "name": "Dataset from A Phase I, First-in-Human, Multicenter, Randomized, Double-Blinded, Placebo-Controlled Study of the Safety and Efficacy of Allogeneic Mesenchymal Stem Cells in Cancer Survivors With Anthracycline-Induced Cardiomyopathy",
+    "nctid": "NCT02509156",
+    "sdPublisher": [
+        {
+            "identifier": "NCT02509156",
+            "name": "ClinicalTrials.gov"
+        }
+    ],
+    "spatialCoverage": [
+        {
+            "identifier": "USA",
+            "name": "United States"
+        }
+    ],
+    "species": [
+        {
+            "alternateName": [
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapian",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapients",
+                "Homo spaiens",
+                "Homo spiens",
+                "Human",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sapiense",
+                "human"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromEXTRACT": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "originalName": "human",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "temporalCoverage": {
+        "temporalInterval": {
+            "endDate": "2020-04-20",
+            "startDate": "2016-08-01"
+        }
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2640",
+            "inDefinedTermSet": "EDAM",
+            "name": "Oncology",
+            "url": "http://edamontology.org/topic_2640"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3335",
+            "inDefinedTermSet": "EDAM",
+            "name": "Cardiology",
+            "url": "http://edamontology.org/topic_3335"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3373",
+            "inDefinedTermSet": "EDAM",
+            "name": "Drug development",
+            "url": "http://edamontology.org/topic_3373"
+        }
+    ],
+    "url": "https://doi.org/10.25934/PR00008647",
+    "variableMeasured": [
+        {
+            "name": [
+                "Stroke",
+                "Myocardial Infarction",
+                "Cardiac Tamponade",
+                "Hypersensitivity Reaction",
+                "Neoplastic Disease",
+                "Left Ventricular Ejection Fraction",
+                "Left Ventricular Ejection Fraction",
+                "Magnetic Resonance Imaging",
+                "Magnetic Resonance Imaging",
+                "Magnetic Resonance Imaging",
+                "Magnetic Resonance Imaging",
+                "Assessment Of Quality Of Life",
+                "Assessment Of Quality Of Life"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "@type": "Dataset",
+    "_id": "reframedb_a00101",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 12.793354,
+    "alternateName": "Intracellular nonreplicating MTB screen",
+    "author": [
+        {
+            "name": "Changyou Lin"
+        },
+        {
+            "affiliation": {
+                "name": "Calibr at Scripps Research"
+            },
+            "name": "Feng Wang"
+        }
+    ],
+    "conditionsOfAccess": "Restricted",
+    "description": "Phenotypic high-content imaging-based high-throughput screen against the intracellular nonreplicating Mycobacterium tuberculosis using a dual fluorescence reporter-based system.\nPurpose\nIn order to more closely recapitulate human tuberculosis disease, intramacrophage screens may be more useful than assays with only extracellular bacteria. We have developed a dual fluorescence reporter-based assay with intracellular nonreplicating MTB. Compounds that are active against replicating MTB are not active in this assay. Green fluorescence indicates the presence of MTB; red fluorescence indicates viable MTB; Hoechst staining is nuclear staining of macrophage host cells. This assay is to screen for compounds that kill nonreplicating MTB directly, or indirectly by enhancing host cell defense mechanisms.\nProtocol\nJ774 macrophage cells are infected with M. tuberculosis H37RvDK (\u201a\u00e0\u00dcPan, \u201a\u00e0\u00dcRD1) at a MOI of 5:1. Infected cells are seeded (5000 cells/well; 6 uL/well) in clear-bottom 1536-well plates and incubated at 37C for 12 hours. After incubation, the medium is replaced with 6 uL of fresh cell culture medium. Compounds are then dispensed into assay plates and incubated at 37C for 48 hours. After incubation period, 2 uL of inducer is added to each well (150 ng/ml anhydrotetracycline) and the plates are incubated at 37C overnight. The next day, medium is replaced with 6 uL of fresh 1X PBS containing 1 ug/ml Hoechst 33342. Plates are then sealed with aluminum adhesive seals and scanned on the Thermo CX5 Cellomics imager using the SpotDetector algorithm within 24 hours (live cell imaging, time sensitive). \r\n\nReadout\nHigh-content imaging, percent fluorescence, spot count normalized to neutral control minus inhibitor.\nDetection Method\nhigh-content imaging; rifampicin is used as a positive control, and dmso is the neutral control. spot counts (red and green channels) are normalized by neutral controls minus inhibitors.\nDetection Reagents\nHoechst 33342\nComponents\nJ774 Macrophages; MTB H37RvDK (\u201a\u00e0\u00dcPan, \u201a\u00e0\u00dcRD1); aTC; Hoechst 33342\nDrug Concetration\n10  \u00c2\u00b5M",
+    "healthCondition": [
+        {
+            "alternateName": [
+                "tuberculosis disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0018076",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "tuberculosis",
+            "originalName": "tuberculosis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0018076"
+        }
+    ],
+    "identifier": "A00101",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://reframedb.org/assays/A00101",
+        "name": "ReframeDB",
+        "url": "https://reframedb.org/",
+        "versionDate": "2025-08-23T07:00:25.673826"
+    },
+    "infectiousAgent": [
+        {
+            "alternateName": [
+                "Bacillus tuberculosis",
+                "strain H37 Rv",
+                "strain H37Rv",
+                "ATCC 9360",
+                "NCTC 13144",
+                "\"Mycobacterium tuberculosis typus humanus\" Lehmann and Neumann 1907",
+                "CIP 64.31",
+                "CCUG 38148",
+                "Mycobacterium tuberculosis var. hominis",
+                "Mycobacterium tuberculosis (Zopf 1883) Lehmann and Neumann 1896 (Approved Lists 1980)",
+                "CIP 104475",
+                "CNCTC 7301",
+                "\"Bacterium tuberculosis\" Zopf 1883",
+                "\"Mycobacterium tuberculosis var. hominis\" Bergey et al. 1934",
+                "Mycobacterium tuberculosis typus humanus",
+                "CCUG 37357",
+                "ATCC 27294",
+                "ATCC 25618",
+                "NCTC 7416",
+                "Bacterium tuberculosis",
+                "\"Bacillus tuberculosis\" (Zopf 1883) Klein 1884"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Mycobacterium tuberculosis",
+            "fromEXTRACT": true,
+            "identifier": "1773",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Mycobacterium tuberculosis",
+            "originalName": "Mycobacterium tuberculosis",
+            "url": "https://www.uniprot.org/taxonomy/1773"
+        },
+        {
+            "alternateName": [
+                "eubacteria",
+                "Procaryotae",
+                "prokaryotes",
+                "prokaryote",
+                "Monera",
+                "bacteria",
+                "Prokaryota",
+                "Prokaryotae"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "eubacteria",
+            "displayName": "eubacteria | Bacteria",
+            "fromEXTRACT": true,
+            "identifier": "2",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Bacteria",
+            "originalName": "bacteria",
+            "url": "https://www.uniprot.org/taxonomy/2"
+        },
+        {
+            "alternateName": [
+                "Mycobacterium tuberculosis subsp. tuberculosis (Zopf 1883) Lehmann and Neumann 1896"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Mycobacterium tuberculosis subsp. tuberculosis",
+            "fromEXTRACT": true,
+            "identifier": "182785",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Mycobacterium tuberculosis subsp. tuberculosis",
+            "originalName": "M. tuberculosis",
+            "url": "https://www.uniprot.org/taxonomy/182785"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "measurementTechnique": [
+        {
+            "name": "cell based"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "0007550",
+            "inDefinedTermSet": "EFO",
+            "isCurated": true,
+            "name": "high content screen",
+            "originalName": "high content imaging",
+            "url": "https://www.ebi.ac.uk/ols4/ontologies/efo/classes?short_form=EFO_0007550"
+        }
+    ],
+    "name": "Dual fluorescence reporter based intracellular nonreplicating MTB screen",
+    "species": [
+        {
+            "alternateName": [
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapian",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapients",
+                "Homo spaiens",
+                "Homo spiens",
+                "Human",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sapiense",
+                "human"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromEXTRACT": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "originalName": "human",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        },
+        {
+            "alternateName": [
+                "true seals",
+                "seals",
+                "crawling seals",
+                "earless seals",
+                "seal"
+            ],
+            "classification": "host",
+            "commonName": "true seals",
+            "displayName": "true seals | Phocidae",
+            "fromEXTRACT": true,
+            "identifier": "9709",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Phocidae",
+            "originalName": "seals",
+            "url": "https://www.uniprot.org/taxonomy/9709"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3336",
+            "inDefinedTermSet": "EDAM",
+            "name": "Drug discovery",
+            "url": "http://edamontology.org/topic_3336"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3301",
+            "inDefinedTermSet": "EDAM",
+            "name": "Microbiology",
+            "url": "http://edamontology.org/topic_3301"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        }
+    ],
+    "url": "https://reframedb.org/assays/A00101"
+}

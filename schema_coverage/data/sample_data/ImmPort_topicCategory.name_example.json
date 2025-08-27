@@ -1,0 +1,184 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "sdy32",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 10.858765,
+    "abstract": "Inbred C57BL/6 female mice (12-15 weeks old) were immunized subcutaneously according to the 7 immunization groups. Serum samples were collected weekly from subgroup A and analyzed serum antibody response using ELISA, Toxin Neutralization Assays, and Surface Plasmon Resonance. Also, brachial and inguinal lymph nodes were harvested from 3 of each group at 10 time points. Lymph nodes from one side of each mouse were used for histology and nodes from the other side were used for phenotyping by flow cytometry.",
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Duke Human Vaccine Institute"
+            },
+            "name": "Thomas Kepler"
+        }
+    ],
+    "conditionsOfAccess": "Closed",
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "ImmPort Data Curation Team"
+    },
+    "date": "2014-01-17",
+    "dateModified": "2014-01-17T00:00:00",
+    "description": "Inbred C57BL/6 female mice (12-15 weeks old) were immunized subcutaneously according to the 7 immunization groups. Serum samples were collected weekly from subgroup A and analyzed serum antibody response using ELISA, Toxin Neutralization Assays, and Surface Plasmon Resonance. Also, brachial and inguinal lymph nodes were harvested from 3 of each group at 10 time points. Lymph nodes from one side of each mouse were used for histology and nodes from the other side were used for phenotyping by flow cytometry.",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://browser.immport.org/browser?path=SDY32",
+            "dateModified": "2014-01-17T00:00:00",
+            "encodingFormat": "URL"
+        }
+    ],
+    "doi": "10.21430/M3OL4ZG9JN",
+    "funding": [
+        {
+            "funder": {
+                "@type": "Organization",
+                "name": "Multiscale Systems Immunology for Adjuvant Development",
+                "url": "http://projectreporter.nih.gov/project_info_details.cfm?aid=7277268&icde=23810485&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC"
+            },
+            "identifier": "HHSN266200500019C"
+        },
+        {
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "National Institute of Allergy & Infectious Diseases",
+                    "NIAID",
+                    "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                ],
+                "identifier": "https://ror.org/043z4tv69",
+                "name": "National Institute of Allergy and Infectious Diseases",
+                "parentOrganization": "National Institutes of Health"
+            }
+        }
+    ],
+    "healthCondition": [
+        {
+            "name": "different adjuvants and doses on the immune response to rpa"
+        }
+    ],
+    "identifier": [
+        "10.21430/M3OL4ZG9JN"
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://immport.org/shared/study/SDY32",
+        "name": "ImmPort",
+        "url": "https://immport.org",
+        "versionDate": "2014-01-17T00:00:00"
+    },
+    "isAccessibleForFree": true,
+    "isBasedOn": [
+        {
+            "additionalType": {
+                "name": "Assay"
+            },
+            "identifier": "PTL3846",
+            "name": "SOP-PA_specific_Immunnoglobulin_ELISA_assay-384.docx",
+            "url": "https://www.immport.org/browser/?path=SDY32"
+        },
+        {
+            "additionalType": {
+                "name": "Biomaterial Transformation"
+            },
+            "identifier": "PTL3973",
+            "name": "Protocol 251_017-Aug.2010.doc",
+            "url": "https://www.immport.org/browser/?path=SDY32"
+        },
+        {
+            "additionalType": {
+                "name": "Assay"
+            },
+            "identifier": "PTL3996",
+            "name": "Immunohistology-Staining protocol.docx",
+            "url": "https://www.immport.org/browser/?path=SDY32"
+        }
+    ],
+    "keywords": [
+        "Modeling Immunity for Biodefense I",
+        "Mice were sacrificed at designated time points. ELISA and Immunohistochemistry assays were done on samples collected from the mice."
+    ],
+    "license": "https://www.immport.org/agreement",
+    "measurementTechnique": [
+        {
+            "name": "ELISA"
+        },
+        {
+            "name": "Flow Cytometry"
+        }
+    ],
+    "name": "Determining the effect of different adjuvants and doses on the immune response to rPA",
+    "sameAs": "https://doi.org/10.21430/M3OL4ZG9JN",
+    "species": [
+        {
+            "alternateName": [
+                "Mouse",
+                "LK3 transgenic mice",
+                "Mus musculus Linnaeus, 1758",
+                "Mus sp. 129SV",
+                "house mouse",
+                "mice C57BL/6xCBA/CaJ hybrid",
+                "mouse",
+                "nude mice",
+                "transgenic mice"
+            ],
+            "classification": "host",
+            "commonName": "Mouse",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Mouse | Mus musculus",
+            "identifier": "10090",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Mus musculus",
+            "originalName": "mus musculus",
+            "url": "https://www.uniprot.org/taxonomy/10090"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3966",
+            "inDefinedTermSet": "EDAM",
+            "name": "Vaccinology",
+            "url": "http://edamontology.org/topic_3966"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3679",
+            "inDefinedTermSet": "EDAM",
+            "name": "Animal study",
+            "url": "http://edamontology.org/topic_3679"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        }
+    ],
+    "url": "https://immport.org/shared/study/SDY32"
+}

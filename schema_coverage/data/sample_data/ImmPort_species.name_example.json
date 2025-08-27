@@ -1,0 +1,182 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "sdy3016",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 10.858765,
+    "abstract": "Whole transcriptome analysis using RNA seq of whole blood were perfomed and serological status assessed via HAI. Using forest computational model, investigators analyzed gene expression and vaccine response prediction.",
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Icahn School of Medicine at Mount Sinai"
+            },
+            "name": "Christian Forst"
+        }
+    ],
+    "citedBy": [
+        {
+            "@type": "ScholarlyArticle",
+            "doi": "10.3390/v14112446",
+            "name": "Vaccination History, Body Mass Index, Age, and Baseline Gene Expression Predict Influenza Vaccination Outcomes.",
+            "pmid": "36366544",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36366544"
+        }
+    ],
+    "conditionsOfAccess": "Closed",
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "ImmPort Data Curation Team"
+    },
+    "date": "2025-04-24",
+    "dateModified": "2025-04-24T00:00:00",
+    "description": "A number of factors influence vaccination effectiveness, including age, sex, and comorbidities. A transcriptome analysis was performed via RNA sequencing. The genes with immunological functions are increased in expression in individuals with high pre-existing immunity. Based on the transcriptome analysis, the set of genes can be used to predict a vaccine response.",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://browser.immport.org/browser?path=SDY3016",
+            "dateModified": "2025-04-24T00:00:00",
+            "encodingFormat": "URL"
+        }
+    ],
+    "doi": "10.21430/M3KA9EZEP8",
+    "funding": [
+        {
+            "endDate": "2020-09-09",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "75N93019C00052-0-9999-1",
+            "name": "CIVIC: University of Georgia Center for Influenza Vaccine Research in High Risk Populations",
+            "startDate": "2019-09-10",
+            "url": "https://reporter.nih.gov/project-details/10021763"
+        },
+        {
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "National Institute of Allergy & Infectious Diseases",
+                    "NIAID",
+                    "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                ],
+                "identifier": "https://ror.org/043z4tv69",
+                "name": "National Institute of Allergy and Infectious Diseases",
+                "parentOrganization": "National Institutes of Health"
+            }
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "influenza with non-respiratory manifestation",
+                "orthomyxoviridae caused disease or disorder",
+                "Influenza with other manifestations",
+                "orthomyxoviridae disease or disorder",
+                "flu",
+                "influenza infection",
+                "orthomyxoviridae infectious disease"
+            ],
+            "identifier": "0005812",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "influenza",
+            "originalName": "influenza",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005812"
+        }
+    ],
+    "identifier": [
+        "10.21430/M3KA9EZEP8"
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://immport.org/shared/study/SDY3016",
+        "name": "ImmPort",
+        "url": "https://immport.org",
+        "versionDate": "2025-04-24T00:00:00"
+    },
+    "isAccessibleForFree": true,
+    "isBasedOn": [
+        {
+            "additionalType": {
+                "name": "Bio Sample Preparation"
+            },
+            "description": "Protocol for preparing RNA extracted from whole blood for sequencing",
+            "identifier": "PTL12639",
+            "name": "NEBNext_Ultra_II_Protocol_E7775.pdf",
+            "url": "https://www.immport.org/browser/?path=SDY3016"
+        }
+    ],
+    "keywords": [
+        "CIVICs Collaborative Influenza Vaccine Innovation Centers",
+        "Differential expression will be determined using edgeR, with differentially expressed genes defined as those with adjusted p value less than 0.05. Vaccine response will be defined as the magnitude of change in HAI between day 0 and day 28. Out-of-bag error rate and area-under-the-curve analyses are used to identify prediction success of the random forest model."
+    ],
+    "license": "https://www.immport.org/agreement",
+    "name": "Vaccination History, BMI, Age and Gene Expression Predict Influenza Vaccination Outcomes",
+    "sameAs": "https://doi.org/10.21430/M3KA9EZEP8",
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "abstract": "Collaborative Influenza Vaccine Innovation Centers (CIVICs) is a network of research centers working collaboratively to develop next-generation influenza vaccines. Their goal is to create vaccines that provide broader, longer-lasting protection against influenza viruses.",
+            "alternateName": [
+                "CIVIC",
+                "Collaborative Influenza Vaccine Innovation Centers",
+                "CIVICs"
+            ],
+            "correctionApproved": true,
+            "description": "Collaborative Influenza Vaccine Innovation Centers (CIVICs) is a network of research centers that will work together in a coordinated, multidisciplinary effort to develop more durable, broadly protective and longer-lasting influenza vaccines. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/civics",
+            "name": "NIAID CIVICs Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.niaidcivics.org/"
+        }
+    ],
+    "species": [
+        {
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "url": "https://immport.org/shared/study/SDY3016"
+}

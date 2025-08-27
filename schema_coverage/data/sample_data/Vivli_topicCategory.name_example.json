@@ -1,0 +1,88 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "vivli_df5b3f75-b6b3-417e-b286-e71ecd35a3a7",
+    "_score": 9.076288,
+    "author": {
+        "name": "Lilly"
+    },
+    "conditionsOfAccess": "Restricted",
+    "date": "2025-03-06",
+    "dateCreated": "2019-07-18",
+    "dateModified": "2025-03-06",
+    "datePublished": "2019-07-18",
+    "doi": "https://doi.org/10.25934/00004214",
+    "funding": [
+        {
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "Eli Lilly & Co.",
+                    "Eli Lilly And Co",
+                    "Lilly",
+                    "Eli Lilly & Company"
+                ],
+                "identifier": "https://ror.org/01qat3289",
+                "name": "Eli Lilly and Company"
+            }
+        }
+    ],
+    "identifier": [],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://doi.org/10.25934/00004214",
+        "name": "Vivli",
+        "url": "https://vivli.org/",
+        "versionDate": "2025-08-16"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+        "Phase3"
+    ],
+    "name": "Dataset from A Randomized, Double-Blind, Placebo-Controlled Trial of Once Daily Atomoxetine Hydrochloride to Evaluate Efficacy in the Treatment of Attention-Deficit/Hyperactivity Disorder in Children Ages 6-12 with an Assessment of Evening Behavior",
+    "sdPublisher": [
+        {
+            "identifier": "B4Z-US-LYBG",
+            "name": "N/A"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0202",
+            "inDefinedTermSet": "EDAM",
+            "name": "Pharmacology",
+            "url": "http://edamontology.org/topic_0202"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3418",
+            "inDefinedTermSet": "EDAM",
+            "name": "Paediatrics",
+            "url": "http://edamontology.org/topic_3418"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3419",
+            "inDefinedTermSet": "EDAM",
+            "name": "Psychiatry",
+            "url": "http://edamontology.org/topic_3419"
+        }
+    ],
+    "url": "https://doi.org/10.25934/00004214"
+}

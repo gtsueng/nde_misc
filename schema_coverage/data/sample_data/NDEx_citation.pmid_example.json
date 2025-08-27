@@ -1,0 +1,219 @@
+{
+    "@type": "Dataset",
+    "_id": "ndex_11eac863-ca70-11ec-b397-0ac135e8bacf",
+    "_score": 8.719278,
+    "author": {
+        "name": "Marta Iannuccelli"
+    },
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Perfetto L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Briganti L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Calderone A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cerquone Perpetuini A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Iannuccelli M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Langone F"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Licata L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Marinkovic M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mattioni A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pavlidou T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Peluso D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Petrilli LL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pirro S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Posca D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Santonico E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Silvestri A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Spada F"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Castagnoli L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cesareni G"
+                }
+            ],
+            "datePublished": "2016-01-04",
+            "fromPMID": true,
+            "identifier": "PMID:26467481",
+            "journalName": "Nucleic acids research",
+            "name": "SIGNOR: a database of causal relationships between biological entities.",
+            "pmid": "26467481",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26467481/"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "date": "2025-02-20",
+    "dateCreated": "2022-05-02T23:32:02.740000",
+    "dateModified": "2025-02-20T04:34:18.607000",
+    "description": "coming soon",
+    "distribution": {
+        "contentSize": 88768
+    },
+    "funding": [
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "ERC"
+                ],
+                "identifier": "https://ror.org/0472cxd90",
+                "name": "European Research Council",
+                "parentOrganization": "European Commission"
+            },
+            "identifier": "322749"
+        }
+    ],
+    "identifier": "11eac863-ca70-11ec-b397-0ac135e8bacf",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ndexbio.org/viewer/networks/11eac863-ca70-11ec-b397-0ac135e8bacf",
+        "name": "NDEx",
+        "url": "https://www.ndexbio.org/",
+        "versionDate": "2025-07-05"
+    },
+    "isBasedOn": {
+        "url": "https://signor.uniroma2.it/pathway_browser.php?organism=&pathway_list=SIGNOR-AG"
+    },
+    "keywords": [
+        "[\"SIGNOR-AG\"]",
+        "[\"pathway\"",
+        "\"Signalling Pathway\"]"
+    ],
+    "license": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+    "name": "Axon guidance",
+    "species": [
+        {
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "human",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": [
+        {
+            "identifier": "topic_0602",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular interactions, pathways and networks",
+            "url": "http://edamontology.org/topic_0602"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3070",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biology",
+            "url": "http://edamontology.org/topic_3070"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3304",
+            "inDefinedTermSet": "EDAM",
+            "name": "Neurobiology",
+            "url": "http://edamontology.org/topic_3304"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        }
+    ],
+    "url": "https://www.ndexbio.org/viewer/networks/11eac863-ca70-11ec-b397-0ac135e8bacf"
+}

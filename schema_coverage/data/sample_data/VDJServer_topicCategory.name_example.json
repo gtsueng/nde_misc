@@ -1,0 +1,108 @@
+{
+    "@type": "Dataset",
+    "_id": "vdj_4505707319090933270-242ac113-0001-012",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.990245,
+    "author": [
+        {
+            "affiliation": {
+                "name": "UTSouthwestern Medical Center"
+            },
+            "name": "Raquibul Hannan"
+        },
+        {
+            "name": "Scott Christley, scott.christley@utsouthwestern.edu, UTSouthwestern Medical Center"
+        }
+    ],
+    "date": "2022-12-16",
+    "dateModified": "2022-12-16",
+    "datePublished": "2021-10-05",
+    "description": "Purpose: This phase II clinical trial evaluated whether tumor antigen presentation by stereotactic ablative radiotherapy (SAbR) improves the objective response rate (ORR) to high-dose IL-2 (HD-IL-2), an approved immunotherapy, in metastatic kidney cancer (mRCC).\n\nPatients and Methods: Patients with pathologic evidence of clear cell RCC and radiographic evidence of metastasis were enrolled in this single arm phase II trial and were treated with SAbR in single or three treatments, followed by HD-IL-2. Correlative studies involved whole exome and transcriptome sequencing, T cell receptor (TCR) sequencing, cytokine analysis, and mass cytometry on patient samples and correlated the results with clinical outcomes.\n\nResults: Thirty mRCC patients were enrolled. A median of 2 (range 1-3) metastases were treated with SAbR. ORR of non-irradiated lesions was 16%; 8% showed complete response. Median overall survival (OS) was 16 months. All 30 patients developed treatment-related, reversible adverse events (AEs), including 22 (73%) grade \u22653 and no grade 5 AEs. Although SAbR did not improve the ORR to HD-IL-2, SAbR to lung metastases correlated with higher progression-free survival (p=0.0165). Correlative studies indicate increased frameshift mutational loads and mast cells with decreased circulating tumor-associated T-cell clones and T-cell clonal expansion in the group that benefited clinically. Patients with higher regulatory T-cell (Tregs)/CD8+ T-cell ratios in both baseline tumor and periphery did not benefit from this regimen.\n\nConclusions: Adding SAbR did not improve the response rate to HD-IL-2 in patients with mRCC. Tissue analyses suggest a possible correlation between frameshift mutation and tumor immune infiltrates, and clinical outcomes.\n Patients were eligible if they were \u226518 years old, could give informed consent, had an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1, and showed pathologic evidence of clear cell RCC and radiographic evidence of metastatic disease with at least two lesions with a combined diameter of >1.5 cm that were amenable to SAbR (minimum gross target volume \u22652 cm3). Patients who had received prior oncologic treatments had to be >14 days from their most recent surgery, radiation, immunotherapy, or any targeted agent. Adequate cardiac, pulmonary, renal, and hematologic organ function were required. Patients were excluded if they had any form of immunosuppression. Patients with brain metastases were allowed if the metastases had all been adequately treated with surgery or radiation.\n Clinigen Inc. (formerly Prometheus Laboratories) grant\nNational Institutes of Health (NIH) grant CCSG 5P30CA142543 (TW)\nCancer Prevention Research Institute of Texas grant CPRIT RP190208 (TW)\nSimmons Cancer Center DSSR, UT Southwestern Medical Center 5P30CA142543(TW) National Cancer Institute (NCI) SPORE grant P50CA196516 (AC, CA, PK, KC, IP, TA, VM, JB)\nNIH grant 5RO1CA154475 (PK, IP)\nNIH grant U01CA207091 (IP)\nAmerican Cancer Society grant RSG-16-004-01-CCE (RH)\nCPRIT MIRA RP180725 (RH)",
+    "healthCondition": [
+        {
+            "alternateName": [
+                "malignant neoplasm of kidney",
+                "malignant renal tumor",
+                "cancer of kidney",
+                "kidney cancer",
+                "malignant renal tumour",
+                "malignant tumor of kidney",
+                "malignant tumour of the kidney",
+                "malignant tumour of kidney",
+                "malignant neoplasm of the kidney",
+                "malignant tumor of the kidney",
+                "malignant renal neoplasm",
+                "malignant neoplasm of kidney except pelvis",
+                "malignant kidney tumor",
+                "malignant kidney neoplasm",
+                "malignant kidney tumour"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0002367",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "kidney cancer",
+            "originalName": "kidney cancer",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0002367"
+        }
+    ],
+    "includedInDataCatalog": {
+        "@type": "Dataset",
+        "dataset": "https://vdj-staging.tacc.utexas.edu/community/",
+        "name": "VDJServer",
+        "url": "https://vdj-staging.tacc.utexas.edu/community/",
+        "versionDate": "2025-02-09"
+    },
+    "measurementTechnique": {
+        "identifier": "NCIT:C15601",
+        "inDefinedTermSet": "NCI Thesaurus",
+        "name": "Phase II Trial"
+    },
+    "name": "Outcome and Immune Correlates of a Phase II Trial of High-Dose Interleukin-2 and Stereotactic Ablative Radiotherapy for Metastatic Renal Cell Carcinoma",
+    "sdPublisher": {
+        "name": "VDJServer"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2640",
+            "inDefinedTermSet": "EDAM",
+            "name": "Oncology",
+            "url": "http://edamontology.org/topic_2640"
+        },
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0622",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genomics",
+            "url": "http://edamontology.org/topic_0622"
+        },
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        }
+    ],
+    "url": "https://vdj-staging.tacc.utexas.edu/community/"
+}

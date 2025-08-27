@@ -1,0 +1,60 @@
+{
+    "@type": "Dataset",
+    "_id": "qiita_12615",
+    "_score": 11.274522,
+    "author": {
+        "name": "Rob Knight"
+    },
+    "description": "We introduce a low-cost protocol for high throughput library preparation and sequencing",
+    "doi": [
+        "10.1186/s13059-019-1834-9"
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://qiita.ucsd.edu/study/description/12615",
+        "name": "Qiita",
+        "url": "https://qiita.ucsd.edu/",
+        "versionDate": "2025-07-19"
+    },
+    "mainEntityOfPage": "https://www.ebi.ac.uk/ena/browser/view/ERP116677",
+    "name": "Optimizing sequencing protocols for leaderboard metagenomics by combining long and short reads",
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0080",
+            "inDefinedTermSet": "EDAM",
+            "name": "Sequence analysis",
+            "url": "http://edamontology.org/topic_0080"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3174",
+            "inDefinedTermSet": "EDAM",
+            "name": "Metagenomics",
+            "url": "http://edamontology.org/topic_3174"
+        }
+    ],
+    "url": "https://qiita.ucsd.edu/study/description/12615"
+}

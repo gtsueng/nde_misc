@@ -1,0 +1,176 @@
+{
+    "@type": "Dataset",
+    "_id": "hubmap_10eca4e52be66cb6c2ab00ee9b21980d",
+    "_score": 9.920813,
+    "author": [
+        {
+            "affiliation": {
+                "name": "University of California, San Diego"
+            },
+            "familyName": "Lake",
+            "givenName": "Blue B",
+            "identifier": "0000-0002-8637-9044",
+            "name": "Blue Lake"
+        },
+        {
+            "affiliation": {
+                "name": "University of California, San Diego"
+            },
+            "familyName": "Zhang",
+            "givenName": "Kun",
+            "identifier": "0000-0002-7596-5224",
+            "name": "Kun Zhang"
+        },
+        {
+            "affiliation": {
+                "name": "University of California, San Diego"
+            },
+            "familyName": "Lake",
+            "givenName": "Blue B",
+            "identifier": "0000-0002-8637-9044",
+            "name": "Blue B. Lake"
+        },
+        {
+            "affiliation": {
+                "name": "University of California, San Diego"
+            },
+            "familyName": "Diep",
+            "givenName": "Dinh H",
+            "identifier": "0000-0001-6057-4119",
+            "name": "Dinh H. Diep"
+        },
+        {
+            "affiliation": {
+                "name": "University of California, San Diego"
+            },
+            "familyName": "Jacobsen",
+            "givenName": "Daniel",
+            "identifier": "0000-0003-4102-6947",
+            "name": "Daniel Jacobsen"
+        },
+        {
+            "affiliation": {
+                "name": "Washington University School of Medicine"
+            },
+            "familyName": "Jain",
+            "givenName": "Sanjay",
+            "identifier": "0000-0003-2804-127X",
+            "name": "Sanjay Jain"
+        },
+        {
+            "affiliation": {
+                "name": "Washington University School of Medicine"
+            },
+            "familyName": "Salamon",
+            "givenName": "Diane",
+            "identifier": "0000-0003-0427-0262",
+            "name": "Diane Salamon"
+        },
+        {
+            "affiliation": {
+                "name": "Washington University School of Medicine"
+            },
+            "familyName": "Knoten",
+            "givenName": "Amanda",
+            "identifier": "0000-0001-8564-2253",
+            "name": "Amanda Knoten"
+        },
+        {
+            "affiliation": {
+                "name": "Washington University School of Medicine"
+            },
+            "familyName": "Gaut",
+            "givenName": "Joseph",
+            "identifier": "0000-0002-9580-3951",
+            "name": "Joseph Gaut"
+        },
+        {
+            "affiliation": {
+                "name": "Harvard medical school"
+            },
+            "familyName": "Kharchenko",
+            "givenName": "Peter V",
+            "identifier": "0000-0002-6036-5875",
+            "name": "Peter V. Kharchenko"
+        },
+        {
+            "affiliation": {
+                "name": "Harvard medical school"
+            },
+            "familyName": "Hu",
+            "givenName": "Qiwen",
+            "identifier": "0000-0003-2798-919X",
+            "name": "Qiwen Hu"
+        },
+        {
+            "affiliation": {
+                "name": "Harvard medical school"
+            },
+            "familyName": "Wang",
+            "givenName": "Xin",
+            "identifier": "0000-0001-8866-5223",
+            "name": "Xin Wang"
+        }
+    ],
+    "date": "2022-05-11",
+    "dateCreated": "2021-08-04",
+    "dateModified": "2022-05-11",
+    "datePublished": "2022-02-13",
+    "description": "ATACseq data from the kidney (right) of a 28.0-year-old black or african american male",
+    "doi": "10.35079/HBM385.TCRP.465",
+    "includedInDataCatalog": {
+        "@type": "Dataset",
+        "dataset": "https://portal.hubmapconsortium.org/browse/dataset/10eca4e52be66cb6c2ab00ee9b21980d",
+        "name": "HuBMAP",
+        "url": "https://hubmapconsortium.org/",
+        "versionDate": "2025-02-08"
+    },
+    "isAccessibleForFree": false,
+    "keywords": [
+        "body",
+        "kidney",
+        "right kidney",
+        "ATACseq"
+    ],
+    "measurementTechnique": {
+        "description": "SNARE-seq data from the kidney (right) of a 28-year-old black or african american male\r\n\r\nSingle-nucleus SNARE-seq2 (dual-omic RNA and accessible chromatin sequencing) on adult human kidney : BUKMAP_20200211E_SNARE2-AC_N506",
+        "name": "SNAREseq"
+    },
+    "name": "HBM385.TCRP.465",
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3067",
+            "inDefinedTermSet": "EDAM",
+            "name": "Anatomy",
+            "url": "http://edamontology.org/topic_3067"
+        },
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3301",
+            "inDefinedTermSet": "EDAM",
+            "name": "Microbiology",
+            "url": "http://edamontology.org/topic_3301"
+        },
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3344",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomedical science",
+            "url": "http://edamontology.org/topic_3344"
+        }
+    ],
+    "url": "https://portal.hubmapconsortium.org/browse/dataset/10eca4e52be66cb6c2ab00ee9b21980d"
+}

@@ -1,0 +1,436 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dryad_266k4",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 2.6650717,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Hayward",
+            "givenName": "Jessica J.",
+            "name": "Jessica J. Hayward"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Castelhano",
+            "givenName": "Marta G.",
+            "name": "Marta G. Castelhano"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Oliveira",
+            "givenName": "Kyle C.",
+            "name": "Kyle C. Oliveira"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Corey",
+            "givenName": "Elizabeth",
+            "name": "Elizabeth Corey"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Balkman",
+            "givenName": "Cheryl",
+            "name": "Cheryl Balkman"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Baxter",
+            "givenName": "Tara L.",
+            "name": "Tara L. Baxter"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Pennsylvania",
+                "sameAs": "https://ror.org/00b30xv10"
+            },
+            "familyName": "Casal",
+            "givenName": "Margret L.",
+            "name": "Margret L. Casal"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Center",
+            "givenName": "Sharon A.",
+            "name": "Sharon A. Center"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "China Agricultural University",
+                "sameAs": "https://ror.org/04v3ywz14"
+            },
+            "familyName": "Fang",
+            "givenName": "Meiying",
+            "name": "Meiying Fang"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Garrison",
+            "givenName": "Susan J.",
+            "name": "Susan J. Garrison"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Kalla",
+            "givenName": "Sara E.",
+            "name": "Sara E. Kalla"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Korniliev",
+            "givenName": "Pavel",
+            "name": "Pavel Korniliev"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Kotlikoff",
+            "givenName": "Michael I.",
+            "name": "Michael I. Kotlikoff"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Moise",
+            "givenName": "N. Sydney",
+            "name": "N. Sydney Moise"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Shannon",
+            "givenName": "Laura M.",
+            "name": "Laura M. Shannon"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Simpson",
+            "givenName": "Kenneth W.",
+            "name": "Kenneth W. Simpson"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "La Sierra University",
+                "sameAs": "https://ror.org/05g1rjn35"
+            },
+            "familyName": "Sutter",
+            "givenName": "Nathan B.",
+            "name": "Nathan B. Sutter"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Todhunter",
+            "givenName": "Rory J.",
+            "name": "Rory J. Todhunter"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Cornell University",
+                "sameAs": "https://ror.org/05bnh6r87"
+            },
+            "familyName": "Boyko",
+            "givenName": "Adam R.",
+            "name": "Adam R. Boyko"
+        }
+    ],
+    "citation": {
+        "url": "http://doi.org/10.1038/ncomms10460"
+    },
+    "conditionsOfAccess": "Open",
+    "date": "2016-12-07",
+    "datePublished": "2016-12-07",
+    "description": "The domestic dog is becoming an increasingly valuable model species in medical genetics, showing particular promise to advance our understanding of cancer and orthopaedic disease. Here we undertake the largest canine genome-wide association study to date, with a panel of over 4,200 dogs genotyped at 180,000 markers, to accelerate mapping efforts. For complex diseases, we identify loci significantly associated with hip dysplasia, elbow dysplasia, idiopathic epilepsy, lymphoma, mast cell tumour and granulomatous colitis; for morphological traits, we report three novel quantitative trait loci that influence body size and one that influences fur length and shedding. Using simulation studies, we show that modestly larger sample sizes and denser marker sets will be sufficient to identify most moderate- to large-effect complex disease loci. This proposed design will enable efficient mapping of canine complex diseases, most of which have human homologues, using far fewer samples than required in human studies.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "http://datadryad.org/api/v2/datasets/doi%253A10.5061%252Fdryad.266k4/download",
+        "encodingFormat": "application/zip",
+        "hasPart": [
+            "http://datadryad.org/downloads/file_stream/7711",
+            "http://datadryad.org/downloads/file_stream/7712",
+            "http://datadryad.org/downloads/file_stream/7713",
+            "http://datadryad.org/downloads/file_stream/7714",
+            "http://datadryad.org/downloads/file_stream/7715"
+        ]
+    },
+    "doi": "10.5061/dryad.266k4",
+    "hasPart": {
+        "name": "plink files for cornell canine datasetID and sex information for each dogcornell_canine.famplink files for cornell canine datasetchromosome, name, location, alleles for each SNPcornell_canine.bimplink files for cornell canine datasetgenotypes for each dog at each SNPcornell_canine.bedphenotypesphenotypes for each dog"
+    },
+    "healthCondition": [
+        {
+            "alternateName": [
+                "epilepsy",
+                "seizure disorder"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0005027",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "epilepsy",
+            "originalName": "epilepsy",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005027"
+        },
+        {
+            "alternateName": [
+                "lymphoid cancer",
+                "lymphoma",
+                "lymphoma (Hodgkin's and non-Hodgkin's)",
+                "lymphoma, malignant",
+                "lymphoma (Hodgkin and non-Hodgkin)",
+                "malignant lymphoma",
+                "lymphomatous"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0005062",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "lymphoma",
+            "originalName": "lymphoma",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005062"
+        },
+        {
+            "alternateName": [
+                "Crohn disease",
+                "Crohn's disease of large bowel",
+                "Crohn's disease",
+                "paediatric Crohn's disease",
+                "granulomatous colitis",
+                "regional enteritis",
+                "pediatric Crohn's disease",
+                "Crohn's disease of colon"
+            ],
+            "curatedBy": {
+                "dateModified": "2024-11-27",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0005011",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "Crohn disease",
+            "originalName": "granulomatous colitis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005011"
+        }
+    ],
+    "identifier": "doi:10.5061/dryad.266k4",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.266k4",
+            "name": "Dryad Digital Repository",
+            "url": "https://datadryad.org",
+            "versionDate": "2025-06-04"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://zenodo.org/records/4942767",
+            "name": "Zenodo",
+            "url": "https://zenodo.org/",
+            "versionDate": "2025-04-12"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "keywords": [
+        "Canis lupus familiaris",
+        "domestic dog",
+        "Genome-wide association study",
+        "complex disease"
+    ],
+    "license": "https://spdx.org/licenses/CC0-1.0.html",
+    "name": "Complex disease and phenotype mapping in the domestic dog",
+    "species": [
+        {
+            "alternateName": [
+                "dogs",
+                "beagle dogs",
+                "Canis familiaris Linnaeus, 1758",
+                "Canis borealis Smith, 1839",
+                "Dog",
+                "Canis canis",
+                "beagle dog",
+                "dog",
+                "Canis borealis",
+                "Canis lupus borealis",
+                "Canis lupus familiaris Linnaeus, 1758",
+                "Canis lupus borealis Smith, 1839",
+                "Canis domesticus"
+            ],
+            "classification": "host",
+            "commonName": "Dog",
+            "displayName": "Dog | Canis lupus familiaris",
+            "fromEXTRACT": true,
+            "identifier": "9615",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Canis lupus familiaris",
+            "originalName": "dogs",
+            "url": "https://www.uniprot.org/taxonomy/9615"
+        },
+        {
+            "alternateName": [
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapian",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapients",
+                "Homo spaiens",
+                "Homo spiens",
+                "Human",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sapiense",
+                "human"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromEXTRACT": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "originalName": "human",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "temporalCoverage": {
+        "temporalInterval": {
+            "endDate": "2016-12-07"
+        }
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3053",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genetics",
+            "url": "http://edamontology.org/topic_3053"
+        },
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        },
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3679",
+            "inDefinedTermSet": "EDAM",
+            "name": "Animal study",
+            "url": "http://edamontology.org/topic_3679"
+        }
+    ],
+    "url": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.266k4"
+}

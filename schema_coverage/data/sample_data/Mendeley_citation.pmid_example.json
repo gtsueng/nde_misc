@@ -1,0 +1,233 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_92vsw5bwr3",
+    "_score": 6.267183,
+    "author": [
+        {
+            "familyName": "Jackson",
+            "givenName": "Tom",
+            "name": "Tom Jackson"
+        },
+        {
+            "familyName": "Sammut",
+            "givenName": "Eva",
+            "name": "Eva Sammut"
+        },
+        {
+            "familyName": "rinaldi",
+            "givenName": "aldo",
+            "name": "aldo rinaldi"
+        },
+        {
+            "familyName": "razavi",
+            "givenName": "reza",
+            "name": "reza razavi"
+        },
+        {
+            "familyName": "carr-white",
+            "givenName": "gerald",
+            "name": "gerald carr-white"
+        },
+        {
+            "familyName": "Webb",
+            "givenName": "Jessica",
+            "name": "Jessica Webb"
+        },
+        {
+            "familyName": "Claridge",
+            "givenName": "Simon",
+            "name": "Simon Claridge"
+        },
+        {
+            "familyName": "Behar",
+            "givenName": "Jonathan",
+            "name": "Jonathan Behar"
+        },
+        {
+            "familyName": "Sohal",
+            "givenName": "Manav",
+            "name": "Manav Sohal"
+        },
+        {
+            "familyName": "amraoui",
+            "givenName": "sana",
+            "name": "sana amraoui"
+        },
+        {
+            "familyName": "Sienecwicz",
+            "givenName": "Ben",
+            "name": "Ben Sienecwicz"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.ijcha.2017.11.005",
+            "name": "The interaction of QRS duration with cardiac magnetic resonance derived scar and mechanical dyssynchrony in systolic heart failure: Implications for cardiac resynchronization therapy"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Jackson T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Amraoui S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sohal M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sammut E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Behar JM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Claridge S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Webb J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sienecwicz B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Razavi R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rinaldi CA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Carr-White G"
+                }
+            ],
+            "datePublished": "2018-03-01",
+            "fromPMID": true,
+            "identifier": "PMID:29750182",
+            "journalName": "International journal of cardiology. Heart & vasculature",
+            "name": "The interaction of QRS duration with cardiac magnetic resonance derived scar and mechanical dyssynchrony in systolic heart failure: Implications for cardiac resynchronization therapy.",
+            "pmid": "29750182",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29750182/"
+        }
+    ],
+    "date": "2017-12-27",
+    "dateModified": "2017-11-19",
+    "datePublished": "2017-12-27",
+    "description": "dyssynchrony and scar with QRS duration",
+    "doi": "10.17632/92vsw5bwr3.1",
+    "funding": [
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "BHF",
+                    "the_bhf",
+                    "The British Heart Foundation"
+                ],
+                "identifier": "https://ror.org/02wdwnk04",
+                "name": "British Heart Foundation"
+            },
+            "identifier": "PG/16/108/32593"
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "cardiac failure",
+                "heart failure",
+                "insufficiency, Cardiac",
+                "failure, heart",
+                "cardiac insufficiency"
+            ],
+            "fromPMID": true,
+            "identifier": "0005252",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "heart failure",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005252"
+        },
+        {
+            "fromPMID": true,
+            "identifier": "D006930",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": false,
+            "name": "Hyperalgesia",
+            "url": "https://id.nlm.nih.gov/mesh/D006930.html"
+        },
+        {
+            "fromPMID": true,
+            "identifier": "0006993",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "systolic heart failure",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0006993"
+        }
+    ],
+    "identifier": "92vsw5bwr3",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://data.mendeley.com/datasets/92vsw5bwr3",
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2025-08-24T02:49:48.772365"
+    },
+    "keywords": [
+        "Left Ventricular Dyssynchrony",
+        "QRS Interval"
+    ],
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "name": "Data for: The Interaction of QRS Duration with Cardiac Magnetic Resonance Derived Scar and Mechanical Dyssynchrony in Systolic Heart Failure: Implications for Cardiac Resynchronization Therapy.",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_4016",
+            "inDefinedTermSet": "EDAM",
+            "name": "Electrocardiography",
+            "url": "http://edamontology.org/topic_4016"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0607",
+            "inDefinedTermSet": "EDAM",
+            "name": "Laboratory information management",
+            "url": "http://edamontology.org/topic_0607"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3335",
+            "inDefinedTermSet": "EDAM",
+            "name": "Cardiology",
+            "url": "http://edamontology.org/topic_3335"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/92vsw5bwr3"
+}

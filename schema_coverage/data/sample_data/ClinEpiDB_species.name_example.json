@@ -1,0 +1,141 @@
+{
+    "@type": "Dataset",
+    "_id": "clinepidb_ds_515a92c711",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.759431,
+    "conditionsOfAccess": "Restricted",
+    "description": "Background: Mass drug administration (MDA) of azithromycin has been shown \n      to reduce under-5 mortality in some but not all sub-Saharan African settings. Because of this observed heterogeneity and possible effect modification by SMC or other co-interventions, further trials were needed in order to determine the efficacy in additional settings and to determine the most effective treatment regimen.\n      \n      Objectives:\n      \n      \n      Evaluate the impact of two azithromycin MDA regimens on infant mortality and other health outcomes, when provided in a rural West-African high-mortality context with an ongoing seasonal malaria chemoprevention program.\n      Evaluate the effect of alternative MDA frequencies on antimicrobial resistance (AMR) and host microbiota composition.\n      Investigate the feasibility, acceptability and equity of alternative MDA strategies.\n      Test hypotheses that azithromycin MDA eliminates malaria parasitaemia and reduces systemic and intestinal inflammation in asymptomatic children and to collect and store biological samples for assessing other possible mechanisms of azithromycin effect.\n      \n      \n      \n      Methodology:\n      \n      Geographic Location/Study Sites: The LAKANA trial will be implemented in approximately 830 villages from 7-10 health districts in the Kayes, Kita and Koulikoro regions of Mali.\n      \n      Dates of Data Collection: July 2020-July 2023 (anticipated)\n      \n      Study Design: Cluster randomized controlled trial\n      \n      Study Arms: LAKANA is a cluster-randomized, placebo-controlled, double-blinded, parallel-group, three-arm clinical trial, with adaptive design. Participating villages will be randomly allocated to three different intervention groups in a ratio of 3 : 2 : 4 (control : azithromycin quarterly : azithromycin biannually).\n      \n      Data Collection: Within each village, consenting households will be visited quarterly (at 3-month intervals), nine times. At the first eight of these visits, 1-11-month-old eligible infants (age 29-364 days), for whom there is a consent for study drug provision, will be weighed and given a single dose of study drug (azithromycin mixture or respective placebo mixture). Household data collected will include a household composition survey, household assets survey, and water, sanitation, and hygiene (WASH) questionnaire. Individual level data include morbidity and mortality data, treatment information, and serious adverse events. In addition, biological samples will be collected from a sub-sample of participants to support mechanistic and AMR sub-studies. \n      \n      Study Documentation: \n      \n      Study protocol:\n      \n      LAKANA protocol version 2.0, 2019-12-17\n      \n      \n      Case report forms: These will be made available once finalized\n      \n      Standard operating procedures: SOPs and other supporting documentation will be made available for review once finalized\n      \n      \n      \n      ClinEpiDB Data Integration: Data files will be provided to ClinEpiDB as Stata files. These datasets will be converted to txt files and merged by unique ID and redundant or administrative columns will be dropped from presentation on ClinEpiDB.org. All dates will be obfuscated per participant through the application of a random number algorithm that shifts dates no more than seven days to comply with the ethical conduct of human subjects' research.\n      \n      Acknowledgements: The LAKANA team warmly thanks families and children who will participate in the LAKANA trial. The team also acknowledges and appreciates the support of Pfizer, Inc for providing the study product.\n      \n      Financial Support: LAKANA is supported by a grant from The Bill & Melinda Gates Foundation.\n      \n      Ethics Statement: The study protocol was reviewed by the Institutional Review Boards or Ethical Review Committees at each of the participating institutions.\n      \n      Last Updated: January 5, 2022\n      TEST: test.txt\nThe Large-scale Assessment of the Key health-promoting Activities of two New mass drug administration regimens with Azithromycin trial (LAKANA) has been designed to address the impact on mortality of quarterly and biannual azithromycin MDA when delivered to 1-11-month old infants in a high-mortality setting where malaria is holoendemic and there is a seasonal malaria chemoprevention (SMC) program in place.",
+    "disambiguatingDescription": "The LAKANA Cluster Randomized Trial evaluates the effectiveness of two regimens of azithromycin mass drug administration (MDA) on infant mortality and health outcomes in a rural West African context, particularly amid an ongoing seasonal malaria chemoprevention program. The trial aims to discern the impacts of different MDA frequencies on antimicrobial resistance and host microbiota composition while gauging the feasibility and acceptability of various strategies. Conducted in Mali, with a focus on infants aged 1-11 months, this trial will enhance understanding of azithromycin's mechanisms in high-mortality settings and ultimately aims to inform better public health interventions. The LAKANA trial is a cluster-randomized controlled trial conducted across approximately 830 villages in the Kayes, Kita, and Koulikoro regions of Mali from July 2020 to July 2023. The study involves three arms: a control group, a quarterly azithromycin group, and a biannual azithromycin group. Data collection occurs quarterly, with infants aged 1-11 months being treated and monitored for health outcomes, antimicrobial resistance, and microbiota composition.",
+    "healthCondition": [
+        {
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0005136",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "malaria",
+            "originalName": "malaria",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005136"
+        }
+    ],
+    "identifier": "DS_515a92c711",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://clinepidb.org/ce/app/record/dataset/DS_515a92c711",
+        "name": "ClinEpiDB",
+        "url": "https://clinepidb.org/ce/app/",
+        "versionDate": "2025-08-23"
+    },
+    "keywords": [
+        "Communicable disease",
+        " Reproductive",
+        " maternal",
+        " newborn",
+        " child and adolescent health",
+        "Experimental"
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C46079",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Randomized Controlled Clinical Trial",
+            "originalName": "Randomized controlled/clinical trial",
+            "url": "https://ontobee.org/ontology/NCIT?iri=http://purl.obolibrary.org/obo/NCIT_C46079"
+        }
+    ],
+    "name": "LAKANA Cluster Randomized Trial",
+    "spatialCoverage": {
+        "name": "Mali"
+    },
+    "species": [
+        {
+            "classification": "host",
+            "displayName": "Arge",
+            "fromEXTRACT": true,
+            "identifier": "95269",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Arge",
+            "originalName": "arge",
+            "url": "https://www.uniprot.org/taxonomy/95269"
+        },
+        {
+            "alternateName": [
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapian",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapients",
+                "Homo spaiens",
+                "Homo spiens",
+                "Human",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sapiense",
+                "human"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromEXTRACT": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "originalName": "human",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3575",
+            "inDefinedTermSet": "EDAM",
+            "name": "Tropical medicine",
+            "url": "http://edamontology.org/topic_3575"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_4013",
+            "inDefinedTermSet": "EDAM",
+            "name": "Antimicrobial Resistance",
+            "url": "http://edamontology.org/topic_4013"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3305",
+            "inDefinedTermSet": "EDAM",
+            "name": "Public health and epidemiology",
+            "url": "http://edamontology.org/topic_3305"
+        }
+    ],
+    "url": "https://clinepidb.org/ce/app/record/dataset/DS_515a92c711"
+}

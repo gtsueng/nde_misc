@@ -1,0 +1,182 @@
+{
+    "@type": "Dataset",
+    "_id": "qiita_12849",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 11.274522,
+    "author": {
+        "name": "Catherine Lozupone"
+    },
+    "description": "Abstract:  Clostridioides difficile infection (CDI), is the leading cause of hospital-acquired diarrhea and emerging evidence has linked dietary components with CDI pathogenesis,  suggesting that dietary modulation may be an effective strategy for prevention. Here, we show that mice fed a high-fat/low-fiber \u201cWestern type\u201d diet (WD) had dramatically increased mortality in a murine model of antibiotic-induced CDI compared to a low-fat/low-fiber (LF/LF) diet and standard mouse chow controls. We found that the WD had a pro- C. difficile bile acid composition that was driven in part by higher levels of primary bile acids that are produced to digest fat, and a lower level of secondary bile acids that are produced by the gut microbiome. This lack of secondary bile acids was associated with a greater disturbance to the gut microbiome with antibiotics in both the WD and LF/LF diet compared to mouse chow. Mice fed the WD also had the highest level of toxin TcdA just prior to the onset of mortality, but not of TcdB or inflammation.  These findings indicate that dietary intervention to decrease fat may complement previously proposed strategies to prevent CDI in high-risk individuals.  ",
+    "healthCondition": [
+        {
+            "alternateName": [
+                "diarrheal disease",
+                "diarrhoea",
+                "diarrheal disorder",
+                "diarrhea",
+                "loose stools",
+                "frequent stools"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0001673",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "diarrheal disease",
+            "originalName": "diarrhea",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0001673"
+        }
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://qiita.ucsd.edu/study/description/12849",
+        "name": "Qiita",
+        "url": "https://qiita.ucsd.edu/",
+        "versionDate": "2025-07-19"
+    },
+    "infectiousAgent": [
+        {
+            "alternateName": [
+                "mice gut metagenome"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "mouse gut metagenome",
+            "fromEXTRACT": true,
+            "identifier": "410661",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "mouse gut metagenome",
+            "originalName": "gut microbiome",
+            "url": "https://www.uniprot.org/taxonomy/410661"
+        },
+        {
+            "alternateName": [
+                "DSMZ 1296",
+                "BCRC 10642",
+                "CCRC 10642",
+                "LMG 15861",
+                "Clostridium sp. HMSC19D05",
+                "LMG:15861",
+                "NCIMB 10666",
+                "DSM 1296",
+                "CIP 104282",
+                "ATCC 9689",
+                "Clostridioides difficile (Hall and O'Toole 1935) Lawson et al. 2016",
+                "JCM 1296",
+                "CCRC:10642",
+                "\"Peptoclostridium difficile\" Yutin and Galperin 2013",
+                "culture-collection:AS:1.2184",
+                "NCTC 11209",
+                "CCUG 4938",
+                "Clostridium difficile (Hall and O'Toole 1935) Prevot 1938 (Approved Lists 1980)",
+                "AS 1.2184"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Clostridioides difficile",
+            "fromEXTRACT": true,
+            "identifier": "1496",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Clostridioides difficile",
+            "originalName": "Clostridioides difficile",
+            "url": "https://www.uniprot.org/taxonomy/1496"
+        },
+        {
+            "classification": "infectiousAgent",
+            "displayName": "Murine norovirus",
+            "fromEXTRACT": true,
+            "identifier": "357231",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Murine norovirus",
+            "originalName": "murine",
+            "url": "https://www.uniprot.org/taxonomy/357231"
+        }
+    ],
+    "mainEntityOfPage": "https://www.ebi.ac.uk/ena/browser/view/ERP133015",
+    "name": "Dietary fat and fiber impacts intestinal microbiome resilience to antibiotics and Clostridoides difficile infection in mice",
+    "species": [
+        {
+            "alternateName": [
+                "mouse",
+                "Mouse",
+                "LK3 transgenic mice",
+                "house mouse",
+                "nude mice",
+                "Mus sp. 129SV",
+                "Mus musculus Linnaeus, 1758",
+                "transgenic mice",
+                "mice C57BL/6xCBA/CaJ hybrid"
+            ],
+            "classification": "host",
+            "commonName": "Mouse",
+            "displayName": "Mouse | Mus musculus",
+            "fromEXTRACT": true,
+            "identifier": "10090",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Mus musculus",
+            "originalName": "mouse",
+            "url": "https://www.uniprot.org/taxonomy/10090"
+        },
+        {
+            "alternateName": [
+                "mice"
+            ],
+            "classification": "host",
+            "displayName": "Mus sp.",
+            "fromEXTRACT": true,
+            "identifier": "10095",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Mus sp.",
+            "originalName": "mice",
+            "url": "https://www.uniprot.org/taxonomy/10095"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3301",
+            "inDefinedTermSet": "EDAM",
+            "name": "Microbiology",
+            "url": "http://edamontology.org/topic_3301"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3409",
+            "inDefinedTermSet": "EDAM",
+            "name": "Gastroenterology",
+            "url": "http://edamontology.org/topic_3409"
+        }
+    ],
+    "url": "https://qiita.ucsd.edu/study/description/12849"
+}

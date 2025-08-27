@@ -1,0 +1,301 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "vivli_df688381-4785-4ee2-b621-730d0c890b17",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 9.076288,
+    "author": {
+        "name": "Boehringer Ingelheim"
+    },
+    "conditionsOfAccess": "Restricted",
+    "creator": [
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "@type": "Organization",
+                    "name": "Boehringer Ingelheim"
+                }
+            ],
+            "name": "Boehringer Ingelheim",
+            "role": "STUDY_CHAIR"
+        }
+    ],
+    "date": "2024-11-27",
+    "dateCreated": "0001-01-01",
+    "dateModified": "2024-11-27",
+    "datePublished": "2019-04-12",
+    "description": "The primary objective of this study is to evaluate the efficacy of 400 mg QD nevirapine extended release (NVP XR) formulation versus 200 mg BID nevirapine immediate release (NVP IR) in ARV therapy na\u00efve HIV-1 infected patients after 48 weeks of treatment. Secondary objectives are to evaluate safety and pharmacokinetics of NVP XR and NVP IR.",
+    "doi": "https://doi.org/10.25934/00003503",
+    "funding": [
+        {
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "Boehringer Ingelheim International GmbH"
+                ],
+                "identifier": "https://ror.org/00q32j219",
+                "name": "Boehringer Ingelheim"
+            }
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "Human immunodeficiency virus disease or disorder",
+                "Human immunodeficiency virus infectious disease",
+                "Human immunodeficiency virus caused disease or disorder",
+                "HIV infection"
+            ],
+            "curatedBy": {
+                "dateModified": "2024-11-26",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0005109",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "HIV infectious disease",
+            "originalName": "hiv-1 infection",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005109"
+        }
+    ],
+    "identifier": [
+        "NCT00561925",
+        "2007-003654-29"
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://doi.org/10.25934/00003503",
+        "name": "Vivli",
+        "url": "https://vivli.org/",
+        "versionDate": "2025-08-16"
+    },
+    "infectiousAgent": [
+        {
+            "alternateName": [
+                "HIV-2",
+                "LAV-2",
+                "HIV2",
+                "HIV type 2",
+                "human immunodeficiency virus type 2 HIV-2",
+                "HIV",
+                "Human immunodeficiency virus-2",
+                "AIDS virus",
+                "Human immunodeficiency virus type 2",
+                "human immunodeficiency virus type 2, HIV-2"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Human immunodeficiency virus 2",
+            "fromEXTRACT": true,
+            "identifier": "11709",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Human immunodeficiency virus 2",
+            "originalName": "HIV-1",
+            "url": "https://www.uniprot.org/taxonomy/11709"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "keywords": [
+        "Middle Aged 45-64 years",
+        "Interventional",
+        "Nevirapine",
+        "Aged, 80 and over 80+ years",
+        "Hiv-1 Infection",
+        "Male and Female",
+        "Young Adult 19-24 years",
+        "Phase3",
+        "Adult 19-44 years",
+        "Aged 65-79 years",
+        "Adolescent 13-18 years",
+        "Pharmacological"
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "fromNCT": true,
+            "identifier": "C82639",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Parallel Study",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C82639"
+        },
+        {
+            "@type": "DefinedTerm",
+            "fromNCT": true,
+            "identifier": "C15417",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Randomized Clinical Trial",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15417"
+        },
+        {
+            "@type": "DefinedTerm",
+            "fromNCT": true,
+            "identifier": "C15228",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Double Blind Study",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15228"
+        }
+    ],
+    "name": "Dataset from A Randomised, Double Blind, Double Dummy, Parallel Group, Active Controlled Trial to Evaluate the Antiviral Efficacy of 400 mg QD neVirapine Extended Release Formulation in Comparison to 200 mg BID neVirapinE Immediate Release in Combination With Truvada\u00ae in Antiretroviral Therapy na\u00efve HIV-1 Infected Patients (VERxVE)",
+    "nctid": "NCT00561925",
+    "sdPublisher": [
+        {
+            "identifier": "NCT00561925",
+            "name": "ClinicalTrials.gov"
+        }
+    ],
+    "spatialCoverage": [
+        {
+            "identifier": "USA",
+            "name": "United States"
+        },
+        {
+            "identifier": "FRA",
+            "name": "France"
+        },
+        {
+            "identifier": "DEU",
+            "name": "Germany"
+        },
+        {
+            "identifier": "ESP",
+            "name": "Spain"
+        },
+        {
+            "identifier": "ZAF",
+            "name": "South Africa"
+        },
+        {
+            "identifier": "BEL",
+            "name": "Belgium"
+        },
+        {
+            "identifier": "ARG",
+            "name": "Argentina"
+        },
+        {
+            "identifier": "CAN",
+            "name": "Canada"
+        },
+        {
+            "identifier": "CHE",
+            "name": "Switzerland"
+        },
+        {
+            "identifier": "GBR",
+            "name": "United Kingdom"
+        },
+        {
+            "identifier": "ITA",
+            "name": "Italy"
+        },
+        {
+            "identifier": "AUS",
+            "name": "Australia"
+        },
+        {
+            "identifier": "NLD",
+            "name": "Netherlands"
+        },
+        {
+            "identifier": "BWA",
+            "name": "Botswana"
+        },
+        {
+            "identifier": "POL",
+            "name": "Poland"
+        },
+        {
+            "identifier": "PRT",
+            "name": "Portugal"
+        },
+        {
+            "identifier": "IRL",
+            "name": "Ireland"
+        },
+        {
+            "identifier": "MEX",
+            "name": "Mexico"
+        },
+        {
+            "identifier": "PRI",
+            "name": "Puerto Rico"
+        },
+        {
+            "identifier": "ROU",
+            "name": "Romania"
+        },
+        {
+            "identifier": "RUS",
+            "name": "Russian Federation"
+        }
+    ],
+    "temporalCoverage": {
+        "temporalInterval": {
+            "startDate": "2007-11-01"
+        }
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3575",
+            "inDefinedTermSet": "EDAM",
+            "name": "Tropical medicine",
+            "url": "http://edamontology.org/topic_3575"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_4013",
+            "inDefinedTermSet": "EDAM",
+            "name": "Antimicrobial Resistance",
+            "url": "http://edamontology.org/topic_4013"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        }
+    ],
+    "url": "https://doi.org/10.25934/00003503",
+    "variableMeasured": [
+        {
+            "name": [
+                "Evaluating Response To Treatment",
+                "Evaluating Response To Treatment",
+                "Evaluating Response To Treatment",
+                "Hiv-1 Infection",
+                "White Blood Cell Count",
+                "Laboratory Test",
+                "Treatment Withdrawal",
+                "Laboratory Test",
+                "Laboratory Test",
+                "Hiv-1 Infection",
+                "Hiv-1 Infection",
+                "Hiv-1 Infection"
+            ]
+        }
+    ]
+}

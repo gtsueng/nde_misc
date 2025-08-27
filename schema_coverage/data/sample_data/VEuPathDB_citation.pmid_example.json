@@ -1,0 +1,246 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "ds_4c3d2929a0",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 9.970468,
+    "author": [
+        {
+            "affiliation": {
+                "name": "None"
+            },
+            "name": "William Lainhart"
+        }
+    ],
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Lainhart W"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bickersmith SA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nadler KJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Moreno M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Saavedra MP"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chu VM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ribolla PE"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Vinetz JM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Conn JE"
+                }
+            ],
+            "datePublished": "2015-09-29",
+            "fromPMID": true,
+            "identifier": "PMID:26415942",
+            "journalName": "Malaria journal",
+            "name": "Evidence for temporal population replacement and the signature of ecological adaptation in a major Neotropical malaria vector in Amazonian Peru.",
+            "pmid": "26415942",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26415942/"
+        }
+    ],
+    "conditionsOfAccess": "Closed",
+    "creditText": "William Lainhart",
+    "date": "2019-08-17",
+    "dateModified": "2019-08-17",
+    "description": "The population genetic structure of An. darlingi sampled before and after the introduction of long-lasting insecticidal nets (LLINs) was investigated to test the hypothesis of temporal population change (2006 vs. 2012). Current samples of An. darlingi were used to test the hypothesis of ecological adaptation to human modified (highway) compared with wild (riverine) habitat, linked to forest cover. In total, 693 An. darlingi from nine localities in Loreto, Peru area were genotyped using 13 microsatellite loci. To test the hypothesis of habitat differentiation in An. darlingi biting time patterns, HBR and EIR, four collections of An. darlingi from five localities (two riverine and three highway) were analysed. (MapVEu VBP0000527)",
+    "distribution": [
+        {
+            "name": "View the corresponding PRISM ICEMR Cohort data at ClinEpiDB",
+            "url": "https://clinepidb.org/ce/app/record/dataset/DS_a885240fc4"
+        }
+    ],
+    "funding": [
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIAID NIH HHS"
+            },
+            "identifier": "T32AI05532901"
+        },
+        {
+            "endDate": "2019-05-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AI110112-01A1",
+            "name": "Latitudinal landscape genomics and ecology of Anopheles darlingi",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "AI",
+                "serialNum": "110112",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2014-06-15",
+            "url": "https://reporter.nih.gov/project-details/8773994"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089681-01",
+            "name": "Peruvian/Brazilian Amazon Center of Excellence in Malaria",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089681",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945689"
+        },
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI089681-01",
+            "name": "Peruvian/Brazilian Amazon Center of Excellence in Malaria",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "089681",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2010-07-01",
+            "url": "https://reporter.nih.gov/project-details/7945689"
+        },
+        {
+            "endDate": "2019-05-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AI110112-01A1",
+            "name": "Latitudinal landscape genomics and ecology of Anopheles darlingi",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "AI",
+                "serialNum": "110112",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2014-06-15",
+            "url": "https://reporter.nih.gov/project-details/8773994"
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "portal-systemic encephalopathy"
+            ],
+            "fromPMID": true,
+            "identifier": "0001711",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "hepatic encephalopathy",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0001711"
+        },
+        {
+            "fromPMID": true,
+            "identifier": "0005136",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "malaria",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005136"
+        }
+    ],
+    "identifier": "DS_4c3d2929a0",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://veupathdb.org/veupathdb/app/record/dataset/DS_4c3d2929a0",
+            "name": "VEuPathDB",
+            "url": "https://veupathdb.org/veupathdb/app",
+            "versionDate": "2025-08-23"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://vectorbase.org/vectorbase/app/record/dataset/DS_4c3d2929a0",
+            "name": "VectorBase",
+            "url": "https://vectorbase.org/vectorbase/app",
+            "versionDate": "2025-08-23"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "measurementTechnique": {
+        "name": "population_biology"
+    },
+    "name": "Evidence for temporal population replacement and the signature of ecological adaptation in a major Neotropical malaria vector in Amazonian Peru",
+    "sdPublisher": {
+        "name": " "
+    },
+    "url": "https://veupathdb.org/veupathdb/app/record/dataset/DS_4c3d2929a0"
+}

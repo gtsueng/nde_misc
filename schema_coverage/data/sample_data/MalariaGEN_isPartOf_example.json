@@ -1,0 +1,60 @@
+{
+    "@type": "Dataset",
+    "_id": "malariagen_ag1000g-phase-2-ar1",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 14.668658,
+    "author": {
+        "name": "Chris Clarkson",
+        "url": "https://www.malariagen.net/person/cclarksonliverpoolacuk/"
+    },
+    "citation": {
+        "url": "https://www.malariagen.net/data_package/ag1000g-phase-2-ar1/"
+    },
+    "conditionsOfAccess": "Restricted",
+    "date": "2017-11-06",
+    "datePublished": "2017-11-06",
+    "description": "This data release includes genome-wide variant calls, haplotypes and associated data for 1,142 wild-caught specimens collected from 13 countries spanning sub-Saharan Africa, and 234 specimens comprising parents and progeny of 11 lab crosses. Any use of Project data is subject to the  Terms of Use . If you have any questions regarding these data or would like to report an issue, please email Chris Clarkson (cc28@sanger.ac.uk) or  raise an issue via GitHub . All mosquitoes were sequenced by the  Wellcome Trust Sanger Institute\u2019s Malaria programme .",
+    "distribution": [
+        {
+            "contentUrl": "ftp://ngs.sanger.ac.uk/production/ag1000g/phase2/AR1/",
+            "description": "This data release comprises variant call data, available in several different file formats, and other associated data files. All of the data files included in this release can be downloaded from the   using a freely available FTP client.",
+            "name": "Downloads"
+        }
+    ],
+    "healthCondition": [
+        {
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0005136",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "malaria",
+            "originalName": "Malaria",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005136"
+        }
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.malariagen.net/data_package/ag1000g-phase-2-ar1/",
+        "name": "MalariaGEN",
+        "url": "https://www.malariagen.net/",
+        "versionDate": "2025-08-23"
+    },
+    "isAccessibleForFree": true,
+    "isPartOf": {
+        "@type": "ResearchProject",
+        "name": "Ag1000G",
+        "url": "https://www.malariagen.net/project/ag1000g/"
+    },
+    "keywords": [
+        "Mosquito"
+    ],
+    "name": "Ag1000G phase 2 AR1 data release",
+    "url": "https://www.malariagen.net/data_package/ag1000g-phase-2-ar1/"
+}

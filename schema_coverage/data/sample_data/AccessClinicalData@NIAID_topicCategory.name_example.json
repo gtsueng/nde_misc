@@ -1,0 +1,212 @@
+{
+    "@type": "Dataset",
+    "_id": "accessclinicaldata_nct04640168",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.671946,
+    "abstract": "ACTT-4 will evaluate the combination of baricitinib and remdesivir compared to dexamethasone and remdesivir. Subjects will be assessed daily while hospitalized. If the subjects are discharged from the hospital, they will have a study visit at Days 15, 22, and 29. For discharged subjects, it is preferred that the Day 15 and 29 visits are in person to obtain safety laboratory tests, oropharyngeal (OP) swabs, plasma (Day 29), and serum for secondary research as well as clinical outcome data. However, if infection control or other restrictions limit the ability of the subject to return to the clinic, these visits may be conducted by phone, and only clinical data will be obtained. The Day 22 visit does not have laboratory tests or collection of samples and is conducted by phone. The primary objective is to evaluate the clinical efficacy of baricitinib + remdesivir versus dexamethasone + remdesivir as assessed by the mechanical ventilation free survival by Day 29",
+    "additionalType": "Patient-Level Data",
+    "citation": [
+        {
+            "url": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(22)00088-1/fulltext"
+        }
+    ],
+    "conditionsOfAccess": "Restricted",
+    "date": "2022-05-05",
+    "datePublished": "2022-05-05",
+    "description": "This study is an adaptive randomized double-blind placebo-controlled trial to evaluate the safety and efficacy of novel therapeutic agents in hospitalized adults diagnosed with COVID-19. The study is a multicenter trial that will be conducted in up to approximately 100 sites globally. The study will compare different investigational therapeutic agents to a control arm. New arms can be introduced according to scientific and public health needs. There will be interim monitoring to allow early stopping for futility, efficacy, or safety. If one therapy proves to be efficacious, then this treatment may become the control arm for comparison(s) with new experimental treatment(s). Any such change would be accompanied by an updated sample size. This adaptive platform is used to rapidly evaluate different therapeutics in a population of those hospitalized with moderate to severe COVID-19. The platform will provide a common framework sharing a similar population, design, endpoints, and safety oversight. New stages with new therapeutics can be introduced. One independent Data and Safety Monitoring Board (DSMB) will actively monitor interim data in all stages to make recommendations about early study closure or changes to study arms.  ACTT-4 will evaluate the combination of baricitinib and remdesivir compared to dexamethasone and remdesivir. Subjects will be assessed daily while hospitalized. If the subjects are discharged from the hospital, they will have a study visit at Days 15, 22, and 29. For discharged subjects, it is preferred that the Day 15 and 29 visits are in person to obtain safety laboratory tests, oropharyngeal (OP) swabs, plasma (Day 29), and serum for secondary research as well as clinical outcome data. However, if infection control or other restrictions limit the ability of the subject to return to the clinic, these visits may be conducted by phone, and only clinical data will be obtained. The Day 22 visit does not have laboratory tests or collection of samples and is conducted by phone.  All subjects will undergo a series of efficacy, safety, and laboratory assessments. Safety laboratory tests and blood (serum and plasma) research samples and oropharyngeal (OP) swabs will be obtained on Days 1 (prior to infusion) and Days 3, 5, 8, and 11 (while hospitalized). OP swabs and blood (serum only) plus safety laboratory tests will be collected on Day 15 and 29 (if the subject attends an in-person visit or are still hospitalized).  The primary objective is to evaluate the clinical efficacy of baricitinib + remdesivir versus dexamethasone + remdesivir as assessed by the mechanical ventilation free survival by Day 29. The key secondary objective is to evaluate the clinical efficacy of baricitinib + remdesivir versus dexamethasone + remdesivir according to clinical status (8-point ordinal scale) at Day 15.",
+    "funding": [
+        {
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "National Institute of Allergy & Infectious Diseases",
+                    "NIAID",
+                    "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                ],
+                "identifier": "https://ror.org/043z4tv69",
+                "name": "National Institute of Allergy and Infectious Diseases",
+                "parentOrganization": "National Institutes of Health"
+            }
+        }
+    ],
+    "hasPart": [
+        {
+            "@type": "CreativeWork",
+            "encodingFormat": "application/pdf",
+            "name": "ACTT4_Data_Dictionary_v1.0.pdf",
+            "url": "https://accessclinicaldata.niaid.nih.gov/api/files/NCT04640168/ACTT4_Data_Dictionary_v1.0.pdf"
+        },
+        {
+            "@type": "CreativeWork",
+            "encodingFormat": "application/pdf",
+            "name": "ACTT-4_Data_Use_Limitations.pdf",
+            "url": "https://accessclinicaldata.niaid.nih.gov/api/files/NCT04640168/ACTT-4_Data_Use_Limitations.pdf"
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "2019 novel coronavirus infection",
+                "2019-nCoV infection",
+                "coronavirus disease 2019",
+                "severe acute respiratory syndrome coronavirus 2 infectious disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0100096",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "COVID-19",
+            "originalName": "COVID-19",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0100096"
+        }
+    ],
+    "identifier": [
+        "NCT04640168"
+    ],
+    "includedInDataCatalog": {
+        "archivedAt": "https://accessclinicaldata.niaid.nih.gov/study-viewer/clinical_trials/NCT04640168",
+        "name": "AccessClinicalData@NIAID"
+    },
+    "isPartOf": [
+        {
+            "identifier": "ACTT",
+            "name": "Adaptive COVID-19 Treatment Trial",
+            "url": "https://www.nih.gov/news-events/news-releases/fourth-iteration-covid-19-treatment-trial-underway"
+        }
+    ],
+    "isRelatedTo": [
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "ACTT"
+            },
+            "identifier": "accessclinicaldata_NCT04280705",
+            "includedInDataCatalog": {
+                "name": "AccessClinicalData@NIAID"
+            },
+            "name": "Adaptive COVID-19 Treatment Trial (ACTT-1) - Dataset update released August 2021",
+            "relationship": "Different iteration of the same study, the Adaptive COVID-19 Treatment Trial"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "ACTT"
+            },
+            "identifier": "accessclinicaldata_NCT04401579",
+            "includedInDataCatalog": {
+                "name": "AccessClinicalData@NIAID"
+            },
+            "name": "Adaptive COVID-19 Treatment Trial 2 (ACTT-2) - Dataset update released October 2021",
+            "relationship": "Different iteration of the same study, the Adaptive COVID-19 Treatment Trial"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "ACTT"
+            },
+            "identifier": "accessclinicaldata_NCT04492475",
+            "includedInDataCatalog": {
+                "name": "AccessClinicalData@NIAID"
+            },
+            "name": "Adaptive COVID-19 Treatment Trial 3 (ACTT-3) - New dataset released October 2021",
+            "relationship": "Different iteration of the same study, the Adaptive COVID-19 Treatment Trial"
+        }
+    ],
+    "mainEntityOfPage": "https://clinicaltrials.gov/ct2/show/NCT04640168",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "fromNCT": true,
+            "identifier": "C82639",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Parallel Study",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C82639"
+        },
+        {
+            "@type": "DefinedTerm",
+            "fromNCT": true,
+            "identifier": "C15417",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Randomized Clinical Trial",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15417"
+        },
+        {
+            "@type": "DefinedTerm",
+            "fromNCT": true,
+            "identifier": "C15228",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Double Blind Study",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15228"
+        }
+    ],
+    "name": "(Released May 2022) Adaptive COVID-19 Treatment Trial 4 (ACTT-4)",
+    "nctid": "NCT04640168",
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "abstract": "The Office of Cyber Infrastructure and Computational Biology (OCICB) manages technologies supporting NIAID biomedical research programs.",
+            "alternateName": [
+                "Office of Cyber Infrastructure and Computational Biology",
+                "OCICB"
+            ],
+            "correctionApproved": false,
+            "description": "The Office of Cyber Infrastructure and Computational Biology (OCICB) provides a spectrum of management, technologies development, applications/software engineering, bioinformatics support, and professional development. OCICB works closely with NIAID intramural, extramural, and administrative staff to provide technical support, liaison, coordination, and consultation on a wide variety of ventures. These projects and initiatives are aimed at ensuring ever-increasing interchange and dissemination of scientific information within the federal government and among the worldwide scientific network of biomedical researchers.  For more information, visit the NIAID office page: https://www.niaid.nih.gov/about/cyber-infrastructure-computational-biology-contacts",
+            "name": "NIAID OCICB",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.niaid.nih.gov/about/daids"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0202",
+            "inDefinedTermSet": "EDAM",
+            "name": "Pharmacology",
+            "url": "http://edamontology.org/topic_0202"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3303",
+            "inDefinedTermSet": "EDAM",
+            "name": "Medicine",
+            "url": "http://edamontology.org/topic_3303"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        }
+    ],
+    "url": "https://accessclinicaldata.niaid.nih.gov/study-viewer/clinical_trials/NCT04640168",
+    "usageInfo": {
+        "url": "https://accessclinicaldata.niaid.nih.gov/api/files/NIAIDDUAAccessclinicaldata@NIAID.pdf"
+    }
+}

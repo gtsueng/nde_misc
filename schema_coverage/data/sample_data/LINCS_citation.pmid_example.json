@@ -1,0 +1,160 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "lds-1124",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 12.007624,
+    "author": [
+        {
+            "affiliation": {
+                "name": "HMS LINCS (Harvard Medical School)"
+            },
+            "name": "Peter Sorger",
+            "url": "http://lincs.hms.harvard.edu"
+        },
+        {
+            "name": "Mario Niepel"
+        }
+    ],
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Niepel M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hafner M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pace EA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chung M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chai DH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Zhou L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Schoeberl B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sorger PK"
+                }
+            ],
+            "datePublished": "2013-09-24",
+            "fromPMID": true,
+            "identifier": "PMID:24065145",
+            "journalName": "Science signaling",
+            "name": "Profiles of Basal and stimulated receptor signaling networks predict drug response in breast cancer lines.",
+            "pmid": "24065145",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24065145/"
+        }
+    ],
+    "date": "2015-09-23",
+    "dateModified": "2015-09-23",
+    "datePublished": "2013-09-24",
+    "description": "To generate the growth factor ?signaling profile? set, we exposed approximately 40 breast cancer cell lines individually to fifteen different growth factors (protein ligands) for 10, 30, or 90 min. We monitored the response by measuring the phosphorylation state of ERK1/2, Akt, p38, and JNK using high throughput immunofluorescence microscopy.",
+    "distribution": {
+        "contentSize": "160772"
+    },
+    "funding": {
+        "identifier": "NIH 1U54HG006097-01; NIH 1U54HL127365-01"
+    },
+    "healthCondition": [
+        {
+            "fromEXTRACT": true,
+            "identifier": "0005377",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "nephrotic syndrome",
+            "originalName": "Nephrotic Syndrome",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005377"
+        }
+    ],
+    "identifier": "LDS-1124",
+    "includedInDataCatalog": [
+        {
+            "@type": "Dataset",
+            "dataset": "https://lincsportal.ccs.miami.edu/datasets/view/LDS-1124",
+            "name": "LINCS",
+            "url": "https://lincsportal.ccs.miami.edu/datasets/",
+            "versionDate": "2025-02-08"
+        },
+        {
+            "@type": "DataCatalog",
+            "name": "Omics Discovery Index (OmicsDI)",
+            "url": "https://www.omicsdi.org/",
+            "versionDate": "2024-03-27"
+        }
+    ],
+    "isBasedOn": [
+        {
+            "name": "Fluorescence imaging protein state assay protocol",
+            "url": "LDG-1121_Protocol.pdf"
+        }
+    ],
+    "isRelatedTo": {
+        "_id": "LINCS_LDG-1121",
+        "identifier": "LDG-1121",
+        "name": "LDG-1121",
+        "url": "https://lincsportal.ccs.miami.edu/datasets/view/LDG-1121"
+    },
+    "keywords": "Fluorescence imaging,Post-translational protein modification, Signaling,Fluorescence imaging,Imaging,Cytological profile,BTC,EFNA1,EGF,EPR,FGF-1,FGF-2,HGF,HRG,IGF-I,IGF-II,INS,NGF-beta,PDGF-BB,SCF,VEGF165,184B5,AU565,BT-20,BT-474,BT-483,BT-549,CAMA-1,HCC1187,HCC1395,HCC1419,HCC1428,HCC1500,HCC1569,HCC1806,HCC1937,HCC1954,HCC202,HCC38,HCC70,Hs 578T,MCF-10A,MCF-10F,MCF-12A,MCF-7,MDA-MB-134-VI,MDA-MB-157,MDA-MB-175-VII,MDA-MB-231,MDA-MB-361,MDA-MB-415,MDA-MB-436,MDA-MB-453,SK-BR-3,T-47D,UACC-812,UACC-893,ZR-75-1,ZR-75-30",
+    "measurementTechnique": {
+        "identifier": "0010059",
+        "inDefinedTermSet": "BAO",
+        "isCurated": true,
+        "name": "Fluorescence imaging protein state assay",
+        "originalName": "Fluorescence imaging protein state assay",
+        "url": "https://ontobee.org/ontology/BAO?iri=http://www.bioassayontology.org/bao#BAO_0010059"
+    },
+    "name": "Cell signaling response to growth factors measured by high throughput microscopy",
+    "publication": "24065145",
+    "sameAs": "http://lincsportal.ccs.miami.edu/datasets/#/view/LDS-1124",
+    "sdPublisher": {
+        "@type": "Organization",
+        "name": "LINCS",
+        "url": "http://www.omicsdi.org/dataset/lincs/LDS-1124"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3292",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biochemistry",
+            "url": "http://edamontology.org/topic_3292"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2229",
+            "inDefinedTermSet": "EDAM",
+            "name": "Cell biology",
+            "url": "http://edamontology.org/topic_2229"
+        }
+    ],
+    "url": "https://lincsportal.ccs.miami.edu/datasets/view/LDS-1124",
+    "variableMeasured": {
+        "name": "Fluorescence intensity"
+    }
+}

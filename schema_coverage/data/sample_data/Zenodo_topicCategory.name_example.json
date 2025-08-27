@@ -1,0 +1,81 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_163968",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 2.5971382,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Frederick University"
+            },
+            "name": "Nicolas-George Eliades"
+        }
+    ],
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-10-02"
+    },
+    "date": "2020-01-24",
+    "dateModified": "2020-01-24",
+    "datePublished": "2016-10-31T00:00:00",
+    "description": "The file \"Data fine-scale structure of Cedrus bevifolia .xlsx\" contains the microsatellites and geographical data used in the study \" Significant patterns of fine-scale spatial genetic structure in a narrow endemic wind-dispersed tree species, Cedrus brevifolia Henry.\", by Eliades N-G H, Fady B,\u00a0Gailing O, Leinemann L,\u00a0Finkeldey R, published in\u00a0???.",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/163968/files-archive",
+            "dateModified": "2020-01-24"
+        }
+    ],
+    "doi": "10.5281/zenodo.163968",
+    "identifier": "zenodo.163968",
+    "includedInDataCatalog": {
+        "@type": "Organization",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2024-10-02"
+    },
+    "keywords": [
+        "cedar, populuation genetics, narrow endemic, SSR"
+    ],
+    "name": "Microsatellite markers datat of Cedrus brevifolia in Cyprus",
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3050",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biodiversity",
+            "url": "http://edamontology.org/topic_3050"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3053",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genetics",
+            "url": "http://edamontology.org/topic_3053"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3056",
+            "inDefinedTermSet": "EDAM",
+            "name": "Population genetics",
+            "url": "http://edamontology.org/topic_3056"
+        }
+    ],
+    "url": "https://zenodo.org/records/163968"
+}

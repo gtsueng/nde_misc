@@ -1,0 +1,306 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "msv000088237",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 8.220623,
+    "author": [
+        {
+            "affiliation": {
+                "name": "The George Washington University"
+            },
+            "email": "linghao@gwu.edu",
+            "name": "Ling Hao"
+        }
+    ],
+    "citation": [
+        {
+            "author": {
+                "name": "Li H, Uittenbogaard M, Navarro R, Ahmed M, Gropman A, Chiaramello A, Hao L"
+            },
+            "doi": "Mol Omics. 2022 Mar 28;18(3):196-205. Epub 2022 Mar 28.",
+            "identifier": "1473",
+            "name": "Integrated proteomic and metabolomic analyses of the mitochondrial neurodegenerative disease MELAS."
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "date": "2021-10-16",
+    "dateCreated": "2021-10-16",
+    "datePublished": "2021-10-16",
+    "description": "MELAS (mitochondrial encephalomyopathy, lactic acidosis, stroke-like episodes) is a progressive neurodegenerative disease caused by pathogenic mitochondrial DNA variants. The pathogenic mechanism of MELAS remains enigmatic due to the exceptional clinical heterogeneity and the obscure genotype-phenotype correlation among MELAS patients. To gain insights into the pathogenic signature of MELAS, we designed a comprehensive strategy integrating proteomics and metabolomics in patient-derived dermal fibroblasts harboring the ultra-rare MELAS pathogenic variant m.14453G>A, specifically affecting the mitochondrial respiratory complex I. Global proteomics was achieved by data-dependent acquisition (DDA) and verified by data-independent acquisition (DIA) using both Spectronaut and the recently launched MaxDIA platforms. Comprehensive metabolite coverage was achieved for both polar and nonpolar metabolites in both reverse phase and HILIC LC-MS/MS analyses. Our proof-of-principle MELAS study with multi-omics integration revealed OXPHOS dysregulation with a predominant deficiency of complex I subunits, as well as alterations in key bioenergetic pathways, glycolysis, tricarboxylic acid cycle, and fatty acid ?-oxidation. The most clinically relevant discovery is the downregulation of the arginine biosynthesis pathway, likely due to blocked argininosuccinate synthase, which is congruent with the MELAS cardinal symptom of stroke-like episodes and its current treatment by arginine infusion. In conclusion, we demonstrated an integrated proteomic and metabolomic strategy for patient-derived fibroblasts, which has great clinical potential to discover therapeutic targets and design personalized interventions after validation with a larger patient cohort in the future.",
+    "distribution": {
+        "contentUrl": "ftp://massive.ucsd.edu/v04/MSV000088237"
+    },
+    "doi": "10.25345/C5756P",
+    "funding": [
+        {
+            "endDate": "2021-05-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U54HD090257-01",
+            "name": "District of Columbia Intellectual and Developmental Disabilities Research Center",
+            "projectNumSplit": {
+                "activityCode": "U54",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HD",
+                "serialNum": "090257",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2016-09-22",
+            "url": "https://reporter.nih.gov/project-details/9229286"
+        }
+    ],
+    "healthCondition": [
+        {
+            "curatedBy": {
+                "dateModified": "2024-11-26",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0004675",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "mitochondrial encephalomyopathy",
+            "originalName": "mitochondrial encephalomyopathy",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0004675"
+        },
+        {
+            "alternateName": [
+                "cva",
+                "stroke",
+                "cva, cerebrovascular accident",
+                "cerebrovascular accident",
+                "undetermined stroke",
+                "stroke syndrome",
+                "syndrome, stroke",
+                "cerebrovascular accident, (cva)"
+            ],
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0005098",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "stroke disorder",
+            "originalName": "stroke",
+            "sameas": [
+                {
+                    "identifier": "EFO:0000712",
+                    "name": "stroke",
+                    "url": "http://purl.obolibrary.org/obo/EFO_0000712"
+                },
+                {
+                    "identifier": "HP:0001297",
+                    "url": "http://purl.obolibrary.org/obo/HP_0001297"
+                },
+                {
+                    "identifier": "MESH:D020521",
+                    "name": "Stroke",
+                    "url": "http://purl.obolibrary.org/obo/MESH_D020521"
+                },
+                {
+                    "identifier": "NCIT:C3390",
+                    "url": "http://purl.obolibrary.org/obo/NCIT_C3390"
+                },
+                {
+                    "identifier": "NIFSTD:birnlex_12783",
+                    "url": "http://purl.obolibrary.org/obo/NIFSTD_birnlex_12783"
+                },
+                {
+                    "identifier": "SCTID:230690007",
+                    "name": [
+                        "Cerebrovascular accident (disorder)",
+                        "Cerebrovascular accident"
+                    ],
+                    "url": "http://purl.obolibrary.org/obo/SCTID_230690007"
+                }
+            ],
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005098"
+        },
+        {
+            "alternateName": [
+                "acquired lactic acidosis"
+            ],
+            "curatedBy": {
+                "dateModified": "2024-11-26",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0024306",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "acquired lactic acidosis",
+            "originalName": "lactic acidosis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0024306"
+        },
+        {
+            "alternateName": [
+                "neurodegenerative disease",
+                "central nervous system degenerative disorder",
+                "central nervous system neurodegenerative disorder",
+                "degenerative disorder of central nervous system",
+                "brain degeneration"
+            ],
+            "curatedBy": {
+                "dateModified": "2024-11-26",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0005559",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "neurodegenerative disease",
+            "originalName": "neurodegenerative disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005559"
+        }
+    ],
+    "identifier": "MSV000088237",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=ca555f7b93ba43e99e85f62ed74ff780",
+            "name": "MassIVE",
+            "url": "https://massive.ucsd.edu/ProteoSAFe/static/massive.jsp",
+            "versionDate": "2025-08-24"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://www.omicsdi.org/dataset/gnps/MSV000088237",
+            "name": "Omics Discovery Index (OmicsDI)",
+            "url": "https://www.omicsdi.org/",
+            "versionDate": "2025-07-01"
+        }
+    ],
+    "keywords": [
+        "MELAS",
+        "mitochondrial disease",
+        "Proteomics",
+        "Metabolomics"
+    ],
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "measurementTechnique": [
+        {
+            "name": "Q Exactive HF-X"
+        },
+        {
+            "identifier": "MMO_0000534",
+            "name": "Mass Spectrometry",
+            "url": "https://ontobee.org/ontology/MMO?iri=http://purl.obolibrary.org/obo/MMO_0000534"
+        }
+    ],
+    "name": "GNPS - Integrated proteomic and metabolomic analyses of the mitochondrial neurodegenerative disease MELAS",
+    "sameAs": [
+        "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=ca555f7b93ba43e99e85f62ed74ff780"
+    ],
+    "sdPublisher": {
+        "name": "MassIVE"
+    },
+    "species": [
+        {
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0634",
+            "inDefinedTermSet": "EDAM",
+            "name": "Pathology",
+            "url": "http://edamontology.org/topic_0634"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0121",
+            "inDefinedTermSet": "EDAM",
+            "name": "Proteomics",
+            "url": "http://edamontology.org/topic_0121"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3172",
+            "inDefinedTermSet": "EDAM",
+            "name": "Metabolomics",
+            "url": "http://edamontology.org/topic_3172"
+        }
+    ],
+    "url": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=ca555f7b93ba43e99e85f62ed74ff780",
+    "variableMeasured": [
+        {
+            "name": "Metabolomics"
+        }
+    ]
+}

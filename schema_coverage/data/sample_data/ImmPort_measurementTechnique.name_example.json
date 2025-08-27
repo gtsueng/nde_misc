@@ -1,0 +1,186 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "sdy3050",
+    "_score": 10.858765,
+    "abstract": "Evaluation of COBRA HA and NA vaccine in pre-immune mice after virus challenge to identify differences in antibody secreting cells, serological response and lung damage.",
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Other: Cleveland Clinic"
+            },
+            "name": "Ted Ross"
+        }
+    ],
+    "citedBy": [
+        {
+            "@type": "ScholarlyArticle",
+            "doi": "10.3390/vaccines12070706",
+            "name": "A Computationally Optimized Broadly Reactive Hemagglutinin and Neuraminidase Vaccine Boosts Antibody-Secreting Cells and Induces a Robust Serological Response, Preventing Lung Damage in a Pre-Immune Model.",
+            "pmid": "39066344",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39066344"
+        }
+    ],
+    "conditionsOfAccess": "Closed",
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "ImmPort Data Curation Team"
+    },
+    "date": "2025-04-24",
+    "dateModified": "2025-04-24T00:00:00",
+    "description": "Healthy mice were pre-immunized and vaccinated with COBRA vaccine containing H2, H5, H7, N1 and N2 antigens. The mice were then challenged with A/Hong Kong/125/2017/H7N9 virus. Samples were collected to assess protective efficacy and immune response.",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://browser.immport.org/browser?path=SDY3050",
+            "dateModified": "2025-04-24T00:00:00",
+            "encodingFormat": "URL"
+        }
+    ],
+    "doi": "10.21430/M30BOPS0TE",
+    "funding": [
+        {
+            "endDate": "2020-09-09",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "75N93019C00052-0-9999-1",
+            "name": "CIVIC: University of Georgia Center for Influenza Vaccine Research in High Risk Populations",
+            "startDate": "2019-09-10",
+            "url": "https://reporter.nih.gov/project-details/10021763"
+        },
+        {
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "National Institute of Allergy & Infectious Diseases",
+                    "NIAID",
+                    "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                ],
+                "identifier": "https://ror.org/043z4tv69",
+                "name": "National Institute of Allergy and Infectious Diseases",
+                "parentOrganization": "National Institutes of Health"
+            }
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "influenza with non-respiratory manifestation",
+                "orthomyxoviridae caused disease or disorder",
+                "Influenza with other manifestations",
+                "orthomyxoviridae disease or disorder",
+                "flu",
+                "influenza infection",
+                "orthomyxoviridae infectious disease"
+            ],
+            "identifier": "0005812",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "influenza",
+            "originalName": "influenza",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005812"
+        }
+    ],
+    "identifier": [
+        "10.21430/M30BOPS0TE"
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://immport.org/shared/study/SDY3050",
+        "name": "ImmPort",
+        "url": "https://immport.org",
+        "versionDate": "2025-04-24T00:00:00"
+    },
+    "isAccessibleForFree": true,
+    "isBasedOn": [
+        {
+            "additionalType": {
+                "name": "Experiment"
+            },
+            "description": "Preimmunized with Influenza Viruses",
+            "identifier": "PTL12298",
+            "name": "05 FER-000 Standardization in Ferret Procedures.pdf",
+            "url": "https://www.immport.org/browser/?path=SDY3050"
+        }
+    ],
+    "keywords": [
+        "CIVICs Collaborative Influenza Vaccine Innovation Centers",
+        "Immunogenicity will be determined by HAI and ELISA serum antibody titers, spleenocyte ASCs against panels of historical, co-circulating, and future drifted H2Nx, H5Nx, H7Nx influenza viruses."
+    ],
+    "license": "https://www.immport.org/agreement",
+    "measurementTechnique": [
+        {
+            "name": "ELISPOT"
+        },
+        {
+            "name": "Virus Plaque Assay"
+        },
+        {
+            "name": "ELISA"
+        },
+        {
+            "name": "Hemagglutination Inhibition"
+        }
+    ],
+    "name": "COBRA HA and NA vaccine boosts antibody-secreting cells and induces serological response.",
+    "sameAs": "https://doi.org/10.21430/M30BOPS0TE",
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "abstract": "Collaborative Influenza Vaccine Innovation Centers (CIVICs) is a network of research centers working collaboratively to develop next-generation influenza vaccines. Their goal is to create vaccines that provide broader, longer-lasting protection against influenza viruses.",
+            "alternateName": [
+                "CIVIC",
+                "Collaborative Influenza Vaccine Innovation Centers",
+                "CIVICs"
+            ],
+            "correctionApproved": true,
+            "description": "Collaborative Influenza Vaccine Innovation Centers (CIVICs) is a network of research centers that will work together in a coordinated, multidisciplinary effort to develop more durable, broadly protective and longer-lasting influenza vaccines. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/civics",
+            "name": "NIAID CIVICs Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.niaidcivics.org/"
+        }
+    ],
+    "species": [
+        {
+            "alternateName": [
+                "Mouse",
+                "LK3 transgenic mice",
+                "Mus musculus Linnaeus, 1758",
+                "Mus sp. 129SV",
+                "house mouse",
+                "mice C57BL/6xCBA/CaJ hybrid",
+                "mouse",
+                "nude mice",
+                "transgenic mice"
+            ],
+            "classification": "host",
+            "commonName": "Mouse",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Mouse | Mus musculus",
+            "identifier": "10090",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Mus musculus",
+            "originalName": "mus musculus",
+            "url": "https://www.uniprot.org/taxonomy/10090"
+        }
+    ],
+    "url": "https://immport.org/shared/study/SDY3050"
+}

@@ -1,0 +1,66 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "zenodo_1493069",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 2.6650717,
+    "author": [
+        {
+            "affiliation": {
+                "name": "State Key Laboratory of Pollution Control and Resources Reuse, School of the Environment, Nanjing University, Nanjing 210023, China"
+            },
+            "name": "Li,Wen-tao"
+        }
+    ],
+    "curatedBy": {
+        "@type": "DataCatalog",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2025-04-12"
+    },
+    "date": "2020-01-21",
+    "dateModified": "2020-01-21",
+    "datePublished": "2018-11-21T00:00:00",
+    "description": "This dataset contains the data underlying the following publication: Ji Wu, Shi Cheng, Min-Hui Cai, Ya-Ping Wu, Yan Li, Ji-Chun Wu, Ai-Min Li, Wen-Tao Li(2018)\n\n\nApplying UV absorbance and fluorescence indices to estimate inactivation of bacteria and formation of bromate during ozonation of water and wastewater effluent. Water Research. \u00a0https://doi.org/10.1016/j.watres.2018.08.030",
+    "distribution": [
+        {
+            "contentUrl": "https://zenodo.org/api/records/1493069/files-archive",
+            "dateModified": "2020-01-21"
+        }
+    ],
+    "doi": "10.52/zenodo.149",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "identifier": "10.13039/501100000780",
+                "name": "European Commission"
+            },
+            "identifier": "688320",
+            "name": "DevelopMent AnD application of integrated technological and management solutions FOR wasteWATER treatment and efficient reuse in agriculture tailored to the needs of Mediterranean African Countries"
+        }
+    ],
+    "identifier": "zenodo.1493069",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://zenodo.org/records/1493069",
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "versionDate": "2025-04-12"
+    },
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "MADFORWATER: WP2: Adaptation of wastewater treatment technologies for agricultural reuse: Task2.4: Industrial wastewater treatment: Treatment of different types of wastewater by means of innovative resins: Subset4",
+    "sdPublisher": [
+        {
+            "name": "njuwater",
+            "url": "https://zenodo.org/communities/njuwater"
+        },
+        {
+            "name": "eu",
+            "url": "https://zenodo.org/communities/eu"
+        }
+    ],
+    "url": "https://zenodo.org/records/1493069"
+}

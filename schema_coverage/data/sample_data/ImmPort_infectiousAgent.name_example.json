@@ -1,0 +1,147 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "sdy3019",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 10.858765,
+    "abstract": "To evaluate whether medical mistrust alters receptivity to SARS-CoV-2 antibody testing, and if this influence differs across race.",
+    "citedBy": [
+        {
+            "@type": "ScholarlyArticle",
+            "doi": "None",
+            "name": "None",
+            "pmid": "manuscript",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/manuscript"
+        }
+    ],
+    "conditionsOfAccess": "Closed",
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "ImmPort Data Curation Team"
+    },
+    "date": "2025-04-24",
+    "dateModified": "2025-04-24T00:00:00",
+    "description": "Recent research suggests that in addition to structural barriers (e.g., access), psychosocial factors can influence uptake of COVID-19 tools and treatments. However, less is known about racial differences in this potential link for SARS-CoV-2 antibody We evaluated whether medical mistrust alters receptivity to SARS-CoV-2 antibody testing, and whether this influence differs across race. African Americans (N = 306) and White Americans (N = 205) were recruited from a Midwest urban community for an online study about COVID-19 and SARS-CoV-2 antibody testing. Participants completed the Group-Based Medical Mistrust Scale and then viewed educational videos about the SARS-CoV-2 virus, antibodies, and antibody testing. Participants reported their receptivity to antibody testing using measures grounded in the Theory of Planned Behavior (TPB) (attitudes, normative beliefs, perceived behavioral control, and intentions). Medical mistrust was significantly higher among African Americans than White Americans, although there were no race differences in receptivity to antibody testing. Multiple regression analyses showed that higher medical mistrust was associated with lower receptivity to antibody testing across all TPB measures. A significant race x medical mistrust interaction suggested that medical mistrust was more strongly associated with less favorable antibody testing attitudes among White Americans than African Americans. Results suggest that medical mistrust may be a general psychosocial barrier to antibody testing. However, despite being higher among African Americans, mistrust may exert a stronger influence on receptivity toward antibody testing among White Americans, highlighting a need to consider medical mistrust as a barrier to health behavior responses across races.",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://browser.immport.org/browser?path=SDY3019",
+            "dateModified": "2025-04-24T00:00:00",
+            "encodingFormat": "URL"
+        }
+    ],
+    "doi": "10.21430/M3UX3FYPIQ",
+    "funding": [
+        {
+            "endDate": "2022-08-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01CA260469-01",
+            "name": "Culturally-targeted communication to promote SARS-CoV-2 antibody testing in saliva:  Enabling evaluation of inflammatory pathways in COVID-19 racial disparities",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "CA",
+                "serialNum": "260469",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2020-09-22",
+            "url": "https://reporter.nih.gov/project-details/10221254"
+        },
+        {
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "National Institute of Allergy & Infectious Diseases",
+                    "NIAID",
+                    "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                ],
+                "identifier": "https://ror.org/043z4tv69",
+                "name": "National Institute of Allergy and Infectious Diseases",
+                "parentOrganization": "National Institutes of Health"
+            }
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "2019 novel coronavirus infection",
+                "2019-nCoV infection",
+                "coronavirus disease 2019",
+                "severe acute respiratory syndrome coronavirus 2 infectious disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0100096",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "COVID-19",
+            "originalName": "COVID-19",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0100096"
+        }
+    ],
+    "identifier": [
+        "10.21430/M3UX3FYPIQ"
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://immport.org/shared/study/SDY3019",
+        "name": "ImmPort",
+        "url": "https://immport.org",
+        "versionDate": "2025-04-24T00:00:00"
+    },
+    "infectiousAgent": [
+        {
+            "alternateName": [
+                "SARS-CoV",
+                "SARS virus",
+                "SARS coronavirus"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Severe acute respiratory syndrome coronavirus",
+            "fromEXTRACT": true,
+            "identifier": "2901879",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Severe acute respiratory syndrome coronavirus",
+            "originalName": "SARS-Cov-2",
+            "url": "https://www.uniprot.org/taxonomy/2901879"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "isBasedOn": [
+        {
+            "additionalType": {
+                "name": "Study Protocol"
+            },
+            "description": "Study Protocol",
+            "identifier": "PTL12642",
+            "name": "PMIDNCT04957082_protocol-01.txt",
+            "url": "https://www.immport.org/browser/?path=SDY3019"
+        }
+    ],
+    "keywords": [
+        "SeroNet",
+        "Medical mistrust | health disparities | COVID-19 | serosurveillance"
+    ],
+    "license": "https://www.immport.org/agreement",
+    "name": "Medical Mistrust and SARS-CoV-2 Antibody Testing Among African Americans and White Americans",
+    "sameAs": "https://doi.org/10.21430/M3UX3FYPIQ",
+    "url": "https://immport.org/shared/study/SDY3019"
+}

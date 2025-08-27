@@ -1,0 +1,266 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "ds_4c85954f57",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 9.970468,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Wellcome Trust Sanger Institute"
+            },
+            "name": "Martin Donnelly"
+        }
+    ],
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Weetman D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Wilding CS"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Steen K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Morgan JC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Simard F"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Donnelly MJ"
+                }
+            ],
+            "datePublished": "2010-10-01",
+            "fromPMID": true,
+            "identifier": "PMID:20976111",
+            "journalName": "PloS one",
+            "name": "Association mapping of insecticide resistance in wild Anopheles gambiae populations: major variants identified in a low-linkage disequilbrium genome.",
+            "pmid": "20976111",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20976111/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Weetman D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Wilding CS"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Steen K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pinto J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Donnelly MJ"
+                }
+            ],
+            "datePublished": "2012-01-01",
+            "fromPMID": true,
+            "identifier": "PMID:21836185",
+            "journalName": "Molecular biology and evolution",
+            "name": "Gene flow-dependent genomic divergence between Anopheles gambiae M and S forms.",
+            "pmid": "21836185",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21836185/"
+        }
+    ],
+    "conditionsOfAccess": "Closed",
+    "creditText": "Martin Donnelly",
+    "date": "2013-06-06",
+    "dateModified": "2013-06-06",
+    "description": "Samples were collected as larvae from Yaound\u00e9, Cameroon in July to August 2006, Dodowa, Ghana in October to November 2006, from houses in Tororo, Uganda in November 2008, and from houses in Antula, Guinea-Bissau in August to September 1993. The sampling protocol scaled the number of larvae taken to habitat size to reduce the possibility of sampling siblings. Indoor-resting adult females were collected by aspiration or by trapping in untreated bednets. All samples were confirmed morphologically as A. gambiae sensu lato. A PCR restriction fragment length polymorphism (RFLP) molecular diagnostic of X chromosome rDNA variation was used to determine species identity within the A. gambiae sensu lato group and A. gambiae sensu stricto molecular form (M or S).  1,826 individuals were genotyped at 1,536 loci using a microarray.  1,517 individuals from Cameroon and Ghana were also assayed for survival upon exposure to LT50 0.75% permethrin. (MapVEu VBP0000004)",
+    "funding": [
+        {
+            "endDate": "2014-04-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AI082734-01",
+            "name": "Development of a Field Applicable Screening Tool (FAST) kit for detecting resista",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "082734",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2009-05-01",
+            "url": "https://reporter.nih.gov/project-details/7657009"
+        },
+        {
+            "endDate": "2014-04-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AI082734-01",
+            "name": "Development of a Field Applicable Screening Tool (FAST) kit for detecting resista",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "082734",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2009-05-01",
+            "url": "https://reporter.nih.gov/project-details/7657009"
+        },
+        {
+            "endDate": "2014-04-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AI082734-01",
+            "name": "Development of a Field Applicable Screening Tool (FAST) kit for detecting resista",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "082734",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2009-05-01",
+            "url": "https://reporter.nih.gov/project-details/7657009"
+        },
+        {
+            "endDate": "2014-04-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AI082734-01",
+            "name": "Development of a Field Applicable Screening Tool (FAST) kit for detecting resista",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "082734",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2009-05-01",
+            "url": "https://reporter.nih.gov/project-details/7657009"
+        }
+    ],
+    "identifier": "DS_4c85954f57",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://veupathdb.org/veupathdb/app/record/dataset/DS_4c85954f57",
+            "name": "VEuPathDB",
+            "url": "https://veupathdb.org/veupathdb/app",
+            "versionDate": "2025-08-23"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://vectorbase.org/vectorbase/app/record/dataset/DS_4c85954f57",
+            "name": "VectorBase",
+            "url": "https://vectorbase.org/vectorbase/app",
+            "versionDate": "2025-08-23"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "measurementTechnique": {
+        "name": "population_biology"
+    },
+    "name": "Genotyping and permethrin-resistance phenotyping of Anopheles gambiae M and S form mosquitoes from Cameroon, Ghana, Uganda and Guinea-Bissau",
+    "sdPublisher": {
+        "name": " "
+    },
+    "species": [
+        {
+            "alternateName": [
+                "African malaria mosquito",
+                "Anopheles gambia",
+                "Anopheles gambiae sensu stricto",
+                "Anopheles gambiae S",
+                "Anopheles gambiae Giles, 1902"
+            ],
+            "classification": "host",
+            "commonName": "African malaria mosquito",
+            "displayName": "African malaria mosquito | Anopheles gambiae",
+            "fromPMID": true,
+            "identifier": "7165",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Anopheles gambiae",
+            "url": "https://www.uniprot.org/taxonomy/7165"
+        },
+        {
+            "alternateName": [
+                "Anopheles coluzzii Coetzee & Wilkerson, 2013",
+                "Anopheles gambiae M",
+                "African malaria mosquito"
+            ],
+            "classification": "host",
+            "commonName": "African malaria mosquito",
+            "displayName": "African malaria mosquito | Anopheles coluzzii",
+            "fromPMID": true,
+            "identifier": "1518534",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Anopheles coluzzii",
+            "url": "https://www.uniprot.org/taxonomy/1518534"
+        }
+    ],
+    "url": "https://veupathdb.org/veupathdb/app/record/dataset/DS_4c85954f57"
+}

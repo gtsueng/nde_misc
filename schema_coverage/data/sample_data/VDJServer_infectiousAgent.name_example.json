@@ -1,0 +1,89 @@
+{
+    "@type": "Dataset",
+    "_id": "vdj_immunecode-covid-release-002__covid-19-bwnw",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.990245,
+    "author": [
+        {
+            "name": "Adaptive Biotechnologies"
+        }
+    ],
+    "date": "2022-12-16",
+    "dateModified": "2022-12-16",
+    "datePublished": "2020-08-31",
+    "description": "COVID-19-BWNW: We describe the establishment and current content of the ImmuneCODE\u2122 database, which includes hundreds of millions of T-cell Receptor (TCR) sequences from over 1,400 subjects exposed to or infected with the SARSCoV-2 virus, as well as over 135,000 high-confidence SARS-CoV-2-specific TCRs. \n\n  ",
+    "healthCondition": [
+        {
+            "alternateName": [
+                "2019 novel coronavirus infection",
+                "2019-nCoV infection",
+                "coronavirus disease 2019",
+                "severe acute respiratory syndrome coronavirus 2 infectious disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0100096",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "COVID-19",
+            "originalName": "COVID-19",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0100096"
+        }
+    ],
+    "includedInDataCatalog": {
+        "@type": "Dataset",
+        "dataset": "https://vdj-staging.tacc.utexas.edu/community/",
+        "name": "VDJServer",
+        "url": "https://vdj-staging.tacc.utexas.edu/community/",
+        "versionDate": "2025-02-09"
+    },
+    "infectiousAgent": [
+        {
+            "alternateName": [
+                "Bat SARS coronavirus Rf1",
+                "Bat SARS-CoV/Rf1/2004"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Bat SARS CoV Rf1/2004",
+            "fromEXTRACT": true,
+            "identifier": "347537",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Bat SARS CoV Rf1/2004",
+            "originalName": "SARSCoV-2",
+            "url": "https://www.uniprot.org/taxonomy/347537"
+        },
+        {
+            "alternateName": [
+                "SARS-CoV",
+                "SARS virus",
+                "SARS coronavirus"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Severe acute respiratory syndrome coronavirus",
+            "fromEXTRACT": true,
+            "identifier": "2901879",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Severe acute respiratory syndrome coronavirus",
+            "originalName": "SARS-CoV-2",
+            "url": "https://www.uniprot.org/taxonomy/2901879"
+        }
+    ],
+    "measurementTechnique": {
+        "identifier": "NCIT:C16084",
+        "inDefinedTermSet": "NCI Thesaurus",
+        "name": "Observational Study"
+    },
+    "name": "A large-scale database of T-cell receptor beta (TCRb) sequences and binding associations from natural and synthetic exposure to SARS-CoV-2",
+    "sdPublisher": {
+        "name": "VDJServer"
+    },
+    "url": "https://vdj-staging.tacc.utexas.edu/community/"
+}

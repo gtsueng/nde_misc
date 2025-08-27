@@ -1,0 +1,587 @@
+{
+    "@type": "Dataset",
+    "_id": "vdj_prjna472381",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.5654545,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Program for Computational and Systems Biology, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA"
+            },
+            "name": "Dana Pe\u2019er"
+        },
+        {
+            "affiliation": {
+                "name": "scott.christley@utsouthwestern.edu"
+            },
+            "name": "Scott Christley"
+        }
+    ],
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Azizi E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Carr AJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Plitas G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cornish AE"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Konopacki C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Prabhakaran S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nainys J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Wu K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kiseliovas V"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Setty M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Choi K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Fromme RM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dao P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "McKenney PT"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Wasti RC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kadaveru K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mazutis L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rudensky AY"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pe'er D"
+                }
+            ],
+            "datePublished": "2018-08-23",
+            "fromPMID": true,
+            "identifier": "PMID:29961579",
+            "journalName": "Cell",
+            "name": "Single-Cell Map of Diverse Immune Phenotypes in the Breast Tumor Microenvironment.",
+            "pmid": "29961579",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29961579/"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "date": "2022-12-16",
+    "dateModified": "2022-12-16",
+    "datePublished": "2021-10-06",
+    "description": "Knowledge of immune cell phenotypes in the tumor microenvironment is essential for understanding mechanisms of cancer progression and immunotherapy response. We profiled 45,000 immune cells from eight breast carcinomas, as well as matched normal breast tissue, blood, and lymph nodes, using single-cell RNA-seq. We developed a preprocessing pipeline, SEQC, and a Bayesian clustering and normalization method, Biscuit, to address computational challenges inherent to single-cell data. Despite significant similarity between normal and tumor tissue-resident immune cells, we observed continuous phenotypic expansions specific to the tumor microenvironment. Analysis of paired single-cell RNA and T cell receptor (TCR) sequencing data from 27,000 additional T cells revealed the combinatorial impact of TCR utilization on phenotypic diversity. Our results support a model of continuous activation in T cells and do not comport with the macrophage polarization model in cancer. Our results have important implications for characterizing tumor-infiltrating immune cells. Tissues were collected from women undergoing surgery for primary breast cancer. All samples were obtained after informed consent and approval from the Institutional Review Board (IRB) at Memorial Sloan Kettering Cancer Center. This study was supported by NIH grants R37 AI034206 (A.Y.R.), DP1-HD084071 (D.P.), R01CA164729 (D.P.), U54 CA209975 (A.Y.R, D.P.). Cancer Center Support Grant P30 CA008748, the Hilton-Ludwig Cancer Prevention Initiative funded by the Conrad N. Hilton Foundation, Ludwig Cancer Research, and Gerry Center for Metastasis and Tumor Ecosystems. E.A. was supported by an American Cancer Society - Fairfield County Roast Committee Postdoctoral Fellowship (PF-17-243-01-RMC), A.J.C. by a HHMI international graduate fellowship, G.P. by a Breast Cancer Alliance Young Investigator Grant and the Society of MSK Research Grant, C.K. by a Hutham S. Olayan Graduate Fellowship, and P.T.M. by a Boehringer Ingelheim SHINE Fellowship. CyTOF experiments were supported with funds from the Boehringer Ingelheim SHINE Program (A.Y.R.). A.Y.R. is an investigator with the Howard Hughes Medical Institute.",
+    "distribution": [
+        {
+            "contentUrl": "SRR7191916.10x.igblast.airr.tsv.gz"
+        }
+    ],
+    "funding": [
+        {
+            "endDate": "2017-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01CA164729-01A1",
+            "name": "Integrative Cancer Genomics: Drivers, Pathways and Drugs",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "CA",
+                "serialNum": "164729",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2012-09-01",
+            "url": "https://reporter.nih.gov/project-details/8371751"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "Howard Hughes Medical Institute Inc",
+                    "HHMI"
+                ],
+                "identifier": "https://ror.org/006w34k90",
+                "name": "Howard Hughes Medical Institute"
+            }
+        },
+        {
+            "endDate": "1987-12-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "5P30CA008748-20",
+            "name": "CANCER CENTER SUPPORT GRANT",
+            "projectNumSplit": {
+                "activityCode": "P30",
+                "applTypeCode": "5",
+                "fullSupportYear": "20",
+                "icCode": "CA",
+                "serialNum": "008748",
+                "suffixCode": "",
+                "supportYear": "20"
+            },
+            "startDate": "1977-01-01",
+            "url": "https://reporter.nih.gov/project-details/3101248"
+        },
+        {
+            "endDate": "2019-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "Office of the Director",
+                        "Office of the Director, NIH",
+                        "OD",
+                        "Office of the NIH Director"
+                    ],
+                    "identifier": "https://ror.org/00fj8a872",
+                    "name": "NIH Office of the Director",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1DP1HD084071-01",
+            "name": "Single cell mapping of developmental trajectories underlying health and disease",
+            "projectNumSplit": {
+                "activityCode": "DP1",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HD",
+                "serialNum": "084071",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2014-09-30",
+            "url": "https://reporter.nih.gov/project-details/8755773"
+        },
+        {
+            "endDate": "2014-01-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "2R37AI034206-16A2",
+            "name": "Self Peptides Bound to MHC Class II In T Cell Selection",
+            "projectNumSplit": {
+                "activityCode": "R37",
+                "applTypeCode": "2",
+                "fullSupportYear": "16A2",
+                "icCode": "AI",
+                "serialNum": "034206",
+                "suffixCode": "A2",
+                "supportYear": "16"
+            },
+            "startDate": "1992-09-01",
+            "url": "https://reporter.nih.gov/project-details/7580860"
+        },
+        {
+            "endDate": "2020-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1K99CA230195-01",
+            "name": "Integrative framework for identifying dysregulated mechanisms in the tumor-immune microenvironment",
+            "projectNumSplit": {
+                "activityCode": "K99",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "CA",
+                "serialNum": "230195",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2018-07-11",
+            "url": "https://reporter.nih.gov/project-details/9582884"
+        },
+        {
+            "endDate": "2021-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U54CA209975-01",
+            "name": "The CSBC Research Center for Cancer Systems Immunology at MSKCC",
+            "projectNumSplit": {
+                "activityCode": "U54",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "CA",
+                "serialNum": "209975",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2016-08-26",
+            "url": "https://reporter.nih.gov/project-details/9186246"
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "breast carcinoma",
+                "mammary carcinoma",
+                "carcinoma of the breast",
+                "carcinoma of breast"
+            ],
+            "fromPMID": true,
+            "identifier": "0004989",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "breast carcinoma",
+            "sameas": [
+                {
+                    "identifier": "DOID:3459",
+                    "url": "http://purl.obolibrary.org/obo/DOID_3459"
+                },
+                {
+                    "identifier": "EFO:0000305",
+                    "name": "breast carcinoma",
+                    "url": "http://purl.obolibrary.org/obo/EFO_0000305"
+                },
+                {
+                    "identifier": "NCIT:C4872",
+                    "url": "http://purl.obolibrary.org/obo/NCIT_C4872"
+                },
+                {
+                    "identifier": "SCTID:254838004",
+                    "name": [
+                        "Carcinoma of breast (disorder)",
+                        "Carcinoma of breast"
+                    ],
+                    "url": "http://purl.obolibrary.org/obo/SCTID_254838004"
+                },
+                {
+                    "identifier": "UMLS:C0678222",
+                    "url": "http://purl.obolibrary.org/obo/UMLS_C0678222"
+                }
+            ],
+            "url": "http://purl.obolibrary.org/obo/MONDO_0004989"
+        },
+        {
+            "alternateName": [
+                "carcinoma",
+                "malignant epithelial tumor",
+                "malignant epithelial neoplasm",
+                "epithelioma malignant",
+                "epithelial carcinoma",
+                "carcinoma, malignant",
+                "Other carcinoma",
+                "malignant epithelioma",
+                "malignant epithelial tumour"
+            ],
+            "fromPMID": true,
+            "identifier": "0004993",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "carcinoma",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0004993"
+        },
+        {
+            "alternateName": [
+                "ca",
+                "neoplasm, malignant",
+                "primary cancer",
+                "malignancy",
+                "cell type cancer",
+                "cancer",
+                "malignant neoplastic disease",
+                "neoplasm (disease), malignant",
+                "malignant tumor",
+                "organ system cancer",
+                "malignant neoplasm",
+                "malignant growth",
+                "malignant neoplasm (disease)"
+            ],
+            "fromPMID": true,
+            "identifier": "0004992",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "cancer",
+            "sameas": [
+                {
+                    "identifier": "DOID:0050686",
+                    "url": "http://purl.obolibrary.org/obo/DOID_0050686"
+                },
+                {
+                    "identifier": "DOID:0050687",
+                    "url": "http://purl.obolibrary.org/obo/DOID_0050687"
+                },
+                {
+                    "identifier": "DOID:162",
+                    "url": "http://purl.obolibrary.org/obo/DOID_162"
+                },
+                {
+                    "identifier": "EFO:0000311",
+                    "url": "http://purl.obolibrary.org/obo/EFO_0000311"
+                },
+                {
+                    "identifier": "GARD:0011960",
+                    "url": "http://purl.obolibrary.org/obo/GARD_0011960"
+                },
+                {
+                    "identifier": "ICD9:195.8",
+                    "url": "http://purl.obolibrary.org/obo/ICD9_195.8"
+                },
+                {
+                    "identifier": "ICD9:199",
+                    "url": "http://purl.obolibrary.org/obo/ICD9_199"
+                },
+                {
+                    "identifier": "ICD9:199.1",
+                    "url": "http://purl.obolibrary.org/obo/ICD9_199.1"
+                },
+                {
+                    "identifier": "ICDO:8000/3",
+                    "url": "http://purl.obolibrary.org/obo/ICDO_8000/3"
+                },
+                {
+                    "identifier": "NCIT:C9305",
+                    "url": "http://purl.obolibrary.org/obo/NCIT_C9305"
+                },
+                {
+                    "identifier": "NIFSTD:birnlex_406",
+                    "url": "http://purl.obolibrary.org/obo/NIFSTD_birnlex_406"
+                },
+                {
+                    "identifier": "ONCOTREE:MT",
+                    "url": "http://purl.obolibrary.org/obo/ONCOTREE_MT"
+                },
+                {
+                    "identifier": "SCTID:363346000",
+                    "url": "http://purl.obolibrary.org/obo/SCTID_363346000"
+                },
+                {
+                    "identifier": "UMLS:C0006826",
+                    "url": "http://purl.obolibrary.org/obo/UMLS_C0006826"
+                }
+            ],
+            "url": "http://purl.obolibrary.org/obo/MONDO_0004992"
+        },
+        {
+            "alternateName": [
+                "neoplasm, breast",
+                "tumor of the breast",
+                "tumour of the breast",
+                "breast neoplasm (disease)",
+                "tumour of breast",
+                "breast neoplasm",
+                "neoplasm of the breast",
+                "breast tumor",
+                "neoplasm of breast",
+                "tumor of breast",
+                "breast tumour"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0021100",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "breast neoplasm",
+            "originalName": "Breast Cancer",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0021100"
+        }
+    ],
+    "identifier": "PRJNA472381",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://vdjserver.org/community?study_id=PRJNA472381",
+        "name": "VDJServer",
+        "url": "https://vdjserver.org/community?study_id=PRJNA472381",
+        "versionDate": "2025-08-24"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+        "tumor",
+        "RNA",
+        "T cell",
+        "breast",
+        "2",
+        "CL:0000084",
+        "UBERON:0000310"
+    ],
+    "license": "https://creativecommons.org/public-domain/",
+    "measurementTechnique": {
+        "identifier": "NCIT:C16084",
+        "name": "Observational Study"
+    },
+    "name": "Single-Cell Map of Diverse Immune Phenotypes in the Breast Tumor Microenvironment",
+    "species": [
+        {
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2640",
+            "inDefinedTermSet": "EDAM",
+            "name": "Oncology",
+            "url": "http://edamontology.org/topic_2640"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0622",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genomics",
+            "url": "http://edamontology.org/topic_0622"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        }
+    ],
+    "url": "https://vdjserver.org/community?study_id=PRJNA472381",
+    "usageInfo": {
+        "@type": "CreativeWork",
+        "description": "The software is under the GNU Affero General Public License, the data is Public Domain",
+        "name": "AIRR Data Commons usage info"
+    },
+    "variableMeasured": [
+        {
+            "identifier": "C20971",
+            "inDefinedTermSet": "NCIT",
+            "name": "V(D)J Recombination",
+            "url": "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C20971"
+        },
+        {
+            "identifier": "data_2977",
+            "inDefinedTermSet": "EDAM",
+            "name": "Nucleic acid sequence",
+            "url": "https://edamontology.org/data_2977"
+        }
+    ]
+}

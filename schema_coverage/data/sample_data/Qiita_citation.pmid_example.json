@@ -1,0 +1,155 @@
+{
+    "@type": "Dataset",
+    "_id": "qiita_12975",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 11.274522,
+    "author": {
+        "name": "Sarkis Mazmanian"
+    },
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Boktor JC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sharon G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Verhagen Metman LA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hall DA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Engen PA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Zreloff Z"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hakim DJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bostick JW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ousey J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lange D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Humphrey G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ackermann G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Carlin M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Knight R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Keshavarzian A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mazmanian SK"
+                }
+            ],
+            "datePublished": "2023-03-01",
+            "fromPMID": true,
+            "identifier": "PMID:36691982",
+            "journalName": "Movement disorders : official journal of the Movement Disorder Society",
+            "name": "Integrated Multi-Cohort Analysis of the Parkinson's Disease Gut Metagenome.",
+            "pmid": "36691982",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36691982/"
+        }
+    ],
+    "description": "Background: A growing body of evidence suggests alterations in the gut microbiome are associated with a Parkinson\u2019s disease (PD) diagnosis. \r\n\r\nObjective: To profile the gut metagenome in PD for alterations in microbiome composition, differentially abundant taxa, functional metabolic pathways, and microbial gene products and their relationship with disease progression.\r\n\r\nMethods: Shotgun metagenomic sequencing was conducted on 244 unique donors from two independent cohorts in the United States, including individuals with Parkinson\u2019s Disease (PD, n=48, n=47, respectively), Household Controls (HC, n=29, n=30), and Population Controls (PC, n=41, n=49). Microbial features consistently altered in PD compared to environmental and community controls were identified. Data were cross-referenced to public metagenomic datasets from two previous PD studies in Germany or China to determine globally generalizable microbiome features.\r\n\r\nResults: The gut microbiome in PD shows modest but significant alterations in community composition. Robust taxonomic alterations include a depletion in the beneficial gut commensals Faecalibacterium prausnitzii and various Eubacterium and Roseburia species, and increased abundance of Akkermansia muciniphila and various Bifidobacterium species. Pathway enrichment analysis and metabolic potential, constructed from microbial gene abundance, revealed disruptions in microbial carbohydrate and lipid metabolism and an increase in amino acid and nucleotide metabolism. These global gene-level signatures of the PD microbiome indicate an increased response to oxidative stress, decreased cellular growth and microbial motility, and disrupted inter-community bacterial signaling. \r\n\r\nConclusion: Gut profiles of PD participants show consistent alterations in taxonomic representation, functional metabolic potential, and microbial gene abundance across four independent metagenomic studies from three continents. These data suggest alterations in the PD microbiome may contribute to PD physiology, but do not exclude microbiome imprinting by disease status.\r\n",
+    "doi": [
+        "10.1002/mds.29300"
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "paralysis agitans",
+                "Parkinson's disease",
+                "Parkinson disease"
+            ],
+            "fromPMID": true,
+            "identifier": "0005180",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "Parkinson disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005180"
+        }
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://qiita.ucsd.edu/study/description/12975",
+        "name": "Qiita",
+        "url": "https://qiita.ucsd.edu/",
+        "versionDate": "2025-07-19"
+    },
+    "mainEntityOfPage": "https://www.ebi.ac.uk/ena/browser/view/ERP138199",
+    "name": "Integrated multi-cohort analysis of the Parkinsons disease gut metagenome - RUMC",
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0634",
+            "inDefinedTermSet": "EDAM",
+            "name": "Pathology",
+            "url": "http://edamontology.org/topic_0634"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3697",
+            "inDefinedTermSet": "EDAM",
+            "name": "Microbial ecology",
+            "url": "http://edamontology.org/topic_3697"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3174",
+            "inDefinedTermSet": "EDAM",
+            "name": "Metagenomics",
+            "url": "http://edamontology.org/topic_3174"
+        }
+    ],
+    "url": "https://qiita.ucsd.edu/study/description/12975"
+}

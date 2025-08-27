@@ -1,0 +1,333 @@
+{
+    "@type": "Dataset",
+    "_id": "reframedb_a00208",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 12.793354,
+    "alternateName": "Crypto-C. parvum proliferation (Bunch Grass Farm)",
+    "author": [
+        {
+            "name": "California Institute for Biomedical Research (Calibr), La Jolla, CA"
+        },
+        {
+            "affiliation": {
+                "name": "California Institute for Biomedical Research (Calibr), La Jolla CA"
+            },
+            "name": "Case W. McNamara"
+        },
+        {
+            "affiliation": {
+                "name": "California Institute for Biomedical Research (Calibr), La Jolla, CA"
+            },
+            "name": "Melissa S. Love"
+        }
+    ],
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Love MS"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Beasley FC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jumani RS"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Wright TM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chatterjee AK"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Huston CD"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Schultz PG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "McNamara CW"
+                }
+            ],
+            "datePublished": "2017-02-01",
+            "fromPMID": true,
+            "identifier": "PMID:28158186",
+            "journalName": "PLoS neglected tropical diseases",
+            "name": "A high-throughput phenotypic screen identifies clofazimine as a potential treatment for cryptosporidiosis.",
+            "pmid": "28158186",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28158186/"
+        }
+    ],
+    "conditionsOfAccess": "Restricted",
+    "description": "Phenotypic high-content imaging-based high-throughput screen against the protozoan pathogen C. parvum to find new small molecule inhibitors of Cryptosporidium, which causes diarrheal disease in humans.\nPurpose\nCryptosporidium parvum and the related species Cryptosporidium hominis cause diarrheal disease in humans. The current standard of care is ineffective in patients most at risk of cryptosporidiosis. This is a phenotypic high-content imaging-based high-throughput screen of the full deck against the protozoan pathogen C. parvum to find new small molecule inhibitors of Cryptosporidium. This is the largest screen against Cryptosporidium and one of the few in a 1536-well format. The assay measures inhibition of parasite proliferation within the human ileocecal colorectal adenocarcinoma cell line HCT-8; a commonly used cell line for studying Cryptosporidium spp. in vitro. HCI detection of this cell-based assay allows for concomitant measurement of Cryptosporidium parasite inhibition and host cell cytotoxicity.\nProtocol\nThis specific ID is for the Bunch Grass Farm strain of C. parvum (IOWA strain), which has been routinely passaged through neonatal calves to propagate. For the assay, HCT-8 cells are seeded into 1536-well clear-bottom plates and incubated at 37C. 24 hours later, compounds are transferred (1.88 uM for primary screening and 25 uM top concentration for dose-response), and then excysted Cryptosporidium sporozoites and oocysts are dispensed onto cells. 48 hours later, cells are fixed with 4% paraformaldehyde. Cells are then washed, permeabilized with 0.25% Triton X-100 in PBS, blocked with SuperBlock (Thermo), and finally stained with a 1:10 dilution of Superblock with 1ug/mL FITC-tagged Vicia Villosa lectin and 3uM DAPI nuclear stain. Cells are then washed with PBS-T to remove residual stain and plates are sealed with aluminum adhesive seals. Plates are imaged (10x objective) on the CX5 Cellomics imager using the SpotDetector algorithm. Compounds that inhibit Cryptosporidium proliferation by >= 70% and do not inhibit HCT-8 growth by more than 40% are picked for dose response testing.\nReadout\nHigh-content imaging; normalized to neutral control minus inhibitor.\nDetection Method\nhigh-content imaging; nitazoxanide and floxuridine are used as positive controls, and dmso is the neutral control. spot counts are normalized by neutral controls minus inhibitors.\nDetection Reagents\nFITC 485/521\nComponents\nC. parvum, HCT-8 cells; Detection reagent\nDrug Concetration\n2  \u00c2\u00b5M",
+    "funding": [
+        {
+            "endDate": "2016-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIGMS",
+                        "U.S. National Institute of General Medical Sciences"
+                    ],
+                    "identifier": "https://ror.org/04q48ey07",
+                    "name": "National Institute of General Medical Sciences",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "8P20GM103496-07",
+            "name": "Vermont Immunobioloigy/ Infectious Diseases Center",
+            "projectNumSplit": {
+                "activityCode": "P20",
+                "applTypeCode": "8",
+                "fullSupportYear": "07",
+                "icCode": "GM",
+                "serialNum": "103496",
+                "suffixCode": "",
+                "supportYear": "07"
+            },
+            "startDate": "2006-08-01",
+            "url": "https://reporter.nih.gov/project-details/8304225"
+        },
+        {
+            "endDate": "2011-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NCRR"
+                    ],
+                    "identifier": "https://ror.org/04pw6fb54",
+                    "name": "National Center for Research Resources",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P20RR021905-01",
+            "name": "Vermont Immunobiology / Infectious Diseases Center",
+            "projectNumSplit": {
+                "activityCode": "P20",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "RR",
+                "serialNum": "021905",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2006-08-01",
+            "url": "https://reporter.nih.gov/project-details/6962012"
+        },
+        {
+            "endDate": "2021-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIGMS",
+                        "U.S. National Institute of General Medical Sciences"
+                    ],
+                    "identifier": "https://ror.org/04q48ey07",
+                    "name": "National Institute of General Medical Sciences",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P30GM118228-01",
+            "name": "Vermont Immunobiology / Infectious Diseases Center",
+            "projectNumSplit": {
+                "activityCode": "P30",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "GM",
+                "serialNum": "118228",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2016-08-05",
+            "url": "https://reporter.nih.gov/project-details/9073009"
+        },
+        {
+            "endDate": "2014-12-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R21AI101381-01A1",
+            "name": "Novel approaches to develop a treatment for cryptosporidiosis",
+            "projectNumSplit": {
+                "activityCode": "R21",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "AI",
+                "serialNum": "101381",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2013-01-18",
+            "url": "https://reporter.nih.gov/project-details/8511900"
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "Cryptosporidium infection",
+                "Cryptosporidium infectious disease",
+                "Cryptosporidium disease or disorder",
+                "intestinal cryptosporidiosis",
+                "Cryptosporidium caused disease or disorder",
+                "Cryptosporidial gastroenteritis",
+                "infection by Cryptosporidium"
+            ],
+            "fromPMID": true,
+            "identifier": "0015474",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "cryptosporidiosis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0015474"
+        },
+        {
+            "alternateName": [
+                "infectious diarrheal diseases",
+                "dysenteric diarrhea",
+                "infectious diarrheal disease",
+                "diarrheal disease, infectious",
+                "infective diarrhoea",
+                "infectious diarrhea",
+                "dysenteric diarrhoea",
+                "infective diarrhea",
+                "infectious diarrhoea"
+            ],
+            "fromPMID": true,
+            "identifier": "0001517",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "dysentery",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0001517"
+        },
+        {
+            "alternateName": [
+                "Lytotoxicity",
+                "Cytotoxicity"
+            ],
+            "fromPMID": true,
+            "identifier": "C27988",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Cytotoxicity",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C27988"
+        }
+    ],
+    "identifier": "A00208",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://reframedb.org/assays/A00208",
+        "name": "ReframeDB",
+        "url": "https://reframedb.org/",
+        "versionDate": "2025-08-23T07:00:13.173573"
+    },
+    "infectiousAgent": [
+        {
+            "alternateName": [
+                "ATCC 25618",
+                "strain H37 Rv",
+                "strain H37Rv",
+                "NCTC 13144",
+                "ATCC 9360",
+                "\"Bacterium tuberculosis\" Zopf 1883",
+                "CIP 64.31",
+                "CCUG 37357",
+                "Mycobacterium tuberculosis variant tuberculosis",
+                "Mycobacterium tuberculosis var. hominis",
+                "\"Mycobacterium tuberculosis var. hominis\" Bergey et al. 1934",
+                "CIP 104475",
+                "\"Mycobacterium tuberculosis typus humanus\" Lehmann and Neumann 1907",
+                "Bacillus tuberculosis",
+                "Mycobacterium tuberculosis (Zopf 1883) Lehmann and Neumann 1896 (Approved Lists 1980) emend. Riojas et al. 2018",
+                "ATCC 27294",
+                "CCUG 38148",
+                "Mycobacterium tuberculosis typus humanus",
+                "NCTC 7416",
+                "Bacterium tuberculosis",
+                "CNCTC 7301",
+                "\"Bacillus tuberculosis\" (Zopf 1883) Klein 1884"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Mycobacterium tuberculosis",
+            "fromPMID": true,
+            "identifier": "1773",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Mycobacterium tuberculosis",
+            "url": "https://www.uniprot.org/taxonomy/1773"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "measurementTechnique": [
+        {
+            "name": "cell based"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "0007550",
+            "inDefinedTermSet": "EFO",
+            "isCurated": true,
+            "name": "high content screen",
+            "originalName": "high content imaging",
+            "url": "https://www.ebi.ac.uk/ols4/ontologies/efo/classes?short_form=EFO_0007550"
+        }
+    ],
+    "name": "Crypto-C. parvum high-content imaging proliferation (Bunch Grass Farm)",
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3336",
+            "inDefinedTermSet": "EDAM",
+            "name": "Drug discovery",
+            "url": "http://edamontology.org/topic_3336"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3301",
+            "inDefinedTermSet": "EDAM",
+            "name": "Microbiology",
+            "url": "http://edamontology.org/topic_3301"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        }
+    ],
+    "url": "https://reframedb.org/assays/A00208"
+}

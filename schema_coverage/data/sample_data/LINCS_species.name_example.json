@@ -1,0 +1,144 @@
+{
+    "@type": "Dataset",
+    "_id": "lds-1208",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 12.031475,
+    "assayformat": "Cell based",
+    "author": [
+        {
+            "affiliation": {
+                "name": "HMS LINCS (Harvard Medical School)"
+            },
+            "name": "Peter Sorger",
+            "url": "http://lincs.hms.harvard.edu"
+        },
+        {
+            "name": "Mohammad Fallahi-Sichani"
+        }
+    ],
+    "date": "2015-09-23",
+    "dateModified": "2015-09-23",
+    "datePublished": "2015-01-23",
+    "description": "Dose response of a set of anti-cancer compounds, including five RAF/MEK inhibitors, in human melanoma cell lines at 24, 48, and 72 hours to determine their effects on apoptosis and viability. Cells were treated in 4 replicates using Hewlett-Packard (HP) D300 Digital Dispenser with either seven or nine doses (in 1:3.16 or 1:2.5 dilution ratios, respectively) of each compound for 24, 48 and 72 h. To score viability and apoptosis, a dye-based imaging assay was used; the cell-permeable DNA dye Hoechst 33342 was used to mark nuclei and DEVD-NucView488 caspase-3 substrate was used to mark apoptosis (stains nuclei of cells undergoing apoptosis, in which caspase 3 is active). The data from this dataset and from the related HMS dataset #20218 were used to generate the signatures presented in HMS datasets #20229-20231.",
+    "distribution": {
+        "contentSize": "83193"
+    },
+    "funding": {
+        "identifier": "NIH 1U54HG006097-01; NIH 1U54HL127365-01"
+    },
+    "healthCondition": [
+        {
+            "alternateName": [
+                "Naevocarcinoma",
+                "melanoma, malignant",
+                "malignant melanoma",
+                "melanoma (disease)",
+                "melanoma"
+            ],
+            "curatedBy": {
+                "dateModified": "2024-11-26",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0005105",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "melanoma",
+            "originalName": "melanoma",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005105"
+        }
+    ],
+    "identifier": "LDS-1208",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://lincsportal.ccs.miami.edu/datasets/view/LDS-1208",
+        "name": "LINCS",
+        "url": "https://lincsportal.ccs.miami.edu/datasets/",
+        "versionDate": "2025-08-23"
+    },
+    "isBasedOn": [
+        {
+            "name": "Adaptive Drug Resistance Browser",
+            "url": "http://lincs.hms.harvard.edu/explore/adaptive-drug-resistance/"
+        },
+        {
+            "name": "protocol",
+            "url": "LDG-1202_Protocol.pdf"
+        }
+    ],
+    "isRelatedTo": {
+        "_id": "ldg-1202",
+        "identifier": "LDG-1202",
+        "name": "LDG-1202",
+        "url": "https://lincsportal.ccs.miami.edu/datasets/view/LDG-1202"
+    },
+    "keywords": [
+        "Fluorescence imaging",
+        "LOX-IMVI",
+        "MMAc-SF",
+        "Apoptotic process",
+        "C32",
+        "Cytological profile",
+        "WM115",
+        "K2",
+        "COLO 858",
+        "MZ-MEL-7",
+        "SK-MEL-28",
+        "WM1552C",
+        "RVH-421",
+        "Imaging"
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "0002946",
+            "inDefinedTermSet": "OBI",
+            "isCurated": true,
+            "name": "fluorescence imaging-based apoptosis assay",
+            "originalName": "Fluorescence imaging apoptosis assay",
+            "url": "https://ontobee.org/ontology/OBI?iri=http://purl.obolibrary.org/obo/OBI_0002946"
+        }
+    ],
+    "name": "Viability and apoptosis in BRAF(V600E/D) melanoma cell lines monitored by imaging",
+    "publication": "25814555",
+    "species": [
+        {
+            "alternateName": [
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapian",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapients",
+                "Homo spaiens",
+                "Homo spiens",
+                "Human",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sapiense",
+                "human"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromEXTRACT": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "originalName": "human",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "url": "https://lincsportal.ccs.miami.edu/datasets/view/LDS-1208",
+    "variableMeasured": {
+        "name": "Fluorescence intensity"
+    }
+}

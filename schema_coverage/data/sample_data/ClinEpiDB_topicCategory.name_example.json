@@ -1,0 +1,2121 @@
+{
+    "@type": "Dataset",
+    "_id": "clinepidb_ds_0086998c2f",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 13.897348,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA and Zvitambo Institute for Maternal and Child Health Research, Harare, Zimbabwe"
+            },
+            "name": "Jean Humphrey"
+        },
+        {
+            "affiliation": {
+                "name": "Ministry of Health and Child Care, Government of Zimbabwe"
+            },
+            "name": "Goldberg Mangwadu"
+        },
+        {
+            "affiliation": {
+                "name": "Queen Mary University of London, London, UK and Zvitambo Institute for Maternal and Child Health Research, Harare, Zimbabwe"
+            },
+            "name": "Andrew Prendergast"
+        },
+        {
+            "affiliation": {
+                "name": "Zvitambo Institute for Maternal and Child Health Research, Harare, Zimbabwe"
+            },
+            "name": "Robert Ntozini"
+        },
+        {
+            "affiliation": {
+                "name": "Zvitambo Institute for Maternal and Child Health Research, Harare, Zimbabwe, currently Global Alliance for Improved Nutrition, Washington, DC"
+            },
+            "name": "Mduduzi Mbuya"
+        },
+        {
+            "affiliation": {
+                "name": "Zvitambo Institute for Maternal and Child Health Research, Harare, Zimbabwe"
+            },
+            "name": "Naume Tavengwa"
+        },
+        {
+            "affiliation": {
+                "name": "Zvitambo Institute for Maternal and Child Health Research, Harare, Zimbabwe"
+            },
+            "name": "Kuda Mutasa"
+        },
+        {
+            "affiliation": {
+                "name": "Zvitambo Institute for Maternal and Child Health Research, Harare, Zimbabwe"
+            },
+            "name": "Florence Majo"
+        },
+        {
+            "affiliation": {
+                "name": "Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA"
+            },
+            "name": "Lawrence Moulton"
+        },
+        {
+            "affiliation": {
+                "name": "Ministry of Health and Child Care, Government of Zimbabwe"
+            },
+            "name": "Cynthia Chasokela"
+        },
+        {
+            "affiliation": {
+                "name": "Ministry of Health and Child Care, Government of Zimbabwe"
+            },
+            "name": "Ancikaria Chigumira"
+        },
+        {
+            "affiliation": {
+                "name": "Zvitambo Institute for Maternal and Child Health Research, Harare, Zimbabwe"
+            },
+            "name": "Bernard Chasekwa"
+        },
+        {
+            "affiliation": {
+                "name": "Cornell University, Ithaca, NY, USA and Zvitambo Institute for Maternal and Child Health Research, Harare, Zimbabwe"
+            },
+            "name": "Laura Smith"
+        },
+        {
+            "affiliation": {
+                "name": "Milken institute of Public Health, George Washington University, Washington DC, USA"
+            },
+            "name": "James Tielsch"
+        },
+        {
+            "affiliation": {
+                "name": "University of Michigan: School of Public Health, Ann Arbor, MI, USA"
+            },
+            "name": "Andrew Jones"
+        },
+        {
+            "affiliation": {
+                "name": "Middlebury College, Middlebury, VT, USA"
+            },
+            "name": "John Maluccio"
+        },
+        {
+            "affiliation": {
+                "name": "University of British Columbia, Vancouver, BC, Canada"
+            },
+            "name": "Amee Mangees"
+        },
+        {
+            "affiliation": {
+                "name": "University of Liverpool, Liverpool, UK"
+            },
+            "name": "Melissa Gladstone"
+        },
+        {
+            "affiliation": {
+                "name": "University of Liverpool, Currently: London School of Hygiene and Tropical Medicine, London, UK"
+            },
+            "name": "Jaya Chandna"
+        },
+        {
+            "affiliation": {
+                "name": "University of Zimbabwe, Harare, Zimbabwe"
+            },
+            "name": "Gwendoline Kandawasvika"
+        }
+    ],
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Prendergast AJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Humphrey JH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mutasa K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Majo FD"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rukobo S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Govha M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mbuya MN"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Moulton LH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Stoltzfus RJ"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "Sanitation Hygiene Infant Nutrition Efficacy (SHINE) Trial Team"
+                }
+            ],
+            "datePublished": "2015-12-15",
+            "fromPMID": true,
+            "identifier": "PMID:26602300",
+            "journalName": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "name": "Assessment of Environmental Enteric Dysfunction in the SHINE Trial: Methods and Challenges.",
+            "pmid": "26602300",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26602300/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Matare CR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mbuya MN"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pelto G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dickin KL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Stoltzfus RJ"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "Sanitation Hygiene Infant Nutrition Efficacy (SHINE) Trial Team"
+                }
+            ],
+            "datePublished": "2015-12-15",
+            "fromPMID": true,
+            "identifier": "PMID:26602303",
+            "journalName": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "name": "Assessing Maternal Capabilities in the SHINE Trial: Highlighting a Hidden Link in the Causal Pathway to Child Health.",
+            "pmid": "26602303",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26602303/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Humphrey JH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mbuya MNN"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ntozini R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Moulton LH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Stoltzfus RJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tavengwa NV"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mutasa K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Majo F"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mutasa B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mangwadu G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chasokela CM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chigumira A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chasekwa B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Smith LE"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tielsch JM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jones AD"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Manges AR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Maluccio JA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Prendergast AJ"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "Sanitation Hygiene Infant Nutrition Efficacy (SHINE) Trial Team"
+                }
+            ],
+            "datePublished": "2019-01-01",
+            "fromPMID": true,
+            "identifier": "PMID:30554749",
+            "journalName": "The Lancet. Global health",
+            "name": "Independent and combined effects of improved water, sanitation, and hygiene, and improved complementary feeding, on child stunting and anaemia in rural Zimbabwe: a cluster-randomised trial.",
+            "pmid": "30554749",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30554749/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Gladstone MJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chandna J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kandawasvika G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ntozini R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Majo FD"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tavengwa NV"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mbuya MNN"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mangwadu GT"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chigumira A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chasokela CM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Moulton LH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Stoltzfus RJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Humphrey JH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Prendergast AJ"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "SHINE Trial Team"
+                }
+            ],
+            "datePublished": "2019-03-01",
+            "fromPMID": true,
+            "identifier": "PMID:30897095",
+            "journalName": "PLoS medicine",
+            "name": "Independent and combined effects of improved water, sanitation, and hygiene (WASH) and improved complementary feeding on early neurodevelopment among children born to HIV-negative mothers in rural Zimbabwe: Substudy of a cluster-randomized trial.",
+            "pmid": "30897095",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30897095/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Prendergast AJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chasekwa B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Evans C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mutasa K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mbuya MNN"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Stoltzfus RJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Smith LE"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Majo FD"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tavengwa NV"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mutasa B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mangwadu GT"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chasokela CM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chigumira A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Moulton LH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ntozini R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Humphrey JH"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "SHINE Trial Team"
+                }
+            ],
+            "datePublished": "2019-02-01",
+            "fromPMID": true,
+            "identifier": "PMID:30573417",
+            "journalName": "The Lancet. Child & adolescent health",
+            "name": "Independent and combined effects of improved water, sanitation, and hygiene, and improved complementary feeding, on stunting and anaemia among HIV-exposed children in rural Zimbabwe: a cluster-randomised controlled trial.",
+            "pmid": "30573417",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30573417/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Humphrey JH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jones AD"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Manges A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mangwadu G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Maluccio JA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mbuya MN"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Moulton LH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ntozini R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Prendergast AJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Stoltzfus RJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tielsch JM"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "Sanitation Hygiene Infant Nutrition Efficacy (SHINE) Trial Team"
+                }
+            ],
+            "datePublished": "2015-12-15",
+            "fromPMID": true,
+            "identifier": "PMID:26602296",
+            "journalName": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "name": "The Sanitation Hygiene Infant Nutrition Efficacy (SHINE) Trial: Rationale, Design, and Methods.",
+            "pmid": "26602296",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26602296/"
+        },
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Chandna J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ntozini R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Evans C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kandawasvika G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chasekwa B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Majo F"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mutasa K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tavengwa N"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mutasa B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mbuya M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Moulton LH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Humphrey JH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Prendergast A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gladstone M"
+                }
+            ],
+            "datePublished": "2020-01-01",
+            "fromPMID": true,
+            "identifier": "PMID:32133164",
+            "journalName": "BMJ global health",
+            "name": "Effects of improved complementary feeding and improved water, sanitation and hygiene on early child development among HIV-exposed children: substudy of a cluster randomised trial in rural Zimbabwe.",
+            "pmid": "32133164",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32133164/"
+        }
+    ],
+    "conditionsOfAccess": "Restricted",
+    "date": "2023-03-15",
+    "dateModified": "2023-03-15",
+    "description": "Related studies:\n      \n      \n      WASH Benefits Bangladesh\n      WASH Benefits Kenya\n      \n      \n      \n      Background: Childhood stunting and anemia are a perverse public health problem in developing countries. Globally, stunting affects 26% of children under the age of five and underlies 15-17% of their mortality. Stunting has been shown to lead to long-term cognitive deficits, few years and poorer performance in school, lower economic productivity as adults and a higher risk of stunting in their own children.\n      \n      Objectives: The SHINE trial was motivated by a two part premise.\n      \n       Environmental enteric dysfunction (EDD) is a major cause of child stunting and anemia   \n       Primary cause of EED is infant ingestion of fecal microbes due to living condition of poor quality and quantity of water, sanitation, and hygiene (WASH) \n      \n      \n      Primary study objective:\n      \n      \n         Determine the independent and combined effects of improved household WASH and improved IYCF on length and hemoglobin concentrations among children at 18 mo of age who are born to HIV negative women in rural Zimbabwe.\n      \n      \n      \n      Secondary study objectives:\n      \n      \n        Examine the effects of the two randomized interventions (WASH and IYCF) on stunting (LAZ less than -2) anemia (hemoglobin less than 105 g/L) among children at 18 mo of age who are born to HIV-negative women in rural Zimbabwe.\n        Examine differential effects on length and hemoglobin concentration at 18 mo of the 2 randomized interventions (WASH and IYCF) in these prespecified subgroups: children born to HIV-positive compared to HIV-negative mothers; male and female children; Subgroups formed by categorizing household wealth, household distance from a water point, and maternal capabilities.\n        Examine the independent and combined effects of the 2 randomized interventions on body weight, mid-upper arm circumference and head circumference at 18 mo, and on all anthropometric measures at intermediate ages (1, 3, 6, and 12 mo).\n        Describe the PIP linking implementation of each randomized intervention (WASH and IYCF) with length and hemoglobin concentrations.\n        Assess potential effect modifiers along the PIP\n        Describe the prevalence of exclusive breastfeeding among all infants enrolled in the trial by maternal/infant HIV status. \n        Evaluate the effect of the IYCF intervention on uptake of improved infant feeding practices by maternal/infant HIV status. \n        Evaluate the effect of the WASH intervention on the five key behaviors it promotes by maternal/infant HIV status: proper disposal of animal and human feces; handwashing with soap after fecal contact; point-of-use chlorination of drinking water; protecting children from ingestion of dirt and feces; feeding baby freshly prepared foods, or reheating leftover food.\n        Elucidate the biological pathways linking WASH and IYCF with linear growth and hemoglobin concentration by measuring domains of EED, stratified by maternal/infant HIV status.\n        Measure the impact of the two randomized interventions (WASH and IYCF) on incidence, prevalence, and severity of diarrheal disease in infants, stratified by maternal/infant HIV status\n        Model the relative contributions of diarrheal disease and EED in mediating the effects of improved WASH on child length and hemoglobin concentrations, stratified by maternal/infant HIV status \n        Measure the strength of association between severity of maternal EED and systemic inflammation during pregnancy with the risk of 6 adverse  birth outcomes (miscarriage, stillbirth, premature delivery, fetal stunting, low birth weight and neonatal death), stratified by maternal HIV status.\n        Measure the strength of association between other potential causes of stunting and anemia (other than poorWASH or IYCF) with linear growth and hemoglobin.\n      \n      \n      \n      Methodology:\n      \n      Geographic Location/Study Sites: The SHINE study was conducted in the contiguous districts of Chirumanzu and Shurugwi in Zimbabwe. These districts were chosen based of the following criteria:\n        Rural districts with low sanitation coverage (53% for these districts, with 45% open defecation)\n        High prevalence of child stunting (mean LAZ at 18 months and 24 months, -1.89 and -1.97)\n        Reasonable road access throughout the year\n\t      District level primary healthcare services that offer facility-based antenatal care and deliveries \n\t      Geographically contiguousness\n\t      Stakeholder receptivity\n      \n      \n      \n      \n      Dates of Data Collection: November 2012 - June 2017\n      \n      Study Design: SHINE was a cluster-randomized, community-base 2 x 2 factoral trial in two contiguous districts in Zimbabwe. The study area was divided into 212 clusters. Each clusters were allocated (1:1:1:1) to one of the four treatment groups: (1) standard of care, (2) infant and young child feeding, (3) WASH or (4) sanitation/hygiene and nutrition. \n      \n      Eligibility Criteria: Women were eligible for inclusion if they permanently resided in a study cluster and were confirmed pregnant. During the recruitment period, the cutoff of gestational age for eligibility was gradually loosened (from 14 weeks' gestational age to just before parturition) to maximise recruitment.\n      \n      Study Arms:\n      \n        In the standard-of-care group, village health workers promoted exclusive breastfeeding to 6 months, advised on neonatal care, and promoted uptake of Ministry of Health and Child Care services, including antenatal care, immunizations, and family planning.\n        In the WASH group, village health workers delivered all the standard-of-care messages, plus information about safe disposal of feces, handwashing with soap at key times, protection of infants from geophagia and ingestion of animal feces, chlorination of drinking water (especially for infants), and hygienic preparation of complementary food. Additionally, ventilated improved pit latrines were constructed and two handwashing stations were installed by community builders supervised by Ministry of Health and Child Care environmental health technicians within 6 weeks of enrolment. A plastic mat and play yard were delivered to the home by a trial logistician at 2 and 6 months postnatal, respectively, and village health workers made monthly deliveries of soap from the time of the handwashing module (roughly 30 weeks antenatal) and chlorine from the time of the water treatment module (4 months postnatal) until 18 months postnatal.\n        In the IYCF group, village health workers delivered all the standard-of-care messages plus information about the importance of nutrition for infant health, growth, and development; feeding nutrient-dense food and 20 g of a small-quantity lipid-based nutrient supplement daily from age 6 to 18 months; processing foods to facilitate mastication and swallowing; feeding during illness; and dietary diversity. Participants also received monthly deliveries of 30 sachets of the small-quantity lipid-based nutrient supplement from infant age 6 months to 18 months postnatal.\n\t      In the combined group, participants received all standard-of-care, WASH, and IYCF interventions.\n      \n      \n      Data Collection: Research nurses made home visits at baseline (roughly 2 weeks after mothers provided consent), 32 weeks' gestation, and 1, 3, 6, 12, and 18 months post partum to assess maternal and household characteristics and trial outcomes. Intervention uptake was assessed at all visits and reported here as prespecified for the 12-month postnatal visit. At baseline, mothers' height, weight, mid-upper-arm circumference, and haemoglobin concentrations were measured. They were also tested for Schistosoma haematobium (by urinary microscopy) and HIV (via the rapid test algorithm). Other maternal and household characteristics assessed included dietary diversity, food insecurity, household wealth, and maternal capabilities.\n      \n      Study Documentation:\n      \n      Study protocol\n      Consent forms\n      Data collection forms\n      Codebooks\n      \n      \n      \n      ClinEpiDB Data Integration: Data files were provided to ClinEpiDB as flat, csv files. These datasets were merged by unique ID and redundant or administrative columns were dropped from presentation on ClinEpiDB.org. All dates were dropped to comply with the ethical conduct of human subjects research.\n      \n      Financial Support: The SHINE trial is funded by the Bill & Melinda Gates Foundation (OPP1021542 to Johns Hopkins Bloomberg School of Public Health and OPP1143707 to Zvitambo Institute for Maternal and Child Health Research), the UK Department for International Development, the Wellcome Trust (093768/Z/10/Z and 108065/Z/15/Z), the Swiss Agency for Development and Cooperation (8106727), UNICEF (PCA-2017-0002), and the US National Institutes of Health (R01 HD060338/HD/NICHD).\n      \n      Ethics Statement: The Medical Research Council of Zimbabwe and the Institutional Review Board of the Johns Hopkins Bloomberg School of Public Health approved the study protocol. All participants provided written informed consent.\n      \n      Last Updated: February 14, 2023The SHINE trial was a cluster-randomized trial that sought to determine the independent and combined effects of improved household water, sanitation and hygiene (WASH) and improved infant and young child feeding (IYCF) on length and hemoglobin concentrations among children at 18 months of age living in 2 rural districts in Zimbabwe. Clusters were defined as a catchment area of 1-4 community-based village health workers from the Zimbabwe Ministry of Health and Child Care. Clusters were randomized to one of four intervention arms - 1) standard of care, 2) infant and young child feeding intervention (IYCF), 3) WASH intervention, and 4) combined IYCF + WASH. Data collection was performed at baseline, 32 weeks gestation and at 1, 3, 6, 12, 18 months postpartum.",
+    "disambiguatingDescription": "The SHINE Cluster Randomized Trial aimed to evaluate the independent and combined effects of improved water, sanitation, and hygiene (WASH) and enhanced infant and young child feeding (IYCF) on the growth and hemoglobin levels of children aged 18 months in rural Zimbabwe. The study found that childhood stunting and anemia are significant public health concerns, particularly influenced by environmental enteric dysfunction (EDD) linked to poor living conditions. By implementing various interventions and encompassing a comprehensive approach, the trial sought to establish a clearer understanding of how these health determinants interact, intending to reduce stunting and anemia prevalent in this vulnerable population. The SHINE trial employed a cluster-randomized, community-based design, conducted from November 2012 to June 2017 across 212 clusters in rural Zimbabwe. Women who resided within designated study clusters and were pregnant were eligible to participate. Each cluster was assigned to one of four treatment groups: standard care, IYCF, WASH, or a combined intervention. Data was collected via home visits at specified intervals to assess maternal and household characteristics and trial outcomes.",
+    "distribution": {
+        "dateModified": "2023-03-15",
+        "name": "ISASimple_Gates_SHINE_rct_RSRC"
+    },
+    "funding": [
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "100714"
+        },
+        {
+            "endDate": "2013-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01HD060338-01",
+            "name": "Effect of a sanitation & nutrition intervention on HIV-exposed infant health",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HD",
+                "serialNum": "060338",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2008-09-30",
+            "url": "https://reporter.nih.gov/project-details/7613819"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "093768/Z/10/Z"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NICHD NIH HHS"
+            },
+            "identifier": "2R01HD060338-06"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            }
+        },
+        {
+            "endDate": "2013-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01HD060338-01",
+            "name": "Effect of a sanitation & nutrition intervention on HIV-exposed infant health",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HD",
+                "serialNum": "060338",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2008-09-30",
+            "url": "https://reporter.nih.gov/project-details/7613819"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "093768/Z/10/Z"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NICHD NIH HHS"
+            },
+            "identifier": "2R01HD060338-06"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            }
+        },
+        {
+            "endDate": "2013-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01HD060338-01",
+            "name": "Effect of a sanitation & nutrition intervention on HIV-exposed infant health",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HD",
+                "serialNum": "060338",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2008-09-30",
+            "url": "https://reporter.nih.gov/project-details/7613819"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "093768/Z/10/Z"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "108065/Z/15/Z"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "093768/Z/10/Z"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "108065/Z/15/Z"
+        },
+        {
+            "endDate": "2013-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01HD060338-01",
+            "name": "Effect of a sanitation & nutrition intervention on HIV-exposed infant health",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HD",
+                "serialNum": "060338",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2008-09-30",
+            "url": "https://reporter.nih.gov/project-details/7613819"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            }
+        },
+        {
+            "endDate": "2013-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01HD060338-01",
+            "name": "Effect of a sanitation & nutrition intervention on HIV-exposed infant health",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HD",
+                "serialNum": "060338",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2008-09-30",
+            "url": "https://reporter.nih.gov/project-details/7613819"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "100714"
+        },
+        {
+            "endDate": "2013-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01HD060338-01",
+            "name": "Effect of a sanitation & nutrition intervention on HIV-exposed infant health",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HD",
+                "serialNum": "060338",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2008-09-30",
+            "url": "https://reporter.nih.gov/project-details/7613819"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "093768/Z/10/Z"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NICHD NIH HHS"
+            },
+            "identifier": "2R01HD060338-06"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "093768/Z/10/Z"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "108065/Z/15/Z"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "203905/Z/16/Z"
+        },
+        {
+            "endDate": "2013-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01HD060338-01",
+            "name": "Effect of a sanitation & nutrition intervention on HIV-exposed infant health",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HD",
+                "serialNum": "060338",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2008-09-30",
+            "url": "https://reporter.nih.gov/project-details/7613819"
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "anemia",
+                "anemia (disease)",
+                "anaemia (disease)"
+            ],
+            "fromPMID": true,
+            "identifier": "0002280",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "anemia",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0002280"
+        },
+        {
+            "fromPMID": true,
+            "identifier": "D001724",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": false,
+            "name": "Birth Weight",
+            "url": "https://id.nlm.nih.gov/mesh/D001724.html"
+        },
+        {
+            "alternateName": [
+                "wet brain",
+                "intracranial swelling"
+            ],
+            "fromPMID": true,
+            "identifier": "0006684",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "brain edema",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0006684"
+        },
+        {
+            "fromPMID": true,
+            "identifier": "D003072",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": false,
+            "name": "Cognition Disorders",
+            "url": "https://id.nlm.nih.gov/mesh/D003072.html"
+        },
+        {
+            "alternateName": [
+                "death",
+                "death domain",
+                "death table"
+            ],
+            "fromPMID": true,
+            "identifier": "C154635",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Death Domain",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C154635"
+        },
+        {
+            "alternateName": [
+                "diarrheal disease",
+                "diarrhoea",
+                "diarrheal disorder",
+                "diarrhea",
+                "loose stools",
+                "frequent stools"
+            ],
+            "fromPMID": true,
+            "identifier": "0001673",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "diarrheal disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0001673"
+        },
+        {
+            "alternateName": [
+                "enteritis of small intestine",
+                "enteritis",
+                "small intestine inflammation",
+                "inflammation of small intestine"
+            ],
+            "fromPMID": true,
+            "identifier": "0043579",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "enteritis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0043579"
+        },
+        {
+            "alternateName": [
+                "INFLAMMATION",
+                "Inflammatory Finding",
+                "Inflammation",
+                "inflammation"
+            ],
+            "fromPMID": true,
+            "identifier": "C3137",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Inflammation",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C3137"
+        },
+        {
+            "alternateName": [
+                "Neonatal Death",
+                "Death neonatal"
+            ],
+            "fromPMID": true,
+            "identifier": "C80082",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Neonatal Death",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C80082"
+        },
+        {
+            "fromPMID": true,
+            "identifier": "D005597",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": false,
+            "name": "Fractures, Open",
+            "url": "https://id.nlm.nih.gov/mesh/D005597.html"
+        },
+        {
+            "alternateName": [
+                "Pica eating disorder",
+                "Pica"
+            ],
+            "fromPMID": true,
+            "identifier": "0001441",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "pica disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0001441"
+        },
+        {
+            "alternateName": [
+                "heart/pericardial trouble",
+                "disorder of heart/pericardium",
+                "heart disorder",
+                "cardiac disease",
+                "heart/pericardial disease or disorder",
+                "disease of heart",
+                "heart disease",
+                "disease or disorder of heart",
+                "heart trouble",
+                "disorder of heart",
+                "heart disease or disorder",
+                "heart/pericardial disorder",
+                "heart/pericardial disease"
+            ],
+            "fromPMID": true,
+            "identifier": "0005267",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "heart disorder",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005267"
+        },
+        {
+            "alternateName": [
+                "triple-receptor negative breast cancer",
+                "triple-negative breast carcinoma",
+                "triple-negative breast cancer"
+            ],
+            "fromPMID": true,
+            "identifier": "0005494",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "triple-negative breast carcinoma",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005494"
+        },
+        {
+            "alternateName": [
+                "infectious diarrheal diseases",
+                "dysenteric diarrhea",
+                "infectious diarrheal disease",
+                "diarrheal disease, infectious",
+                "infective diarrhoea",
+                "infectious diarrhea",
+                "dysenteric diarrhoea",
+                "infective diarrhea",
+                "infectious diarrhoea"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-18",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0001517",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "dysentery",
+            "originalName": "Diarrheal disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0001517"
+        }
+    ],
+    "identifier": "DS_0086998c2f",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://clinepidb.org/ce/app/record/dataset/DS_0086998c2f",
+        "name": "ClinEpiDB",
+        "url": "https://clinepidb.org/ce/app/",
+        "versionDate": "2025-08-23"
+    },
+    "isBasedOn": [],
+    "keywords": [
+        "Reproductive",
+        " maternal",
+        " newborn",
+        " child and adolescent health",
+        "Experimental"
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C46079",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Randomized Controlled Clinical Trial",
+            "originalName": "Randomized controlled/clinical trial",
+            "url": "https://ontobee.org/ontology/NCIT?iri=http://purl.obolibrary.org/obo/NCIT_C46079"
+        }
+    ],
+    "name": "SHINE Cluster Randomized Trial",
+    "spatialCoverage": {
+        "name": "Zimbabwe"
+    },
+    "temporalCoverage": {
+        "temporalInterval": {
+            "endDate": "2015",
+            "startDate": "2012"
+        }
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3305",
+            "inDefinedTermSet": "EDAM",
+            "name": "Public health and epidemiology",
+            "url": "http://edamontology.org/topic_3305"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3056",
+            "inDefinedTermSet": "EDAM",
+            "name": "Population genetics",
+            "url": "http://edamontology.org/topic_3056"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3855",
+            "inDefinedTermSet": "EDAM",
+            "name": "Environmental sciences",
+            "url": "http://edamontology.org/topic_3855"
+        }
+    ],
+    "url": "https://clinepidb.org/ce/app/record/dataset/DS_0086998c2f",
+    "variableMeasured": [
+        {
+            "name": "Country"
+        },
+        {
+            "name": "Community administrative information"
+        },
+        {
+            "name": "Cluster study arm"
+        },
+        {
+            "name": "District in Zimbabwe"
+        },
+        {
+            "name": "Geographic location"
+        },
+        {
+            "name": "Bed"
+        },
+        {
+            "name": "Drinking water source"
+        },
+        {
+            "name": "Radio"
+        },
+        {
+            "name": "Television"
+        },
+        {
+            "name": "Telephone (mobile or non-mobile)"
+        },
+        {
+            "name": "Refrigerator"
+        },
+        {
+            "name": "Table"
+        },
+        {
+            "name": "Chair"
+        },
+        {
+            "name": "Bicycle"
+        },
+        {
+            "name": "Motorcycle or scooter"
+        },
+        {
+            "name": "Weather"
+        },
+        {
+            "name": "Roof material"
+        },
+        {
+            "name": "Floor material"
+        },
+        {
+            "name": "Household wealth index, numerical"
+        },
+        {
+            "name": "Persons living in house count"
+        },
+        {
+            "name": "Cooking fuel"
+        },
+        {
+            "name": "Assets"
+        },
+        {
+            "name": "Car or truck"
+        },
+        {
+            "name": "Dwelling facilities"
+        },
+        {
+            "name": "Dwelling characteristics"
+        },
+        {
+            "name": "Socioeconomic factors"
+        },
+        {
+            "name": "Human waste facilities"
+        },
+        {
+            "name": "Animals indoors"
+        },
+        {
+            "name": "Waste disposal"
+        },
+        {
+            "name": "Household hygiene"
+        },
+        {
+            "name": "Household water"
+        },
+        {
+            "name": "Dwelling environment"
+        },
+        {
+            "name": "Drinking water treatment"
+        },
+        {
+            "name": "Toilet or latrine"
+        },
+        {
+            "name": "Income"
+        },
+        {
+            "name": "Food security"
+        },
+        {
+            "name": "Socioeconomic status"
+        },
+        {
+            "name": "Household administrative information"
+        },
+        {
+            "name": "Tile"
+        },
+        {
+            "name": "Electricity"
+        },
+        {
+            "name": "External wall material"
+        },
+        {
+            "name": "Cows"
+        },
+        {
+            "name": "Toilet type"
+        },
+        {
+            "name": "Improved drinking water source"
+        },
+        {
+            "name": "Sewing machine"
+        },
+        {
+            "name": "Improved roof material"
+        },
+        {
+            "name": "Improved wall material"
+        },
+        {
+            "name": "Improved floor material"
+        },
+        {
+            "name": "Watch or clock"
+        },
+        {
+            "name": "Improved latrine"
+        },
+        {
+            "name": "Time to water source"
+        },
+        {
+            "name": "Place to wash hands"
+        },
+        {
+            "name": "Brick or cement"
+        },
+        {
+            "name": "Concrete"
+        },
+        {
+            "name": "Earth, sand, dung"
+        },
+        {
+            "name": "Grass or straw"
+        },
+        {
+            "name": "Mud"
+        },
+        {
+            "name": "Stick or wood"
+        },
+        {
+            "name": "Tile"
+        },
+        {
+            "name": "Tin, corrugated iron sheets, asbestos"
+        },
+        {
+            "name": "Latrine use"
+        },
+        {
+            "name": "Improved latrine path well-trodden"
+        },
+        {
+            "name": "Improved latrine path shared"
+        },
+        {
+            "name": "Bathing"
+        },
+        {
+            "name": "Defecation"
+        },
+        {
+            "name": "Other"
+        },
+        {
+            "name": "Storage"
+        },
+        {
+            "name": "Urinating"
+        },
+        {
+            "name": "Livestock"
+        },
+        {
+            "name": "Generator"
+        },
+        {
+            "name": "Solar"
+        },
+        {
+            "name": "Income all sources CPI-adjusted"
+        },
+        {
+            "name": "Expenditure CPI-adjusted"
+        },
+        {
+            "name": "Water volume collected per person"
+        },
+        {
+            "name": "CD player"
+        },
+        {
+            "name": "Chickens"
+        },
+        {
+            "name": "Clay pot"
+        },
+        {
+            "name": "Cultivator"
+        },
+        {
+            "name": "Goat and sheep"
+        },
+        {
+            "name": "Hoe"
+        },
+        {
+            "name": "Iron"
+        },
+        {
+            "name": "Lamp"
+        },
+        {
+            "name": "Mattress"
+        },
+        {
+            "name": "Ox cart"
+        },
+        {
+            "name": "Mortar and pestle"
+        },
+        {
+            "name": "Plough"
+        },
+        {
+            "name": "Reed basket"
+        },
+        {
+            "name": "Reed mat"
+        },
+        {
+            "name": "Peanut butter smoothing stone"
+        },
+        {
+            "name": "Spade"
+        },
+        {
+            "name": "Stove stand"
+        },
+        {
+            "name": "Trunk or suitcase"
+        },
+        {
+            "name": "Wheelbarrow"
+        },
+        {
+            "name": "Salary"
+        },
+        {
+            "name": "Wealth index quantiles"
+        },
+        {
+            "name": "Water volume collected per day"
+        },
+        {
+            "name": "Dense vegetation"
+        },
+        {
+            "name": "Electric power"
+        },
+        {
+            "name": "Entrance obstructed"
+        },
+        {
+            "name": "Hand washing location within 10 meters"
+        },
+        {
+            "name": "Latrine access"
+        },
+        {
+            "name": "Other hand washing locations"
+        },
+        {
+            "name": "Persons sharing toilet count"
+        },
+        {
+            "name": "Shared latrine"
+        },
+        {
+            "name": "Waste or debris in path"
+        },
+        {
+            "name": "Well-trodden"
+        },
+        {
+            "name": "Household food security score"
+        },
+        {
+            "name": "Early breastfeeding module 1 delivered"
+        },
+        {
+            "name": "Early breastfeeding module 2 delivered"
+        },
+        {
+            "name": "Early breastfeeding module 3 delivered"
+        },
+        {
+            "name": "Where empty waste water"
+        },
+        {
+            "name": "SHINE latrine"
+        },
+        {
+            "name": "Liquid soap deliveries count"
+        },
+        {
+            "name": "Lipid-based nutrient supplement deliveries count"
+        },
+        {
+            "name": "Play mat"
+        },
+        {
+            "name": "Playpen"
+        },
+        {
+            "name": "Tippy tap"
+        },
+        {
+            "name": "Intervention modules deliveries count"
+        },
+        {
+            "name": "Water guard deliveries count"
+        },
+        {
+            "name": "Items at handwashing station assessed"
+        },
+        {
+            "name": "Play space appearance"
+        },
+        {
+            "name": "Visible feces in yard"
+        },
+        {
+            "name": "Household SHINE intervention"
+        },
+        {
+            "name": "Mean maximum temperature"
+        },
+        {
+            "name": "Mean minimum temperature"
+        },
+        {
+            "name": "Mean rainfall"
+        },
+        {
+            "name": "Brick or cement"
+        },
+        {
+            "name": "Concrete"
+        },
+        {
+            "name": "Earth, sand, dung"
+        },
+        {
+            "name": "Grass or straw"
+        },
+        {
+            "name": "Mud"
+        },
+        {
+            "name": "Stick or wood"
+        },
+        {
+            "name": "Tile"
+        },
+        {
+            "name": "Tin, corrugated iron sheets, asbestos"
+        },
+        {
+            "name": "Brick or cement"
+        },
+        {
+            "name": "Concrete"
+        },
+        {
+            "name": "Earth, sand, dung"
+        },
+        {
+            "name": "Grass or straw"
+        },
+        {
+            "name": "Mud"
+        },
+        {
+            "name": "Stick or wood"
+        },
+        {
+            "name": "Tin, corrugated iron sheets, asbestos"
+        },
+        {
+            "name": "Household minimum dietary diversity"
+        },
+        {
+            "name": "Dwelling facilities"
+        },
+        {
+            "name": "Waste disposal"
+        },
+        {
+            "name": "Household hygiene"
+        },
+        {
+            "name": "Household observation details"
+        },
+        {
+            "name": "Household study timepoint"
+        },
+        {
+            "name": "Water"
+        },
+        {
+            "name": "Items at handwashing station"
+        },
+        {
+            "name": "None"
+        },
+        {
+            "name": "Sand or ash"
+        },
+        {
+            "name": "Soap"
+        },
+        {
+            "name": "Open defecation, adults >70 years count"
+        },
+        {
+            "name": "Open defecation, children <3 years count"
+        },
+        {
+            "name": "Open defecation, adults 18-70 years count"
+        },
+        {
+            "name": "Open defecation, children 3-6 years count"
+        },
+        {
+            "name": "Open defecation, children 6-18 years count"
+        },
+        {
+            "name": "Total count open defecation"
+        },
+        {
+            "name": "Latrine used for storage"
+        },
+        {
+            "name": "Tippy Tap or water from a container"
+        },
+        {
+            "name": "Birth weight"
+        },
+        {
+            "name": "Birth date"
+        },
+        {
+            "name": "Death date"
+        },
+        {
+            "name": "Enrollment date"
+        },
+        {
+            "name": "Last date observed"
+        },
+        {
+            "name": "Anthropometry"
+        },
+        {
+            "name": "Died"
+        },
+        {
+            "name": "Death information"
+        },
+        {
+            "name": "Feeding"
+        },
+        {
+            "name": "Administrative information"
+        },
+        {
+            "name": "Demographics"
+        },
+        {
+            "name": "Breastfeeding status"
+        },
+        {
+            "name": "Breastfeeding"
+        },
+        {
+            "name": "Diet"
+        },
+        {
+            "name": "Activity"
+        },
+        {
+            "name": "Mother's age"
+        },
+        {
+            "name": "Multiple birth"
+        },
+        {
+            "name": "Birth order"
+        },
+        {
+            "name": "Maternal anthropometry"
+        },
+        {
+            "name": "Edinburgh Postnatal Depression Scale score"
+        },
+        {
+            "name": "Mother's height"
+        },
+        {
+            "name": "Maternal clinical history"
+        },
+        {
+            "name": "Mode of birth"
+        },
+        {
+            "name": "Birth location"
+        },
+        {
+            "name": "Disability"
+        },
+        {
+            "name": "Obstetrics"
+        },
+        {
+            "name": "Pregnancy"
+        },
+        {
+            "name": "Medical history"
+        },
+        {
+            "name": "Dietary diversity, animal-source foods"
+        },
+        {
+            "name": "Dietary diversity, iron-rich foods"
+        },
+        {
+            "name": "Dietary diversity, vitamin A fruits and vegetables"
+        },
+        {
+            "name": "Fine motor score"
+        },
+        {
+            "name": "Gross motor score"
+        },
+        {
+            "name": "Language score"
+        },
+        {
+            "name": "Malawi Developmental Assessment Tool"
+        },
+        {
+            "name": "Mother's marital status"
+        },
+        {
+            "name": "Mother's religion"
+        },
+        {
+            "name": "Social score"
+        },
+        {
+            "name": "Total MDAT score"
+        },
+        {
+            "name": "Ingests soil"
+        },
+        {
+            "name": "Ingests chicken feces"
+        },
+        {
+            "name": "Unhidden self-control task time"
+        },
+        {
+            "name": "A-not-B score"
+        },
+        {
+            "name": "Hidden self-control task time"
+        },
+        {
+            "name": "Maternal decision making autonomy score"
+        },
+        {
+            "name": "Maternal knowledge of feeding during illness"
+        },
+        {
+            "name": "Combines two words"
+        },
+        {
+            "name": "Uses plurals"
+        },
+        {
+            "name": "Uses progressive/imperative words"
+        },
+        {
+            "name": "Maternal gender norm attitudes score"
+        },
+        {
+            "name": "MacArthur Bates language inventory score"
+        },
+        {
+            "name": "Maternal antiretroviral therapy during pregnancy"
+        },
+        {
+            "name": "Maternal cotrimoxazole therapy during pregnancy"
+        },
+        {
+            "name": "Maternal self-efficacy score"
+        },
+        {
+            "name": "Mother's MUAC"
+        },
+        {
+            "name": "Minimum dietary diversity"
+        },
+        {
+            "name": "Maternal perceived physical health score"
+        },
+        {
+            "name": "Maternal social support score"
+        },
+        {
+            "name": "Maternal time stress score"
+        },
+        {
+            "name": "Mother's death date"
+        },
+        {
+            "name": "Mother's total education"
+        },
+        {
+            "name": "Maternal suicidal ideation"
+        },
+        {
+            "name": "Primary dichotomous outcomes"
+        },
+        {
+            "name": "MacArthur-Bates CDI"
+        },
+        {
+            "name": "Birth outcome"
+        },
+        {
+            "name": "Maternal death information"
+        },
+        {
+            "name": "Maternal demographics"
+        },
+        {
+            "name": "Caregiver capabilities"
+        },
+        {
+            "name": "Child development"
+        },
+        {
+            "name": "Early breastfeeding initiated"
+        },
+        {
+            "name": "Lipid-based nutrient supplement feedings yesterday count"
+        },
+        {
+            "name": "Edinburgh postnatal depression scale"
+        },
+        {
+            "name": "Study center"
+        },
+        {
+            "name": "Clinical history"
+        },
+        {
+            "name": "Gestational age"
+        },
+        {
+            "name": "Sex"
+        },
+        {
+            "name": "Signs and symptoms"
+        },
+        {
+            "name": "Observation details"
+        },
+        {
+            "name": "Anthropometry"
+        },
+        {
+            "name": "Feeding"
+        },
+        {
+            "name": "Head circumference-for-age z-score"
+        },
+        {
+            "name": "Head circumference"
+        },
+        {
+            "name": "MUAC-for-age z-score"
+        },
+        {
+            "name": "Weight-for-age z-score"
+        },
+        {
+            "name": "Observation date"
+        },
+        {
+            "name": "MUAC"
+        },
+        {
+            "name": "Diarrhea, caregiver report"
+        },
+        {
+            "name": "Blood in stool, caregiver report"
+        },
+        {
+            "name": "Demographics"
+        },
+        {
+            "name": "Exclusively breastfed at last visit"
+        },
+        {
+            "name": "Breastfeeding"
+        },
+        {
+            "name": "Symptoms by caregiver report"
+        },
+        {
+            "name": "Weight-for-height z-score"
+        },
+        {
+            "name": "Length"
+        },
+        {
+            "name": "Length- or height-for-age z-score"
+        },
+        {
+            "name": "Difficulty breathing, caregiver report"
+        },
+        {
+            "name": "Stunted"
+        },
+        {
+            "name": "Wasted"
+        },
+        {
+            "name": "Ever exclusively breastfed"
+        },
+        {
+            "name": "Weight"
+        },
+        {
+            "name": "Age"
+        },
+        {
+            "name": "Study timepoint"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dryad_266m0",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 2.6650717,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Florida",
+                "sameAs": "https://ror.org/02y3ad647"
+            },
+            "familyName": "Wilson",
+            "givenName": "Chris H.",
+            "name": "Chris H. Wilson"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Florida",
+                "sameAs": "https://ror.org/02y3ad647"
+            },
+            "familyName": "Caughlin",
+            "givenName": "T. Trevor",
+            "name": "T. Trevor Caughlin"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Florida",
+                "sameAs": "https://ror.org/02y3ad647"
+            },
+            "familyName": "Rifai",
+            "givenName": "Sami W.",
+            "name": "Sami W. Rifai"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Agro\u00e9cologie",
+                "sameAs": "https://ror.org/00mkad321"
+            },
+            "familyName": "Boughton",
+            "givenName": "Elizabeth H.",
+            "name": "Elizabeth H. Boughton"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Northern Arizona University",
+                "sameAs": "https://ror.org/0272j5188"
+            },
+            "familyName": "Mack",
+            "givenName": "Michelle C.",
+            "name": "Michelle C. Mack"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Florida",
+                "sameAs": "https://ror.org/02y3ad647"
+            },
+            "familyName": "Flory",
+            "givenName": "S. Luke",
+            "name": "S. Luke Flory"
+        }
+    ],
+    "citation": {
+        "url": "http://doi.org/10.1002/eap.1557"
+    },
+    "conditionsOfAccess": "Open",
+    "date": "2017-04-03",
+    "datePublished": "2017-04-03",
+    "description": "Soil carbon sequestration in agroecosystems could play a key role in climate change mitigation but will require accurate predictions of soil organic carbon (SOC) stocks over spatial scales relevant to land management. Spatial variation in underlying drivers of SOC, such as plant productivity and soil mineralogy, complicates these predictions. Recent advances in the availability of remotely sensed data make it practical to generate multidecadal time series of vegetation indices with high spatial resolution and coverage. However, the utility of such data largely is unknown, only having been tested with shorter (e.g., 1-2 year) data summaries. Across a 2000 ha subtropical grassland, we found that a long time series (28 years) of a vegetation index (Enhanced Vegetation Index; EVI) derived from the Landsat 5 satellite significantly enhanced prediction of spatially varying SOC pools, while a short summary (2 years) was an ineffective predictor. EVI was the best predictor for surface SOC (0-5 cm depth) and total measured SOC stocks (0-15 cm). The optimum models for SOC in the upper soil layer combined EVI records with elevation and calcium concentration, while deeper SOC was more strongly associated with calcium availability. We demonstrate how data from the open access Landsat archive can predict SOC stocks, a key ecosystem metric, and illustrate the rich variety of analytical approaches that can be applied to long time series of remotely sensed greenness. Overall, our results showed that SOC pools were closely coupled to EVI in this ecosystem, demonstrating that maintenance of higher average green leaf area is correlated with higher SOC. The strong associations of vegetation greenness and calcium concentration with SOC suggest that the ability to sequester additional SOC likely will rely on strategic management of pasture vegetation and soil fertility.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "http://datadryad.org/api/v2/datasets/doi%253A10.5061%252Fdryad.266m0/download",
+        "encodingFormat": "application/zip",
+        "hasPart": [
+            "http://datadryad.org/downloads/file_stream/38829",
+            "http://datadryad.org/downloads/file_stream/38830",
+            "http://datadryad.org/downloads/file_stream/38831",
+            "http://datadryad.org/downloads/file_stream/38832"
+        ]
+    },
+    "doi": "10.5061/dryad.266m0",
+    "hasPart": {
+        "name": "EVI Matrices and Julian Days, Buck Island RanchThis RData file contains a list called 'EVImatlist' which contains 4 components. The first two are matrices with LEDAPS filtered surface reflectance calculated EVI from Landsat 5 platform for 57 soil sampling points across pastures at Buck Island Ranch (Lake Placid, FL, USA). Matrix one contains a column for every day in the date range accessed (n = 426), whereas matrix two summarizes the EVI per year. NA's represent cells where the LEDAPS algorithm filtered out cloud and/or shadow contamination. Associated with the daily matrix, there is a vector called 'jd' that contains the julian day for that acquisition, and associated with the yearly matrix, there is a vector called 'yr' that represents the year summarized.EVImat_BIR.rdataSoil carbon stock (0-15cm)This data file contains a data frame called 'soil_fert1a' which contains soil carbon, various fertility parameters, LiDAR derived elevation, and mean vegetation greenness (from EVI across 28 years) for each of 57 soil samples collected from across Buck Island Ranch (Lake Placid, FL). The bulk-density corrected estimate of soil carbon stock is in the column called 'c_stock'. These values are based on a single sample from a hammer core taken to 15cm depth. Samples were oven-dried, weighed to assess bulk density, and analyzed for SOC/SON via EA at the University of Florida. Fertility parameters were assessed at the University of Florida extension soil testing laboratory using the Mehlich III extraction. The first appearance of each parameter represents raw data on original scale, while the second appearance, denoted by _std label, represents value after standardization onto a N(0,0.5) scale.soil_fert1a.csvSoil carbon concentration (0-5cm)This data file contains a data frame called 'soil_fert2a' which contains soil carbon concentration in the 0-5cm depth fraction, various fertility parameters, LiDAR derived elevation, and mean vegetation greenness (from EVI across 28 years) for each of 57 soil samples collected from across Buck Island Ranch (Lake Placid, FL). The soil carbon concentration is in column called \u2018C_05\u2019. These values are based on a composite sample from 12 subsamples representing the top 5 cm fraction at each sampled point. Samples were oven-dried and analyzed for SOC/SON via EA at the University of Florida. Fertility parameters were assessed at the University of Florida extension soil testing laboratory using the Mehlich III extraction. The first appearance of each parameter represents raw data on original scale, while the second appearance, denoted by _std label, represents value after standardization onto a N(0,0.5) scale.soil_fert2a.csvSoil carbon concentration (5-15cm)This data file contains a data frame called 'soil_fert3a' which contains soil carbon concentration in the 5-15cm depth fraction, various fertility parameters, LiDAR derived elevation, and mean vegetation greenness (from EVI across 28 years) for each of 57 soil samples collected from across Buck Island Ranch (Lake Placid, FL). The soil carbon concentration is in column called \u2018C_515\u2019. These values are based on a composite sample from 12 subsamples representing the 5-15 cm fraction at each sampled point. Samples were oven-dried and analyzed for SOC/SON via EA at the University of Florida. Fertility parameters were assessed at the University of Florida extension soil testing laboratory using the Mehlich III extraction. The first appearance of each parameter represents raw data on original scale, while the second appearance, denoted by _std label, represents value after standardization onto a N(0,0.5) scale.soil_fert3a.csv"
+    },
+    "identifier": "doi:10.5061/dryad.266m0",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.266m0",
+            "name": "Dryad Digital Repository",
+            "url": "https://datadryad.org",
+            "versionDate": "2025-06-03"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://zenodo.org/records/4972727",
+            "name": "Zenodo",
+            "url": "https://zenodo.org/",
+            "versionDate": "2025-04-12"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "keywords": [
+        "vegetation greenness",
+        "subtropical pasture",
+        "enhanced vegetation index",
+        "Paspalum notatum",
+        "grazing lands",
+        "Soil carbon"
+    ],
+    "license": "https://spdx.org/licenses/CC0-1.0.html",
+    "name": "Multi-decadal time series of remotely sensed vegetation improves prediction of soil carbon in a subtropical grassland",
+    "spatialCoverage": {
+        "name": "Florida"
+    },
+    "temporalCoverage": {
+        "temporalInterval": {
+            "endDate": "2020-06-29"
+        }
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0780",
+            "inDefinedTermSet": "EDAM",
+            "name": "Plant biology",
+            "url": "http://edamontology.org/topic_0780"
+        },
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3174",
+            "inDefinedTermSet": "EDAM",
+            "name": "Metagenomics",
+            "url": "http://edamontology.org/topic_3174"
+        },
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3855",
+            "inDefinedTermSet": "EDAM",
+            "name": "Environmental sciences",
+            "url": "http://edamontology.org/topic_3855"
+        }
+    ],
+    "url": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.266m0"
+}

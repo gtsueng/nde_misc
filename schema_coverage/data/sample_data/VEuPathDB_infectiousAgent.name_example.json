@@ -1,0 +1,88 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "ds_4cc8563c84",
+    "_score": 9.970468,
+    "author": [
+        {
+            "affiliation": {
+                "name": "The Broad Institute of Harvard and MIT, USA"
+            },
+            "name": "Christina Cuomo"
+        },
+        {
+            "affiliation": {
+                "name": "Harvard University & BROAD Institute, Cambridge, MA, USA"
+            },
+            "name": "Daniel E. Neafsey"
+        },
+        {
+            "affiliation": {
+                "name": "The Broad Institute of MIT and Harvard"
+            },
+            "name": "The Broad Institute of MIT and Harvard"
+        }
+    ],
+    "conditionsOfAccess": "Closed",
+    "creditText": "Daniel E. Neafsey",
+    "date": "2015-06-29",
+    "dateModified": "2015-06-29",
+    "datePublished": "2015-06-29",
+    "description": "Genome sequence and annotation for Coccidioides posadasii RMSCC 3488",
+    "distribution": [
+        {
+            "name": "BioProject Record at GenBank",
+            "url": "http://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA17783"
+        },
+        {
+            "name": "Coccidiodes Sequencing Project at the Broad Institute",
+            "url": "http://www.broadinstitute.org/scientific-community/science/projects/fungal-genome-initiative/coccidioides-genomes"
+        }
+    ],
+    "identifier": "DS_4cc8563c84",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://veupathdb.org/veupathdb/app/record/dataset/DS_4cc8563c84",
+            "name": "VEuPathDB",
+            "url": "https://veupathdb.org/veupathdb/app",
+            "versionDate": "2025-08-23"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://fungidb.org/fungidb/app/record/dataset/DS_4cc8563c84",
+            "name": "FungiDB",
+            "url": "https://fungidb.org/fungidb/app",
+            "versionDate": "2025-08-23"
+        }
+    ],
+    "infectiousAgent": [
+        {
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2023-10-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Coccidioides posadasii RMSCC 3488",
+            "identifier": "454284",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Coccidioides posadasii RMSCC 3488",
+            "originalName": "coccidioides posadasii rmscc 3488",
+            "url": "https://www.uniprot.org/taxonomy/454284"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "measurementTechnique": {
+        "name": "genome"
+    },
+    "name": "<i>Coccidioides posadasii</i> RMSCC 3488 Genome Sequence and Annotation",
+    "sdPublisher": {
+        "name": "FungiDB"
+    },
+    "url": "https://veupathdb.org/veupathdb/app/record/dataset/DS_4cc8563c84",
+    "variableMeasured": {
+        "name": "ncRNA gene"
+    }
+}

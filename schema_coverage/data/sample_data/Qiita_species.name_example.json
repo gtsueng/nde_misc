@@ -1,0 +1,243 @@
+{
+    "@type": "Dataset",
+    "_id": "qiita_10093",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 11.274641,
+    "author": {
+        "name": "David A. Mills"
+    },
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Frese SA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Parker K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Calvert CC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mills DA"
+                }
+            ],
+            "datePublished": "2015-01-01",
+            "fromPMID": true,
+            "identifier": "PMID:26167280",
+            "journalName": "Microbiome",
+            "name": "Diet shapes the gut microbiome of pigs during nursing and weaning.",
+            "pmid": "26167280",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26167280/"
+        }
+    ],
+    "description": "Background.  The newborn mammal is rapidly colonized by a complex microbial community, whose importance for host health is becoming increasingly clear.  Understanding the forces that shape the early community, especially during the nursing period, is critical to understand how this consortium of microbes is assembled. Pigs present an attractive model for nursing humans, given physiological similarity and the compositional similarity of pig milk and human milk oligosaccharides and their utility in experimental studies.  However, there is a paucity of data examining the gut microbiome in nursing pigs from birth through weaning using modern molecular methods, and fewer experimental studies that examine the impact of diet on these microbial communities.  \r\nResults. We characterized the fecal microbiome of pigs from birth through 7 weeks of age, during which the animals were transitioned from an exclusive diet of sow milk to a starter diet composed of plant and animal-based components.  Microbial communities were clearly distinguishable based on diet, being relatively stable absent dietary changes. Metagenomic sequencing was used to characterize a subset of animals before and after weaning, which identified glycan degradation pathways differing significantly between diets.  Predicted enzymes active on milk-derived glycans that are otherwise indigestible to the host animal were enriched in the microbial metagenome of milk-fed animals.  In contrast, the metagenome of weaned animals was enriched in functional pathways involved in plant glycan deconstruction and consumption.  \r\nConclusions. The gut microbiome in young pigs is dramatically shaped by the composition of dietary glycans, reflected by the different functional capacities of the microbiome before and after weaning. \r\n",
+    "doi": [
+        "10.1186/s40168-015-0091-8"
+    ],
+    "funding": [
+        {
+            "endDate": "2015-08-17",
+            "funder": [
+                {
+                    "alternateName": [
+                        "Office of Alternative Medicine",
+                        "National Center for Complementary and Alternative Medicine",
+                        "OAM",
+                        "NCCAM",
+                        "NCCIH"
+                    ],
+                    "identifier": "https://ror.org/00190t495",
+                    "name": "National Center for Complementary and Integrative Health",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1F32AT008533-01A1",
+            "name": "The Impact of Milk Glycopeptide and Bifidobacterium on the Weaning Microbiota",
+            "projectNumSplit": {
+                "activityCode": "F32",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "AT",
+                "serialNum": "008533",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2015-03-02",
+            "url": "https://reporter.nih.gov/project-details/8909600"
+        },
+        {
+            "endDate": "2017-03-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "Office of Alternative Medicine",
+                        "National Center for Complementary and Alternative Medicine",
+                        "OAM",
+                        "NCCAM",
+                        "NCCIH"
+                    ],
+                    "identifier": "https://ror.org/00190t495",
+                    "name": "National Center for Complementary and Integrative Health",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AT007079-01",
+            "name": "Mechanism of Activation of Probiotic Bifidobacteria by Prebiotic Milk Glycans",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AT",
+                "serialNum": "007079",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2012-04-01",
+            "url": "https://reporter.nih.gov/project-details/8234462"
+        },
+        {
+            "endDate": "2019-08-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "Office of Alternative Medicine",
+                        "National Center for Complementary and Alternative Medicine",
+                        "OAM",
+                        "NCCAM",
+                        "NCCIH"
+                    ],
+                    "identifier": "https://ror.org/00190t495",
+                    "name": "National Center for Complementary and Integrative Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "alternateName": [
+                        "Office of the Director",
+                        "Office of the Director, NIH",
+                        "OD",
+                        "Office of the NIH Director"
+                    ],
+                    "identifier": "https://ror.org/00fj8a872",
+                    "name": "NIH Office of the Director",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AT008759-01",
+            "name": "Activation of probiotic bifidobacteria by milk glyans",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AT",
+                "serialNum": "008759",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2014-09-30",
+            "url": "https://reporter.nih.gov/project-details/8914110"
+        }
+    ],
+    "includedInDataCatalog": {
+        "@type": "Dataset",
+        "dataset": "https://qiita.ucsd.edu/study/description/10093",
+        "name": "Qiita",
+        "url": "https://qiita.ucsd.edu/",
+        "versionDate": "2025-02-01"
+    },
+    "mainEntityOfPage": "https://www.ebi.ac.uk/ena/browser/view/ERP022672",
+    "name": "Diet Shapes the Gut Microbiome of Pigs During Nursing and Weaning.",
+    "species": [
+        {
+            "alternateName": [
+                "Homo spaiens",
+                "Homo sapien",
+                "Homo sapients",
+                "Homo sapiense",
+                "Home sapiens",
+                "human",
+                "Homo sapines",
+                "Homo sapiens Linnaeus, 1758",
+                "Human",
+                "Homo sampiens",
+                "Homo sapian",
+                "Humo sapiens",
+                "Homo spiens",
+                "Homo sapience",
+                "Homo sapeins",
+                "Homo sapians"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromPMID": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        },
+        {
+            "alternateName": [
+                "Sus scrofus",
+                "pig",
+                "Pig",
+                "Sus scrofa Linnaeus, 1758",
+                "pigs",
+                "wild boar",
+                "swine"
+            ],
+            "classification": "host",
+            "commonName": "Pig",
+            "displayName": "Pig | Sus scrofa",
+            "fromPMID": true,
+            "identifier": "9823",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Sus scrofa",
+            "url": "https://www.uniprot.org/taxonomy/9823"
+        }
+    ],
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3390",
+            "inDefinedTermSet": "EDAM",
+            "name": "Nutritional science",
+            "url": "http://edamontology.org/topic_3390"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3679",
+            "inDefinedTermSet": "EDAM",
+            "name": "Animal study",
+            "url": "http://edamontology.org/topic_3679"
+        },
+        {
+            "curatedBy": {
+                "name": "gpt-3.5-turbo",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3174",
+            "inDefinedTermSet": "EDAM",
+            "name": "Metagenomics",
+            "url": "http://edamontology.org/topic_3174"
+        }
+    ],
+    "url": "https://qiita.ucsd.edu/study/description/10093"
+}

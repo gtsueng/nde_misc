@@ -1,0 +1,269 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "microbiome_mal-ed_0-2yr",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.050478,
+    "abstract": "Maturation of the human gut microbiome in the first 2 years of life in children from four particpating sites in the MAL-ED study",
+    "alternateName": "MicrobiomeStudyEDA_MALED_healthy_RSRC",
+    "author": [
+        {
+            "affiliation": {
+                "name": "Washington University School of Medicine in St. Louis"
+            },
+            "name": "Jeffery Gordon"
+        }
+    ],
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Raman AS"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gehrig JL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Venkatesh S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chang HW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hibberd MC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Subramanian S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kang G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bessong PO"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lima AAM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kosek MN"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Petri WA Jr"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rodionov DA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Arzamasov AA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Leyn SA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Osterman AL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Huq S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mostafa I"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Islam M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mahfuz M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Haque R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ahmed T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Barratt MJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gordon JI"
+                }
+            ],
+            "datePublished": "2019-07-12",
+            "fromPMID": true,
+            "identifier": "PMID:31296739",
+            "journalName": "Science (New York, N.Y.)",
+            "name": "A sparse covarying unit that describes healthy and impaired human gut microbiota development.",
+            "pmid": "31296739",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31296739/"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "contributor": {
+        "affiliation": "Washington University School of Medicine in St. Louis",
+        "email": "jgordon@wustl.edu"
+    },
+    "description": "The Etiology, Risk Factors, and Interactions of Enteric Infections and Malnutrition and the Consequences for Child Health (MAL-ED) Study, led by the Fogarty International Center of the National Institutes of Health and the Foundation for the National Institutes of Health, has been established at sites in 8 countries with historically high incidence of diarrheal disease and undernutrition to examine the central hypothesis that enteropathogen infection contributes to undernutrition by causing intestinal inflammation and/or by altering intestinal barrier and absorptive function. Although ~60,000 samples were collected longitudinally from 2,145 participants enrolled at 8 sites in MAL-ED cohort study, the MAL-ED healthy sub-study restricted microbiome analyses to ~1000 longitudinal stool samples collected from just 50 participants at 4 sites. These participants were selected as a 'healthy' cohort where health was defined as height-for-age and weight-for-height Z-scores (HAZ, WHZ) consistently no more than 1.5 standard deviations below the median calculated from a WHO reference healthy growth cohort described here.\nThis study set out to define the normal maturation of the gut microbiome during the first 2 years of postnatal life.\n50 children from four sites in the MAL-ED study: Brazil, India, Peru and South Africa.\n1091 stool samples; V4 region of 16S rRNA gene.\nProspective cohort design with monthly sampling for the first ~2 years of life.\nAdditional clinical and epidemiologic data for the same participants is available at ClinEpiDB.org.",
+    "distribution": [
+        {
+            "contentUrl": "https://microbiomedb.org/mbio/app/downloads/release-29/72c94486c6946058be76735af82efb99bb023f00",
+            "datePublished": "2022-08-30",
+            "identifier": "DS_72c94486c6",
+            "name": "MicrobiomeStudyEDA_MALED_healthy_RSRC"
+        },
+        {
+            "contentUrl": "https://microbiomedb.org/mbio/app/downloads/release-32/72c94486c6946058be76735af82efb99bb023f00",
+            "datePublished": "2023-05-30",
+            "identifier": "DS_72c94486c6",
+            "name": "MicrobiomeStudyEDA_MALED_healthy_RSRC"
+        },
+        {
+            "contentUrl": "https://microbiomedb.org/mbio/app/downloads/release-37/72c94486c6946058be76735af82efb99bb023f00",
+            "datePublished": "2024-05-07",
+            "identifier": "DS_72c94486c6",
+            "name": "MicrobiomeStudyEDA_MALED_healthy_RSRC"
+        }
+    ],
+    "funding": [
+        {
+            "endDate": "2002-08-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AI043596-01",
+            "name": "FIELD STUDIES OF IMMUNITY TO AMEBIASIS IN BANGLADESH",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "043596",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "1998-09-15",
+            "url": "https://reporter.nih.gov/project-details/2687389"
+        },
+        {
+            "endDate": "1987-12-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
+                        "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "NIDDK"
+                    ],
+                    "identifier": "https://ror.org/00adh9b73",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "5R01DK030292-05",
+            "name": "REGULATION OF GENE EXPRESSION IN THE SMALL INTESTINE",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "5",
+                "fullSupportYear": "05",
+                "icCode": "DK",
+                "serialNum": "030292",
+                "suffixCode": "",
+                "supportYear": "05"
+            },
+            "startDate": "1982-01-01",
+            "url": "https://reporter.nih.gov/project-details/3229358"
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "enteritis of small intestine",
+                "enteritis",
+                "small intestine inflammation",
+                "inflammation of small intestine"
+            ],
+            "fromPMID": true,
+            "identifier": "0043579",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "enteritis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0043579"
+        },
+        {
+            "alternateName": [
+                "malnourished",
+                "malnutrition"
+            ],
+            "fromPMID": true,
+            "identifier": "0006873",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "nutritional deficiency disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0006873"
+        }
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://microbiomedb.org/mbio/app/record/dataset/DS_72c94486c6",
+        "name": "MicrobiomeDB",
+        "url": "https://microbiomedb.org/mbio/app",
+        "versionDate": "2025-08-23"
+    },
+    "isPartOf": [
+        {
+            "alternateName": "mbio",
+            "name": "MicrobiomeDB"
+        }
+    ],
+    "isRelatedTo": [
+        {
+            "citation": {
+                "pmid": "31296739"
+            },
+            "identifier": "DS_1102462e80",
+            "name": "Bangladesh 5yr",
+            "url": "http://MicrobiomeDB.org/mbio/app/record/dataset/DS_1102462e80"
+        }
+    ],
+    "keywords": [
+        "Human"
+    ],
+    "name": "MAL-ED 0-2yr",
+    "sdPublisher": {
+        "identifier": "DS_72c94486c6",
+        "name": "ClinEpiDB",
+        "url": "https://clinepidb.org/ce/app/record/dataset/DS_3dbf92dc05"
+    },
+    "url": "https://microbiomedb.org/mbio/app/record/dataset/DS_72c94486c6"
+}

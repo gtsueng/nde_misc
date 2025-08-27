@@ -1,0 +1,162 @@
+{
+    "@type": "Dataset",
+    "_id": "ndex_17a6b7ce-b342-11ef-99aa-005056ae3c32",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 8.719278,
+    "author": {
+        "name": "jlenkiewicz@ucsd.edu"
+    },
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Asaga T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Suzuki K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Takemiya S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Okamoto T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tamura N"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Umeda M"
+                }
+            ],
+            "datePublished": "1982-12-01",
+            "fromPMID": true,
+            "identifier": "PMID:6761228",
+            "journalName": "Gan",
+            "name": "Short-term cultivation of human mammary tumors and normal mammary glands in medium containing human colostrum milk.",
+            "pmid": "6761228",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6761228/"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "date": "2024-12-05",
+    "dateCreated": "2024-12-05T19:49:51.780000",
+    "dateModified": "2024-12-05T19:50:27.194000",
+    "description": "Notch-Delta-Jagged signaling. (A) The Notch pathway is activated when the Notch receptor of one cell interacts with the ligand of a neighboring cell leading to cleavage of the Notch intracellular domain (NICD) and its release into the cytoplasm. NICD acts as a transcription factor and controls the expression of many genes, including Notch receptors and ligands. However, while it directly activates the expression of Notch receptors, the Jag1 ligand, and transcription factor Hes1 (which acts as an inhibitor of any gene expression), it indirectly inhibits Dll1 expression through Hes1. The special family of fringe proteins (Lfng and Mfng) increases the Notch receptor\u2019s affinity to bind to Dll1 and decreases it for Jag1, thus promoting lateral inhibition over lateral induction. (B) Jag1/Notch signaling forms a double positive feedback loop between the two neighboring cells and forces them to adopt the same fate/phenotype: high expressions of the Notch receptor, Jag1, Hes1, and low Dll1 expression. The Jag1/Notch cells both send (due to Jag1 ligands) and receive (due to Notch receptors) signals [a so-called hybrid Sender/Receiver (S/R) phenotype]. The mechanism that promotes this phenotype is known as lateral induction. (C) Dll1/Notch signaling causes a double-negative feedback loop between the two neighboring cells promoting them to acquire two opposite fates/phenotypes (a \u201csalt-and pepper\u201d pattern): Sender (S; high Dll1; low Notch, Hes1, and Jag1) and Receiver (R; high Notch and Hes1; low Dll1 and Jag1). The mechanism that promotes the two opposite fates/phenotypes is known as lateral inhibition.\n\n\n\n            ",
+    "distribution": {
+        "contentSize": 13163
+    },
+    "identifier": "17a6b7ce-b342-11ef-99aa-005056ae3c32",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ndexbio.org/viewer/networks/17a6b7ce-b342-11ef-99aa-005056ae3c32",
+        "name": "NDEx",
+        "url": "https://www.ndexbio.org/",
+        "versionDate": "2025-07-05"
+    },
+    "isRelatedTo": [
+        {
+            "name": "Notch-Delta-Jagged signaling",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6761228/figure/F1/"
+        }
+    ],
+    "keywords": [
+        "pathway"
+    ],
+    "license": "Waiver-No rights reserved (CC0)",
+    "measurementTechnique": [
+        {
+            "name": "image processing",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C17606"
+        }
+    ],
+    "name": "NDEX2 Tutorial: Modify network attributes (replace broken image URLs)",
+    "species": [
+        {
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": [
+        {
+            "identifier": "topic_0602",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular interactions, pathways and networks",
+            "url": "http://edamontology.org/topic_0602"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3064",
+            "inDefinedTermSet": "EDAM",
+            "name": "Developmental biology",
+            "url": "http://edamontology.org/topic_3064"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3070",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biology",
+            "url": "http://edamontology.org/topic_3070"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2229",
+            "inDefinedTermSet": "EDAM",
+            "name": "Cell biology",
+            "url": "http://edamontology.org/topic_2229"
+        }
+    ],
+    "url": "https://www.ndexbio.org/viewer/networks/17a6b7ce-b342-11ef-99aa-005056ae3c32"
+}

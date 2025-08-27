@@ -1,0 +1,338 @@
+{
+    "@type": "Dataset",
+    "_id": "qiita_13130",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 11.274522,
+    "author": {
+        "name": "Alison Vrbanac"
+    },
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Vrbanac A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Patras KA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jarmusch AK"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mills RH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Shing SR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Quinn RA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Vargas F"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gonzalez DJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dorrestein PC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Knight R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nizet V"
+                }
+            ],
+            "datePublished": "2020-10-06",
+            "fromPMID": true,
+            "identifier": "PMID:33024048",
+            "journalName": "mSystems",
+            "name": "Evaluating Organism-Wide Changes in the Metabolome and Microbiome following a Single Dose of Antibiotic.",
+            "pmid": "33024048",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33024048/"
+        }
+    ],
+    "description": "Antibiotics are a mainstay of modern medicine, but as they kill their target pathogen(s), they often damage the commensal microbiota. Antibiotic-induced microbiome dysbiosis is a growing research focus and health concern, often assessed via analysis of fecal samples. However, such analysis does not inform how antibiotics influence the microbiome across the whole host, nor how such changes subsequently alter host chemistry. In this study, we investigated the acute (1 d post-administration), and delayed (6 d post-administration) effects of a single systemic dose of two common antibiotics, ampicillin or vancomycin, on the global metabolome and microbiome of mice across 77 different body sites from 25 different organs. The broader spectrum agent ampicillin had the greatest impact on the microbiota in the lower gastrointestinal tract (cecum and colon) where microbial diversity is highest. In the metabolome, the greatest effects were seen 1 d post-treatment, and changes in metabolite abundances were not confined to the gut. The local abundance of ampicillin and its metabolites correlated with increased metabolome effect size and a loss of alpha diversity vs. control mice. Additionally, small peptides were elevated in the lower gastrointestinal tract of 1 d post-antibiotic treated mice. While a single dose of systemic antibiotic did not drastically damage the microbiome, changes in the metabolome were nevertheless observed both within and outside the gut. This study provides a framework for how whole-organism \u2013omics approaches may be employed to understand the impact of antibiotics on the entire host.",
+    "doi": [
+        "10.1128/mSystems.00340-20"
+    ],
+    "funding": [
+        {
+            "endDate": "2021-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "5P50HD090259-04",
+            "name": "Pediatric and Developmental Pharmacology for Inflammatory and Infectious Diseases",
+            "projectNumSplit": {
+                "activityCode": "P50",
+                "applTypeCode": "5",
+                "fullSupportYear": "04",
+                "icCode": "HD",
+                "serialNum": "090259",
+                "suffixCode": "",
+                "supportYear": "04"
+            },
+            "startDate": "2016-09-20",
+            "url": "https://reporter.nih.gov/project-details/9749929"
+        },
+        {
+            "endDate": "2021-02-28",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01AI124316-01",
+            "name": "Systems Biology Approach to Redefine Susceptibility Testing and Treatment of MDR Pathogens in the Context of Host Immunity",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "124316",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2016-03-15",
+            "url": "https://reporter.nih.gov/project-details/9108693"
+        },
+        {
+            "endDate": "2024-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "Office of Alternative Medicine",
+                        "National Center for Complementary and Alternative Medicine",
+                        "OAM",
+                        "NCCAM",
+                        "NCCIH"
+                    ],
+                    "identifier": "https://ror.org/00190t495",
+                    "name": "National Center for Complementary and Integrative Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "alternateName": [
+                        "Office of the Director",
+                        "Office of the Director, NIH",
+                        "OD",
+                        "Office of the NIH Director"
+                    ],
+                    "identifier": "https://ror.org/00fj8a872",
+                    "name": "NIH Office of the Director",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1DP1AT010885-01",
+            "name": "Mapping host-microbe-metabolite interactions in 3D to find diet-derived enhancers of immunity",
+            "projectNumSplit": {
+                "activityCode": "DP1",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AT",
+                "serialNum": "010885",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2019-09-30",
+            "url": "https://reporter.nih.gov/project-details/9785812"
+        },
+        {
+            "endDate": "2024-04-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
+                        "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "NIDDK"
+                    ],
+                    "identifier": "https://ror.org/00adh9b73",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P30DK120515-01",
+            "name": "San Diego Digestive Diseases Research Center",
+            "projectNumSplit": {
+                "activityCode": "P30",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "DK",
+                "serialNum": "120515",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2019-07-01",
+            "url": "https://reporter.nih.gov/project-details/9708829"
+        },
+        {
+            "endDate": "1987-03-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
+                        "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "NIDDK"
+                    ],
+                    "identifier": "https://ror.org/00adh9b73",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "5T32DK007202-11",
+            "name": "GASTROENTEROLOGY",
+            "projectNumSplit": {
+                "activityCode": "T32",
+                "applTypeCode": "5",
+                "fullSupportYear": "11",
+                "icCode": "DK",
+                "serialNum": "007202",
+                "suffixCode": "",
+                "supportYear": "11"
+            },
+            "startDate": "1976-07-01",
+            "url": "https://reporter.nih.gov/project-details/3534978"
+        },
+        {
+            "endDate": "2024-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AI145310-01A1",
+            "name": "Surprising Efficacy of Discounted Antibiotics vs. MDR Gram-Negative Pathogens Occurring Through Innate Immune Sensitization",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "AI",
+                "serialNum": "145310",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2020-08-01",
+            "url": "https://reporter.nih.gov/project-details/9917337"
+        }
+    ],
+    "healthCondition": [
+        {
+            "fromPMID": true,
+            "identifier": "D064806",
+            "inDefinedTermSet": "MeSH",
+            "isCurated": false,
+            "name": "Dysbiosis",
+            "url": "https://id.nlm.nih.gov/mesh/D064806.html"
+        }
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://qiita.ucsd.edu/study/description/13130",
+        "name": "Qiita",
+        "url": "https://qiita.ucsd.edu/",
+        "versionDate": "2025-07-19"
+    },
+    "mainEntityOfPage": "https://www.ebi.ac.uk/ena/browser/view/ERP121045",
+    "name": "Exploring Organism-wide Changes in the Metabolome and Microbiome Following a Single Dose of Antibiotic",
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "abstract": "The NIAID/Division of Microbiology and Infectious Diseases (DMID) Systems Biology Consortium for Infectious Diseases brings together interdisciplinary scientists across microbiology, immunology, infectious diseases, computational biology, and advanced data science. Their collaborative work integrates experimental and computational approaches, including machine learning and mathematical modeling.",
+            "alternateName": [
+                "NIAID SysBio",
+                "NIAID/DMID Systems Biology Consortium for Infectious Diseases"
+            ],
+            "correctionApproved": false,
+            "description": "The NIAID/Division of Microbiology and Infectious Diseases (DMID) Systems Biology Consortium for Infectious Diseases is a group of interdisciplinary scientists that bridge disparate scientific disciplines including microbiology, immunology, infectious diseases, microbiome, mathematics, physics, bioinformatics, computational biology, machine learning, statistical methods, and mathematical modeling. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/systems-biology-consortium",
+            "name": "NIAID Systems Biology",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.niaid.nih.gov/research/systems-biology-consortium"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3697",
+            "inDefinedTermSet": "EDAM",
+            "name": "Microbial ecology",
+            "url": "http://edamontology.org/topic_3697"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3172",
+            "inDefinedTermSet": "EDAM",
+            "name": "Metabolomics",
+            "url": "http://edamontology.org/topic_3172"
+        }
+    ],
+    "url": "https://qiita.ucsd.edu/study/description/13130"
+}

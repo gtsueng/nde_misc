@@ -1,0 +1,84 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_3rrptycphs",
+    "_score": 6.267183,
+    "author": [
+        {
+            "familyName": "Ha",
+            "givenName": "Jungmoon",
+            "name": "Jungmoon Ha"
+        },
+        {
+            "familyName": "Francis",
+            "givenName": "Sid",
+            "name": "Sid Francis"
+        },
+        {
+            "familyName": "Keum",
+            "givenName": "Junghyuk",
+            "name": "Junghyuk Keum"
+        },
+        {
+            "familyName": "Jablonski",
+            "givenName": "Piotr",
+            "name": "Piotr Jablonski"
+        }
+    ],
+    "date": "2024-10-09",
+    "dateModified": "2024-10-08",
+    "datePublished": "2024-10-09",
+    "description": "This dataset and R code provide results and figures for the article submission entitled 'Field Observations of Breeding Individuals of the Yellow-browed Tit: Insights into Brood Provisioning Behaviors, Nestling Diet, Vocalizations, and Habitat Preference.'",
+    "doi": "10.17632/3rrptycphs.1",
+    "funding": [
+        {
+            "funder": {
+                "identifier": "https://ror.org/013aysd81",
+                "name": "National Research Foundation of Korea"
+            },
+            "identifier": "2022R1A6A3A01085943"
+        },
+        {
+            "funder": {
+                "identifier": "https://ror.org/013aysd81",
+                "name": "National Research Foundation of Korea"
+            },
+            "identifier": "RS-2024-00339571"
+        }
+    ],
+    "identifier": "3rrptycphs",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://data.mendeley.com/datasets/3rrptycphs",
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2025-08-24T02:49:31.437074"
+    },
+    "keywords": [
+        "Ornithology",
+        "Paridae"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "[dataset] Field Observations of Breeding Individuals of the Yellow-browed Tit: Insights into Brood Provisioning Behaviors, Nestling Diet, Vocalizations, and Habitat Preference",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "species": [
+        {
+            "alternateName": [
+                "yellow-browed tit",
+                "Sylviparus modestus Burton, 1836"
+            ],
+            "classification": "host",
+            "commonName": "yellow-browed tit",
+            "displayName": "yellow-browed tit | Sylviparus modestus",
+            "fromEXTRACT": true,
+            "identifier": "245590",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Sylviparus modestus",
+            "originalName": "Yellow-browed Tit",
+            "url": "https://www.uniprot.org/taxonomy/245590"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/3rrptycphs"
+}

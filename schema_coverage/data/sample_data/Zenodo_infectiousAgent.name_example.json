@@ -1,0 +1,500 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dryad_266qs",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 2.6650717,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Towson University",
+                "sameAs": "https://ror.org/044w7a341"
+            },
+            "familyName": "Estes",
+            "givenName": "Anne M.",
+            "name": "Anne M. Estes"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Towson University",
+                "sameAs": "https://ror.org/044w7a341"
+            },
+            "familyName": "Hearn",
+            "givenName": "David J.",
+            "name": "David J. Hearn"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Indiana University Bloomington",
+                "sameAs": "https://ror.org/02k40bc56"
+            },
+            "familyName": "Snell-Rood",
+            "givenName": "Emilie C.",
+            "name": "Emilie C. Snell-Rood"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Towson University",
+                "sameAs": "https://ror.org/044w7a341"
+            },
+            "familyName": "Feindler",
+            "givenName": "Michele",
+            "name": "Michele Feindler"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Towson University",
+                "sameAs": "https://ror.org/044w7a341"
+            },
+            "familyName": "Feeser",
+            "givenName": "Karla",
+            "name": "Karla Feeser"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Towson University",
+                "sameAs": "https://ror.org/044w7a341"
+            },
+            "familyName": "Abebe",
+            "givenName": "Tselotie",
+            "name": "Tselotie Abebe"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Maryland, Baltimore County",
+                "sameAs": "https://ror.org/02qskvh78"
+            },
+            "familyName": "Dunning Hotopp",
+            "givenName": "Julie C.",
+            "name": "Julie C. Dunning Hotopp"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Indiana University Bloomington",
+                "sameAs": "https://ror.org/02k40bc56"
+            },
+            "familyName": "Moczek",
+            "givenName": "Armin P.",
+            "name": "Armin P. Moczek"
+        }
+    ],
+    "citation": {
+        "url": "http://doi.org/10.1371/journal.pone.0079061"
+    },
+    "conditionsOfAccess": "Open",
+    "date": "2014-10-08",
+    "datePublished": "2014-10-08",
+    "description": "Insects feeding on plant sap, blood, and other nutritionally incomplete diets are typically associated with mutualistic bacteria that supplement missing nutrients. Herbivorous mammal dung contains more than 86% cellulose and lacks amino acids essential for insect development and reproduction. Yet one of the most ecologically necessary and evolutionarily successful groups of beetles, the dung beetles (Scarabaeinae) feeds primarily, or exclusively, on dung. These associations suggest that dung beetles may benefit from mutualistic bacteria that provide nutrients missing from dung. The nesting behaviors of the female parent and the feeding behaviors of the larvae suggest that a microbiome could be vertically transmitted from the parental female to her offspring through the brood ball. Using sterile rearing and a combination of molecular and culture-based techniques, we examine transmission of the microbiome in the bull-headed dung beetle, Onthophagus taurus. Beetles were reared on autoclaved dung and the microbiome was characterized across development. A ~1425 bp region of the 16S rRNA identified Pseudomonadaceae, Enterobacteriaceae, and Comamonadaceae as the most common bacterial families across all life stages and populations, including cultured isolates from the 3rd instar digestive system. Finer level phylotyping analyses based on lepA and gyrB amplicons of cultured isolates placed the isolates closest to Enterobacter cloacae, Providencia stuartii, Pusillimonas sp., Pedobacter heparinus, and Lysinibacillus sphaericus. Scanning electron micrographs of brood balls constructed from sterile dung reveals secretions and microbes only in the chamber the female prepares for the egg. The use of autoclaved dung for rearing, the presence of microbes in the brood ball and offspring, and identical 16S rRNA sequences in both parent and offspring suggests that the O. taurus female parent transmits specific microbiome members to her offspring through the brood chamber. The transmission of the dung beetle microbiome highlights the maintenance and likely importance of this newly-characterized bacterial community.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "http://datadryad.org/api/v2/datasets/doi%253A10.5061%252Fdryad.266qs/download",
+        "encodingFormat": "application/zip",
+        "hasPart": [
+            "http://datadryad.org/downloads/file_stream/10741",
+            "http://datadryad.org/downloads/file_stream/10742",
+            "http://datadryad.org/downloads/file_stream/10743",
+            "http://datadryad.org/downloads/file_stream/10744",
+            "http://datadryad.org/downloads/file_stream/10745",
+            "http://datadryad.org/downloads/file_stream/10746"
+        ]
+    },
+    "doi": "10.5061/dryad.266qs",
+    "hasPart": {
+        "name": "READMEThis file describes the contents of all the files submitted to Dryad.BacterialGenomesConcatenated.ConstraintTreeThis NEXUS formatted file provides two items. It provides the masked alignment of 264 loci for the 1095 taxa used to construct the constraint tree used later for the phylotyping analysis. It also provides the single maximum likelihood estimate of the bacterial phylogenetic relationships, as estimated by RAxML-Light (http://bioinformatics.oxfordjournals.org/content/early/2012/05/24/bioinformatics.bts309.abstract). This NEXUS file can be read by the program Mesquite (http://mesquiteproject.org/mesquite/mesquite.html).ConcatenatedAlignmentPositionsThis file provides the positions in the alignment in the file \u2018BacterialGenomesConcatenated.ConstraintTree.nex\u2019 for each of the 264 loci used for the constraint tree phylogenetic analyses.Concatenated_gyrB_lepA_PhylotypingTreeThis NEXUS formatted file provides two items. It provides the masked alignment of gyrB and lepA for the 1095 taxa and cultured isolates, and it provides the single maximum likelihood phylogeny that includes the cultured dung beetle microbiota samples and the 1095 reference bacteria. The RAxML analysis was topologically constrained by the phylogeny resulting from the full analysis of the 1095 bacterial genomes and 264 loci.ConcatenatedAlignmentPositions_gyrB_lepAThis file provides locus positions in the alignment in the file \u2018Concatenated_gyrB_lepA_PhylotypingTree.nex\u2019 for the gyrB and lepA loci used by the phylotyping analysis. This file includes the gyrB and lepA sequences of the cultured microbiota samples from Othnophagus taurus.AnalysisThis text file contains commands to carry out the RaxML analyses of the matrices contained in BacterialGenomesConcatenated.ConstraintTree.nex and Concatenated_gyrB_lepA_PhylotypingTree.nex. Please note that the data matrices of the NEXUS files must be converted to the Phylip format for use with RAxML. The matrices can be exported using the program Mesquite."
+    },
+    "identifier": "doi:10.5061/dryad.266qs",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.266qs",
+            "name": "Dryad Digital Repository",
+            "url": "https://datadryad.org",
+            "versionDate": "2025-06-04"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://zenodo.org/records/4978893",
+            "name": "Zenodo",
+            "url": "https://zenodo.org/",
+            "versionDate": "2025-04-12"
+        }
+    ],
+    "infectiousAgent": [
+        {
+            "alternateName": [
+                "B-23268",
+                "VKM B-509",
+                "CCRC 12825",
+                "HAMBI 1938",
+                "NRRL B-23268",
+                "Lysinibacillus sphaericus (Meyer and Neide 1904) Ahmed et al. 2007",
+                "BCRC 12825",
+                "culture-collection:VKM:B:509",
+                "ATCC 14577",
+                "KCTC 3346",
+                "DSM 28",
+                "LMG:7134",
+                "IAM 13420",
+                "CCM 2120",
+                "NBRC 15095",
+                "CIP 65.30",
+                "CCUG 7428",
+                "LMG 7134",
+                "Bacillus sphaericus Meyer and Neide 1904 (Approved Lists 1980)",
+                "NCIMB 9370",
+                "NCCB 75018",
+                "JCM 2502",
+                "NCTC 10338",
+                "CCRC:12825",
+                "Bacillus sp. G10(2009)"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Lysinibacillus sphaericus",
+            "fromEXTRACT": true,
+            "identifier": "1421",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Lysinibacillus sphaericus",
+            "originalName": "Lysinibacillus sphaericus",
+            "url": "https://www.uniprot.org/taxonomy/1421"
+        },
+        {
+            "alternateName": [
+                "Klebsiella sp. SBP-8",
+                "Enterobacter sp. ES-2",
+                "LMG:2783",
+                "Aerobacter cloacae",
+                "JCM 1232",
+                "Enterobacter cloaceae",
+                "NCDC 279-56",
+                "Enterobacter sp. NCIM 2164",
+                "Enterobacter sp. DIV167",
+                "Enterobacter hormaechei subsp. grimontii",
+                "CIP 60.85",
+                "NCTC 10005",
+                "Enterobacter sp. DIV140",
+                "LMG 2783",
+                "Achromobacter sp. ATCC13047",
+                "CCUG 29301",
+                "HAMBI 96",
+                "CCUG 6323",
+                "DSM 30054",
+                "IFO 13535",
+                "\"Aerobacter cloacae\" (Jordan 1890) Bergey et al. 1923",
+                "Enterobacter sp. DIV160",
+                "Bacillus cloacae",
+                "'Enterobacter hormaechei subsp. grimontii'",
+                "\"Bacillus cloacae\" Jordan 1890",
+                "\"Bacterium cloacae\" (Jordan 1890) Lehmann and Neumann 1896",
+                "Enterobacter sp. PX-A-E.1",
+                "CCUG 28448",
+                "Enterobacter cloacae (Jordan 1890) Hormaeche and Edwards 1960",
+                "\"Cloaca cloacae\" (Jordan 1890) Castellani and Chalmers 1919",
+                "\"Aerobacter cloacae\" (Jordan 1890) Hormaeche and Edwards 1958",
+                "ATCC 13047",
+                "HAMBI 1295",
+                "Cloaca cloacae",
+                "Bacterium cloacae",
+                "NBRC 13535",
+                "Enterobacter sp. JS08.Deg01"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Enterobacter cloacae",
+            "fromEXTRACT": true,
+            "identifier": "550",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Enterobacter cloacae",
+            "originalName": "Enterobacter cloacae",
+            "url": "https://www.uniprot.org/taxonomy/550"
+        },
+        {
+            "alternateName": [
+                "Enterobacteraceae (ex Lapage 1979) Lapage 1982",
+                "gamma-3 proteobacteria",
+                "enterobacteria",
+                "Enterobacteraceae",
+                "Enterobacteriaceae Rahn 1937 (Approved Lists 1980) emend. Adeolu et al. 2016",
+                "Enterobacteriaceae (ex Rahn 1937) Ewing et al. 1980"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Enterobacteriaceae",
+            "fromEXTRACT": true,
+            "identifier": "543",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Enterobacteriaceae",
+            "originalName": "Enterobacteriaceae",
+            "url": "https://www.uniprot.org/taxonomy/543"
+        },
+        {
+            "alternateName": [
+                "beta-1 subgroup",
+                "Comamonadaceae Willems et al. 1991"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Comamonadaceae",
+            "fromEXTRACT": true,
+            "identifier": "80864",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Comamonadaceae",
+            "originalName": "Comamonadaceae",
+            "url": "https://www.uniprot.org/taxonomy/80864"
+        },
+        {
+            "alternateName": [
+                "CIP 105498",
+                "NCIMB 9290",
+                "Cytophaga heparina (Payza and Korn 1956) Christensen 1980",
+                "JCM 7457",
+                "LMG 4024",
+                "LMG:10339",
+                "NCIB 9290",
+                "NRRL B-14731",
+                "NBRC 12017",
+                "CIP 104194",
+                "Flavobacterium heparinum Payza and Korn 1956 (Approved Lists 1980)",
+                "IFO 12017",
+                "Cytophaga heparina",
+                "Pedobacter heparinus (Payza and Korn 1956) Steyn et al. 1998 emend. Zhou et al. 2012",
+                "LMG 10339",
+                "LMG:4024",
+                "DSM 2366",
+                "CCUG 12810",
+                "NCIB:9290",
+                "Sphingobacterium heparinum",
+                "culture-collection:NRRL:B:14731",
+                "Sphingobacterium heparinum (Payza and Korn 1956) Takeuchi and Yokota 1993",
+                "ATCC 13125"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Pedobacter heparinus",
+            "fromEXTRACT": true,
+            "identifier": "984",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Pedobacter heparinus",
+            "originalName": "Pedobacter heparinus",
+            "url": "https://www.uniprot.org/taxonomy/984"
+        },
+        {
+            "alternateName": [
+                "Pusillimonas Stolz et al. 2005 emend. Park et al. 2011"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Pusillimonas",
+            "fromEXTRACT": true,
+            "identifier": "305976",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Pusillimonas",
+            "originalName": "Pusillimonas",
+            "url": "https://www.uniprot.org/taxonomy/305976"
+        },
+        {
+            "alternateName": [
+                "Providencia siamensis",
+                "Providencia thailandensis",
+                "Providencia stuartii (Buttiaux et al. 1954) Ewing 1962 (Approved Lists 1980)",
+                "CCUG 14805",
+                "ATCC 29914",
+                "DSM 4539",
+                "CIP 104687",
+                "NCTC 11800",
+                "KCTC 23281 [[Providencia thailandensis]]",
+                "LMG 3260",
+                "LMG:3260",
+                "Providencia sp. C1112",
+                "strain C1112 [[Providencia thailandensis]]",
+                "NBRC 106720 [[Providencia thailandensis]]",
+                "Providencia thailandensis Khunthongpan et al. 2014",
+                "CDC 2896-68"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Providencia stuartii",
+            "fromEXTRACT": true,
+            "identifier": "588",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Providencia stuartii",
+            "originalName": "Providencia stuartii",
+            "url": "https://www.uniprot.org/taxonomy/588"
+        },
+        {
+            "alternateName": [
+                "Pseudomonadaceae Winslow et al. 1917"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Pseudomonadaceae",
+            "fromEXTRACT": true,
+            "identifier": "135621",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Pseudomonadaceae",
+            "originalName": "Pseudomonadaceae",
+            "url": "https://www.uniprot.org/taxonomy/135621"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "keywords": [
+        "Symbiosis",
+        "Scarabaeidae",
+        "vertical transmission",
+        "dung beetle",
+        "nutrient limited",
+        "holometabolous development",
+        "Onthophagus taurus"
+    ],
+    "license": "https://spdx.org/licenses/CC0-1.0.html",
+    "name": "Brood ball-mediated transmission of microbiome members in the dung beetle, Onthophagus taurus (Coleoptera: Scarabaeidae)",
+    "species": [
+        {
+            "alternateName": [
+                "dung beetles & tumblebugs",
+                "Coprinae"
+            ],
+            "classification": "host",
+            "commonName": "dung beetles & tumblebugs",
+            "displayName": "dung beetles & tumblebugs | Scarabaeinae",
+            "fromEXTRACT": true,
+            "identifier": "41142",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Scarabaeinae",
+            "originalName": "Scarabaeinae",
+            "url": "https://www.uniprot.org/taxonomy/41142"
+        },
+        {
+            "alternateName": [
+                "beetles"
+            ],
+            "classification": "host",
+            "commonName": "beetles",
+            "displayName": "beetles | Coleoptera",
+            "fromEXTRACT": true,
+            "identifier": "7041",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Coleoptera",
+            "originalName": "beetles",
+            "url": "https://www.uniprot.org/taxonomy/7041"
+        },
+        {
+            "alternateName": [
+                "Onthophagus taurus (Schreber, 1759)"
+            ],
+            "classification": "host",
+            "displayName": "Onthophagus taurus",
+            "fromEXTRACT": true,
+            "identifier": "166361",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Onthophagus taurus",
+            "originalName": "Onthophagus taurus",
+            "url": "https://www.uniprot.org/taxonomy/166361"
+        },
+        {
+            "alternateName": [
+                "cattle",
+                "Bovidae sp. Adi Nefas",
+                "domestic cattle",
+                "Bos taurus Linnaeus, 1758",
+                "dairy cow",
+                "ox",
+                "domestic cow",
+                "Bos bovis",
+                "bovine",
+                "Bos primigenius taurus",
+                "Bos Tauurus",
+                "Bovine",
+                "cow"
+            ],
+            "classification": "host",
+            "commonName": "Bovine",
+            "displayName": "Bovine | Bos taurus",
+            "fromEXTRACT": true,
+            "identifier": "9913",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Bos taurus",
+            "originalName": "O. taurus",
+            "url": "https://www.uniprot.org/taxonomy/9913"
+        },
+        {
+            "alternateName": [
+                "true insects",
+                "insects"
+            ],
+            "classification": "host",
+            "commonName": "true insects",
+            "displayName": "true insects | Insecta",
+            "fromEXTRACT": true,
+            "identifier": "50557",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Insecta",
+            "originalName": "insects",
+            "url": "https://www.uniprot.org/taxonomy/50557"
+        }
+    ],
+    "temporalCoverage": {
+        "temporalInterval": {
+            "endDate": "2014-10-08"
+        }
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3301",
+            "inDefinedTermSet": "EDAM",
+            "name": "Microbiology",
+            "url": "http://edamontology.org/topic_3301"
+        },
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3679",
+            "inDefinedTermSet": "EDAM",
+            "name": "Animal study",
+            "url": "http://edamontology.org/topic_3679"
+        },
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3500",
+            "inDefinedTermSet": "EDAM",
+            "name": "Zoology",
+            "url": "http://edamontology.org/topic_3500"
+        }
+    ],
+    "url": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.266qs"
+}

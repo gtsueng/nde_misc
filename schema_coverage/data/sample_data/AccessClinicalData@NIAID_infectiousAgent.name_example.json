@@ -1,0 +1,1110 @@
+{
+    "@type": "Dataset",
+    "_id": "accessclinicaldata_actt",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 15.21696,
+    "abstract": "The initial iteration of ACTT (ACTT-1) evaluated remdesivir vs placebo.  Participants had to have a laboratory-confirmed SARS-CoV-2 and meet one of the following criteria suggestive of lower respiratory tract infection at the time of enrollment: radiographic infiltrates by imaging study, peripheral oxygen saturation (SpO2) \u226494% on room air, or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). ",
+    "additionalType": "Patient-Level Data",
+    "citation": [
+        {
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Beigel JH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tomashek KM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dodd LE"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mehta AK"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Zingman BS"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kalil AC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hohmann E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chu HY"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Luetkemeyer A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kline S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lopez de Castilla D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Finberg RW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dierberg K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tapson V"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hsieh L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Patterson TF"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Paredes R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sweeney DA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Short WR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Touloumi G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lye DC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ohmagari N"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Oh MD"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ruiz-Palacios GM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Benfield T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Fatkenheuer G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kortepeter MG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Atmar RL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Creech CB"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lundgren J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Babiker AG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pett S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Neaton JD"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Burgess TH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bonnett T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Green M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Makowski M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Osinusi A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nayak S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lane HC"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "ACTT-1 Study Group Members"
+                }
+            ],
+            "datePublished": "2020-11-05",
+            "fromPMID": true,
+            "identifier": "PMID:32445440",
+            "journalName": "The New England journal of medicine",
+            "name": "Remdesivir for the Treatment of Covid-19 - Final Report.",
+            "pmid": "32445440",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32445440/"
+        }
+    ],
+    "conditionsOfAccess": "Restricted",
+    "date": "2021-08-05",
+    "dateModified": "2021-08-05",
+    "datePublished": "2020-11-05",
+    "description": "ACTT is a clinical trial platform sponsored by NIAID to evaluate the safety and efficacy of novel therapeutic agents in hospitalized adults diagnosed with COVID-19. The studies are a multicenter trial and will be conducted in up to approximately 100 sites globally. The studies will compare different investigational therapeutic agents to a control arm.  New arms can be introduced according to scientific and public health needs. This adaptive platform is used to rapidly evaluate different therapeutics in a population of those hospitalized with moderate to severe COVID-19. The platform will provide a common framework sharing a similar population, design, endpoints, and safety oversight. New stages with new therapeutics can be introduced.   The initial iteration of ACTT (ACTT-1) evaluated Remdesivir vs placebo.  Participants had to have a laboratory-confirmed SARS-CoV-2 and meet one of the following criteria suggestive of lower respiratory tract infection at the time of enrollment: radiographic infiltrates by imaging study, peripheral oxygen saturation (SpO2) \u226494% on room air, or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).   Remdesivir was administered intravenously as a 200-mg loading dose on day 1, followed by a 100-mg maintenance dose administered daily on days 2 through 10 or until hospital discharge or death. A matching placebo was administered according to the same schedule and in the same volume as the active drug. Eligible patients were randomly assigned in a 1:1 ratio to receive either remdesivir or placebo. There were 60 trial sites and 13 subsites: United States (45 sites), Denmark (8), the United Kingdom (5), Greece (4), Germany (3), Korea (2), Mexico (2), Spain (2), Japan (1), and Singapore (1).   Participants were assessed daily during their hospitalization, from day 1 through day 29. The participant\u2019s clinical status on an eight-category ordinal scale, National Early Warning Score (NEWS), and other clinical data was recorded each day. All serious adverse events and grade 3 or 4 adverse events that represented an increase in severity from day 1 and any grade 2 or higher suspected drug-related hypersensitivity reactions were recorded. Upon discharge, participants had intermittent study visits through Day 29.  The final follow-up for all participants was Day 29.",
+    "funding": [
+        {
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "National Institute of Allergy & Infectious Diseases",
+                    "NIAID",
+                    "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                ],
+                "identifier": "https://ror.org/043z4tv69",
+                "name": "National Institute of Allergy and Infectious Diseases",
+                "parentOrganization": "National Institutes of Health"
+            }
+        },
+        {
+            "endDate": "2020-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148576-01S2",
+            "name": "Vaccine and Treatment Evaluation Units",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S2",
+                "icCode": "AI",
+                "serialNum": "148576",
+                "suffixCode": "S2",
+                "supportYear": "01"
+            },
+            "startDate": "2020-07-13",
+            "url": "https://reporter.nih.gov/project-details/10199576"
+        },
+        {
+            "endDate": "2021-06-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "VA Biomedical Laboratory Research and Development",
+                        "BLR&D, ORD",
+                        "Biomedical Laboratory Research and Development Service of the VA Office of Research and Development"
+                    ],
+                    "identifier": "https://ror.org/05rsv9s98",
+                    "name": "Biomedical Laboratory Research and Development, VA Office of Research and Development",
+                    "parentOrganization": "Government of the United States of America"
+                }
+            ],
+            "identifier": "1I01BX003714-01A1",
+            "name": "Determine if a candidate dengue vaccine in advanced trials induces antigen-specific cellular immunity that mimics immunity after multiple infections and controls antibody-enhanced viral replication",
+            "projectNumSplit": {
+                "activityCode": "I01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "BX",
+                "serialNum": "003714",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2017-07-01",
+            "url": "https://reporter.nih.gov/project-details/9347142"
+        },
+        {
+            "endDate": "2023-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148573-01S1",
+            "name": "University of Washington Vaccine and Treatment Evaluation Unit",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S1",
+                "icCode": "AI",
+                "serialNum": "148573",
+                "suffixCode": "S1",
+                "supportYear": "01"
+            },
+            "startDate": "2020-03-12",
+            "url": "https://reporter.nih.gov/project-details/10120765"
+        },
+        {
+            "endDate": "2022-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148685-01S2",
+            "name": "COVID-19 Supplement #3 Moderna Trial",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S2",
+                "icCode": "AI",
+                "serialNum": "148685",
+                "suffixCode": "S2",
+                "supportYear": "01"
+            },
+            "startDate": "2020-07-22",
+            "url": "https://reporter.nih.gov/project-details/10203168"
+        },
+        {
+            "endDate": "2022-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148452-01S2",
+            "name": "Vanderbilt Vaccine and Treatment Evaluation Unit",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S2",
+                "icCode": "AI",
+                "serialNum": "148452",
+                "suffixCode": "S2",
+                "supportYear": "01"
+            },
+            "startDate": "2020-07-14",
+            "url": "https://reporter.nih.gov/project-details/10195286"
+        },
+        {
+            "endDate": "2022-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148685-01S2",
+            "name": "COVID-19 Supplement #3 Moderna Trial",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S2",
+                "icCode": "AI",
+                "serialNum": "148685",
+                "suffixCode": "S2",
+                "supportYear": "01"
+            },
+            "startDate": "2020-07-22",
+            "url": "https://reporter.nih.gov/project-details/10203168"
+        },
+        {
+            "endDate": "2026-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1UM1AI148684-01",
+            "name": "Leadership Group for the Infectious Diseases Clinical Research Consortium (IDCRCLG)",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "148684",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2019-12-05",
+            "url": "https://reporter.nih.gov/project-details/9874348"
+        },
+        {
+            "endDate": "2023-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148573-01S1",
+            "name": "University of Washington Vaccine and Treatment Evaluation Unit",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S1",
+                "icCode": "AI",
+                "serialNum": "148573",
+                "suffixCode": "S1",
+                "supportYear": "01"
+            },
+            "startDate": "2020-03-12",
+            "url": "https://reporter.nih.gov/project-details/10120765"
+        },
+        {
+            "endDate": "2026-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1UM1AI148684-01",
+            "name": "Leadership Group for the Infectious Diseases Clinical Research Consortium (IDCRCLG)",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "148684",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2019-12-05",
+            "url": "https://reporter.nih.gov/project-details/9874348"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "211153/Z/18/Z"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NCI NIH HHS"
+            },
+            "identifier": "HHSN261201500003I"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MC_UU_12023/22"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "United States"
+            },
+            "identifier": "HHSN261200800001E"
+        },
+        {
+            "endDate": "2022-07-31",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R38AI140299-01",
+            "name": "Emory R38 Research Training Program",
+            "projectNumSplit": {
+                "activityCode": "R38",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "140299",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2018-08-01",
+            "url": "https://reporter.nih.gov/project-details/9594911"
+        },
+        {
+            "endDate": "2020-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148689-01S2",
+            "name": "Vaccine Treatment Evaluation Units: Infectious Diseases Clinical ResearchConsortium",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S2",
+                "icCode": "AI",
+                "serialNum": "148689",
+                "suffixCode": "S2",
+                "supportYear": "01"
+            },
+            "startDate": "2020-07-13",
+            "url": "https://reporter.nih.gov/project-details/10199278"
+        },
+        {
+            "endDate": "2020-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148450-01S2",
+            "name": "CoVPN - COVID Countermeasures",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S2",
+                "icCode": "AI",
+                "serialNum": "148450",
+                "suffixCode": "S2",
+                "supportYear": "01"
+            },
+            "startDate": "2020-08-24",
+            "url": "https://reporter.nih.gov/project-details/10226711"
+        },
+        {
+            "endDate": "2022-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148575-01S2",
+            "name": "Vaccine and Treatment Evaluation Units (VTEU)",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S2",
+                "icCode": "AI",
+                "serialNum": "148575",
+                "suffixCode": "S2",
+                "supportYear": "01"
+            },
+            "startDate": "2020-07-13",
+            "url": "https://reporter.nih.gov/project-details/10200480"
+        },
+        {
+            "endDate": "2020-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148576-01S2",
+            "name": "Vaccine and Treatment Evaluation Units",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S2",
+                "icCode": "AI",
+                "serialNum": "148576",
+                "suffixCode": "S2",
+                "supportYear": "01"
+            },
+            "startDate": "2020-07-13",
+            "url": "https://reporter.nih.gov/project-details/10199576"
+        },
+        {
+            "endDate": "2022-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148575-01S2",
+            "name": "Vaccine and Treatment Evaluation Units (VTEU)",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S2",
+                "icCode": "AI",
+                "serialNum": "148575",
+                "suffixCode": "S2",
+                "supportYear": "01"
+            },
+            "startDate": "2020-07-13",
+            "url": "https://reporter.nih.gov/project-details/10200480"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NCI NIH HHS"
+            },
+            "identifier": "HHSN261201500003C"
+        },
+        {
+            "endDate": "2020-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148689-01S2",
+            "name": "Vaccine Treatment Evaluation Units: Infectious Diseases Clinical ResearchConsortium",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S2",
+                "icCode": "AI",
+                "serialNum": "148689",
+                "suffixCode": "S2",
+                "supportYear": "01"
+            },
+            "startDate": "2020-07-13",
+            "url": "https://reporter.nih.gov/project-details/10199278"
+        },
+        {
+            "endDate": "2022-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148452-01S2",
+            "name": "Vanderbilt Vaccine and Treatment Evaluation Unit",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S2",
+                "icCode": "AI",
+                "serialNum": "148452",
+                "suffixCode": "S2",
+                "supportYear": "01"
+            },
+            "startDate": "2020-07-14",
+            "url": "https://reporter.nih.gov/project-details/10195286"
+        },
+        {
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "United States"
+            },
+            "identifier": "HHSN261201500003I"
+        },
+        {
+            "endDate": "2020-11-30",
+            "funder": [
+                {
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148450-01S2",
+            "name": "CoVPN - COVID Countermeasures",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S2",
+                "icCode": "AI",
+                "serialNum": "148450",
+                "suffixCode": "S2",
+                "supportYear": "01"
+            },
+            "startDate": "2020-08-24",
+            "url": "https://reporter.nih.gov/project-details/10226711"
+        }
+    ],
+    "hasPart": [
+        {
+            "@type": "CreativeWork",
+            "encodingFormat": "application/pdf",
+            "name": "ACTT1_Data_Dictionary_v2.0.pdf",
+            "url": "https://accessclinicaldata.niaid.nih.gov/api/files/ACTT/ACTT1_Data_Dictionary_v2.0.pdf"
+        },
+        {
+            "@type": "CreativeWork",
+            "encodingFormat": "application/pdf",
+            "name": "ACTT-1 Data Use Limitations.pdf",
+            "url": "https://accessclinicaldata.niaid.nih.gov/api/files/ACTT/ACTT-1 Data Use Limitations.pdf"
+        }
+    ],
+    "healthCondition": [
+        {
+            "alternateName": [
+                "2019 novel coronavirus infection",
+                "2019-nCoV infection",
+                "coronavirus disease 2019",
+                "severe acute respiratory syndrome coronavirus 2 infectious disease"
+            ],
+            "fromPMID": true,
+            "identifier": "0100096",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "COVID-19",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0100096"
+        },
+        {
+            "alternateName": [
+                "death",
+                "death domain",
+                "death table"
+            ],
+            "fromPMID": true,
+            "identifier": "C154635",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Death Domain",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C154635"
+        },
+        {
+            "alternateName": [
+                "allergy of exposure to drug",
+                "exposure to drug allergic disease"
+            ],
+            "fromPMID": true,
+            "identifier": "0000775",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "drug allergy",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0000775"
+        },
+        {
+            "alternateName": [
+                "communicable disease",
+                "infectious diseases and manifestations",
+                "infection",
+                "infectious disorder",
+                "transmissible disease",
+                "infectious disease",
+                "infectious"
+            ],
+            "fromPMID": true,
+            "identifier": "0005550",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "infectious disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005550"
+        },
+        {
+            "alternateName": [
+                "Upper Respiratory Tract Inflammation",
+                "Upper respiratory infection",
+                "Upper Respiratory Tract Infection",
+                "Upper Respiratory Infection",
+                "Respiratory Tract Infection",
+                "URI",
+                "Cold"
+            ],
+            "fromPMID": true,
+            "identifier": "C35650",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Upper Respiratory Tract Infection",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C35650"
+        }
+    ],
+    "identifier": [
+        "ACTT",
+        "NCT04280705"
+    ],
+    "includedInDataCatalog": {
+        "archivedAt": "https://accessclinicaldata.niaid.nih.gov/study-viewer/clinical_trials/ACTT",
+        "name": "AccessClinicalData@NIAID"
+    },
+    "infectiousAgent": [
+        {
+            "alternateName": [
+                "2019-nCoV",
+                "Wuhan coronavirus",
+                "Human coronavirus 2019",
+                "COVID-19 virus",
+                "SARS-2",
+                "HCoV-19",
+                "SARS-CoV2",
+                "Wuhan seafood market pneumonia virus",
+                "COVID-19",
+                "COVID19"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "2019-nCoV",
+            "displayName": "2019-nCoV | Severe acute respiratory syndrome coronavirus 2",
+            "fromPMID": true,
+            "identifier": "2697049",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Severe acute respiratory syndrome coronavirus 2",
+            "url": "https://www.uniprot.org/taxonomy/2697049"
+        },
+        {
+            "alternateName": [
+                "SARS-CoV",
+                "Human coronavirus (strain SARS)",
+                "Severe acute respiratory syndrome-related coronavirus",
+                "SARSr-CoV",
+                "HCoV-SARS",
+                "SARS-related coronavirus",
+                "SARS-like coronavirus",
+                "SARSrCoV"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "SARS-CoV",
+            "displayName": "SARS-CoV | Severe acute respiratory syndrome coronavirus",
+            "fromPMID": true,
+            "identifier": "694009",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Severe acute respiratory syndrome coronavirus",
+            "url": "https://www.uniprot.org/taxonomy/694009"
+        }
+    ],
+    "isPartOf": [
+        {
+            "identifier": "ACTT",
+            "name": "Adaptive COVID-19 Treatment Trial",
+            "url": "https://www.nih.gov/news-events/news-releases/fourth-iteration-covid-19-treatment-trial-underway"
+        }
+    ],
+    "isRelatedTo": [
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "ACTT"
+            },
+            "identifier": "accessclinicaldata_NCT04401579",
+            "includedInDataCatalog": {
+                "name": "AccessClinicalData@NIAID"
+            },
+            "name": "Adaptive COVID-19 Treatment Trial 2 (ACTT-2) - Dataset update released October 2021",
+            "relationship": "Different iteration of the same study, the Adaptive COVID-19 Treatment Trial"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "ACTT"
+            },
+            "identifier": "accessclinicaldata_NCT04492475",
+            "includedInDataCatalog": {
+                "name": "AccessClinicalData@NIAID"
+            },
+            "name": "Adaptive COVID-19 Treatment Trial 3 (ACTT-3) - New dataset released October 2021",
+            "relationship": "Different iteration of the same study, the Adaptive COVID-19 Treatment Trial"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "ACTT"
+            },
+            "identifier": "accessclinicaldata_NCT04640168",
+            "includedInDataCatalog": {
+                "name": "AccessClinicalData@NIAID"
+            },
+            "name": "Adaptive COVID-19 Treatment Trial 4 (ACTT-4) - New dataset released May 2022",
+            "relationship": "Different iteration of the same study, the Adaptive COVID-19 Treatment Trial"
+        }
+    ],
+    "mainEntityOfPage": "https://clinicaltrials.gov/ct2/show/NCT04280705",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "fromNCT": true,
+            "identifier": "C82639",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Parallel Study",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C82639"
+        },
+        {
+            "@type": "DefinedTerm",
+            "fromNCT": true,
+            "identifier": "C15417",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Randomized Clinical Trial",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15417"
+        },
+        {
+            "@type": "DefinedTerm",
+            "fromNCT": true,
+            "identifier": "C15228",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Double Blind Study",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15228"
+        }
+    ],
+    "name": "(Updated August 2021) Adaptive COVID-19 Treatment Trial (ACTT-1)",
+    "nctid": "NCT04280705",
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "abstract": "The HIV Prevention Trials Network (HPTN) conducts clinical trials to evaluate the safety and efficacy of non-vaccine HIV prevention strategies. Research areas include pre-exposure prophylaxis, behavioral interventions, and novel biomedical approaches to reduce HIV transmission.",
+            "alternateName": [
+                "HPTN",
+                "HIV Prevention Trials Network"
+            ],
+            "correctionApproved": true,
+            "description": "The HIV Prevention Trials Network (HPTN) develops and tests the safety and efficacy of primarily non-vaccine interventions designed to prevent the transmission of HIV. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/hiv-prevention-trials-network",
+            "name": "NIAID HPTN Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.hptn.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The HIV Vaccine Trials Network (HVTN) is the world\u2019s largest publicly funded collaboration for evaluating HIV vaccines. In addition to advancing HIV vaccine research, the network contributes to studies on tuberculosis, COVID-19, and immunology.",
+            "alternateName": [
+                "HVTN",
+                "HIV Vaccine Trials Network"
+            ],
+            "correctionApproved": true,
+            "description": "The HIV Vaccine Trials Network (HVTN) is the world\u2019s largest publicly funded international collaboration facilitating the evaluation of vaccines to prevent HIV/AIDS. The HVTN helps advance the fields of vaccinology, social and behavioral sciences, statistics, and immunology, as well as tuberculosis and COVID-19 vaccines. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/hiv-vaccine-trials-network",
+            "name": "NIAID HVTN Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "http://www.hvtn.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The Office of Cyber Infrastructure and Computational Biology (OCICB) manages technologies supporting NIAID biomedical research programs.",
+            "alternateName": [
+                "Office of Cyber Infrastructure and Computational Biology",
+                "OCICB"
+            ],
+            "correctionApproved": false,
+            "description": "The Office of Cyber Infrastructure and Computational Biology (OCICB) provides a spectrum of management, technologies development, applications/software engineering, bioinformatics support, and professional development. OCICB works closely with NIAID intramural, extramural, and administrative staff to provide technical support, liaison, coordination, and consultation on a wide variety of ventures. These projects and initiatives are aimed at ensuring ever-increasing interchange and dissemination of scientific information within the federal government and among the worldwide scientific network of biomedical researchers.  For more information, visit the NIAID office page: https://www.niaid.nih.gov/about/cyber-infrastructure-computational-biology-contacts",
+            "name": "NIAID OCICB",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.niaid.nih.gov/about/daids"
+        }
+    ],
+    "species": [
+        {
+            "alternateName": [
+                "Human",
+                "Homo sapian",
+                "Homo spaiens",
+                "Homo spiens",
+                "human",
+                "Homo sapien",
+                "Homo sapients",
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapians",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sampiens",
+                "Homo sapiense",
+                "Homo sapiens Linnaeus, 1758"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromPMID": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3379",
+            "inDefinedTermSet": "EDAM",
+            "name": "Preclinical and clinical studies",
+            "url": "http://edamontology.org/topic_3379"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3305",
+            "inDefinedTermSet": "EDAM",
+            "name": "Public health and epidemiology",
+            "url": "http://edamontology.org/topic_3305"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        }
+    ],
+    "url": "https://accessclinicaldata.niaid.nih.gov/study-viewer/clinical_trials/ACTT",
+    "usageInfo": {
+        "url": "https://accessclinicaldata.niaid.nih.gov/api/files/NIAIDDUAAccessclinicaldata@NIAID.pdf"
+    }
+}

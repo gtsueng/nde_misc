@@ -1,0 +1,112 @@
+{
+    "@type": "Dataset",
+    "_id": "ndex_11756a8a-84b4-11ec-b3be-0ac135e8bacf",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 8.719278,
+    "author": {
+        "name": "klaskaris"
+    },
+    "conditionsOfAccess": "Open",
+    "date": "2025-04-01",
+    "dateCreated": "2022-02-03T05:42:26.354000",
+    "dateModified": "2025-04-01T21:52:49.509000",
+    "description": "This network was assembled automatically by INDRA (http://indra.bio) by processing all available biomedical literature with multiple machine reading systems, and integrating curated pathway databases. The network represents mechanistic interactions between genes/proteins that are associated with this GO process.",
+    "distribution": {
+        "contentSize": 16642
+    },
+    "identifier": "11756a8a-84b4-11ec-b3be-0ac135e8bacf",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ndexbio.org/viewer/networks/11756a8a-84b4-11ec-b3be-0ac135e8bacf",
+        "name": "NDEx",
+        "url": "https://www.ndexbio.org/",
+        "versionDate": "2025-07-05"
+    },
+    "keywords": [
+        "pathway"
+    ],
+    "name": "GO:0042490 (mechanoreceptor differentiation)",
+    "species": [
+        {
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "human",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": [
+        {
+            "identifier": "topic_0602",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular interactions, pathways and networks",
+            "url": "http://edamontology.org/topic_0602"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3070",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biology",
+            "url": "http://edamontology.org/topic_3070"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2229",
+            "inDefinedTermSet": "EDAM",
+            "name": "Cell biology",
+            "url": "http://edamontology.org/topic_2229"
+        }
+    ],
+    "url": "https://www.ndexbio.org/viewer/networks/11756a8a-84b4-11ec-b3be-0ac135e8bacf"
+}

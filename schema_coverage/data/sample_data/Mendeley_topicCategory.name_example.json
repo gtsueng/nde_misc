@@ -1,0 +1,79 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_vyc2hzvjws",
+    "_score": 6.3178887,
+    "author": [
+        {
+            "familyName": "Tefft",
+            "givenName": "Kristy",
+            "name": "Kristy Tefft"
+        },
+        {
+            "familyName": "Shah",
+            "givenName": "Asghar",
+            "name": "Asghar Shah"
+        },
+        {
+            "familyName": "Lipner",
+            "givenName": "Shari",
+            "name": "Shari Lipner"
+        }
+    ],
+    "date": "2022-03-25",
+    "dateModified": "2022-03-25",
+    "datePublished": "2022-03-25",
+    "description": "Supplemental Table",
+    "doi": "10.17632/vyc2hzvjws.1",
+    "identifier": "vyc2hzvjws",
+    "includedInDataCatalog": {
+        "dataset": "https://data.mendeley.com/datasets/vyc2hzvjws",
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2025-02-09T03:22:24.523351"
+    },
+    "keywords": [
+        "Dermatology",
+        "Peer Review"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Supplemental Table: Correlations between Characteristics of Preprint Articles and Corresponding Published Articles",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "topicCategory": [
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        },
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0219",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data submission, annotation, and curation",
+            "url": "http://edamontology.org/topic_0219"
+        },
+        {
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/vyc2hzvjws"
+}

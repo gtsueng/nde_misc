@@ -1,0 +1,67 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "ds_4c2903c205",
+    "_score": 9.970468,
+    "author": [
+        {
+            "affiliation": {
+                "name": "Harvard University & BROAD Institute, Cambridge, MA, USA"
+            },
+            "name": "Daniel E. Neafsey"
+        },
+        {
+            "affiliation": {
+                "name": "The Broad Institute of MIT and Harvard"
+            },
+            "name": "The Broad Institute of MIT and Harvard"
+        },
+        {
+            "affiliation": {
+                "name": "University of South Florida"
+            },
+            "name": "John Adams"
+        }
+    ],
+    "conditionsOfAccess": "Closed",
+    "creditText": "The Broad Institute of MIT and Harvard",
+    "date": "2014-01-31",
+    "dateModified": "2014-01-31",
+    "datePublished": "2014-01-31",
+    "description": "Sequence for Plasmodium vinckei petteri strain CR",
+    "distribution": [
+        {
+            "name": "Link to the NCBI Bioproject for this genome",
+            "url": "https://www.ncbi.nlm.nih.gov/bioproject/163125"
+        }
+    ],
+    "identifier": "DS_4c2903c205",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://veupathdb.org/veupathdb/app/record/dataset/DS_4c2903c205",
+            "name": "VEuPathDB",
+            "url": "https://veupathdb.org/veupathdb/app",
+            "versionDate": "2025-08-23"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://plasmodb.org/plasmo/app/record/dataset/DS_4c2903c205",
+            "name": "PlasmoDB",
+            "url": "https://plasmodb.org/plasmo/app",
+            "versionDate": "2025-08-23"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "measurementTechnique": {
+        "name": "genome"
+    },
+    "name": "<i>Plasmodium vinckei</i> petteri strain CR Genome Sequence and Annotation",
+    "sdPublisher": {
+        "name": "PlasmoDB"
+    },
+    "url": "https://veupathdb.org/veupathdb/app/record/dataset/DS_4c2903c205",
+    "variableMeasured": {
+        "name": "ncRNA gene"
+    }
+}

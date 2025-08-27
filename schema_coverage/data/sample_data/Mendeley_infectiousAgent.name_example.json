@@ -1,0 +1,62 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_8zf4gdynjx",
+    "_score": 6.267183,
+    "author": [
+        {
+            "familyName": "Requena",
+            "givenName": "Jose M.",
+            "name": "Jose M. Requena"
+        }
+    ],
+    "date": "2024-02-12",
+    "dateModified": "2024-02-10",
+    "datePublished": "2024-02-12",
+    "description": "Got1/Sft2-like protein; Leishmania donovani (HU3 strain)",
+    "doi": "10.17632/8zf4gdynjx.1",
+    "funding": [
+        {
+            "funder": {
+                "identifier": "https://ror.org/003x0zc53",
+                "name": "Agencia Estatal de Investigaci\u00f3n"
+            },
+            "identifier": "PID2020-117916RB-I00"
+        }
+    ],
+    "identifier": "8zf4gdynjx",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://data.mendeley.com/datasets/8zf4gdynjx",
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2025-08-24T02:49:33.099842"
+    },
+    "infectiousAgent": [
+        {
+            "alternateName": [
+                "Leishmania (Leishmania) donovani",
+                "Leishmania donovani Laveran et Mesnil, 1903"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Leishmania donovani",
+            "fromEXTRACT": true,
+            "identifier": "5661",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Leishmania donovani",
+            "originalName": "Leishmania donovani",
+            "url": "https://www.uniprot.org/taxonomy/5661"
+        }
+    ],
+    "keywords": [
+        "Gene",
+        "Protein",
+        "Leishmania"
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "LDHU3_03.1010",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "url": "https://data.mendeley.com/datasets/8zf4gdynjx"
+}

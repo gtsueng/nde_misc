@@ -1,0 +1,87 @@
+{
+    "@type": "Dataset",
+    "_id": "mendeley_3rnxc7x9ff",
+    "_score": 6.267183,
+    "author": [
+        {
+            "familyName": "Liu",
+            "givenName": "Dianbing",
+            "name": "Dianbing Liu"
+        }
+    ],
+    "citation": [
+        {
+            "doi": "10.1016/j.jseaes.2019.103884",
+            "name": "Correlation between \u03b418O and \u03b413C isotopes of speleothems from Tian\u2019e Cave, central China: Insights into the phase relationship between Asian summer and winter monsoons"
+        }
+    ],
+    "date": "2019-06-12",
+    "dateModified": "2018-12-25",
+    "datePublished": "2019-06-12",
+    "description": "Oxygen isotope records from three stalagmites from Tian'e Cave, central China",
+    "doi": "10.17632/3rnxc7x9ff.1",
+    "identifier": "3rnxc7x9ff",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://data.mendeley.com/datasets/3rnxc7x9ff",
+        "name": "Mendeley",
+        "url": "https://data.mendeley.com/",
+        "versionDate": "2025-08-24T02:49:38.570398"
+    },
+    "keywords": [
+        "Paleoclimate"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/3.0",
+    "name": "Data for: Correlation of speleothem \u03b418O and \u03b413C variability from Tian'e Cave, central China: Insights into the phase relationship between Asian summer and winter monsoons",
+    "sdPublisher": {
+        "name": "Mendeley Data"
+    },
+    "species": [
+        {
+            "alternateName": [
+                "Panthera leo spelaea",
+                "Eurasian cave lion",
+                "Panthera spelaea Goldfuss, 1810",
+                "Panthera leo spelaea Goldfuss, 1810",
+                "cave lion"
+            ],
+            "classification": "host",
+            "commonName": "Eurasian cave lion",
+            "displayName": "Eurasian cave lion | Panthera spelaea",
+            "fromEXTRACT": true,
+            "identifier": "2770979",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Panthera spelaea",
+            "originalName": "e Cave",
+            "url": "https://www.uniprot.org/taxonomy/2770979"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3070",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biology",
+            "url": "http://edamontology.org/topic_3070"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3855",
+            "inDefinedTermSet": "EDAM",
+            "name": "Environmental sciences",
+            "url": "http://edamontology.org/topic_3855"
+        }
+    ],
+    "url": "https://data.mendeley.com/datasets/3rnxc7x9ff"
+}

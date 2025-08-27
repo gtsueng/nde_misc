@@ -1,0 +1,65 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "msv000080122",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 8.23748,
+    "author": [
+        {
+            "name": "Shao-En Ong, Ph.D., University of Washington"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "date": "2016-09-06",
+    "dateCreated": "2016-09-06",
+    "description": "ATP-competitive protein kinase inhibitors are important research tools and therapeutic agents. Because there are >500 human kinases, which contain highly conserved active sites, the development of selective inhibitors is extremely challenging. Methods to rapidly and efficiently profile kinase inhibitor targets in cell lysates are urgently needed to discover selective compounds and to elucidate the mechanisms of action for polypharmacological inhibitors. Here, we describe a new and optimized protocol for chemoproteomic profiling of ATP-competitive kinase inhibitors using kinobeads. We developed a gel-free in situ digestion protocol coupled to nanoflow liquid chromatography-mass spectrometry to profile ~200 kinases in single analytical runs using as little as 5 ?l of kinobeads and 300 ?g of protein. With this protocol, we obtained broad coverage of the kinome, monitoring the relative expression levels of 312 kinases in a diverse panel of 11 cancer cell lines. Further, we profiled a set of pyrrolopyrimidine- and pyrazolopyrimidine-based kinase inhibitors in competition-binding experiments with SILAC and label-free quantification, leading to the discovery of a novel selective and potent inhibitor of protein kinase D (PKD) 1, 2 and 3. Our protocol is useful for rapid and sensitive profiling of kinase expression levels and ATP-competitive kinase inhibitor selectivity in native proteomes.",
+    "distribution": {
+        "contentUrl": "ftp://massive.ucsd.edu/v01/MSV000080122"
+    },
+    "identifier": "MSV000080122",
+    "includedInDataCatalog": [
+        {
+            "@type": "Dataset",
+            "dataset": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=b69664cdc4a04a629b5ded07fd0784a9",
+            "name": "MassIVE",
+            "url": "https://massive.ucsd.edu/ProteoSAFe/static/massive.jsp",
+            "versionDate": "2025-02-09"
+        },
+        {
+            "@type": "DataCatalog",
+            "name": "Omics Discovery Index (OmicsDI)",
+            "url": "https://www.omicsdi.org/",
+            "versionDate": "2024-03-26"
+        }
+    ],
+    "keywords": [
+        "Kinobeads",
+        "SILAC",
+        "kinase inhibitor",
+        "protein kinase D",
+        "target identification",
+        "proteomics"
+    ],
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "measurementTechnique": [
+        {
+            "name": "LTQ Orbitrap Elite"
+        },
+        {
+            "identifier": "MMO_0000534",
+            "name": "Mass Spectrometry",
+            "url": "https://ontobee.org/ontology/MMO?iri=http://purl.obolibrary.org/obo/MMO_0000534"
+        }
+    ],
+    "name": "Kinobead and single-shot LC-MS profiling identifies selective PKD inhibitors",
+    "sameAs": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=b69664cdc4a04a629b5ded07fd0784a9",
+    "sdPublisher": {
+        "name": "MassIVE"
+    },
+    "url": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=b69664cdc4a04a629b5ded07fd0784a9",
+    "variableMeasured": {
+        "name": "Proteomics"
+    }
+}

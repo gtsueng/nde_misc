@@ -1,0 +1,138 @@
+{
+    "@type": "Dataset",
+    "_id": "figshare_12254837",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 3.4469247,
+    "author": [
+        {
+            "name": "Ding, Wei"
+        },
+        {
+            "name": "Chai, Jinkui"
+        },
+        {
+            "name": "Wang, Chen"
+        },
+        {
+            "name": "Wu, Junliang"
+        },
+        {
+            "name": "Yoshikai, Naohiko"
+        }
+    ],
+    "date": "2020-05-04",
+    "dateModified": "2020-05-04",
+    "datePublished": "2020-05-04",
+    "description": "A method\nfor the regio- and stereoselective synthesis of highly\nsubstituted vinyl ethers via trans-1,2-difunctionalization\nof alkynes with a cyclic \u03bb3-iodane electrophile (benziodoxole\ntriflate) and alcohols is reported. The reaction tolerates a variety\nof internal and terminal alkynes as well as various alcohols, affording\n\u03b2-\u03bb3-iodanyl vinyl ethers in good yields with\nhigh regio- and stereoselectivities. The benziodoxole moiety of the\nproducts can be used as a versatile linchpin for the synthesis of\nstructurally diverse vinyl ethers that are difficult to access by\nother means.",
+    "doi": "10.1021/jacs.0c04140.s002",
+    "identifier": "12254837",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://figshare.com/articles/dataset/Stereoselective_Access_to_Highly_Substituted_Vinyl_Ethers_via_i_trans_i_-Difunctionalization_of_Alkynes_with_Alcohols_and_Iodine_III_Electrophile/12254837",
+        "name": "Figshare",
+        "url": "https://figshare.com",
+        "versionDate": "2025-08-10"
+    },
+    "keywords": [
+        "Sociology",
+        "cyclic \u03bb 3",
+        "vinyl ethers",
+        "iodanyl vinyl ethers",
+        "regio",
+        "Substituted Vinyl Ethers",
+        "benziodoxole",
+        "tran",
+        "alkyne"
+    ],
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "name": "Stereoselective\nAccess to Highly Substituted Vinyl\nEthers via <i>trans</i>-Difunctionalization of Alkynes with\nAlcohols and Iodine(III) Electrophile",
+    "sdPublisher": {
+        "name": "American Chemical Society/Journal of the American Chemical Society"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
+            "identifier": "EDAM.TOPIC:3292",
+            "isCurated": true,
+            "name": "Biochemistry"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
+            "identifier": "EDAM.TOPIC:3303",
+            "isCurated": true,
+            "name": "Medicine"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
+            "identifier": "EDAM.TOPIC:3053",
+            "isCurated": true,
+            "name": "Genetics"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
+            "identifier": "EDAM.TOPIC:3297",
+            "isCurated": true,
+            "name": "Biotechnology"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
+            "identifier": "EDAM.TOPIC:3299",
+            "isCurated": true,
+            "name": "Evolutionary biology"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
+            "identifier": "EDAM.TOPIC:0610",
+            "isCurated": true,
+            "name": "Ecology"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
+            "identifier": "EDAM.TOPIC:3344",
+            "isCurated": true,
+            "name": "Psychiatry"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
+            "identifier": "EDAM.TOPIC:3324",
+            "isCurated": true,
+            "name": "Infectious disease"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
+            "identifier": "EDAM.TOPIC:3895",
+            "isCurated": true,
+            "name": "ignore"
+        }
+    ],
+    "url": "https://figshare.com/articles/dataset/Stereoselective_Access_to_Highly_Substituted_Vinyl_Ethers_via_i_trans_i_-Difunctionalization_of_Alkynes_with_Alcohols_and_Iodine_III_Electrophile/12254837"
+}
