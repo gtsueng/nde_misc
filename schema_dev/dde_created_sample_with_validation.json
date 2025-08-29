@@ -141,6 +141,43 @@
                 "$ref": "#/definitions/definedterm"
               }
             ]
+          },
+          "species": {
+            "description": "Species / host organism from which the dataset has been collected.",
+            "abstract": "species/host organism",
+            "anyOf": [
+              {
+                "description": "collection of vocabulary terms defined in ontologies",
+                "strict": false,
+                "type": "string",
+                "vocabulary": {
+                  "children_of": ["http://purl.obolibrary.org/obo/NCBITaxon_131567", "http://purl.obolibrary.org/obo/NCBITaxon_10239"],
+                  "ontology": ["ncbitaxon"]
+                }
+              },
+              {
+                "items": {
+                  "description": "collection of vocabulary terms defined in ontologies",
+                  "strict": false,
+                  "type": "string",
+                  "vocabulary": {
+                    "children_of": ["http://purl.obolibrary.org/obo/NCBITaxon_131567", "http://purl.obolibrary.org/obo/NCBITaxon_10239"],
+                    "ontology": ["ncbitaxon"]
+                  }
+                },
+                "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              }
+            ],
+            "owl:cardinality": "many"
           }
         },
         "required": [
@@ -152,7 +189,71 @@
         ],
         "optional": [
           "associatedPhenotype"
-        ]
+        ],
+        "definitions": {
+          "definedterm": {
+            "@type": "DefinedTerm",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "The name of the item.",
+                "owl:cardinality": "one",
+                "type": "string"
+              },
+              "identifier": {
+                "description": "The identifier property represents any kind of identifier for any kind of Thing, such as ISBNs, GTIN codes, UUIDs etc. Schema.org provides dedicated properties for representing many of these, either as textual strings or as URL (URI) links. See background notes for more details.",
+                "owl:cardinality": "one",
+                "type": "string"           
+              },
+              "url": {
+                "description": "URL of the item.",
+                "owl:cardinality": "one",
+                "type": "string",
+                "format": "uri"
+              },
+              "curatedBy": {
+                "description": "The person, organization, or catalog that curated this DefinedTerm for the metadata property",
+                "anyOf": [
+                  {
+                    "$ref": "#/definitions/person"
+                  },
+                  {
+                    "$ref": "#/definitions/organization"
+                  },
+                  {
+                    "$ref": "#/definitions/catalog"
+                  },
+                  {
+                    "$ref": "#/definitions/researchproject"
+                  },
+                  {
+                    "$ref": "#/definitions/softwareapplication"
+                  }
+                ]
+              },
+              "termCode": {
+                "description": "A code that identifies this DefinedTerm within a DefinedTermSet.",
+                "type": "string"
+              },
+              "description": {
+                "description": "A description of the item.",
+                "type": "string"
+              },
+              "inDefinedTermSet": {
+                "description": "A DefinedTermSet that contains this term.",
+                "type": "string"
+              },
+              "originalName": {
+                "description": "The original name of the item, before any metadata standardization/normalization",
+                "type": "string"
+              },
+              "isCurated": {
+                "description": "A boolean indicator describing whether or not this DefinedTerm was curated as the value of a property.",
+                "type": "boolean"
+              }
+            },
+            "required": []  
+          }
       },
       "schemaVersion": [
         "https://schema.org/docs/releases.html#v29.2"
