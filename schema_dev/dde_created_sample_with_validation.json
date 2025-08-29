@@ -292,7 +292,7 @@
         "@id": "schema:Text"
         },
         {
-        "@id": "nde:DefinedTerm"
+        "@id": "schema:DefinedTerm"
         }
       ]
     }
