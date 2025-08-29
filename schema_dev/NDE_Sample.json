@@ -2950,7 +2950,7 @@
         "@id": "nde:DefinedTerm"
         }
       ]
-    },,
+    },
     {
       "@id": "nde:sourceOrganization",
       "@type": "rdf:Property",
