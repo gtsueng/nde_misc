@@ -7,6 +7,7 @@
     "bioschemastypes": "https://discovery.biothings.io/ns/bioschemastypes/",
     "bioschemastypesdrafts": "https://discovery.biothings.io/ns/bioschemastypesdrafts/",
     "dct": "http://purl.org/dc/terms/",
+    "@dateModified": "08/26/2025, 08:33:01",
     "ndetemp": "https://discovery.biothings.io/ns/ndetemp/",
     "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
     "nde": "https://discovery.biothings.io/ns/nde/"
@@ -17,9 +18,14 @@
       "@type": "rdfs:Class",
       "rdfs:comment": "Samples contained in the NIAID Data Ecosystem. A Sample is a material entity taken from a larger source, system, or environment, collected for the purpose of analysis, testing, identification, or demonstration. The NIAID Data Ecosystem Discovery Portal harvests metadata from repositories and harmonizes them to this schema to enable easy cross-platform sample searching and filtering.",
       "rdfs:label": "Sample",
-      "rdfs:subClassOf": {
+      "rdfs:subClassOf": [
+        {
           "@id": "bioschemastypesdrafts:BioSample"
         },
+        {
+          "@id": "nde:ResourceCatalog"
+        }
+      ],
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -141,6 +147,50 @@
                 "$ref": "#/definitions/definedterm"
               }
             ]
+          },
+          "species": {
+            "description": "Species / host organism from which the dataset has been collected.",
+            "abstract": "species/host organism",
+            "anyOf": [
+              {
+                "description": "collection of vocabulary terms defined in ontologies",
+                "strict": false,
+                "type": "string",
+                "vocabulary": {
+                  "children_of": ["http://purl.obolibrary.org/obo/NCBITaxon_131567", "http://purl.obolibrary.org/obo/NCBITaxon_10239"],
+                  "ontology": ["ncbitaxon"]
+                }
+              },
+              {
+                "items": {
+                  "description": "collection of vocabulary terms defined in ontologies",
+                  "strict": false,
+                  "type": "string",
+                  "vocabulary": {
+                    "children_of": ["http://purl.obolibrary.org/obo/NCBITaxon_131567", "http://purl.obolibrary.org/obo/NCBITaxon_10239"],
+                    "ontology": ["ncbitaxon"]
+                  }
+                },
+                "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "license": {
+            "description": "A license document that applies to this work, typically indicated by URL.",
+            "abstract": "license for use",
+            "format": "uri",
+            "owl:cardinality": "one",
+            "type": "string"
           }
         },
         "required": [
@@ -152,7 +202,72 @@
         ],
         "optional": [
           "associatedPhenotype"
-        ]
+        ],
+        "definitions": {
+          "definedterm": {
+            "@type": "DefinedTerm",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "The name of the item.",
+                "owl:cardinality": "one",
+                "type": "string"
+              },
+              "identifier": {
+                "description": "The identifier property represents any kind of identifier for any kind of Thing, such as ISBNs, GTIN codes, UUIDs etc. Schema.org provides dedicated properties for representing many of these, either as textual strings or as URL (URI) links. See background notes for more details.",
+                "owl:cardinality": "one",
+                "type": "string"           
+              },
+              "url": {
+                "description": "URL of the item.",
+                "owl:cardinality": "one",
+                "type": "string",
+                "format": "uri"
+              },
+              "curatedBy": {
+                "description": "The person, organization, or catalog that curated this DefinedTerm for the metadata property",
+                "anyOf": [
+                  {
+                    "$ref": "#/definitions/person"
+                  },
+                  {
+                    "$ref": "#/definitions/organization"
+                  },
+                  {
+                    "$ref": "#/definitions/catalog"
+                  },
+                  {
+                    "$ref": "#/definitions/researchproject"
+                  },
+                  {
+                    "$ref": "#/definitions/softwareapplication"
+                  }
+                ]
+              },
+              "termCode": {
+                "description": "A code that identifies this DefinedTerm within a DefinedTermSet.",
+                "type": "string"
+              },
+              "description": {
+                "description": "A description of the item.",
+                "type": "string"
+              },
+              "inDefinedTermSet": {
+                "description": "A DefinedTermSet that contains this term.",
+                "type": "string"
+              },
+              "originalName": {
+                "description": "The original name of the item, before any metadata standardization/normalization",
+                "type": "string"
+              },
+              "isCurated": {
+                "description": "A boolean indicator describing whether or not this DefinedTerm was curated as the value of a property.",
+                "type": "boolean"
+              }
+            },
+            "required": []  
+          }
+        }
       },
       "schemaVersion": [
         "https://schema.org/docs/releases.html#v29.2"
