@@ -12158,6 +12158,26 @@
           "@id": "schema:URL"
         }
       ]
+    },
+    {
+      "@id": "nde:sample",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Dataset property linking the dataset to the samples used for generating the Dataset.",
+      "rdfs:label": "sample",
+      "schema:domainIncludes": {
+        "@id": "nde:Dataset"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "nde:Sample"
+        },
+        {
+          "@id": "nde:SampleCollection"
+        },
+        {
+          "@id": "schema:URL"
+        }
+      ]
     }
   ]
 }
