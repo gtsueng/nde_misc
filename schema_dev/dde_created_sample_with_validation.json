@@ -185,7 +185,7 @@
       "rdfs:label": "species",
       "schema:domainIncludes": [
         {
-          "@id": "nde:Sample"
+          "@id": "ndetemp:Sample"
         }
       ],
       "schema:rangeIncludes": [
