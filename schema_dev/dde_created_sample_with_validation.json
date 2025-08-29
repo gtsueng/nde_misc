@@ -254,6 +254,7 @@
             },
             "required": []  
           }
+      }
       },
       "schemaVersion": [
         "https://schema.org/docs/releases.html#v29.2"
