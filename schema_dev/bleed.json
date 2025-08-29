@@ -1,0 +1,947 @@
+{
+  "@context": {
+    "schema": "http://schema.org/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "bleed": "https://discovery.biothings.io/ns/bleed/",
+    "niaid": "https://discovery.biothings.io/ns/niaid/"
+  },
+  "@graph": [
+    {
+      "@id": "bleed:Dataset",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "Dataset schema for the Centers for Research in Emerging Infectious Disease (CREID) Network",
+      "rdfs:label": "Dataset",
+      "rdfs:subClassOf": {
+        "@id": "niaid:Dataset"
+      },
+      "$validation": {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "type": "object",
+        "properties": {
+          "name": {
+            "description": "Descriptive name of the dataset",
+            "owl:cardinality": "one",
+            "type": "string"
+          },
+          "description": {
+            "description": "Longer description of what is contained in the dataset",
+            "owl:cardinality": "one",
+            "type": "string"
+          },
+          "identifier": {
+            "description": "Identifiers for the dataset (ideally less than 15 characters). These may be standardized identifiers used by the repository. For example, DataSet (GDS), Series (GSE) or Platform (GPL) accession numbers are used as identifiers by the Gene Expression Omnibus.",
+            "owl:cardinality": "many",
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ]
+          },
+          "measurementTechnique": {
+            "description": "A technique or technology used in a Dataset, corresponding to the method used for measuring the corresponding variable(s). Techniques and technologies not appearing in the list can be added manually. Selections will appear below the search list.",
+            "owl:cardinality": "many",
+            "oneOf": [
+              {
+                "description": "Collection of vocabulary terms defined in ontologies",
+                "@type": "DefinedTerm",
+                "type": "string",
+                "vocabulary": {
+                  "ontology": [
+                    "edam",
+                    "ncit"
+                  ],
+                  "children_of": [
+                    "http://edamontology.org/topic_3361",
+                    "http://purl.obolibrary.org/obo/NCIT_C20368"
+                  ]
+                },
+                "strict": false
+              },
+              {
+                "type": "array",
+                "items": {
+                  "description": "Collection of vocabulary terms defined in ontologies",
+                  "@type": "DefinedTerm",
+                  "type": "string",
+                  "vocabulary": {
+                    "ontology": [
+                      "edam",
+                      "ncit"
+                    ],
+                    "children_of": [
+                      "http://edamontology.org/topic_3361",
+                      "http://purl.obolibrary.org/obo/NCIT_C20368"
+                    ]
+                  },
+                  "strict": false
+                }
+              }
+            ]
+          },
+          "distribution": {
+            "description": "DataDownload objects, which contain the URL link to download the raw, analyzed, and summary data associated with the dataset as well as associated metadata for the file.",
+            "owl:cardinality": "many",
+            "oneOf": [
+              {
+                "description": "A dataset in downloadable form.",
+                "@type": "DataDownload",
+                "type": "object",
+                "properties": {
+                  "dateModified": {
+                    "type": "string",
+                    "format": "date"
+                  },
+                  "contentUrl": {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                },
+                "required": [
+                  "dateModified",
+                  "contentUrl"
+                ]
+              },
+              {
+                "type": "array",
+                "items": {
+                  "description": "A dataset in downloadable form.",
+                  "@type": "DataDownload",
+                  "type": "object",
+                  "properties": {
+                    "dateModified": {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    "contentUrl": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  "required": [
+                    "dateModified",
+                    "contentUrl"
+                  ]
+                }
+              }
+            ]
+          },
+          "funding": {
+            "description": "Funding that supports (sponsors) the collection of this dataset through some kind of financial contribution. Please include your CREID grant number and information in addition to other applicable funding sources. Grant numbers will be used to identify CREID research as well as cross collaboration efforts. Example grant numbers are 1U01AI151810, 1U01AI151812, and 1U01AI151698. Each is associated with a different CREID RC. Parent organization can be listed as one of the ten, CREID researcher centers.",
+            "owl:cardinality": "many",
+            "oneOf": [
+              {
+                "type": "object",
+                "@type": "MonetaryGrant",
+                "description": "Funding that supports (sponsors) the collection of this dataset through some kind of financial contribution",
+                "properties": {
+                  "funder": {
+                    "description": "An organization associated with a creator or funder of a dataset",
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "@type": "Organization",
+                        "description": "Information about a single funder",
+                        "properties": {
+                          "name": {
+                            "type": "string",
+                            "description": "An organization associated with a creator or funder of a dataset"
+                          },
+                          "parentOrganization": {
+                            "type": "string",
+                            "description": "Name of the parent funding organization (one of the ten, CREID research centers)"
+                          }
+                        },
+                        "required": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "@type": "Organization",
+                          "description": "Information about a single funder",
+                          "properties": {
+                            "name": {
+                              "type": "string",
+                              "description": "An organization associated with a creator or funder of a dataset"
+                            },
+                            "parentOrganization": {
+                              "type": "string",
+                              "description": "name of the parent funding organization"
+                            }
+                          },
+                          "required": [
+                            "name"
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "description": {
+                    "type": "string",
+                    "description": "Description about the funding award / grant"
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "Award / grant URL"
+                  },
+                  "identifier": {
+                    "type": "string",
+                    "description": "Unique identifier(s) for the grant(s) used to fund the Dataset, include any CREID grant numbers. Example grant numbers are 1U01AI151810, 1U01AI151812, and 1U01AI151698. Each is associated with a different CREID RC."
+                  }
+                },
+                "required": [
+                  "funder",
+                  "identifier"
+                ]
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "@type": "MonetaryGrant",
+                  "description": "Funding that supports (sponsors) the collection of this dataset through some kind of financial contribution",
+                  "properties": {
+                    "funder": {
+                      "description": "An organization associated with a creator or funder of a dataset",
+                      "oneOf": [
+                        {
+                          "type": "object",
+                          "@type": "Organization",
+                          "description": "Information about a single funder",
+                          "properties": {
+                            "name": {
+                              "type": "string",
+                              "description": "An organization associated with a creator or funder of a dataset"
+                            },
+                            "parentOrganization": {
+                              "type": "string",
+                              "description": "Name of the parent funding organization (one of the ten, CREID research centers)"
+                            }
+                          },
+                          "required": [
+                            "name"
+                          ]
+                        },
+                        {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "@type": "Organization",
+                            "description": "Information about a single funder",
+                            "properties": {
+                              "name": {
+                                "type": "string",
+                                "description": "An organization associated with a creator or funder of a dataset"
+                              },
+                              "parentOrganization": {
+                                "type": "string",
+                                "description": "Name of the parent funding organization (one of the ten, CREID research centers)"
+                              }
+                            },
+                            "required": [
+                              "name"
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    "description": {
+                      "type": "string",
+                      "description": "Description about the funding award / grant"
+                    },
+                    "url": {
+                      "type": "string",
+                      "description": "award / grant URL"
+                    },
+                    "identifier": {
+                      "type": "string",
+                      "description": "Unique identifier(s) for the grant(s) used to fund the Dataset, include any CREID grant numbers"
+                    }
+                  },
+                  "required": [
+                    "funder",
+                    "identifier"
+                  ]
+                }
+              }
+            ]
+          },
+          "infectiousAgent": {
+            "description": "Infectious agent(s) / pathogen(s) which are the focus of the dataset (e.g. SARS-CoV-2). Agents and pathogens not appearing in the list can be added manually. Selections will appear below the search list.",
+            "owl:cardinality": "many",
+            "oneOf": [
+              {
+                "description": "Collection of vocabulary terms defined in ontologies",
+                "@type": "DefinedTerm",
+                "type": "string",
+                "vocabulary": {
+                  "ontology": [
+                    "ncbitaxon"
+                  ],
+                  "children_of": [
+                    "http://purl.obolibrary.org/obo/NCBITaxon_10239",
+                    "http://purl.obolibrary.org/obo/NCBITaxon_2"
+                  ]
+                },
+                "strict": false
+              },
+              {
+                "type": "array",
+                "items": {
+                  "description": "Collection of vocabulary terms defined in ontologies",
+                  "@type": "DefinedTerm",
+                  "type": "string",
+                  "vocabulary": {
+                    "ontology": [
+                      "ncbitaxon"
+                    ],
+                    "children_of": [
+                      "http://purl.obolibrary.org/obo/NCBITaxon_10239",
+                      "http://purl.obolibrary.org/obo/NCBITaxon_2"
+                    ]
+                  },
+                  "strict": false
+                }
+              }
+            ]
+          },
+          "healthCondition": {
+            "description": "The Infectious disease(s) / health condition(s) which are the focus of the dataset (e.g. COVID-19, pneumonia, etc.). Variables not appearing in the list can be added manually. Selections will appear below the search list.",
+            "owl:cardinality": "many",
+            "oneOf": [
+              {
+                "description": "Collection of vocabulary terms defined in ontologies",
+                "@type": "DefinedTerm",
+                "type": "string",
+                "vocabulary": {
+                  "ontology": [
+                    "mondo"
+                  ],
+                  "children_of": [
+                    "http://purl.obolibrary.org/obo/MONDO_0000001"
+                  ]
+                },
+                "strict": false
+              },
+              {
+                "type": "array",
+                "items": {
+                  "description": "Collection of vocabulary terms defined in ontologies",
+                  "@type": "DefinedTerm",
+                  "type": "string",
+                  "vocabulary": {
+                    "ontology": [
+                      "mondo"
+                    ],
+                    "children_of": [
+                      "http://purl.obolibrary.org/obo/MONDO_0000001"
+                    ]
+                  },
+                  "strict": false
+                }
+              }
+            ]
+          },
+          "species": {
+            "description": "Species(es) from which dataset has been collected or for which the tool was designed or applied. Species not appearing in the list can be added manually. Selections will appear below the search list.",
+            "owl:cardinality": "many",
+            "oneOf": [
+              {
+                "description": "Collection of vocabulary terms defined in ontologies",
+                "@type": "DefinedTerm",
+                "type": "string",
+                "vocabulary": {
+                  "ontology": [
+                    "ncbitaxon"
+                  ],
+                  "children_of": [
+                    "http://purl.obolibrary.org/obo/NCBITaxon_131567",
+                    "http://purl.obolibrary.org/obo/NCBITaxon_10239"
+                  ]
+                },
+                "strict": false
+              },
+              {
+                "type": "array",
+                "items": {
+                  "description": "Collection of vocabulary terms defined in ontologies",
+                  "@type": "DefinedTerm",
+                  "type": "string",
+                  "vocabulary": {
+                    "ontology": [
+                      "ncbitaxon"
+                    ],
+                    "children_of": [
+                      "http://purl.obolibrary.org/obo/NCBITaxon_131567",
+                      "http://purl.obolibrary.org/obo/NCBITaxon_10239"
+                    ]
+                  },
+                  "strict": false
+                }
+              }
+            ]
+          },
+          "citation": {
+            "description": "Journal article or other publication associated with the dataset (stored as an object, not a string)",
+            "owl:cardinality": "many",
+            "oneOf": [
+              {
+                "description": "A scholarly article in which the dataset is cited.",
+                "@type": "ScholarlyArticle",
+                "type": "object",
+                "properties": {
+                  "name": {
+                    "type": "string"
+                  },
+                  "url": {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                },
+                "required": [
+                  "url"
+                ]
+              },
+              {
+                "type": "array",
+                "items": {
+                  "description": "A scholarly article in which the dataset is cited.",
+                  "@type": "ScholarlyArticle",
+                  "type": "object",
+                  "properties": {
+                    "name": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  "required": [
+                    "url"
+                  ]
+                }
+              }
+            ]
+          },
+          "license": {
+            "description": "A license document that applies to this content, typically indicated by URL.",
+            "type": "string",
+            "owl:cardinality": "one",
+            "format": "uri"
+          },
+          "sdPublisher": {
+            "description": "Original publisher of the Dataset metadata (like GenBank, ImmPort, etc.). Indicates the party responsible for generating and publishing the current structured data markup, typically in cases where the structured data is derived automatically from existing published content but published on a different site. For example, student projects and open data initiatives often re-publish existing content with more explicitly structured metadata. The sdPublisher property helps make such practices more explicit.",
+            "owl:cardinality": "many",
+            "anyOf": [
+              {
+                "$ref": "#/definitions/site"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/site"
+                }
+              },
+              {
+                "$ref": "#/definitions/organization"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/organization"
+                }
+              }
+            ]
+          },
+          "spatialCoverage": {
+            "description": "SpatialCoverage indicates the place(s) which are the focus of the content. For example with a Dataset, it indicates areas that the dataset describes, a dataset of New York weather would have spatialCoverage which was the place, the state of New York.",
+            "owl:cardinality": "many",
+            "oneOf": [
+              {
+                "description": "Location information",
+                "@type": "AdministrativeArea",
+                "type": "object",
+                "properties": {
+                  "locationType": {
+                    "description": "Categorization of how the location relates to the dataset or computational tool",
+                    "oneOf": [
+                      {
+                        "type": "string",
+                        "enum": [
+                          "residence",
+                          "exposure",
+                          "collection",
+                          "screening",
+                          "treatment",
+                          "study location",
+                          "other",
+                          "unknown"
+                        ]
+                      },
+                      {
+                        "type": "array",
+                        "items": {
+                          "type": "string",
+                          "enum": [
+                            "residence",
+                            "exposure",
+                            "collection",
+                            "screening",
+                            "treatment",
+                            "study location",
+                            "other",
+                            "unknown"
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "administrativeType": {
+                    "description": "The type of administrative area",
+                    "type": "string",
+                    "enum": [
+                      "province",
+                      "district",
+                      "chiefdom",
+                      "village",
+                      "city",
+                      "country",
+                      "prefecture",
+                      "sub-prefecture",
+                      "clan",
+                      "Federal Capital Territory",
+                      "state",
+                      "Local Government Area",
+                      "ward"
+                    ]
+                  },
+                  "alternateName": {
+                    "description": "An alias for the location.",
+                    "oneOf": [
+                      {
+                        "type": "string"
+                      },
+                      {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        }
+                      }
+                    ]
+                  },
+                  "identifier": {
+                    "description": "An identifier for the location, preferably a Wikidata ID.",
+                    "type": "string"
+                  },
+                  "name": {
+                    "description": "The name of the item.",
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "array",
+                "items": {
+                  "description": "Location information",
+                  "@type": "AdministrativeArea",
+                  "type": "object",
+                  "properties": {
+                    "locationType": {
+                      "description": "Categorization of how the location relates to the dataset or computational tool",
+                      "oneOf": [
+                        {
+                          "type": "string",
+                          "enum": [
+                            "residence",
+                            "exposure",
+                            "collection",
+                            "screening",
+                            "treatment",
+                            "study location",
+                            "other",
+                            "unknown"
+                          ]
+                        },
+                        {
+                          "type": "array",
+                          "items": {
+                            "type": "string",
+                            "enum": [
+                              "residence",
+                              "exposure",
+                              "collection",
+                              "screening",
+                              "treatment",
+                              "study location",
+                              "other",
+                              "unknown"
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    "administrativeType": {
+                      "description": "The type of administrative area",
+                      "type": "string",
+                      "enum": [
+                        "province",
+                        "district",
+                        "chiefdom",
+                        "village",
+                        "city",
+                        "country",
+                        "prefecture",
+                        "sub-prefecture",
+                        "clan",
+                        "Federal Capital Territory",
+                        "state",
+                        "Local Government Area",
+                        "ward"
+                      ]
+                    },
+                    "alternateName": {
+                      "description": "An alias for the location.",
+                      "oneOf": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "array",
+                          "items": {
+                            "type": "string"
+                          }
+                        }
+                      ]
+                    },
+                    "identifier": {
+                      "description": "An identifier for the location, preferably a Wikidata ID.",
+                      "type": "string"
+                    },
+                    "name": {
+                      "description": "The name of the item.",
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "temporalCoverage": {
+            "description": "Temporal information related to the dataset. For dates pertaining to the dataset record, use datePublished, dateCreated, dateModified, etc.",
+            "owl:cardinality": "many",
+            "oneOf": [
+              {
+                "description": "Temporal information",
+                "@type": "TemporalInterval",
+                "type": "object",
+                "properties": {
+                  "temporalType": {
+                    "description": "Categorization of how the date/temporal interval relates to the dataset or computational tool",
+                    "oneOf": [
+                      {
+                        "type": "string",
+                        "enum": [
+                          "exposure",
+                          "collection",
+                          "screening",
+                          "treatment",
+                          "study date",
+                          "other",
+                          "unknown"
+                        ]
+                      },
+                      {
+                        "type": "array",
+                        "items": {
+                          "type": "string",
+                          "enum": [
+                            "exposure",
+                            "collection",
+                            "screening",
+                            "treatment",
+                            "study date",
+                            "other",
+                            "unknown"
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "startDate": {
+                    "description": "A start date. ",
+                    "type": "string",
+                    "format": "date"
+                  },
+                  "name": {
+                    "description": "String describing the temporal interval",
+                    "type": "string"
+                  },
+                  "endDate": {
+                    "description": "An end date.",
+                    "type": "string",
+                    "format": "date"
+                  },
+                  "duration": {
+                    "description": "A time interval in ISO 8601 duration format.",
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "array",
+                "items": {
+                  "description": "Temporal information",
+                  "@type": "TemporalInterval",
+                  "type": "object",
+                  "properties": {
+                    "temporalType": {
+                      "description": "Categorization of how the date/temporal interval relates to the dataset or computational tool",
+                      "oneOf": [
+                        {
+                          "type": "string",
+                          "enum": [
+                            "exposure",
+                            "collection",
+                            "screening",
+                            "treatment",
+                            "study date",
+                            "other",
+                            "unknown"
+                          ]
+                        },
+                        {
+                          "type": "array",
+                          "items": {
+                            "type": "string",
+                            "enum": [
+                              "exposure",
+                              "collection",
+                              "screening",
+                              "treatment",
+                              "study date",
+                              "other",
+                              "unknown"
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    "startDate": {
+                      "description": "A start date. ",
+                      "type": "string",
+                      "format": "date"
+                    },
+                    "name": {
+                      "description": "String describing the temporal interval",
+                      "type": "string"
+                    },
+                    "endDate": {
+                      "description": "An end date.",
+                      "type": "string",
+                      "format": "date"
+                    },
+                    "duration": {
+                      "description": "A time interval in ISO 8601 duration format.",
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "creator": {
+            "description": "Name of the author or organization that created the dataset. Note: schema.org/creator and schema.org/organization have additional fields that can provide more information about the author/organization, if desired.",
+            "owl:cardinality": "many",
+            "anyOf": [
+              {
+                "$ref": "#/definitions/person"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/person"
+                }
+              },
+              {
+                "$ref": "#/definitions/organization"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/organization"
+                }
+              }
+            ]
+          },
+          "sourceOrganization": {
+            "description": "The Organization on whose behalf the creator was working. No action needed, this will be the 'NIAID CREID Network' by default. ",
+            "$ref": "#/definitions/creid",
+            "owl:cardinality": "many"
+          }
+        },
+        "required": [
+          "name",
+          "description",
+          "identifier",
+          "measurementTechnique",
+          "distribution",
+          "funding",
+          "infectiousAgent",
+          "healthCondition",
+          "species",
+          "creator",
+          "sourceOrganization"
+        ],
+        "recommended": [
+          "citation",
+          "license",
+          "spatialCoverage",
+          "temporalCoverage"
+        ],
+        "optional": [
+          "sdPublisher"
+        ],
+        "definitions": {
+          "person": {
+            "description": "Reusable person definition",
+            "@type": "Person",
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "identifier": {
+                "description": "An ORCID identifier if available",
+                "type": "string"
+              },
+              "affiliation": {
+                "oneOf": [
+                  {
+                    "$ref": "#/definitions/organization"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/organization"
+                    }
+                  }
+                ]
+              },
+              "givenName": {
+                "type": "string"
+              },
+              "familyName": {
+                "type": "string"
+              },
+              "alternateName": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          },
+          "organization": {
+            "description": "Reusable organization definition",
+            "@type": "Organization",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "the name of the organization",
+                "type": "string"
+              },
+              "alternateName": {
+                "description": "Other names by which the organization is referred (e.g. abbreviations like WHO for World Health Organization)",
+                "type": "string"
+              },
+              "parentOrganization": {
+                "oneOf": [
+                  {
+                    "$ref": "#/definitions/stumporganization"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/stumporganization"
+                    }
+                  }
+                ]
+              }
+            },
+            "required": [
+              "name"
+            ]
+          },
+          "stumporganization": {
+            "description": "Reusable organization definition",
+            "@type": "Organization",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "the name of the organization",
+                "type": "string"
+              },
+              "alternateName": {
+                "description": "Other names by which the organization is referred (e.g. abbreviations like WHO for World Health Organization)",
+                "type": "string"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          },
+          "site": {
+            "description": "Reusable metadata source definition",
+            "@type": "CreativeWork",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "the name of the publisher, data catalog or website",
+                "type": "string"
+              },
+              "url": {
+                "description": "The url of the publisher, data catalog or website",
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          },
+          "creid": {
+            "description": "The Organization on whose behalf the creator was working. No action needed, this will be the 'NIAID CREID Network' by default. ",
+            "@type": "Organization",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "the name of the organization",
+                "const": "NIAID CREID Network"
+              },
+              "alternateName": {
+                "description": "Other names by which the organization is referred (e.g. abbreviations like WHO for World Health Organization)",
+                "const": "CREID"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          }
+        }
+      },
+      "schemaVersion": [
+        "https://schema.org/docs/releases.html#v26.0"
+      ]
+    }
+  ]
+}
