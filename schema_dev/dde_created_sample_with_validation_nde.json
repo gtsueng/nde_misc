@@ -18,13 +18,13 @@
       "rdfs:comment": "Samples contained in the NIAID Data Ecosystem. A Sample is a material entity taken from a larger source, system, or environment, collected for the purpose of analysis, testing, identification, or demonstration. The NIAID Data Ecosystem Discovery Portal harvests metadata from repositories and harmonizes them to this schema to enable easy cross-platform sample searching and filtering.",
       "rdfs:label": "Sample",
       "rdfs:subClassOf": [
-          {
-            "@id": "bioschemastypesdrafts:BioSample"
-          },
-          {
-            "@id": "nde:ResourceCatalog"
-          }
-        ],
+        {
+          "@id": "bioschemastypesdrafts:BioSample"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        }
+      ],
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
