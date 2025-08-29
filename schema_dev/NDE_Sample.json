@@ -5,6 +5,7 @@
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "dct": "http://purl.org/dc/terms/",
     "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
+    "bioschemastypes": "https://discovery.biothings.io/ns/bioschemastypes/",
     "bioschemastypesdrafts": "https://discovery.biothings.io/ns/bioschemastypesdrafts/",
     "niaid": "http://discovery.biothings.io/ns/niaid/",
     "nde": "https://discovery.biothings.io/ns/nde/",
