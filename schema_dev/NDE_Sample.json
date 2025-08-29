@@ -2516,7 +2516,490 @@
       }
     },
     {
-      "@id": "ndetemp:associatedPhenotype",
+      "@id": "nde:citedBy",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Publications that cite the dataset, resource/resource catalog or computational tool. Examples: a publication which reuses the dataset in a secondary analysis, a dataset which extends the existing dataset, or a computational tool which relies on the dataset.",
+      "rdfs:label": "citedBy",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:CreativeWork"
+        },
+        {
+          "@id": "niaid:ScholarlyArticle"
+        }
+      ]
+    },
+    {
+      "@id": "nde:date",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Date the dataset, resource/resource catalog or computational tool has changed: most recent date of dateModified, datePublished, and dateCreated.",
+      "rdfs:label": "date",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:Date"
+        }
+      ]
+    },
+    {
+      "@id": "nde:includedInDataCatalog",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Repository or source which contains the dataset, resource/resource catalog or computational tool.",
+      "rdfs:label": "includedInDataCatalog",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DataCatalog"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        }
+      ]
+    },
+    {
+      "@id": "nde:isBasisFor",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Dataset, resource/resource catalog or computational tool which incorporate this dataset, resource/resource catalog or computational tool.",
+      "rdfs:label": "isBasisFor",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "schema:CreativeWork"
+        },
+        {
+          "@id": "niaid:ScholarlyArticle"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ]
+    },
+    {
+      "@id": "nde:isRelatedTo",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Dataset, resource/resource catalog or computational tool which are related to the given dataset, resource/resource catalog or computational tool.",
+      "rdfs:label": "isRelatedTo",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "schema:CreativeWork"
+        },
+        {
+          "@id": "niaid:ScholarlyArticle"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ]
+    },
+    {
+      "@id": "nde:isSimilarTo",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Dataset, resource/resource catalog or computational tool which are similar to the dataset, resource/resource catalog or computational tool, based on terms in the names, descriptions, authors, measurementTechniques, infectiousAgents, healthConditions, etc.",
+      "rdfs:label": "isSimilarTo",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "schema:CreativeWork"
+        },
+        {
+          "@id": "niaid:ScholarlyArticle"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ]
+    },
+    {
+      "@id": "nde:relationship",
+      "@type": "rdf:Property",
+      "rdfs:comment": "How an associated work is related to the dataset, resource/resource catalog.",
+      "rdfs:label": "relationship",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:Text"
+        }
+      ]
+    },
+    {
+      "@id": "nde:topicCategory",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Topic of the dataset, resource/resource catalog or computational tool. This topic may be assigned by a human curator or through automated algorithms.",
+      "rdfs:label": "topicCategory",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:Text"
+        },
+        {
+          "@id": "nde:DefinedTerm"
+        }
+      ]
+    },
+    {
+      "@id": "nde:infectiousAgent",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Infectious agent(s) / pathogen(s) which are the focus of the dataset, resource/resource catalog or computational tool (e.g. SARS-CoV-2).",
+      "rdfs:label": "infectiousAgent",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+        "@id": "schema:Text"
+        },
+        {
+        "@id": "nde:DefinedTerm"
+        }
+      ]
+    },
+    {
+      "@id": "nde:healthCondition",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The infectious disease(s) / health condition(s) which are the focus of the dataset, resource/resource catalog or computational tool (e.g. COVID-19, coronavirus).",
+      "rdfs:label": "healthCondition",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+      {
+        "@id": "schema:Text"
+      },
+      {
+        "@id": "nde:DefinedTerm"
+      }]
+    },
+    {
+      "@id": "nde:funding",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Funding that supports (sponsors) the collection of a dataset, resource/resource catalog or computational tool through some kind of financial contribution.",
+      "rdfs:label": "funding",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [{
+        "@id": "niaid:MonetaryGrant"
+      }],
+      "schema:sameAs": {
+        "@id": "schema:funding"
+      }
+    },
+    {
+      "@id": "nde:distribution",
+      "@type": "rdf:Property",
+      "rdfs:comment": "A downloadable form of the dataset, resource/resource catalog, at a specific location, in a specific format.",
+      "rdfs:label": "distribution",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [{
+        "@id": "niaid:DataDownload"
+      }]
+    },
+    {
+      "@id": "nde:species",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Species(es) from which dataset has been collected, or is the focus of a resource/resource catalog, or for which the tool was designed or applied.",
+      "rdfs:label": "species",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+        "@id": "schema:Text"
+        },
+        {
+        "@id": "nde:DefinedTerm"
+        }
+      ]
+    },
+    {
+      "@id": "nde:measurementTechnique",
+      "@type": "rdf:Property",
+      "rdfs:comment": "A technique, method or technology used in an Observation, StatisticalVariable or Dataset (or DataDownload, DataCatalog), corresponding to the method used for measuring the corresponding variable(s) (for datasets, described using variableMeasured; for Observation, a StatisticalVariable). For example, if variableMeasured is: molecule concentration, measurementTechnique could be: \"mass spectrometry\" or \"nmr spectroscopy\" or \"colorimetry\" or \"immunofluorescence\". If the variableMeasured is \"depression rating\", the measurementTechnique could be \"Zung Scale\" or \"HAM-D\" or \"Beck Depression Inventory\".",
+      "rdfs:label": "measurementTechnique",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+        "@id": "schema:Text"
+        },
+        {
+        "@id": "nde:DefinedTerm"
+        }
+      ]
+    },
+    {
+      "@id": "nde:variableMeasured",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The variableMeasured property can indicate (repeated as necessary) the variables that are measured in some dataset, either described as text or as pairs of identifier and description using PropertyValue, or more explicitly as a StatisticalVariable.",
+      "rdfs:label": "variableMeasured",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+        "@id": "schema:Text"
+        },
+        {
+        "@id": "nde:DefinedTerm"
+        }
+      ]
+    },,
+    {
+      "@id": "nde:sourceOrganization",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The organization, research project, working group, or funded program on whose behalf the author/creator was working.",
+      "rdfs:label": "sourceOrganization",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Dataset"
+        },
+        {
+          "@id": "nde:ComputationalTool"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        },
+        {
+          "@id": "ndetemp:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:ResearchProject"
+        },
+        {
+          "@id": "niaid:Organization"
+        }
+      ]
+    },
+    {
+      "@id": "nde:archivedAt",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The url of a dataset, tool, resource or other item listed in a DataCatalog or ResourceCatalog.",
+      "rdfs:label": "archivedAt",
+      "schema:domainIncludes": [
+        {
+          "@id": "schema:DataCatalog"
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:URL"
+        }
+      ]
+    },
+    {
+      "@id": "nde:associatedPhenotype",
       "@type": "rdf:Property",
       "rdfs:comment": "one or more observable traits or conditions relevant to the source of the sample.",
       "rdfs:label": "associatedPhenotype",
@@ -2536,7 +3019,7 @@
       ]
     },
     {
-      "@id": "ndetemp:associatedGenotype",
+      "@id": "nde:associatedGenotype",
       "@type": "rdf:Property",
       "rdfs:comment": "One or more genetic variants or molecular features observed or inferred from the sample.",
       "rdfs:label": "associatedGenotype",
@@ -2556,7 +3039,7 @@
       ]
     },
     {
-      "@id": "ndetemp:cellType",
+      "@id": "nde:cellType",
       "@type": "rdf:Property",
       "rdfs:comment": "The type of cell represented in or derived from the biological sample, based on morphology, lineage, or molecular markers.",
       "rdfs:label": "cellType",
