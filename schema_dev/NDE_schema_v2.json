@@ -6,11 +6,11 @@
     "dct": "http://purl.org/dc/terms/",
     "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
     "niaid": "http://discovery.biothings.io/ns/niaid/",
-    "ndewtf": "https://discovery.biothings.io/ns/ndewtf/"
+    "ndevtwo": "https://discovery.biothings.io/ns/ndevtwo/"
   },
   "@graph": [
     {
-      "@id": "ndewtf:Dataset",
+      "@id": "ndevtwo:Dataset",
       "@type": "rdfs:Class",
       "rdfs:comment": "Datasets contained in the NIAID Data Ecosystem. A dataset is a collection of data of a particular experimental type. The NIAID Data Ecosystem is an environment to find and access and infectious and immune-mediated disease data and computational tools to speed the development of diagnostics, therapeutics, and vaccines. The NIAID Data Ecosystem Discovery Portal harvests metadata from dataset repository and harmonizes them to this schema to enable easy cross-platform dataset searching and filtering.",
       "abstract": "Datasets contained in the NIAID Data Ecosystem. A dataset is a collection of data of a particular experimental type.",
@@ -1761,7 +1761,7 @@
       }
     },
     {
-      "@id": "ndewtf:ComputationalTool",
+      "@id": "ndevtwo:ComputationalTool",
       "@type": "rdfs:Class",
       "rdfs:comment": "ComputationalTools (software, workflows, computational tools, code) contained in the NIAID Data Ecosystem. The NIAID Data Ecosystem is a secure environment to find, access and analyze immune-mediated and infectious disease data and computational tools to speed the development of diagnostics, therapeutics, and vaccines. The NIAID Data Ecosystem Discovery Portal harvests metadata from dataset repository and harmonizes them to this schema to enable easy cross-platform dataset searching and filtering.",
       "abstract": "ComputationalTools (software, workflows, computational tools, code) contained in the NIAID Data Ecosystem.",
@@ -3615,7 +3615,7 @@
       }
     },
     {
-      "@id": "ndewtf:ResourceCatalog",
+      "@id": "ndevtwo:ResourceCatalog",
       "@type": "rdfs:Class",
       "rdfs:comment": "ResourceCatalogs (collections of scientific information or research outputs) contained in the NIAID Data Ecosystem. Resource catalogs include databases, repositories, knowledge bases, citation indices, software indices, browser-based data portals (web portals), etc. The NIAID Data Ecosystem is an environment to find and access and infectious and immune-mediated disease data, resources and computational tools to speed the development of diagnostics, therapeutics, and vaccines. The NIAID Data Ecosystem Discovery Portal harvests metadata from dataset repository and harmonizes them to this schema to enable easy cross-platform dataset searching and filtering.",
       "abstract": "ResourceCatalogs (collections of scientific information or research outputs) contained in the NIAID Data Ecosystem. Resource catalogs include databases, repositories, knowledge bases, citation indices, software indices, browser-based data portals (web portals), etc.",
@@ -5477,7 +5477,7 @@
       }
     },
     {
-      "@id": "ndewtf:DefinedTerm",
+      "@id": "ndevtwo:DefinedTerm",
       "@type": "rdfs:Class",
       "rdfs:comment": "A word, name, acronym, phrase, etc. with a formal definition. Often used in the context of category or subject classification, glossaries or dictionaries, product or creative work types, etc. Use the name property for the term being defined, use termCode if the term has an alpha-numeric code allocated, use description to provide the definition of the term.",
       "rdfs:label": "DefinedTerm",
@@ -5808,19 +5808,19 @@
       }
     },
     {
-      "@id": "ndewtf:citedBy",
+      "@id": "ndevtwo:citedBy",
       "@type": "rdf:Property",
       "rdfs:comment": "Publications that cite the dataset, resource/resource catalog or computational tool. Examples: a publication which reuses the dataset in a secondary analysis, a dataset which extends the existing dataset, or a computational tool which relies on the dataset.",
       "rdfs:label": "citedBy",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -5833,19 +5833,19 @@
       ]
     },
     {
-      "@id": "ndewtf:date",
+      "@id": "ndevtwo:date",
       "@type": "rdf:Property",
       "rdfs:comment": "Date the dataset, resource/resource catalog or computational tool has changed: most recent date of dateModified, datePublished, and dateCreated.",
       "rdfs:label": "date",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -5855,19 +5855,19 @@
       ]
     },
     {
-      "@id": "ndewtf:doi",
+      "@id": "ndevtwo:doi",
       "@type": "rdf:Property",
       "rdfs:comment": "Digital object identifier (DOI) for the dataset, resource/resource catalog or computational tool.",
       "rdfs:label": "doi",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -5877,19 +5877,19 @@
       ]
     },
     {
-      "@id": "ndewtf:includedInDataCatalog",
+      "@id": "ndevtwo:includedInDataCatalog",
       "@type": "rdf:Property",
       "rdfs:comment": "Repository or source which contains the dataset, resource/resource catalog or computational tool.",
       "rdfs:label": "includedInDataCatalog",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -5897,35 +5897,35 @@
           "@id": "schema:DataCatalog"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ]
     },
     {
-      "@id": "ndewtf:isBasisFor",
+      "@id": "ndevtwo:isBasisFor",
       "@type": "rdf:Property",
       "rdfs:comment": "Dataset, resource/resource catalog or computational tool which incorporate this dataset, resource/resource catalog or computational tool.",
       "rdfs:label": "isBasisFor",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         },
         {
           "@id": "schema:CreativeWork"
@@ -5936,30 +5936,30 @@
       ]
     },
     {
-      "@id": "ndewtf:isRelatedTo",
+      "@id": "ndevtwo:isRelatedTo",
       "@type": "rdf:Property",
       "rdfs:comment": "Dataset, resource/resource catalog or computational tool which are related to the given dataset, resource/resource catalog or computational tool.",
       "rdfs:label": "isRelatedTo",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         },
         {
           "@id": "schema:CreativeWork"
@@ -5970,30 +5970,30 @@
       ]
     },
     {
-      "@id": "ndewtf:isSimilarTo",
+      "@id": "ndevtwo:isSimilarTo",
       "@type": "rdf:Property",
       "rdfs:comment": "Dataset, resource/resource catalog or computational tool which are similar to the dataset, resource/resource catalog or computational tool, based on terms in the names, descriptions, authors, measurementTechniques, infectiousAgents, healthConditions, etc.",
       "rdfs:label": "isSimilarTo",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         },
         {
           "@id": "schema:CreativeWork"
@@ -6004,12 +6004,12 @@
       ]
     },
     {
-      "@id": "ndewtf:nctid",
+      "@id": "ndevtwo:nctid",
       "@type": "rdf:Property",
       "rdfs:comment": "ClinicalTrials.gov identifier associated with the Dataset.",
       "rdfs:label": "nctid",
       "schema:domainIncludes": {
-        "@id": "ndewtf:Dataset"
+        "@id": "ndevtwo:Dataset"
       },
       "schema:rangeIncludes": [
         {
@@ -6018,16 +6018,16 @@
       ]
     },
     {
-      "@id": "ndewtf:relationship",
+      "@id": "ndevtwo:relationship",
       "@type": "rdf:Property",
       "rdfs:comment": "How an associated work is related to the dataset, resource/resource catalog.",
       "rdfs:label": "relationship",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -6037,19 +6037,19 @@
       ]
     },
     {
-      "@id": "ndewtf:topicCategory",
+      "@id": "ndevtwo:topicCategory",
       "@type": "rdf:Property",
       "rdfs:comment": "Topic of the dataset, resource/resource catalog or computational tool. This topic may be assigned by a human curator or through automated algorithms.",
       "rdfs:label": "topicCategory",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -6057,18 +6057,18 @@
           "@id": "schema:Text"
         },
         {
-          "@id": "ndewtf:DefinedTerm"
+          "@id": "ndevtwo:DefinedTerm"
         }
       ]
     },
     {
-      "@id": "ndewtf:collectionType",
+      "@id": "ndevtwo:collectionType",
       "@type": "rdf:Property",
       "rdfs:comment": "The type of resource/resource catalog that best describes the work.",
       "rdfs:label": "collectionType",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -6076,18 +6076,18 @@
           "@id": "schema:Text"
         },
         {
-          "@id": "ndewtf:DefinedTerm"
+          "@id": "ndevtwo:DefinedTerm"
         }
       ]
     },
     {
-      "@id": "ndewtf:collectionSize",
+      "@id": "ndevtwo:collectionSize",
       "@type": "rdf:Property",
       "rdfs:comment": "The number of records, datasets, tools, items, pages, etc. in the resource/resource catalog.",
       "rdfs:label": "collectionSize",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -6097,13 +6097,13 @@
       ]
     },
     {
-      "@id": "ndewtf:hasDownload",
+      "@id": "ndevtwo:hasDownload",
       "@type": "rdf:Property",
       "rdfs:comment": "The resource/resource catalog provides download access to its content. Options: All content (e.g. entire data builds, tools, etc.), Partial content (just data, or just tools, etc.), Record-level (individual records, or selections of records), No downloads (information is viewable but not downloadable, users must resort to copy/paste, screenshots, etc.), Prohibited (downloading, copy/pasting, screenshotting the data is prohibited).",
       "rdfs:label": "hasDownload",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -6116,13 +6116,13 @@
       ]
     },
     {
-      "@id": "ndewtf:hasAPI",
+      "@id": "ndevtwo:hasAPI",
       "@type": "rdf:Property",
       "rdfs:comment": "The resource/resource catalog provides API access to its content.",
       "rdfs:label": "hasAPI",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -6132,19 +6132,19 @@
       ]
     },
     {
-      "@id": "ndewtf:infectiousAgent",
+      "@id": "ndevtwo:infectiousAgent",
       "@type": "rdf:Property",
       "rdfs:comment": "Infectious agent(s) / pathogen(s) which are the focus of the dataset, resource/resource catalog or computational tool (e.g. SARS-CoV-2).",
       "rdfs:label": "infectiousAgent",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -6152,24 +6152,24 @@
         "@id": "schema:Text"
         },
         {
-        "@id": "ndewtf:DefinedTerm"
+        "@id": "ndevtwo:DefinedTerm"
         }
       ]
     },
     {
-      "@id": "ndewtf:healthCondition",
+      "@id": "ndevtwo:healthCondition",
       "@type": "rdf:Property",
       "rdfs:comment": "The infectious disease(s) / health condition(s) which are the focus of the dataset, resource/resource catalog or computational tool (e.g. COVID-19, coronavirus).",
       "rdfs:label": "healthCondition",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -6177,23 +6177,23 @@
         "@id": "schema:Text"
       },
       {
-        "@id": "ndewtf:DefinedTerm"
+        "@id": "ndevtwo:DefinedTerm"
       }]
     },
     {
-      "@id": "ndewtf:funding",
+      "@id": "ndevtwo:funding",
       "@type": "rdf:Property",
       "rdfs:comment": "Funding that supports (sponsors) the collection of a dataset, resource/resource catalog or computational tool through some kind of financial contribution.",
       "rdfs:label": "funding",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [{
@@ -6204,16 +6204,16 @@
       }
     },
     {
-      "@id": "ndewtf:distribution",
+      "@id": "ndevtwo:distribution",
       "@type": "rdf:Property",
       "rdfs:comment": "A downloadable form of the dataset, resource/resource catalog, at a specific location, in a specific format.",
       "rdfs:label": "distribution",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [{
@@ -6221,19 +6221,19 @@
       }]
     },
     {
-      "@id": "ndewtf:species",
+      "@id": "ndevtwo:species",
       "@type": "rdf:Property",
       "rdfs:comment": "Species(es) from which dataset has been collected, or is the focus of a resource/resource catalog, or for which the tool was designed or applied.",
       "rdfs:label": "species",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -6241,24 +6241,24 @@
         "@id": "schema:Text"
         },
         {
-        "@id": "ndewtf:DefinedTerm"
+        "@id": "ndevtwo:DefinedTerm"
         }
       ]
     },
     {
-      "@id": "ndewtf:measurementTechnique",
+      "@id": "ndevtwo:measurementTechnique",
       "@type": "rdf:Property",
       "rdfs:comment": "A technique, method or technology used in an Observation, StatisticalVariable or Dataset (or DataDownload, DataCatalog), corresponding to the method used for measuring the corresponding variable(s) (for datasets, described using variableMeasured; for Observation, a StatisticalVariable). For example, if variableMeasured is: molecule concentration, measurementTechnique could be: \"mass spectrometry\" or \"nmr spectroscopy\" or \"colorimetry\" or \"immunofluorescence\". If the variableMeasured is \"depression rating\", the measurementTechnique could be \"Zung Scale\" or \"HAM-D\" or \"Beck Depression Inventory\".",
       "rdfs:label": "measurementTechnique",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -6266,24 +6266,24 @@
         "@id": "schema:Text"
         },
         {
-        "@id": "ndewtf:DefinedTerm"
+        "@id": "ndevtwo:DefinedTerm"
         }
       ]
     },
     {
-      "@id": "ndewtf:variableMeasured",
+      "@id": "ndevtwo:variableMeasured",
       "@type": "rdf:Property",
       "rdfs:comment": "The variableMeasured property can indicate (repeated as necessary) the variables that are measured in some dataset, either described as text or as pairs of identifier and description using PropertyValue, or more explicitly as a StatisticalVariable.",
       "rdfs:label": "variableMeasured",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -6291,18 +6291,18 @@
         "@id": "schema:Text"
         },
         {
-        "@id": "ndewtf:DefinedTerm"
+        "@id": "ndevtwo:DefinedTerm"
         }
       ]
     },
     {
-      "@id": "ndewtf:curatedBy",
+      "@id": "ndevtwo:curatedBy",
       "@type": "rdf:Property",
       "rdfs:comment": "The curator who generated the metadata annotation.",
       "rdfs:label": "curatedBy",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:DefinedTerm"
+          "@id": "ndevtwo:DefinedTerm"
         }
       ],
       "schema:rangeIncludes": [
@@ -6316,13 +6316,13 @@
           "@id": "schema:DataCatalog"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         },
         {
           "@id": "schema:SoftwareApplication"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
           "@id": "schema:ResearchProject"
@@ -6330,13 +6330,13 @@
       ]
     },
     {
-      "@id": "ndewtf:originalName",
+      "@id": "ndevtwo:originalName",
       "@type": "rdf:Property",
       "rdfs:comment": "The original name or term that was provided in the metadata.",
       "rdfs:label": "originalName",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:DefinedTerm"
+          "@id": "ndevtwo:DefinedTerm"
         }
       ],
       "schema:rangeIncludes": [
@@ -6346,13 +6346,13 @@
       ]
     },
     {
-      "@id": "ndewtf:isCurated",
+      "@id": "ndevtwo:isCurated",
       "@type": "rdf:Property",
       "rdfs:comment": "A boolean indicating whether or not a Defined Term was curated by an annotator (true) or programmatically generated (false).",
       "rdfs:label": "isCurated",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:DefinedTerm"
+          "@id": "ndevtwo:DefinedTerm"
         }
       ],
       "schema:rangeIncludes": [
@@ -6362,19 +6362,19 @@
       ]
     },
     {
-      "@id": "ndewtf:sourceOrganization",
+      "@id": "ndevtwo:sourceOrganization",
       "@type": "rdf:Property",
       "rdfs:comment": "The organization, research project, working group, or funded program on whose behalf the author/creator was working.",
       "rdfs:label": "sourceOrganization",
       "schema:domainIncludes": [
         {
-          "@id": "ndewtf:Dataset"
+          "@id": "ndevtwo:Dataset"
         },
         {
-          "@id": "ndewtf:ComputationalTool"
+          "@id": "ndevtwo:ComputationalTool"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
@@ -6387,7 +6387,7 @@
       ]
     },
     {
-      "@id": "ndewtf:archivedAt",
+      "@id": "ndevtwo:archivedAt",
       "@type": "rdf:Property",
       "rdfs:comment": "The url of a dataset, tool, resource or other item listed in a DataCatalog or ResourceCatalog.",
       "rdfs:label": "archivedAt",
@@ -6396,7 +6396,7 @@
           "@id": "schema:DataCatalog"
         },
         {
-          "@id": "ndewtf:ResourceCatalog"
+          "@id": "ndevtwo:ResourceCatalog"
         }
       ],
       "schema:rangeIncludes": [
