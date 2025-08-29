@@ -22,7 +22,7 @@
           "@id": "bioschemastypesdrafts:BioSample"
         },
         {
-          "@id": "ndetemp:ResourceCatalog"
+          "@id": "nde:ResourceCatalog"
         }
       ],
       "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.1 - 2025.08.26"],
