@@ -181,13 +181,62 @@
             "format": "uri",
             "owl:cardinality": "one",
             "type": "string"
+          },
+          "species": {
+            "description": "one or more observable traits or conditions relevant to the source of the sample.",
+            "anyOf": [
+              {
+                "description": "collection of vocabulary terms defined in ontologies",
+                "strict": false,
+                "type": "string",
+                "vocabulary": {
+                  "children_of": [
+                    "http://purl.obolibrary.org/obo/UPHENO_0001001",
+                    "http://purl.obolibrary.org/obo/PATO_0000001"
+                  ],
+                  "ontology": [
+                    "UPHENO",
+                    "PATO"
+                  ]
+                }
+              },
+              {
+                "items": {
+                  "description": "collection of vocabulary terms defined in ontologies",
+                  "strict": false,
+                  "type": "string",
+                  "vocabulary": {
+                    "children_of": [
+                      "http://purl.obolibrary.org/obo/UPHENO_0001001",
+                      "http://purl.obolibrary.org/obo/PATO_0000001"
+                    ],
+                    "ontology": [
+                      "UPHENO",
+                      "PATO"
+                    ]
+                  }
+                },
+                "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              }
+            ],
+            "owl:cardinality": "many"
           }
+        
         },
         "required": [
           "name", "license"
         ],
         "recommended": [
-          "anatomicalSystem"
+          "anatomicalSystem", "species"
         ],
         "optional": [
           "associatedDisease"
@@ -263,16 +312,19 @@
       ]
     },
     {
-      "@id": "ndetemp:license",
+      "@id": "ndetemp:species",
       "@type": "rdf:Property",
-      "rdfs:comment": "license information.",
-      "rdfs:label": "license",
+      "rdfs:comment": "species information.",
+      "rdfs:label": "species",
       "schema:domainIncludes": {
         "@id": "ndetemp:Sample"
       },
       "schema:rangeIncludes": [
         {
           "@id": "schema:URL"
+        },
+        {
+          "@id": "schema:DefinedTerm"
         }
       ]
     }
