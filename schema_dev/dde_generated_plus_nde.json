@@ -23,7 +23,7 @@
           "@id": "bioschemastypesdrafts:BioSample"
         },
         {
-          "@id": "nde":"ResourceCatalog"
+          "@id": "nde:ResourceCatalog"
         }
       ],
       "$validation": {
