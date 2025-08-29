@@ -263,6 +263,7 @@
       "schemaVersion": [
         "https://schema.org/docs/releases.html#v29.2"
       ]
+      }
     },
     {
       "@id": "ndetemp:associatedPhenotype",
