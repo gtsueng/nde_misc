@@ -177,6 +177,25 @@
           "@id": "schema:DefinedTerm"
         }
       ]
+    },
+    {
+      "@id": "ndetemp:species",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Species(es) from which dataset has been collected, or is the focus of a resource/resource catalog, or for which the tool was designed or applied.",
+      "rdfs:label": "species",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Sample"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+        "@id": "schema:Text"
+        },
+        {
+        "@id": "nde:DefinedTerm"
+        }
+      ]
     }
   ]
 }
