@@ -332,6 +332,355 @@
             ],
             "owl:cardinality": "many"
           },
+          "collectionMethod": {
+            "description": "Provide information about the conditions and methods of acquisition of samples. ",
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "uri"
+              },
+              {
+                "items": {
+                  "type": "string",
+                  "format": "uri"
+                },
+                "type": "array"
+              },
+              {
+                "type": "string"
+              },
+              {
+                "items": {
+                  "type": "string"
+                },
+                "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "instrument": {
+            "description": "Provide description of instruments and devices used in collecting, processing and analysis of samples.",
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "uri"
+              },
+              {
+                "items": {
+                  "type": "string",
+                  "format": "uri"
+                },
+                "type": "array"
+              },
+              {
+                "type": "string"
+              },
+              {
+                "items": {
+                  "type": "string"
+                },
+                "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "environmentalSystem": {
+            "description": "A category or description of the habitat that describes elements of an ecosystem where the sample was collected. Where possible use controlled vocabulary such as ENVO.",
+            "anyOf": [
+              {
+                "description": "collection of vocabulary terms defined in ontologies",
+                "strict": false,
+                "type": "string",
+                "vocabulary": {
+                  "children_of": ["http://purl.obolibrary.org/obo/ENVO_00010483","http://purl.obolibrary.org/obo/NCIT_C62574"],
+                  "ontology": ["ENVO","NCIT"]
+                }
+              },
+              {
+                "items": {
+                  "description": "collection of vocabulary terms defined in ontologies",
+                  "strict": false,
+                  "type": "string",
+                  "vocabulary": {
+                    "children_of": ["http://purl.obolibrary.org/obo/ENVO_00010483","http://purl.obolibrary.org/obo/NCIT_C62574"],
+                    "ontology": ["ENVO","NCIT"]
+                  }
+                },
+                "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "experimentalPurpose": {
+            "description": "Describe the planned or executed experimental procedures involving the samples.",
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "items": {
+                  "type": "string"
+                },
+                "type": "array"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "collector": {
+            "description": "The Person or Organization who collected the Sample.",
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/person"
+                }
+              },
+              {
+                  "$ref": "#/definitions/person"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/organization"
+                }
+              },
+              {
+                  "$ref": "#/definitions/organization"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "contributor": {
+            "description": "Person or organization that contributes to the work.",
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/person"
+                }
+              },
+              {
+                  "$ref": "#/definitions/person"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/organization"
+                }
+              },
+              {
+                  "$ref": "#/definitions/organization"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "dateCollected": {
+            "description": "The date on which the sample was collected.",
+            "format": "date",
+            "type": "string",
+            "owl:cardinality": "one"
+          },
+          "dateProcessed": {
+            "description": "The date the sample was processed or used in a method.",
+            "format": "date",
+            "type": "string",
+            "owl:cardinality": "one"
+          },
+          "locationOfOrigin": {
+            "description": "The location from which the sample was originally collected.",
+            "oneOf": [
+              {
+                "items": {
+                  "@type": "AdministrativeArea",
+                  "description": "Location information",
+                  "properties": {
+                    "administrativeType": {
+                      "description": "the type of administrative area, such as country, state, county, or city",
+                      "enum": ["province", "district", "chiefdom", "village", "city", "country", "prefecture", "sub-prefecture", "clan", "Federal Capital Territory", "state", "Local Government Area", "ward"],
+                      "type": "string"
+                    },
+                    "alternateName": {
+                      "description": "An alias for the location",
+                      "oneOf": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "items": {
+                            "type": "string"
+                          },
+                          "type": "array"
+                        }
+                      ]
+                    },
+                    "identifier": {
+                      "description": "An identifier for the location, preferably a Wikidata ID",
+                      "type": "string"
+                    },
+                    "locationType": {
+                      "description": "Categorization of how the location relates to the dataset",
+                      "const": "collection"
+                    },
+                    "name": {
+                      "description": "The name of the location",
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                },
+                "type": "array"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "type": "object",
+                "description": "Location information",
+                "properties": {
+                  "administrativeType": {
+                    "description": "the type of administrative area, such as country, state, county, or city",
+                    "enum": ["province", "district", "chiefdom", "village", "city", "country", "prefecture", "sub-prefecture", "clan", "Federal Capital Territory", "state", "Local Government Area", "ward"],
+                    "type": "string"
+                  },
+                  "alternateName": {
+                    "description": "An alias for the location",
+                    "oneOf": [
+                      {
+                        "type": "string"
+                      },
+                      {
+                        "items": {
+                          "type": "string"
+                        },
+                        "type": "array"
+                      }
+                    ]
+                  },
+                  "identifier": {
+                    "description": "An identifier for the location, preferably a Wikidata ID",
+                    "type": "string"
+                  }},
+                  "locationType": {
+                    "description": "Categorization of how the location relates to the dataset",
+                    "const": "collection"
+                  },
+                  "name": {
+                    "description": "The name of the location",
+                    "type": "string"
+                  }
+                }
+            ],
+            "owl:cardinality": "many"
+          },
+          "itemLocation": {
+            "description": "The location where the sample is stored and/or may be ordered.",
+            "oneOf": [
+              {
+                "items": {
+                  "@type": "AdministrativeArea",
+                  "description": "Location information",
+                  "properties": {
+                    "administrativeType": {
+                      "description": "the type of administrative area, such as country, state, county, or city",
+                      "enum": ["province", "district", "chiefdom", "village", "city", "country", "prefecture", "sub-prefecture", "clan", "Federal Capital Territory", "state", "Local Government Area", "ward"],
+                      "type": "string"
+                    },
+                    "alternateName": {
+                      "description": "An alias for the location",
+                      "oneOf": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "items": {
+                            "type": "string"
+                          },
+                          "type": "array"
+                        }
+                      ]
+                    },
+                    "identifier": {
+                      "description": "An identifier for the location, preferably a Wikidata ID",
+                      "type": "string"
+                    },
+                    "locationType": {
+                      "description": "Categorization of how the location relates to the dataset",
+                      "const": "collection"
+                    },
+                    "name": {
+                      "description": "The name of the location",
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                },
+                "type": "array"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "type": "object",
+                "description": "Location information",
+                "properties": {
+                  "administrativeType": {
+                    "description": "the type of administrative area, such as country, state, county, or city",
+                    "enum": ["province", "district", "chiefdom", "village", "city", "country", "prefecture", "sub-prefecture", "clan", "Federal Capital Territory", "state", "Local Government Area", "ward"],
+                    "type": "string"
+                  },
+                  "alternateName": {
+                    "description": "An alias for the location",
+                    "oneOf": [
+                      {
+                        "type": "string"
+                      },
+                      {
+                        "items": {
+                          "type": "string"
+                        },
+                        "type": "array"
+                      }
+                    ]
+                  },
+                  "identifier": {
+                    "description": "An identifier for the location, preferably a Wikidata ID",
+                    "type": "string"
+                  }},
+                  "locationType": {
+                    "description": "Categorization of how the location relates to the dataset",
+                    "const": "collection"
+                  },
+                  "name": {
+                    "description": "The name of the location",
+                    "type": "string"
+                  }
+                }
+            ],
+            "owl:cardinality": "many"
+          },
           "name": {
             "description": "The name of the item.",
             "type": "string",
@@ -349,10 +698,10 @@
           "name", "license"
         ],
         "recommended": [
-          "anatomicalSystem", "sampleAvailability", "sampleProcess", "sampleType", "cellType"
+          "anatomicalSystem", "sampleAvailability", "sampleProcess", "sampleType", "cellType", "collector", "contributor", "dateCollected", "dateProcessed", "locationOfOrigin"
         ],
         "optional": [
-          "associatedPhenotype", "associatedGenotype", "sampleQuantity", "sampleState", "sampleStorageTemperature"
+          "associatedPhenotype", "associatedGenotype", "sampleQuantity", "sampleState", "sampleStorageTemperature", "collectionMethod", "instrument", "environmentalSystem", "experimentalPurpose", "itemLocation"
         ],
         "definitions": {
           "citation": {
