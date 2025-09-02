@@ -200,6 +200,138 @@
             "type": "boolean",
             "owl:cardinality": "one"
           },
+          "sampleProcess": {
+            "description": "The processing technique that was applied to the sample, methods used to prepare the samples.",
+            "anyOf": [
+              {
+                "description": "collection of vocabulary terms defined in ontologies",
+                "strict": false,
+                "type": "string",
+                "vocabulary": {
+                  "children_of": ["http://purl.obolibrary.org/obo/OBI_0000094","http://purl.obolibrary.org/obo/NCIT_C48177","http://purl.obolibrary.org/obo/NCIT_C16680"],
+                  "ontology": ["OBI","NCIT"]
+                }
+              },
+              {
+                "items": {
+                  "description": "collection of vocabulary terms defined in ontologies",
+                  "strict": false,
+                  "type": "string",
+                  "vocabulary": {
+                    "children_of": ["http://purl.obolibrary.org/obo/OBI_0000094","http://purl.obolibrary.org/obo/NCIT_C48177","http://purl.obolibrary.org/obo/NCIT_C16680"],
+                    "ontology": ["OBI","NCIT"]
+                  }
+                },
+                "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/creativework"
+                }
+              },
+              {
+                  "$ref": "#/definitions/creativework"
+              },
+              {
+                "type":"string"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "sampleQuantity": {
+            "description": "A numeric value for a measurement of the size of a sample. If completely unknown, set value = 0, and unitText = 'unknown'",
+            "oneOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/quantitativevalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/quantitativevalue"
+              }
+            ],
+            "owl:cardinality": "many"             
+          },
+          "sampleState": {
+            "description": "Specify the condition, composition or state of the sample, for example dried, frozen, passage number.",
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/quantitativevalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/quantitativevalue"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "sampleStorageTemperature": {
+            "description": "The temperature at which the sample is stored.",
+            "oneOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/quantitativevalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/quantitativevalue"
+              }
+            ],
+            "owl:cardinality": "one"
+          },
+          "sampleType": {
+            "description": "The type of sample or specimen.",
+            "anyOf": [
+              {
+                "description": "collection of vocabulary terms defined in ontologies",
+                "strict": false,
+                "type": "string",
+                "vocabulary": {
+                  "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                  "ontology": ["OBI"]
+                }
+              },
+              {
+                "items": {
+                  "description": "collection of vocabulary terms defined in ontologies",
+                  "strict": false,
+                  "type": "string",
+                  "vocabulary": {
+                    "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                    "ontology": ["OBI"]
+                  }
+                },
+                "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
           "name": {
             "description": "The name of the item.",
             "type": "string",
@@ -217,12 +349,193 @@
           "name", "license"
         ],
         "recommended": [
-          "anatomicalSystem", "sampleAvailability", "cellType"
+          "anatomicalSystem", "sampleAvailability", "sampleProcess", "sampleType", "cellType"
         ],
         "optional": [
-          "associatedPhenotype", "associatedGenotype"
+          "associatedPhenotype", "associatedGenotype", "sampleQuantity", "sampleState", "sampleStorageTemperature"
         ],
         "definitions": {
+          "citation": {
+            "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
+            "@type": "ScholarlyArticle",
+            "type": "object",
+            "properties": {
+              "author": {
+                "description": "Author(s) of the publication",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/person"
+                    }
+                  },
+                  {
+                      "$ref": "#/definitions/person"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/organization"
+                    }
+                  },
+                  {
+                      "$ref": "#/definitions/organization"
+                  }
+                ]
+              },
+              "abstract": {
+                "description": "Abstract of the publication",
+                "type": "string"
+              },
+              "datePublished": {
+                "description": "Date the article was published",
+                "format": "date",
+                "type": "string"
+              },
+              "description": {
+                "description": "Description of the publication",
+                "type": "string"
+              },
+              "name": {
+                "description": "Title of the publication",
+                "type": "string"
+              },
+              "identifier": {
+                "description": "An identifier associated with the citation such as a digital object identifier (DOI), PubMed ID (PMID), or PubMed Central ID (PMCID)",
+                "type": "string"
+              },
+              "pmid": {
+                "description": "A PubMed identifier (PMID) of the referenced publication",
+                "abstract": "PubMed identifier",
+                "type": "string"
+              },
+              "doi": {
+                "description": "A digital object identifier (DOI) of the referenced publication",
+                "abstract": "digital object identifier",
+                "type": "string"
+              },
+              "issueNumber": {
+                "description": "Issue number where the article appears",
+                "type": "string"
+              },
+              "journalName": {
+                "description": "Journal where the article appears",
+                "type": "string"
+              },
+              "journalNameAbbrev": {
+                "description": "Abbreviated journal name where the article appears",
+                "type": "string"
+              },
+              "pagination": {
+                "description": "Page numbers in the journal where the article appears",
+                "type": "string"
+              },
+              "url": {
+                "description": "The url of the article",
+                "type": "string",
+                "format": "uri"
+              },
+              "volumeNumber": {
+                "description": "Volume of the journal where the article appears",
+                "type": "string"
+              },
+              "citation": {
+                "description": "The bibliographic citation string for the article as is provided",
+                "type": "string"
+              }
+            },
+            "required": ["name"],
+            "recommended": ["author", "datePublished", "doi", "identifier", "journalName", "pmid", "url"],
+            "optional": ["abstract", "citation", "description", "issueNumber", "journalNameAbbrev", "pagination", "volumeNumber"]
+          },
+          "creativework": {
+            "description": "A resource",
+            "@type": "CreativeWork",
+            "type": "object",
+            "properties": {
+              "author": {
+                "description": "Author(s) of the referenced work",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/person"
+                    }
+                  },
+                  {
+                      "$ref": "#/definitions/person"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/organization"
+                    }
+                  },
+                  {
+                      "$ref": "#/definitions/organization"
+                  }
+                ]
+              },
+              "abstract": {
+                "description": "Abstract of the referenced work",
+                "type": "string"
+              },
+              "datePublished": {
+                "description": "Date the referenced work was published",
+                "format": "date",
+                "type": "string"
+              },
+              "description": {
+                "description": "Description of the referenced work",
+                "type": "string"
+              },
+              "hasPart": {
+                "description": "A portion of the work",
+                "oneOf": [
+                  {
+                    "$ref": "#/definitions/citation"
+                  }
+                ]
+              },
+              "includedInDataCatalog": {
+                "description": "Data or tool catalog which houses the work",
+                "oneOf": [
+                  {
+                    "$ref": "#/definitions/catalog"
+                  }
+                ]
+              },
+              "name": {
+                "description": "Name or title",
+                "type": "string"
+              },
+              "identifier": {
+                "description": "An identifier associated with the work",
+                "type": "string"
+              },
+              "relationship": {
+                "description": "How the works are related",
+                "type": "string"
+              },
+              "doi": {
+                "description": "A digital object identifier (DOI) of the referenced work",
+                "abstract": "digital object identifier",
+                "type": "string"
+              },
+              "url": {
+                "description": "The url of the work",
+                "type": "string",
+                "format": "uri"
+              },
+              "citation": {
+                "description": "The bibliographic citation for the referenced work as is provided",
+                "type": "string"
+              }
+            },
+            "required": ["name"],
+            "recommended": ["author", "datePublished", "doi", "identifier", "includedInDataCatalog", "relationship", "url"],
+            "optional": ["abstract", "citation", "description", "hasPart"]
+          },
           "definedterm": {
             "@type": "DefinedTerm",
             "type": "object",
@@ -265,12 +578,210 @@
               }
             },
             "required": []  
+          },
+          "quantitativevalue": {
+            "@type": "QuantitativeValue",
+            "description": "A numeric value and unit for a property with potentially different units",
+            "type": "object",
+            "properties": {
+              "value": {
+                "description": "A numeric value for the property",
+                "type": "number"
+              },
+              "maxValue": {
+                "description": "An estimated maximum numberic value if the actual value is not known. Ignore if actual numeric value is known.",
+                "type": "number"
+              },
+              "minValue": {
+                "description": "An estimated minumum numeric value if the actual value is not known. Ignore if actual numeric value is known.",
+                "type": "number"
+              },
+              "unitText": {
+                "description": "A unit associated with the value. E.g.- 'records' for the number of records in a database.",
+                "type": "string"
+              }
+            },
+            "required" : ["unitText"],
+            "recommended": ["value"],
+            "optional": ["maxValue","minValue"]
+          
+        },
+          "catalog": {
+            "@type": "DataCatalog",
+            "description": "Data or tool catalog",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "Data or tool catalog name",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to data or tool catalog",
+                "type": "string",
+                "format": "uri"
+              },
+              "versionDate": {
+                "description": "date the metadata was harvested from the catalog",
+                "type": "string",
+                "format": "date"
+              },
+              "archivedAt": {
+                "description": "The url(s) of one or more datasets, tools, resources or other items listed in a DataCatalog or ResourceCatalog",
+                "oneOf": [
+                  {
+                    "items": {
+                      "type": "string",
+                      "format": "uri"
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                ]
+              }
+            },
+            "required": ["name", "url"],
+            "recommended": ["versionDate", "archivedAt"]
+          },
+          "organization": {
+            "@type": "Organization",
+            "description": "Reusable organization definition",
+            "properties": {
+              "affiliation": {
+                "type": "object",
+                "properties": {
+                  "name": {
+                    "description": "Name of the affiliation, such as a university",
+                    "type": "string"
+                  },
+                  "sameAs": {
+                    "description": "Alias for the affiliation",
+                    "type": "string"
+                  },
+                  "url": {
+                    "description": "URL of the affiliation",
+                    "type": "string",
+                    "format": "uri"
+                  }
+                },
+                "required": ["name"],
+                "optional": ["sameAs", "url"]
+              },
+              "alternateName": {
+                "description": "Alias of the name",
+                "oneOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "name": {
+                "description": "Name of the organization",
+                "type": "string"
+              },
+              "parentOrganization": {
+                "description": "Name of the parent organization. For instance, the parentOrganization of NIAID is the National Institutes of health (NIH)",
+                "type": "string"
+              },
+              "email": {
+                "description": "Email address of the organization",
+                "type": "string"
+              },
+              "identifier": {
+                "description": "Unique identifier of the organization",
+                "type": "string"
+              },
+              "role": {
+                "description": "What role the organization played in creating the dataset",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to the organization",
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "required": ["name"],
+            "recommended": ["identifier"],
+            "optional": ["affiliation", "alternateName", "email", "parentOrganization", "role", "url"],
+            "type": "object"
+          },
+          "person": {
+            "@type": "Person",
+            "description": "Reusable person definition",
+            "properties": {
+              "affiliation": {
+                "type": "object",
+                "properties": {
+                  "name": {
+                    "description": "Name of the affiliation, such as a university",
+                    "type": "string"
+                  },
+                  "sameAs": {
+                    "description": "Alias for the affiliation",
+                    "type": "string"
+                  },
+                  "url": {
+                    "description": "URL of the affiliation",
+                    "type": "string",
+                    "format": "uri"
+                  }
+                },
+                "required": ["name"],
+                "optional": ["sameAs", "url"]
+              },
+              "name": {
+                "description": "Name of the person",
+                "type": "string"
+              },
+              "email": {
+                "description": "Email address of the person",
+                "type": "string"
+              },
+              "familyName": {
+                "description": "Family name (surname) of the person",
+                "type": "string"
+              },
+              "givenName": {
+                "description": "Given (first) name of the person",
+                "type": "string"
+              },
+              "identifier": {
+                "description": "Unique identifier of the person, like an ORCID ID",
+                "type": "string"
+              },
+              "role": {
+                "description": "Role the person played in creating the dataset",
+                "type": "string"
+              },
+              "title": {
+                "description": "Title of the person",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to the homepage or other web content describing the person",
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "required": ["name"],
+            "recommended": ["familyName", "givenName ", "identifier "],
+            "optional": ["affiliation", "email", "role", "title", "url"],
+            "type": "object"
           }
-        }
       },
       "schemaVersion": [
         "https://schema.org/docs/releases.html#v29.2"
       ]
+      }
     },
     {
       "@id": "ndetemp:associatedPhenotype",

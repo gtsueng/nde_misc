@@ -78,6 +78,78 @@
             ],
             "owl:cardinality": "many"
           },
+          "associatedGenotype": {
+            "description": "One or more genetic variants or molecular features observed or inferred from the sample.",
+            "anyOf": [
+              {
+                "description": "collection of vocabulary terms defined in ontologies",
+                "strict": false,
+                "type": "string",
+                "vocabulary": {
+                  "children_of": ["http://purl.obolibrary.org/obo/NCIT_C16612", "http://purl.obolibrary.org/obo/NCIT_C20181","http://purl.obolibrary.org/obo/NCIT_C17649"],
+                  "ontology": ["NCIT"]
+                }
+              },
+              {
+                "items": {
+                  "description": "collection of vocabulary terms defined in ontologies",
+                  "strict": false,
+                  "type": "string",
+                  "vocabulary": {
+                    "children_of": ["http://purl.obolibrary.org/obo/NCIT_C16612", "http://purl.obolibrary.org/obo/NCIT_C20181","http://purl.obolibrary.org/obo/NCIT_C17649"],
+                    "ontology": ["NCIT"]
+                  }
+                },
+                "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "cellType": {
+            "description": "The type of cell represented in or derived from the biological sample, based on morphology, lineage, or molecular markers.",
+            "anyOf": [
+              {
+                "description": "collection of vocabulary terms defined in ontologies",
+                "strict": false,
+                "type": "string",
+                "vocabulary": {
+                  "children_of": ["http://purl.obolibrary.org/obo/CL_0000000", "http://purl.obolibrary.org/obo/CLO_0000031"],
+                  "ontology": ["CL","CLO"]
+                }
+              },
+              {
+                "items": {
+                  "description": "collection of vocabulary terms defined in ontologies",
+                  "strict": false,
+                  "type": "string",
+                  "vocabulary": {
+                    "children_of": ["http://purl.obolibrary.org/obo/CL_0000000", "http://purl.obolibrary.org/obo/CLO_0000031"],
+                    "ontology": ["CL","CLO"]
+                  }
+                },
+                "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
           "anatomicalSystem": {
             "description": "Indicate the anatomical system from which the sample is collect, e.g. circulatory, digestive, endocrine, immune and other systems.",
             "anyOf": [
@@ -122,53 +194,11 @@
             ],
             "owl:cardinality": "many"
           },
-          "associatedDisease": {
-            "description": "one or more observable traits or conditions relevant to the source of the sample.",
-            "anyOf": [
-              {
-                "description": "collection of vocabulary terms defined in ontologies",
-                "strict": false,
-                "type": "string",
-                "vocabulary": {
-                  "children_of": [
-                    "http://purl.obolibrary.org/obo/UPHENO_0001001",
-                    "http://purl.obolibrary.org/obo/PATO_0000001"
-                  ],
-                  "ontology": [
-                    "UPHENO",
-                    "PATO"
-                  ]
-                }
-              },
-              {
-                "items": {
-                  "description": "collection of vocabulary terms defined in ontologies",
-                  "strict": false,
-                  "type": "string",
-                  "vocabulary": {
-                    "children_of": [
-                      "http://purl.obolibrary.org/obo/UPHENO_0001001",
-                      "http://purl.obolibrary.org/obo/PATO_0000001"
-                    ],
-                    "ontology": [
-                      "UPHENO",
-                      "PATO"
-                    ]
-                  }
-                },
-                "type": "array"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/definedterm"
-                }
-              },
-              {
-                "$ref": "#/definitions/definedterm"
-              }
-            ],
-            "owl:cardinality": "many"
+          "sampleAvailability": {
+            "description": "A flag to signal that the sample is available for reuse.",
+            "abstract": "availability of the sample",
+            "type": "boolean",
+            "owl:cardinality": "one"
           },
           "name": {
             "description": "The name of the item.",
@@ -187,10 +217,10 @@
           "name", "license"
         ],
         "recommended": [
-          "anatomicalSystem"
+          "anatomicalSystem", "sampleAvailability", "cellType"
         ],
         "optional": [
-          "associatedDisease"
+          "associatedPhenotype", "associatedGenotype"
         ],
         "definitions": {
           "definedterm": {
@@ -259,6 +289,46 @@
         },
         {
           "@id": "schema:URL"
+        }
+      ]
+    },
+    {
+      "@id": "ndetemp:associatedGenotype",
+      "@type": "rdf:Property",
+      "rdfs:comment": "One or more genetic variants or molecular features observed or inferred from the sample.",
+      "rdfs:label": "associatedGenotype",
+      "schema:domainIncludes": {
+        "@id": "ndetemp:Sample"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:Text"
+        },
+        {
+          "@id": "schema:URL"
+        },
+        {
+          "@id": "schema:DefinedTerm"
+        }
+      ]
+    },
+    {
+      "@id": "ndetemp:cellType",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The type of cell represented in or derived from the biological sample, based on morphology, lineage, or molecular markers.",
+      "rdfs:label": "cellType",
+      "schema:domainIncludes": {
+        "@id": "ndetemp:Sample"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:Text"
+        },
+        {
+          "@id": "schema:URL"
+        },
+        {
+          "@id": "schema:DefinedTerm"
         }
       ]
     }
