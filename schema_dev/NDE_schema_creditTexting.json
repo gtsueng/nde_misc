@@ -1837,7 +1837,7 @@
         "@id": "niaid:ComputationalTool"
       },
       "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.09.03"],
-      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions.",
+      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions. Added the creditText property as optional.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -3093,11 +3093,16 @@
               }
             ],
             "owl:cardinality": "many"
+          },
+          "creditText": {
+            "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the tool.",
+            "type": "string",
+            "owl:cardinality": "one"
           }
         },
         "required": ["date", "includedInDataCatalog", "funding", "author", "description", "name"],
         "recommended": ["citedBy", "doi", "topicCategory", "codeRepository", "programmingLanguage", "applicationCategory", "applicationSubCategory", "input", "output", "featureList", "operatingSystem", "softwareRequirements", "softwareVersion", "citation", "conditionsOfAccess", "dateModified", "interactionStatistic", "license", "identifier", "url"],
-        "optional": ["isBasisFor", "isRelatedTo", "isSimilarTo", "infectiousAgent", "healthCondition", "species", "applicationSuite", "availableOnDevice", "downloadUrl", "processorRequirements", "softwareAddOn", "softwareHelp", "aggregateRating", "contributor", "creator", "dateCreated", "datePublished", "discussionUrl", "hasPart", "inLanguage", "isAccessibleForFree", "isBasedOn", "isPartOf", "keywords", "provider", "sdPublisher", "thumbnailUrl", "mainEntityOfPage", "sameAs","sourceOrganization"],
+        "optional": ["isBasisFor", "isRelatedTo", "isSimilarTo", "infectiousAgent", "healthCondition", "species", "applicationSuite", "availableOnDevice", "downloadUrl", "processorRequirements", "softwareAddOn", "softwareHelp", "aggregateRating", "contributor", "creator", "dateCreated", "datePublished", "discussionUrl", "hasPart", "inLanguage", "isAccessibleForFree", "isBasedOn", "isPartOf", "keywords", "provider", "sdPublisher", "thumbnailUrl", "mainEntityOfPage", "sameAs","sourceOrganization", "creditText"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -5005,11 +5010,16 @@
               }
             ],
             "owl:cardinality": "many"
+          },
+          "creditText": {
+            "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the resource.",
+            "type": "string",
+            "owl:cardinality": "one"
           }
         },
         "required": ["date", "funding", "measurementTechnique", "description", "name", "url", "about","genre", "includedInDataCatalog"],
         "recommended": ["author", "citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory", "collectionSize", "hasAPI", "hasDownload", "collectionType"],
-        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "distribution", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship", "sourceOrganization", "archivedAt"],
+        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "distribution", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship", "sourceOrganization", "archivedAt","creditText"],
         "definitions": {
           "citation": {
             "description": "A citation object for a publication which is cited by the resource catalog (ie- is a derivative of the resource catalog), related to the resource catalog, or from which the resource catalog was based on (ie- is derived from).",
@@ -5888,7 +5898,7 @@
           "@id": "nde:ResourceCatalog"
         }
       ],
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.1 - 2025.08.26"],
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.1 - 2025.09.03"],
       "dct:provenance":"First draft.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
@@ -7825,31 +7835,9 @@
             "owl:cardinality": "many"
           },
           "creditText": {
-            "description": "A statement on how to credit the resource creators/providers or structured citation object(s) that should be used to credit/cite the resource.",
-            "anyOf": [
-              {
-                "type": "string"  
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/citation"
-                }
-              },
-              {
-                "$ref": "#/definitions/citation"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/creativework"
-                }
-              },
-              {
-                  "$ref": "#/definitions/creativework"
-              }
-            ],
-            "owl:cardinality": "many"            
+            "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the sample.",
+            "type": "string",
+            "owl:cardinality": "one"
           }
         },
         "required": ["name", "url", "identifier", "includedInDataCatalog", "author", "date"],
