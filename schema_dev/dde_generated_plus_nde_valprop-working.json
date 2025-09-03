@@ -686,6 +686,50 @@
             "type": "string",
             "owl:cardinality": "one"
           },
+          "description": {
+            "description": "A description of the sample.",
+            "owl:cardinality": "one",
+            "type": "string"
+          },
+          "identifier": {
+            "description": "Sample identifier or accession number, such as a digital object identifier (DOI), sequence read archive (SRA) or GenBank accession number, etc.",
+            "abstract": "identifier or accession number",
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "items": {
+                  "type": "string"
+                },
+                "type": "array"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "sameAs": {
+            "description": "URL of additional sources for the work.",
+            "oneOf": [
+              {
+                "items": {
+                  "type": "string",
+                  "format": "uri"
+                },
+                "type": "array"
+              },
+              {
+                "type": "string",
+                "format": "uri"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "url": {
+            "description": "URL of the work.",
+            "type": "string",
+            "format": "uri",
+            "owl:cardinality": "one"
+          },
           "license": {
             "description": "A license document that applies to this work, typically indicated by URL.",
             "abstract": "license for use",
@@ -711,10 +755,10 @@
           }
         },
         "required": [
-          "name"
+          "name", "url", "identifier"
         ],
         "recommended": [
-          "anatomicalSystem", "sampleAvailability", "sampleProcess", "sampleType", "cellType", "collector", "contributor", "dateCollected", "dateProcessed", "locationOfOrigin", "usageInfo", "license"
+          "description", "sameAs","anatomicalSystem", "sampleAvailability", "sampleProcess", "sampleType", "cellType", "collector", "contributor", "dateCollected", "dateProcessed", "locationOfOrigin", "usageInfo", "license"
         ],
         "optional": [
           "associatedPhenotype", "associatedGenotype", "sampleQuantity", "sampleState", "sampleStorageTemperature", "collectionMethod", "instrument", "environmentalSystem", "experimentalPurpose", "itemLocation"
