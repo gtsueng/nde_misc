@@ -692,13 +692,29 @@
             "format": "uri",
             "owl:cardinality": "one",
             "type": "string"
+          },
+          "usageInfo": {
+            "description": "The terms under which the sample can be used. Note that this is related to but distinct from the license.",
+            "abstract": "sample usage agreement",
+            "oneOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/creativework"
+                }
+              },
+              {
+                "$ref": "#/definitions/creativework"
+              }
+            ],
+            "owl:cardinality": "many"
           }
         },
         "required": [
-          "name", "license"
+          "name"
         ],
         "recommended": [
-          "anatomicalSystem", "sampleAvailability", "sampleProcess", "sampleType", "cellType", "collector", "contributor", "dateCollected", "dateProcessed", "locationOfOrigin"
+          "anatomicalSystem", "sampleAvailability", "sampleProcess", "sampleType", "cellType", "collector", "contributor", "dateCollected", "dateProcessed", "locationOfOrigin", "usageInfo", "license"
         ],
         "optional": [
           "associatedPhenotype", "associatedGenotype", "sampleQuantity", "sampleState", "sampleStorageTemperature", "collectionMethod", "instrument", "environmentalSystem", "experimentalPurpose", "itemLocation"
