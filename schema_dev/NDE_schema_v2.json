@@ -19,14 +19,14 @@
       "rdfs:subClassOf": {
         "@id": "niaid:Dataset"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.7 - 2025.05.29"],
-      "dct:provenance":"Changes since previous version: Replace includedInDataCatalog.dataset with includedInDataCatalog.archivedAt.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.8 - 2025.09.03"],
+      "dct:provenance":"Changes since previous version: Add 'sample' property to link Dataset to samples. Update 'citation' and 'citedBy' description. Added the creditText property as optional.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
         "properties": {
           "citedBy": {
-            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which reuses the dataset in a secondary analysis, a dataset which extends the existing dataset, or a computational tool which relies on the dataset.",
+            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which reuses the dataset in a secondary analysis, a dataset which extends the existing dataset, or a computational tool which relies on the dataset. For the primary publication, use the 'citation' property.",
             "anyOf": [
               {
                 "type": "array",
@@ -665,7 +665,7 @@
             "owl:cardinality": "many"
           },
           "citation": {
-            "description": "A citation or reference to a publication, dataset, or computational tool which uses the dataset. Examples: a publication which describes the creation/collection/analysis of the dataset.",
+            "description": "The primary citation or reference about the dataset. Examples: a publication which describes the creation of the dataset. The original reference by the dataset creators/maintainers that should be cited when reusing the dataset. For other references to the dataset, use 'citedBy'.",
             "abstract": "citation to the work",
             "owl:cardinality": "many",
             "anyOf": [
@@ -1285,11 +1285,16 @@
               }
             ],
             "owl:cardinality": "many"
+          },
+          "creditText": {
+            "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the dataset.",
+            "type": "string",
+            "owl:cardinality": "one"
           }
         },
         "required": ["date", "funding", "distribution", "includedInDataCatalog", "measurementTechnique", "author", "description", "name", "url"],
-        "recommended": ["citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory", "sample"],
-        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "nctid", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship","sourceOrganization"],
+        "recommended": ["citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory"],
+        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "nctid", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship","sourceOrganization", "sample","creditText"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -1831,14 +1836,14 @@
       "rdfs:subClassOf": {
         "@id": "niaid:ComputationalTool"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.8 - 2025.05.29"],
-      "dct:provenance":"Changes since previous version: Replace includedInDataCatalog.dataset with includedInDataCatalog.archivedAt.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.09.03"],
+      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions. Added the creditText property as optional.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
         "properties": {
           "citedBy": {
-            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which reuses the dataset in a secondary analysis, a dataset which extends the existing dataset, or a computational tool which relies on the dataset.",
+            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which uses the tool on a new dataset. For the primary publication, use the 'citation' property.",
             "anyOf": [
               {
                 "type": "array",
@@ -2703,7 +2708,7 @@
             "owl:cardinality": "many"
           },
           "citation": {
-            "description": "A citation or reference to a publication, dataset, or computational tool which uses the computational tool. Examples: a publication which describes the development of the computational tool, a publication which describes the extension or use of the computational tool, a dataset which was processed or analyzed using the tool, or a computational tool which relies on the given tool.",
+            "description": "The primary citation or reference about the computational tool. Examples: a publication which describes the development, features and/or application of the tool. The original reference by the tool developers/maintainers that should be cited when reusing the tool. For other references to the tool, use 'citedBy'. ",
             "abstract": "citation to the work",
             "anyOf": [
               {
@@ -3088,11 +3093,16 @@
               }
             ],
             "owl:cardinality": "many"
+          },
+          "creditText": {
+            "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the tool.",
+            "type": "string",
+            "owl:cardinality": "one"
           }
         },
         "required": ["date", "includedInDataCatalog", "funding", "author", "description", "name"],
         "recommended": ["citedBy", "doi", "topicCategory", "codeRepository", "programmingLanguage", "applicationCategory", "applicationSubCategory", "input", "output", "featureList", "operatingSystem", "softwareRequirements", "softwareVersion", "citation", "conditionsOfAccess", "dateModified", "interactionStatistic", "license", "identifier", "url"],
-        "optional": ["isBasisFor", "isRelatedTo", "isSimilarTo", "infectiousAgent", "healthCondition", "species", "applicationSuite", "availableOnDevice", "downloadUrl", "processorRequirements", "softwareAddOn", "softwareHelp", "aggregateRating", "contributor", "creator", "dateCreated", "datePublished", "discussionUrl", "hasPart", "inLanguage", "isAccessibleForFree", "isBasedOn", "isPartOf", "keywords", "provider", "sdPublisher", "thumbnailUrl", "mainEntityOfPage", "sameAs","sourceOrganization"],
+        "optional": ["isBasisFor", "isRelatedTo", "isSimilarTo", "infectiousAgent", "healthCondition", "species", "applicationSuite", "availableOnDevice", "downloadUrl", "processorRequirements", "softwareAddOn", "softwareHelp", "aggregateRating", "contributor", "creator", "dateCreated", "datePublished", "discussionUrl", "hasPart", "inLanguage", "isAccessibleForFree", "isBasedOn", "isPartOf", "keywords", "provider", "sdPublisher", "thumbnailUrl", "mainEntityOfPage", "sameAs","sourceOrganization", "creditText"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -3685,8 +3695,8 @@
       "rdfs:subClassOf": {
         "@id": "schema:Collection"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.8 - 2025.05.29"],
-      "dct:provenance":"Changes since previous version: Replace includedInDataCatalog.dataset with includedInDataCatalog.archivedAt.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.09.03"],
+      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions. Added QuantitativeValue as optional expected type for 'collectionSize'.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -3706,7 +3716,7 @@
             "owl:cardinality": "many"    
           },
           "citedBy": {
-            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which uses information or content of the resource catalog for secondary analysis, or a computational tool which relies on the content of the resource catalog",
+            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which uses information or content of the resource catalog for secondary analysis, or a computational tool which relies on the content of the resource catalog. For the primary citation, use the 'citation' field.",
             "anyOf": [
               {
                 "type": "array",
@@ -4340,7 +4350,7 @@
             "owl:cardinality": "many"
           },
           "citation": {
-            "description": "A citation or reference to a publication, dataset, or computational tool which uses the resource catalog. Examples: a publication which describes the creation of the resource catalog.",
+            "description": "The primary citation or reference about the resource catalog. Examples: a publication which describes the development of or improvements to the resource catalog. The original reference by the resource catalog developers/maintainers that should be cited when using the resource. For all other references to the resource catalog, use 'citedBy'.",
             "abstract": "citation to the work",
             "owl:cardinality": "many",
             "anyOf": [
@@ -4934,7 +4944,7 @@
           },
           "collectionSize": {
             "description": "The number of records, datasets, tools, items, pages, etc. in the resource catalog. Min/max estimates can be used in lieu of actual number. If completely unknown, set value = 0, and unitText = 'unknown'",
-            "oneOf": [
+            "anyOf": [
               {
                 "type": "array",
                 "items": {
@@ -4943,7 +4953,16 @@
               },
               {
                 "$ref": "#/definitions/propertyvalue"
-              }
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/quantitativevalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/quantitativevalue"
+              }    
             ],
             "owl:cardinality": "many"             
           },
@@ -5000,11 +5019,16 @@
               }
             ],
             "owl:cardinality": "many"
+          },
+          "creditText": {
+            "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the resource.",
+            "type": "string",
+            "owl:cardinality": "one"
           }
         },
         "required": ["date", "funding", "measurementTechnique", "description", "name", "url", "about","genre", "includedInDataCatalog"],
         "recommended": ["author", "citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory", "collectionSize", "hasAPI", "hasDownload", "collectionType"],
-        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "distribution", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship", "sourceOrganization", "archivedAt"],
+        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "distribution", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship", "sourceOrganization", "archivedAt","creditText"],
         "definitions": {
           "citation": {
             "description": "A citation object for a publication which is cited by the resource catalog (ie- is a derivative of the resource catalog), related to the resource catalog, or from which the resource catalog was based on (ie- is derived from).",
@@ -5414,6 +5438,42 @@
           },
           "propertyvalue": {
             "@type": "PropertyValue",
+            "description": "A numeric value and unit for a property with potentially different units",
+            "type": "object",
+            "properties": {
+              "value": {
+                "description": "A numeric value for the property",
+                "type": "number"
+              },
+              "maxValue": {
+                "description": "An estimated maximum numberic value if the actual value is not known. Ignore if actual numeric value is known.",
+                "type": "number"
+              },
+              "minValue": {
+                "description": "An estimated minumum numeric value if the actual value is not known. Ignore if actual numeric value is known.",
+                "type": "number"
+              },
+              "unitText": {
+                "description": "A unit associated with the value. E.g.- 'records' for the number of records in a database.",
+                "type": "string"
+              },
+              "propertyID": {
+                "description": "A commonly used identifier for the characteristic represented by the property, e.g. a manufacturer or a standard code for a property. propertyID can be (1) a prefixed string, mainly meant to be used with standards for product properties; (2) a site-specific, non-prefixed string (e.g. the primary key of the property or the vendor-specific ID of the property), or (3) a URL indicating the type of the property, either pointing to an external vocabulary, or a Web resource that describes the property (e.g. a glossary entry). Standards bodies should promote a standard prefix for the identifiers of properties from their standards.",
+                "oneOf": [
+                  {"type": "string"},
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                ]
+              }
+            },
+            "required" : ["unitText"],
+            "recommended": ["value","propertyID"],
+            "optional": ["maxValue","minValue"]
+          },
+          "quantitativevalue": {
+            "@type": "QuantitativeValue",
             "description": "A numeric value and unit for a property with potentially different units",
             "type": "object",
             "properties": {
@@ -5883,7 +5943,7 @@
           "@id": "nde:ResourceCatalog"
         }
       ],
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.1 - 2025.08.26"],
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.1 - 2025.09.03"],
       "dct:provenance":"First draft.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
@@ -7820,36 +7880,14 @@
             "owl:cardinality": "many"
           },
           "creditText": {
-            "description": "A statement on how to credit the resource creators/providers or structured citation object(s) that should be used to credit/cite the resource.",
-            "anyOf": [
-              {
-                "type": "string"  
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/citation"
-                }
-              },
-              {
-                "$ref": "#/definitions/citation"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/creativework"
-                }
-              },
-              {
-                  "$ref": "#/definitions/creativework"
-              }
-            ],
-            "owl:cardinality": "many"            
+            "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the sample.",
+            "type": "string",
+            "owl:cardinality": "one"
           }
         },
         "required": ["name", "url", "identifier", "includedInDataCatalog", "author", "date"],
         "recommended": ["description", "sameAs", "conditionsOfAccess", "usageInfo", "license", "cellType", "infectiousAgent", "species", "healthCondition", "funding", "creditText", "anatomicalStructure", "sex", "developmentalStage", "sampleAvailability", "sampleProcess", "sampleType", "collectionMethod", "instrument", "collector", "contributor", "locationOfOrigin", "citation", "dateModified", "dateCollected", "dateProcessed", "interactionStatistic", "keywords", "sdPublisher", "sourceOrganization", "topicCategory", "creditText"],
-        "optional": ["associatedPhenotype", "associatedGenotype", "citeBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage"],
+        "optional": ["associatedPhenotype", "associatedGenotype", "citedBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -8724,6 +8762,9 @@
       "schema:rangeIncludes": [
         {
           "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:QuantitativeValue"
         }
       ]
     },
