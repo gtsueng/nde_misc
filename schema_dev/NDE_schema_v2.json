@@ -8308,6 +8308,41 @@
             "recommended": ["url"],
             "optional": ["dateModified"],
             "type": "object"
+          },
+          "sample": {
+            "@type": "Sample",
+            "description": "reusable sample object",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "sample name",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to sample",
+                "type": "string",
+                "format": "uri"
+              },
+              "identifier": {
+                "description": "an identifier for the sample",
+                "type": "string"
+              },
+              "includedInDataCatalog": {
+                "description": "Data or resource catalog where the sample is listed",
+                "oneOf": [
+                  {
+                    "$ref": "#/definitions/catalog"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/catalog"
+                    }
+                  }
+                ]
+              }
+            },
+            "required": ["name", "url", "identifier","includedInDataCatalog"]
           }
         }
       }
