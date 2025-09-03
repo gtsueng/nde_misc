@@ -4957,7 +4957,7 @@
               {
                 "type": "array",
                 "items": {
-                  "$ref": "#/definitions/quantiativevalue"
+                  "$ref": "#/definitions/quantitativevalue"
                 }
               },
               {
