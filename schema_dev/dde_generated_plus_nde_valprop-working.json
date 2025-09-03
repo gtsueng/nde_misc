@@ -501,6 +501,186 @@
             ],
             "owl:cardinality": "many"
           },
+          "dateCollected": {
+            "description": "The date on which the sample was collected.",
+            "format": "date",
+            "type": "string",
+            "owl:cardinality": "one"
+          },
+          "dateProcessed": {
+            "description": "The date the sample was processed or used in a method.",
+            "format": "date",
+            "type": "string",
+            "owl:cardinality": "one"
+          },
+          "locationOfOrigin": {
+            "description": "The location from which the sample was originally collected.",
+            "oneOf": [
+              {
+                "items": {
+                  "@type": "AdministrativeArea",
+                  "description": "Location information",
+                  "properties": {
+                    "administrativeType": {
+                      "description": "the type of administrative area, such as country, state, county, or city",
+                      "enum": ["province", "district", "chiefdom", "village", "city", "country", "prefecture", "sub-prefecture", "clan", "Federal Capital Territory", "state", "Local Government Area", "ward"],
+                      "type": "string"
+                    },
+                    "alternateName": {
+                      "description": "An alias for the location",
+                      "oneOf": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "items": {
+                            "type": "string"
+                          },
+                          "type": "array"
+                        }
+                      ]
+                    },
+                    "identifier": {
+                      "description": "An identifier for the location, preferably a Wikidata ID",
+                      "type": "string"
+                    },
+                    "locationType": {
+                      "description": "Categorization of how the location relates to the dataset",
+                      "const": "collection"
+                    },
+                    "name": {
+                      "description": "The name of the location",
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                },
+                "type": "array"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "type": "object",
+                "description": "Location information",
+                "properties": {
+                  "administrativeType": {
+                    "description": "the type of administrative area, such as country, state, county, or city",
+                    "enum": ["province", "district", "chiefdom", "village", "city", "country", "prefecture", "sub-prefecture", "clan", "Federal Capital Territory", "state", "Local Government Area", "ward"],
+                    "type": "string"
+                  },
+                  "alternateName": {
+                    "description": "An alias for the location",
+                    "oneOf": [
+                      {
+                        "type": "string"
+                      },
+                      {
+                        "items": {
+                          "type": "string"
+                        },
+                        "type": "array"
+                      }
+                    ]
+                  },
+                  "identifier": {
+                    "description": "An identifier for the location, preferably a Wikidata ID",
+                    "type": "string"
+                  }},
+                  "locationType": {
+                    "description": "Categorization of how the location relates to the dataset",
+                    "const": "collection"
+                  },
+                  "name": {
+                    "description": "The name of the location",
+                    "type": "string"
+                  }
+                }
+            ],
+            "owl:cardinality": "many"
+          },
+          "itemLocation": {
+            "description": "The location where the sample is stored and/or may be ordered.",
+            "oneOf": [
+              {
+                "items": {
+                  "@type": "AdministrativeArea",
+                  "description": "Location information",
+                  "properties": {
+                    "administrativeType": {
+                      "description": "the type of administrative area, such as country, state, county, or city",
+                      "enum": ["province", "district", "chiefdom", "village", "city", "country", "prefecture", "sub-prefecture", "clan", "Federal Capital Territory", "state", "Local Government Area", "ward"],
+                      "type": "string"
+                    },
+                    "alternateName": {
+                      "description": "An alias for the location",
+                      "oneOf": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "items": {
+                            "type": "string"
+                          },
+                          "type": "array"
+                        }
+                      ]
+                    },
+                    "identifier": {
+                      "description": "An identifier for the location, preferably a Wikidata ID",
+                      "type": "string"
+                    },
+                    "locationType": {
+                      "description": "Categorization of how the location relates to the dataset",
+                      "const": "collection"
+                    },
+                    "name": {
+                      "description": "The name of the location",
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                },
+                "type": "array"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "type": "object",
+                "description": "Location information",
+                "properties": {
+                  "administrativeType": {
+                    "description": "the type of administrative area, such as country, state, county, or city",
+                    "enum": ["province", "district", "chiefdom", "village", "city", "country", "prefecture", "sub-prefecture", "clan", "Federal Capital Territory", "state", "Local Government Area", "ward"],
+                    "type": "string"
+                  },
+                  "alternateName": {
+                    "description": "An alias for the location",
+                    "oneOf": [
+                      {
+                        "type": "string"
+                      },
+                      {
+                        "items": {
+                          "type": "string"
+                        },
+                        "type": "array"
+                      }
+                    ]
+                  },
+                  "identifier": {
+                    "description": "An identifier for the location, preferably a Wikidata ID",
+                    "type": "string"
+                  }},
+                  "locationType": {
+                    "description": "Categorization of how the location relates to the dataset",
+                    "const": "collection"
+                  },
+                  "name": {
+                    "description": "The name of the location",
+                    "type": "string"
+                  }
+                }
+            ],
+            "owl:cardinality": "many"
+          },
           "name": {
             "description": "The name of the item.",
             "type": "string",
@@ -518,10 +698,10 @@
           "name", "license"
         ],
         "recommended": [
-          "anatomicalSystem", "sampleAvailability", "sampleProcess", "sampleType", "cellType", "collector", "contributor"
+          "anatomicalSystem", "sampleAvailability", "sampleProcess", "sampleType", "cellType", "collector", "contributor", "dateCollected", "dateProcessed", "locationOfOrigin"
         ],
         "optional": [
-          "associatedPhenotype", "associatedGenotype", "sampleQuantity", "sampleState", "sampleStorageTemperature", "collectionMethod", "instrument", "environmentalSystem", "experimentalPurpose"
+          "associatedPhenotype", "associatedGenotype", "sampleQuantity", "sampleState", "sampleStorageTemperature", "collectionMethod", "instrument", "environmentalSystem", "experimentalPurpose", "itemLocation"
         ],
         "definitions": {
           "citation": {
