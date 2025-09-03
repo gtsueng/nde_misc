@@ -1259,10 +1259,36 @@
               }
             ],
             "owl:cardinality": "many"
+          },
+          "sample": {
+            "description": "the samples used to generate the dataset",
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/samplerecord"
+                }
+              },
+              {
+                  "$ref": "#/definitions/samplerecord"
+              },
+              {
+                  "type": "string",
+                  "format": "uri"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "format": "uri"
+                }
+              }
+            ],
+            "owl:cardinality": "many"
           }
         },
         "required": ["date", "funding", "distribution", "includedInDataCatalog", "measurementTechnique", "author", "description", "name", "url"],
-        "recommended": ["citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory"],
+        "recommended": ["citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory", "sample"],
         "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "nctid", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship","sourceOrganization"],
         "definitions": {
           "citation": {
@@ -1757,6 +1783,41 @@
             "recommended": ["url"],
             "optional": ["dateModified"],
             "type": "object"
+          },
+          "samplerecord": {
+            "@type": "Sample",
+            "description": "reusable sample object",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "sample name",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to sample",
+                "type": "string",
+                "format": "uri"
+              },
+              "identifier": {
+                "description": "an identifier for the sample",
+                "type": "string"
+              },
+              "includedInDataCatalog": {
+                "description": "Data or resource catalog where the sample is listed",
+                "oneOf": [
+                  {
+                    "$ref": "#/definitions/catalog"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/catalog"
+                    }
+                  }
+                ]
+              }
+            },
+            "required": ["name", "url", "identifier","includedInDataCatalog"]
           }
         }
       }
@@ -9056,6 +9117,23 @@
         },
         {
           "@id": "schema:DefinedTerm"
+        }
+      ]
+    },
+    {
+      "@id": "nde:sample",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The sample(s) which were used to generate the dataset",
+      "rdfs:label": "sample",
+      "schema:domainIncludes": {
+        "@id": "nde:Dataset"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "nde:Sample"
+        },
+        {
+          "@id": "schema:URL"
         }
       ]
     }
