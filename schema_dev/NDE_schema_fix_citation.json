@@ -1831,14 +1831,14 @@
       "rdfs:subClassOf": {
         "@id": "niaid:ComputationalTool"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.8 - 2025.05.29"],
-      "dct:provenance":"Changes since previous version: Replace includedInDataCatalog.dataset with includedInDataCatalog.archivedAt.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.09.03"],
+      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
         "properties": {
           "citedBy": {
-            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which reuses the dataset in a secondary analysis, a dataset which extends the existing dataset, or a computational tool which relies on the dataset.",
+            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which uses the tool on a new dataset. For the primary publication, use the 'citation' property.",
             "anyOf": [
               {
                 "type": "array",
@@ -2703,7 +2703,7 @@
             "owl:cardinality": "many"
           },
           "citation": {
-            "description": "A citation or reference to a publication, dataset, or computational tool which uses the computational tool. Examples: a publication which describes the development of the computational tool, a publication which describes the extension or use of the computational tool, a dataset which was processed or analyzed using the tool, or a computational tool which relies on the given tool.",
+            "description": "The primary citation or reference about the computational tool. Examples: a publication which describes the development, features and/or application of the tool. The original reference by the tool developers/maintainers that should be cited when reusing the tool. For other references to the tool, use 'citedBy'. ",
             "abstract": "citation to the work",
             "anyOf": [
               {
