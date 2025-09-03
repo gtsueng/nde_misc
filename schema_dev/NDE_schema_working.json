@@ -20,13 +20,13 @@
         "@id": "niaid:Dataset"
       },
       "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.8 - 2025.09.03"],
-      "dct:provenance":"Changes since previous version: Add 'sample' property to link Datasets with samples. Update 'citation' and 'citedBy' descriptions",
+      "dct:provenance":"Changes since previous version: Add 'sample' property to link Dataset to samples. Update 'citation' and 'citedBy' description.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
         "properties": {
           "citedBy": {
-            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which reuses the dataset in a secondary analysis, a dataset which extends the existing dataset, or a computational tool which relies on the dataset.",
+            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which reuses the dataset in a secondary analysis, a dataset which extends the existing dataset, or a computational tool which relies on the dataset. For the primary publication, use the 'citation' property.",
             "anyOf": [
               {
                 "type": "array",
@@ -1288,8 +1288,8 @@
           }
         },
         "required": ["date", "funding", "distribution", "includedInDataCatalog", "measurementTechnique", "author", "description", "name", "url"],
-        "recommended": ["citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory", "sample"],
-        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "nctid", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship","sourceOrganization"],
+        "recommended": ["citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory"],
+        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "nctid", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship","sourceOrganization", "sample"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -1831,14 +1831,14 @@
       "rdfs:subClassOf": {
         "@id": "niaid:ComputationalTool"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.8 - 2025.05.29"],
-      "dct:provenance":"Changes since previous version: Replace includedInDataCatalog.dataset with includedInDataCatalog.archivedAt.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.09.03"],
+      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
         "properties": {
           "citedBy": {
-            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which reuses the dataset in a secondary analysis, a dataset which extends the existing dataset, or a computational tool which relies on the dataset.",
+            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which uses the tool on a new dataset. For the primary publication, use the 'citation' property.",
             "anyOf": [
               {
                 "type": "array",
@@ -2703,7 +2703,7 @@
             "owl:cardinality": "many"
           },
           "citation": {
-            "description": "A citation or reference to a publication, dataset, or computational tool which uses the computational tool. Examples: a publication which describes the development of the computational tool, a publication which describes the extension or use of the computational tool, a dataset which was processed or analyzed using the tool, or a computational tool which relies on the given tool.",
+            "description": "The primary citation or reference about the computational tool. Examples: a publication which describes the development, features and/or application of the tool. The original reference by the tool developers/maintainers that should be cited when reusing the tool. For other references to the tool, use 'citedBy'. ",
             "abstract": "citation to the work",
             "anyOf": [
               {
@@ -3685,8 +3685,8 @@
       "rdfs:subClassOf": {
         "@id": "schema:Collection"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.8 - 2025.05.29"],
-      "dct:provenance":"Changes since previous version: Replace includedInDataCatalog.dataset with includedInDataCatalog.archivedAt.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.09.03"],
+      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -3706,7 +3706,7 @@
             "owl:cardinality": "many"    
           },
           "citedBy": {
-            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which uses information or content of the resource catalog for secondary analysis, or a computational tool which relies on the content of the resource catalog",
+            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which uses information or content of the resource catalog for secondary analysis, or a computational tool which relies on the content of the resource catalog. For the primary citation, use the 'citation' field.",
             "anyOf": [
               {
                 "type": "array",
@@ -4340,7 +4340,7 @@
             "owl:cardinality": "many"
           },
           "citation": {
-            "description": "A citation or reference to a publication, dataset, or computational tool which uses the resource catalog. Examples: a publication which describes the creation of the resource catalog.",
+            "description": "The primary citation or reference about the resource catalog. Examples: a publication which describes the development of or improvements to the resource catalog. The original reference by the resource catalog developers/maintainers that should be cited when using the resource. For all other references to the resource catalog, use 'citedBy'.",
             "abstract": "citation to the work",
             "owl:cardinality": "many",
             "anyOf": [
@@ -7849,7 +7849,7 @@
         },
         "required": ["name", "url", "identifier", "includedInDataCatalog", "author", "date"],
         "recommended": ["description", "sameAs", "conditionsOfAccess", "usageInfo", "license", "cellType", "infectiousAgent", "species", "healthCondition", "funding", "creditText", "anatomicalStructure", "sex", "developmentalStage", "sampleAvailability", "sampleProcess", "sampleType", "collectionMethod", "instrument", "collector", "contributor", "locationOfOrigin", "citation", "dateModified", "dateCollected", "dateProcessed", "interactionStatistic", "keywords", "sdPublisher", "sourceOrganization", "topicCategory", "creditText"],
-        "optional": ["associatedPhenotype", "associatedGenotype", "citeBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage"],
+        "optional": ["associatedPhenotype", "associatedGenotype", "citedBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
