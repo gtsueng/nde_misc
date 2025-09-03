@@ -781,13 +781,130 @@
               }
             ],
             "owl:cardinality": "one"
+          },
+          "infectiousAgent": {
+            "description": "Infectious agent(s) / pathogen(s) which are the focus of the work (like SARS-CoV-2).",
+            "abstract": "infectious agent / pathogen",
+            "anyOf": [
+              {
+                "description": "collection of vocabulary terms defined in ontologies",
+                "strict": false,
+                "type": "string",
+                "vocabulary": {
+                  "children_of": ["http://purl.obolibrary.org/obo/NCBITaxon_10239", "http://purl.obolibrary.org/obo/NCBITaxon_2"],
+                  "ontology": ["ncbitaxon"]
+                }
+              },
+              {
+                "items": {
+                  "description": "collection of vocabulary terms defined in ontologies",
+                  "strict": false,
+                  "type": "string",
+                  "vocabulary": {
+                    "children_of": ["http://purl.obolibrary.org/obo/NCBITaxon_10239", "http://purl.obolibrary.org/obo/NCBITaxon_2"],
+                    "ontology": ["ncbitaxon"]
+                  }
+                },
+                "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "healthCondition": {
+            "description": "The health condition(s) /infectious disease(s) which are the focus of the work (like COVID-19, coronavirus).",
+            "abstract": "health condition/disease",
+            "anyOf": [
+              {
+                "description": "collection of vocabulary terms defined in ontologies",
+                "strict": false,
+                "type": "string",
+                "vocabulary": {
+                  "children_of": ["http://purl.obolibrary.org/obo/MONDO_0000001",
+                                  "http://purl.obolibrary.org/obo/DOID_4",
+                                  "http://purl.obolibrary.org/obo/HP_0000001",
+                                  "http://purl.obolibrary.org/obo/NCIT_C7057"],
+                  "ontology": ["mondo","hpo","doid","ncit"]
+                }
+              },
+              {
+                "items": {
+                  "description": "collection of vocabulary terms defined in ontologies",
+                  "strict": false,
+                  "type": "string",
+                  "vocabulary": {
+                    "children_of": ["http://purl.obolibrary.org/obo/MONDO_0000001",
+                                    "http://purl.obolibrary.org/obo/DOID_4",
+                                    "http://purl.obolibrary.org/obo/HP_0000001",
+                                    "http://purl.obolibrary.org/obo/NCIT_C7057"],
+                    "ontology": ["mondo","hpo","doid","ncit"]
+                  }
+                },
+                "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "species": {
+            "description": "Species / host organism from which the dataset has been collected.",
+            "abstract": "species/host organism",
+            "anyOf": [
+              {
+                "description": "collection of vocabulary terms defined in ontologies",
+                "strict": false,
+                "type": "string",
+                "vocabulary": {
+                  "children_of": ["http://purl.obolibrary.org/obo/NCBITaxon_131567", "http://purl.obolibrary.org/obo/NCBITaxon_10239"],
+                  "ontology": ["ncbitaxon"]
+                }
+              },
+              {
+                "items": {
+                  "description": "collection of vocabulary terms defined in ontologies",
+                  "strict": false,
+                  "type": "string",
+                  "vocabulary": {
+                    "children_of": ["http://purl.obolibrary.org/obo/NCBITaxon_131567", "http://purl.obolibrary.org/obo/NCBITaxon_10239"],
+                    "ontology": ["ncbitaxon"]
+                  }
+                },
+                "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              }
+            ],
+            "owl:cardinality": "many"
           }
         },
         "required": [
           "name", "url", "identifier", "includedInDataCatalog"
         ],
         "recommended": [
-          "description", "sameAs", "conditionsOfAccess","anatomicalSystem", "sampleAvailability", "sampleProcess", "sampleType", "cellType", "collector", "contributor", "dateCollected", "dateProcessed", "locationOfOrigin", "collectionMethod", "instrument", "usageInfo", "license"
+          "description", "sameAs", "conditionsOfAccess","anatomicalSystem", "sampleAvailability", "sampleProcess", "sampleType", "cellType", "collector", "contributor", "dateCollected", "dateProcessed", "locationOfOrigin", "collectionMethod", "instrument", "usageInfo", "license", "infectiousAgent", "species", "healthCondition"
         ],
         "optional": [
           "associatedPhenotype", "associatedGenotype", "sampleQuantity", "sampleState", "sampleStorageTemperature", "environmentalSystem", "experimentalPurpose", "itemLocation", "isAccessibleForFree"
