@@ -1894,11 +1894,11 @@
                   {
                     "type": "array",
                     "items": {
-                      "$ref": "#/definitions/sample"
+                      "$ref": "#/definitions/samplerecord"
                     }
                   },
                   {
-                    "$ref": "#/definitions/sample"
+                    "$ref": "#/definitions/samplerecord"
                   },
                   {
                     "type": "array",
@@ -6491,6 +6491,15 @@
               },
               {
                   "$ref": "#/definitions/sample"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sampleset"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sampleset"
               }
             ],
             "owl:cardinality": "many"
@@ -6661,6 +6670,15 @@
               },
               {
                   "$ref": "#/definitions/sample"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sampleset"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sampleset"
               }
             ]
           },
@@ -8447,6 +8465,220 @@
             "recommended": ["url"],
             "optional": ["dateModified"],
             "type": "object"
+          },
+          "sample": {
+            "@type": "Sample",
+            "description": "reusable sample object",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "sample name",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to sample",
+                "type": "string",
+                "format": "uri"
+              },
+              "identifier": {
+                "description": "an identifier for the sample",
+                "type": "string"
+              },
+              "sampleQuantity": {
+                "description": "A numeric value for a measurement of the size of a sample. If completely unknown, set value = 0, and unitText = 'unknown'",
+                "oneOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/quantitativevalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/quantitativevalue"
+                  }
+                ],
+                "owl:cardinality": "many"             
+              },
+              "sampleType": {
+                "description": "The type of sample or specimen.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                      "ontology": ["OBI"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                        "ontology": ["OBI"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "includedInDataCatalog": {
+                "description": "Data or resource catalog where the sample is listed",
+                "oneOf": [
+                  {
+                    "$ref": "#/definitions/catalog"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/catalog"
+                    }
+                  }
+                ]
+              }
+            },
+            "required": ["name", "url", "identifier","includedInDataCatalog"],
+            "recommended": ["sampleQuantity", "sampleType"]
+          },
+          "sampleset": {
+            "@type": "SampleCollection",
+            "description": "A collection of Samples",
+            "type": "object",
+            "properties": {
+              "sampleList": {
+                "description": "A list of Samples in the Samplecollection.",
+                "abstract": "Samples in the SampleCollection",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/sample"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/sample"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  {
+                      "type": "string",
+                      "format": "url"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "sampleQuantity": {
+                "description": "A numeric value for a measurement of the size of a sample. If completely unknown, set value = 0, and unitText = 'unknown'",
+                "oneOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/quantitativevalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/quantitativevalue"
+                  }
+                ],
+                "owl:cardinality": "many"             
+              },
+              "collectionSize": {
+                "description": "Aggregate values derived from or about the samples in the collection. Note these are calculated values from or about the samples in the sampleList. For example, if there are 10 Sample records, 7 samples from male birds, 3 from female birds, a collectionSize might consist of 'value':7, 'unitText': 'male', 'propertyID': 'http://purl.obolibrary.org/obo/UPHENO_0005025'.",
+                "oneOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/propertyvalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/propertyvalue"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/quantiativevalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/quantitativevalue"
+                  }    
+                ],
+                "owl:cardinality": "many"             
+              },
+              "sampleType": {
+                "description": "The type of sample or specimen.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                      "ontology": ["OBI"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                        "ontology": ["OBI"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "includedInDataCatalog": {
+                "description": "Data or resource catalog where the sample is listed; original source of the metadata.",
+                "abstract": "catalog containing the work",
+                "oneOf": [
+                  {
+                    "$ref": "#/definitions/catalog"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/catalog"
+                    }
+                  }
+                ],
+                "owl:cardinality": "one"
+              }
+            },
+            "required": ["includedInDataCatalog"],
+            "recommended": ["sampleQuantity", "collectionSize", "sampleList", "sampleType"]
           }
         }
       }
@@ -8988,8 +9220,8 @@
             "owl:cardinality": "many"
           },
           "isRelatedTo": {
-            "description": "Datasets, resources, or samples which are related to the given sample; often sample involved in the same study. These linkages are created via human curation.",
-            "abstract": "related resources or samples (via curation)",
+            "description": "Datasets, resources, or samples which are related to the given sample collection; for example a sample collection involved in the same study. These linkages are created via human curation.",
+            "abstract": "related resources or sample collection (via curation)",
             "anyOf": [
               {
                 "type": "array",
@@ -9017,12 +9249,21 @@
               },
               {
                   "$ref": "#/definitions/sample"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sampleset"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sampleset"
               }
             ],
             "owl:cardinality": "many"
           },
           "isSimilarTo": {
-            "description": "Datasets, resources, or samples which are similar to the sample, based on terms in the names, descriptions, authors, measurementTechniques, infectiousAgents, healthConditions, etc.",
+            "description": "Datasets, resources, or samples which are similar to the sample collection, based on terms in the names, descriptions, authors, measurementTechniques, infectiousAgents, healthConditions, etc.",
             "abstract": "similar resources of samples (auto-assigned)",
             "anyOf": [
               {
@@ -9051,12 +9292,21 @@
               },
               {
                   "$ref": "#/definitions/sample"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sampleset"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sampleset"
               }
             ],
             "owl:cardinality": "many"
           },
           "isBasisFor": {
-            "description": "A resource or sample which reuses the sample. For example, a sample of a cell line that was created by knocking out a gene from this cell line sample. Another example would be a sample of infected tissue that was derived from this tissue sample by infecting it with a virus.",
+            "description": "A resource or sample which reuses the sample collection. For example, a metagenome sample that was created mixing multiple samples in a sample collection.",
             "anyOf": [
               {
                 "type": "array",
@@ -9084,12 +9334,21 @@
               },
               {
                   "$ref": "#/definitions/sample"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sampleset"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sampleset"
               }
             ],
             "owl:cardinality": "many"
           },
           "isBasedOn": {
-            "description": "A resource or sample from which this sample is derived, modified, or adapted. For example a sample of a cell line, which was infected by virus sample in order to create the sample. ",
+            "description": "A resource or sample from which this sample collection is derived, modified, or adapted. For example a collection of samples generated by infecting a cell culture sample with different viruses. ",
             "abstract": "resource or sample used to create the sample.",
             "owl:cardinality": "many",
             "anyOf": [
@@ -9119,6 +9378,15 @@
               },
               {
                   "$ref": "#/definitions/sample"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sampleset"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sampleset"
               }
             ]
           },
@@ -9152,6 +9420,15 @@
               },
               {
                   "$ref": "#/definitions/sample"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sampleset"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sampleset"
               }
             ],
             "owl:cardinality": "many"
@@ -9187,6 +9464,15 @@
               },
               {
                   "$ref": "#/definitions/sample"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sampleset"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sampleset"
               }
             ]
           },
@@ -11033,6 +11319,220 @@
             "recommended": ["url"],
             "optional": ["dateModified"],
             "type": "object"
+          },
+          "sample": {
+            "@type": "Sample",
+            "description": "reusable sample object",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "sample name",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to sample",
+                "type": "string",
+                "format": "uri"
+              },
+              "identifier": {
+                "description": "an identifier for the sample",
+                "type": "string"
+              },
+              "sampleQuantity": {
+                "description": "A numeric value for a measurement of the size of a sample. If completely unknown, set value = 0, and unitText = 'unknown'",
+                "oneOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/quantitativevalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/quantitativevalue"
+                  }
+                ],
+                "owl:cardinality": "many"             
+              },
+              "sampleType": {
+                "description": "The type of sample or specimen.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                      "ontology": ["OBI"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                        "ontology": ["OBI"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "includedInDataCatalog": {
+                "description": "Data or resource catalog where the sample is listed",
+                "oneOf": [
+                  {
+                    "$ref": "#/definitions/catalog"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/catalog"
+                    }
+                  }
+                ]
+              }
+            },
+            "required": ["name", "url", "identifier","includedInDataCatalog"],
+            "recommended": ["sampleQuantity", "sampleType"]
+          },
+          "sampleset": {
+            "@type": "SampleCollection",
+            "description": "A collection of Samples",
+            "type": "object",
+            "properties": {
+              "sampleList": {
+                "description": "A list of Samples in the Samplecollection.",
+                "abstract": "Samples in the SampleCollection",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/sample"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/sample"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  {
+                      "type": "string",
+                      "format": "url"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "sampleQuantity": {
+                "description": "A numeric value for a measurement of the size of a sample. If completely unknown, set value = 0, and unitText = 'unknown'",
+                "oneOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/quantitativevalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/quantitativevalue"
+                  }
+                ],
+                "owl:cardinality": "many"             
+              },
+              "collectionSize": {
+                "description": "Aggregate values derived from or about the samples in the collection. Note these are calculated values from or about the samples in the sampleList. For example, if there are 10 Sample records, 7 samples from male birds, 3 from female birds, a collectionSize might consist of 'value':7, 'unitText': 'male', 'propertyID': 'http://purl.obolibrary.org/obo/UPHENO_0005025'.",
+                "oneOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/propertyvalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/propertyvalue"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/quantiativevalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/quantitativevalue"
+                  }    
+                ],
+                "owl:cardinality": "many"             
+              },
+              "sampleType": {
+                "description": "The type of sample or specimen.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                      "ontology": ["OBI"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                        "ontology": ["OBI"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "includedInDataCatalog": {
+                "description": "Data or resource catalog where the sample is listed; original source of the metadata.",
+                "abstract": "catalog containing the work",
+                "oneOf": [
+                  {
+                    "$ref": "#/definitions/catalog"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/catalog"
+                    }
+                  }
+                ],
+                "owl:cardinality": "one"
+              }
+            },
+            "required": ["includedInDataCatalog"],
+            "recommended": ["sampleQuantity", "collectionSize", "sampleList", "sampleType"]
           }
         }
       }
