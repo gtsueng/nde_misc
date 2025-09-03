@@ -19,14 +19,14 @@
       "rdfs:subClassOf": {
         "@id": "niaid:Dataset"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.7 - 2025.05.29"],
-      "dct:provenance":"Changes since previous version: Replace includedInDataCatalog.dataset with includedInDataCatalog.archivedAt.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.8 - 2025.09.03"],
+      "dct:provenance":"Changes since previous version: Add 'sample' property to link Dataset to samples. Update 'citation' and 'citedBy' description.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
         "properties": {
           "citedBy": {
-            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which reuses the dataset in a secondary analysis, a dataset which extends the existing dataset, or a computational tool which relies on the dataset.",
+            "description": "Publications, datasets, or computational tools that cite the work. Examples: a publication which reuses the dataset in a secondary analysis, a dataset which extends the existing dataset, or a computational tool which relies on the dataset. For the primary publication, use the 'citation' property.",
             "anyOf": [
               {
                 "type": "array",
@@ -665,7 +665,7 @@
             "owl:cardinality": "many"
           },
           "citation": {
-            "description": "A citation or reference to a publication, dataset, or computational tool which uses the dataset. Examples: a publication which describes the creation/collection/analysis of the dataset.",
+            "description": "The primary citation or reference about the dataset. Examples: a publication which describes the creation of the dataset. The original reference by the dataset creators/maintainers that should be cited when reusing the dataset. For other references to the dataset, use 'citedBy'.",
             "abstract": "citation to the work",
             "owl:cardinality": "many",
             "anyOf": [
@@ -1288,8 +1288,8 @@
           }
         },
         "required": ["date", "funding", "distribution", "includedInDataCatalog", "measurementTechnique", "author", "description", "name", "url"],
-        "recommended": ["citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory", "sample"],
-        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "nctid", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship","sourceOrganization"],
+        "recommended": ["citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory"],
+        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "nctid", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship","sourceOrganization", "sample"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
