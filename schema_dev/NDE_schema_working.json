@@ -3696,7 +3696,7 @@
         "@id": "schema:Collection"
       },
       "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.09.03"],
-      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions.",
+      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions. Added QuantitativeValue as optional expected type for 'collectionSize'.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -4944,7 +4944,7 @@
           },
           "collectionSize": {
             "description": "The number of records, datasets, tools, items, pages, etc. in the resource catalog. Min/max estimates can be used in lieu of actual number. If completely unknown, set value = 0, and unitText = 'unknown'",
-            "oneOf": [
+            "anyOf": [
               {
                 "type": "array",
                 "items": {
@@ -4953,7 +4953,16 @@
               },
               {
                 "$ref": "#/definitions/propertyvalue"
-              }
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/quantitativevalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/quantitativevalue"
+              }    
             ],
             "owl:cardinality": "many"             
           },
@@ -5429,6 +5438,42 @@
           },
           "propertyvalue": {
             "@type": "PropertyValue",
+            "description": "A numeric value and unit for a property with potentially different units",
+            "type": "object",
+            "properties": {
+              "value": {
+                "description": "A numeric value for the property",
+                "type": "number"
+              },
+              "maxValue": {
+                "description": "An estimated maximum numberic value if the actual value is not known. Ignore if actual numeric value is known.",
+                "type": "number"
+              },
+              "minValue": {
+                "description": "An estimated minumum numeric value if the actual value is not known. Ignore if actual numeric value is known.",
+                "type": "number"
+              },
+              "unitText": {
+                "description": "A unit associated with the value. E.g.- 'records' for the number of records in a database.",
+                "type": "string"
+              },
+              "propertyID": {
+                "description": "A commonly used identifier for the characteristic represented by the property, e.g. a manufacturer or a standard code for a property. propertyID can be (1) a prefixed string, mainly meant to be used with standards for product properties; (2) a site-specific, non-prefixed string (e.g. the primary key of the property or the vendor-specific ID of the property), or (3) a URL indicating the type of the property, either pointing to an external vocabulary, or a Web resource that describes the property (e.g. a glossary entry). Standards bodies should promote a standard prefix for the identifiers of properties from their standards.",
+                "oneOf": [
+                  {"type": "string"},
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                ]
+              }
+            },
+            "required" : ["unitText"],
+            "recommended": ["value","propertyID"],
+            "optional": ["maxValue","minValue"]
+          },
+          "quantitativevalue": {
+            "@type": "QuantitativeValue",
             "description": "A numeric value and unit for a property with potentially different units",
             "type": "object",
             "properties": {
@@ -8717,6 +8762,9 @@
       "schema:rangeIncludes": [
         {
           "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:QuantitativeValue"
         }
       ]
     },
