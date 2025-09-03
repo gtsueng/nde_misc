@@ -898,6 +898,377 @@
               }
             ],
             "owl:cardinality": "many"
+          },
+          "funding": {
+            "description": "Funding that supports (sponsors) the collection of this dataset through some kind of financial contribution.",
+            "abstract": "funding source (grant, contract, etc.)",
+            "oneOf": [
+              {
+                "type": "object",
+                "@type": "MonetaryGrant",
+                "description": "Funding that supports (sponsors) the collection of this dataset through some kind of financial contribution",
+                "properties": {
+                  "funder": {
+                    "description": "An organization associated with a creator or funder of a dataset",
+                    "oneOf": [
+                      {
+                        "type": "object",
+                        "@type": "Organization",
+                        "description": "Information about a single funder",
+                        "properties": {
+                          "name": {
+                            "type": "string",
+                            "description": "An organization associated with a creator or funder of a dataset"
+                          },
+                          "parentOrganization": {
+                            "type": "string",
+                            "description": "name of the parent funding organization"
+                          }
+                        },
+                        "required": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "@type": "Organization",
+                          "description": "Information about a single funder",
+                          "properties": {
+                            "name": {
+                              "type": "string",
+                              "description": "An organization associated with a creator or funder of a dataset"
+                            },
+                            "parentOrganization": {
+                              "type": "string",
+                              "description": "name of the parent funding organization"
+                            }
+                          },
+                          "required": [
+                            "name"
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "description": {
+                    "type": "string",
+                    "description": "description about the funding award / grant"
+                  },
+                  "url": {
+                    "type": "string",
+                    "description": "award / grant URL"
+                  },
+                  "identifier": {
+                    "type": "string",
+                    "description": "Unique identifier(s) for the grant(s) used to fund the Dataset"
+                  }
+                },
+                "required": [
+                  "funder",
+                  "identifier"
+                ]
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "@type": "MonetaryGrant",
+                  "description": "Funding that supports (sponsors) the collection of this dataset through some kind of financial contribution",
+                  "properties": {
+                    "funder": {
+                      "description": "An organization associated with a creator or funder of a dataset",
+                      "oneOf": [
+                        {
+                          "type": "object",
+                          "@type": "Organization",
+                          "description": "Information about a single funder",
+                          "properties": {
+                            "name": {
+                              "type": "string",
+                              "description": "An organization associated with a creator or funder of a dataset"
+                            },
+                            "parentOrganization": {
+                              "type": "string",
+                              "description": "name of the parent funding organization"
+                            }
+                          },
+                          "required": [
+                            "name"
+                          ]
+                        },
+                        {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "@type": "Organization",
+                            "description": "Information about a single funder",
+                            "properties": {
+                              "name": {
+                                "type": "string",
+                                "description": "An organization associated with a creator or funder of a dataset"
+                              },
+                              "parentOrganization": {
+                                "type": "string",
+                                "description": "name of the parent funding organization"
+                              }
+                            },
+                            "required": [
+                              "name"
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    "description": {
+                      "type": "string",
+                      "description": "description about the funding award / grant"
+                    },
+                    "url": {
+                      "type": "string",
+                      "description": "award / grant URL"
+                    },
+                    "identifier": {
+                      "type": "string",
+                      "description": "Unique identifier(s) for the grant(s) used to fund the Dataset"
+                    }
+                  },
+                  "required": [
+                    "funder",
+                    "identifier"
+                  ]
+                }
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "citedBy": {
+            "description": "Publications, datasets, or computational tools that cite the sample. Examples: a dataset which reuses the sample in a secondary study.",
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/citation"
+                }
+              },
+              {
+                "$ref": "#/definitions/citation"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/creativework"
+                }
+              },
+              {
+                  "$ref": "#/definitions/creativework"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "isRelatedTo": {
+            "description": "Datasets, resources, or samples which are related to the given sample; often sample involved in the same study. These linkages are created via human curation.",
+            "abstract": "related resources or samples (via curation)",
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/citation"
+                }
+              },
+              {
+                "$ref": "#/definitions/citation"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/creativework"
+                }
+              },
+              {
+                  "$ref": "#/definitions/creativework"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sample"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sample"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "isSimilarTo": {
+            "description": "Datasets, resources, or samples which are similar to the sample, based on terms in the names, descriptions, authors, measurementTechniques, infectiousAgents, healthConditions, etc.",
+            "abstract": "similar resources of samples (auto-assigned)",
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/citation"
+                }
+              },
+              {
+                "$ref": "#/definitions/citation"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/creativework"
+                }
+              },
+              {
+                  "$ref": "#/definitions/creativework"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sample"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sample"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "isBasisFor": {
+            "description": "A resource or sample which reuses the sample. For example, a sample of a cell line that was created by knocking out a gene from this cell line sample. Another example would be a sample of infected tissue that was derived from this tissue sample by infecting it with a virus.",
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/citation"
+                }
+              },
+              {
+                "$ref": "#/definitions/citation"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/creativework"
+                }
+              },
+              {
+                  "$ref": "#/definitions/creativework"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sample"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sample"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "isBasedOn": {
+            "description": "A resource or sample from which this sample is derived, modified, or adapted. For example a sample of a cell line, which was infected by virus sample in order to create the sample. ",
+            "abstract": "resource or sample used to create the sample.",
+            "owl:cardinality": "many",
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/citation"
+                }
+              },
+              {
+                "$ref": "#/definitions/citation"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/creativework"
+                }
+              },
+              {
+                  "$ref": "#/definitions/creativework"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sample"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sample"
+              }
+            ]
+          },
+          "hasPart": {
+            "description": "Associated materials that constitute the sample. For example, other samples (if sample was created by pooling samples), additives, cryoprotective agents, etc. Use 'hasPart' for samples that were generated by pooling other samples. For example, a synthetic microbiome sample may use 'hasPart' to list the individual microbial samples used to generate it.",
+            "abstract": "Associated materials or samples that constitute the sample",
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/citation"
+                }
+              },
+              {
+                "$ref": "#/definitions/citation"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/creativework"
+                }
+              },
+              {
+                  "$ref": "#/definitions/creativework"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sample"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sample"
+              }
+            ],
+            "owl:cardinality": "many"
+          },
+          "isPartOf": {
+            "description": "Associated materials the sample may help constitute. For example, the pooled sample that used this sample. Use 'isPartOf' for pooled samples generated from this sample. For example, a microbial sample that was used to generate a synthetic microbiome sample.",
+            "abstract": "study or project including the work",
+            "owl:cardinality": "many",
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/citation"
+                }
+              },
+              {
+                "$ref": "#/definitions/citation"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/creativework"
+                }
+              },
+              {
+                  "$ref": "#/definitions/creativework"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sample"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sample"
+              }
+            ]
           }
         },
         "required": [
@@ -1331,6 +1702,41 @@
             "recommended": ["familyName", "givenName ", "identifier "],
             "optional": ["affiliation", "email", "role", "title", "url"],
             "type": "object"
+          },
+          "sample": {
+            "@type": "Sample",
+            "description": "reusable sample object",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "sample name",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to sample",
+                "type": "string",
+                "format": "uri"
+              },
+              "identifier": {
+                "description": "an identifier for the sample",
+                "type": "string"
+              },
+              "includedInDataCatalog": {
+                "description": "Data or resource catalog where the sample is listed",
+                "oneOf": [
+                  {
+                    "$ref": "#/definitions/catalog"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/catalog"
+                    }
+                  }
+                ]
+              }
+            },
+            "required": ["name", "url", "identifier","includedInDataCatalog"]
           }
       },
       "schemaVersion": [

@@ -5,7 +5,6 @@
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "dct": "http://purl.org/dc/terms/",
     "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
-    "bioschemastypes": "https://discovery.biothings.io/ns/bioschemastypes/",
     "bioschemastypesdrafts": "https://discovery.biothings.io/ns/bioschemastypesdrafts/",
     "niaid": "http://discovery.biothings.io/ns/niaid/",
     "nde": "https://discovery.biothings.io/ns/nde/",
@@ -20,7 +19,7 @@
       "rdfs:label": "Sample",
       "rdfs:subClassOf": [
         {
-          "@id": "bioschemastypesdrafts:BioSample"
+          "@id": "bioschemastypesdrafts:Sample"
         },
         {
           "@id": "nde:ResourceCatalog"
@@ -728,150 +727,6 @@
                   "$ref": "#/definitions/sample"
               }
             ]
-          },
-          "anatomicalSystem": {
-            "description": "Indicate the anatomical system from which the sample is collect, e.g. circulatory, digestive, endocrine, immune and other systems.",
-            "anyOf": [
-              {
-                "description": "collection of vocabulary terms defined in ontologies",
-                "strict": false,
-                "type": "string",
-                "vocabulary": {
-                  "children_of": ["http://purl.obolibrary.org/obo/UBERON_0000467"],
-                  "ontology": ["UBERON"]
-                }
-              },
-              {
-                "items": {
-                  "description": "collection of vocabulary terms defined in ontologies",
-                  "strict": false,
-                  "type": "string",
-                  "vocabulary": {
-                    "children_of": ["http://purl.obolibrary.org/obo/UBERON_0000467"],
-                    "ontology": ["UBERON"]
-                  }
-                },
-                "type": "array"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/definedterm"
-                }
-              },
-              {
-                "$ref": "#/definitions/definedterm"
-              }
-            ],
-            "owl:cardinality": "many"
-          },
-          "anatomicalStructure": {
-            "description": "Indicate the organ, tissues the sample was collected from.",
-            "anyOf": [
-              {
-                "description": "collection of vocabulary terms defined in ontologies",
-                "strict": false,
-                "type": "string",
-                "vocabulary": {
-                  "children_of": ["http://purl.obolibrary.org/obo/UBERON_0001062"],
-                  "ontology": ["UBERON"]
-                }
-              },
-              {
-                "items": {
-                  "description": "collection of vocabulary terms defined in ontologies",
-                  "strict": false,
-                  "type": "string",
-                  "vocabulary": {
-                    "children_of": ["http://purl.obolibrary.org/obo/UBERON_0001062"],
-                    "ontology": ["UBERON"]
-                  }
-                },
-                "type": "array"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/definedterm"
-                }
-              },
-              {
-                "$ref": "#/definitions/definedterm"
-              }
-            ],
-            "owl:cardinality": "many"
-          },
-          "sex": {
-            "description": "The biological sex of the individual from which the sample was obtained.",
-            "anyOf": [
-              {
-                "description": "collection of vocabulary terms defined in ontologies",
-                "strict": false,
-                "type": "string",
-                "vocabulary": {
-                  "children_of": ["http://purl.obolibrary.org/obo/PATO_0000047"],
-                  "ontology": ["PATO"]
-                }
-              },
-              {
-                "items": {
-                  "description": "collection of vocabulary terms defined in ontologies",
-                  "strict": false,
-                  "type": "string",
-                  "vocabulary": {
-                    "children_of": ["http://purl.obolibrary.org/obo/PATO_0000047"],
-                    "ontology": ["PATO"]
-                  }
-                },
-                "type": "array"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/definedterm"
-                }
-              },
-              {
-                "$ref": "#/definitions/definedterm"
-              }
-            ],
-            "owl:cardinality": "many"
-          },
-          "developmentalStage": {
-            "description": "A temporal subdivision of a developmental process, indicating the age or stage of the object when the sample was created.",
-            "anyOf": [
-              {
-                "description": "collection of vocabulary terms defined in ontologies",
-                "strict": false,
-                "type": "string",
-                "vocabulary": {
-                  "children_of": ["http://purl.obolibrary.org/obo/UBERON_0000104","http://purl.obolibrary.org/obo/NCIT_C48308"],
-                  "ontology": ["UBERON","NCIT"]
-                }
-              },
-              {
-                "items": {
-                  "description": "collection of vocabulary terms defined in ontologies",
-                  "strict": false,
-                  "type": "string",
-                  "vocabulary": {
-                    "children_of": ["http://purl.obolibrary.org/obo/UBERON_0000104","http://purl.obolibrary.org/obo/NCIT_C48308"],
-                    "ontology": ["UBERON","NCIT"]
-                  }
-                },
-                "type": "array"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/definedterm"
-                }
-              },
-              {
-                "$ref": "#/definitions/definedterm"
-              }
-            ],
-            "owl:cardinality": "many"
           },
           "sampleAvailability": {
             "description": "A flag to signal that the sample is available for reuse.",
@@ -1991,8 +1846,8 @@
           }
         },
         "required": ["name", "url", "identifier", "includedInDataCatalog", "author", "date"],
-        "recommended": ["description", "sameAs", "conditionsOfAccess", "usageInfo", "license", "cellType", "infectiousAgent", "species", "healthCondition", "funding", "creditText", "anatomicalStructure", "sex", "developmentalStage", "sampleAvailability", "sampleProcess", "sampleType", "collectionMethod", "instrument", "collector", "contributor", "locationOfOrigin", "citation", "dateModified", "dateCollected", "dateProcessed", "interactionStatistic", "keywords", "sdPublisher", "sourceOrganization", "topicCategory", "creditText"],
-        "optional": ["associatedPhenotype", "associatedGenotype", "citeBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage"],
+        "recommended": ["description", "sameAs", "conditionsOfAccess", "usageInfo", "license", "cellType", "infectiousAgent", "species", "healthCondition", "funding", "creditText", "sampleAvailability", "sampleProcess", "sampleType", "collectionMethod", "instrument", "collector", "contributor", "locationOfOrigin", "citation", "dateModified", "dateCollected", "dateProcessed", "interactionStatistic", "keywords", "sdPublisher", "sourceOrganization", "topicCategory", "creditText"],
+        "optional": ["associatedPhenotype", "associatedGenotype", "citeBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "sampleQuantity", "sampleState", "sampleStorageTemperature", "isAccessibleForFree", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
