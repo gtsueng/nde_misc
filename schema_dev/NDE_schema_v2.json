@@ -11909,7 +11909,7 @@
       "@id": "nde:sampleList",
       "@type": "rdf:Property",
       "rdfs:comment": "The sample(s) which are part of the sample collection",
-      "rdfs:label": "sample",
+      "rdfs:label": "sampleList",
       "schema:domainIncludes": {
         "@id": "nde:SampleCollection"
       },

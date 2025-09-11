@@ -19,8 +19,8 @@
       "rdfs:subClassOf": {
         "@id": "niaid:Dataset"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.8 - 2025.08.30"],
-      "dct:provenance":"Changes since previous version: Refine description of 'citation', add 'creditText' property, add 'sample' property.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.8 - 2025.09.03"],
+      "dct:provenance":"Changes since previous version: Add 'sample' property to link Dataset to samples. Update 'citation' and 'citedBy' description. Added the creditText property as optional.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -1260,46 +1260,10 @@
             ],
             "owl:cardinality": "many"
           },
-          "creditText": {
-            "description": "A statement on how to credit the dataset creators/providers or structured citation object(s) that should be used to credit/cite the dataset.",
-            "anyOf": [
-              {
-                "type": "string"  
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/citation"
-                }
-              },
-              {
-                "$ref": "#/definitions/citation"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/creativework"
-                }
-              },
-              {
-                  "$ref": "#/definitions/creativework"
-              }
-            ],
-            "owl:cardinality": "many"            
-          },
           "sample": {
             "description": "the samples used to generate the dataset",
             "anyOf": [
               {
-                "$ref": "#/definitions/sampleset"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/sampleset"
-                }
-              },
-              {
                 "type": "array",
                 "items": {
                   "$ref": "#/definitions/samplerecord"
@@ -1318,14 +1282,28 @@
                   "type": "string",
                   "format": "uri"
                 }
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/samplecollection"
+                }
+              },
+              {
+                  "$ref": "#/definitions/samplecollection"
               }
             ],
             "owl:cardinality": "many"
+          },
+          "creditText": {
+            "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the dataset.",
+            "type": "string",
+            "owl:cardinality": "one"
           }
         },
         "required": ["date", "funding", "distribution", "includedInDataCatalog", "measurementTechnique", "author", "description", "name", "url"],
         "recommended": ["citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory"],
-        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "nctid", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship","sourceOrganization"],
+        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "nctid", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship","sourceOrganization", "sample","creditText"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -1796,68 +1774,6 @@
             },
             "required": []  
           },
-          "quantitativevalue": {
-            "@type": "QuantitativeValue",
-            "description": "A numeric value and unit for a property with potentially different units",
-            "type": "object",
-            "properties": {
-              "value": {
-                "description": "A numeric value for the property",
-                "type": "number"
-              },
-              "maxValue": {
-                "description": "An estimated maximum numberic value if the actual value is not known. Ignore if actual numeric value is known.",
-                "type": "number"
-              },
-              "minValue": {
-                "description": "An estimated minumum numeric value if the actual value is not known. Ignore if actual numeric value is known.",
-                "type": "number"
-              },
-              "unitText": {
-                "description": "A unit associated with the value. E.g.- 'records' for the number of records in a database.",
-                "type": "string"
-              }
-            },
-            "required" : ["unitText"],
-            "recommended": ["value"],
-            "optional": ["maxValue","minValue"]
-          },
-          "propertyvalue": {
-            "@type": "PropertyValue",
-            "description": "A numeric value and unit for a property with potentially different units",
-            "type": "object",
-            "properties": {
-              "value": {
-                "description": "A numeric value for the property",
-                "type": "number"
-              },
-              "maxValue": {
-                "description": "An estimated maximum numberic value if the actual value is not known. Ignore if actual numeric value is known.",
-                "type": "number"
-              },
-              "minValue": {
-                "description": "An estimated minumum numeric value if the actual value is not known. Ignore if actual numeric value is known.",
-                "type": "number"
-              },
-              "unitText": {
-                "description": "A unit associated with the value. E.g.- 'records' for the number of records in a database.",
-                "type": "string"
-              },
-              "propertyID": {
-                "description": "A commonly used identifier for the characteristic represented by the property, e.g. a manufacturer or a standard code for a property. propertyID can be (1) a prefixed string, mainly meant to be used with standards for product properties; (2) a site-specific, non-prefixed string (e.g. the primary key of the property or the vendor-specific ID of the property), or (3) a URL indicating the type of the property, either pointing to an external vocabulary, or a Web resource that describes the property (e.g. a glossary entry). Standards bodies should promote a standard prefix for the identifiers of properties from their standards.",
-                "oneOf": [
-                  {"type": "string"},
-                  {
-                    "type": "string",
-                    "format": "uri"
-                  }
-                ]
-              }
-            },
-            "required" : ["unitText"],
-            "recommended": ["value","propertyID"],
-            "optional": ["maxValue","minValue"]
-          },
           "softwareapplication": {
             "@type": "SoftwareApplication",
             "description": "Reusable software or algorithm definition",
@@ -1882,252 +1798,91 @@
             "optional": ["dateModified"],
             "type": "object"
           },
-          "sampleset": {
-            "@type": "SampleCollection",
-            "description": "A collection of Samples",
+          "samplerecord": {
+            "@type": "Sample",
+            "description": "reusable sample object",
             "type": "object",
             "properties": {
-              "sampleList": {
-                "description": "A list of Samples in the Samplecollection.",
-                "abstract": "Samples in the SampleCollection",
-                "anyOf": [
+              "name": {
+                "description": "sample name",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to sample",
+                "type": "string",
+                "format": "uri"
+              },
+              "identifier": {
+                "description": "an identifier for the sample",
+                "type": "string"
+              },
+              "includedInDataCatalog": {
+                "description": "Data or resource catalog where the sample is listed",
+                "oneOf": [
+                  {
+                    "$ref": "#/definitions/catalog"
+                  },
                   {
                     "type": "array",
                     "items": {
-                      "$ref": "#/definitions/samplerecord"
+                      "$ref": "#/definitions/catalog"
                     }
+                  }
+                ]
+              }
+            },
+            "required": ["url", "identifier"],
+            "recommended": ["name", "includedInDataCatalog"]
+          },
+          "samplecollection": {
+            "@type": "SampleCollection",
+            "description": "reusable sampleCollection object",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "sample collection name",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to sample collection",
+                "type": "string",
+                "format": "uri"
+              },
+              "identifier": {
+                "description": "an identifier for the sample collection",
+                "type": "string"
+              },
+              "includedInDataCatalog": {
+                "description": "Data or resource catalog where the sample collection is listed",
+                "oneOf": [
+                  {
+                    "$ref": "#/definitions/catalog"
                   },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/catalog"
+                    }
+                  }
+                ]
+              },
+              "sampleList": {
+                "description": "Samples listed in the sample collection",
+                "oneOf": [
                   {
                     "$ref": "#/definitions/samplerecord"
                   },
                   {
                     "type": "array",
                     "items": {
-                      "type": "string",
-                      "format": "uri"
-                    }
-                  },
-                  {
-                      "type": "string",
-                      "format": "url"
-                  }
-                ],
-                "owl:cardinality": "many"
-              },
-              "sampleQuantity": {
-                "description": "A numeric value for a measurement of the size of a sample. If completely unknown, set value = 0, and unitText = 'unknown'",
-                "oneOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/quantitativevalue"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/quantitativevalue"
-                  }
-                ],
-                "owl:cardinality": "many"             
-              },
-              "collectionSize": {
-                "description": "Aggregate values derived from or about the samples in the collection. Note these are calculated values from or about the samples in the sampleList. For example, if there are 10 Sample records, 7 samples from male birds, 3 from female birds, a collectionSize might consist of 'value':7, 'unitText': 'male', 'propertyID': 'http://purl.obolibrary.org/obo/UPHENO_0005025'.",
-                "oneOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/propertyvalue"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/propertyvalue"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/quantiativevalue"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/quantitativevalue"
-                  }    
-                ],
-                "owl:cardinality": "many"             
-              },
-              "sampleType": {
-                "description": "The type of sample or specimen.",
-                "anyOf": [
-                  {
-                    "description": "collection of vocabulary terms defined in ontologies",
-                    "strict": false,
-                    "type": "string",
-                    "vocabulary": {
-                      "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
-                      "ontology": ["OBI"]
-                    }
-                  },
-                  {
-                    "items": {
-                      "description": "collection of vocabulary terms defined in ontologies",
-                      "strict": false,
-                      "type": "string",
-                      "vocabulary": {
-                        "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
-                        "ontology": ["OBI"]
-                      }
-                    },
-                    "type": "array"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/definedterm"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/definedterm"
-                  }
-                ],
-                "owl:cardinality": "many"
-              },
-              "includedInDataCatalog": {
-                "description": "Data or resource catalog where the sample is listed; original source of the metadata.",
-                "abstract": "catalog containing the work",
-                "oneOf": [
-                  {
-                    "$ref": "#/definitions/catalog"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/catalog"
+                      "$ref": "#/definitions/samplerecord"
                     }
                   }
-                ],
-                "owl:cardinality": "one"
+                ]
               }
             },
-            "required": ["includedInDataCatalog"],
-            "recommended": ["sampleQuantity", "collectionSize", "sampleList", "sampleType"]
-          },
-          "samplerecord": {
-            "@type": "Sample",
-            "description": "Reusable sample object for referencing Sample records",
-            "type": "object",
-            "properties": {
-              "name": {
-                "description": "Sample name.",
-                "owl:cardinality": "one",
-                "type": "string"
-              },
-              "identifier": {
-                "description": "Sample identifier or accession number, such as a digital object identifier (DOI), sequence read archive (SRA) or GenBank accession number, etc.",
-                "abstract": "identifier or accession number",
-                "oneOf": [
-                  {
-                    "type": "string"
-                  },
-                  {
-                    "items": {
-                      "type": "string"
-                    },
-                    "type": "array"
-                  }
-                ],
-                "owl:cardinality": "many"
-              },
-              "sameAs": {
-                "description": "URL of additional sources for the work.",
-                "oneOf": [
-                  {
-                    "items": {
-                      "type": "string",
-                      "format": "uri"
-                    },
-                    "type": "array"
-                  },
-                  {
-                    "type": "string",
-                    "format": "uri"
-                  }
-                ],
-                "owl:cardinality": "many"
-              },
-              "url": {
-                "description": "URL of the work.",
-                "type": "string",
-                "format": "uri",
-                "owl:cardinality": "one"
-              },
-              "sampleQuantity": {
-                "description": "A numeric value for a measurement of the size of a sample. If completely unknown, set value = 0, and unitText = 'unknown'",
-                "oneOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/quantitativevalue"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/quantitativevalue"
-                  }
-                ],
-                "owl:cardinality": "many"             
-              },
-              "sampleType": {
-                "description": "The type of sample or specimen.",
-                "anyOf": [
-                  {
-                    "description": "collection of vocabulary terms defined in ontologies",
-                    "strict": false,
-                    "type": "string",
-                    "vocabulary": {
-                      "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
-                      "ontology": ["OBI"]
-                    }
-                  },
-                  {
-                    "items": {
-                      "description": "collection of vocabulary terms defined in ontologies",
-                      "strict": false,
-                      "type": "string",
-                      "vocabulary": {
-                        "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
-                        "ontology": ["OBI"]
-                      }
-                    },
-                    "type": "array"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/definedterm"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/definedterm"
-                  }
-                ],
-                "owl:cardinality": "many"
-              },
-              "includedInDataCatalog": {
-                "description": "Data or resource catalog where the sample is listed; original source of the metadata.",
-                "abstract": "catalog containing the work",
-                "oneOf": [
-                  {
-                    "$ref": "#/definitions/catalog"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/catalog"
-                    }
-                  }
-                ],
-                "owl:cardinality": "one"
-              }
-            },
-            "required": ["name", "identifier", "url", "includedInDataCatalog"],
-            "recommended": ["sampleQuantity", "sampleType"]
+            "required": ["url", "identifier"],
+            "recommended": ["name", "includedInDataCatalog", "sampleList"]
           }
         }
       }
@@ -2141,8 +1896,8 @@
       "rdfs:subClassOf": {
         "@id": "niaid:ComputationalTool"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.05.29"],
-      "dct:provenance":"Changes since previous version: Refine description of 'citation', add 'creditText' property",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.09.03"],
+      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions. Added the creditText property as optional.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -3400,39 +3155,17 @@
             "owl:cardinality": "many"
           },
           "creditText": {
-            "description": "A statement on how to credit the tool developers/contributors/providers or structured citation object(s) that should be used to credit/cite the tool.",
-            "anyOf": [
-              {
-                "type": "string"  
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/citation"
-                }
-              },
-              {
-                "$ref": "#/definitions/citation"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/creativework"
-                }
-              },
-              {
-                  "$ref": "#/definitions/creativework"
-              }
-            ],
-            "owl:cardinality": "many"            
+            "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the tool.",
+            "type": "string",
+            "owl:cardinality": "one"
           }
         },
         "required": ["date", "includedInDataCatalog", "funding", "author", "description", "name"],
         "recommended": ["citedBy", "doi", "topicCategory", "codeRepository", "programmingLanguage", "applicationCategory", "applicationSubCategory", "input", "output", "featureList", "operatingSystem", "softwareRequirements", "softwareVersion", "citation", "conditionsOfAccess", "dateModified", "interactionStatistic", "license", "identifier", "url"],
-        "optional": ["isBasisFor", "isRelatedTo", "isSimilarTo", "infectiousAgent", "healthCondition", "species", "applicationSuite", "availableOnDevice", "downloadUrl", "processorRequirements", "softwareAddOn", "softwareHelp", "aggregateRating", "contributor", "creator", "dateCreated", "datePublished", "discussionUrl", "hasPart", "inLanguage", "isAccessibleForFree", "isBasedOn", "isPartOf", "keywords", "provider", "sdPublisher", "thumbnailUrl", "mainEntityOfPage", "sameAs","sourceOrganization"],
+        "optional": ["isBasisFor", "isRelatedTo", "isSimilarTo", "infectiousAgent", "healthCondition", "species", "applicationSuite", "availableOnDevice", "downloadUrl", "processorRequirements", "softwareAddOn", "softwareHelp", "aggregateRating", "contributor", "creator", "dateCreated", "datePublished", "discussionUrl", "hasPart", "inLanguage", "isAccessibleForFree", "isBasedOn", "isPartOf", "keywords", "provider", "sdPublisher", "thumbnailUrl", "mainEntityOfPage", "sameAs","sourceOrganization", "creditText"],
         "definitions": {
           "citation": {
-            "description": "A citation object for a resource which is cited by the tool (ie- is a derivative of the tool) , related to the tool, or from which the tool was based on (ie- is derived from).",
+            "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
             "@type": "ScholarlyArticle",
             "type": "object",
             "properties": {
@@ -4022,8 +3755,8 @@
       "rdfs:subClassOf": {
         "@id": "schema:Collection"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.05.29"],
-      "dct:provenance":"Changes since previous version: Updated collectionSize expected type to include QuantitativeValue, refine description of 'citation', add 'creditText' property.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.09.03"],
+      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions. Added QuantitativeValue as optional expected type for 'collectionSize'.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -5271,7 +5004,7 @@
           },
           "collectionSize": {
             "description": "The number of records, datasets, tools, items, pages, etc. in the resource catalog. Min/max estimates can be used in lieu of actual number. If completely unknown, set value = 0, and unitText = 'unknown'",
-            "oneOf": [
+            "anyOf": [
               {
                 "type": "array",
                 "items": {
@@ -5284,7 +5017,7 @@
               {
                 "type": "array",
                 "items": {
-                  "$ref": "#/definitions/quantiativevalue"
+                  "$ref": "#/definitions/quantitativevalue"
                 }
               },
               {
@@ -5348,39 +5081,17 @@
             "owl:cardinality": "many"
           },
           "creditText": {
-            "description": "A statement on how to credit the sample providers or structured citation object(s) that should be used to credit/cite the sample.",
-            "anyOf": [
-              {
-                "type": "string"  
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/citation"
-                }
-              },
-              {
-                "$ref": "#/definitions/citation"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/creativework"
-                }
-              },
-              {
-                  "$ref": "#/definitions/creativework"
-              }
-            ],
-            "owl:cardinality": "many"            
+            "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the resource.",
+            "type": "string",
+            "owl:cardinality": "one"
           }
         },
         "required": ["date", "funding", "measurementTechnique", "description", "name", "url", "about","genre", "includedInDataCatalog"],
         "recommended": ["author", "citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory", "collectionSize", "hasAPI", "hasDownload", "collectionType"],
-        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "distribution", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship", "sourceOrganization", "archivedAt"],
+        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "distribution", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship", "sourceOrganization", "archivedAt","creditText"],
         "definitions": {
           "citation": {
-            "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
+            "description": "A citation object for a publication which is cited by the resource catalog (ie- is a derivative of the resource catalog), related to the resource catalog, or from which the resource catalog was based on (ie- is derived from).",
             "@type": "ScholarlyArticle",
             "type": "object",
             "properties": {
@@ -5948,6 +5659,337 @@
       }
     },
     {
+      "@id": "nde:DefinedTerm",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "A word, name, acronym, phrase, etc. with a formal definition. Often used in the context of category or subject classification, glossaries or dictionaries, product or creative work types, etc. Use the name property for the term being defined, use termCode if the term has an alpha-numeric code allocated, use description to provide the definition of the term.",
+      "rdfs:label": "DefinedTerm",
+      "rdfs:subClassOf": {
+        "@id": "schema:DefinedTerm"
+      },
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.2 - 2025.05.29"],
+      "dct:provenance":"Changes since previous version: Replace includedInDataCatalog.dataset with includedInDataCatalog.archivedAt.",
+      "$validation": {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "type": "object",
+        "properties": {
+          "name": {
+            "description": "The name of the item.",
+            "owl:cardinality": "one",
+            "type": "string"
+          },
+          "identifier": {
+            "description": "The identifier property represents any kind of identifier for any kind of Thing, such as ISBNs, GTIN codes, UUIDs etc. Schema.org provides dedicated properties for representing many of these, either as textual strings or as URL (URI) links. See background notes for more details.",
+            "owl:cardinality": "one",
+            "type": "string"           
+          },
+          "url": {
+            "description": "URL of the item.",
+            "owl:cardinality": "one",
+            "type": "string",
+            "format": "uri"
+          },
+          "curatedBy": {
+            "description": "The person, organization, or catalog that curated this DefinedTerm for the metadata property",
+            "anyOf": [
+              {
+                "$ref": "#/definitions/person"
+              },
+              {
+                "$ref": "#/definitions/organization"
+              },
+              {
+                "$ref": "#/definitions/catalog"
+              },
+              {
+                "$ref": "#/definitions/researchproject"
+              },
+              {
+                "$ref": "#/definitions/softwareapplication"
+              }
+            ]
+          },
+          "termCode": {
+            "description": "A code that identifies this DefinedTerm within a DefinedTermSet.",
+            "type": "string"
+          },
+          "description": {
+            "description": "A description of the item.",
+            "type": "string"
+          },
+          "inDefinedTermSet": {
+            "description": "A DefinedTermSet that contains this term.",
+            "type": "string"
+          },
+          "originalName": {
+            "description": "The original name of the item, before any metadata standardization/normalization",
+            "type": "string"
+          },
+          "isCurated": {
+            "description": "A boolean indicator describing whether or not this DefinedTerm was curated as the value of a property.",
+            "type": "boolean"
+          }
+        },
+        "required": [],
+        "recommended": [
+          "description",
+          "curatedBy",
+          "isCurated"
+        ],
+        "optional": [
+          "termCode",
+          "inDefinedTermSet",
+          "originalName"
+        ],
+        "anyOf": [
+            {"required":["name"]},
+            {"required":["identifier"]},
+            {"required":["url"]}
+        ],
+        "definitions": {
+          "catalog": {
+            "@type": "DataCatalog",
+            "description": "Data, resource or tool catalog",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "Data, resource or tool catalog name",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to data, resource or tool catalog",
+                "type": "string",
+                "format": "uri"
+              },
+              "versionDate": {
+                "description": "date the metadata was harvested from the catalog",
+                "type": "string",
+                "format": "date"
+              },
+              "archivedAt": {
+                "description": "The url(s) of one or more datasets, tools, resources or other items listed in a DataCatalog or ResourceCatalog",
+                "oneOf": [
+                  {
+                    "items": {
+                      "type": "string",
+                      "format": "uri"
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                ]
+              }
+            },
+            "required": ["name", "url"],
+            "recommended": ["versionDate", "archivedAt"]
+          },
+          "organization": {
+            "@type": "Organization",
+            "description": "Reusable organization definition",
+            "properties": {
+              "affiliation": {
+                "type": "object",
+                "properties": {
+                  "name": {
+                    "description": "Name of the affiliation, such as a university",
+                    "type": "string"
+                  },
+                  "sameAs": {
+                    "description": "Alias for the affiliation",
+                    "type": "string"
+                  },
+                  "url": {
+                    "description": "URL of the affiliation",
+                    "type": "string",
+                    "format": "uri"
+                  }
+                },
+                "required": ["name"],
+                "optional": ["sameAs", "url"]
+              },
+              "alternateName": {
+                "description": "Alias of the name",
+                "oneOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "name": {
+                "description": "Name of the organization",
+                "type": "string"
+              },
+              "parentOrganization": {
+                "description": "Name of the parent organization. For instance, the parentOrganization of NIAID is the National Institutes of health (NIH)",
+                "type": "string"
+              },
+              "email": {
+                "description": "Email address of the organization",
+                "type": "string"
+              },
+              "identifier": {
+                "description": "Unique identifier of the organization",
+                "type": "string"
+              },
+              "role": {
+                "description": "What role the organization played in creating the dataset",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to the organization",
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "required": ["name"],
+            "recommended": ["identifier"],
+            "optional": ["affiliation", "alternateName", "email", "parentOrganization", "role", "url"],
+            "type": "object"
+          },
+          "researchproject": {
+            "@type": "ResearchProject",
+            "description": "a type of organization definition",
+            "properties": {
+              "alternateName": {
+                "description": "Alias of the name",
+                "oneOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "name": {
+                "description": "Name of the organization",
+                "type": "string"
+              },
+              "parentOrganization": {
+                "description": "Name of the parent organization. For instance, the parentOrganization of NIAID is the National Institutes of health (NIH)",
+                "type": "string"
+              },
+              "email": {
+                "description": "Email address of the organization",
+                "type": "string"
+              },
+              "identifier": {
+                "description": "Unique identifier of the organization",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to the organization",
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "required": ["name"],
+            "recommended": ["identifier", "url", "parentOrganization"],
+            "optional": ["alternateName", "email", "role"],
+            "type": "object"
+          },
+          "person": {
+            "@type": "Person",
+            "description": "Reusable person definition",
+            "properties": {
+              "affiliation": {
+                "type": "object",
+                "properties": {
+                  "name": {
+                    "description": "Name of the affiliation, such as a university",
+                    "type": "string"
+                  },
+                  "sameAs": {
+                    "description": "Alias for the affiliation",
+                    "type": "string"
+                  },
+                  "url": {
+                    "description": "URL of the affiliation",
+                    "type": "string",
+                    "format": "uri"
+                  }
+                },
+                "required": ["name"],
+                "optional": ["sameAs", "url"]
+              },
+              "name": {
+                "description": "Name of the person",
+                "type": "string"
+              },
+              "email": {
+                "description": "Email address of the person",
+                "type": "string"
+              },
+              "familyName": {
+                "description": "Family name (surname) of the person",
+                "type": "string"
+              },
+              "givenName": {
+                "description": "Given (first) name of the person",
+                "type": "string"
+              },
+              "identifier": {
+                "description": "Unique identifier of the person, like an ORCID ID",
+                "type": "string"
+              },
+              "role": {
+                "description": "Role the person played in creating the resource catalog",
+                "type": "string"
+              },
+              "title": {
+                "description": "Title of the person",
+                "type": "string"
+              },
+              "url": {
+                "description": "Link to the homepage or other web content describing the person",
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "required": ["name"],
+            "recommended": ["familyName", "givenName ", "identifier "],
+            "optional": ["affiliation", "email", "role", "title", "url"],
+            "type": "object"
+          },
+          "softwareapplication": {
+            "@type": "SoftwareApplication",
+            "description": "Reusable software or algorithm definition",
+            "properties": {
+              "name": {
+                "description": "name of the software, computational tool, or algorithm.",
+                "type": "string"
+              },
+              "dateModified": {
+                "description": "date the software, computational tool, or algorithm was run",
+                "type": "string",
+                "format": "date"
+              },
+              "url": {
+                "description": "url of the software, computational tool, or algorithm",
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "required": ["name"],
+            "recommended": ["url"],
+            "optional": ["dateModified"],
+            "type": "object"
+          }
+        }
+      }
+    },
+    {
       "@id": "nde:Sample",
       "@type": "rdfs:Class",
       "rdfs:comment": "Samples contained in the NIAID Data Ecosystem. A Sample is a material entity taken from a larger source, system, or environment, collected for the purpose of analysis, testing, identification, or demonstration. The NIAID Data Ecosystem Discovery Portal harvests metadata from repositories and harmonizes them to this schema to enable easy cross-platform sample searching and filtering.",
@@ -5961,7 +6003,7 @@
           "@id": "nde:ResourceCatalog"
         }
       ],
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.1 - 2025.08.26"],
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.1 - 2025.09.03"],
       "dct:provenance":"First draft.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
@@ -6491,15 +6533,6 @@
               },
               {
                   "$ref": "#/definitions/sample"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/sampleset"
-                }
-              },
-              {
-                  "$ref": "#/definitions/sampleset"
               }
             ],
             "owl:cardinality": "many"
@@ -6670,15 +6703,6 @@
               },
               {
                   "$ref": "#/definitions/sample"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/sampleset"
-                }
-              },
-              {
-                  "$ref": "#/definitions/sampleset"
               }
             ]
           },
@@ -7454,9 +7478,11 @@
             "description": "The location where the sample is stored and/or may be ordered.",
             "oneOf": [
               {
+                "type": "array",
                 "items": {
                   "@type": "AdministrativeArea",
                   "description": "Location information",
+                  "type": "object",
                   "properties": {
                     "administrativeType": {
                       "description": "the type of administrative area, such as country, state, county, or city",
@@ -7483,16 +7509,14 @@
                     },
                     "locationType": {
                       "description": "Categorization of how the location relates to the dataset",
-                      "const": "collection"
+                      "const": "storage"
                     },
                     "name": {
                       "description": "The name of the location",
                       "type": "string"
                     }
-                  },
-                  "type": "object"
-                },
-                "type": "array"
+                  }
+                }
               },
               {
                 "@type": "AdministrativeArea",
@@ -7524,7 +7548,7 @@
                   }},
                   "locationType": {
                     "description": "Categorization of how the location relates to the dataset",
-                    "const": "collection"
+                    "const": "storage"
                   },
                   "name": {
                     "description": "The name of the location",
@@ -7916,36 +7940,14 @@
             "owl:cardinality": "many"
           },
           "creditText": {
-            "description": "A statement on how to credit the resource creators/providers or structured citation object(s) that should be used to credit/cite the resource.",
-            "anyOf": [
-              {
-                "type": "string"  
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/citation"
-                }
-              },
-              {
-                "$ref": "#/definitions/citation"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/creativework"
-                }
-              },
-              {
-                  "$ref": "#/definitions/creativework"
-              }
-            ],
-            "owl:cardinality": "many"            
+            "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the sample.",
+            "type": "string",
+            "owl:cardinality": "one"
           }
         },
         "required": ["name", "url", "identifier", "includedInDataCatalog", "author", "date"],
         "recommended": ["description", "sameAs", "conditionsOfAccess", "usageInfo", "license", "cellType", "infectiousAgent", "species", "healthCondition", "funding", "creditText", "anatomicalStructure", "sex", "developmentalStage", "sampleAvailability", "sampleProcess", "sampleType", "collectionMethod", "instrument", "collector", "contributor", "locationOfOrigin", "citation", "dateModified", "dateCollected", "dateProcessed", "interactionStatistic", "keywords", "sdPublisher", "sourceOrganization", "topicCategory", "creditText"],
-        "optional": ["associatedPhenotype", "associatedGenotype", "citeBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage"],
+        "optional": ["associatedPhenotype", "associatedGenotype", "citedBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -8484,57 +8486,6 @@
                 "description": "an identifier for the sample",
                 "type": "string"
               },
-              "sampleQuantity": {
-                "description": "A numeric value for a measurement of the size of a sample. If completely unknown, set value = 0, and unitText = 'unknown'",
-                "oneOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/quantitativevalue"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/quantitativevalue"
-                  }
-                ],
-                "owl:cardinality": "many"             
-              },
-              "sampleType": {
-                "description": "The type of sample or specimen.",
-                "anyOf": [
-                  {
-                    "description": "collection of vocabulary terms defined in ontologies",
-                    "strict": false,
-                    "type": "string",
-                    "vocabulary": {
-                      "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
-                      "ontology": ["OBI"]
-                    }
-                  },
-                  {
-                    "items": {
-                      "description": "collection of vocabulary terms defined in ontologies",
-                      "strict": false,
-                      "type": "string",
-                      "vocabulary": {
-                        "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
-                        "ontology": ["OBI"]
-                      }
-                    },
-                    "type": "array"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/definedterm"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/definedterm"
-                  }
-                ],
-                "owl:cardinality": "many"
-              },
               "includedInDataCatalog": {
                 "description": "Data or resource catalog where the sample is listed",
                 "oneOf": [
@@ -8550,135 +8501,8 @@
                 ]
               }
             },
-            "required": ["name", "url", "identifier","includedInDataCatalog"],
-            "recommended": ["sampleQuantity", "sampleType"]
-          },
-          "sampleset": {
-            "@type": "SampleCollection",
-            "description": "A collection of Samples",
-            "type": "object",
-            "properties": {
-              "sampleList": {
-                "description": "A list of Samples in the Samplecollection.",
-                "abstract": "Samples in the SampleCollection",
-                "anyOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/sample"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/sample"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "type": "string",
-                      "format": "uri"
-                    }
-                  },
-                  {
-                      "type": "string",
-                      "format": "url"
-                  }
-                ],
-                "owl:cardinality": "many"
-              },
-              "sampleQuantity": {
-                "description": "A numeric value for a measurement of the size of a sample. If completely unknown, set value = 0, and unitText = 'unknown'",
-                "oneOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/quantitativevalue"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/quantitativevalue"
-                  }
-                ],
-                "owl:cardinality": "many"             
-              },
-              "collectionSize": {
-                "description": "Aggregate values derived from or about the samples in the collection. Note these are calculated values from or about the samples in the sampleList. For example, if there are 10 Sample records, 7 samples from male birds, 3 from female birds, a collectionSize might consist of 'value':7, 'unitText': 'male', 'propertyID': 'http://purl.obolibrary.org/obo/UPHENO_0005025'.",
-                "oneOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/propertyvalue"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/propertyvalue"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/quantiativevalue"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/quantitativevalue"
-                  }    
-                ],
-                "owl:cardinality": "many"             
-              },
-              "sampleType": {
-                "description": "The type of sample or specimen.",
-                "anyOf": [
-                  {
-                    "description": "collection of vocabulary terms defined in ontologies",
-                    "strict": false,
-                    "type": "string",
-                    "vocabulary": {
-                      "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
-                      "ontology": ["OBI"]
-                    }
-                  },
-                  {
-                    "items": {
-                      "description": "collection of vocabulary terms defined in ontologies",
-                      "strict": false,
-                      "type": "string",
-                      "vocabulary": {
-                        "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
-                        "ontology": ["OBI"]
-                      }
-                    },
-                    "type": "array"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/definedterm"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/definedterm"
-                  }
-                ],
-                "owl:cardinality": "many"
-              },
-              "includedInDataCatalog": {
-                "description": "Data or resource catalog where the sample is listed; original source of the metadata.",
-                "abstract": "catalog containing the work",
-                "oneOf": [
-                  {
-                    "$ref": "#/definitions/catalog"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/catalog"
-                    }
-                  }
-                ],
-                "owl:cardinality": "one"
-              }
-            },
-            "required": ["includedInDataCatalog"],
-            "recommended": ["sampleQuantity", "collectionSize", "sampleList", "sampleType"]
+            "required": ["url", "identifier"],
+            "recommended": ["name", "includedInDataCatalog"]
           }
         }
       }
@@ -8689,42 +8513,20 @@
       "rdfs:comment": "Sample collections contained in the NIAID Data Ecosystem. A SampleCollection is a collection of samples with some aggregate information about the collection itself. A SampleCollection can be useful for describing sample information when only aggregated sample-level metadata is provided due to privacy issues that prevent sharing of individual sample-level metadata record.",
       "abstract": "Samples collections contained in the NIAID Data Ecosystem. A sample collection is an aggregate sample record.",
       "rdfs:label": "SampleCollection",
-      "rdfs:subClassOf": {
+      "rdfs:subClassOf": [
+        {
           "@id": "nde:Sample"
-      },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.1 - 2025.08.26"],
+        },
+        {
+          "@id": "nde:ResourceCatalog"
+        }
+      ],
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.1 - 2025.09.10"],
       "dct:provenance":"First draft.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
         "properties": {
-          "sampleList": {
-            "description": "A list of Samples in the Samplecollection.",
-            "abstract": "Samples in the SampleCollection",
-            "anyOf": [
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/sample"
-                }
-              },
-              {
-                "$ref": "#/definitions/sample"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "type": "string",
-                  "format": "uri"
-                }
-              },
-              {
-                  "type": "string",
-                  "format": "url"
-              }
-            ],
-            "owl:cardinality": "many"
-          },
           "name": {
             "description": "Sample name.",
             "owl:cardinality": "one",
@@ -9220,8 +9022,8 @@
             "owl:cardinality": "many"
           },
           "isRelatedTo": {
-            "description": "Datasets, resources, or samples which are related to the given sample collection; for example a sample collection involved in the same study. These linkages are created via human curation.",
-            "abstract": "related resources or sample collection (via curation)",
+            "description": "Datasets, resources, or samples which are related to the given sample; often sample involved in the same study. These linkages are created via human curation.",
+            "abstract": "related resources or samples (via curation)",
             "anyOf": [
               {
                 "type": "array",
@@ -9249,21 +9051,12 @@
               },
               {
                   "$ref": "#/definitions/sample"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/sampleset"
-                }
-              },
-              {
-                  "$ref": "#/definitions/sampleset"
               }
             ],
             "owl:cardinality": "many"
           },
           "isSimilarTo": {
-            "description": "Datasets, resources, or samples which are similar to the sample collection, based on terms in the names, descriptions, authors, measurementTechniques, infectiousAgents, healthConditions, etc.",
+            "description": "Datasets, resources, or samples which are similar to the sample, based on terms in the names, descriptions, authors, measurementTechniques, infectiousAgents, healthConditions, etc.",
             "abstract": "similar resources of samples (auto-assigned)",
             "anyOf": [
               {
@@ -9292,21 +9085,12 @@
               },
               {
                   "$ref": "#/definitions/sample"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/sampleset"
-                }
-              },
-              {
-                  "$ref": "#/definitions/sampleset"
               }
             ],
             "owl:cardinality": "many"
           },
           "isBasisFor": {
-            "description": "A resource or sample which reuses the sample collection. For example, a metagenome sample that was created mixing multiple samples in a sample collection.",
+            "description": "A resource or sample which reuses the sample. For example, a sample of a cell line that was created by knocking out a gene from this cell line sample. Another example would be a sample of infected tissue that was derived from this tissue sample by infecting it with a virus.",
             "anyOf": [
               {
                 "type": "array",
@@ -9334,21 +9118,12 @@
               },
               {
                   "$ref": "#/definitions/sample"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/sampleset"
-                }
-              },
-              {
-                  "$ref": "#/definitions/sampleset"
               }
             ],
             "owl:cardinality": "many"
           },
           "isBasedOn": {
-            "description": "A resource or sample from which this sample collection is derived, modified, or adapted. For example a collection of samples generated by infecting a cell culture sample with different viruses. ",
+            "description": "A resource or sample from which this sample is derived, modified, or adapted. For example a sample of a cell line, which was infected by virus sample in order to create the sample. ",
             "abstract": "resource or sample used to create the sample.",
             "owl:cardinality": "many",
             "anyOf": [
@@ -9378,15 +9153,6 @@
               },
               {
                   "$ref": "#/definitions/sample"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/sampleset"
-                }
-              },
-              {
-                  "$ref": "#/definitions/sampleset"
               }
             ]
           },
@@ -9420,15 +9186,6 @@
               },
               {
                   "$ref": "#/definitions/sample"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/sampleset"
-                }
-              },
-              {
-                  "$ref": "#/definitions/sampleset"
               }
             ],
             "owl:cardinality": "many"
@@ -9464,15 +9221,6 @@
               },
               {
                   "$ref": "#/definitions/sample"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/sampleset"
-                }
-              },
-              {
-                  "$ref": "#/definitions/sampleset"
               }
             ]
           },
@@ -10248,9 +9996,11 @@
             "description": "The location where the sample is stored and/or may be ordered.",
             "oneOf": [
               {
+                "type": "array",
                 "items": {
                   "@type": "AdministrativeArea",
                   "description": "Location information",
+                  "type": "object",
                   "properties": {
                     "administrativeType": {
                       "description": "the type of administrative area, such as country, state, county, or city",
@@ -10277,16 +10027,14 @@
                     },
                     "locationType": {
                       "description": "Categorization of how the location relates to the dataset",
-                      "const": "collection"
+                      "const": "storage"
                     },
                     "name": {
                       "description": "The name of the location",
                       "type": "string"
                     }
-                  },
-                  "type": "object"
-                },
-                "type": "array"
+                  }
+                }
               },
               {
                 "@type": "AdministrativeArea",
@@ -10318,7 +10066,7 @@
                   }},
                   "locationType": {
                     "description": "Categorization of how the location relates to the dataset",
-                    "const": "collection"
+                    "const": "storage"
                   },
                   "name": {
                     "description": "The name of the location",
@@ -10709,36 +10457,9 @@
             ],
             "owl:cardinality": "many"
           },
-          "creditText": {
-            "description": "A statement on how to credit the resource creators/providers or structured citation object(s) that should be used to credit/cite the resource.",
-            "anyOf": [
-              {
-                "type": "string"  
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/citation"
-                }
-              },
-              {
-                "$ref": "#/definitions/citation"
-              },
-              {
-                "type": "array",
-                "items": {
-                  "$ref": "#/definitions/creativework"
-                }
-              },
-              {
-                  "$ref": "#/definitions/creativework"
-              }
-            ],
-            "owl:cardinality": "many"            
-          },
           "collectionSize": {
-            "description": "Aggregate values derived from or about the samples in the collection. Note these are calculated values from or about the samples in the sampleList. For example, if there are 10 Sample records, 7 samples from male birds, 3 from female birds, a collectionSize might consist of 'value':7, 'unitText': 'male', 'propertyID': 'http://purl.obolibrary.org/obo/UPHENO_0005025'.",
-            "oneOf": [
+            "description": "The number of sample records in the sample collection. Min/max estimates can be used in lieu of actual number. If completely unknown, set value = 0, and unitText = 'unknown'",
+            "anyOf": [
               {
                 "type": "array",
                 "items": {
@@ -10751,7 +10472,7 @@
               {
                 "type": "array",
                 "items": {
-                  "$ref": "#/definitions/quantiativevalue"
+                  "$ref": "#/definitions/quantitativevalue"
                 }
               },
               {
@@ -10759,11 +10480,42 @@
               }    
             ],
             "owl:cardinality": "many"             
+          },
+          "creditText": {
+            "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the sample.",
+            "type": "string",
+            "owl:cardinality": "one"
+          },
+          "sampleList": {
+            "description": "the samples that are included in the sample collection",
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/sample"
+                }
+              },
+              {
+                  "$ref": "#/definitions/sample"
+              },
+              {
+                  "type": "string",
+                  "format": "uri"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "format": "uri"
+                }
+              }
+            ],
+            "owl:cardinality": "many"
           }
         },
-        "required": ["includedInDataCatalog"],
-        "recommended": ["sampleQuantity", "collectionSize", "sampleList", "sampleType", "funding", "topicCategory", "cellType", "infectiousAgent", "species", "healthCondition", "anatomicalStructure", "sex", "developmentalStage", "citation", "creditText"],
-        "optional": ["name", "url", "identifier","description", "sameAs", "author", "date", "sampleAvailability", "sampleProcess", "collectionMethod", "instrument", "collector", "contributor", "locationOfOrigin", "associatedPhenotype", "associatedGenotype", "conditionsOfAccess", "usageInfo", "license", "citeBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage", "creditText", "dateModified", "dateCollected", "dateProcessed", "interactionStatistic", "keywords", "sdPublisher", "sourceOrganization"],
+        "required": ["name", "url", "identifier", "includedInDataCatalog", "author", "date"],
+        "recommended": ["description", "sameAs", "conditionsOfAccess", "usageInfo", "license", "cellType", "infectiousAgent", "species", "healthCondition", "funding", "creditText", "anatomicalStructure", "sex", "developmentalStage", "sampleAvailability", "sampleProcess", "sampleType", "collectionMethod", "instrument", "collector", "contributor", "locationOfOrigin", "citation", "dateModified", "dateCollected", "dateProcessed", "interactionStatistic", "keywords", "sdPublisher", "sourceOrganization", "topicCategory", "creditText","sampleList","collectionSize"],
+        "optional": ["associatedPhenotype", "associatedGenotype", "citedBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -11338,57 +11090,6 @@
                 "description": "an identifier for the sample",
                 "type": "string"
               },
-              "sampleQuantity": {
-                "description": "A numeric value for a measurement of the size of a sample. If completely unknown, set value = 0, and unitText = 'unknown'",
-                "oneOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/quantitativevalue"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/quantitativevalue"
-                  }
-                ],
-                "owl:cardinality": "many"             
-              },
-              "sampleType": {
-                "description": "The type of sample or specimen.",
-                "anyOf": [
-                  {
-                    "description": "collection of vocabulary terms defined in ontologies",
-                    "strict": false,
-                    "type": "string",
-                    "vocabulary": {
-                      "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
-                      "ontology": ["OBI"]
-                    }
-                  },
-                  {
-                    "items": {
-                      "description": "collection of vocabulary terms defined in ontologies",
-                      "strict": false,
-                      "type": "string",
-                      "vocabulary": {
-                        "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
-                        "ontology": ["OBI"]
-                      }
-                    },
-                    "type": "array"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/definedterm"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/definedterm"
-                  }
-                ],
-                "owl:cardinality": "many"
-              },
               "includedInDataCatalog": {
                 "description": "Data or resource catalog where the sample is listed",
                 "oneOf": [
@@ -11404,466 +11105,8 @@
                 ]
               }
             },
-            "required": ["name", "url", "identifier","includedInDataCatalog"],
-            "recommended": ["sampleQuantity", "sampleType"]
-          },
-          "sampleset": {
-            "@type": "SampleCollection",
-            "description": "A collection of Samples",
-            "type": "object",
-            "properties": {
-              "sampleList": {
-                "description": "A list of Samples in the Samplecollection.",
-                "abstract": "Samples in the SampleCollection",
-                "anyOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/sample"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/sample"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "type": "string",
-                      "format": "uri"
-                    }
-                  },
-                  {
-                      "type": "string",
-                      "format": "url"
-                  }
-                ],
-                "owl:cardinality": "many"
-              },
-              "sampleQuantity": {
-                "description": "A numeric value for a measurement of the size of a sample. If completely unknown, set value = 0, and unitText = 'unknown'",
-                "oneOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/quantitativevalue"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/quantitativevalue"
-                  }
-                ],
-                "owl:cardinality": "many"             
-              },
-              "collectionSize": {
-                "description": "Aggregate values derived from or about the samples in the collection. Note these are calculated values from or about the samples in the sampleList. For example, if there are 10 Sample records, 7 samples from male birds, 3 from female birds, a collectionSize might consist of 'value':7, 'unitText': 'male', 'propertyID': 'http://purl.obolibrary.org/obo/UPHENO_0005025'.",
-                "oneOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/propertyvalue"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/propertyvalue"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/quantiativevalue"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/quantitativevalue"
-                  }    
-                ],
-                "owl:cardinality": "many"             
-              },
-              "sampleType": {
-                "description": "The type of sample or specimen.",
-                "anyOf": [
-                  {
-                    "description": "collection of vocabulary terms defined in ontologies",
-                    "strict": false,
-                    "type": "string",
-                    "vocabulary": {
-                      "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
-                      "ontology": ["OBI"]
-                    }
-                  },
-                  {
-                    "items": {
-                      "description": "collection of vocabulary terms defined in ontologies",
-                      "strict": false,
-                      "type": "string",
-                      "vocabulary": {
-                        "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
-                        "ontology": ["OBI"]
-                      }
-                    },
-                    "type": "array"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/definedterm"
-                    }
-                  },
-                  {
-                    "$ref": "#/definitions/definedterm"
-                  }
-                ],
-                "owl:cardinality": "many"
-              },
-              "includedInDataCatalog": {
-                "description": "Data or resource catalog where the sample is listed; original source of the metadata.",
-                "abstract": "catalog containing the work",
-                "oneOf": [
-                  {
-                    "$ref": "#/definitions/catalog"
-                  },
-                  {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/definitions/catalog"
-                    }
-                  }
-                ],
-                "owl:cardinality": "one"
-              }
-            },
-            "required": ["includedInDataCatalog"],
-            "recommended": ["sampleQuantity", "collectionSize", "sampleList", "sampleType"]
-          }
-        }
-      }
-    },
-    {
-      "@id": "nde:DefinedTerm",
-      "@type": "rdfs:Class",
-      "rdfs:comment": "A word, name, acronym, phrase, etc. with a formal definition. Often used in the context of category or subject classification, glossaries or dictionaries, product or creative work types, etc. Use the name property for the term being defined, use termCode if the term has an alpha-numeric code allocated, use description to provide the definition of the term.",
-      "rdfs:label": "DefinedTerm",
-      "rdfs:subClassOf": {
-        "@id": "schema:DefinedTerm"
-      },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.2 - 2025.05.29"],
-      "dct:provenance":"Changes since previous version: Replace includedInDataCatalog.dataset with includedInDataCatalog.archivedAt.",
-      "$validation": {
-        "$schema": "http://json-schema.org/draft-07/schema#",
-        "type": "object",
-        "properties": {
-          "name": {
-            "description": "The name of the item.",
-            "owl:cardinality": "one",
-            "type": "string"
-          },
-          "identifier": {
-            "description": "The identifier property represents any kind of identifier for any kind of Thing, such as ISBNs, GTIN codes, UUIDs etc. Schema.org provides dedicated properties for representing many of these, either as textual strings or as URL (URI) links. See background notes for more details.",
-            "owl:cardinality": "one",
-            "type": "string"           
-          },
-          "url": {
-            "description": "URL of the item.",
-            "owl:cardinality": "one",
-            "type": "string",
-            "format": "uri"
-          },
-          "curatedBy": {
-            "description": "The person, organization, or catalog that curated this DefinedTerm for the metadata property",
-            "anyOf": [
-              {
-                "$ref": "#/definitions/person"
-              },
-              {
-                "$ref": "#/definitions/organization"
-              },
-              {
-                "$ref": "#/definitions/catalog"
-              },
-              {
-                "$ref": "#/definitions/researchproject"
-              },
-              {
-                "$ref": "#/definitions/softwareapplication"
-              }
-            ]
-          },
-          "termCode": {
-            "description": "A code that identifies this DefinedTerm within a DefinedTermSet.",
-            "type": "string"
-          },
-          "description": {
-            "description": "A description of the item.",
-            "type": "string"
-          },
-          "inDefinedTermSet": {
-            "description": "A DefinedTermSet that contains this term.",
-            "type": "string"
-          },
-          "originalName": {
-            "description": "The original name of the item, before any metadata standardization/normalization",
-            "type": "string"
-          },
-          "isCurated": {
-            "description": "A boolean indicator describing whether or not this DefinedTerm was curated as the value of a property.",
-            "type": "boolean"
-          }
-        },
-        "required": [],
-        "recommended": [
-          "description",
-          "curatedBy",
-          "isCurated"
-        ],
-        "optional": [
-          "termCode",
-          "inDefinedTermSet",
-          "originalName"
-        ],
-        "anyOf": [
-            {"required":["name"]},
-            {"required":["identifier"]},
-            {"required":["url"]}
-        ],
-        "definitions": {
-          "catalog": {
-            "@type": "DataCatalog",
-            "description": "Data, resource or tool catalog",
-            "type": "object",
-            "properties": {
-              "name": {
-                "description": "Data, resource or tool catalog name",
-                "type": "string"
-              },
-              "url": {
-                "description": "Link to data, resource or tool catalog",
-                "type": "string",
-                "format": "uri"
-              },
-              "versionDate": {
-                "description": "date the metadata was harvested from the catalog",
-                "type": "string",
-                "format": "date"
-              },
-              "archivedAt": {
-                "description": "The url(s) of one or more datasets, tools, resources or other items listed in a DataCatalog or ResourceCatalog",
-                "oneOf": [
-                  {
-                    "items": {
-                      "type": "string",
-                      "format": "uri"
-                    },
-                    "type": "array"
-                  },
-                  {
-                    "type": "string",
-                    "format": "uri"
-                  }
-                ]
-              }
-            },
-            "required": ["name", "url"],
-            "recommended": ["versionDate", "archivedAt"]
-          },
-          "organization": {
-            "@type": "Organization",
-            "description": "Reusable organization definition",
-            "properties": {
-              "affiliation": {
-                "type": "object",
-                "properties": {
-                  "name": {
-                    "description": "Name of the affiliation, such as a university",
-                    "type": "string"
-                  },
-                  "sameAs": {
-                    "description": "Alias for the affiliation",
-                    "type": "string"
-                  },
-                  "url": {
-                    "description": "URL of the affiliation",
-                    "type": "string",
-                    "format": "uri"
-                  }
-                },
-                "required": ["name"],
-                "optional": ["sameAs", "url"]
-              },
-              "alternateName": {
-                "description": "Alias of the name",
-                "oneOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "type": "string"
-                    }
-                  },
-                  {
-                    "type": "string"
-                  }
-                ]
-              },
-              "name": {
-                "description": "Name of the organization",
-                "type": "string"
-              },
-              "parentOrganization": {
-                "description": "Name of the parent organization. For instance, the parentOrganization of NIAID is the National Institutes of health (NIH)",
-                "type": "string"
-              },
-              "email": {
-                "description": "Email address of the organization",
-                "type": "string"
-              },
-              "identifier": {
-                "description": "Unique identifier of the organization",
-                "type": "string"
-              },
-              "role": {
-                "description": "What role the organization played in creating the dataset",
-                "type": "string"
-              },
-              "url": {
-                "description": "Link to the organization",
-                "type": "string",
-                "format": "uri"
-              }
-            },
-            "required": ["name"],
-            "recommended": ["identifier"],
-            "optional": ["affiliation", "alternateName", "email", "parentOrganization", "role", "url"],
-            "type": "object"
-          },
-          "researchproject": {
-            "@type": "ResearchProject",
-            "description": "a type of organization definition",
-            "properties": {
-              "alternateName": {
-                "description": "Alias of the name",
-                "oneOf": [
-                  {
-                    "type": "array",
-                    "items": {
-                      "type": "string"
-                    }
-                  },
-                  {
-                    "type": "string"
-                  }
-                ]
-              },
-              "name": {
-                "description": "Name of the organization",
-                "type": "string"
-              },
-              "parentOrganization": {
-                "description": "Name of the parent organization. For instance, the parentOrganization of NIAID is the National Institutes of health (NIH)",
-                "type": "string"
-              },
-              "email": {
-                "description": "Email address of the organization",
-                "type": "string"
-              },
-              "identifier": {
-                "description": "Unique identifier of the organization",
-                "type": "string"
-              },
-              "url": {
-                "description": "Link to the organization",
-                "type": "string",
-                "format": "uri"
-              }
-            },
-            "required": ["name"],
-            "recommended": ["identifier", "url", "parentOrganization"],
-            "optional": ["alternateName", "email", "role"],
-            "type": "object"
-          },
-          "person": {
-            "@type": "Person",
-            "description": "Reusable person definition",
-            "properties": {
-              "affiliation": {
-                "type": "object",
-                "properties": {
-                  "name": {
-                    "description": "Name of the affiliation, such as a university",
-                    "type": "string"
-                  },
-                  "sameAs": {
-                    "description": "Alias for the affiliation",
-                    "type": "string"
-                  },
-                  "url": {
-                    "description": "URL of the affiliation",
-                    "type": "string",
-                    "format": "uri"
-                  }
-                },
-                "required": ["name"],
-                "optional": ["sameAs", "url"]
-              },
-              "name": {
-                "description": "Name of the person",
-                "type": "string"
-              },
-              "email": {
-                "description": "Email address of the person",
-                "type": "string"
-              },
-              "familyName": {
-                "description": "Family name (surname) of the person",
-                "type": "string"
-              },
-              "givenName": {
-                "description": "Given (first) name of the person",
-                "type": "string"
-              },
-              "identifier": {
-                "description": "Unique identifier of the person, like an ORCID ID",
-                "type": "string"
-              },
-              "role": {
-                "description": "Role the person played in creating the resource catalog",
-                "type": "string"
-              },
-              "title": {
-                "description": "Title of the person",
-                "type": "string"
-              },
-              "url": {
-                "description": "Link to the homepage or other web content describing the person",
-                "type": "string",
-                "format": "uri"
-              }
-            },
-            "required": ["name"],
-            "recommended": ["familyName", "givenName ", "identifier "],
-            "optional": ["affiliation", "email", "role", "title", "url"],
-            "type": "object"
-          },
-          "softwareapplication": {
-            "@type": "SoftwareApplication",
-            "description": "Reusable software or algorithm definition",
-            "properties": {
-              "name": {
-                "description": "name of the software, computational tool, or algorithm.",
-                "type": "string"
-              },
-              "dateModified": {
-                "description": "date the software, computational tool, or algorithm was run",
-                "type": "string",
-                "format": "date"
-              },
-              "url": {
-                "description": "url of the software, computational tool, or algorithm",
-                "type": "string",
-                "format": "uri"
-              }
-            },
-            "required": ["name"],
-            "recommended": ["url"],
-            "optional": ["dateModified"],
-            "type": "object"
+            "required": ["url", "identifier"],
+            "recommended": ["name", "includedInDataCatalog"]
           }
         }
       }
@@ -12013,16 +11256,16 @@
           "@id": "nde:ResourceCatalog"
         },
         {
-          "@id": "schema:CreativeWork"
-        },
-        {
-          "@id": "niaid:ScholarlyArticle"
-        },
-        {
           "@id": "nde:Sample"
         },
         {
           "@id": "nde:SampleCollection"
+        },
+        {
+          "@id": "schema:CreativeWork"
+        },
+        {
+          "@id": "niaid:ScholarlyArticle"
         }
       ]
     },
@@ -12059,16 +11302,16 @@
           "@id": "nde:ResourceCatalog"
         },
         {
-          "@id": "schema:CreativeWork"
-        },
-        {
-          "@id": "niaid:ScholarlyArticle"
-        },
-        {
           "@id": "nde:Sample"
         },
         {
           "@id": "nde:SampleCollection"
+        },
+        {
+          "@id": "schema:CreativeWork"
+        },
+        {
+          "@id": "niaid:ScholarlyArticle"
         }
       ]
     },
@@ -12105,16 +11348,16 @@
           "@id": "nde:ResourceCatalog"
         },
         {
-          "@id": "schema:CreativeWork"
-        },
-        {
-          "@id": "niaid:ScholarlyArticle"
-        },
-        {
           "@id": "nde:Sample"
         },
         {
           "@id": "nde:SampleCollection"
+        },
+        {
+          "@id": "schema:CreativeWork"
+        },
+        {
+          "@id": "niaid:ScholarlyArticle"
         }
       ]
     },
@@ -12143,12 +11386,6 @@
         },
         {
           "@id": "nde:ResourceCatalog"
-        },
-        {
-          "@id": "nde:Sample"
-        },
-        {
-          "@id": "nde:SampleCollection"
         }
       ],
       "schema:rangeIncludes": [
@@ -12223,6 +11460,9 @@
       "schema:rangeIncludes": [
         {
           "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:QuantitativeValue"
         }
       ]
     },
@@ -12365,9 +11605,6 @@
         },
         {
           "@id": "nde:Sample"
-        },
-        {
-          "@id": "nde:SampleCollection"
         }
       ],
       "schema:rangeIncludes": [{
@@ -12628,9 +11865,14 @@
       "@type": "rdf:Property",
       "rdfs:comment": "The type of cell represented in or derived from the biological sample, based on morphology, lineage, or molecular markers.",
       "rdfs:label": "cellType",
-      "schema:domainIncludes": {
-        "@id": "nde:Sample"
-      },
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Sample"
+        },
+        {
+          "@id": "nde:SampleCollection"
+        }
+      ],
       "schema:rangeIncludes": [
         {
           "@id": "schema:Text"
@@ -12644,26 +11886,9 @@
       ]
     },
     {
-      "@id": "nde:sampleList",
-      "@type": "rdf:Property",
-      "rdfs:comment": "A list of sample records in the sample set or sample collection.",
-      "rdfs:label": "sampleList",
-      "schema:domainIncludes": {
-        "@id": "nde:SampleCollection"
-      },
-      "schema:rangeIncludes": [
-        {
-          "@id": "nde:Sample"
-        },
-        {
-          "@id": "schema:URL"
-        }
-      ]
-    },
-    {
       "@id": "nde:sample",
       "@type": "rdf:Property",
-      "rdfs:comment": "Dataset property linking the dataset to the samples used for generating the Dataset.",
+      "rdfs:comment": "The sample(s) which were used to generate the dataset or sample collection",
       "rdfs:label": "sample",
       "schema:domainIncludes": {
         "@id": "nde:Dataset"
@@ -12674,6 +11899,23 @@
         },
         {
           "@id": "nde:SampleCollection"
+        },
+        {
+          "@id": "schema:URL"
+        }
+      ]
+    },
+    {
+      "@id": "nde:sampleList",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The sample(s) which are part of the sample collection",
+      "rdfs:label": "sampleList",
+      "schema:domainIncludes": {
+        "@id": "nde:SampleCollection"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "nde:Sample"
         },
         {
           "@id": "schema:URL"
