@@ -1832,7 +1832,7 @@
               }
             },
             "required": ["url", "identifier"],
-            "recommended": [, "name", "includedInDataCatalog"]
+            "recommended": ["name", "includedInDataCatalog"]
           },
           "samplecollection": {
             "@type": "SampleCollection",
@@ -1882,7 +1882,7 @@
               }
             },
             "required": ["url", "identifier"],
-            "recommended": [, "name", "includedInDataCatalog", "sampleList"]
+            "recommended": ["name", "includedInDataCatalog", "sampleList"]
           }
         }
       }
@@ -8502,7 +8502,7 @@
               }
             },
             "required": ["url", "identifier"],
-            "recommended": [, "name", "includedInDataCatalog"]
+            "recommended": ["name", "includedInDataCatalog"]
           }
         }
       }
@@ -11106,7 +11106,7 @@
               }
             },
             "required": ["url", "identifier"],
-            "recommended": [, "name", "includedInDataCatalog"]
+            "recommended": ["name", "includedInDataCatalog"]
           }
         }
       }
@@ -11896,6 +11896,9 @@
       "schema:rangeIncludes": [
         {
           "@id": "nde:Sample"
+        },
+        {
+          "@id": "nde:SampleCollection"
         },
         {
           "@id": "schema:URL"
