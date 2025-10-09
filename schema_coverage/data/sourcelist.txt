@@ -1,13 +1,13 @@
 AccessClinicalData@NIAID
 biotools
 ClinEpiDB
-Data+Discovery+Engine
-Dryad+Digital+Repository
+Data Discovery Engine
+Dryad Digital Repository
 Figshare
-Flow+Repository
-Harvard+Dataverse
+Flow Repository
+Harvard Dataverse
 HuBMAP
-Human+Cell+Atlas
+Human Cell Atlas
 ImmPort
 ImmuneSpace
 LINCS
@@ -15,16 +15,18 @@ MalariaGEN
 MassIVE
 Mendeley
 MicrobiomeDB
-NCBI+BioProject
-NCBI+GEO
-NCBI+SRA
+NCBI BioProject
+NCBI GEO
+NCBI SRA
 NDEx
-NICHD+DASH
-Omics+Discovery+Index+(OmicsDI)
+NICHD DASH
+Omics Discovery Index (OmicsDI)
+Project Tycho
+Protein Data Bank
 Qiita
-RADx+Data+Hub
+RADx Data Hub
 ReframeDB
-The+Database+of+Genotypes+and+Phenotypes
+The Database of Genotypes and Phenotypes
 VDJServer
 VEuPathDB
 Vivli
