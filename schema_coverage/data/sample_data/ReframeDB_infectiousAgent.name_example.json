@@ -4,13 +4,15 @@
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 12.793354,
+    "_score": 12.541323,
     "alternateName": "Intracellular nonreplicating MTB screen",
     "author": [
         {
+            "@type": "Person",
             "name": "Changyou Lin"
         },
         {
+            "@type": "Person",
             "affiliation": {
                 "name": "Calibr at Scripps Research"
             },
@@ -21,6 +23,7 @@
     "description": "Phenotypic high-content imaging-based high-throughput screen against the intracellular nonreplicating Mycobacterium tuberculosis using a dual fluorescence reporter-based system.\nPurpose\nIn order to more closely recapitulate human tuberculosis disease, intramacrophage screens may be more useful than assays with only extracellular bacteria. We have developed a dual fluorescence reporter-based assay with intracellular nonreplicating MTB. Compounds that are active against replicating MTB are not active in this assay. Green fluorescence indicates the presence of MTB; red fluorescence indicates viable MTB; Hoechst staining is nuclear staining of macrophage host cells. This assay is to screen for compounds that kill nonreplicating MTB directly, or indirectly by enhancing host cell defense mechanisms.\nProtocol\nJ774 macrophage cells are infected with M. tuberculosis H37RvDK (\u201a\u00e0\u00dcPan, \u201a\u00e0\u00dcRD1) at a MOI of 5:1. Infected cells are seeded (5000 cells/well; 6 uL/well) in clear-bottom 1536-well plates and incubated at 37C for 12 hours. After incubation, the medium is replaced with 6 uL of fresh cell culture medium. Compounds are then dispensed into assay plates and incubated at 37C for 48 hours. After incubation period, 2 uL of inducer is added to each well (150 ng/ml anhydrotetracycline) and the plates are incubated at 37C overnight. The next day, medium is replaced with 6 uL of fresh 1X PBS containing 1 ug/ml Hoechst 33342. Plates are then sealed with aluminum adhesive seals and scanned on the Thermo CX5 Cellomics imager using the SpotDetector algorithm within 24 hours (live cell imaging, time sensitive). \r\n\nReadout\nHigh-content imaging, percent fluorescence, spot count normalized to neutral control minus inhibitor.\nDetection Method\nhigh-content imaging; rifampicin is used as a positive control, and dmso is the neutral control. spot counts (red and green channels) are normalized by neutral controls minus inhibitors.\nDetection Reagents\nHoechst 33342\nComponents\nJ774 Macrophages; MTB H37RvDK (\u201a\u00e0\u00dcPan, \u201a\u00e0\u00dcRD1); aTC; Hoechst 33342\nDrug Concetration\n10  \u00c2\u00b5M",
     "healthCondition": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "tuberculosis disease"
             ],
@@ -43,10 +46,11 @@
         "archivedAt": "https://reframedb.org/assays/A00101",
         "name": "ReframeDB",
         "url": "https://reframedb.org/",
-        "versionDate": "2025-08-23T07:00:25.673826"
+        "versionDate": "2025-10-11T07:00:27.116637"
     },
     "infectiousAgent": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Bacillus tuberculosis",
                 "strain H37 Rv",
@@ -81,6 +85,7 @@
             "url": "https://www.uniprot.org/taxonomy/1773"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "eubacteria",
                 "Procaryotae",
@@ -103,6 +108,7 @@
             "url": "https://www.uniprot.org/taxonomy/2"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Mycobacterium tuberculosis subsp. tuberculosis (Zopf 1883) Lehmann and Neumann 1896"
             ],
@@ -120,6 +126,7 @@
     "isAccessibleForFree": true,
     "measurementTechnique": [
         {
+            "@type": "DefinedTerm",
             "name": "cell based"
         },
         {
@@ -136,6 +143,7 @@
     "name": "Dual fluorescence reporter based intracellular nonreplicating MTB screen",
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Humo sapiens",
                 "Home sapiens",
@@ -166,6 +174,7 @@
             "url": "https://www.uniprot.org/taxonomy/9606"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "true seals",
                 "seals",

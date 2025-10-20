@@ -1,0 +1,196 @@
+{
+    "@type": "Dataset",
+    "_id": "flow_fr-fcm-z2tl",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 10.037086,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "name": "Antwerp University, Laboratory of Experimental Hematology, Antwerp, Antwerp (Belgium)"
+                }
+            ],
+            "name": "George Elias"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Elias G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Meysman P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bartholomeus E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "De Neuter N"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Keersmaekers N"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Suls A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jansens H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Souquette A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "De Reu H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Emonds MP"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Smits E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lion E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Thomas PG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mortier G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Van Damme P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Beutels P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Laukens K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Van Tendeloo V"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ogunjimi B"
+                }
+            ],
+            "datePublished": "2022-01-25",
+            "fromPMID": true,
+            "identifier": "PMID:35074048",
+            "journalName": "eLife",
+            "name": "Preexisting memory CD4 T cells in naive individuals confer robust immunity upon hepatitis B vaccination.",
+            "pmid": "35074048",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35074048/"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "date": "2020-08-01",
+    "dateModified": "2020-08-01",
+    "datePublished": "2020-08-01",
+    "description": "After showing evidence for the existence of vaccine-specific TCR? sequences pre-vaccination, and that individuals with a higher number of HBsAg peptide-specific clonotypes had earlier seroconversion (early-converters), we attempted to link this observation to differences in vaccine-specific CD4 T cells responses using CD4 T cell assays.\nConclusion: \nFlow cytometry data reveal a significant increase in the frequency of CD40L+4-1BB\u2212 and CD40L\u22124-1BB+ memory CD4 T cells at day 60 post-vaccination in our cohort. The expression of CD40L and 4-1BB on CD4 T cells after stimulation is consistent with serological data and reflects the lack of seroconversion at day 60 in late-converters. The data does not support the existence of more vaccine-specific memory CD4 T cells in early-converters prior to vaccination.\n Notes: \nBoth activation markers CD40L (CD154) and 4-1BB (CD137) were used to delineate the conventional (TCON) and regulatory (TREG) phenotypes of activated CD4 T cells. In this scheme, after 6 hours of antigen stimulation, CD40L+4-1BB? can be used as a signature for antigen-specific CD4 TCON cells, as opposed to CD40L?4-1BB+ signature for antigen-specific CD4 TREG cells. Additionally, CD25 and CD127 were used to identify TREG cells and CXCR5 to further distinguish circulatory T follicular helper cells (cTFH) and circulatory T follicular regulatory cells (cTFR). Fluorescence-minus-one controls were performed in pilot studies. Gates for CD40L+ and 4-1BB+ CD4 T cells were set using cells left unstimulated (negative control contained DMSO at the same concentration used to solve peptide pools).",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "http://flowrepository.org/experiments/510/download_ziped_files",
+        "dateModified": "2020-08-01",
+        "name": "FCS files"
+    },
+    "funding": {
+        "@type": "MonetaryGrant",
+        "description": "1. University of Antwerp [BOF Concerted Research Action (PS ID 30730) Methusalem funding; Industrial Research Fund SBO]. 2. Research Foundation Flanders (1861219N grant to B. Ogunjimi and FWO SB grant to N. De Neuter."
+    },
+    "identifier": "FR-FCM-Z2TL",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "http://flowrepository.org/id/FR-FCM-Z2TL",
+        "name": "Flow Repository",
+        "url": "http://flowrepository.org/",
+        "versionDate": "2025-07-05"
+    },
+    "keywords": [
+        "4-1BBL",
+        "CD40L",
+        "T cell assay"
+    ],
+    "license": "http://flowrepository.org/terms_of_service",
+    "measurementTechnique": {
+        "@type": "DefinedTerm",
+        "curatedBy": {
+            "dateModified": "2025-07-05",
+            "name": "Flow Repository",
+            "url": "http://flowrepository.org/"
+        },
+        "inDefinedTermSet": "MMO",
+        "isCurated": true,
+        "name": "flow cytometry method",
+        "url": "http://purl.obolibrary.org/obo/MMO_0000617"
+    },
+    "name": "ex vivo CD4 T cell assay",
+    "temporalCoverage": {
+        "@type": "TemporalInterval",
+        "endDate": "2020-05-10",
+        "startDate": "2019-04-22",
+        "temporalType": "study date"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3344",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomedical science",
+            "url": "http://edamontology.org/topic_3344"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3966",
+            "inDefinedTermSet": "EDAM",
+            "name": "Vaccinology",
+            "url": "http://edamontology.org/topic_3966"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        }
+    ],
+    "url": "http://flowrepository.org/id/FR-FCM-Z2TL"
+}

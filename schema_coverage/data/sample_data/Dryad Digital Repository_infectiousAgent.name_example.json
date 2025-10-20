@@ -1,0 +1,207 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dryad_1dp6s",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 6.6650987,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Universidad Aut\u00f3noma de Madrid",
+                "sameAs": "https://ror.org/01cby8j38"
+            },
+            "familyName": "L\u00f3pez-Bueno",
+            "givenName": "Alberto",
+            "name": "Alberto L\u00f3pez-Bueno"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Universidad Aut\u00f3noma de Madrid",
+                "sameAs": "https://ror.org/01cby8j38"
+            },
+            "familyName": "Rastrojo",
+            "givenName": "Alberto",
+            "name": "Alberto Rastrojo"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Universidad Aut\u00f3noma de Madrid",
+                "sameAs": "https://ror.org/01cby8j38"
+            },
+            "familyName": "Peir\u00f3",
+            "givenName": "Ramon",
+            "name": "Ramon Peir\u00f3"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Universidad Aut\u00f3noma de Madrid",
+                "sameAs": "https://ror.org/01cby8j38"
+            },
+            "familyName": "Arenas",
+            "givenName": "Miguel",
+            "name": "Miguel Arenas"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Universidad Aut\u00f3noma de Madrid",
+                "sameAs": "https://ror.org/01cby8j38"
+            },
+            "familyName": "Alcam\u00ed",
+            "givenName": "Antonio",
+            "name": "Antonio Alcam\u00ed"
+        }
+    ],
+    "citation": {
+        "@type": "ScholarlyArticle",
+        "url": "http://doi.org/10.1111/mec.13321"
+    },
+    "conditionsOfAccess": "Open",
+    "date": "2015-07-14",
+    "datePublished": "2015-07-14",
+    "description": "RNA viruses exist as complex mixtures of genotypes, known as quasispecies, where the evolution potential resides in the whole community of related genotypes. Quasispecies structure and dynamics have been studied in detail for virus infecting animals and plants but remain unexplored for those infecting micro-organisms in environmental samples. We report the first metagenomic study of RNA viruses in an Antarctic lake (Lake Limnopolar, Livingston Island). Similar to low-latitude aquatic environments, this lake harbours an RNA virome dominated by positive single-strand RNA viruses from the order Picornavirales probably infecting micro-organisms. Antarctic picorna-like virus 1 (APLV1), one of the most abundant viruses in the lake, does not incorporate any mutation in the consensus sequence from 2006 to 2010 and shows stable quasispecies with low-complexity indexes. By contrast, APLV2-APLV3 are detected in the lake water exclusively in summer samples and are major constituents of surrounding cyanobacterial mats. Their quasispecies exhibit low complexity in cyanobacterial mat, but their run-off-mediated transfer to the lake results in a remarkable increase of complexity that may reflect the convergence of different viral quasispecies from the catchment area or replication in a more diverse host community. This is the first example of viral quasispecies from natural aquatic ecosystems and points to ecological connectivity as a modulating factor of quasispecies complexity.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "http://datadryad.org/api/v2/datasets/doi%253A10.5061%252Fdryad.1dp6s/download",
+        "encodingFormat": "application/zip",
+        "hasPart": [
+            "http://datadryad.org/downloads/file_stream/25347",
+            "http://datadryad.org/downloads/file_stream/25348",
+            "http://datadryad.org/downloads/file_stream/25349",
+            "http://datadryad.org/downloads/file_stream/25350",
+            "http://datadryad.org/downloads/file_stream/25351"
+        ]
+    },
+    "doi": "10.5061/dryad.1dp6s",
+    "hasPart": {
+        "@type": "ScholarlyArticle",
+        "name": "Contigs obtained with Newbler and CLC Genomic Workbench de novo assemblersContigs.zipAlignment of the RpRd domainRdRp_Alignment.faPhylogenetic tree based on RpRd domain alignmentRdRp_Tree.newickValidated SNVsValidated SNVs (CLC Genomic Workbench approach) for all APLV-quasispeciesAPLV_SNVs.xlsxPCA input for dinucleotide bias analysisDinucleotidePCA_131Picornavirales.txt"
+    },
+    "identifier": "doi:10.5061/dryad.1dp6s",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.1dp6s",
+            "name": "Dryad Digital Repository",
+            "url": "https://datadryad.org",
+            "versionDate": "2025-06-03"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://zenodo.org/records/4943506",
+            "name": "Zenodo",
+            "url": "https://zenodo.org/",
+            "versionDate": "2025-04-12"
+        }
+    ],
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Cyanobacteria bacterium"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Cyanobacteriota bacterium",
+            "fromEXTRACT": true,
+            "identifier": "2847862",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Cyanobacteriota bacterium",
+            "originalName": "cyanobacterial",
+            "url": "https://www.uniprot.org/taxonomy/2847862"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "displayName": "Antarctic picorna-like virus",
+            "fromEXTRACT": true,
+            "identifier": "2184269",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Antarctic picorna-like virus",
+            "originalName": "Antarctic picorna-like virus",
+            "url": "https://www.uniprot.org/taxonomy/2184269"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "keywords": [
+        "Metagenomics",
+        "Genomics/Proteomics",
+        "Microbial Biology"
+    ],
+    "license": "https://spdx.org/licenses/CC0-1.0.html",
+    "name": "Ecological connectivity shapes quasispecies structure of RNA viruses in an Antarctic lake",
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "land plants",
+                "higher plants",
+                "plants"
+            ],
+            "classification": "host",
+            "displayName": "Embryophyta",
+            "fromEXTRACT": true,
+            "identifier": "3193",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Embryophyta",
+            "originalName": "plants",
+            "url": "https://www.uniprot.org/taxonomy/3193"
+        }
+    ],
+    "temporalCoverage": {
+        "@type": "TemporalInterval",
+        "endDate": "2015-07-14"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0610",
+            "inDefinedTermSet": "EDAM",
+            "name": "Ecology",
+            "url": "http://edamontology.org/topic_0610"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3174",
+            "inDefinedTermSet": "EDAM",
+            "name": "Metagenomics",
+            "url": "http://edamontology.org/topic_3174"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3500",
+            "inDefinedTermSet": "EDAM",
+            "name": "Zoology",
+            "url": "http://edamontology.org/topic_3500"
+        }
+    ],
+    "url": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.1dp6s"
+}

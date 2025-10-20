@@ -1,0 +1,126 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "s-biad597",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 6.1492376,
+    "author": [
+        {
+            "@type": "Person",
+            "name": null
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "doi": "10.1007/s00018-023-04806-8 ",
+            "pmid": "37208479"
+        }
+    ],
+    "date": "2024-09-19",
+    "dateCreated": "2022-12-09",
+    "dateModified": "2024-09-19",
+    "datePublished": "2022-12-08",
+    "description": "The dynamics of the receptor tyrosine kinase HER2 were measured using universal point accumulation for imaging in nanoscale topography (uPAINT) in living HeLa cells with total internal reflection fluorescence (TIRF) microscopy. Different conditions were measured where in each the receptor was labeled with a non-activating anti-HER2 nanobody coupled to Cy3B as fluorecent probe. The conditions include a resting state without any ligand and cells stimulated with the ligands EGF, TGF\u03b1, EREG and NRG\u03b21 activating other receptors of the ErbB family.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "https://www.omicsdi.org/ws/dataset/bioimages/S-BIAD597",
+        "encodingFormat": "XML"
+    },
+    "identifier": "S-BIAD597",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://www.omicsdi.org/dataset/bioimages/S-BIAD597",
+            "name": "Omics Discovery Index (OmicsDI)",
+            "url": "https://www.omicsdi.org/",
+            "versionDate": "2025-10-01"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://www.ebi.ac.uk/studies/S-BIAD597",
+            "dataset": "https://www.ebi.ac.uk/bioimages/studies/S-BIAD597",
+            "name": "BioStudies",
+            "url": "https://www.ebi.ac.uk/biostudies/",
+            "versionDate": "2025-07-03"
+        }
+    ],
+    "keywords": [
+        "single-particle tracking",
+        "live cell",
+        "single-molecule",
+        "microscopy"
+    ],
+    "license": "CC BY 4.0",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "name": "TIRF"
+        },
+        {
+            "@type": "DefinedTerm",
+            "name": "uPAINT"
+        }
+    ],
+    "name": "Single-particle tracking (SPT) data of HER2 labeled with a non-activating nanobody in HeLa cells activated with the ligands EGF, TGF\u03b1, EREG, NRG\u03b21",
+    "sameAs": [
+        "https://www.ebi.ac.uk/biostudies/studies/S-BIAD597"
+    ],
+    "sdPublisher": {
+        "@type": "Organization",
+        "name": "bioimages",
+        "url": "https://www.omicsdi.org/dataset/bioimages/S-BIAD597"
+    },
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "name": "Homo sapiens (human)"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3306",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biophysics",
+            "url": "http://edamontology.org/topic_3306"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3297",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biotechnology",
+            "url": "http://edamontology.org/topic_3297"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2229",
+            "inDefinedTermSet": "EDAM",
+            "name": "Cell biology",
+            "url": "http://edamontology.org/topic_2229"
+        }
+    ],
+    "url": "https://www.omicsdi.org/dataset/bioimages/S-BIAD597",
+    "variableMeasured": [
+        {
+            "name": "Unknown"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dryad_1f1rc",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 6.6650987,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Princeton University",
+                "sameAs": "https://ror.org/00hx57361"
+            },
+            "familyName": "Loback",
+            "givenName": "Adrianna R.",
+            "name": "Adrianna R. Loback"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Institute of Science and Technology Austria",
+                "sameAs": "https://ror.org/03gnh5541"
+            },
+            "familyName": "Tka\u010dik",
+            "givenName": "Ga\u0161per",
+            "name": "Ga\u0161per Tka\u010dik"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Princeton University",
+                "sameAs": "https://ror.org/00hx57361"
+            },
+            "familyName": "Prentice",
+            "givenName": "Jason S.",
+            "name": "Jason S. Prentice"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Princeton University",
+                "sameAs": "https://ror.org/00hx57361"
+            },
+            "familyName": "Ioffe",
+            "givenName": "Mark L.",
+            "name": "Mark L. Ioffe"
+        },
+        {
+            "@type": "Person",
+            "familyName": "Berry II",
+            "givenName": "Michael J.",
+            "name": "Michael J. Berry II"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Institut de la Vision",
+                "sameAs": "https://ror.org/000zhpw23"
+            },
+            "familyName": "Marre",
+            "givenName": "Olivier",
+            "name": "Olivier Marre"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Princeton University",
+                "sameAs": "https://ror.org/00hx57361"
+            },
+            "familyName": "Berry",
+            "givenName": "Michael J.",
+            "name": "Michael J. Berry"
+        }
+    ],
+    "citation": {
+        "@type": "ScholarlyArticle",
+        "url": "http://doi.org/10.1371/journal.pcbi.1005148"
+    },
+    "conditionsOfAccess": "Open",
+    "date": "2017-10-18",
+    "datePublished": "2017-10-18",
+    "description": "Across the nervous system, certain population spiking patterns are observed far more frequently than others. A hypothesis about this structure is that these collective activity patterns function as population codewords\u2013collective modes\u2013carrying information distinct from that of any single cell. We investigate this phenomenon in recordings of \u223c150 retinal ganglion cells, the retina\u2019s output. We develop a novel statistical model that decomposes the population response into modes; it predicts the distribution of spiking activity in the ganglion cell population with high accuracy. We found that the modes represent localized features of the visual stimulus that are distinct from the features represented by single neurons. Modes form clusters of activity states that are readily discriminated from one another. When we repeated the same visual stimulus, we found that the same mode was robustly elicited. These results suggest that retinal ganglion cells\u2019 collective signaling is endowed with a form of error-correcting code\u2013a principle that may hold in brain areas beyond retina.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "http://datadryad.org/api/v2/datasets/doi%253A10.5061%252Fdryad.1f1rc/download",
+        "encodingFormat": "application/zip",
+        "hasPart": "http://datadryad.org/downloads/file_stream/10783"
+    },
+    "doi": "10.5061/dryad.1f1rc",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "additionalType": "ror",
+            "funder": {
+                "@type": "Organization",
+                "name": "National Science Foundation"
+            },
+            "identifier": "1504977",
+            "url": "https://ror.org/021nxhr62"
+        }
+    ],
+    "hasPart": {
+        "@type": "ScholarlyArticle",
+        "name": "Multi-electrode retinal ganglion cell population spiking dataThe file contains spike time data from multi-electrode array recordings of salamander retinal ganglion cells under four stimulus conditions: a white noise checkerboard, a repeated natural movie, a non-repeated natural movie, and a bar exhibiting random one-dimensional motion. For each experiment, spike time data is provided in the file 'data.mat' and information necessary to reconstruct the stimulus and align to spike times is contained in 'aux_data' where relevant. All recordings were sampled at 10 kHz. Data is in Matlab .mat format.error_robust_mode_data.zip"
+    },
+    "identifier": "doi:10.5061/dryad.1f1rc",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.1f1rc",
+            "name": "Dryad Digital Repository",
+            "url": "https://datadryad.org",
+            "versionDate": "2025-06-04"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://zenodo.org/records/4976473",
+            "name": "Zenodo",
+            "url": "https://zenodo.org/",
+            "versionDate": "2025-04-12"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "keywords": [
+        "Multielectrode array",
+        "Retinal ganglion cell"
+    ],
+    "license": "https://spdx.org/licenses/CC0-1.0.html",
+    "name": "Error-robust modes of the retinal population code",
+    "temporalCoverage": {
+        "@type": "TemporalInterval",
+        "endDate": "2017-10-18"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3304",
+            "inDefinedTermSet": "EDAM",
+            "name": "Neurobiology",
+            "url": "http://edamontology.org/topic_3304"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0622",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genomics",
+            "url": "http://edamontology.org/topic_0622"
+        }
+    ],
+    "url": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.1f1rc"
+}

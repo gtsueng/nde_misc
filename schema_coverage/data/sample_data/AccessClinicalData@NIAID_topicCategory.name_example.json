@@ -4,11 +4,12 @@
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 15.671946,
+    "_score": 15.423914,
     "abstract": "ACTT-4 will evaluate the combination of baricitinib and remdesivir compared to dexamethasone and remdesivir. Subjects will be assessed daily while hospitalized. If the subjects are discharged from the hospital, they will have a study visit at Days 15, 22, and 29. For discharged subjects, it is preferred that the Day 15 and 29 visits are in person to obtain safety laboratory tests, oropharyngeal (OP) swabs, plasma (Day 29), and serum for secondary research as well as clinical outcome data. However, if infection control or other restrictions limit the ability of the subject to return to the clinic, these visits may be conducted by phone, and only clinical data will be obtained. The Day 22 visit does not have laboratory tests or collection of samples and is conducted by phone. The primary objective is to evaluate the clinical efficacy of baricitinib + remdesivir versus dexamethasone + remdesivir as assessed by the mechanical ventilation free survival by Day 29",
     "additionalType": "Patient-Level Data",
     "citation": [
         {
+            "@type": "ScholarlyArticle",
             "url": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(22)00088-1/fulltext"
         }
     ],
@@ -18,6 +19,7 @@
     "description": "This study is an adaptive randomized double-blind placebo-controlled trial to evaluate the safety and efficacy of novel therapeutic agents in hospitalized adults diagnosed with COVID-19. The study is a multicenter trial that will be conducted in up to approximately 100 sites globally. The study will compare different investigational therapeutic agents to a control arm. New arms can be introduced according to scientific and public health needs. There will be interim monitoring to allow early stopping for futility, efficacy, or safety. If one therapy proves to be efficacious, then this treatment may become the control arm for comparison(s) with new experimental treatment(s). Any such change would be accompanied by an updated sample size. This adaptive platform is used to rapidly evaluate different therapeutics in a population of those hospitalized with moderate to severe COVID-19. The platform will provide a common framework sharing a similar population, design, endpoints, and safety oversight. New stages with new therapeutics can be introduced. One independent Data and Safety Monitoring Board (DSMB) will actively monitor interim data in all stages to make recommendations about early study closure or changes to study arms.  ACTT-4 will evaluate the combination of baricitinib and remdesivir compared to dexamethasone and remdesivir. Subjects will be assessed daily while hospitalized. If the subjects are discharged from the hospital, they will have a study visit at Days 15, 22, and 29. For discharged subjects, it is preferred that the Day 15 and 29 visits are in person to obtain safety laboratory tests, oropharyngeal (OP) swabs, plasma (Day 29), and serum for secondary research as well as clinical outcome data. However, if infection control or other restrictions limit the ability of the subject to return to the clinic, these visits may be conducted by phone, and only clinical data will be obtained. The Day 22 visit does not have laboratory tests or collection of samples and is conducted by phone.  All subjects will undergo a series of efficacy, safety, and laboratory assessments. Safety laboratory tests and blood (serum and plasma) research samples and oropharyngeal (OP) swabs will be obtained on Days 1 (prior to infusion) and Days 3, 5, 8, and 11 (while hospitalized). OP swabs and blood (serum only) plus safety laboratory tests will be collected on Day 15 and 29 (if the subject attends an in-person visit or are still hospitalized).  The primary objective is to evaluate the clinical efficacy of baricitinib + remdesivir versus dexamethasone + remdesivir as assessed by the mechanical ventilation free survival by Day 29. The key secondary objective is to evaluate the clinical efficacy of baricitinib + remdesivir versus dexamethasone + remdesivir according to clinical status (8-point ordinal scale) at Day 15.",
     "funding": [
         {
+            "@type": "MonetaryGrant",
             "funder": {
                 "@type": "Organization",
                 "alternateName": [
@@ -47,6 +49,7 @@
     ],
     "healthCondition": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "2019 novel coronavirus infection",
                 "2019-nCoV infection",
@@ -70,11 +73,13 @@
         "NCT04640168"
     ],
     "includedInDataCatalog": {
+        "@type": "DataCatalog",
         "archivedAt": "https://accessclinicaldata.niaid.nih.gov/study-viewer/clinical_trials/NCT04640168",
         "name": "AccessClinicalData@NIAID"
     },
     "isPartOf": [
         {
+            "@type": "ScholarlyArticle",
             "identifier": "ACTT",
             "name": "Adaptive COVID-19 Treatment Trial",
             "url": "https://www.nih.gov/news-events/news-releases/fourth-iteration-covid-19-treatment-trial-underway"
@@ -153,18 +158,20 @@
     "sourceOrganization": [
         {
             "@type": "ResearchProject",
-            "abstract": "The Office of Cyber Infrastructure and Computational Biology (OCICB) manages technologies supporting NIAID biomedical research programs.",
+            "abstract": "The Bioinformatics and Computational Biosciences Branch (BCBB) collection provides innovative bioinformatics tools and resources that empower researchers globally. By integrating computational data-driven science and analysis, BCBB advances biomedical research to drive breakthroughs in treatments for infectious, immunologic, and allergic diseases. For Bioinformatics Software at BCBB, visit: https://www.niaid.nih.gov/research/bioinformatics-software-bcbb",
             "alternateName": [
-                "Office of Cyber Infrastructure and Computational Biology",
-                "OCICB"
+                "Office of Cyber Infrastructure and Computational Biology, Bioinformatics and Computational Biosciences Branch",
+                "OCICB Bioinformatics and Computational Biosciences Branch",
+                "OCICB BCBB",
+                "BCBB"
             ],
-            "correctionApproved": false,
-            "description": "The Office of Cyber Infrastructure and Computational Biology (OCICB) provides a spectrum of management, technologies development, applications/software engineering, bioinformatics support, and professional development. OCICB works closely with NIAID intramural, extramural, and administrative staff to provide technical support, liaison, coordination, and consultation on a wide variety of ventures. These projects and initiatives are aimed at ensuring ever-increasing interchange and dissemination of scientific information within the federal government and among the worldwide scientific network of biomedical researchers.  For more information, visit the NIAID office page: https://www.niaid.nih.gov/about/cyber-infrastructure-computational-biology-contacts",
-            "name": "NIAID OCICB",
+            "correctionApproved": true,
+            "description": "The Bioinformatics and Computational Biosciences Branch (BCBB) collection provides innovative bioinformatics tools and resources that empower researchers globally. By integrating computational data-driven science and analysis, BCBB advances biomedical research to drive breakthroughs in treatments for infectious, immunologic, and allergic diseases. For Bioinformatics Software at BCBB, visit: https://www.niaid.nih.gov/research/bioinformatics-software-bcbb",
+            "name": "NIAID OCICB BCBB",
             "parentOrganization": [
                 "NIAID"
             ],
-            "url": "https://www.niaid.nih.gov/about/daids"
+            "url": "https://www.niaid.nih.gov/research/bioinformatics-computational-biosciences-branch"
         }
     ],
     "topicCategory": [

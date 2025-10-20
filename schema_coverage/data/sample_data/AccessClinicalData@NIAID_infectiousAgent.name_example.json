@@ -4,11 +4,12 @@
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 15.21696,
+    "_score": 14.967764,
     "abstract": "The initial iteration of ACTT (ACTT-1) evaluated remdesivir vs placebo.  Participants had to have a laboratory-confirmed SARS-CoV-2 and meet one of the following criteria suggestive of lower respiratory tract infection at the time of enrollment: radiographic infiltrates by imaging study, peripheral oxygen saturation (SpO2) \u226494% on room air, or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). ",
     "additionalType": "Patient-Level Data",
     "citation": [
         {
+            "@type": "ScholarlyArticle",
             "author": [
                 {
                     "@type": "Person",
@@ -191,6 +192,7 @@
     "description": "ACTT is a clinical trial platform sponsored by NIAID to evaluate the safety and efficacy of novel therapeutic agents in hospitalized adults diagnosed with COVID-19. The studies are a multicenter trial and will be conducted in up to approximately 100 sites globally. The studies will compare different investigational therapeutic agents to a control arm.  New arms can be introduced according to scientific and public health needs. This adaptive platform is used to rapidly evaluate different therapeutics in a population of those hospitalized with moderate to severe COVID-19. The platform will provide a common framework sharing a similar population, design, endpoints, and safety oversight. New stages with new therapeutics can be introduced.   The initial iteration of ACTT (ACTT-1) evaluated Remdesivir vs placebo.  Participants had to have a laboratory-confirmed SARS-CoV-2 and meet one of the following criteria suggestive of lower respiratory tract infection at the time of enrollment: radiographic infiltrates by imaging study, peripheral oxygen saturation (SpO2) \u226494% on room air, or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).   Remdesivir was administered intravenously as a 200-mg loading dose on day 1, followed by a 100-mg maintenance dose administered daily on days 2 through 10 or until hospital discharge or death. A matching placebo was administered according to the same schedule and in the same volume as the active drug. Eligible patients were randomly assigned in a 1:1 ratio to receive either remdesivir or placebo. There were 60 trial sites and 13 subsites: United States (45 sites), Denmark (8), the United Kingdom (5), Greece (4), Germany (3), Korea (2), Mexico (2), Spain (2), Japan (1), and Singapore (1).   Participants were assessed daily during their hospitalization, from day 1 through day 29. The participant\u2019s clinical status on an eight-category ordinal scale, National Early Warning Score (NEWS), and other clinical data was recorded each day. All serious adverse events and grade 3 or 4 adverse events that represented an increase in severity from day 1 and any grade 2 or higher suspected drug-related hypersensitivity reactions were recorded. Upon discharge, participants had intermittent study visits through Day 29.  The final follow-up for all participants was Day 29.",
     "funding": [
         {
+            "@type": "MonetaryGrant",
             "funder": {
                 "@type": "Organization",
                 "alternateName": [
@@ -204,9 +206,11 @@
             }
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2020-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -232,9 +236,11 @@
             "url": "https://reporter.nih.gov/project-details/10199576"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2021-06-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "VA Biomedical Laboratory Research and Development",
                         "BLR&D, ORD",
@@ -260,37 +266,11 @@
             "url": "https://reporter.nih.gov/project-details/9347142"
         },
         {
-            "endDate": "2023-11-30",
-            "funder": [
-                {
-                    "alternateName": [
-                        "National Institute of Allergy & Infectious Diseases",
-                        "NIAID",
-                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
-                    ],
-                    "identifier": "https://ror.org/043z4tv69",
-                    "name": "National Institute of Allergy and Infectious Diseases",
-                    "parentOrganization": "National Institutes of Health"
-                }
-            ],
-            "identifier": "3UM1AI148573-01S1",
-            "name": "University of Washington Vaccine and Treatment Evaluation Unit",
-            "projectNumSplit": {
-                "activityCode": "UM1",
-                "applTypeCode": "3",
-                "fullSupportYear": "01S1",
-                "icCode": "AI",
-                "serialNum": "148573",
-                "suffixCode": "S1",
-                "supportYear": "01"
-            },
-            "startDate": "2020-03-12",
-            "url": "https://reporter.nih.gov/project-details/10120765"
-        },
-        {
+            "@type": "MonetaryGrant",
             "endDate": "2022-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -316,9 +296,11 @@
             "url": "https://reporter.nih.gov/project-details/10203168"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2022-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -344,9 +326,11 @@
             "url": "https://reporter.nih.gov/project-details/10195286"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2022-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -372,9 +356,11 @@
             "url": "https://reporter.nih.gov/project-details/10203168"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2026-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -400,9 +386,11 @@
             "url": "https://reporter.nih.gov/project-details/9874348"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2023-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -428,9 +416,11 @@
             "url": "https://reporter.nih.gov/project-details/10120765"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2026-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -456,6 +446,7 @@
             "url": "https://reporter.nih.gov/project-details/9874348"
         },
         {
+            "@type": "MonetaryGrant",
             "fromPMID": true,
             "funder": {
                 "@type": "Organization",
@@ -469,6 +460,7 @@
             "identifier": "211153/Z/18/Z"
         },
         {
+            "@type": "MonetaryGrant",
             "fromPMID": true,
             "funder": {
                 "@type": "Organization",
@@ -477,6 +469,7 @@
             "identifier": "HHSN261201500003I"
         },
         {
+            "@type": "MonetaryGrant",
             "fromPMID": true,
             "funder": {
                 "@type": "Organization",
@@ -491,6 +484,7 @@
             "identifier": "MC_UU_12023/22"
         },
         {
+            "@type": "MonetaryGrant",
             "fromPMID": true,
             "funder": {
                 "@type": "Organization",
@@ -499,9 +493,11 @@
             "identifier": "HHSN261200800001E"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2022-07-31",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -527,9 +523,11 @@
             "url": "https://reporter.nih.gov/project-details/9594911"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2020-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -555,9 +553,11 @@
             "url": "https://reporter.nih.gov/project-details/10199278"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2020-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -583,9 +583,50 @@
             "url": "https://reporter.nih.gov/project-details/10226711"
         },
         {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIA NIH HHS"
+            },
+            "identifier": "U54 AG062334"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2023-11-30",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "3UM1AI148573-01S1",
+            "name": "University of Washington Vaccine and Treatment Evaluation Unit",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "3",
+                "fullSupportYear": "01S1",
+                "icCode": "AI",
+                "serialNum": "148573",
+                "suffixCode": "S1",
+                "supportYear": "01"
+            },
+            "startDate": "2020-03-12",
+            "url": "https://reporter.nih.gov/project-details/10120765"
+        },
+        {
+            "@type": "MonetaryGrant",
             "endDate": "2022-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -611,9 +652,11 @@
             "url": "https://reporter.nih.gov/project-details/10200480"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2020-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -639,9 +682,11 @@
             "url": "https://reporter.nih.gov/project-details/10199576"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2022-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -667,6 +712,7 @@
             "url": "https://reporter.nih.gov/project-details/10200480"
         },
         {
+            "@type": "MonetaryGrant",
             "fromPMID": true,
             "funder": {
                 "@type": "Organization",
@@ -675,9 +721,11 @@
             "identifier": "HHSN261201500003C"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2020-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -703,9 +751,11 @@
             "url": "https://reporter.nih.gov/project-details/10199278"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2022-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -731,6 +781,7 @@
             "url": "https://reporter.nih.gov/project-details/10195286"
         },
         {
+            "@type": "MonetaryGrant",
             "fromPMID": true,
             "funder": {
                 "@type": "Organization",
@@ -739,9 +790,11 @@
             "identifier": "HHSN261201500003I"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2020-11-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -783,6 +836,7 @@
     ],
     "healthCondition": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "2019 novel coronavirus infection",
                 "2019-nCoV infection",
@@ -797,6 +851,7 @@
             "url": "http://purl.obolibrary.org/obo/MONDO_0100096"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "death",
                 "death domain",
@@ -810,6 +865,7 @@
             "url": "http://purl.obolibrary.org/obo/NCIT_C154635"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "allergy of exposure to drug",
                 "exposure to drug allergic disease"
@@ -822,6 +878,7 @@
             "url": "http://purl.obolibrary.org/obo/MONDO_0000775"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "communicable disease",
                 "infectious diseases and manifestations",
@@ -839,6 +896,7 @@
             "url": "http://purl.obolibrary.org/obo/MONDO_0005550"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Upper Respiratory Tract Inflammation",
                 "Upper respiratory infection",
@@ -861,11 +919,13 @@
         "NCT04280705"
     ],
     "includedInDataCatalog": {
+        "@type": "DataCatalog",
         "archivedAt": "https://accessclinicaldata.niaid.nih.gov/study-viewer/clinical_trials/ACTT",
         "name": "AccessClinicalData@NIAID"
     },
     "infectiousAgent": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "2019-nCoV",
                 "Wuhan coronavirus",
@@ -889,6 +949,7 @@
             "url": "https://www.uniprot.org/taxonomy/2697049"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "SARS-CoV",
                 "Human coronavirus (strain SARS)",
@@ -912,6 +973,7 @@
     ],
     "isPartOf": [
         {
+            "@type": "ScholarlyArticle",
             "identifier": "ACTT",
             "name": "Adaptive COVID-19 Treatment Trial",
             "url": "https://www.nih.gov/news-events/news-releases/fourth-iteration-covid-19-treatment-trial-underway"
@@ -990,6 +1052,38 @@
     "sourceOrganization": [
         {
             "@type": "ResearchProject",
+            "abstract": "The Bioinformatics and Computational Biosciences Branch (BCBB) collection provides innovative bioinformatics tools and resources that empower researchers globally. By integrating computational data-driven science and analysis, BCBB advances biomedical research to drive breakthroughs in treatments for infectious, immunologic, and allergic diseases. For Bioinformatics Software at BCBB, visit: https://www.niaid.nih.gov/research/bioinformatics-software-bcbb",
+            "alternateName": [
+                "Office of Cyber Infrastructure and Computational Biology, Bioinformatics and Computational Biosciences Branch",
+                "OCICB Bioinformatics and Computational Biosciences Branch",
+                "OCICB BCBB",
+                "BCBB"
+            ],
+            "correctionApproved": true,
+            "description": "The Bioinformatics and Computational Biosciences Branch (BCBB) collection provides innovative bioinformatics tools and resources that empower researchers globally. By integrating computational data-driven science and analysis, BCBB advances biomedical research to drive breakthroughs in treatments for infectious, immunologic, and allergic diseases. For Bioinformatics Software at BCBB, visit: https://www.niaid.nih.gov/research/bioinformatics-software-bcbb",
+            "name": "NIAID OCICB BCBB",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.niaid.nih.gov/research/bioinformatics-computational-biosciences-branch"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The Centers for AIDS Research (CFAR) provides administrative and research support to enhance and coordinate high-quality HIV/AIDS research. This program fosters collaboration across disciplines to advance scientific discoveries and improve patient outcomes.",
+            "alternateName": [
+                "CFAR",
+                "Centers for AIDS Research"
+            ],
+            "correctionApproved": true,
+            "description": "The Centers for AIDS Research (CFAR) program at the National Institutes of Health provides administrative and shared research support to synergistically enhance and coordinate high quality AIDS research projects. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/centers-aids-research",
+            "name": "NIAID CFAR Program",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.niaid.nih.gov/research/about-centers-aids-research"
+        },
+        {
+            "@type": "ResearchProject",
             "abstract": "The HIV Prevention Trials Network (HPTN) conducts clinical trials to evaluate the safety and efficacy of non-vaccine HIV prevention strategies. Research areas include pre-exposure prophylaxis, behavioral interventions, and novel biomedical approaches to reduce HIV transmission.",
             "alternateName": [
                 "HPTN",
@@ -1020,22 +1114,23 @@
         },
         {
             "@type": "ResearchProject",
-            "abstract": "The Office of Cyber Infrastructure and Computational Biology (OCICB) manages technologies supporting NIAID biomedical research programs.",
+            "abstract": "The NIAID-funded Bioinformatics Resource Centers (BRCs) provide computational platforms for data sharing, analysis, and interoperability in infectious disease research. These centers support sustainable, production-level bioinformatics tools for the scientific community.",
             "alternateName": [
-                "Office of Cyber Infrastructure and Computational Biology",
-                "OCICB"
+                "Bioinformatics Resource Centers for Infectious Diseases",
+                "BRCs"
             ],
             "correctionApproved": false,
-            "description": "The Office of Cyber Infrastructure and Computational Biology (OCICB) provides a spectrum of management, technologies development, applications/software engineering, bioinformatics support, and professional development. OCICB works closely with NIAID intramural, extramural, and administrative staff to provide technical support, liaison, coordination, and consultation on a wide variety of ventures. These projects and initiatives are aimed at ensuring ever-increasing interchange and dissemination of scientific information within the federal government and among the worldwide scientific network of biomedical researchers.  For more information, visit the NIAID office page: https://www.niaid.nih.gov/about/cyber-infrastructure-computational-biology-contacts",
-            "name": "NIAID OCICB",
+            "description": "The NIAID-funded Bioinformatics Resource Centers (BRCs) provide data-driven, production-level, sustainable computational platforms to enable sharing and access to data, portable computational tools, and standards that support interoperability for the infectious diseases research community. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/bioinformatics-resource-centers",
+            "name": "NIAID BRCs Program",
             "parentOrganization": [
                 "NIAID"
             ],
-            "url": "https://www.niaid.nih.gov/about/daids"
+            "url": "https://www.niaid.nih.gov/research/bioinformatics-resource-centers"
         }
     ],
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Human",
                 "Homo sapian",

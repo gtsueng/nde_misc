@@ -1,0 +1,226 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "s-scdt-10_1038-s44319-024-00238-y",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 6.1492376,
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Dr. Jiaxin Yang"
+        }
+    ],
+    "date": "2024-09-19",
+    "dateCreated": "2024-09-19",
+    "dateModified": "2024-09-19",
+    "datePublished": "2024-09-19",
+    "description": "Despite the efficacy of highly active antiretroviral therapy in controlling the incidence and mortality of AIDS, effective interventions for HIV-1-induced neurological damage and cognitive impairment remain elusive. In this study, we found that HIV-1 infection can induce proteolytic cleavage and aberrant aggregation of TAR DNA-binding protein 43 (TDP-43), a pathological protein associated with various severe neurological disorders. The HIV-1 accessory protein Vpu was found to be responsible for the cleavage of TDP-43, as ectopic expression of Vpu alone was sufficient to induce TDP-43 cleavage, whereas HIV-1 lacking Vpu failed to cleave TDP-43. Mechanistically, the cleavage of TDP-43 at Asp89 by HIV-1 relies on Vpu-mediated activation of Caspase 3, and pharmacological inhibition of Caspase 3 activity effectively suppressed the HIV-1-induced aggregation and neurotoxicity of TDP-43. Overall, these results suggest that TDP-43 is a conserved host target of HIV-1 Vpu and provide evidence for the involvement of TDP-43 dysregulation in the neural pathogenesis of HIV-1.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "https://www.omicsdi.org/ws/dataset/biostudies-other/S-SCDT-10_1038-S44319-024-00238-Y",
+        "encodingFormat": "XML"
+    },
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "Fundamental Research Funds for the Central Universities of China",
+                    "Fundamental Research Fund for the Central Universities"
+                ],
+                "identifier": "501100012226",
+                "name": "Fundamental Research Funds for the Central Universities"
+            }
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "name": "National Major Project for Infectious Disease Control and Prevention"
+            }
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "name": "MOST | National Natural Science Foundation of China (NSFC)"
+            }
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "name": "MOST | NSFC | Excellent Young Scientists Fund (Young Scientists Fund)"
+            }
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "\u5409\u6797\u7701\u79d1\u5b66\u6280\u672f\u5385",
+                    "Jilin Provincial Department of Science and Technology"
+                ],
+                "identifier": "501100011789",
+                "name": "Department of Science and Technology of Jilin Province"
+            }
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "name": "Open Project of Key Laboratory of Organ Regeneration and Transplantation, Ministry of Education, the Program for JLU Science and Technology Innovative Research Team"
+            }
+        }
+    ],
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "neurotoxicity",
+                "neurotoxicity syndrome"
+            ],
+            "curatedBy": {
+                "dateModified": "2024-11-26",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0005527",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "toxic encephalopathy",
+            "originalName": "Neurotoxicity",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005527"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "acquired immunodeficiency disease",
+                "AIDS",
+                "acquired immunodeficiency syndrome, AIDS",
+                "acquired immune deficiency",
+                "AIDS, acquired immunodeficiency syndrome"
+            ],
+            "curatedBy": {
+                "dateModified": "2024-11-26",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0012268",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "AIDS",
+            "originalName": "AIDS",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0012268"
+        }
+    ],
+    "identifier": "S-SCDT-10_1038-S44319-024-00238-Y",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://www.omicsdi.org/dataset/biostudies-other/S-SCDT-10_1038-S44319-024-00238-Y",
+            "name": "Omics Discovery Index (OmicsDI)",
+            "url": "https://www.omicsdi.org/",
+            "versionDate": "2025-10-01"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://www.ebi.ac.uk/studies/S-SCDT-10_1038-S44319-024-00238-Y",
+            "dataset": "https://www.ebi.ac.uk/sourcedata/studies/S-SCDT-10_1038-S44319-024-00238-Y",
+            "name": "BioStudies",
+            "url": "https://www.ebi.ac.uk/biostudies/",
+            "versionDate": "2025-07-03"
+        }
+    ],
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "HIV-2",
+                "LAV-2",
+                "HIV2",
+                "HIV type 2",
+                "human immunodeficiency virus type 2 HIV-2",
+                "HIV",
+                "Human immunodeficiency virus-2",
+                "AIDS virus",
+                "Human immunodeficiency virus type 2",
+                "human immunodeficiency virus type 2, HIV-2"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Human immunodeficiency virus 2",
+            "fromEXTRACT": true,
+            "identifier": "11709",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Human immunodeficiency virus 2",
+            "originalName": "HIV-1",
+            "url": "https://www.uniprot.org/taxonomy/11709"
+        }
+    ],
+    "isRelatedTo": [
+        {
+            "doi": [
+                "10.1038/s44319-024-00238-y"
+            ]
+        }
+    ],
+    "name": "HIV-1 Vpu induces neurotoxicity by promoting Caspase 3-dependent cleavage of TDP-43",
+    "sameAs": [
+        "https://www.ebi.ac.uk/biostudies/studies/S-SCDT-10_1038-S44319-024-00238-Y"
+    ],
+    "sdPublisher": {
+        "@type": "Organization",
+        "name": "biostudies-other",
+        "url": "https://www.omicsdi.org/dataset/biostudies-other/S-SCDT-10_1038-S44319-024-00238-Y"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0781",
+            "inDefinedTermSet": "EDAM",
+            "name": "Virology",
+            "url": "http://edamontology.org/topic_0781"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3344",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomedical science",
+            "url": "http://edamontology.org/topic_3344"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3304",
+            "inDefinedTermSet": "EDAM",
+            "name": "Neurobiology",
+            "url": "http://edamontology.org/topic_3304"
+        }
+    ],
+    "url": "https://www.omicsdi.org/dataset/biostudies-other/S-SCDT-10_1038-S44319-024-00238-Y",
+    "variableMeasured": [
+        {
+            "name": "Unknown"
+        }
+    ]
+}

@@ -1,0 +1,1451 @@
+{
+    "@type": "ResourceCatalog",
+    "_id": "dde_933c129858283201",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 1010.3295,
+    "about": [
+        {
+            "@type": "DefinedTerm",
+            "description": "Not distinct from Specimen as a schema. For schema consider, https://bioschemas.org/types/BioSample/",
+            "displayName": "Sample",
+            "name": "Sample",
+            "url": "http://www.w3.org/ns/sosa/Sample"
+        }
+    ],
+    "abstract": "BEIResources is a NIAID supported IID repository that includes reagent data.",
+    "alternateName": "Biological and Emerging Infections Research Resources Program,NIH AIDS Reagent Program,NIH HIV Reagent Program",
+    "author": [
+        {
+            "@type": "Organization",
+            "alternateName": "ATCC",
+            "name": "American Type Culture Collection"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "American Type Culture Collection"
+            },
+            "familyName": "Rashid",
+            "givenName": "Sujatha",
+            "name": "Sujatha Rashid"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "American Type Culture Collection"
+            },
+            "familyName": "Bradford",
+            "givenName": "Rebecca",
+            "name": "Rebecca Bradford"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Baker R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Peacock S"
+                }
+            ],
+            "datePublished": "2008-11-01",
+            "fromPMID": true,
+            "identifier": "PMID:18675849",
+            "journalName": "Antiviral research",
+            "name": "BEI Resources: supporting antiviral research.",
+            "pmid": "18675849",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18675849/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Timani K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rashid S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bradford R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Leonelli J"
+                }
+            ],
+            "datePublished": "2023-01-01",
+            "fromPMID": true,
+            "identifier": "PMID:38192205",
+            "journalName": "Current HIV research",
+            "name": "NIH HIV Reagent Program: A Valuable Resource for HIV Research.",
+            "pmid": "38192205",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38192205/"
+        }
+    ],
+    "citedBy": [
+        {
+            "@type": "CreativeWork",
+            "name": "HIV Publications List",
+            "url": "https://www.beiresources.org/KnowledgeBase.aspx#tabs-4"
+        },
+        {
+            "@type": "CreativeWork",
+            "name": "BEI Resources Publications List",
+            "url": "https://www.beiresources.org/KnowledgeBase.aspx#tabs-3"
+        }
+    ],
+    "collectionSize": [
+        {
+            "@type": "PropertyValue",
+            "minValue": 17517,
+            "unitText": "catalog records"
+        },
+        {
+            "@type": "PropertyValue",
+            "minValue": 11617,
+            "unitText": "Product Sheets"
+        },
+        {
+            "@type": "PropertyValue",
+            "minValue": 10340,
+            "unitText": "Certificates of Analysis"
+        }
+    ],
+    "collectionType": "Repository",
+    "conditionsOfAccess": "Open",
+    "date": "2025-05-14",
+    "dateCreated": "2024-06-21",
+    "dateModified": "2025-05-14",
+    "datePublished": "2003-11-06",
+    "description": "BEI Resources was established by the National Institute of Allergy and Infectious Diseases (NIAID) to provide reagents, tools and information for studying Category A, B, and C priority pathogens, emerging infectious disease agents, non-pathogenic microbes and other microbiological materials of relevance to the research community.  BEI Resources acquires, authenticates and produces reagents that scientists need to carry out basic research and develop improved diagnostic tests, vaccines, and therapies. By centralizing these functions within BEI Resources, access to and use of these materials in the scientific community is monitored and quality control of the reagents is assured. In addition to supplying the infectious disease community with materials, BEI Resources also encourages and supports the deposit of materials from researchers and institutions. Depositing materials with BEI Resources has many advantages to the researcher and the research community including secure storage, community access and distribution; all while protecting the intellectual property rights of the depositor. The BEI Resources repository will be maintained as a resource for researchers as long as there is need.  Your deposit into BEI Resources is a long term investment to aid future research. BEI Resources has been managed under contract by American Type Culture Collection (ATCC) since 2003.  A seven-year contract to continue managing BEI Resources was awarded to ATCC in May 2016. The scope of the contract has expanded to a more comprehensive catalog of research materials, including those deposited by other Government-supported research projects, to be made available to the biodefense and emerging infectious disease scientific communities. Fungal, Parasite, Vector and other relevant Materials have been added to the existing Bacterial, Viral and Toxin reagents which cover NIAID Category A, B and C Priority Pathogens and NIAID designated emerging infectious disease agents and organisms.",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2024-10-15",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "75N93024C00001-P00001-9999-2",
+            "name": "BIOLOGICAL AND EMERGING INFECTIONS RESEARCH RESOURCES PROGRAM (BEI-RRP)",
+            "startDate": "2023-10-16",
+            "url": "https://reporter.nih.gov/project-details/11080842"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2025-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1G20AI174721-01",
+            "name": "ATCC's High Containment Facility Renovations in Support of NIAID and Pandemic Preparedness",
+            "projectNumSplit": {
+                "activityCode": "G20",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "174721",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2022-09-16",
+            "url": "https://reporter.nih.gov/project-details/10611743"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2026-11-30",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Office of the Director",
+                        "Office of the Director, NIH",
+                        "OD",
+                        "Office of the NIH Director"
+                    ],
+                    "identifier": "https://ror.org/00fj8a872",
+                    "name": "NIH Office of the Director",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1C06OD036014-01",
+            "name": "Biomaterial Manufacturing Suite in Support of NIH/NIAID and the Global Infectious Disease Research Community",
+            "projectNumSplit": {
+                "activityCode": "C06",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "OD",
+                "serialNum": "036014",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2023-09-06",
+            "url": "https://reporter.nih.gov/project-details/10795293"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIAID NIH HHS"
+            },
+            "identifier": "N01 AI030067"
+        }
+    ],
+    "genre": "IID",
+    "hasAPI": false,
+    "hasDownload": "Record-level",
+    "hasPart": [
+        {
+            "@type": "ResourceCatalog",
+            "name": "MR4 Malaria Resources",
+            "url": "https://www.beiresources.org/Collection/54/MR4-Malaria-Resources.aspx"
+        },
+        {
+            "@type": "ResourceCatalog",
+            "name": "HIV Reagent Program",
+            "url": "https://www.beiresources.org/Collection/57/HIV-Reagent-Program.aspx"
+        },
+        {
+            "@type": "ResourceCatalog",
+            "name": "Filariasis Resources",
+            "url": "https://www.beiresources.org/Collection/18/Filariasis-Resources.aspx"
+        },
+        {
+            "@type": "ResourceCatalog",
+            "name": "Human Microbiome Project Resources",
+            "url": "https://www.beiresources.org/Collection/4/Human-Microbiome-Project.aspx"
+        },
+        {
+            "@type": "ResourceCatalog",
+            "name": "Schistosome Resource Center ",
+            "url": "https://www.beiresources.org/Collection/51/Schistosomiasis-Resource-Center.aspx"
+        }
+    ],
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "infection",
+                "infectious disorder",
+                "communicable disease",
+                "transmissible disease",
+                "infectious",
+                "infectious diseases and manifestations",
+                "infectious disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "fromPMID": true,
+            "identifier": "0005550",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "infectious disease",
+            "originalName": "infectious disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005550"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "exposure to drug allergic disease",
+                "allergy of exposure to drug"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "fromPMID": true,
+            "identifier": "0000775",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "drug allergy",
+            "originalName": "drug allergy",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0000775"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "AIDS, acquired immunodeficiency syndrome",
+                "acquired immunodeficiency disease",
+                "AIDS",
+                "acquired immune deficiency",
+                "acquired immunodeficiency syndrome, AIDS"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0012268",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "AIDS",
+            "originalName": "AIDS",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0012268"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "plasmodiosis"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0005136",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "malaria",
+            "originalName": "malaria",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005136"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2019 novel coronavirus infection",
+                "2019-nCoV infection",
+                "coronavirus disease 2019",
+                "severe acute respiratory syndrome coronavirus 2 infectious disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0100096",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "COVID-19",
+            "originalName": "COVID-19",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0100096"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Chagas' disease",
+                "Chagas' disease with digestive system involvement",
+                "Trypanosoma cruzi caused disease or disorder",
+                "Trypanosoma cruzi infectious disease",
+                "Trypanosoma cruzi disease or disorder",
+                "infection by trypanosoma cruzi",
+                "Chagas disease",
+                "Chagas' disease with nervous system involvement",
+                "Chagas' disease with other organ involvement"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0001444",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "Chagas disease",
+            "originalName": "Chagas disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0001444"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "disease due to superfamily Filarioidea"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0016075",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "filariasis",
+            "originalName": "filariasis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0016075"
+        }
+    ],
+    "identifier": "https://www.beiresources.org/",
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "English"
+        }
+    ],
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://discovery.biothings.io/resource/933c129858283201",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/",
+            "versionDate": "2025-10-16"
+        }
+    ],
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Biomphalaria",
+            "identifier": "6525",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Biomphalaria",
+            "originalName": "Biomphalaria",
+            "url": "https://www.uniprot.org/taxonomy/6525"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Oncomelania hupensis Gredler,1881",
+                "Oncomelania hupensis Gredler, 1881"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Oncomelania hupensis",
+            "identifier": "56141",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Oncomelania hupensis",
+            "originalName": "Oncomelania hupensis",
+            "url": "https://www.uniprot.org/taxonomy/56141"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Freshwater snail",
+                "Physa truncata Audouin, 1827"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "Freshwater snail",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Freshwater snail | Bulinus truncatus",
+            "identifier": "55810",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Bulinus truncatus",
+            "originalName": "Bulinus truncatus",
+            "url": "https://www.uniprot.org/taxonomy/55810"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2019-nCoV",
+                "Human coronavirus 2019",
+                "Wuhan coronavirus",
+                "Wuhan seafood market pneumonia virus",
+                "SARS-2",
+                "HCoV-19",
+                "COVID19",
+                "COVID-19 virus",
+                "SARS-CoV2",
+                "COVID-19"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "2019-nCoV",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "2019-nCoV | Severe acute respiratory syndrome coronavirus 2",
+            "identifier": "2697049",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Severe acute respiratory syndrome coronavirus 2",
+            "originalName": "SARS-CoV-2",
+            "url": "https://www.uniprot.org/taxonomy/2697049"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "simian immunodeficiency virus, SIV",
+                "CIV",
+                "simian immunodeficiency viruses SIV",
+                "Chimpanzee immunodeficiency virus",
+                "SIV",
+                "Simian immunodeficiency virus SIVcpz",
+                "simian immunodeficiency virus SIV",
+                "Chimpanzee immunodeficiency virus (SIV(CPZ))"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "SIV",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "SIV | Simian immunodeficiency virus",
+            "identifier": "11723",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Simian immunodeficiency virus",
+            "originalName": "Simian immunodeficiency virus",
+            "url": "https://www.uniprot.org/taxonomy/11723"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "HIV",
+                "SHIV",
+                "SIV/HIV"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Simian-Human immunodeficiency virus",
+            "identifier": "57667",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Simian-Human immunodeficiency virus",
+            "originalName": "Simian-Human immunodeficiency virus",
+            "url": "https://www.uniprot.org/taxonomy/57667"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "HIV",
+                "human immunodeficiency virus HIV-1",
+                "human immunodeficiency virus-1 HIV-1",
+                "human immunodeficiency virus 1 HIV-1",
+                "Human immunodeficiencey virus type 1",
+                "human immunodeficiency virus type I HIV-1",
+                "HIV-1",
+                "Human immunodeficiency virus type I",
+                "Human immunodeficiency virus 1",
+                "LAV-1",
+                "human immunodeficiency virus type 1, HIV-1",
+                "AIDS virus",
+                "human immunodeficiency virus type 1 HIV 1",
+                "Human immundeficiency virus type 1",
+                "HIV1",
+                "human immunodeficiency virus type 1 ,HIV-1",
+                "human immunodeficiency virus type-1 HIV-1",
+                "human immunodeficiency virus type 1 HIV1",
+                "human immunodeficiency virus type 1 HIV-1"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "HIV-1",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "HIV-1 | Human immunodeficiency virus type 1",
+            "identifier": "11676",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Human immunodeficiency virus type 1",
+            "originalName": "Human immunodeficiency virus 1",
+            "url": "https://www.uniprot.org/taxonomy/11676"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "HIV",
+                "Human immunodeficiency virus-2",
+                "human immunodeficiency virus type 2 HIV-2",
+                "LAV-2",
+                "human immunodeficiency virus type 2, HIV-2",
+                "HIV-2",
+                "AIDS virus",
+                "HIV2",
+                "HIV type 2",
+                "Human immunodeficiency virus type 2"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Human immunodeficiency virus 2",
+            "identifier": "11709",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Human immunodeficiency virus 2",
+            "originalName": "Human immunodeficiency virus 2",
+            "url": "https://www.uniprot.org/taxonomy/11709"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Trypanosoma cruzi Chagas, 1909"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Trypanosoma cruzi",
+            "identifier": "5693",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Trypanosoma cruzi",
+            "originalName": "Trypanosoma cruzi",
+            "url": "https://www.uniprot.org/taxonomy/5693"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Alphaviridae",
+                "arboviruses group A"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "arboviruses group A",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "arboviruses group A | Alphavirus",
+            "identifier": "11019",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Alphavirus",
+            "originalName": "Alphavirus",
+            "url": "https://www.uniprot.org/taxonomy/11019"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Orthoflavivirus",
+            "identifier": "3044782",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Orthoflavivirus",
+            "originalName": "Orthoflavivirus",
+            "url": "https://www.uniprot.org/taxonomy/3044782"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Plasmodium",
+            "identifier": "5820",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Plasmodium",
+            "originalName": "Plasmodium",
+            "url": "https://www.uniprot.org/taxonomy/5820"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Leucobacter Takeuchi et al. 1996 emend. Schumann and Pukall 2017",
+                "Leucobacter Takeuchi et al. 1996",
+                "Leucobacter Takeuchi et al. 1996 emend. Hyun et al. 2021"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Leucobacter",
+            "identifier": "55968",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Leucobacter",
+            "originalName": "Leucobacter",
+            "url": "https://www.uniprot.org/taxonomy/55968"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Acinetobacter Brisou and Prevot 1954"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Acinetobacter",
+            "identifier": "469",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Acinetobacter",
+            "originalName": "Acinetobacter",
+            "url": "https://www.uniprot.org/taxonomy/469"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Brachiola algerae",
+                "Nosema algerae"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Anncaliia algerae",
+            "identifier": "723287",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Anncaliia algerae",
+            "originalName": "Anncaliia algerae",
+            "url": "https://www.uniprot.org/taxonomy/723287"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Elizabethkingia anophelis Kampfer et al. 2011 emend. Dojad et al. 2016",
+                "CCM 7804",
+                "NCTC 13869",
+                "Elizabethkingia anophelis Kampfer et al. 2011 emend. Kampfer et al. 2016",
+                "Elizabethkingia genomosp. 1",
+                "strain 2.5",
+                "Elizabethkingia anophelis Kampfer et al. 2011 emend. Nicholson et al. 2018",
+                "DSM 15670",
+                "Elizabethkingia anophelis Kampfer et al. 2011",
+                "Elizabethkingia sp. JM-87",
+                "Elizabethkingia anophelis Kampfer et al. 2011 emend. Hahnke et al. 2016",
+                "strain R26",
+                "CCUG 60038",
+                "strain 8.6",
+                "Elizabethkingia genomospecies 1",
+                "Elizabethkingia anophelis Kampfer et al. 2011 emend. Kampfer et al. 2015"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Elizabethkingia anophelis",
+            "identifier": "1117645",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Elizabethkingia anophelis",
+            "originalName": "Elizabethkingia anophelis",
+            "url": "https://www.uniprot.org/taxonomy/1117645"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Rhizomonas",
+                "Kaistobacter",
+                "Sphingomonas Yabuuchi et al. 1990 emend. Yabuuchi et al. 1999",
+                "Sphingomonas Yabuuchi et al. 1990 emend. Busse et al. 2003",
+                "Sphingomonas Yabuuchi et al. 1990 emend. Takeuchi et al. 2001",
+                "Sphingomonas Yabuuchi et al. 1990 emend. Chen et al. 2012",
+                "Sphingomonas Yabuuchi et al. 1990 emend. Feng et al. 2017",
+                "Sphingomonas Yabuuchi et al. 1990 emend. Yabuuchi et al. 2002",
+                "Rhizomonas van Bruggen et al. 1990"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Sphingomonas",
+            "identifier": "13687",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Sphingomonas",
+            "originalName": "Sphingomonas",
+            "url": "https://www.uniprot.org/taxonomy/13687"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Sphingobacter",
+                "Sphingobacterium Yabuuchi et al. 1983 emend. Wauters et al. 2012"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Sphingobacterium",
+            "identifier": "28453",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Sphingobacterium",
+            "originalName": "Sphingobacterium",
+            "url": "https://www.uniprot.org/taxonomy/28453"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Serratia Bizio 1823"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Serratia",
+            "identifier": "613",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Serratia",
+            "originalName": "Serratia <enterobacteria>",
+            "url": "https://www.uniprot.org/taxonomy/613"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Cedecea Grimont et al. 1981"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Cedecea",
+            "identifier": "158483",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Cedecea",
+            "originalName": "Cedecea",
+            "url": "https://www.uniprot.org/taxonomy/158483"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Pseudomonas Migula 1894 (Approved Lists 1980)",
+                "\"Chlorobacterium\" Guillebeau 1890, nom. rejic. Opin. 6 (not \"Chlorobacterium\" Lauterborn 1916)",
+                "Serpens",
+                "Chryseomonas Holmes et al. 1986",
+                "\"Loefflerella\" Holden 1935",
+                "Chryseomonas",
+                "Liquidomonas",
+                "Serpens Hespell 1977 (Approved Lists 1980)",
+                "Flavimonas Holmes et al. 1987",
+                "Peudomonas",
+                "\"Liquidomonas\" Orla-Jensen 1909",
+                "RNA similarity group I",
+                "Chryseomonas Holmes et al. 1986 emend. Rudra and Gupta 2024",
+                "Loefflerella",
+                "Flavimonas"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Pseudomonas",
+            "identifier": "286",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Pseudomonas",
+            "originalName": "Pseudomonas",
+            "url": "https://www.uniprot.org/taxonomy/286"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Schistosoma",
+            "identifier": "6181",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Schistosoma",
+            "originalName": "Schistosoma",
+            "url": "https://www.uniprot.org/taxonomy/6181"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Phleboviruses"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Phlebovirus",
+            "identifier": "11584",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Phlebovirus",
+            "originalName": "Phlebovirus",
+            "url": "https://www.uniprot.org/taxonomy/11584"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Leishmania",
+            "identifier": "5658",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Leishmania",
+            "originalName": "Leishmania <genus>",
+            "url": "https://www.uniprot.org/taxonomy/5658"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Bourbon virus",
+            "identifier": "1618189",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Bourbon virus",
+            "originalName": "Bourbon virus",
+            "url": "https://www.uniprot.org/taxonomy/1618189"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Rickettsia da Rocha-Lima 1916"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Rickettsia",
+            "identifier": "780",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Rickettsia",
+            "originalName": "Rickettsia",
+            "url": "https://www.uniprot.org/taxonomy/780"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "\"Rickettsia diaporica\" Cox 1939",
+                "ATCC VR-615",
+                "Coxiella burnetii8",
+                "culture-collection:ATCC:VR:615",
+                "Rickettsia burneti",
+                "Coxiella burnetii (Derrick 1939) Philip 1948",
+                "\"Rickettsia burneti\" (sic) Derrick 1939",
+                "Rickettsia diaporica"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Coxiella burnetii",
+            "identifier": "777",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Coxiella burnetii",
+            "originalName": "Coxiella burnetii",
+            "url": "https://www.uniprot.org/taxonomy/777"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Borrelia Swellengrebel 1907 (Approved Lists 1980) emend. Adeolu and Gupta 2014",
+                "Borrelia Swellengrebel 1907 (Approved Lists 1980) emend. Margos et al. 2018",
+                "Relapsing Fever Borrelia",
+                "Borrelia Swellengrebel 1907 (Approved Lists 1980)"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Borrelia",
+            "identifier": "138",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Borrelia",
+            "originalName": "Borrelia",
+            "url": "https://www.uniprot.org/taxonomy/138"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Cowdria Moshkovski 1947",
+                "Cowdria",
+                "Nicollea",
+                "possibly \"Donatienella\" Rousselot 1948",
+                "Rickettsia (subgen. Ehrlichia)",
+                "\"Ehrlichia (subgen. Cowdria)\" Moshkovski 1945",
+                "Kurlovia",
+                "\"Kurlovia\" Zhdanov 1953",
+                "Ehrlichia (subgen. Cowdria)",
+                "\"Nicollea\" Macchiavello 1947",
+                "Ehrlichia Moshkovski 1945 (Approved Lists 1980) emend. Dumler et al. 2001",
+                "\"Rickettsia (subgen. Ehrlichia)\" Moshkovski 1937",
+                "\"Nicollea\" (in part) Macchiavello 1947"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Ehrlichia",
+            "identifier": "943",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Ehrlichia",
+            "originalName": "Ehrlichia",
+            "url": "https://www.uniprot.org/taxonomy/943"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Babesia Starcovici, 1893"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Babesia",
+            "identifier": "5864",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Babesia",
+            "originalName": "Babesia",
+            "url": "https://www.uniprot.org/taxonomy/5864"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Mycobacterium Lehmann and Neumann 1896 (Approved Lists 1980) emend. Gupta et al. 2018",
+                "Mycobacterium Lehmann and Neumann 1896 (Approved Lists 1980) emend. Val-Calvo and Vazquez-Boland 2023",
+                "Mycobacterium Lehmann and Neumann 1896 (Approved Lists 1980)"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Mycobacterium",
+            "identifier": "1763",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Mycobacterium",
+            "originalName": "Mycobacterium",
+            "url": "https://www.uniprot.org/taxonomy/1763"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Brugia",
+            "identifier": "6278",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Brugia",
+            "originalName": "Brugia",
+            "url": "https://www.uniprot.org/taxonomy/6278"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Acanthocheilonema",
+            "identifier": "6276",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Acanthocheilonema",
+            "originalName": "Acanthocheilonema",
+            "url": "https://www.uniprot.org/taxonomy/6276"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Onchocercidae",
+            "identifier": "6296",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Onchocercidae",
+            "originalName": "Onchocercidae",
+            "url": "https://www.uniprot.org/taxonomy/6296"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Wolbachia Hertig 1936 (Approved Lists 1980)"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Wolbachia",
+            "identifier": "953",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Wolbachia",
+            "originalName": "Wolbachia",
+            "url": "https://www.uniprot.org/taxonomy/953"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "isBasedOn": [
+        {
+            "@type": "ResearchProject",
+            "name": "Malaria Research and Reference Reagent Resource Center (MR4)",
+            "url": "https://www.beiresources.org/About/HistoryMR4.aspx"
+        },
+        {
+            "@type": "ResearchProject",
+            "name": "NIH HIV Reagent Program",
+            "url": "https://www.beiresources.org/HIV/ProgramHistory.aspx"
+        },
+        {
+            "@type": "ResearchProject",
+            "name": "Filariasis Research Reagent Resource Center (FR3)",
+            "url": "https://www.beiresources.org/Home/FR3.aspx"
+        },
+        {
+            "@type": "ResearchProject",
+            "name": "Human Microbiome Project",
+            "url": "https://portal.hmpdacc.org/projects/t"
+        },
+        {
+            "@type": "ResearchProject",
+            "name": "Schistosome Related Reagent Repository (SR3)",
+            "url": "https://www.beiresources.org/SchistosomeRelatedResearchReagents.aspx"
+        }
+    ],
+    "isRelatedTo": [
+        {
+            "@type": "ResourceCatalog",
+            "name": "Antibacterial Resistance Leadership Group (ARLG) Biorepository Strain Catalog",
+            "url": "https://arlgcatalogue.org/arlgCatalogue/"
+        }
+    ],
+    "isSimilarTo": [
+        {
+            "@type": "ResourceCatalog",
+            "name": "American Type Culture Collection",
+            "url": "https://www.atcc.org/"
+        }
+    ],
+    "keywords": [
+        "reagent",
+        "Biospecimen",
+        "cell culture"
+    ],
+    "license": "https://www.beiresources.org/TermsofUse.aspx",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Submission",
+                "Submit",
+                "Submitted",
+                "submitted"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Submission",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C25695"
+        }
+    ],
+    "name": "BEIResources",
+    "sdPublisher": {
+        "@type": "DataCatalog",
+        "name": "Data Discovery Engine",
+        "url": "https://discovery.biothings.io/portal/nde"
+    },
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Culex"
+            ],
+            "classification": "host",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Culex",
+            "identifier": "7174",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Culex",
+            "originalName": "Culex <genus>",
+            "url": "https://www.uniprot.org/taxonomy/7174"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Anopheles"
+            ],
+            "classification": "host",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Anopheles",
+            "identifier": "7164",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Anopheles",
+            "originalName": "Anopheles <genus>",
+            "url": "https://www.uniprot.org/taxonomy/7164"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "host",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Aedes",
+            "identifier": "7158",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Aedes",
+            "originalName": "Aedes",
+            "url": "https://www.uniprot.org/taxonomy/7158"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Triatomid bug"
+            ],
+            "classification": "host",
+            "commonName": "Triatomid bug",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Triatomid bug | Rhodnius prolixus",
+            "identifier": "13249",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Rhodnius prolixus",
+            "originalName": "Rhodnius prolixus",
+            "url": "https://www.uniprot.org/taxonomy/13249"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Simulium vittatum (Zetterstedt, 1838)",
+                "Striped black fly"
+            ],
+            "classification": "host",
+            "commonName": "Striped black fly",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Striped black fly | Simulium vittatum",
+            "identifier": "7192",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Simulium vittatum",
+            "originalName": "Simulium vittatum",
+            "url": "https://www.uniprot.org/taxonomy/7192"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Lutzomyia"
+            ],
+            "classification": "host",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Lutzomyia",
+            "identifier": "7199",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Lutzomyia",
+            "originalName": "Lutzomyia <genus>",
+            "url": "https://www.uniprot.org/taxonomy/7199"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "host",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Phlebotomus",
+            "identifier": "13203",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Phlebotomus",
+            "originalName": "Phlebotomus <genus>",
+            "url": "https://www.uniprot.org/taxonomy/13203"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "hardbacked ticks",
+                "scale ticks",
+                "hard ticks"
+            ],
+            "classification": "host",
+            "commonName": "hardbacked ticks",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "hardbacked ticks | Ixodidae",
+            "identifier": "6939",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Ixodidae",
+            "originalName": "Ixodidae",
+            "url": "https://www.uniprot.org/taxonomy/6939"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "host",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Ornithodorinae",
+            "identifier": "2945031",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Ornithodorinae",
+            "originalName": "Ornithodorinae",
+            "url": "https://www.uniprot.org/taxonomy/2945031"
+        }
+    ],
+    "topicCategory": {
+        "@type": "DefinedTerm",
+        "url": [
+            "http://edamontology.org/topic_3337",
+            "http://edamontology.org/topic_3324",
+            "http://edamontology.org/topic_3340",
+            "http://edamontology.org/topic_3339"
+        ]
+    },
+    "url": "https://www.beiresources.org/",
+    "usageInfo": {
+        "@type": "CreativeWork",
+        "name": "Conditions of use",
+        "url": "https://www.beiresources.org/Register.aspx"
+    },
+    "variableMeasured": [
+        {
+            "alternateName": [
+                "Availability",
+                "Available"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Availability",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C25429"
+        }
+    ]
+}

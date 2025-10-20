@@ -1,145 +1,184 @@
 {
     "@type": "Dataset",
-    "_id": "qiita_12849",
+    "_id": "qiita_10093",
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 11.274522,
+    "_score": 11.021265,
     "author": {
-        "name": "Catherine Lozupone"
+        "@type": "Person",
+        "name": "David A. Mills"
     },
-    "description": "Abstract:  Clostridioides difficile infection (CDI), is the leading cause of hospital-acquired diarrhea and emerging evidence has linked dietary components with CDI pathogenesis,  suggesting that dietary modulation may be an effective strategy for prevention. Here, we show that mice fed a high-fat/low-fiber \u201cWestern type\u201d diet (WD) had dramatically increased mortality in a murine model of antibiotic-induced CDI compared to a low-fat/low-fiber (LF/LF) diet and standard mouse chow controls. We found that the WD had a pro- C. difficile bile acid composition that was driven in part by higher levels of primary bile acids that are produced to digest fat, and a lower level of secondary bile acids that are produced by the gut microbiome. This lack of secondary bile acids was associated with a greater disturbance to the gut microbiome with antibiotics in both the WD and LF/LF diet compared to mouse chow. Mice fed the WD also had the highest level of toxin TcdA just prior to the onset of mortality, but not of TcdB or inflammation.  These findings indicate that dietary intervention to decrease fat may complement previously proposed strategies to prevent CDI in high-risk individuals.  ",
-    "healthCondition": [
+    "citation": [
         {
-            "alternateName": [
-                "diarrheal disease",
-                "diarrhoea",
-                "diarrheal disorder",
-                "diarrhea",
-                "loose stools",
-                "frequent stools"
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Frese SA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Parker K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Calvert CC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mills DA"
+                }
             ],
-            "curatedBy": {
-                "dateModified": "2025-01-15",
-                "name": "Biothings API",
-                "url": "https://biothings.io/"
+            "datePublished": "2015-01-01",
+            "fromPMID": true,
+            "identifier": "PMID:26167280",
+            "journalName": "Microbiome",
+            "name": "Diet shapes the gut microbiome of pigs during nursing and weaning.",
+            "pmid": "26167280",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26167280/"
+        }
+    ],
+    "description": "Background.  The newborn mammal is rapidly colonized by a complex microbial community, whose importance for host health is becoming increasingly clear.  Understanding the forces that shape the early community, especially during the nursing period, is critical to understand how this consortium of microbes is assembled. Pigs present an attractive model for nursing humans, given physiological similarity and the compositional similarity of pig milk and human milk oligosaccharides and their utility in experimental studies.  However, there is a paucity of data examining the gut microbiome in nursing pigs from birth through weaning using modern molecular methods, and fewer experimental studies that examine the impact of diet on these microbial communities.  \r\nResults. We characterized the fecal microbiome of pigs from birth through 7 weeks of age, during which the animals were transitioned from an exclusive diet of sow milk to a starter diet composed of plant and animal-based components.  Microbial communities were clearly distinguishable based on diet, being relatively stable absent dietary changes. Metagenomic sequencing was used to characterize a subset of animals before and after weaning, which identified glycan degradation pathways differing significantly between diets.  Predicted enzymes active on milk-derived glycans that are otherwise indigestible to the host animal were enriched in the microbial metagenome of milk-fed animals.  In contrast, the metagenome of weaned animals was enriched in functional pathways involved in plant glycan deconstruction and consumption.  \r\nConclusions. The gut microbiome in young pigs is dramatically shaped by the composition of dietary glycans, reflected by the different functional capacities of the microbiome before and after weaning. \r\n",
+    "doi": [
+        "10.1186/s40168-015-0091-8"
+    ],
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2015-08-17",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Office of Alternative Medicine",
+                        "National Center for Complementary and Alternative Medicine",
+                        "OAM",
+                        "NCCAM",
+                        "NCCIH"
+                    ],
+                    "identifier": "https://ror.org/00190t495",
+                    "name": "National Center for Complementary and Integrative Health",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1F32AT008533-01A1",
+            "name": "The Impact of Milk Glycopeptide and Bifidobacterium on the Weaning Microbiota",
+            "projectNumSplit": {
+                "activityCode": "F32",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "AT",
+                "serialNum": "008533",
+                "suffixCode": "A1",
+                "supportYear": "01"
             },
-            "fromEXTRACT": true,
-            "identifier": "0001673",
-            "inDefinedTermSet": "MONDO",
-            "isCurated": true,
-            "name": "diarrheal disease",
-            "originalName": "diarrhea",
-            "url": "http://purl.obolibrary.org/obo/MONDO_0001673"
+            "startDate": "2015-03-02",
+            "url": "https://reporter.nih.gov/project-details/8909600"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2017-03-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Office of Alternative Medicine",
+                        "National Center for Complementary and Alternative Medicine",
+                        "OAM",
+                        "NCCAM",
+                        "NCCIH"
+                    ],
+                    "identifier": "https://ror.org/00190t495",
+                    "name": "National Center for Complementary and Integrative Health",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AT007079-01",
+            "name": "Mechanism of Activation of Probiotic Bifidobacteria by Prebiotic Milk Glycans",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AT",
+                "serialNum": "007079",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2012-04-01",
+            "url": "https://reporter.nih.gov/project-details/8234462"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2019-08-30",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Office of Alternative Medicine",
+                        "National Center for Complementary and Alternative Medicine",
+                        "OAM",
+                        "NCCAM",
+                        "NCCIH"
+                    ],
+                    "identifier": "https://ror.org/00190t495",
+                    "name": "National Center for Complementary and Integrative Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Office of the Director",
+                        "Office of the Director, NIH",
+                        "OD",
+                        "Office of the NIH Director"
+                    ],
+                    "identifier": "https://ror.org/00fj8a872",
+                    "name": "NIH Office of the Director",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AT008759-01",
+            "name": "Activation of probiotic bifidobacteria by milk glyans",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AT",
+                "serialNum": "008759",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2014-09-30",
+            "url": "https://reporter.nih.gov/project-details/8914110"
         }
     ],
     "includedInDataCatalog": {
         "@type": "DataCatalog",
-        "archivedAt": "https://qiita.ucsd.edu/study/description/12849",
+        "archivedAt": "https://qiita.ucsd.edu/study/description/10093",
         "name": "Qiita",
         "url": "https://qiita.ucsd.edu/",
         "versionDate": "2025-07-19"
     },
     "infectiousAgent": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
-                "mice gut metagenome"
+                "environmental sequence",
+                "metagenome sequence"
             ],
             "classification": "infectiousAgent",
-            "displayName": "mouse gut metagenome",
-            "fromEXTRACT": true,
-            "identifier": "410661",
+            "displayName": "metagenome",
+            "fromPMID": true,
+            "identifier": "256318",
             "inDefinedTermSet": "UniProt",
             "isCurated": false,
-            "name": "mouse gut metagenome",
-            "originalName": "gut microbiome",
-            "url": "https://www.uniprot.org/taxonomy/410661"
-        },
-        {
-            "alternateName": [
-                "DSMZ 1296",
-                "BCRC 10642",
-                "CCRC 10642",
-                "LMG 15861",
-                "Clostridium sp. HMSC19D05",
-                "LMG:15861",
-                "NCIMB 10666",
-                "DSM 1296",
-                "CIP 104282",
-                "ATCC 9689",
-                "Clostridioides difficile (Hall and O'Toole 1935) Lawson et al. 2016",
-                "JCM 1296",
-                "CCRC:10642",
-                "\"Peptoclostridium difficile\" Yutin and Galperin 2013",
-                "culture-collection:AS:1.2184",
-                "NCTC 11209",
-                "CCUG 4938",
-                "Clostridium difficile (Hall and O'Toole 1935) Prevot 1938 (Approved Lists 1980)",
-                "AS 1.2184"
-            ],
-            "classification": "infectiousAgent",
-            "displayName": "Clostridioides difficile",
-            "fromEXTRACT": true,
-            "identifier": "1496",
-            "inDefinedTermSet": "UniProt",
-            "isCurated": false,
-            "name": "Clostridioides difficile",
-            "originalName": "Clostridioides difficile",
-            "url": "https://www.uniprot.org/taxonomy/1496"
-        },
-        {
-            "classification": "infectiousAgent",
-            "displayName": "Murine norovirus",
-            "fromEXTRACT": true,
-            "identifier": "357231",
-            "inDefinedTermSet": "UniProt",
-            "isCurated": false,
-            "name": "Murine norovirus",
-            "originalName": "murine",
-            "url": "https://www.uniprot.org/taxonomy/357231"
+            "name": "metagenome",
+            "url": "https://www.uniprot.org/taxonomy/256318"
         }
     ],
-    "mainEntityOfPage": "https://www.ebi.ac.uk/ena/browser/view/ERP133015",
-    "name": "Dietary fat and fiber impacts intestinal microbiome resilience to antibiotics and Clostridoides difficile infection in mice",
-    "species": [
-        {
-            "alternateName": [
-                "mouse",
-                "Mouse",
-                "LK3 transgenic mice",
-                "house mouse",
-                "nude mice",
-                "Mus sp. 129SV",
-                "Mus musculus Linnaeus, 1758",
-                "transgenic mice",
-                "mice C57BL/6xCBA/CaJ hybrid"
-            ],
-            "classification": "host",
-            "commonName": "Mouse",
-            "displayName": "Mouse | Mus musculus",
-            "fromEXTRACT": true,
-            "identifier": "10090",
-            "inDefinedTermSet": "UniProt",
-            "isCurated": false,
-            "name": "Mus musculus",
-            "originalName": "mouse",
-            "url": "https://www.uniprot.org/taxonomy/10090"
-        },
-        {
-            "alternateName": [
-                "mice"
-            ],
-            "classification": "host",
-            "displayName": "Mus sp.",
-            "fromEXTRACT": true,
-            "identifier": "10095",
-            "inDefinedTermSet": "UniProt",
-            "isCurated": false,
-            "name": "Mus sp.",
-            "originalName": "mice",
-            "url": "https://www.uniprot.org/taxonomy/10095"
-        }
-    ],
+    "mainEntityOfPage": "https://www.ebi.ac.uk/ena/browser/view/ERP022672",
+    "name": "Diet Shapes the Gut Microbiome of Pigs During Nursing and Weaning.",
     "topicCategory": [
         {
             "@type": "DefinedTerm",
@@ -148,10 +187,10 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_3301",
+            "identifier": "topic_3390",
             "inDefinedTermSet": "EDAM",
-            "name": "Microbiology",
-            "url": "http://edamontology.org/topic_3301"
+            "name": "Nutritional science",
+            "url": "http://edamontology.org/topic_3390"
         },
         {
             "@type": "DefinedTerm",
@@ -160,10 +199,10 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_0804",
+            "identifier": "topic_3679",
             "inDefinedTermSet": "EDAM",
-            "name": "Immunology",
-            "url": "http://edamontology.org/topic_0804"
+            "name": "Animal study",
+            "url": "http://edamontology.org/topic_3679"
         },
         {
             "@type": "DefinedTerm",
@@ -172,11 +211,11 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_3409",
+            "identifier": "topic_3174",
             "inDefinedTermSet": "EDAM",
-            "name": "Gastroenterology",
-            "url": "http://edamontology.org/topic_3409"
+            "name": "Metagenomics",
+            "url": "http://edamontology.org/topic_3174"
         }
     ],
-    "url": "https://qiita.ucsd.edu/study/description/12849"
+    "url": "https://qiita.ucsd.edu/study/description/10093"
 }

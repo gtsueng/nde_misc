@@ -1,55 +1,91 @@
 {
     "@type": "Dataset",
-    "_id": "figshare_12254837",
-    "_ignored": [
-        "all.keyword"
-    ],
-    "_score": 3.4469247,
+    "_id": "figshare_30211951",
+    "_score": 8.57893,
     "author": [
         {
-            "name": "Ding, Wei"
+            "@type": "Person",
+            "name": "Sharma, Kamana"
         },
         {
-            "name": "Chai, Jinkui"
+            "@type": "Person",
+            "name": "Bhusal, Manisha"
         },
         {
-            "name": "Wang, Chen"
+            "@type": "Person",
+            "name": "Magar, Akash Budha"
         },
         {
-            "name": "Wu, Junliang"
+            "@type": "Person",
+            "name": "Pathak, Ishwor"
         },
         {
-            "name": "Yoshikai, Naohiko"
+            "@type": "Person",
+            "name": "Shrestha, Lok Kumar"
+        },
+        {
+            "@type": "Person",
+            "name": "Sharma, Khaga Raj"
         }
     ],
-    "date": "2020-05-04",
-    "dateModified": "2020-05-04",
-    "datePublished": "2020-05-04",
-    "description": "A method\nfor the regio- and stereoselective synthesis of highly\nsubstituted vinyl ethers via trans-1,2-difunctionalization\nof alkynes with a cyclic \u03bb3-iodane electrophile (benziodoxole\ntriflate) and alcohols is reported. The reaction tolerates a variety\nof internal and terminal alkynes as well as various alcohols, affording\n\u03b2-\u03bb3-iodanyl vinyl ethers in good yields with\nhigh regio- and stereoselectivities. The benziodoxole moiety of the\nproducts can be used as a versatile linchpin for the synthesis of\nstructurally diverse vinyl ethers that are difficult to access by\nother means.",
-    "doi": "10.1021/jacs.0c04140.s002",
-    "identifier": "12254837",
+    "date": "2025-09-25",
+    "dateModified": "2025-09-25",
+    "datePublished": "2025-09-25",
+    "description": "ZOI of the tested bacteria against C. asiatica extracts and synthesized AgNPs.\n",
+    "doi": "10.1371/journal.pone.0321172.t007",
+    "identifier": "30211951",
     "includedInDataCatalog": {
         "@type": "DataCatalog",
-        "archivedAt": "https://figshare.com/articles/dataset/Stereoselective_Access_to_Highly_Substituted_Vinyl_Ethers_via_i_trans_i_-Difunctionalization_of_Alkynes_with_Alcohols_and_Iodine_III_Electrophile/12254837",
+        "archivedAt": "https://figshare.com/articles/dataset/ZOI_of_the_tested_bacteria_against_i_C_asiatica_i_extracts_and_synthesized_AgNPs_/30211951",
         "name": "Figshare",
         "url": "https://figshare.com",
-        "versionDate": "2025-08-10"
+        "versionDate": "2025-10-01"
     },
     "keywords": [
-        "Sociology",
-        "cyclic \u03bb 3",
-        "vinyl ethers",
-        "iodanyl vinyl ethers",
-        "regio",
-        "Substituted Vinyl Ethers",
-        "benziodoxole",
-        "tran",
-        "alkyne"
+        "uniform size distribution",
+        "surface plasmon resonance",
+        "organic functional groups",
+        "mean particle sizes",
+        "high medicinal value",
+        "centered cubic crystallinity",
+        "73 \u00b1 0",
+        "ray diffraction analysis",
+        "nanoparticles showed face",
+        "33 mg gae",
+        "12 mg qe",
+        "plant extracts indicates",
+        "76 \u00b1 1",
+        "silver nanoparticles using",
+        "leaf aqueous extracts",
+        "silver nanoparticles",
+        "plant extracts",
+        "synthesized using",
+        "synthesized nanoparticles",
+        "visible spectra",
+        "stem extracts",
+        "spherical shape",
+        "research evaluated",
+        "powder x",
+        "possible involvement",
+        "phytochemical analysis",
+        "negative bacteria",
+        "nanoparticle synthesis",
+        "higher phenolic",
+        "green synthesis",
+        "flavonoid content",
+        "biological activities",
+        "antioxidant activity",
+        "antibacterial properties",
+        "antibacterial activity",
+        "also contained",
+        "408 nm",
+        "20 nm"
     ],
-    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
-    "name": "Stereoselective\nAccess to Highly Substituted Vinyl\nEthers via <i>trans</i>-Difunctionalization of Alkynes with\nAlcohols and Iodine(III) Electrophile",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "name": "ZOI of the tested bacteria against <i>C. asiatica</i> extracts and synthesized AgNPs.",
     "sdPublisher": {
-        "name": "American Chemical Society/Journal of the American Chemical Society"
+        "@type": "Organization",
+        "name": "Public Library of Science/PLOS ONE"
     },
     "topicCategory": [
         {
@@ -75,9 +111,18 @@
             "curatedBy": {
                 "name": "Text2Term-assisted manual mapping"
             },
-            "identifier": "EDAM.TOPIC:3053",
+            "identifier": "EDAM.TOPIC:2229",
             "isCurated": true,
-            "name": "Genetics"
+            "name": "Cell biology"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
+            "identifier": "EDAM.TOPIC:3047",
+            "isCurated": true,
+            "name": "Molecular biology"
         },
         {
             "@type": "DefinedTerm",
@@ -93,15 +138,6 @@
             "curatedBy": {
                 "name": "Text2Term-assisted manual mapping"
             },
-            "identifier": "EDAM.TOPIC:3299",
-            "isCurated": true,
-            "name": "Evolutionary biology"
-        },
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "Text2Term-assisted manual mapping"
-            },
             "identifier": "EDAM.TOPIC:0610",
             "isCurated": true,
             "name": "Ecology"
@@ -111,28 +147,28 @@
             "curatedBy": {
                 "name": "Text2Term-assisted manual mapping"
             },
+            "identifier": "EDAM.TOPIC:0780",
+            "isCurated": true,
+            "name": "Plant biology"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
+            "identifier": "EDAM.TOPIC:3070",
+            "isCurated": true,
+            "name": "Biology"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
             "identifier": "EDAM.TOPIC:3344",
             "isCurated": true,
-            "name": "Psychiatry"
-        },
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "Text2Term-assisted manual mapping"
-            },
-            "identifier": "EDAM.TOPIC:3324",
-            "isCurated": true,
-            "name": "Infectious disease"
-        },
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "Text2Term-assisted manual mapping"
-            },
-            "identifier": "EDAM.TOPIC:3895",
-            "isCurated": true,
-            "name": "ignore"
+            "name": "Chemistry"
         }
     ],
-    "url": "https://figshare.com/articles/dataset/Stereoselective_Access_to_Highly_Substituted_Vinyl_Ethers_via_i_trans_i_-Difunctionalization_of_Alkynes_with_Alcohols_and_Iodine_III_Electrophile/12254837"
+    "url": "https://figshare.com/articles/dataset/ZOI_of_the_tested_bacteria_against_i_C_asiatica_i_extracts_and_synthesized_AgNPs_/30211951"
 }

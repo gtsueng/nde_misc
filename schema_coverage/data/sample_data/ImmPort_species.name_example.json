@@ -1,28 +1,19 @@
 {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "_id": "sdy3016",
+    "_id": "sdy1887",
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 10.858765,
-    "abstract": "Whole transcriptome analysis using RNA seq of whole blood were perfomed and serological status assessed via HAI. Using forest computational model, investigators analyzed gene expression and vaccine response prediction.",
+    "_score": 10.5871105,
+    "abstract": "This trial will evaluate the safety, tolerability, and immunogenicity of PfSPZ Vaccine in healthy Equatoguinean adults, adolescents, children and infants who receive doses of 0.9x10^6, 1.8x10^6 or 2.7x10^6 PfSPZ Vaccine via direct venous inoculation (DVI) compared with control groups receiving normal saline (NS) placebo by DVI. In addition, the study will also assess a second PfSPZ-based vaccination approach known as PfSPZ-CVac- the administration of non-irradiated, infectious PfSPZ (PfSPZ Challenge) (1x10^5 PfSPZ) under anti-malarial chemoprophylaxis (chloroquine) in younger adults ages 18 to 35 years for safety, tolerability, immunogenicity and efficacy against controlled human malaria infection (CHMI).",
     "author": [
         {
             "@type": "Person",
             "affiliation": {
-                "name": "Icahn School of Medicine at Mount Sinai"
+                "name": "Ifakara Health Institute"
             },
-            "name": "Christian Forst"
-        }
-    ],
-    "citedBy": [
-        {
-            "@type": "ScholarlyArticle",
-            "doi": "10.3390/v14112446",
-            "name": "Vaccination History, Body Mass Index, Age, and Baseline Gene Expression Predict Influenza Vaccination Outcomes.",
-            "pmid": "36366544",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/36366544"
+            "name": "Ali Mtoro"
         }
     ],
     "conditionsOfAccess": "Closed",
@@ -30,23 +21,25 @@
         "@type": "Organization",
         "name": "ImmPort Data Curation Team"
     },
-    "date": "2025-04-24",
-    "dateModified": "2025-04-24T00:00:00",
-    "description": "A number of factors influence vaccination effectiveness, including age, sex, and comorbidities. A transcriptome analysis was performed via RNA sequencing. The genes with immunological functions are increased in expression in individuals with high pre-existing immunity. Based on the transcriptome analysis, the set of genes can be used to predict a vaccine response.",
+    "date": "2022-06-22",
+    "dateModified": "2022-06-22T00:00:00",
+    "description": "EGSPZV2 is a single center, double-blind, placebo-controlled trial. The study is to take place at the Baney Temporary Research Facility (BTRF) located in Baney City. One hundred and thirty-five healthy male and female; adults, adolescents, children and infant volunteers, aged from 6 months to 65 years who live in the Baney district and Malabo city on Bioko Island will be enrolled based on pre-defined inclusion and exclusion criteria implemented according to international ethical standards. The trial will consist of seven groups (Group 1a: younger adults, ages 18-35; Group 2: older adults, ages 36-65; Group 3: adolescents, ages 11-17; Group 4: older children, ages 6-10; Group 5: younger children, ages 1-5; Groups 6a/b: infants, ages 6 months - 11 months) of volunteers. Vaccination will begin in Group 1a (younger adults), with three doses of 2.7x10^6 PfSPZ Vaccine given eight weeks apart by DVI. An eighth group (Group 1b: younger adults, ages 18- 35), will be uniquely immunized with the comparator vaccine PfSPZ Challenge given under chloroquine prophylaxis (PfSPZ-CVac approach), rather than with PfSPZ Vaccine. A single PfSPZ-CVac younger adult group (group 1b) is included to provide a direct comparison with PfSPZ Vaccine (group 1a) for the ability to protect against CHMI. Each of the first two groups (1a and 1b) will have 20 participants receiving either PfSPZ Vaccine or PfSPZ Challenge and 6 participants receiving NS placebo by DVI, with treatment allocation randomized and double-blind. Volunteers in Group 1b will receive vaccinations 8 weeks after the initial vaccination of Group 1a. Volunteers in Group 1 (younger adults) will receive CHMI between 10 and 14 weeks post last vaccination (with a window of +/- 7 days on each side) and will be followed for 8 weeks following CHMI. Group 2 (older adults) will receive three doses of 2.7x10^6 PfSPZ Vaccine. Group 2 will consist of 12 participants receiving PfSPZ Vaccine and 4 participants receiving NS placebo by DVI, given eight weeks apart. Group 3, 4, 5 and 6b will each have 12 participants receiving three doses of 1.8x10^6 PfSPZ Vaccine and 4 participants receiving NS, also given eight weeks apart. Group 6a will consist of 3 volunteers who will receive a single dose of 9.0 x10^5 PfSPZ Vaccine. Sequential age groups will be staggered to allow assessment of safety and tolerability before further age de-escalation. To assure safety, vaccinations will start in younger adults and will progress to younger and older age groups using staggered start dates at approximately weekly intervals. Age escalation and initial age de-escalation will take place at the same time, hence Group 2 and 3 will be vaccinated at the same time. Progressively younger age groups will then be immunized after a review of safety data from the previously vaccinated group(s). There were no significant differences in solicited adverse events (AEs) between vaccinees and NS controls in any age group (p>0.17 for all comparisons). Two important SAEs were observed that were considered possibly related to vaccine - a generalized seizure and a spontaneous abortion. Comprehensive evaluation of both events indicated PfSPZ Vaccine was not a unique cause of either event. Seroconversion after PfSPZ Vaccine occurred in 68/69 (98.6%) of participants. Median PfCSP antibody levels were highest in participants ages 6 months to 10 years, declining with successively increasing age group. In the 18 to 35-year-old age groups (1a and 1b) There were no differences in solicited adverse events (AEs) between vaccinees and NS controls, or between PfSPZ Vaccine and PfSPZ-CVac recipients during the 6 days after administration of investigational product. However, from days 7-13 PfSPZ-CVac recipients had significantly more AEs, probably due to Pf parasitemia. Antibody responses were 2.9 times higher in PfSPZ Vaccine recipients as compared to PfSPZ-CVac recipients at time of CHMI. VE at a median of 14 weeks after last PfSPZ-CVac dose was 55% (8 of 13, p=0.051) and at a median of 15 weeks after last PfSPZ Vaccine dose was 27% (5 of 15, p=0.32).",
     "distribution": [
         {
             "@type": "DataDownload",
-            "contentUrl": "https://browser.immport.org/browser?path=SDY3016",
-            "dateModified": "2025-04-24T00:00:00",
+            "contentUrl": "https://browser.immport.org/browser?path=SDY1887",
+            "dateModified": "2022-06-22T00:00:00",
             "encodingFormat": "URL"
         }
     ],
-    "doi": "10.21430/M3KA9EZEP8",
+    "doi": "10.21430/M3XLUFOMXU",
     "funding": [
         {
-            "endDate": "2020-09-09",
+            "@type": "MonetaryGrant",
+            "endDate": "2023-12-31",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -57,12 +50,22 @@
                     "parentOrganization": "National Institutes of Health"
                 }
             ],
-            "identifier": "75N93019C00052-0-9999-1",
-            "name": "CIVIC: University of Georgia Center for Influenza Vaccine Research in High Risk Populations",
-            "startDate": "2019-09-10",
-            "url": "https://reporter.nih.gov/project-details/10021763"
+            "identifier": "1R01AI141900-01",
+            "name": "Genome-wide sieve analysis and immunological validation to identify targets of protective efficacy in field trials of a whole-organism malaria vaccine",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "141900",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2019-01-15",
+            "url": "https://reporter.nih.gov/project-details/9635514"
         },
         {
+            "@type": "MonetaryGrant",
             "funder": {
                 "@type": "Organization",
                 "alternateName": [
@@ -78,72 +81,58 @@
     ],
     "healthCondition": [
         {
-            "alternateName": [
-                "influenza with non-respiratory manifestation",
-                "orthomyxoviridae caused disease or disorder",
-                "Influenza with other manifestations",
-                "orthomyxoviridae disease or disorder",
-                "flu",
-                "influenza infection",
-                "orthomyxoviridae infectious disease"
-            ],
-            "identifier": "0005812",
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0005136",
             "inDefinedTermSet": "MONDO",
             "isCurated": true,
-            "name": "influenza",
-            "originalName": "influenza",
-            "url": "http://purl.obolibrary.org/obo/MONDO_0005812"
+            "name": "malaria",
+            "originalName": "Malaria",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005136"
         }
     ],
     "identifier": [
-        "10.21430/M3KA9EZEP8"
+        "10.21430/M3XLUFOMXU"
     ],
     "includedInDataCatalog": {
         "@type": "DataCatalog",
-        "archivedAt": "https://immport.org/shared/study/SDY3016",
+        "archivedAt": "https://immport.org/shared/study/SDY1887",
         "name": "ImmPort",
         "url": "https://immport.org",
-        "versionDate": "2025-04-24T00:00:00"
+        "versionDate": "2022-06-22T00:00:00"
     },
     "isAccessibleForFree": true,
     "isBasedOn": [
         {
+            "@type": "ScholarlyArticle",
             "additionalType": {
-                "name": "Bio Sample Preparation"
+                "name": "Clinical Study Protocol"
             },
-            "description": "Protocol for preparing RNA extracted from whole blood for sequencing",
-            "identifier": "PTL12639",
-            "name": "NEBNext_Ultra_II_Protocol_E7775.pdf",
-            "url": "https://www.immport.org/browser/?path=SDY3016"
+            "identifier": "PTL10609",
+            "name": "EGSPZV2 Protocol v7.0 (English)_17OCT2017.pdf",
+            "url": "https://www.immport.org/browser/?path=SDY1887"
         }
     ],
     "keywords": [
-        "CIVICs Collaborative Influenza Vaccine Innovation Centers",
-        "Differential expression will be determined using edgeR, with differentially expressed genes defined as those with adjusted p value less than 0.05. Vaccine response will be defined as the magnitude of change in HAI between day 0 and day 28. Out-of-bag error rate and area-under-the-curve analyses are used to identify prediction success of the random forest model."
+        "DMID Sanaria Grant Program",
+        "Primary Endpoints 1. Occurrence of solicited symptoms during a 7 to 12 day surveillance period after vaccination (day of vaccination (Vx) and +7 or +12 days post vaccination, depending on the group) 2. Occurrence of unsolicited symptoms during a 28-day surveillance period after each vaccination. 3. Occurrence of serious adverse events during the study period. 4. Occurrence of P. falciparum infection of vaccine type detected at any point after the first vaccination (retrospectively determined). Secondary Endpoints 1. Antibodies to P. falciparum sporozoite, liver, and blood stage antigens or parasites by ELISA, immunofluorescence (IFA), inhibition of sporozoite invasion (ISI) assay, proteome array, and/or other assays to be defined. 2. Cellular immune responses to the whole PfSPZ and synthetic peptides from selected P. falciparum antigens by ELISpot assay and/or Intracellular Cytokine Staining (ICS) and/or other assays to be defined. Exploratory Endpoints 1. Time to P. falciparum parasitemia by microscopy over a period of 28 days following CHMI using PfSPZ Challenge by DVI in young adults (aged 18 to 35 years). 2. Proportion of volunteers who develop P. falciparum parasitemia by microscopy over a period of 28 days following CHMI using PfSPZ Challenge by DVI in young adults (aged 18 to 35 years). 3. Time to P. falciparum parasitemia by qPCR over a period of 28 days following CHMI using PfSPZ Challenge by DVI in young adults (aged 18 to 35 years). 4. Proportion of volunteers who develop P. falciparum parasitemia by qPCR over a period of 28 days following CHMI using PfSPZ Challenge by DVI in young adults (aged 18 to 35 years). 5. The diversity of gut microbiome at screening and at the end of the study. 6. The number of naturally transmitted incident malaria infections in immunized volunteers and controls in Groups 2-6 during 8-24 weeks of monthly surveillance following the third immunization."
     ],
     "license": "https://www.immport.org/agreement",
-    "name": "Vaccination History, BMI, Age and Gene Expression Predict Influenza Vaccination Outcomes",
-    "sameAs": "https://doi.org/10.21430/M3KA9EZEP8",
-    "sourceOrganization": [
+    "measurementTechnique": [
         {
-            "@type": "ResearchProject",
-            "abstract": "Collaborative Influenza Vaccine Innovation Centers (CIVICs) is a network of research centers working collaboratively to develop next-generation influenza vaccines. Their goal is to create vaccines that provide broader, longer-lasting protection against influenza viruses.",
-            "alternateName": [
-                "CIVIC",
-                "Collaborative Influenza Vaccine Innovation Centers",
-                "CIVICs"
-            ],
-            "correctionApproved": true,
-            "description": "Collaborative Influenza Vaccine Innovation Centers (CIVICs) is a network of research centers that will work together in a coordinated, multidisciplinary effort to develop more durable, broadly protective and longer-lasting influenza vaccines. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/civics",
-            "name": "NIAID CIVICs Network",
-            "parentOrganization": [
-                "NIAID"
-            ],
-            "url": "https://www.niaidcivics.org/"
+            "@type": "DefinedTerm",
+            "name": "ELISA"
         }
     ],
+    "name": "Safety, tolerability and immunogenicity in age de-escalation of PfSPZ Vaccine in Equatorial Guinea (EGSPZV2)",
+    "sameAs": "https://doi.org/10.21430/M3XLUFOMXU",
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Human",
                 "Homo sapiens Linnaeus, 1758",
@@ -178,5 +167,43 @@
             "url": "https://www.uniprot.org/taxonomy/9606"
         }
     ],
-    "url": "https://immport.org/shared/study/SDY3016"
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3966",
+            "inDefinedTermSet": "EDAM",
+            "name": "Vaccinology",
+            "url": "http://edamontology.org/topic_3966"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        }
+    ],
+    "url": "https://immport.org/shared/study/SDY1887"
 }

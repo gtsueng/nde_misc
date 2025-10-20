@@ -1,0 +1,358 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "tycho_ao.840539006",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 11.448133,
+    "author": [
+        {
+            "@type": "Organization",
+            "name": "MIDAS Coordination Center",
+            "url": "https://midasnetwork.us/"
+        },
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "url": "https://www.dbmi.pitt.edu"
+                }
+            ],
+            "familyName": "Hochheiser",
+            "givenName": "Harry",
+            "name": "Harry Hochheiser"
+        },
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "url": "https://www.publichealth.pitt.edu/"
+                }
+            ],
+            "familyName": "Van Panhuis",
+            "givenName": "Willem",
+            "name": "Willem G Van Panhuis"
+        },
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "url": "https://www.sci.pitt.edu"
+                }
+            ],
+            "familyName": "Childers",
+            "givenName": "Bruce",
+            "name": "Bruce R Childers"
+        },
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "url": "https://www.publichealth.pitt.edu/"
+                }
+            ],
+            "familyName": "Roberts",
+            "givenName": "Mark",
+            "name": "Mark S Roberts"
+        },
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "url": "https://crc.pitt.edu"
+                }
+            ],
+            "familyName": "Wong",
+            "givenName": "Kim",
+            "name": "Kim F Wong"
+        },
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "url": "https://www.dbmi.pitt.edu"
+                }
+            ],
+            "familyName": "Espino",
+            "givenName": "J",
+            "name": "J Espino"
+        },
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "url": "https://hobi.med.ufl.edu"
+                }
+            ],
+            "familyName": "Hogan",
+            "givenName": "William",
+            "name": "William R Hogan"
+        },
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "url": "https://www.fredhutch.org/en/research/divisions/vaccine-infectious-disease-division.html"
+                }
+            ],
+            "familyName": "Halloran",
+            "givenName": "M",
+            "name": "M Elizabeth Halloran"
+        },
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "url": "https://www.umass.edu/sphhs/"
+                }
+            ],
+            "familyName": "Reich",
+            "givenName": "Nicholas",
+            "name": "Nicholas G Reich"
+        },
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "url": "https://integrativebio.utexas.edu"
+                }
+            ],
+            "familyName": "Meyers",
+            "givenName": "Lauren",
+            "name": "Lauren Ancel Meyers"
+        }
+    ],
+    "conditionsOfAccess": "Closed",
+    "creditText": "Counts of COVID-19 reported in ANGOLA: 2020-2021(version 2.0, April 1, 2018): Project Tycho data release, DOI: 10.25337/T7/ptycho.v2.0/AO.840539006",
+    "date": "2022-08-12",
+    "dateCreated": "2013-11-28",
+    "datePublished": "2022-08-12",
+    "description": "Project Tycho datasets contain case counts for reported disease conditions for countries around the world. The Project Tycho data curation team extracts these case counts from various reputable sources, typically from national or international health authorities, such as the US Centers for Disease Control or the World Health Organization. These original data sources include both open- and restricted-access sources. For restricted-access sources, the Project Tycho team has obtained permission for redistribution from data contributors. All datasets contain case count data that are identical to counts published in the original source and no counts have been modified in any way by the Project Tycho team, except for aggregation of individual case count data into daily counts when that was the best data available for a disease and location. The Project Tycho team has pre-processed datasets by adding new variables, such as standard disease and location identifiers, that improve data interpretability. We also formatted the data into a standard data format. All geographic locations at the country and admin1 level have been represented at the same geographic level as in the data source, provided an ISO code or codes could be identified, unless the data source specifies that the location is listed at an inaccurate geographical level. For more information about decisions made by the curation team, recommended data processing steps, and the data sources used, please see the README that is included in the dataset download ZIP file.",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://www.tycho.pitt.edu/dataset/AO.840539006",
+            "encodingFormat": "CSV"
+        }
+    ],
+    "doi": "10.25337/T7/ptycho.v2.0/AO.840539006",
+    "funding": {
+        "@type": "MonetaryGrant",
+        "funder": [
+            {
+                "@type": "Organization",
+                "alternateName": [
+                    "NIGMS",
+                    "U.S. National Institute of General Medical Sciences"
+                ],
+                "identifier": "https://ror.org/04q48ey07",
+                "name": "National Institute of General Medical Sciences",
+                "parentOrganization": "National Institutes of Health"
+            }
+        ]
+    },
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2019 novel coronavirus infection",
+                "2019-nCoV infection",
+                "coronavirus disease 2019",
+                "severe acute respiratory syndrome coronavirus 2 infectious disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0100096",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "COVID-19",
+            "originalName": "COVID-19",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0100096"
+        }
+    ],
+    "identifier": "10.25337/T7/ptycho.v2.0/AO.840539006",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://www.tycho.pitt.edu/dataset/AO.840539006",
+            "name": "Project Tycho",
+            "url": "https://www.tycho.pitt.edu/",
+            "versionDate": "2025-10-11"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://zenodo.org/records/11450220",
+            "name": "Zenodo",
+            "url": "https://zenodo.org/",
+            "versionDate": "2025-04-12"
+        }
+    ],
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "dateModified": "2025-10-11",
+                "name": "Project Tycho",
+                "url": "https://www.tycho.pitt.edu/"
+            },
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Severe acute respiratory syndrome coronavirus 2",
+            "url": "https://www.uniprot.org/taxonomy/2697049"
+        }
+    ],
+    "isBasedOn": [
+        {
+            "@type": "ScholarlyArticle",
+            "url": "https://github.com/CSSEGISandData/COVID-19"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "url": "https://www.ecdc.europa.eu/en/publications-data/data-national-14-day-notification-rate-covid-19"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "url": "https://covid19.who.int/"
+        }
+    ],
+    "keywords": "preprocessed data",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "identifier": "http://purl.obolibrary.org/obo/APOLLO_SV_00000545",
+            "name": "Surveillance",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15719"
+        },
+        {
+            "@type": "DefinedTerm",
+            "identifier": "http://purl.bioontology.org/ontology/MESH/D018563",
+            "name": "Notification",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C25297"
+        }
+    ],
+    "name": "Counts of COVID-19 reported in ANGOLA: 2020-2021",
+    "sameAs": "http://doi.org/10.25337/T7/ptycho.v2.0/AO.840539006",
+    "spatialCoverage": [
+        {
+            "@type": "Country",
+            "identifier": "https://www.iso.org/obp/ui/#iso:code:3166:AO",
+            "name": "ANGOLA"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "country": "Angola",
+            "identifier": "https://www.iso.org/obp/ui/#iso:code:3166:AO",
+            "locationType": "other",
+            "name": "AO"
+        }
+    ],
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human",
+                "Homo sapines",
+                "Home sapiens",
+                "Homo sapeins",
+                "human",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sampiens",
+                "Homo spaiens",
+                "Homo sapiens (SIRT6)",
+                "Homo sapien",
+                "Homo sapients",
+                "Homo spiens",
+                "Homo sapiens (PARIS)",
+                "Humo sapiens",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapiens Linnaeus, 1758"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2025-10-11",
+                "name": "Project Tycho",
+                "url": "https://www.tycho.pitt.edu/"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "Homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "dateModified": "2025-10-11",
+                "name": "Project Tycho",
+                "url": "https://www.tycho.pitt.edu/"
+            },
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Severe acute respiratory syndrome coronavirus 2",
+            "url": "https://www.uniprot.org/taxonomy/2697049"
+        }
+    ],
+    "temporalCoverage": [
+        {
+            "@type": "TemporalInterval",
+            "duration": "575 days, 0:00:00",
+            "endDate": "2021-07-31",
+            "name": "count period",
+            "startDate": "2020-01-03",
+            "temporalType": "other"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "identifier": "topic_3305",
+            "inDefinedTermSet": "EDAM",
+            "name": "Public health and epidemiology",
+            "url": "http://edamontology.org/topic_3305"
+        },
+        {
+            "@type": "DefinedTerm",
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        }
+    ],
+    "url": "https://www.tycho.pitt.edu/dataset/AO.840539006",
+    "variableMeasured": [
+        {
+            "identifier": "http://purl.obolibrary.org/obo/IDO_0000479",
+            "name": "Infectious disease incidence"
+        },
+        {
+            "curatedBy": {
+                "name": "NIAID Data Ecosystem"
+            },
+            "isCurated": true,
+            "name": "Count of disease cases",
+            "url": "http://purl.obolibrary.org/obo/APOLLO_SV_00000497"
+        },
+        {
+            "name": "Dead",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C28554"
+        },
+        {
+            "name": "Case",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C49152"
+        },
+        {
+            "name": "Cumulative incidence",
+            "url": "http://purl.obolibrary.org/obo/EPO_0000061"
+        }
+    ]
+}

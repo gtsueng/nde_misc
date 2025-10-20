@@ -1,19 +1,19 @@
 {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "_id": "sdy3019",
+    "_id": "sdy1890",
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 10.858765,
-    "abstract": "To evaluate whether medical mistrust alters receptivity to SARS-CoV-2 antibody testing, and if this influence differs across race.",
+    "_score": 10.5871105,
+    "abstract": "To evaluate cell-to-cell transmission of SARSCoV-2 in the context of cell-free infection and in comparison, with SARS-CoV.",
     "citedBy": [
         {
             "@type": "ScholarlyArticle",
-            "doi": "None",
-            "name": "None",
-            "pmid": "manuscript",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/manuscript"
+            "doi": "10.1073/pnas.2111400119",
+            "name": "SARS-CoV-2 spreads through cell-to-cell transmission.",
+            "pmid": "34937699",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34937699"
         }
     ],
     "conditionsOfAccess": "Closed",
@@ -21,23 +21,25 @@
         "@type": "Organization",
         "name": "ImmPort Data Curation Team"
     },
-    "date": "2025-04-24",
-    "dateModified": "2025-04-24T00:00:00",
-    "description": "Recent research suggests that in addition to structural barriers (e.g., access), psychosocial factors can influence uptake of COVID-19 tools and treatments. However, less is known about racial differences in this potential link for SARS-CoV-2 antibody We evaluated whether medical mistrust alters receptivity to SARS-CoV-2 antibody testing, and whether this influence differs across race. African Americans (N = 306) and White Americans (N = 205) were recruited from a Midwest urban community for an online study about COVID-19 and SARS-CoV-2 antibody testing. Participants completed the Group-Based Medical Mistrust Scale and then viewed educational videos about the SARS-CoV-2 virus, antibodies, and antibody testing. Participants reported their receptivity to antibody testing using measures grounded in the Theory of Planned Behavior (TPB) (attitudes, normative beliefs, perceived behavioral control, and intentions). Medical mistrust was significantly higher among African Americans than White Americans, although there were no race differences in receptivity to antibody testing. Multiple regression analyses showed that higher medical mistrust was associated with lower receptivity to antibody testing across all TPB measures. A significant race x medical mistrust interaction suggested that medical mistrust was more strongly associated with less favorable antibody testing attitudes among White Americans than African Americans. Results suggest that medical mistrust may be a general psychosocial barrier to antibody testing. However, despite being higher among African Americans, mistrust may exert a stronger influence on receptivity toward antibody testing among White Americans, highlighting a need to consider medical mistrust as a barrier to health behavior responses across races.",
+    "date": "2024-07-25",
+    "dateModified": "2024-07-25T00:00:00",
+    "description": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a highly transmissible coronavirus responsible for the global COVID-19 pandemic. Herein we provide evidence that SARS-CoV-2 spreads through cell-cell contact in cultures, mediated by the spike glycoprotein. SARS-CoV-2 spike is more efficient in facilitating cell-to-cell transmission than SARS-CoV spike, which reflects, in part, their differential cell-cell fusion activity. Interestingly, treatment of cocultured cells with endosomal entry inhibitors impairs cell-to-cell transmission, implicating endosomal membrane fusion as an underlying mechanism. Compared with cell-free infection, cell-to-cell transmission of SARS-CoV-2 is refractory to inhibition by neutralizing antibody or convalescent sera of COVID-19 patients. While ACE2 enhances cell-to-cell transmission, we find that it is not absolutely required. Notably, despite differences in cell-free infectivity, the variants of concern (VOC) B.1.1.7 and B.1.351 have similar cell-to-cell transmission capability. Moreover, B.1.351 is more resistant to neutralization by vaccinee sera in cell-free infection, whereas B.1.1.7 is more resistant to inhibition by vaccine sera in cell-to-cell transmission. Overall, our study reveals critical features of SARS-CoV-2 spike-mediated cell-to-cell transmission, with important implications for a better understanding of SARS-CoV-2 spread and pathogenesis.",
     "distribution": [
         {
             "@type": "DataDownload",
-            "contentUrl": "https://browser.immport.org/browser?path=SDY3019",
-            "dateModified": "2025-04-24T00:00:00",
+            "contentUrl": "https://browser.immport.org/browser?path=SDY1890",
+            "dateModified": "2024-07-25T00:00:00",
             "encodingFormat": "URL"
         }
     ],
-    "doi": "10.21430/M3UX3FYPIQ",
+    "doi": "10.21430/M3GSKYH5JH",
     "funding": [
         {
+            "@type": "MonetaryGrant",
             "endDate": "2022-08-31",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "NCI",
                         "Instituto Nacional del C\u00e1ncer"
@@ -47,21 +49,22 @@
                     "parentOrganization": "National Institutes of Health"
                 }
             ],
-            "identifier": "1U01CA260469-01",
-            "name": "Culturally-targeted communication to promote SARS-CoV-2 antibody testing in saliva:  Enabling evaluation of inflammatory pathways in COVID-19 racial disparities",
+            "identifier": "1U54CA260582-01",
+            "name": "Center for Serological Testing to Improve Outcomes from Pandemic COVID-19 (STOP-COVID)",
             "projectNumSplit": {
-                "activityCode": "U01",
+                "activityCode": "U54",
                 "applTypeCode": "1",
                 "fullSupportYear": "01",
                 "icCode": "CA",
-                "serialNum": "260469",
+                "serialNum": "260582",
                 "suffixCode": "",
                 "supportYear": "01"
             },
-            "startDate": "2020-09-22",
-            "url": "https://reporter.nih.gov/project-details/10221254"
+            "startDate": "2020-09-18",
+            "url": "https://reporter.nih.gov/project-details/10222406"
         },
         {
+            "@type": "MonetaryGrant",
             "funder": {
                 "@type": "Organization",
                 "alternateName": [
@@ -77,6 +80,7 @@
     ],
     "healthCondition": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "2019 novel coronavirus infection",
                 "2019-nCoV infection",
@@ -97,17 +101,50 @@
         }
     ],
     "identifier": [
-        "10.21430/M3UX3FYPIQ"
+        "10.21430/M3GSKYH5JH"
     ],
     "includedInDataCatalog": {
         "@type": "DataCatalog",
-        "archivedAt": "https://immport.org/shared/study/SDY3019",
+        "archivedAt": "https://immport.org/shared/study/SDY1890",
         "name": "ImmPort",
         "url": "https://immport.org",
-        "versionDate": "2025-04-24T00:00:00"
+        "versionDate": "2024-07-25T00:00:00"
     },
     "infectiousAgent": [
         {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Coronavirus sp.",
+                "Corona-like virus"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Coronaviridae sp.",
+            "fromEXTRACT": true,
+            "identifier": "1986198",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Coronaviridae sp.",
+            "originalName": "coronavirus",
+            "url": "https://www.uniprot.org/taxonomy/1986198"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Bat SARS coronavirus Rf1",
+                "Bat SARS-CoV/Rf1/2004"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Bat SARS CoV Rf1/2004",
+            "fromEXTRACT": true,
+            "identifier": "347537",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Bat SARS CoV Rf1/2004",
+            "originalName": "Sars-CoV",
+            "url": "https://www.uniprot.org/taxonomy/347537"
+        },
+        {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "SARS-CoV",
                 "SARS virus",
@@ -127,21 +164,60 @@
     "isAccessibleForFree": true,
     "isBasedOn": [
         {
+            "@type": "ScholarlyArticle",
             "additionalType": {
                 "name": "Study Protocol"
             },
             "description": "Study Protocol",
-            "identifier": "PTL12642",
-            "name": "PMIDNCT04957082_protocol-01.txt",
-            "url": "https://www.immport.org/browser/?path=SDY3019"
+            "identifier": "PTL10612",
+            "name": "PMID34100011_protocol-01.txt",
+            "url": "https://www.immport.org/browser/?path=SDY1890"
         }
     ],
     "keywords": [
         "SeroNet",
-        "Medical mistrust | health disparities | COVID-19 | serosurveillance"
+        "SARS-CoV-2 | cell-to-cell transmission | cell-cell fusion | neutralization | variants of concern."
     ],
     "license": "https://www.immport.org/agreement",
-    "name": "Medical Mistrust and SARS-CoV-2 Antibody Testing Among African Americans and White Americans",
-    "sameAs": "https://doi.org/10.21430/M3UX3FYPIQ",
-    "url": "https://immport.org/shared/study/SDY3019"
+    "name": "SARS-CoV-2 Spreads through Cell-to-Cell Transmission",
+    "sameAs": "https://doi.org/10.21430/M3GSKYH5JH",
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3307",
+            "inDefinedTermSet": "EDAM",
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0219",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data submission, annotation, and curation",
+            "url": "http://edamontology.org/topic_0219"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0781",
+            "inDefinedTermSet": "EDAM",
+            "name": "Virology",
+            "url": "http://edamontology.org/topic_0781"
+        }
+    ],
+    "url": "https://immport.org/shared/study/SDY1890"
 }

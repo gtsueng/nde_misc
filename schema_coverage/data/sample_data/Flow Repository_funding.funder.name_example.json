@@ -1,0 +1,420 @@
+{
+    "@type": "Dataset",
+    "_id": "flow_fr-fcm-z2v9",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 10.037086,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "name": "Stanford University, Stanford, (USA)"
+                }
+            ],
+            "name": "abhinav Kaushik"
+        },
+        {
+            "@type": "Person",
+            "name": "Kari Nadeau"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Kaushik A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dunham D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "He Z"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Manohar M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Desai M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nadeau KC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Andorf S"
+                }
+            ],
+            "datePublished": "2021-11-18",
+            "fromPMID": true,
+            "identifier": "PMID:34037686",
+            "journalName": "Bioinformatics (Oxford, England)",
+            "name": "CyAnno: a semi-automated approach for cell type annotation of mass cytometry datasets.",
+            "pmid": "34037686",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34037686/"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "date": "2020-09-01",
+    "dateModified": "2020-09-01",
+    "datePublished": "2020-09-01",
+    "description": "We introduce CyAnno, a novel semi-automated approach for deconvoluting the unlabeled cytometry dataset based on a machine learning framework utilizing manually gated training data that allows the integrative modeling of gated cell types and the ungated cells. In order to validate the findings, model evaluation on large independent datasets belonging to untrained batches or stimulations, we generated 30 CyTOF samples from human PBMCs, from peanut-allergic individuals. These samples were run across 7 batches with a panel of 21 lineage markers and 18 functional markers and under two different stimulations, i.e. unstimulated and peanut stimulated. 21 cell types were manually gated (including closely related cell types).\nConclusion: \nUsing CyAnno on several CyTOF datasets, we demonstrated that including the ungated cells can lead to a significant increase in the prediction accuracy of the gated cell types. CyAnno can be used to identify even a single cell type, including rare cells, with higher efficacy than current state-of-the-art semi-automated approaches. For in-house metal conjugation, purified antibodies were purchased from BD Biosciences or Biolegend. Thus, each in-house conjugated antibody per batch of conjugation was tested and titrated using unstimulated and PMA/Ionomycin-stimulated PBMCs isolated from a buffy coat sample. Metal pre-conjugated, QA/QCed, ready-to-use antibodies were purchased from Fluidigm. The whole antibody panel was tested and validated for it's function using unstimulated and PMA/Ionomycin-stimulated PBMCs isolated from a buffy coat sample.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "http://flowrepository.org/experiments/510/download_ziped_files",
+        "dateModified": "2020-09-01",
+        "name": "FCS files"
+    },
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "description": "This work was supported by the National Institute of Allergy and Infectious Diseases (NIAID) under grants 5U19 AI104209-07, R01AI140134-01 and 5U01 AI140498-03, the Sean N Parker Center for Allergy and Asthma Research at Stanford University. Also, this work was partially supported by the National Institute of Health Grant P30-CA124435, Grant P30-DK116074, and Grant UL1-TR003142."
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2022-06-30",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01AI140134-01",
+            "name": "Effects of IgE Blockade on T Cells in Food Allergy",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "140134",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2018-07-16",
+            "url": "https://reporter.nih.gov/project-details/9588504"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2024-06-30",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH NCATS",
+                        "NCATS",
+                        "NCATS NIH",
+                        "NIH's National Center for Advancing Translational Sciences"
+                    ],
+                    "identifier": "https://ror.org/04pw6fb54",
+                    "name": "National Center for Advancing Translational Sciences",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1UL1TR003142-01",
+            "name": "Stanford Center for Clinical & Translational Education and Research (Spectrum)",
+            "projectNumSplit": {
+                "activityCode": "UL1",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "TR",
+                "serialNum": "003142",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2019-07-15",
+            "url": "https://reporter.nih.gov/project-details/9903514"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2022-06-30",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
+                        "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "NIDDK"
+                    ],
+                    "identifier": "https://ror.org/00adh9b73",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P30DK116074-01",
+            "name": "Stanford Diabetes Research Center",
+            "projectNumSplit": {
+                "activityCode": "P30",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "DK",
+                "serialNum": "116074",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2017-09-15",
+            "url": "https://reporter.nih.gov/project-details/9442588"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2010-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P30CA124435-01",
+            "name": "Stanford University Cancer Center",
+            "projectNumSplit": {
+                "activityCode": "P30",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "CA",
+                "serialNum": "124435",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2007-06-04",
+            "url": "https://reporter.nih.gov/project-details/7176517"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2023-01-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01AI140498-01",
+            "name": "T Cell Reagent Research for Monitoring T Cell in Food Allergy",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "140498",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2018-02-07",
+            "url": "https://reporter.nih.gov/project-details/9615124"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2018-01-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI104209-01",
+            "name": "Integrated Genomic and Functional Studies of Tolerance Therapy for Peanut Allerg",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "104209",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2013-02-01",
+            "url": "https://reporter.nih.gov/project-details/8462368"
+        }
+    ],
+    "identifier": "FR-FCM-Z2V9",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "http://flowrepository.org/id/FR-FCM-Z2V9",
+        "name": "Flow Repository",
+        "url": "http://flowrepository.org/",
+        "versionDate": "2025-07-05"
+    },
+    "keywords": [
+        "CyTOF",
+        "CyAnno",
+        "POISED",
+        "peanut"
+    ],
+    "license": "http://flowrepository.org/terms_of_service",
+    "measurementTechnique": {
+        "@type": "DefinedTerm",
+        "curatedBy": {
+            "dateModified": "2025-07-05",
+            "name": "Flow Repository",
+            "url": "http://flowrepository.org/"
+        },
+        "inDefinedTermSet": "MMO",
+        "isCurated": true,
+        "name": "flow cytometry method",
+        "url": "http://purl.obolibrary.org/obo/MMO_0000617"
+    },
+    "name": "POISED CyTOF for CyAnno",
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "abstract": "The Asthma and Allergic Diseases Cooperative Research Centers (AADCRCs) lead multidisciplinary research on the immunological mechanisms, diagnosis, treatment, and prevention of asthma and allergic diseases. This program is central to NIAID\u2019s efforts to advance understanding and improve therapies for these conditions.",
+            "alternateName": [
+                "AADCRC",
+                "Asthma and Allergic Diseases Cooperative Research Centers"
+            ],
+            "correctionApproved": true,
+            "description": "The Asthma and Allergic Diseases Cooperative Research Centers (AADCRCs) program is the cornerstone of NIAID efforts to promote multidisciplinary basic and clinical research on the immunological basis, pathobiology, diagnosis, treatment, and preven\u200btion of asthma and allergic diseases. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/cooperative-research-centers",
+            "name": "NIAID AADCRC Program",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.niaid.nih.gov/research/cooperative-research-centers"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "T Cell Reagent Research for the Study of Allergic Diseases (TCRR-SAD) advances the identification, characterization, and validation of novel T-cell epitopes in food allergens and aeroallergens. This research enhances understanding of allergic disease mechanisms and informs therapeutic development.",
+            "alternateName": [
+                "T Cell Reagent Research for the Study of Allergic Diseases"
+            ],
+            "correctionApproved": true,
+            "description": "T Cell Reagent Research for the Study of Allergic Diseases (TCRR-SAD) supports novel T-cell epitope identification, characterization and validation of important food allergens and aeroallergens that have not been previously studied. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/t-cell-reagent-research-study-allergic-diseases",
+            "name": "NIAID TCRR-SAD Program",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.niaid.nih.gov/research/t-cell-reagent-research-study-allergic-diseases"
+        }
+    ],
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Arachis hypogaea L., 1753",
+                "ground-nut",
+                "Peanut",
+                "Arachis hypogea",
+                "peanut",
+                "goober"
+            ],
+            "classification": "host",
+            "commonName": "Peanut",
+            "displayName": "Peanut | Arachis hypogaea",
+            "fromEXTRACT": true,
+            "identifier": "3818",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Arachis hypogaea",
+            "originalName": "peanut",
+            "url": "https://www.uniprot.org/taxonomy/3818"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapian",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapients",
+                "Homo spaiens",
+                "Homo spiens",
+                "Human",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sapiense",
+                "human"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromEXTRACT": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "originalName": "human",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "temporalCoverage": {
+        "@type": "TemporalInterval",
+        "endDate": "2019-06-25",
+        "startDate": "2017-10-24",
+        "temporalType": "study date"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3297",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biotechnology",
+            "url": "http://edamontology.org/topic_3297"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3474",
+            "inDefinedTermSet": "EDAM",
+            "name": "Machine learning",
+            "url": "http://edamontology.org/topic_3474"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        }
+    ],
+    "url": "http://flowrepository.org/id/FR-FCM-Z2V9"
+}

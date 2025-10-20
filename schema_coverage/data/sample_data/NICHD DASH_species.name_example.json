@@ -1,0 +1,895 @@
+{
+    "@type": "Dataset",
+    "_id": "nichd_dash_dataset_417435",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 8.31604,
+    "alternateName": "BPCA SNP1",
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Best Pharmaceuticals for Children Act (BPCA)"
+        },
+        {
+            "@type": "Person",
+            "name": "Schulman, Scott"
+        },
+        {
+            "@type": "Person",
+            "name": "Hammer, Gregory"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "doi": "10.57982/xvkr-ca10",
+            "name": "Schulman, Scott; Hammer, Gregory (2022). A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects (Version 1) [dataset]. NICHD Data and Specimen Hub. 10.57982/xvkr-ca10"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Drover DR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hammer GB"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Barrett JS"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cohane CA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Reece T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Zajicek A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Schulman SR"
+                }
+            ],
+            "datePublished": "2015-01-01",
+            "fromPMID": true,
+            "identifier": "PMID:26217225",
+            "journalName": "Frontiers in pharmacology",
+            "name": "Evaluation of sodium nitroprusside for controlled hypotension in children during surgery.",
+            "pmid": "26217225",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26217225/"
+        }
+    ],
+    "conditionsOfAccess": "Closed",
+    "date": "2022-07-12",
+    "datePublished": "2022-07-12",
+    "description": "Pregnancy Test\nStudy Description\nThis was a randomized, double-blind, parallel group, dose-ranging, effect-controlled, multicenter study examining the effects of sodium nitroprusside (SNP) in pediatric patients requiring relative induced hypotension during a surgical or medical procedure. The study goals were to define the onset and offset of blood pressure lowering effects of SNP, to construct a dose-response model that defines the relationship between SNP infusion rate and changes in blood pressure in pediatric patients, and to assess the safety of SNP in pediatric patients requiring controlled reduction of blood pressure. Additional goals were to establish the starting and maximum infusion rates for optimum blood pressure control and a safe dosing regimen. A total of 211 participants were enrolled, and 203 included in the intent-to-treat population. Results indicate that a reasonable starting dose for SNP in this group would be 0.3 \u00b5g/kg/min. The clinician can then increase infusion rate to achieve the desired reduction in blood pressure. This population was comprised of pediatric patients requiring relative induced hypotension during a surgical or medical procedure.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "https://dash.nichd.nih.gov/dataset/417435",
+        "encodingFormat": "csv"
+    },
+    "funding": {
+        "@type": "MonetaryGrant",
+        "funder": {
+            "@type": "Organization",
+            "name": "DER - Obstetric and Pediatric Pharmacology and Therapeutics Branch (OPPTB)"
+        }
+    },
+    "hasPart": {
+        "@type": "ScholarlyArticle",
+        "additionalType": {
+            "name": "Codebook/Variable Dictionary"
+        },
+        "name": "SNP1_Define_Redacted.pdf",
+        "url": "https://dash.nichd.nih.gov/download-api/descriptive/file?id=24930"
+    },
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "hypotension",
+                "hypotension (disease)"
+            ],
+            "fromPMID": true,
+            "identifier": "0005468",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "hypotensive disorder",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005468"
+        }
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://dash.nichd.nih.gov/dataset/417435",
+        "name": "NICHD DASH",
+        "url": "https://dash.nichd.nih.gov/",
+        "versionDate": "2025-07-06"
+    },
+    "isBasedOn": {
+        "@type": "ScholarlyArticle",
+        "additionalType": {
+            "name": "Data Analysis Plan"
+        },
+        "name": "SNP1_SAP_Redacted.pdf",
+        "url": "https://dash.nichd.nih.gov/download-api/descriptive/file?id=24933"
+    },
+    "isPartOf": [
+        {
+            "@type": "ScholarlyArticle",
+            "identifier": "NICHD_DASH_Study_417123",
+            "name": "A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "url": "https://dash.nichd.nih.gov/study/417123"
+        }
+    ],
+    "isRelatedTo": [
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417414",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_AE in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417442",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_AE in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417415",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_AV in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417443",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_AV in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417416",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_CM in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417444",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_CM in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417417",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_CP in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417445",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_CP in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417418",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_DEM in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417446",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_DEM in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417419",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_EOS in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417447",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_EOS in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417420",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_GC in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417448",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_GC in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417421",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_IE in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417449",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_IE in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417422",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_LABCHM in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417450",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_LABCHM in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417423",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_LH in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417451",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_LH in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417424",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_MH in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417452",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_MH in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417425",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_MHABN in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417453",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_MHABN in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417426",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_MHSUM in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417454",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_MHSUM in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417427",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_NV in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417455",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_NV in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417428",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_OL in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417456",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_OL in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417429",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_PEABN in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417457",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_PEABN in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417430",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_PESMRY in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417458",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_PESMRY in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417431",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_PKBLOD in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417459",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_PKBLOD in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417432",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_PKURIN in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417460",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_PKURIN in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417433",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_PM in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417461",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_PM in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417434",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_PS in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417462",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_PS in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417463",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_PT in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417436",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_RANDOM in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417464",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_RANDOM in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417437",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_SI in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417465",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_SI in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417438",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_SMDBTP in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417466",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_SMDBTP in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417439",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_SMED in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417467",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_SMED in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417440",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_VISIDT in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417468",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_VISIDT in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417441",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_VITAL in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_417123"
+            },
+            "identifier": "NICHD_DASH_Dataset_417469",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "R_VITAL in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+            "relationship": "Datasets in the same study"
+        }
+    ],
+    "keywords": [
+        "Pediatrics",
+        "Dosing",
+        "Blood Pressure",
+        "Hypotension",
+        "Child Health",
+        "Pharmacology",
+        "Infant Care and Infant Health"
+    ],
+    "mainEntityOfPage": "https://clinicaltrials.gov/ct2/show/NCT00135668",
+    "measurementTechnique": {
+        "@type": "DefinedTerm",
+        "name": "Clinical Trial - NIH defined"
+    },
+    "name": "R_PT in A Phase II Multicenter, Randomized, Double-Blind, Parallel Group, Dose-Ranging, Effect-Controlled Study to Determine the Pharmacokinetics and Pharmacodynamics of Sodium Nitroprusside (SNP) in Pediatric Subjects",
+    "nctid": "NCT00135668",
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human",
+                "Homo sapian",
+                "Homo spaiens",
+                "Homo spiens",
+                "human",
+                "Homo sapien",
+                "Homo sapients",
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapians",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sampiens",
+                "Homo sapiense",
+                "Homo sapiens Linnaeus, 1758"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromPMID": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "temporalCoverage": [
+        {
+            "@type": "TemporalInterval",
+            "endDate": "2007-12-06",
+            "startDate": "2005-08-03",
+            "temporalType": "study date"
+        },
+        {
+            "@type": "TemporalInterval",
+            "endDate": "2008-01-10",
+            "startDate": "2005-08-03",
+            "temporalType": "collection"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0202",
+            "inDefinedTermSet": "EDAM",
+            "name": "Pharmacology",
+            "url": "http://edamontology.org/topic_0202"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3421",
+            "inDefinedTermSet": "EDAM",
+            "name": "Surgery",
+            "url": "http://edamontology.org/topic_3421"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3418",
+            "inDefinedTermSet": "EDAM",
+            "name": "Paediatrics",
+            "url": "http://edamontology.org/topic_3418"
+        }
+    ],
+    "url": "https://dash.nichd.nih.gov/dataset/417435"
+}

@@ -4,10 +4,11 @@
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 12.031475,
+    "_score": 11.779118,
     "assayformat": "Cell based",
     "author": [
         {
+            "@type": "Person",
             "affiliation": {
                 "name": "HMS LINCS (Harvard Medical School)"
             },
@@ -15,6 +16,7 @@
             "url": "http://lincs.hms.harvard.edu"
         },
         {
+            "@type": "Person",
             "name": "Mohammad Fallahi-Sichani"
         }
     ],
@@ -23,13 +25,16 @@
     "datePublished": "2015-01-23",
     "description": "Dose response of a set of anti-cancer compounds, including five RAF/MEK inhibitors, in human melanoma cell lines at 24, 48, and 72 hours to determine their effects on apoptosis and viability. Cells were treated in 4 replicates using Hewlett-Packard (HP) D300 Digital Dispenser with either seven or nine doses (in 1:3.16 or 1:2.5 dilution ratios, respectively) of each compound for 24, 48 and 72 h. To score viability and apoptosis, a dye-based imaging assay was used; the cell-permeable DNA dye Hoechst 33342 was used to mark nuclei and DEVD-NucView488 caspase-3 substrate was used to mark apoptosis (stains nuclei of cells undergoing apoptosis, in which caspase 3 is active). The data from this dataset and from the related HMS dataset #20218 were used to generate the signatures presented in HMS datasets #20229-20231.",
     "distribution": {
+        "@type": "DataDownload",
         "contentSize": "83193"
     },
     "funding": {
+        "@type": "MonetaryGrant",
         "identifier": "NIH 1U54HG006097-01; NIH 1U54HL127365-01"
     },
     "healthCondition": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Naevocarcinoma",
                 "melanoma, malignant",
@@ -57,14 +62,16 @@
         "archivedAt": "https://lincsportal.ccs.miami.edu/datasets/view/LDS-1208",
         "name": "LINCS",
         "url": "https://lincsportal.ccs.miami.edu/datasets/",
-        "versionDate": "2025-08-23"
+        "versionDate": "2025-10-11"
     },
     "isBasedOn": [
         {
+            "@type": "ScholarlyArticle",
             "name": "Adaptive Drug Resistance Browser",
             "url": "http://lincs.hms.harvard.edu/explore/adaptive-drug-resistance/"
         },
         {
+            "@type": "ScholarlyArticle",
             "name": "protocol",
             "url": "LDG-1202_Protocol.pdf"
         }
@@ -76,20 +83,20 @@
         "url": "https://lincsportal.ccs.miami.edu/datasets/view/LDG-1202"
     },
     "keywords": [
-        "Fluorescence imaging",
-        "LOX-IMVI",
-        "MMAc-SF",
         "Apoptotic process",
-        "C32",
-        "Cytological profile",
-        "WM115",
-        "K2",
-        "COLO 858",
         "MZ-MEL-7",
+        "MMAc-SF",
+        "WM115",
+        "LOX-IMVI",
         "SK-MEL-28",
         "WM1552C",
+        "COLO 858",
+        "Cytological profile",
+        "C32",
+        "Imaging",
         "RVH-421",
-        "Imaging"
+        "K2",
+        "Fluorescence imaging"
     ],
     "measurementTechnique": [
         {
@@ -107,6 +114,7 @@
     "publication": "25814555",
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Humo sapiens",
                 "Home sapiens",

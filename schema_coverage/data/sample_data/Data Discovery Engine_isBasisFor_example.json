@@ -1,0 +1,1512 @@
+{
+    "@type": "ResourceCatalog",
+    "_id": "dde_ebf6bb658eb18386",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 1010.3295,
+    "about": [
+        {
+            "@type": "DefinedTerm",
+            "description": "A subclass of MolecularEntity with the same properties as Protein",
+            "displayName": "Peptide",
+            "name": "Peptide",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C735"
+        },
+        {
+            "@type": "DefinedTerm",
+            "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+            "displayName": "Dataset",
+            "name": "Dataset",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C47824"
+        },
+        {
+            "@type": "DefinedTerm",
+            "description": "A subclass of Collection",
+            "displayName": "Spectral Library",
+            "name": "SpectralLibrary",
+            "url": "http://purl.obolibrary.org/obo/MS_1003170"
+        }
+    ],
+    "abstract": "PeptideAtlas is a NIH supported generalist repository that includes proteomic data.",
+    "author": [
+        {
+            "@type": "Organization",
+            "name": "Moritz Lab",
+            "parentOrganization": "Institute for Systems Biology"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Desiere F"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Deutsch EW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "King NL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nesvizhskii AI"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mallick P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Eng J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chen S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Eddes J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Loevenich SN"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Aebersold R"
+                }
+            ],
+            "datePublished": "2006-01-01",
+            "fromPMID": true,
+            "identifier": "PMID:16381952",
+            "journalName": "Nucleic acids research",
+            "name": "The PeptideAtlas project.",
+            "pmid": "16381952",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16381952/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Deutsch EW"
+                }
+            ],
+            "datePublished": "2010-01-01",
+            "fromPMID": true,
+            "identifier": "PMID:20013378",
+            "journalName": "Methods in molecular biology (Clifton, N.J.)",
+            "name": "The PeptideAtlas Project.",
+            "pmid": "20013378",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20013378/"
+        }
+    ],
+    "collectionSize": [
+        {
+            "@type": "PropertyValue",
+            "minValue": 96,
+            "unitText": "build"
+        }
+    ],
+    "collectionType": "Database",
+    "conditionsOfAccess": "Open",
+    "date": "2025-05-14",
+    "dateCreated": "2024-05-15",
+    "dateModified": "2025-05-14",
+    "datePublished": "2010-02-01",
+    "description": "PeptideAtlas is a multi-organism, publicly accessible compendium of peptides identified in a large set of tandem mass spectrometry proteomics experiments. Mass spectrometer output files are collected for human, mouse, yeast, and several other organisms, and searched using the latest search engines and protein sequences. All results of sequence and spectral library searching are subsequently processed through the Trans Proteomic Pipeline to derive a probability of correct identification for all results in a uniform manner to insure a high quality database, along with false discovery rates at the whole atlas level. Results may be queried and browsed at the PeptideAtlas web site. The raw data, search results, and full builds can also be downloaded for other uses. ",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://peptideatlas.org/builds/",
+            "dateModified": "2019-02-01"
+        }
+    ],
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NSF",
+                "name": "National Science Foundation"
+            },
+            "identifier": "DBI-2324882"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NSF",
+                "name": "National Science Foundation"
+            },
+            "identifier": "DBI-1933311"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NSF",
+                "name": "National Science Foundation"
+            },
+            "identifier": "IOS-1922871"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2028-04-30",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIGMS",
+                        "U.S. National Institute of General Medical Sciences"
+                    ],
+                    "identifier": "https://ror.org/04q48ey07",
+                    "name": "National Institute of General Medical Sciences",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R24GM148372-01",
+            "name": "Global proteomics mass spectrometry data sharing infrastructure",
+            "projectNumSplit": {
+                "activityCode": "R24",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "GM",
+                "serialNum": "148372",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2023-05-19",
+            "url": "https://reporter.nih.gov/project-details/10556184"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2013-08-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIGMS",
+                        "U.S. National Institute of General Medical Sciences"
+                    ],
+                    "identifier": "https://ror.org/04q48ey07",
+                    "name": "National Institute of General Medical Sciences",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01GM087221-01A2",
+            "name": "Development of Trans Proteomics Pipeline, an Analysis Suite for Mass Spectrometry",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A2",
+                "icCode": "GM",
+                "serialNum": "087221",
+                "suffixCode": "A2",
+                "supportYear": "01"
+            },
+            "startDate": "2010-09-01",
+            "url": "https://reporter.nih.gov/project-details/7929427"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NHLBI",
+                "name": "National Heart, Lung, and Blood Institute",
+                "parentOrganization": "NIH"
+            },
+            "identifier": "N01-HV-28179"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "N01 HV028179"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "N01-HV-28179"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "N01-HV-28179"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "PHS HHS"
+            },
+            "identifier": "PM50 GMO76547"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "N01 HV028179"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2011-02-28",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIGMS",
+                        "U.S. National Institute of General Medical Sciences"
+                    ],
+                    "identifier": "https://ror.org/04q48ey07",
+                    "name": "National Institute of General Medical Sciences",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P50GM076547-01",
+            "name": "Center for Systems Biology",
+            "projectNumSplit": {
+                "activityCode": "P50",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "GM",
+                "serialNum": "076547",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2006-03-03",
+            "url": "https://reporter.nih.gov/project-details/7029210"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "N01 HV028179"
+        }
+    ],
+    "genre": "Generalist",
+    "hasAPI": false,
+    "hasDownload": "All content",
+    "hasPart": [
+        {
+            "@type": "DataCatalog",
+            "description": "In order to provide human proteomics MS/MS search databases that are well defined, comprehensive, and frequently updated, we have developed an automated system that integrates all of major sources of human protein sequences into a set of search databases. These databases are tiered into several levels of complexity from which researchers may choose depending on the goal of the experiment and the data processing resources available.",
+            "name": "Tiered Human Integrated Search Proteome",
+            "url": "https://peptideatlas.org/thisp/"
+        }
+    ],
+    "identifier": "http://www.peptideatlas.org/",
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "English"
+        }
+    ],
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://discovery.biothings.io/resource/ebf6bb658eb18386",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/",
+            "versionDate": "2025-10-16"
+        }
+    ],
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Caenorhabditis elegans (Maupas, 1900)",
+                "Rhabditis elegans",
+                "Rhabditis elegans Maupas, 1899"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Caenorhabditis elegans",
+            "identifier": "6239",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Caenorhabditis elegans",
+            "originalName": "Caenorhabditis elegans",
+            "url": "https://www.uniprot.org/taxonomy/6239"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Halobacterium sp. (strain NRC-1 / ATCC 700922 / JCM 11081)",
+                "Halobacterium salinarum NRC-1",
+                "Halobacterium salinarum strain NRC-1",
+                "Halobacterium halobium NRC-1",
+                "Halobacterium sp. ATCC 700922",
+                "Halobacterium sp. (strain NRC-1)",
+                "Halobacterium sp. JCM 11081",
+                "Halobacterium sp. NRC-1"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1)",
+            "identifier": "64091",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1)",
+            "originalName": "Halobacterium salinarum NRC-1",
+            "url": "https://www.uniprot.org/taxonomy/64091"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Babesia microti (Franca,1910)",
+                "Theileria microti"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Babesia microti",
+            "identifier": "5868",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Babesia microti",
+            "originalName": "Babesia microti",
+            "url": "https://www.uniprot.org/taxonomy/5868"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "ATCC 49882",
+                "CIP 103737",
+                "ATCC:49882D-5",
+                "CCUG 30454",
+                "strain G5436",
+                "Rochalimaea henselae Regnery et al. 1992",
+                "DSM 28221",
+                "strain Houston-1",
+                "Bartonella henselae (Regnery et al. 1992) Brenner et al. 1993",
+                "strain G-5436",
+                "strain Houston-I"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Bartonella henselae",
+            "identifier": "38323",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Bartonella henselae",
+            "originalName": "Bartonella henselae",
+            "url": "https://www.uniprot.org/taxonomy/38323"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Borrelia burgdorferi str. B31",
+                "Borrelia burgdorferi B31",
+                "Borreliella burgdorferi B31"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Borreliella burgdorferi (strain ATCC 35210 / DSM 4680 / CIP 102532 / B31)",
+            "identifier": "224326",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Borreliella burgdorferi (strain ATCC 35210 / DSM 4680 / CIP 102532 / B31)",
+            "originalName": "Borreliella burgdorferi B31",
+            "url": "https://www.uniprot.org/taxonomy/224326"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Yeast",
+                "Candida albicans SC5314"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "Yeast",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Yeast | Candida albicans (strain SC5314 / ATCC MYA-2876)",
+            "identifier": "237561",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Candida albicans (strain SC5314 / ATCC MYA-2876)",
+            "originalName": "Candida albicans SC5314",
+            "url": "https://www.uniprot.org/taxonomy/237561"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Escherichia sp. MAR",
+                "Bacillus coli",
+                "Bacterium coli commune",
+                "JCM 1649",
+                "E. coli",
+                "ATCC 11775",
+                "CCUG 24",
+                "IAM 12119",
+                "Escherichia sp. 3_2_53FAA",
+                "Eschericia coli",
+                "DSM 30083",
+                "Escherchia coli",
+                "LMG:2092",
+                "LMG 2092",
+                "strain U5/41",
+                "bacterium 10a",
+                "Bacterium coli",
+                "bacterium E3",
+                "\"Bacterium coli\" (Migula 1895) Lehmann and Neumann 1896",
+                "Escherichia/Shigella coli",
+                "\"Bacillus coli\" Migula 1895",
+                "Escherichia coli (Migula 1895) Castellani and Chalmers 1919 (Approved Lists 1980)",
+                "NBRC 102203",
+                "NCTC 9001",
+                "NCCB 54008",
+                "CCUG 29300",
+                "Enterococcus coli",
+                "\"Bacterium coli commune\" Escherich 1885",
+                "Achromobacter sp. ATCC 35328",
+                "CIP 54.8"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Escherichia coli",
+            "identifier": "562",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Escherichia coli",
+            "originalName": "Escherichia coli",
+            "url": "https://www.uniprot.org/taxonomy/562"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "ATCC23581",
+                "Leptospira interrogans (Stimson 1907) Wenyon 1926 (Approved Lists 1980) emend. Faine and Stallman 1982",
+                "Leptospira sp. 364",
+                "strain RGA",
+                "ATCC:23581",
+                "Leptospira sp. 528",
+                "Spirochaeta interrogans",
+                "Spirochaeta icterohaemorrhagiae",
+                "Leptospira interrogans (Stimson 1907) Wenyon 1926 (Approved Lists 1980)",
+                "ATCC-23581",
+                "\"Leptospira icteroides\" Noguchi 1919",
+                "ATCC 23581",
+                "Spirochaeta biflexa",
+                "Spirochaeta nodosa",
+                "\"Spirochaeta interrogans\" Stimson 1907",
+                "\"Spirochaeta icterogenes\" Uhlenhuth and Fromme 1916",
+                "Leptospira icteroides",
+                "\"Spirochaeta icterohaemorrhagiae\" Inada et al. 1916",
+                "\"Spirochaeta nodosa\" Hubener and Reiter 1916",
+                "Spirochaeta icterogenes",
+                "ATCC 43642"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Leptospira interrogans",
+            "identifier": "173",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Leptospira interrogans",
+            "originalName": "Leptospira interrogans",
+            "url": "https://www.uniprot.org/taxonomy/173"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Mycobacterium tuberculosis typus humanus",
+                "Bacillus tuberculosis",
+                "\"Bacillus tuberculosis\" (Zopf 1883) Klein 1884",
+                "CIP 104475",
+                "NCTC 13144",
+                "strain H37Rv",
+                "Mycobacterium tuberculosis var. hominis",
+                "NCTC 7416",
+                "\"Mycobacterium tuberculosis var. hominis\" Bergey et al. 1934",
+                "ATCC 27294",
+                "CCUG 37357",
+                "strain H37 Rv",
+                "ATCC 9360",
+                "\"Bacterium tuberculosis\" Zopf 1883",
+                "CNCTC 7301",
+                "CIP 64.31",
+                "Mycobacterium tuberculosis (Zopf 1883) Lehmann and Neumann 1896 (Approved Lists 1980)",
+                "Bacterium tuberculosis",
+                "\"Mycobacterium tuberculosis typus humanus\" Lehmann and Neumann 1907",
+                "CCUG 38148",
+                "ATCC 25618"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Mycobacterium tuberculosis",
+            "identifier": "1773",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Mycobacterium tuberculosis",
+            "originalName": "Mycobacterium tuberculosis",
+            "url": "https://www.uniprot.org/taxonomy/1773"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "malaria parasite P. falciparum",
+                "Plasmodium (Laverania) falciparum"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "malaria parasite P. falciparum",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "malaria parasite P. falciparum | Plasmodium falciparum",
+            "identifier": "5833",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Plasmodium falciparum",
+            "originalName": "Plasmodium falciparum",
+            "url": "https://www.uniprot.org/taxonomy/5833"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Plasmodium yoelii subsp. yoelii"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Plasmodium yoelii yoelii",
+            "identifier": "73239",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Plasmodium yoelii yoelii",
+            "originalName": "Plasmodium yoelii yoelii",
+            "url": "https://www.uniprot.org/taxonomy/73239"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "bacterium ASFP-46",
+                "ATCC 10145-U",
+                "Pseudomonas aeruginosa (Schroeter 1872) Migula 1900 (Approved Lists 1980)",
+                "bacterium CRM125",
+                "NCIMB 8295",
+                "bacterium ASFP-48",
+                "\"Bacillus pyocyaneus\" (Zopf 1884) Flugge 1886",
+                "Pseudomonas pyocyanea",
+                "JCM 5962",
+                "LMG:1242",
+                "culture-collection:NRRL:B:771",
+                "culture-collection:VKM:B:588",
+                "NBRC 12689",
+                "Peudomonas aeruginosa",
+                "Bacillus aeruginosus",
+                "CCEB 481",
+                "NCIB:8295",
+                "\"Pseudomonas pyocyanea\" (Zopf 1884) Migula 1895",
+                "NCCB 76039",
+                "Pseudomonas sp. CRRI 93",
+                "\"Micrococcus pyocyaneus\" Zopf 1884",
+                "LMG 1242",
+                "RH 815",
+                "CIP 100720",
+                "Pseudomonas sp. ACP_02",
+                "Pseudomonas aeruginosa (Schroeter 1872) Migula 1900 (Approved Lists 1980) emend. Rudra et al. 2022",
+                "Pseudomonas sp. NCIM 2862",
+                "ATCC 10145",
+                "CCUG 29297",
+                "Pseudomonas sp. NCIM 2036",
+                "NCIB 8295",
+                "NCTC 10332",
+                "bacterium ASFP-45",
+                "VKM B-588",
+                "Pseudomonas polycolor",
+                "NRRL B-771",
+                "CCUG 551",
+                "IFO 12689",
+                "\"Bacterium pyocyaneum\" (Zopf 1884) Lehmann and Neumann 1896",
+                "Pseudomonas sp. PSE5",
+                "DSM 50071",
+                "Bacterium pyocyaneum",
+                "ICPB 2523",
+                "Pseudomonas sp. PR_01",
+                "probable synonym or variety: \"Pseudomonas polycolor\" Clara 1930",
+                "\"Bacterium aeruginosum\" Cohn 1872",
+                "IBCS 277",
+                "Pseudomonas sp. MM",
+                "bacterium ASFP-37",
+                "Pseudomonas sp. UFT2/2016",
+                "\"Bacillus aeruginosus\" (Schroeter 1872) Trevisan 1885",
+                "bacterium ASFP-38",
+                "Pseudomonas sp. HSA1/2016",
+                "CCUG 28447",
+                "Pseudomonas sp. RV3",
+                "Pseudomonas sp. 2_1_26",
+                "Bacillus pyocyaneus",
+                "CFBP 2466",
+                "Micrococcus pyocyaneus",
+                "Bacterium aeruginosum"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Pseudomonas aeruginosa",
+            "identifier": "287",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Pseudomonas aeruginosa",
+            "originalName": "Pseudomonas aeruginosa",
+            "url": "https://www.uniprot.org/taxonomy/287"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2019-nCoV",
+                "Human coronavirus 2019",
+                "Wuhan coronavirus",
+                "Wuhan seafood market pneumonia virus",
+                "SARS-2",
+                "HCoV-19",
+                "COVID19",
+                "COVID-19 virus",
+                "SARS-CoV2",
+                "COVID-19"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "2019-nCoV",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "2019-nCoV | Severe acute respiratory syndrome coronavirus 2",
+            "identifier": "2697049",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Severe acute respiratory syndrome coronavirus 2",
+            "originalName": "SARS-CoV-2",
+            "url": "https://www.uniprot.org/taxonomy/2697049"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Staphylococcus aureus COL",
+                "Staphylococcus aureus subsp. aureus COL"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Staphylococcus aureus (strain COL)",
+            "identifier": "93062",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Staphylococcus aureus (strain COL)",
+            "originalName": "Staphylococcus aureus subsp. aureus COL",
+            "url": "https://www.uniprot.org/taxonomy/93062"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Staphylococcus aureus NCTC 8325",
+                "Staphylococcus aureus subsp. aureus NCTC 8325",
+                "Staphylococcus aureus subsp. aureus str. NCTC 8325",
+                "Staphylococcus aureus subsp. aureus strain NCTC 8325"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Staphylococcus aureus (strain NCTC 8325 / PS 47)",
+            "identifier": "93061",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Staphylococcus aureus (strain NCTC 8325 / PS 47)",
+            "originalName": "Staphylococcus aureus subsp. aureus NCTC 8325",
+            "url": "https://www.uniprot.org/taxonomy/93061"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Streptococcus pneumoniae D39",
+                "Streptococcus pneumoniae str. D39",
+                "Streptococcus pneumoniae strain D39"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Streptococcus pneumoniae serotype 2 (strain D39 / NCTC 7466)",
+            "identifier": "373153",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Streptococcus pneumoniae serotype 2 (strain D39 / NCTC 7466)",
+            "originalName": "Streptococcus pneumoniae D39",
+            "url": "https://www.uniprot.org/taxonomy/373153"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Streptococcus pneumoniae ATCC BAA-334",
+                "Streptococcus pneumoniae TIGR4"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)",
+            "identifier": "170187",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)",
+            "originalName": "Streptococcus pneumoniae TIGR4",
+            "url": "https://www.uniprot.org/taxonomy/170187"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Micrococcus scarlatinae",
+                "CCUG 4207",
+                "CCUG 12701",
+                "NCTC 8198",
+                "LMG 14700",
+                "Streptococcus scarlatinae",
+                "\"Micrococcus scarlatinae\" Klein 1884",
+                "LMG:14700",
+                "DSM 20565",
+                "\"Streptococcus hemolyticus\" Rolly 1911",
+                "Streptococcus erysipelatos",
+                "\"Streptococcus erysipelatos\" (sic) Rosenbach 1884",
+                "ATCC 12344",
+                "NCAIM B.01705",
+                "Streptococcus pyrogenes",
+                "\"Streptococcus scarlatinae\" Klein 1887",
+                "Streptococcus pyogenes Rosenbach 1884 (Approved Lists 1980)",
+                "Streptococcus hemolyticus",
+                "JCM 5674",
+                "CIP 56.41"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Streptococcus pyogenes",
+            "identifier": "1314",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Streptococcus pyogenes",
+            "originalName": "Streptococcus pyogenes",
+            "url": "https://www.uniprot.org/taxonomy/1314"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Baker's yeast",
+                "ATCC 18824",
+                "Saccharomyces italicus",
+                "Candida robusta",
+                "Saccharomyces oviformis",
+                "Sacchromyces cerevisiae",
+                "specimen-voucher:NRRL:Y:12632",
+                "Mycoderma cerevisiae Desm., 1827",
+                "Saccharomyces diastaticus J. Andrews & R.B. Gilliland ex Van der Walt, 1965",
+                "Saccharomyces cereviseae",
+                "Saccaromyces cerevisiae",
+                "Saccharomyes cerevisiae",
+                "Saccharomyces cerevisiae (Desm.) Meyen ex E.C. Hansen, 1883",
+                "Saccharomyces diastaticus",
+                "CBS 1171",
+                "Saccharomyces capensis",
+                "brewer's yeast",
+                "Saccharomyces uvarum var. melibiosus",
+                "Saccharomyce cerevisiae",
+                "Saccharomyces cerevisiae 'var. diastaticus'",
+                "Mycoderma cerevisiae",
+                "Saccharomyces sp. Af145-1-1",
+                "baker's yeast",
+                "NRRL Y-12632"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "Baker's yeast",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Baker's yeast | Saccharomyces cerevisiae",
+            "identifier": "4932",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Saccharomyces cerevisiae",
+            "originalName": "Saccharomyces cerevisiae",
+            "url": "https://www.uniprot.org/taxonomy/4932"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Schizosaccharomyces malidevorans",
+                "Fission yeast",
+                "CBS 356",
+                "specimen-voucher:NRRL:Y:12796",
+                "Schizosaccharomyces pombe Lindner, 1893",
+                "JCM 8274",
+                "MUCL 30245",
+                "CCRC:21461",
+                "NRRL Y-12796",
+                "fission yeast",
+                "Schizosaccharomyces pombeP",
+                "CCRC 21461",
+                "DBVPG 6277"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "Fission yeast",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Fission yeast | Schizosaccharomyces pombe",
+            "identifier": "4896",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Schizosaccharomyces pombe",
+            "originalName": "Schizosaccharomyces pombe",
+            "url": "https://www.uniprot.org/taxonomy/4896"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "isBasisFor": [
+        {
+            "@type": "ComputationalTool",
+            "description": "A tool for mapping a peptide sequence or list of sequences to PeptideAtlas",
+            "name": "ProteoMapper Online",
+            "url": "https://peptideatlas.org/map/"
+        }
+    ],
+    "keywords": [
+        "Data integration and warehousing",
+        "Mapping",
+        "Peptide identification"
+    ],
+    "license": "https://peptideatlas.org/repository/",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "MASS SPECTROMETRY",
+                "MS",
+                "MS 1",
+                "MS1",
+                "Mass Spec",
+                "Mass Spectrometry",
+                "Mass Spectrum",
+                "MassSpec",
+                "Photometry/Spectrum Analysis, Mass"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Mass Spectrometry",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C17156"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "LC/MS",
+                "Liquid Chromatography Mass Spectrometry",
+                "Liquid Chromatography-Mass Spectrometry",
+                "Liquid Chromatography/Mass Spectrometry"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Liquid Chromatography Mass Spectrometry",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C18475"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "LC/MS/MS",
+                "Liquid Chromatography/Tandem Mass Spectrometry"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Liquid Chromatography/Tandem Mass Spectrometry",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C122168"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2D PAGE experiment",
+                "DIA",
+                "Data-independent acquisition",
+                "MS",
+                "MS experiments",
+                "Mass spectrometry",
+                "Mass spectrometry experiments",
+                "Northern blot experiment",
+                "Spectrum demultiplexing"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "EDAM",
+            "isCurated": true,
+            "name": "Proteomics experiment",
+            "url": "http://edamontology.org/topic_3520"
+        }
+    ],
+    "name": "PeptideAtlas",
+    "sameAs": [
+        "https://registry.identifiers.org/registry/peptideatlas",
+        "https://www.wikidata.org/wiki/Q24884023"
+    ],
+    "sdPublisher": [
+        {
+            "@type": "DataCatalog",
+            "name": "Fairsharing.org",
+            "url": "https://fairsharing.org/FAIRsharing.dvyrsz"
+        },
+        {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        }
+    ],
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Arabidopsis thaliana (L.) Heynh., 1842",
+                "thale cress",
+                "mouse-ear cress",
+                "thale-cress",
+                "thale kress",
+                "Arabis thaliana L., 1753",
+                "Arabidopsis thaliana (thale cress)",
+                "Arabidopsis_thaliana",
+                "Arbisopsis thaliana",
+                "Mouse-ear cress",
+                "Arabis thaliana"
+            ],
+            "classification": "host",
+            "commonName": "Mouse-ear cress",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Mouse-ear cress | Arabidopsis thaliana",
+            "identifier": "3702",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Arabidopsis thaliana",
+            "originalName": "Arabidopsis thaliana",
+            "url": "https://www.uniprot.org/taxonomy/3702"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Gallus gallus domesticus",
+                "red junglefowl",
+                "Chicken",
+                "dwarf Leghorn chickens",
+                "chickens",
+                "Phasianus gallus",
+                "Phasianus gallus Linnaeus, 1758",
+                "chicken",
+                "Gallus domesticus",
+                "bantam"
+            ],
+            "classification": "host",
+            "commonName": "Chicken",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Chicken | Gallus gallus",
+            "identifier": "9031",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Gallus gallus",
+            "originalName": "Gallus gallus",
+            "url": "https://www.uniprot.org/taxonomy/9031"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "black-legged tick",
+                "Ixodes sp. DNAS-303-249710",
+                "deer tick",
+                "shoulder tick",
+                "Ixodes scapularis Say, 1821",
+                "blacklegged tick",
+                "Black-legged tick",
+                "Ixodes dammini"
+            ],
+            "classification": "host",
+            "commonName": "Black-legged tick",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Black-legged tick | Ixodes scapularis",
+            "identifier": "6945",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Ixodes scapularis",
+            "originalName": "Ixodes scapularis",
+            "url": "https://www.uniprot.org/taxonomy/6945"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "fruit fly",
+                "fruit flies",
+                "Drosophila Fallen, 1823"
+            ],
+            "classification": "host",
+            "commonName": "fruit flies",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "fruit flies | Drosophila",
+            "identifier": "7215",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Drosophila",
+            "originalName": "Drosophila <flies,genus>",
+            "url": "https://www.uniprot.org/taxonomy/7215"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "European honey bee",
+                "Western honey bee",
+                "Honeybee",
+                "bee",
+                "honey bee",
+                "Apis mellifera Linnaeus, 1758",
+                "honeybee",
+                "Apis mellifica",
+                "Apis melifera"
+            ],
+            "classification": "host",
+            "commonName": "Honeybee",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Honeybee | Apis mellifera",
+            "identifier": "7460",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Apis mellifera",
+            "originalName": "Apis mellifera",
+            "url": "https://www.uniprot.org/taxonomy/7460"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Equus caballus Linnaeus, 1758",
+                "horse",
+                "Horse",
+                "equine",
+                "Equus przewalskii forma caballus",
+                "Equus przewalskii f. caballus",
+                "domestic horse"
+            ],
+            "classification": "host",
+            "commonName": "Horse",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Horse | Equus caballus",
+            "identifier": "9796",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Equus caballus",
+            "originalName": "Equus caballus",
+            "url": "https://www.uniprot.org/taxonomy/9796"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Homo sapeins",
+                "Homo sapiens (SIRT6)",
+                "Humo sapiens",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Human",
+                "human",
+                "Home sapiens",
+                "Homo spaiens",
+                "Homo sapian",
+                "Homo sapien",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spiens",
+                "Homo sapience",
+                "Homo sapiens (PARIS)",
+                "Homo sapians"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "Homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Zea mays var. japonica",
+                "Zea mays mays",
+                "Maize",
+                "maize",
+                "Zea mays L., 1753"
+            ],
+            "classification": "host",
+            "commonName": "Maize",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Maize | Zea mays",
+            "identifier": "4577",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Zea mays",
+            "originalName": "Zea mays",
+            "url": "https://www.uniprot.org/taxonomy/4577"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Mouse",
+                "LK3 transgenic mice",
+                "mice C57BL/6xCBA/CaJ hybrid",
+                "mouse",
+                "transgenic mice",
+                "Balb/c mouse",
+                "house mouse",
+                "Mus sp. 129SV",
+                "Mus musculus Linnaeus, 1758",
+                "nude mice"
+            ],
+            "classification": "host",
+            "commonName": "Mouse",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Mouse | Mus musculus",
+            "identifier": "10090",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Mus musculus",
+            "originalName": "Mus musculus",
+            "url": "https://www.uniprot.org/taxonomy/10090"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Sus scrofus",
+                "pigs",
+                "swine",
+                "Sus scrofa Pietrain",
+                "Sus scrofa Linnaeus, 1758",
+                "Pig",
+                "Sus scrofa LW",
+                "wild boar",
+                "pig"
+            ],
+            "classification": "host",
+            "commonName": "Pig",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Pig | Sus scrofa",
+            "identifier": "9823",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Sus scrofa",
+            "originalName": "Sus scrofa",
+            "url": "https://www.uniprot.org/taxonomy/9823"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Bos Tauurus",
+                "cow",
+                "ox",
+                "domestic cattle",
+                "Bos bovis",
+                "Bos taurus Linnaeus, 1758",
+                "Bovidae sp. Adi Nefas",
+                "Bos primigenius taurus",
+                "Bovine",
+                "dairy cow",
+                "domestic cow",
+                "bovine"
+            ],
+            "classification": "host",
+            "commonName": "Bovine",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Bovine | Bos taurus",
+            "identifier": "9913",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Bos taurus",
+            "originalName": "Bos taurus",
+            "url": "https://www.uniprot.org/taxonomy/9913"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Rat",
+                "Buffalo rat",
+                "Sprague-Dawley rat",
+                "rats",
+                "Rattus norwegicus",
+                "Mus norvegicus",
+                "rat",
+                "Mus norvegicus Berkenhout, 1769",
+                "Rattus PC12 clone IS",
+                "Rattus norvegicus8",
+                "zitter rats",
+                "Rattus sp. strain Wistar",
+                "Norway rat",
+                "Wistar rats",
+                "brown rat",
+                "laboratory rat"
+            ],
+            "classification": "host",
+            "commonName": "Rat",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Rat | Rattus norvegicus",
+            "identifier": "10116",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Rattus norvegicus",
+            "originalName": "Rattus norvegicus",
+            "url": "https://www.uniprot.org/taxonomy/10116"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "rice",
+                "Asian cultivated rice",
+                "red rice",
+                "Oryza sativa L., 1753",
+                "Rice"
+            ],
+            "classification": "host",
+            "commonName": "Rice",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Rice | Oryza sativa",
+            "identifier": "4530",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Oryza sativa",
+            "originalName": "Oryza sativa",
+            "url": "https://www.uniprot.org/taxonomy/4530"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Brachydanio rerio frankei",
+                "leopard danio",
+                "zebra fish",
+                "Danio frankei",
+                "zebrafish",
+                "Zebrafish",
+                "Brachidanio rerio",
+                "Danio rerio frankei",
+                "Cyprinus rerio",
+                "Cyprinus rerio Hamilton, 1822",
+                "zebra danio",
+                "Danio rerio (Hamilton, 1822)"
+            ],
+            "classification": "host",
+            "commonName": "Zebrafish",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Zebrafish | Danio rerio",
+            "identifier": "7955",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Danio rerio",
+            "originalName": "Danio rerio",
+            "url": "https://www.uniprot.org/taxonomy/7955"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Labeo rohita (Hamilton, 1822)",
+                "Cyprinus rohita Hamilton, 1822",
+                "Jayanti rohu",
+                "rohu",
+                "Indian major carp"
+            ],
+            "classification": "host",
+            "commonName": "Indian major carp",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Indian major carp | Labeo rohita",
+            "identifier": "84645",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Labeo rohita",
+            "originalName": "Labeo rohita",
+            "url": "https://www.uniprot.org/taxonomy/84645"
+        }
+    ],
+    "topicCategory": {
+        "@type": "DefinedTerm",
+        "url": [
+            "http://edamontology.org/topic_0121",
+            "http://edamontology.org/topic_0078",
+            "http://edamontology.org/topic_3922"
+        ]
+    },
+    "url": "http://www.peptideatlas.org/",
+    "variableMeasured": [
+        {
+            "alternateName": [
+                "Spectrum"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Spectrum",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C84383"
+        }
+    ]
+}

@@ -1,51 +1,56 @@
 {
     "@type": "Dataset",
-    "_id": "mendeley_8zf4gdynjx",
-    "_score": 6.267183,
+    "_id": "mendeley_2vm8dtmkh2",
+    "_score": 5.979607,
     "author": [
         {
+            "@type": "Person",
             "familyName": "Requena",
             "givenName": "Jose M.",
             "name": "Jose M. Requena"
         }
     ],
-    "date": "2024-02-12",
-    "dateModified": "2024-02-10",
-    "datePublished": "2024-02-12",
-    "description": "Got1/Sft2-like protein; Leishmania donovani (HU3 strain)",
-    "doi": "10.17632/8zf4gdynjx.1",
+    "date": "2025-02-14",
+    "dateModified": "2025-02-14",
+    "datePublished": "2025-02-14",
+    "description": "Protein of unknown function - conserved; Leishmania infantum (strain JPCM5)",
+    "doi": "10.17632/2vm8dtmkh2.1",
     "funding": [
         {
+            "@type": "MonetaryGrant",
             "funder": {
+                "@type": "Organization",
                 "identifier": "https://ror.org/003x0zc53",
                 "name": "Agencia Estatal de Investigaci\u00f3n"
             },
-            "identifier": "PID2020-117916RB-I00"
+            "identifier": "PID2020-117916RB-I00/AEI/10.13039/501100011033"
         }
     ],
-    "identifier": "8zf4gdynjx",
+    "identifier": "2vm8dtmkh2",
     "includedInDataCatalog": {
         "@type": "DataCatalog",
-        "archivedAt": "https://data.mendeley.com/datasets/8zf4gdynjx",
+        "archivedAt": "https://data.mendeley.com/datasets/2vm8dtmkh2",
         "name": "Mendeley",
         "url": "https://data.mendeley.com/",
-        "versionDate": "2025-08-24T02:49:33.099842"
+        "versionDate": "2025-10-12T02:25:58.866827"
     },
     "infectiousAgent": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
-                "Leishmania (Leishmania) donovani",
-                "Leishmania donovani Laveran et Mesnil, 1903"
+                "Leishmania infantum Nicolle, 1908",
+                "Leishmania donovani infantum",
+                "Leishmania (Leishmania) infantum"
             ],
             "classification": "infectiousAgent",
-            "displayName": "Leishmania donovani",
+            "displayName": "Leishmania infantum",
             "fromEXTRACT": true,
-            "identifier": "5661",
+            "identifier": "5671",
             "inDefinedTermSet": "UniProt",
             "isCurated": false,
-            "name": "Leishmania donovani",
-            "originalName": "Leishmania donovani",
-            "url": "https://www.uniprot.org/taxonomy/5661"
+            "name": "Leishmania infantum",
+            "originalName": "Leishmania infantum",
+            "url": "https://www.uniprot.org/taxonomy/5671"
         }
     ],
     "keywords": [
@@ -54,9 +59,10 @@
         "Leishmania"
     ],
     "license": "http://creativecommons.org/licenses/by/4.0",
-    "name": "LDHU3_03.1010",
+    "name": "LINF_060017400",
     "sdPublisher": {
+        "@type": "Organization",
         "name": "Mendeley Data"
     },
-    "url": "https://data.mendeley.com/datasets/8zf4gdynjx"
+    "url": "https://data.mendeley.com/datasets/2vm8dtmkh2"
 }

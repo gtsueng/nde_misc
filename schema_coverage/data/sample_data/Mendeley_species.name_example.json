@@ -1,87 +1,65 @@
 {
     "@type": "Dataset",
-    "_id": "mendeley_3rnxc7x9ff",
-    "_score": 6.267183,
+    "_id": "mendeley_2w649fccnt",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 5.979607,
     "author": [
         {
-            "familyName": "Liu",
-            "givenName": "Dianbing",
-            "name": "Dianbing Liu"
+            "@type": "Person",
+            "familyName": "Chen",
+            "givenName": "Xiaoyin",
+            "name": "Xiaoyin Chen"
         }
     ],
-    "citation": [
-        {
-            "doi": "10.1016/j.jseaes.2019.103884",
-            "name": "Correlation between \u03b418O and \u03b413C isotopes of speleothems from Tian\u2019e Cave, central China: Insights into the phase relationship between Asian summer and winter monsoons"
-        }
-    ],
-    "date": "2019-06-12",
-    "dateModified": "2018-12-25",
-    "datePublished": "2019-06-12",
-    "description": "Oxygen isotope records from three stalagmites from Tian'e Cave, central China",
-    "doi": "10.17632/3rnxc7x9ff.1",
-    "identifier": "3rnxc7x9ff",
+    "date": "2019-10-04",
+    "dateModified": "2019-10-04",
+    "datePublished": "2019-10-04",
+    "description": "Raw in situ sequencing data and other images for the paper of the same name. Part of four related datasets:\n10.17632/mk82s9x82t.1\n10.17632/g7kdxznt6w.1\n10.17632/86wf7xfz5x.1\n10.17632/2w649fccnt.1\n\nThese datasets demonstrate BARseq, a highly multiplexed projection mapping method based on in situ sequencing of RNA barcodes. These data further demonstrates the use of BARseq to correlate gene expression and projections at cellular resolution with high throughput, and the use of BARseq to map projections of Cre-labeled subpopulation of neurons. \nThese datasets Also contain two single-cell RNAseq datasets. One single-cell RNAseq dataset identified four Intratelencephalic neuron subtypes in mouse auditory cortex. A second single-cell RNAseq dataset compared endogenous gene expression in barcoded vs. non-barcoded neurons and found that information about endogenous gene expression can be successfully recovered from the barcoded neurons.\n\n\nDescription of files in the current dataset:\n\nDataset 4: \nRNAseq analysis.zip: contains two datasets for reproducing the analysis of (1) transcriptomic clustering of non-barcoded neurons in the auditory cortex, and (2) comparison of barcoded vs. non-barcoded cells using single-cell RNAseq.\nadditionalhelpers.zip: additional MATLAB helper functions that may be required to process BARseq datasets.\nXC91-234 images and processing script2.zip: part of the XC91 dataset. Unzip to the same folder to run scripts.\n",
+    "doi": "10.17632/2w649fccnt.1",
+    "identifier": "2w649fccnt",
     "includedInDataCatalog": {
         "@type": "DataCatalog",
-        "archivedAt": "https://data.mendeley.com/datasets/3rnxc7x9ff",
+        "archivedAt": "https://data.mendeley.com/datasets/2w649fccnt",
         "name": "Mendeley",
         "url": "https://data.mendeley.com/",
-        "versionDate": "2025-08-24T02:49:38.570398"
+        "versionDate": "2025-10-12T02:26:00.470479"
     },
     "keywords": [
-        "Paleoclimate"
+        "Neuroscience"
     ],
-    "license": "https://creativecommons.org/licenses/by-nc/3.0",
-    "name": "Data for: Correlation of speleothem \u03b418O and \u03b413C variability from Tian'e Cave, central China: Insights into the phase relationship between Asian summer and winter monsoons",
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "High-throughput mapping of long-range neuronal projection using in situ sequencing, Chen et al., dataset 4",
     "sdPublisher": {
+        "@type": "Organization",
         "name": "Mendeley Data"
     },
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
-                "Panthera leo spelaea",
-                "Eurasian cave lion",
-                "Panthera spelaea Goldfuss, 1810",
-                "Panthera leo spelaea Goldfuss, 1810",
-                "cave lion"
+                "mouse",
+                "Mouse",
+                "LK3 transgenic mice",
+                "house mouse",
+                "nude mice",
+                "Mus sp. 129SV",
+                "Mus musculus Linnaeus, 1758",
+                "transgenic mice",
+                "mice C57BL/6xCBA/CaJ hybrid"
             ],
             "classification": "host",
-            "commonName": "Eurasian cave lion",
-            "displayName": "Eurasian cave lion | Panthera spelaea",
+            "commonName": "Mouse",
+            "displayName": "Mouse | Mus musculus",
             "fromEXTRACT": true,
-            "identifier": "2770979",
+            "identifier": "10090",
             "inDefinedTermSet": "UniProt",
             "isCurated": false,
-            "name": "Panthera spelaea",
-            "originalName": "e Cave",
-            "url": "https://www.uniprot.org/taxonomy/2770979"
+            "name": "Mus musculus",
+            "originalName": "mouse",
+            "url": "https://www.uniprot.org/taxonomy/10090"
         }
     ],
-    "topicCategory": [
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "GPT-4o-mini",
-                "url": "https://openai.com/index/chatgpt"
-            },
-            "fromGPT": true,
-            "identifier": "topic_3070",
-            "inDefinedTermSet": "EDAM",
-            "name": "Biology",
-            "url": "http://edamontology.org/topic_3070"
-        },
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "GPT-4o-mini",
-                "url": "https://openai.com/index/chatgpt"
-            },
-            "fromGPT": true,
-            "identifier": "topic_3855",
-            "inDefinedTermSet": "EDAM",
-            "name": "Environmental sciences",
-            "url": "http://edamontology.org/topic_3855"
-        }
-    ],
-    "url": "https://data.mendeley.com/datasets/3rnxc7x9ff"
+    "url": "https://data.mendeley.com/datasets/2w649fccnt"
 }

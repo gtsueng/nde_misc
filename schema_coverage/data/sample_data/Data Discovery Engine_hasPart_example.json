@@ -1,0 +1,1086 @@
+{
+    "@type": "ResourceCatalog",
+    "_id": "dde_db7f0ed9441f9bed",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 1010.3295,
+    "about": [
+        {
+            "@type": "DefinedTerm",
+            "description": "For schema, consider https://bioschemas.org/types/LabProtocol/0.5-DRAFT",
+            "displayName": "Protocol",
+            "name": "Protocol",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C42651"
+        },
+        {
+            "@type": "DefinedTerm",
+            "description": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+            "displayName": "Scholarly Article",
+            "name": "ScholarlyArticle",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C19026"
+        },
+        {
+            "@type": "DefinedTerm",
+            "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+            "displayName": "Dataset",
+            "name": "Dataset",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C47824"
+        },
+        {
+            "@type": "DefinedTerm",
+            "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:ComputationalTool",
+            "displayName": "Computational Tool",
+            "name": "ComputationalTool",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C17146"
+        }
+    ],
+    "abstract": "Infectious Diseases Data Observatory (IDDO) is a Wellcome Trust supported IID repository that includes clinical data.",
+    "alternateName": "IDDO",
+    "author": [
+        {
+            "@type": "Organization",
+            "alternateName": "IDDO",
+            "identifier": "https://ror.org/04tp3cz81",
+            "name": "Infectious Diseases Data Observatory",
+            "parentOrganization": "Oxford University"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory"
+            },
+            "familyName": "Gu\u00e9rin",
+            "givenName": "Philippe",
+            "identifier": "https://orcid.org/0000-0002-6008-2963",
+            "name": "Philippe Gu\u00e9rin"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Mahidol Oxford Tropical Medicine Research Unit"
+            },
+            "familyName": "Watson",
+            "givenName": "James",
+            "identifier": "https://orcid.org/0000-0001-5524-0325",
+            "name": "James Watson"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory"
+            },
+            "familyName": "Bitoun",
+            "givenName": "Emmanuelle",
+            "name": "Emmanuelle Bitoun"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory"
+            },
+            "familyName": "Dahal",
+            "givenName": "Prabin",
+            "identifier": "https://orcid.org/0000-0002-2158-846X",
+            "name": "Prabin Dahal"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory"
+            },
+            "familyName": "Kennon",
+            "givenName": "Kalynn",
+            "identifier": "https://orcid.org/0000-0003-3531-0298",
+            "name": "Kalynn Kennon"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory"
+            },
+            "familyName": "Narain",
+            "givenName": "Charvy",
+            "name": "Charvy Narain"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory"
+            },
+            "familyName": "Naylor",
+            "givenName": "Caitlin",
+            "identifier": "https://orcid.org/0000-0002-5922-7539",
+            "name": "Caitlin Naylor"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory"
+            },
+            "familyName": "Richmond",
+            "givenName": "Caitlin",
+            "name": "Caitlin Richmond"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory"
+            },
+            "alternateName": "Dhol Ayuen",
+            "familyName": "Ayuen",
+            "givenName": "Samuel Dhol",
+            "name": "Samuel Dhol Ayuen"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory"
+            },
+            "familyName": "Kafkova",
+            "givenName": "Lucie",
+            "identifier": "https://orcid.org/0000-0001-9072-8019",
+            "name": "Lucie Kafkova"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory"
+            },
+            "familyName": "McGregor",
+            "givenName": "Samantha",
+            "name": "Samantha McGregor"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory"
+            },
+            "familyName": "Mizio\u0142ek",
+            "givenName": "Jakub",
+            "name": "Jakub Mizio\u0142ek"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory"
+            },
+            "familyName": "Rochester",
+            "givenName": "Shanti",
+            "name": "Shanti Rochester"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Merson L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Guerin PJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Barnes KI"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ntoumi F"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gaye O"
+                }
+            ],
+            "datePublished": "2018-09-01",
+            "fromPMID": true,
+            "identifier": "PMID:30103997",
+            "journalName": "The Lancet. Global health",
+            "name": "Secondary analysis and participation of those at the data source.",
+            "pmid": "30103997",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30103997/"
+        }
+    ],
+    "citedBy": [
+        {
+            "@type": "Collection",
+            "name": "Publications",
+            "url": "https://www.iddo.org/research/publications"
+        }
+    ],
+    "collectionSize": {
+        "@type": "PropertyValue",
+        "minValue": 237,
+        "unitText": "Publications"
+    },
+    "collectionType": "Repository",
+    "conditionsOfAccess": "Restricted",
+    "date": "2025-05-14",
+    "dateCreated": "2025-01-23",
+    "dateModified": "2025-05-14",
+    "datePublished": "2016-10-25",
+    "description": "The Infectious Diseases Data Observatory (IDDO) brings together members of the global infectious disease community across the research and humanitarian sectors to collaborate in the generation, analysis and application of data to improve outcomes for patients. IDDO\u2019s coordinating office is based in the Centre for Tropical Medicine and Global Health at the University of Oxford.",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://www.iddo.org/vlSurveyor/#0",
+            "dateModified": "2022-11-01",
+            "encoding": "csv"
+        },
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://www.iddo.org/mqsurveyor/",
+            "dateModified": "2022-11-01",
+            "encoding": "xlsx"
+        },
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://www.iddo.org/surveyor/NMFI/#0",
+            "dateModified": "2016-12-31",
+            "encoding": "xlsx"
+        }
+    ],
+    "funding": {
+        "@type": "MonetaryGrant",
+        "funder": {
+            "@type": "Organization",
+            "alternateName": "Wellcome",
+            "name": "Wellcome Trust"
+        },
+        "identifier": "208378"
+    },
+    "genre": "IID",
+    "hasAPI": false,
+    "hasDownload": "Partial content",
+    "hasPart": [
+        {
+            "@type": "ResourceCatalog",
+            "name": "WorldWide Antimalarial Resistance Network",
+            "url": "https://www.iddo.org/wwarn"
+        }
+    ],
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "EHF",
+                "Ebolavirus disease or disorder",
+                "Ebola fever",
+                "Ebolavirus infectious disease",
+                "Ebola virus disease",
+                "Ebola",
+                "Ebolavirus caused disease or disorder"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0005737",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "Ebola hemorrhagic fever",
+            "originalName": "Ebola hemorrhagic fever",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005737"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "kala-azar",
+                "viscus leishmaniasis",
+                "infection by visceral leishmaniasis"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0005445",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "visceral leishmaniasis",
+            "originalName": "visceral leishmaniasis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005445"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "plasmodiosis"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0005136",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "malaria",
+            "originalName": "malaria",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005136"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "snail fever",
+                "bilharziasis",
+                "Bilharzia",
+                "schistosomiasis"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0015254",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "schistosomiasis",
+            "originalName": "schistosomiasis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0015254"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "parasitic helminthiasis infectious disease",
+                "helminthosis",
+                "helminth infection",
+                "helminthiasis"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0004664",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "helminthiasis",
+            "originalName": "helminthiasis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0004664"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Chagas' disease",
+                "Chagas' disease with digestive system involvement",
+                "Trypanosoma cruzi caused disease or disorder",
+                "Trypanosoma cruzi infectious disease",
+                "Trypanosoma cruzi disease or disorder",
+                "infection by trypanosoma cruzi",
+                "Chagas disease",
+                "Chagas' disease with nervous system involvement",
+                "Chagas' disease with other organ involvement"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0001444",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "Chagas disease",
+            "originalName": "Chagas disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0001444"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2019 novel coronavirus infection",
+                "2019-nCoV infection",
+                "coronavirus disease 2019",
+                "severe acute respiratory syndrome coronavirus 2 infectious disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0100096",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "COVID-19",
+            "originalName": "COVID-19",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0100096"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "elevated temperature",
+                "high temperature",
+                "Fever",
+                "Hyperthermia",
+                "Pyrexia",
+                "elevated body temperature",
+                "febris",
+                "high body temperature"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "CIDO",
+            "isCurated": true,
+            "name": "Fever",
+            "url": "http://purl.obolibrary.org/obo/HP_0001945"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "tsutsugamushi disease",
+                "Kedani fever",
+                "tsutsugamushi",
+                "scrub mite-borne typhus",
+                "tsutsugamushi fever",
+                "Japanese river fever"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0019365",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "scrub typhus",
+            "originalName": "scrub typhus",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0019365"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "active stage trachoma",
+                "trachoma dubium"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0001249",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "trachoma",
+            "originalName": "trachoma",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0001249"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "acute and fulminating melioidosis",
+                "subacute and chronic melioidosis",
+                "Burkholderia pseudomallei caused disease or disorder",
+                "Burkholderia pseudomallei disease or disorder",
+                "Burkholderia pseudomallei infectious disease",
+                "Nightcliff gardener's disease",
+                "Whitmore's disease",
+                "pseudoglanders"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0017775",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "melioidosis",
+            "originalName": "melioidosis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0017775"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Bancroftian filarial chyluria",
+                "eyelid elephantiasis",
+                "Bancroftian elephantiasis",
+                "elephantiasis of eyelid"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0005761",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "filarial elephantiasis",
+            "originalName": "filarial elephantiasis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005761"
+        }
+    ],
+    "identifier": "https://www.iddo.org/",
+    "inLanguage": {
+        "@type": "Language",
+        "name": "English"
+    },
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://discovery.biothings.io/resource/db7f0ed9441f9bed",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/",
+            "versionDate": "2025-10-16"
+        }
+    ],
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Ebola-like viruses"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Ebolavirus",
+            "identifier": "186536",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Ebolavirus",
+            "originalName": "Ebolavirus",
+            "url": "https://www.uniprot.org/taxonomy/186536"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Leishmania",
+            "identifier": "5658",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Leishmania",
+            "originalName": "Leishmania <genus>",
+            "url": "https://www.uniprot.org/taxonomy/5658"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Plasmodium",
+            "identifier": "5820",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Plasmodium",
+            "originalName": "Plasmodium",
+            "url": "https://www.uniprot.org/taxonomy/5820"
+        },
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Schistosoma",
+            "identifier": "6181",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Schistosoma",
+            "originalName": "Schistosoma",
+            "url": "https://www.uniprot.org/taxonomy/6181"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "acanthocephalans",
+                "spiny-headed worms",
+                "thorny-headed worms",
+                "Acanthocephala Koelreuter, 1771"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "thorny-headed worms",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "thorny-headed worms | Acanthocephala",
+            "identifier": "10232",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Acanthocephala",
+            "originalName": "Acanthocephala <thorny-headed worms>",
+            "url": "https://www.uniprot.org/taxonomy/10232"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "segmented worms",
+                "annelid worms"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "annelid worms",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "annelid worms | Annelida",
+            "identifier": "6340",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Annelida",
+            "originalName": "Annelida",
+            "url": "https://www.uniprot.org/taxonomy/6340"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "flatworm",
+                "flatworms"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "flatworms",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "flatworms | Platyhelminthes",
+            "identifier": "6157",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Platyhelminthes",
+            "originalName": "Platyhelminthes",
+            "url": "https://www.uniprot.org/taxonomy/6157"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "nematode",
+                "Nemata",
+                "nematodes",
+                "roundworm",
+                "roundworms"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "roundworms",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "roundworms | Nematoda",
+            "identifier": "6231",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Nematoda",
+            "originalName": "Nematoda",
+            "url": "https://www.uniprot.org/taxonomy/6231"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Trypanosoma cruzi Chagas, 1909"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Trypanosoma cruzi",
+            "identifier": "5693",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Trypanosoma cruzi",
+            "originalName": "Trypanosoma cruzi",
+            "url": "https://www.uniprot.org/taxonomy/5693"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2019-nCoV",
+                "Human coronavirus 2019",
+                "Wuhan coronavirus",
+                "Wuhan seafood market pneumonia virus",
+                "SARS-2",
+                "HCoV-19",
+                "COVID19",
+                "COVID-19 virus",
+                "SARS-CoV2",
+                "COVID-19"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "2019-nCoV",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "2019-nCoV | Severe acute respiratory syndrome coronavirus 2",
+            "identifier": "2697049",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Severe acute respiratory syndrome coronavirus 2",
+            "originalName": "SARS-CoV-2",
+            "url": "https://www.uniprot.org/taxonomy/2697049"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "\"Rickettsia orientalis\" Nagayo et al. 1930",
+                "Rickettsia tsutsugamushi (Hayashi 1920) Ogata 1931 (Approved Lists 1980)",
+                "\"Theileria tsutsugamushi\" Hayashi 1920",
+                "Rickettsia akamushi",
+                "strain Karp",
+                "Orientia tsutsugamushi (Hayashi 1920) Tamura et al. 1995",
+                "culture-collection:ATCC:VR:150",
+                "Theileria tsutsugamushi",
+                "Rickettsia orientalis",
+                "ATCC VR-150",
+                "\"Rickettsia akamushi\" Kawamura and Imagawa 1931"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Orientia tsutsugamushi",
+            "identifier": "784",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Orientia tsutsugamushi",
+            "originalName": "Orientia tsutsugamushi",
+            "url": "https://www.uniprot.org/taxonomy/784"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "ATCC VR-571B",
+                "\"Rickettsia trachomae\" (sic) Busacca 1935",
+                "strain A/Har-13",
+                "Chlamydia trachomatis (Busacca 1935) Rake 1957 (Approved Lists 1980) emend. Everett et al. 1999",
+                "DSM 19440",
+                "\"Rickettsia trachomatis\" (Busacca 1935) Foley and Parrot 1937",
+                "culture-collection:ATCC:VR:571B",
+                "Rickettsia trachomae",
+                "Chlamydozoon trachomatis",
+                "\"Chlamydozoon trachomatis\" (Busacca 1935) Moshkovski 1945",
+                "Rickettsia trachomatis",
+                "strain Har-13"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Chlamydia trachomatis",
+            "identifier": "813",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Chlamydia trachomatis",
+            "originalName": "Chlamydia trachomatis",
+            "url": "https://www.uniprot.org/taxonomy/813"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Burkholderia sp. BGJ",
+                "ATCC 23343",
+                "Burkholderia sp. MSHR4009",
+                "Malleomyces pseudomallei",
+                "Burkholderia sp. MSHR4018",
+                "Burkholderia sp. BGK",
+                "Burkholderia pseudomallei MSHR44",
+                "strain WRAIR 286",
+                "Burkholderia sp. MSHR7839",
+                "Burkholderia pseudomallei MSHR4018",
+                "Burkholderia pseudomallai",
+                "Burkholderia sp. TSV202",
+                "Pseudomonas pseudomallei (Whitmore 1913) Haynes 1957 (Approved Lists 1980)",
+                "\"Bacillus pseudomallei\" Whitmore 1913",
+                "Burkholderia pseudomallei (Whitmore 1913) Yabuuchi et al. 1993",
+                "Burkholderia pseudomallei MSHR4009",
+                "\"Loefflerella pseudomallei\" Brindle and Cowan 1951",
+                "Bacillus pseudomallei",
+                "NCTC 12939",
+                "\"Bacterium whitmori\" Stanton and Fletcher 1921",
+                "\"Malleomyces pseudomallei\" Breed 1939",
+                "Bacterium whitmori",
+                "Loefflerella pseudomallei",
+                "Burkholderia sp. MSHR44",
+                "Burkholderia pseudomallei MSHR7839"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Burkholderia pseudomallei",
+            "identifier": "28450",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Burkholderia pseudomallei",
+            "originalName": "Burkholderia pseudomallei",
+            "url": "https://www.uniprot.org/taxonomy/28450"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Filaria bancrofti",
+                "Filaria bancrofti Cobbold, 1877",
+                "agent of lymphatic filariasis"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Wuchereria bancrofti",
+            "identifier": "6293",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Wuchereria bancrofti",
+            "originalName": "Wuchereria bancrofti",
+            "url": "https://www.uniprot.org/taxonomy/6293"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Filarial nematode worm",
+                "agent of lymphatic filariasis",
+                "Brugia malayi (Brug, 1927)"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "Filarial nematode worm",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Filarial nematode worm | Brugia malayi",
+            "identifier": "6279",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Brugia malayi",
+            "originalName": "Brugia malayi",
+            "url": "https://www.uniprot.org/taxonomy/6279"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "isBasedOn": [
+        {
+            "@type": "ResourceCatalog",
+            "name": "WorldWide Antimalarial Resistance Network",
+            "url": "https://www.iddo.org/wwarn"
+        }
+    ],
+    "keywords": [
+        "https://www.wikidata.org/wiki/Q261468",
+        "data visualization",
+        "systematic review"
+    ],
+    "license": "https://www.iddo.org/data-sharing",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Epidemiology / Surveillance",
+                "Surveillance",
+                "surveillance"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "ADO",
+            "isCurated": true,
+            "name": "Surveillance",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15719"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Curate",
+                "Curation"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Curation",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C48292"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "CLINICAL STUDY",
+                "Clinical Research",
+                "Clinical Studies",
+                "Clinical Study",
+                "Study",
+                "clinical study",
+                "study"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "ADO",
+            "isCurated": true,
+            "name": "Clinical Study",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15206"
+        }
+    ],
+    "name": "Infectious Diseases Data Observatory",
+    "sameAs": "https://www.wikidata.org/wiki/Q59536049",
+    "sdPublisher": [
+        {
+            "@type": "DataCatalog",
+            "name": "re3data.org",
+            "url": "https://www.re3data.org/repository/r3d100013358"
+        },
+        {
+            "@type": "DataCatalog",
+            "name": "Fairsharing.org",
+            "url": "https://fairsharing.org/biodbcore-001473/"
+        },
+        {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        }
+    ],
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Homo sapeins",
+                "Homo sapiens (SIRT6)",
+                "Humo sapiens",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Human",
+                "human",
+                "Home sapiens",
+                "Homo spaiens",
+                "Homo sapian",
+                "Homo sapien",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spiens",
+                "Homo sapience",
+                "Homo sapiens (PARIS)",
+                "Homo sapians"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "Homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": {
+        "@type": "DefinedTerm",
+        "url": [
+            "http://edamontology.org/topic_3324",
+            "http://edamontology.org/topic_4013",
+            "http://edamontology.org/topic_3377"
+        ]
+    },
+    "url": "https://www.iddo.org/",
+    "usageInfo": {
+        "@type": "CreativeWork",
+        "name": "Conditions of use",
+        "url": "https://www.iddo.org/data-sharing"
+    },
+    "variableMeasured": [
+        {
+            "alternateName": [
+                "Genetic Diversity",
+                "Genetic Variation",
+                "GeneticVariation",
+                "Sequence Variant",
+                "Sequence Variation",
+                "variant classification",
+                "variant_classification"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Genetic Variation",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C17248"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "CMO",
+            "isCurated": true,
+            "name": "disease severity measurement",
+            "url": "http://purl.obolibrary.org/obo/CMO_0001109"
+        },
+        {
+            "alternateName": [
+                "Treatment Efficacy",
+                "clinical efficacy"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Treatment Efficacy",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C39547"
+        }
+    ]
+}

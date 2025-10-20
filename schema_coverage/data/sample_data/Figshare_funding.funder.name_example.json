@@ -1,0 +1,88 @@
+{
+    "@type": "Dataset",
+    "_id": "figshare_30224860",
+    "_score": 8.57893,
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Isaksen, Anders"
+        },
+        {
+            "@type": "Person",
+            "name": "Nachtigall, Pedro G."
+        },
+        {
+            "@type": "Person",
+            "name": "Araya, Robin A."
+        },
+        {
+            "@type": "Person",
+            "name": "Beh, Jia Hao"
+        },
+        {
+            "@type": "Person",
+            "name": "Robinson, Samuel D."
+        },
+        {
+            "@type": "Person",
+            "name": "Hansen, Thomas F."
+        },
+        {
+            "@type": "Person",
+            "name": "Undheim, Eivind A. B."
+        }
+    ],
+    "date": "2025-09-27",
+    "dateModified": "2025-09-27",
+    "datePublished": "2025-09-27",
+    "description": "Additional file 4. File\u00a0with the aligned nucleotide sequences of the coding regions of R. metallica ectatotoxin loci.",
+    "doi": "10.6084/m9.figshare.30224860.v1",
+    "funding": {
+        "@type": "MonetaryGrant",
+        "funder": {
+            "@type": "Organization",
+            "name": "Universitetet i Oslo Norges Forskningsr\u00e5d HORIZON EUROPE European Research Council University of Oslo (incl Oslo University Hospital)"
+        }
+    },
+    "identifier": "30224860",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://figshare.com/articles/dataset/Additional_file_4_of_Genome_of_the_green-head_ant_Rhytidoponera_metallica_reveals_mechanisms_of_toxin_evolution_in_a_genetically_hyper-diverse_eusocial_species/30224860",
+        "name": "Figshare",
+        "url": "https://figshare.com",
+        "versionDate": "2025-10-01"
+    },
+    "keywords": [
+        "Venom",
+        "Gene evolution",
+        "Transposable elements",
+        "Toxin annotation"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "name": "Additional file 4 of Genome of the green-head ant, Rhytidoponera metallica, reveals mechanisms of toxin evolution in a genetically hyper-diverse eusocial species",
+    "sdPublisher": {
+        "@type": "Organization",
+        "name": "Springer Nature/Genome Biology"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
+            "identifier": "EDAM.TOPIC:3053",
+            "isCurated": true,
+            "name": "Genetics"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "Text2Term-assisted manual mapping"
+            },
+            "identifier": "EDAM.TOPIC:3299",
+            "isCurated": true,
+            "name": "Evolutionary biology"
+        }
+    ],
+    "url": "https://figshare.com/articles/dataset/Additional_file_4_of_Genome_of_the_green-head_ant_Rhytidoponera_metallica_reveals_mechanisms_of_toxin_evolution_in_a_genetically_hyper-diverse_eusocial_species/30224860"
+}

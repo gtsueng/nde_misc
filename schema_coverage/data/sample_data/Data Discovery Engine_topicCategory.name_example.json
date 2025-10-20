@@ -1,0 +1,827 @@
+{
+    "@type": "Dataset",
+    "_id": "dde_026a2652e9c13d8f",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 11.329516,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Northwestern"
+            },
+            "name": "Successful Clinical Response In Pneumonia Therapy (SCRIPT) Systems Biology Center"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Yoshida M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Worlock KB"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Huang N"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lindeboom RGH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Butler CR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kumasaka N"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dominguez Conde C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mamanova L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bolt L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Richardson L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Polanski K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Madissoon E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Barnes JL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Allen-Hyttinen J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kilich E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jones BC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "de Wilton A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Wilbrey-Clark A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sungnak W"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pett JP"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Weller J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Prigmore E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Yung H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mehta P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Saleh A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Saigal A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chu V"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cohen JM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cane C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Iordanidou A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Shibuya S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Reuschl AK"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Herczeg IT"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Argento AC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Wunderink RG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Smith SB"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Poor TA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gao CA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dematte JE"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Reynolds G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Haniffa M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bowyer GS"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Coates M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Clatworthy MR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Calero-Nieto FJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gottgens B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "O'Callaghan C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sebire NJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jolly C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "De Coppi P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Smith CM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Misharin AV"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Janes SM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Teichmann SA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nikolic MZ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Meyer KB"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "NU SCRIPT Study Investigators"
+                }
+            ],
+            "datePublished": "2022-02-01",
+            "fromPMID": true,
+            "identifier": "PMID:34937051",
+            "journalName": "Nature",
+            "name": "Local and systemic responses to SARS-CoV-2 infection in children and adults.",
+            "pmid": "34937051",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34937051/"
+        }
+    ],
+    "date": "2022-06-10",
+    "dateCreated": "2022-06-10",
+    "dateModified": "2022-06-10",
+    "description": "To test whether airway epithelial and immune cells in patients with severe SARS-CoV-2 pneumonia exhibit specific gene expression signatures (namely interferon-response signature) we have performed bronchoscopy on intubated patients with severe SARS-CoV-2 pneumonia and obtained bronchial brushings.\n",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168215",
+            "dateModified": "2021-03-05"
+        }
+    ],
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "name": "National Institute of Allergy and Infectious Diseases (NIAID)"
+            },
+            "identifier": "U19Al135964"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MC_PC_17230"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2021-09-14",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "name": "National Heart Lung and Blood Institute"
+                }
+            ],
+            "identifier": "1R01HL153122-01A1",
+            "name": "Epigenetic modifiers of regulatory T cell function following viral pneumonia",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "HL",
+                "serialNum": "153122",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2021-04-15",
+            "url": "https://reporter.nih.gov/project-details/10209664"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MC_PC_20022"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            },
+            "identifier": "WT211276/Z/18/Z"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MR/S005579/1"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2020-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "The National Institute on Aging",
+                        "NIA",
+                        "NIH NATIONAL INSTITUTE ON AGING",
+                        "U.S. National Institute on Aging"
+                    ],
+                    "employee": [
+                        {
+                            "familyName": "Macchiarini",
+                            "givenName": "Francesca",
+                            "name": "Francesca Macchiarini"
+                        }
+                    ],
+                    "identifier": "https://ror.org/049v75w11",
+                    "name": "National Institute on Aging",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P01AG049665-01",
+            "name": "Disordered Proteostasis as a Driver of Disease in the Aging Lung",
+            "projectNumSplit": {
+                "activityCode": "P01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AG",
+                "serialNum": "049665",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2015-07-01",
+            "url": "https://reporter.nih.gov/project-details/8855149"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2026-07-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "name": "National Heart Lung and Blood Institute"
+                }
+            ],
+            "identifier": "1P01HL154998-01A1",
+            "name": "Mechanisms of Recovery from Viral Pneumonia",
+            "projectNumSplit": {
+                "activityCode": "P01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "HL",
+                "serialNum": "154998",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2021-09-15",
+            "url": "https://reporter.nih.gov/project-details/10269670"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MR/K017047/1"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2025-02-28",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH/National Heart, Lung and Blood Institute",
+                        "National Heart Lung & Blood Institute",
+                        "NHLBI"
+                    ],
+                    "employee": [
+                        {
+                            "familyName": "Gomez",
+                            "givenName": "CHRISTIAN",
+                            "name": "CHRISTIAN Gomez"
+                        }
+                    ],
+                    "identifier": "https://ror.org/012pb6c26",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01HL149883-01",
+            "name": "Mechanisms of regulatory T cell-mediated recovery from severe influenza A virus infection",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HL",
+                "serialNum": "149883",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2020-03-01",
+            "url": "https://reporter.nih.gov/project-details/9865260"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MR/W014556/1"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MR/R015635/1"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2009-03-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH/National Heart, Lung and Blood Institute",
+                        "National Heart Lung & Blood Institute",
+                        "NHLBI"
+                    ],
+                    "employee": [
+                        {
+                            "familyName": "Colombini-Hatch",
+                            "givenName": "Sandra",
+                            "name": "Sandra Colombini-Hatch"
+                        }
+                    ],
+                    "identifier": "https://ror.org/012pb6c26",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1T32HL076139-01",
+            "name": "Training Program in Lung Biology",
+            "projectNumSplit": {
+                "activityCode": "T32",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HL",
+                "serialNum": "076139",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2004-04-01",
+            "url": "https://reporter.nih.gov/project-details/6750382"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2022-12-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "employee": [
+                        {
+                            "familyName": "Brown",
+                            "givenName": "Liliana",
+                            "name": "Liliana Brown"
+                        }
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI135964-01",
+            "name": "Successful Clinical Response In Pneumonia Therapy (SCRIPT) Systems Biology Center",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "135964",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2018-01-17",
+            "url": "https://reporter.nih.gov/project-details/9454818"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MR/S036113/1"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2024-08-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH/National Heart, Lung and Blood Institute",
+                        "National Heart Lung & Blood Institute",
+                        "NHLBI"
+                    ],
+                    "employee": [
+                        {
+                            "familyName": "Mongodin",
+                            "givenName": "EMMANUEL",
+                            "name": "EMMANUEL Mongodin"
+                        }
+                    ],
+                    "identifier": "https://ror.org/012pb6c26",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R01HL153312-01",
+            "name": "Lung transplant injury drives chronic lung allograft dysfunction via recruitment ofmonocyte-derived alveolar macrophages",
+            "projectNumSplit": {
+                "activityCode": "R01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HL",
+                "serialNum": "153312",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2020-09-01",
+            "url": "https://reporter.nih.gov/project-details/10034029"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2019-03-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH NCATS",
+                        "NCATS",
+                        "NCATS NIH",
+                        "NIH's National Center for Advancing Translational Sciences"
+                    ],
+                    "identifier": "https://ror.org/04pw6fb54",
+                    "name": "National Center for Advancing Translational Sciences",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1UL1TR001422-01",
+            "name": "Northwestern University Clinical and Translational Science Institute (NUCATS)",
+            "projectNumSplit": {
+                "activityCode": "UL1",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "TR",
+                "serialNum": "001422",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2015-08-12",
+            "url": "https://reporter.nih.gov/project-details/9085559"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "WT",
+                    "Wellcome"
+                ],
+                "identifier": "https://ror.org/029chgv08",
+                "name": "Wellcome Trust"
+            }
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "UK Medical Research Council",
+                    "MRC"
+                ],
+                "identifier": "https://ror.org/03x94j517",
+                "name": "Medical Research Council",
+                "parentOrganization": "UK Research and Innovation"
+            },
+            "identifier": "MR/S035842/1"
+        }
+    ],
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "syndromes, nephrotic",
+                "nephrotic syndrome",
+                "syndrome, nephrotic",
+                "nephrotic syndromes"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "fromPMID": true,
+            "identifier": "0005377",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "nephrotic syndrome",
+            "originalName": "nephrotic syndrome",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005377"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "fromPMID": true,
+            "identifier": "0005249",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "pneumonia",
+            "originalName": "pneumonia",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005249"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2019 novel coronavirus infection",
+                "2019-nCoV infection",
+                "coronavirus disease 2019",
+                "severe acute respiratory syndrome coronavirus 2 infectious disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0100096",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "COVID-19",
+            "originalName": "COVID-19",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0100096"
+        }
+    ],
+    "identifier": "GSE168215",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://discovery.biothings.io/dataset/026a2652e9c13d8f",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/",
+            "versionDate": "2025-10-16"
+        }
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "name": "IMMUNOLOGICAL ASSAY"
+        },
+        {
+            "@type": "DefinedTerm",
+            "name": "immunological assay"
+        }
+    ],
+    "name": "Single cell RNA-seq analysis of bronchial epithelium in patients with severe SARS-CoV-2 pneumonia\n",
+    "sdPublisher": {
+        "@type": "Organization",
+        "name": "GEO"
+    },
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "abstract": "The NIAID/Division of Microbiology and Infectious Diseases (DMID) Systems Biology Consortium for Infectious Diseases brings together interdisciplinary scientists across microbiology, immunology, infectious diseases, computational biology, and advanced data science. Their collaborative work integrates experimental and computational approaches, including machine learning and mathematical modeling.",
+            "alternateName": [
+                "NIAID Systems Biology Consortium for Infectious Diseases",
+                "NIAID SysBio"
+            ],
+            "description": "The NIAID/Division of Microbiology and Infectious Diseases (DMID) Systems Biology Consortium for Infectious Diseases is a group of interdisciplinary scientists that bridge disparate scientific disciplines including microbiology, immunology, infectious diseases, microbiome, mathematics, physics, bioinformatics, computational biology, machine learning, statistical methods, and mathematical modeling.",
+            "name": "NIAID Systems Biology",
+            "parentOrganization": "NIAID",
+            "url": "https://www.niaid.nih.gov/research/systems-biology-consortium"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0622",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genomics",
+            "url": "http://edamontology.org/topic_0622"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        }
+    ],
+    "url": "https://discovery.biothings.io/dataset/026a2652e9c13d8f"
+}

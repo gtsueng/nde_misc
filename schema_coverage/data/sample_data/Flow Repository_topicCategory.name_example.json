@@ -1,0 +1,99 @@
+{
+    "@type": "Dataset",
+    "_id": "flow_fr-fcm-z2rq",
+    "_score": 10.037086,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "name": "University of Turku, Turku, (Finland)"
+                }
+            ],
+            "name": "Pia Rantakari"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "date": "2020-08-01",
+    "dateModified": "2020-08-01",
+    "datePublished": "2020-07-01",
+    "description": "High-dimensional mass cytometric analyses of testis macrophages.\n Notes: \nOur instrument is Helios, a 3rd generation CyTOF system, which has 135 detection channels.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "http://flowrepository.org/experiments/510/download_ziped_files",
+        "dateModified": "2020-08-01",
+        "name": "FCS files"
+    },
+    "identifier": "FR-FCM-Z2RQ",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "http://flowrepository.org/id/FR-FCM-Z2RQ",
+        "name": "Flow Repository",
+        "url": "http://flowrepository.org/",
+        "versionDate": "2025-07-05"
+    },
+    "keywords": [
+        "mass cytometry",
+        "macrophages",
+        "mouse testes"
+    ],
+    "license": "http://flowrepository.org/terms_of_service",
+    "measurementTechnique": {
+        "@type": "DefinedTerm",
+        "curatedBy": {
+            "dateModified": "2025-07-05",
+            "name": "Flow Repository",
+            "url": "http://flowrepository.org/"
+        },
+        "inDefinedTermSet": "MMO",
+        "isCurated": true,
+        "name": "flow cytometry method",
+        "url": "http://purl.obolibrary.org/obo/MMO_0000617"
+    },
+    "name": "Mass cytometry identifing Testicular macrophages",
+    "temporalCoverage": {
+        "@type": "TemporalInterval",
+        "endDate": "2019-11-30",
+        "startDate": "2018-02-01",
+        "temporalType": "study date"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3070",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biology",
+            "url": "http://edamontology.org/topic_3070"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3344",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomedical science",
+            "url": "http://edamontology.org/topic_3344"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        }
+    ],
+    "url": "http://flowrepository.org/id/FR-FCM-Z2RQ"
+}

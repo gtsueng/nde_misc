@@ -1,0 +1,89 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dataverse_10.7910_dvn_1qeojm",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 7.7842293,
+    "author": [
+        {
+            "@id": "https://orcid.org/0000-0002-4535-6903",
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Dr."
+            },
+            "familyName": "y\u0131ld\u0131z",
+            "givenName": "meltem",
+            "identifier": "https://orcid.org/0000-0002-4535-6903",
+            "name": "y\u0131ld\u0131z, meltem",
+            "sameAs": "https://orcid.org/0000-0002-4535-6903"
+        }
+    ],
+    "date": "2024-03-20",
+    "dateModified": "2024-03-20",
+    "datePublished": "2024-03-20",
+    "description": "From childhood onwards, parents are the first and most meaningful moral guides in a person's life. Character strengths are morally valuable qualities that contribute to making a person a good individual and leading a good life. The parenting styles of parents, who are the most important moral guides of human beings, may be related to which character strengths will be more dominant in their children. Based on this, the present study, aimed to reveal the relationship between the character strengths of individuals aged 19-25 studying at university and the parenting styles of their mothers and fathers. The study was conducted on 248 university students (77% female, 23% male) aged between 19-25 years (mean age 20.85). The method of the present study is the relational research method, which is a subtype of descriptive research. In the study, the Character Strengths Inventory (VIA-IS-P) developed by McGrath (2019) and adapted to Turkish culture by Demirci et al. (2021) was a study on the character strengths of university students. The Parental Attitude Scale developed by Kuzgun and Eldeleklio\u011flu (2005) was used to evaluate the parenting styles of their parents. According to the results of the study, significant gender differences were found in the character strengths in all the other virtues with the exception of the virtue of justice. As a result of the calculated correlations, it was determined that all character strengths except humor under the virtue of transcendence and the forgiveness and modesty character strengths of under the virtue of temperance showed significant relationships with the parenting styles of the parents of the university students. Looking at the findings of the regression analysis, it was determined that authoritative motherhood and authoritative fatherhood styles significantly predicted all character strengths under the virtues of courage, wisdom, justice, and humanity.",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://dataverse.harvard.edu/api/access/datafile/9652774",
+            "description": "Parenting Styles and Character Strengths",
+            "encodingFormat": "text/tab-separated-values",
+            "name": "Parenting Styles and Character Strengths.tab"
+        }
+    ],
+    "doi": "https://doi.org/10.7910/DVN/1QEOJM",
+    "identifier": "10.7910/DVN/1QEOJM",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://doi.org/10.7910/DVN/1QEOJM",
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/",
+        "versionDate": "2025-04-07"
+    },
+    "keywords": "Social Sciences",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0",
+    "name": "Replication Data for: Relations between Parenting Styles and Character Strengths in University Students",
+    "sdPublisher": [
+        {
+            "@type": "Organization",
+            "name": "Harvard Dataverse"
+        }
+    ],
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapian",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapients",
+                "Homo spaiens",
+                "Homo spiens",
+                "Human",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sapiense",
+                "human"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromEXTRACT": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "originalName": "human",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "url": "https://doi.org/10.7910/DVN/1QEOJM"
+}

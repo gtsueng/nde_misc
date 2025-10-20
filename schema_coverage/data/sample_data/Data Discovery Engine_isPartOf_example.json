@@ -1,0 +1,1056 @@
+{
+    "@type": "ResourceCatalog",
+    "_id": "dde_eb4e1ad280483af0",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 1010.3295,
+    "about": [
+        {
+            "@type": "DefinedTerm",
+            "description": "Not distinct from Specimen as a schema. For schema consider, https://bioschemas.org/types/BioSample/",
+            "displayName": "Sample",
+            "name": "Sample",
+            "url": "http://www.w3.org/ns/sosa/Sample"
+        }
+    ],
+    "abstract": "ACTG/IMPAACT Specimen Repository is a NIAID supported IID repository that includes biospecimen data.",
+    "alternateName": "Specimen Repository",
+    "author": [
+        {
+            "@type": "Organization",
+            "alternateName": "ACTG Network",
+            "identifier": "https://ror.org/02yz1n812",
+            "name": "AIDS Clinical Trials Group Network"
+        },
+        {
+            "@type": "Organization",
+            "alternateName": "IMPAACT Network",
+            "name": "International Maternal Pediatric Adolescent AIDS Clinical Trials Network"
+        },
+        {
+            "@type": "Organization",
+            "alternateName": "HVTN",
+            "name": "HIV Vaccine Trials Network"
+        },
+        {
+            "@type": "Organization",
+            "alternateName": "Frontier Science",
+            "identifier": "https://ror.org/04hbhf775",
+            "name": "Frontier Science & Technology Research Foundation"
+        },
+        {
+            "@type": "Organization",
+            "alternateName": "SCHARP",
+            "name": "Statistical Center for HIV/AIDS Research and Prevention",
+            "parentOrganization": "Fred Hutch Cancer Center"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of California, Los Angeles"
+            },
+            "familyName": "Currier",
+            "givenName": "Judith",
+            "name": "Judith S. Currier"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of California, Los Angeles"
+            },
+            "familyName": "Eron",
+            "givenName": "Joseph",
+            "name": "Joseph J. Eron"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Harvard School of Public Health"
+            },
+            "alternateName": "David Eric Shapiro",
+            "familyName": "Shapiro",
+            "givenName": "David",
+            "name": "David E. Shapiro"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Harvard School of Public Health"
+            },
+            "alternateName": "Marlene Ann Cooper",
+            "familyName": "Cooper",
+            "givenName": "Marlene",
+            "name": "Marlene A. Cooper"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Ducar C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Smith D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pinzon C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Stirewalt M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cooper C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "McElrath MJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hural J"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "NIAID HIV Vaccine Trials Network"
+                }
+            ],
+            "datePublished": "2014-07-01",
+            "fromPMID": true,
+            "identifier": "PMID:24709391",
+            "journalName": "Journal of immunological methods",
+            "name": "Benefits of a comprehensive quality program for cryopreserved PBMC covering 28 clinical trials sites utilizing an integrated, analytical web-based portal.",
+            "pmid": "24709391",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24709391/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Hollinger FB"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bremer JW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Myers LE"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gold JW"
+                },
+                {
+                    "@type": "Person",
+                    "name": "McQuay L"
+                }
+            ],
+            "datePublished": "1992-07-01",
+            "fromPMID": true,
+            "identifier": "PMID:1629336",
+            "journalName": "Journal of clinical microbiology",
+            "name": "Standardization of sensitive human immunodeficiency virus coculture procedures and establishment of a multicenter quality assurance program for the AIDS Clinical Trials Group. The NIH/NIAID/DAIDS/ACTG Virology Laboratories.",
+            "pmid": "1629336",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1629336/"
+        }
+    ],
+    "collectionSize": [
+        {
+            "@type": "PropertyValue",
+            "minValue": 5712238,
+            "unitText": "total specimens"
+        },
+        {
+            "@type": "PropertyValue",
+            "minValue": 28,
+            "unitText": "specimen types"
+        },
+        {
+            "@type": "PropertyValue",
+            "minValue": 367,
+            "unitText": "studies"
+        },
+        {
+            "@type": "PropertyValue",
+            "minValue": 58720,
+            "unitText": "unique participants"
+        }
+    ],
+    "collectionType": "Repository",
+    "conditionsOfAccess": "Restricted",
+    "date": "2025-05-14",
+    "dateCreated": "2024-07-23",
+    "dateModified": "2025-05-14",
+    "datePublished": "2014-08-20",
+    "description": "When studies for large-scale clinical trials are completed, many human biological specimens remain in storage facilities. The purpose of this website is to make those specimens available to researchers and investigators to conduct new and innovative work. The specimens on this website are stored in ACTG, IMPAACT, and HVTN repositories and are available to investigators conducting new research. Find specimens collected for large global HIV clinical trials that are available for new research.",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2013-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "5UM1AI068616-06",
+            "name": "Statistical and Data Management Center-Pediatric,Adolescent, and Maternal CTG",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "5",
+                "fullSupportYear": "06",
+                "icCode": "AI",
+                "serialNum": "068616",
+                "suffixCode": "",
+                "supportYear": "06"
+            },
+            "startDate": "2006-06-29",
+            "url": "https://reporter.nih.gov/project-details/8109274"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2012-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "El Instituto Nacional de Investigaci\u00f3n Dental y Craneofacial",
+                        "Instituto Nacional de Investigaci\u00f3n Dental y Craneofacial",
+                        "NIH National Institute of Dental and Craniofacial Research",
+                        "NIDCR"
+                    ],
+                    "identifier": "https://ror.org/004a2wv92",
+                    "name": "National Institute of Dental and Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "5UM1AI068636-06",
+            "name": "AIDS Clinical Trials Group Network",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "5",
+                "fullSupportYear": "06",
+                "icCode": "AI",
+                "serialNum": "068636",
+                "suffixCode": "",
+                "supportYear": "06"
+            },
+            "startDate": "2006-06-29",
+            "url": "https://reporter.nih.gov/project-details/8096739"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2013-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "5UM1AI068614-06",
+            "name": "Leadership Group for a Global HIV Vaccine Clinical Trials Network",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "5",
+                "fullSupportYear": "06",
+                "icCode": "AI",
+                "serialNum": "068614",
+                "suffixCode": "",
+                "supportYear": "06"
+            },
+            "startDate": "2006-06-29",
+            "url": "https://reporter.nih.gov/project-details/8088218"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2013-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "5UM1AI068618-06",
+            "name": "HVTN Laboratory Program",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "5",
+                "fullSupportYear": "06",
+                "icCode": "AI",
+                "serialNum": "068618",
+                "suffixCode": "",
+                "supportYear": "06"
+            },
+            "startDate": "2006-06-29",
+            "url": "https://reporter.nih.gov/project-details/8088126"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2013-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "5UM1AI068618-06",
+            "name": "HVTN Laboratory Program",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "5",
+                "fullSupportYear": "06",
+                "icCode": "AI",
+                "serialNum": "068618",
+                "suffixCode": "",
+                "supportYear": "06"
+            },
+            "startDate": "2006-06-29",
+            "url": "https://reporter.nih.gov/project-details/8088126"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2013-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Office of the Director",
+                        "Office of the Director, NIH",
+                        "OD",
+                        "Office of the NIH Director"
+                    ],
+                    "identifier": "https://ror.org/00fj8a872",
+                    "name": "NIH Office of the Director",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "5UM1AI068635-06",
+            "name": "Leadership for HIV/AIDS Clinical Trials Networks; HIV Vaccine Trials Network",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "5",
+                "fullSupportYear": "06",
+                "icCode": "AI",
+                "serialNum": "068635",
+                "suffixCode": "",
+                "supportYear": "06"
+            },
+            "startDate": "2006-06-29",
+            "url": "https://reporter.nih.gov/project-details/8088185"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2013-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Office of the Director",
+                        "Office of the Director, NIH",
+                        "OD",
+                        "Office of the NIH Director"
+                    ],
+                    "identifier": "https://ror.org/00fj8a872",
+                    "name": "NIH Office of the Director",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01AI068618-01",
+            "name": "HVTN Laboratory Program",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "068618",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2006-06-29",
+            "url": "https://reporter.nih.gov/project-details/7068361"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIAID NIH HHS"
+            },
+            "identifier": "U01-AI-27551"
+        }
+    ],
+    "genre": "IID",
+    "hasAPI": false,
+    "hasDownload": "Partial content",
+    "hasPart": [
+        {
+            "@type": "CreativeWork",
+            "name": "IMPAACT Request Process",
+            "url": "https://www.impaactnetwork.org/resources#propose"
+        },
+        {
+            "@type": "CreativeWork",
+            "name": "HVTN Request Process",
+            "url": "https://www.hvtn.org/scientific-programs/scientific-programs-overview/hvtn-trials.html"
+        },
+        {
+            "@type": "CreativeWork",
+            "name": "ACTG Request Process",
+            "url": "https://actgnetwork.org/submit-a-proposal-2/"
+        }
+    ],
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "AIDS, acquired immunodeficiency syndrome",
+                "acquired immunodeficiency disease",
+                "AIDS",
+                "acquired immune deficiency",
+                "acquired immunodeficiency syndrome, AIDS"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0012268",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "AIDS",
+            "originalName": "AIDS",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0012268"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "tuberculosis disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0018076",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "tuberculosis",
+            "originalName": "tuberculosis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0018076"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Hepatitis C virus caused hepatitis",
+                "viral hepatitis C",
+                "hepatitis Nona nonB",
+                "NANBH",
+                "Hepatitis C virus hepatitis",
+                "hepatitis C infection",
+                "hepatitis type C",
+                "non-A, non-B Hepatitis"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0005231",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "hepatitis C virus infection",
+            "originalName": "hepatitis C virus infection",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005231"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "cognitive disease",
+                "cognitive disorder"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0002039",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "cognitive disorder",
+            "originalName": "cognitive disorder",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0002039"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "disorder of nervous system",
+                "nervous system disease or disorder",
+                "neurologic disease",
+                "neurological disease",
+                "neurological disorder",
+                "nervous system disease",
+                "neurologic disorder",
+                "nervous system disorder",
+                "disease of nervous system",
+                "disease or disorder of nervous system"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0005071",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "nervous system disorder",
+            "originalName": "nervous system disorder",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005071"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "thrush",
+                "Candida infection",
+                "Candida <Debaryomycetaceae> infection",
+                "Candidosis"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0002026",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "candidiasis",
+            "originalName": "candidiasis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0002026"
+        }
+    ],
+    "identifier": "http://www.specimenrepository.org/RepositorySite/home.html",
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "English"
+        }
+    ],
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://discovery.biothings.io/resource/eb4e1ad280483af0",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/",
+            "versionDate": "2025-10-16"
+        }
+    ],
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "HIV",
+                "human immunodeficiency virus HIV-1",
+                "human immunodeficiency virus-1 HIV-1",
+                "human immunodeficiency virus 1 HIV-1",
+                "Human immunodeficiencey virus type 1",
+                "human immunodeficiency virus type I HIV-1",
+                "HIV-1",
+                "Human immunodeficiency virus type I",
+                "Human immunodeficiency virus 1",
+                "LAV-1",
+                "human immunodeficiency virus type 1, HIV-1",
+                "AIDS virus",
+                "human immunodeficiency virus type 1 HIV 1",
+                "Human immundeficiency virus type 1",
+                "HIV1",
+                "human immunodeficiency virus type 1 ,HIV-1",
+                "human immunodeficiency virus type-1 HIV-1",
+                "human immunodeficiency virus type 1 HIV1",
+                "human immunodeficiency virus type 1 HIV-1"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "HIV-1",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "HIV-1 | Human immunodeficiency virus type 1",
+            "identifier": "11676",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Human immunodeficiency virus type 1",
+            "originalName": "Human immunodeficiency virus 1",
+            "url": "https://www.uniprot.org/taxonomy/11676"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "HIV",
+                "Human immunodeficiency virus-2",
+                "human immunodeficiency virus type 2 HIV-2",
+                "LAV-2",
+                "human immunodeficiency virus type 2, HIV-2",
+                "HIV-2",
+                "AIDS virus",
+                "HIV2",
+                "HIV type 2",
+                "Human immunodeficiency virus type 2"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Human immunodeficiency virus 2",
+            "identifier": "11709",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Human immunodeficiency virus 2",
+            "originalName": "Human immunodeficiency virus 2",
+            "url": "https://www.uniprot.org/taxonomy/11709"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Torulopsis Berl., 1894",
+                "Candida Berkhout, 1923",
+                "Torulopsis"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Candida",
+            "identifier": "5475",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Candida",
+            "originalName": "Candida",
+            "url": "https://www.uniprot.org/taxonomy/5475"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Mycobacterium Lehmann and Neumann 1896 (Approved Lists 1980) emend. Gupta et al. 2018",
+                "Mycobacterium Lehmann and Neumann 1896 (Approved Lists 1980) emend. Val-Calvo and Vazquez-Boland 2023",
+                "Mycobacterium Lehmann and Neumann 1896 (Approved Lists 1980)"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Mycobacterium",
+            "identifier": "1763",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Mycobacterium",
+            "originalName": "Mycobacterium",
+            "url": "https://www.uniprot.org/taxonomy/1763"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "hepatitis C virus HCV",
+                "human hepatitis C virus HCV",
+                "Hepatitis C virus",
+                "Hepacivirus C",
+                "human hepatitis C virus",
+                "post-transfusion hepatitis non A non B virus",
+                "human hepatitis virus C HCV",
+                "HCV"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Hepacivirus hominis",
+            "identifier": "3052230",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Hepacivirus hominis",
+            "originalName": "Hepacivirus hominis",
+            "url": "https://www.uniprot.org/taxonomy/3052230"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "isBasedOn": [
+        {
+            "@type": "CreativeWork",
+            "name": "BARC Global Central Laboratory Biorepository Solutions",
+            "url": "https://cerbaresearch.com/central-laboratory-solutions/logistic-excellence/biobanking-and-storage/"
+        },
+        {
+            "@type": "CreativeWork",
+            "name": "Biomedical Research Institute BioRepository Services",
+            "url": "https://www.afbr-bri.org/biorepository-specimen-storage/"
+        },
+        {
+            "@type": "CreativeWork",
+            "name": "Fisher BioServices",
+            "url": "https://www.thermofisher.com/us/en/home/clinical/biobanking/fisher-bioservices.html"
+        },
+        {
+            "@type": "CreativeWork",
+            "name": "Precision for Medicine Biospecimens",
+            "url": "https://www.precisionformedicine.com/biospecimens"
+        },
+        {
+            "@type": "CreativeWork",
+            "name": "LabVantage Biobanking Laboratory Information Management Service",
+            "url": "https://www.labvantage.com/industries/biobanking/"
+        }
+    ],
+    "isPartOf": [
+        {
+            "@type": "ResourceCatalog",
+            "name": "AIDS Clinical Trials Group",
+            "url": "https://data.niaid.nih.gov/resources?id=dde_94c560d2fe14b1b1"
+        },
+        {
+            "@type": "ResourceCatalog",
+            "name": "International Maternal Pediatric Adolescent AIDS Clinical Trials network (IMPAACT)",
+            "url": "https://www.impaactnetwork.org/"
+        },
+        {
+            "@type": "ResourceCatalog",
+            "name": "HIV Vaccine Trials Network (HVTN)",
+            "url": "https://www.hvtn.org/"
+        }
+    ],
+    "isSimilarTo": [
+        {
+            "@type": "ResourceCatalog",
+            "name": "BEI Resources",
+            "url": "https://www.beiresources.org/"
+        }
+    ],
+    "license": "https://www.specimenrepository.org/RepositorySite/support.html",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Submission",
+                "Submit",
+                "Submitted",
+                "submitted"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Submission",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C25695"
+        }
+    ],
+    "name": "ACTG/IMPAACT Specimen Repository",
+    "sameAs": [
+        "https://actgnetwork.org/specimen-repository-website/"
+    ],
+    "sdPublisher": {
+        "@type": "DataCatalog",
+        "name": "Data Discovery Engine",
+        "url": "https://discovery.biothings.io/portal/nde"
+    },
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "abstract": "Advancing Clinical Therapeutics Globally (ACTG) supports the world's largest network of clinical and translational investigators conducting therapeutic research, with a focus on resource-limited settings. These experts lead HIV/AIDS clinical trials, treatment programs, and training initiatives to improve outcomes worldwide.",
+            "alternateName": [
+                "ACTG",
+                "Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections"
+            ],
+            "correctionApproved": true,
+            "description": "Advancing Clinical Therapeutics Globally (ACTG) established and supports the largest Network of expert clinical and translational investigators and therapeutic clinical trials units in the world, including sites in resource-limited countries. These investigators and units serve as the major resource for HIV/AIDS research, treatment, care, and training/education in their communities. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/ACTG",
+            "name": "NIAID ACTG Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://actgnetwork.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The HIV Prevention Trials Network (HPTN) conducts clinical trials to evaluate the safety and efficacy of non-vaccine HIV prevention strategies. Research areas include pre-exposure prophylaxis, behavioral interventions, and novel biomedical approaches to reduce HIV transmission.",
+            "alternateName": [
+                "HPTN",
+                "HIV Prevention Trials Network"
+            ],
+            "correctionApproved": true,
+            "description": "The HIV Prevention Trials Network (HPTN) develops and tests the safety and efficacy of primarily non-vaccine interventions designed to prevent the transmission of HIV. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/hiv-prevention-trials-network",
+            "name": "NIAID HPTN Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.hptn.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The HIV Vaccine Trials Network (HVTN) is the world\u2019s largest publicly funded collaboration for evaluating HIV vaccines. In addition to advancing HIV vaccine research, the network contributes to studies on tuberculosis, COVID-19, and immunology.",
+            "alternateName": [
+                "HVTN",
+                "HIV Vaccine Trials Network"
+            ],
+            "correctionApproved": true,
+            "description": "The HIV Vaccine Trials Network (HVTN) is the world\u2019s largest publicly funded international collaboration facilitating the evaluation of vaccines to prevent HIV/AIDS. The HVTN helps advance the fields of vaccinology, social and behavioral sciences, statistics, and immunology, as well as tuberculosis and COVID-19 vaccines. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/hiv-vaccine-trials-network",
+            "name": "NIAID HVTN Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "http://www.hvtn.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Network is a global network conducting clinical trials to prevent and treat HIV in infants, children, adolescents, and pregnant or postpartum women. The network brings together investigators, institutions, and community representatives to advance HIV research and care.",
+            "alternateName": [
+                "IMPAACT",
+                "The International Maternal Pediatric Adolescent AIDS Clinical Trials Network"
+            ],
+            "correctionApproved": true,
+            "description": "The International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Network is a global collaboration of investigators, institutions, community representatives and other partners organized for the purpose of evaluating interventions to treat and prevent HIV infection and its consequences in infants, children, adolescents, and pregnant/postpartum women through the conduct of high quality clinical trials. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/impaact",
+            "name": "NIAID IMPAACT Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.impaactnetwork.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The Microbicide Trials Network (MTN) is an NIAID-funded global research network focused on preventing the sexual transmission of HIV. The network conducts clinical trials to evaluate microbicides and other biomedical prevention strategies.",
+            "alternateName": [
+                "MTN",
+                "Microbicide Trials Network"
+            ],
+            "correctionApproved": true,
+            "description": "The Microbicide Trials Network (MTN) is an NIAID-funded worldwide collaborative clinical trials network focused on preventing the sexual transmission of HIV. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/microbicide-trials-network",
+            "name": "NIAID MTN Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "http://www.mtnstopshiv.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The Division of AIDS (DAIDS) leads the national HIV/AIDS research agenda, supporting a global portfolio to advance biological knowledge and treatment of HIV/AIDS and related co-infections. The division funds studies to develop new therapies, vaccines, and prevention strategies.",
+            "alternateName": [
+                "DAIDS",
+                "The Division of AIDS"
+            ],
+            "correctionApproved": false,
+            "description": "The Division of AIDS (DAIDS) was formed to develop and implement the national research agenda to address the HIV/AIDS epidemic. Toward that end, the division supports a global research portfolio to advance biological knowledge of HIV/AIDS, its related co-infections, and co-morbidities.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/about/daids",
+            "name": "NIAID DAIDS",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.niaid.nih.gov/about/daids"
+        }
+    ],
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Homo sapeins",
+                "Homo sapiens (SIRT6)",
+                "Humo sapiens",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Human",
+                "human",
+                "Home sapiens",
+                "Homo spaiens",
+                "Homo sapian",
+                "Homo sapien",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spiens",
+                "Homo sapience",
+                "Homo sapiens (PARIS)",
+                "Homo sapians"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "Homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "url": "http://www.specimenrepository.org/RepositorySite/home.html",
+    "usageInfo": {
+        "@type": "CreativeWork",
+        "name": "Conditions of use",
+        "url": "https://www.specimenrepository.org/RepositorySite/proposals.html"
+    },
+    "variableMeasured": [
+        {
+            "alternateName": [
+                "Biospecimen Type",
+                "SPEC",
+                "Sample Type",
+                "Specimen Type",
+                "Type of Biospecimen",
+                "physical sample type",
+                "physical_sample_type",
+                "specimen type",
+                "specimen_type"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Biospecimen Type",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C70713"
+        },
+        {
+            "alternateName": [
+                "Availability",
+                "Available"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Availability",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C25429"
+        },
+        {
+            "alternateName": [
+                "CLINICAL STUDY",
+                "Clinical Research",
+                "Clinical Studies",
+                "Clinical Study",
+                "Study",
+                "clinical study",
+                "study"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "ADO",
+            "isCurated": true,
+            "name": "Clinical Study",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15206"
+        }
+    ]
+}

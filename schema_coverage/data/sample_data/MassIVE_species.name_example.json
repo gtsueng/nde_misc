@@ -1,65 +1,74 @@
 {
     "@context": "http://schema.org/",
     "@type": "Dataset",
-    "_id": "msv000088101",
-    "_score": 8.220623,
+    "_id": "msv000098937",
+    "_score": 7.947222,
     "author": [
         {
+            "@type": "Person",
             "affiliation": {
-                "name": "University of California, Davis"
+                "name": "UCSD"
             },
-            "email": "jfolz@ucdavis.edu",
-            "name": "Jacob Folz"
+            "email": "pdorrestein@ucsd.edu",
+            "name": " Pieter Dorrestein"
         }
     ],
     "conditionsOfAccess": "Open",
-    "date": "2021-09-15",
-    "dateCreated": "2021-09-15",
-    "description": "See full dataset at https://www.metabolomicsworkbench.org/. Study ID ST001794. Publication DOI: 10.1039/D1FO01574E. Reversed phase chromatography. Thermo Q Exactive Plus Orbitrap (positive mode).",
+    "date": "2025-08-25",
+    "dateCreated": "2025-08-25",
+    "datePublished": "2025-08-25",
+    "description": "NIST-reference fecal samples analyzed following 50;50 MeoH/H20 extraction using Thermofisher Q Exactive. Samples were analyzed in triplicates, including blank and pooled samples as controls.",
     "distribution": {
-        "contentUrl": "ftp://massive.ucsd.edu/v04/MSV000088101"
+        "@type": "DataDownload",
+        "contentUrl": "ftp://massive.ucsd.edu/v10/MSV000098937"
     },
-    "doi": "10.25345/C5RR9B",
-    "identifier": "MSV000088101",
+    "doi": "10.25345/C5PK07F28",
+    "identifier": "MSV000098937",
     "includedInDataCatalog": [
         {
             "@type": "DataCatalog",
-            "archivedAt": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=f8b8e210af264b8fa2d1de1cb80dd610",
+            "archivedAt": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=86ddf264712c444482289ac04e98f195",
             "name": "MassIVE",
             "url": "https://massive.ucsd.edu/ProteoSAFe/static/massive.jsp",
-            "versionDate": "2025-08-24"
+            "versionDate": "2025-10-11"
         },
         {
             "@type": "DataCatalog",
-            "archivedAt": "https://www.omicsdi.org/dataset/gnps/MSV000088101",
+            "archivedAt": "https://www.omicsdi.org/dataset/gnps/MSV000098937",
             "name": "Omics Discovery Index (OmicsDI)",
             "url": "https://www.omicsdi.org/",
-            "versionDate": "2025-07-01"
+            "versionDate": "2025-10-01"
         }
     ],
     "keywords": [
-        "small intestine"
+        "Fecal",
+        "reference",
+        "DatasetType:Metabolomics"
     ],
     "license": "http://creativecommons.org/publicdomain/zero/1.0/",
     "measurementTechnique": [
         {
-            "name": "Thermo Q Exactive Plus Orbitrap"
+            "@type": "DefinedTerm",
+            "name": "Q Exactive"
         },
         {
+            "@type": "DefinedTerm",
             "identifier": "MMO_0000534",
             "name": "Mass Spectrometry",
             "url": "https://ontobee.org/ontology/MMO?iri=http://purl.obolibrary.org/obo/MMO_0000534"
         }
     ],
-    "name": "GNPS ST001794 GI tube dataset CSHpos",
+    "name": "GNPS- Metabolomics analysis of NIST reference fecal samples",
     "sameAs": [
-        "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=f8b8e210af264b8fa2d1de1cb80dd610"
+        "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=86ddf264712c444482289ac04e98f195"
     ],
     "sdPublisher": {
+        "@type": "Organization",
         "name": "MassIVE"
     },
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Human",
                 "Homo sapiens Linnaeus, 1758",
@@ -94,45 +103,7 @@
             "url": "https://www.uniprot.org/taxonomy/9606"
         }
     ],
-    "topicCategory": [
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "GPT-4o-mini",
-                "url": "https://openai.com/index/chatgpt"
-            },
-            "fromGPT": true,
-            "identifier": "topic_3370",
-            "inDefinedTermSet": "EDAM",
-            "name": "Analytical chemistry",
-            "url": "http://edamontology.org/topic_3370"
-        },
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "GPT-4o-mini",
-                "url": "https://openai.com/index/chatgpt"
-            },
-            "fromGPT": true,
-            "identifier": "topic_3172",
-            "inDefinedTermSet": "EDAM",
-            "name": "Metabolomics",
-            "url": "http://edamontology.org/topic_3172"
-        },
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "GPT-4o-mini",
-                "url": "https://openai.com/index/chatgpt"
-            },
-            "fromGPT": true,
-            "identifier": "topic_3314",
-            "inDefinedTermSet": "EDAM",
-            "name": "Chemistry",
-            "url": "http://edamontology.org/topic_3314"
-        }
-    ],
-    "url": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=f8b8e210af264b8fa2d1de1cb80dd610",
+    "url": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=86ddf264712c444482289ac04e98f195",
     "variableMeasured": [
         {
             "name": "Metabolomics"

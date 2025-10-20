@@ -1,0 +1,3803 @@
+{
+    "@type": "ResourceCatalog",
+    "_id": "dde_da18bc66317fc987",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 1010.3295,
+    "about": [
+        {
+            "@type": "DefinedTerm",
+            "description": "Not distinct from Specimen as a schema",
+            "displayName": "Sample",
+            "name": "Sample",
+            "url": "http://www.w3.org/ns/sosa/Sample"
+        },
+        {
+            "@type": "DefinedTerm",
+            "description": "For schema, consider https://schema.org/MedicalStudy",
+            "displayName": "Clinical Study",
+            "name": "ClinicalStudy",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15206"
+        },
+        {
+            "@type": "DefinedTerm",
+            "description": "For schema, consider https://schema.org/Patient",
+            "displayName": "Patient",
+            "name": "Patient",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C16960"
+        }
+    ],
+    "abstract": "MWCCS is a NIAID supported IID repository that includes clinical data.",
+    "alternateName": [
+        "MWCCS",
+        "MACS/WIHS Combined Cohort Study"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Alabama at Birmingham"
+            },
+            "familyName": "Brock",
+            "givenName": "James",
+            "name": "James B. Brock"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Alabama at Birmingham"
+            },
+            "familyName": "Dionne-Odom",
+            "givenName": "Jodie",
+            "name": "Jodie Dionne-Odom"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Alabama at Birmingham"
+            },
+            "familyName": "Konkle-Parker",
+            "givenName": "Deborah",
+            "name": "Deborah Konkle-Parker"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Alabama at Birmingham"
+            },
+            "familyName": "Kempf",
+            "givenName": "Mirjam-Colette",
+            "name": "Mirjam-Colette Kempf"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Johns Hopkins University"
+            },
+            "familyName": "Gange",
+            "givenName": "Stephen",
+            "name": "Stephen Gange"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Johns Hopkins University"
+            },
+            "familyName": "Topper",
+            "givenName": "Elizabeth",
+            "name": "Elizabeth Topper"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Johns Hopkins University"
+            },
+            "familyName": "D\u2019Souza",
+            "givenName": "Gypsyamber",
+            "name": "Gypsyamber D\u2019Souza"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of North Carolina at Chapel Hill"
+            },
+            "familyName": "Drummond",
+            "givenName": "M. Bradley",
+            "name": "M. Bradley Drummond"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of North Carolina at Chapel Hill"
+            },
+            "familyName": "Floris-Moore",
+            "givenName": "Michelle",
+            "name": "Michelle Floris-Moore"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Johns Hopkins University"
+            },
+            "familyName": "Margolick",
+            "givenName": "Joseph",
+            "name": "Joseph Margolick"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Johns Hopkins University"
+            },
+            "familyName": "Brown",
+            "givenName": "Todd",
+            "name": "Todd Brown"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "SUNY Downstate Medical Center"
+            },
+            "familyName": "Gustafson",
+            "givenName": "Deborah",
+            "name": "Deborah Gustafson"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "SUNY Downstate Medical Center"
+            },
+            "familyName": "Wilson",
+            "givenName": "Tracey",
+            "name": "Tracey Wilson"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Miami School of Medicine"
+            },
+            "familyName": "Fischl",
+            "givenName": "Margaret",
+            "name": "Margaret Fischl"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Miami School of Medicine"
+            },
+            "familyName": "Jones",
+            "givenName": "Deborah",
+            "name": "Deborah Jones"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Miami School of Medicine"
+            },
+            "familyName": "Alcaide",
+            "givenName": "Maria",
+            "name": "Maria Alcaide"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Albert Einstein College of Medicine"
+            },
+            "familyName": "Hanna",
+            "givenName": "David",
+            "name": "David Hanna"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Albert Einstein College of Medicine"
+            },
+            "familyName": "Sharma",
+            "givenName": "Anjali",
+            "name": "Anjali Sharma"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Albert Einstein College of Medicine"
+            },
+            "familyName": "Anastos",
+            "givenName": "Kathryn",
+            "name": "Kathryn Anastos"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Georgetown University"
+            },
+            "familyName": "Merenstein",
+            "givenName": "Daniel",
+            "name": "Daniel Merenstein"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Georgetown University"
+            },
+            "familyName": "Kassaye",
+            "givenName": "Seble",
+            "name": "Seble Kassaye"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Pittsburgh at Pittsburgh"
+            },
+            "familyName": "Rinaldo",
+            "givenName": "Charles",
+            "name": "Charles Rinaldo"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Pittsburgh at Pittsburgh"
+            },
+            "familyName": "Martinson",
+            "givenName": "Jeremy",
+            "name": "Jeremy Martinson"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Northwestern University at Chicago"
+            },
+            "familyName": "Palella",
+            "givenName": "Frank",
+            "name": "Frank Palella"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Northwestern University at Chicago"
+            },
+            "familyName": "Wolinsky",
+            "givenName": "Steven",
+            "name": "Steven Wolinsky"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Northwestern University at Chicago"
+            },
+            "familyName": "Stosor",
+            "givenName": "Valentina",
+            "name": "Valentina Stosor"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Emory University"
+            },
+            "familyName": "Sheth",
+            "givenName": "Anandi",
+            "name": "Anandi Sheth"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Emory University"
+            },
+            "familyName": "Wingood",
+            "givenName": "Gina",
+            "name": "Gina Wingood"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Emory University"
+            },
+            "familyName": "Ofotokun",
+            "givenName": "Ighovwerha",
+            "name": "Ighovwerha Ofotokun"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of California, San Francisco"
+            },
+            "familyName": "Price",
+            "givenName": "Jennifer",
+            "name": "Jennifer Price"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of California, San Francisco"
+            },
+            "familyName": "Aouizerat",
+            "givenName": "Bradley",
+            "name": "Bradley Aouizerat"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of California, San Francisco"
+            },
+            "familyName": "Tien",
+            "givenName": "Phyllis",
+            "name": "Phyllis Tien"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Hektoen Institute of Medicine"
+            },
+            "familyName": "French",
+            "givenName": "Audrey",
+            "name": "Audrey French"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Hektoen Institute of Medicine"
+            },
+            "familyName": "Cohen",
+            "givenName": "Mardge",
+            "name": "Mardge Cohen"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Hektoen Institute of Medicine"
+            },
+            "familyName": "Ross",
+            "givenName": "Ryan",
+            "name": "Ryan Ross"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of California, Los Angeles"
+            },
+            "familyName": "Mimiaga",
+            "givenName": "Matthew",
+            "name": "Matthew Mimiaga"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of California, Los Angeles"
+            },
+            "familyName": "Detels",
+            "givenName": "Roger",
+            "name": "Roger Detels"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "D'Souza G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bhondoekhan F"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Benning L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Margolick JB"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Adedimeji AA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Adimora AA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Alcaide ML"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cohen MH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Detels R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Friedman MR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Holman S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Konkle-Parker DJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Merenstein D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ofotokun I"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Palella F"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Altekruse S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Brown TT"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tien PC"
+                }
+            ],
+            "datePublished": "2021-08-01",
+            "fromPMID": true,
+            "identifier": "PMID:33675224",
+            "journalName": "American journal of epidemiology",
+            "name": "Characteristics of the MACS/WIHS Combined Cohort Study: Opportunities for Research on Aging With HIV in the Longest US Observational Study of HIV.",
+            "pmid": "33675224",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33675224/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Kaslow RA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ostrow DG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Detels R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Phair JP"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Polk BF"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rinaldo CR Jr"
+                }
+            ],
+            "datePublished": "1987-08-01",
+            "fromPMID": true,
+            "identifier": "PMID:3300281",
+            "journalName": "American journal of epidemiology",
+            "name": "The Multicenter AIDS Cohort Study: rationale, organization, and selected characteristics of the participants.",
+            "pmid": "3300281",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3300281/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Barkan SE"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Melnick SL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Preston-Martin S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Weber K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kalish LA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Miotti P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Young M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Greenblatt R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sacks H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Feldman J"
+                }
+            ],
+            "datePublished": "1998-03-01",
+            "fromPMID": true,
+            "identifier": "PMID:9504278",
+            "journalName": "Epidemiology (Cambridge, Mass.)",
+            "name": "The Women's Interagency HIV Study. WIHS Collaborative Study Group.",
+            "pmid": "9504278",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9504278/"
+        }
+    ],
+    "citedBy": [
+        {
+            "@type": "Collection",
+            "name": "CCS Publications",
+            "url": "https://airtable.com/appRssVqTxNurdU2E/shrcP2mA6bjkAiKZC/tblyDWmThDESuS6re"
+        }
+    ],
+    "collectionSize": [
+        {
+            "@type": "PropertyValue",
+            "minValue": 7300,
+            "unitText": "study participants"
+        },
+        {
+            "@type": "PropertyValue",
+            "minValue": 5000,
+            "unitText": "women"
+        }
+    ],
+    "collectionType": "Data Collection",
+    "conditionsOfAccess": "Restricted",
+    "date": "2025-05-14",
+    "dateCreated": "2024-04-05",
+    "dateModified": "2025-05-14",
+    "datePublished": "2019-01-01",
+    "description": "The MWCCS is a collaborative research effort that aims to understand and reduce the impact of chronic health conditions\u2014including heart, lung, blood, and sleep (HLBS) disorders\u2014that affect people living with HIV. The study is designed to investigate a spectrum of questions relating to the basic science, clinical science, and epidemiology of HIV infection in the U.S., with a focus on comorbidities among men and women living with HIV. ",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146241"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146201"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146204"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146202"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146193"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146245"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146240"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146242"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146333"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146205"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146203"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146208"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146192"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAAA",
+                    "name": "National Institute on Alcohol Abuse and Alcoholism",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIA",
+                    "name": "National Institute On Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIAID",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NCI",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDA",
+                    "name": "National Institute On Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCD",
+                    "name": "National Institute on Deafness and Other Communication Disorders",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDCR",
+                    "name": "National Institute Of Dental & Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIDDK",
+                    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NICHD",
+                    "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NHLBI",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINDS",
+                    "name": "National Institute Of Neurological Disorders And Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMH",
+                    "name": "National Institute Of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NINR",
+                    "name": "National Institute Of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": "NIMHD",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "U01-HL146194"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NCATS",
+                "name": "National Center for Advancing Translational Sciences",
+                "parentOrganization": "National Institutes of Health"
+            },
+            "identifier": "UL1-TR003098"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NCATS",
+                "name": "National Center for Advancing Translational Sciences",
+                "parentOrganization": "National Institutes of Health"
+            },
+            "identifier": "UL1-TR000004"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NCATS",
+                "name": "National Center for Advancing Translational Sciences",
+                "parentOrganization": "National Institutes of Health"
+            },
+            "identifier": "UL1-TR001881"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NIAID",
+                "name": "National Institute Of Allergy And Infectious Diseases",
+                "parentOrganization": "National Institutes of Health"
+            },
+            "identifier": "P30-AI050409"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NIAID",
+                "name": "National Institute Of Allergy And Infectious Diseases",
+                "parentOrganization": "National Institutes of Health"
+            },
+            "identifier": "P30-AI073961"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NIAID",
+                "name": "National Institute Of Allergy And Infectious Diseases",
+                "parentOrganization": "National Institutes of Health"
+            },
+            "identifier": "P30-AI050410"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NIAID",
+                "name": "National Institute Of Allergy And Infectious Diseases",
+                "parentOrganization": "National Institutes of Health"
+            },
+            "identifier": "P30-AI027767"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NIMH",
+                "name": "National Institute Of Mental Health",
+                "parentOrganization": "National Institutes of Health"
+            },
+            "identifier": "P30-MH116867"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NCATS",
+                "name": "National Center for Advancing Translational Sciences",
+                "parentOrganization": "National Institutes of Health"
+            },
+            "identifier": "UL1-TR001409"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NCATS",
+                "name": "National Center for Advancing Translational Sciences",
+                "parentOrganization": "National Institutes of Health"
+            },
+            "identifier": "KL2-TR001432"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": "NCATS",
+                "name": "National Center for Advancing Translational Sciences",
+                "parentOrganization": "National Institutes of Health"
+            },
+            "identifier": "TL1-TR001431"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "U01 HL146205"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2008-04-30",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIDA",
+                        "Instituto Nacional sobre el Abuso de Drogas",
+                        "Instituto Nacional sobre el Abuso de Drogas de Estados Unidos"
+                    ],
+                    "identifier": "https://ror.org/00fq5cm18",
+                    "name": "National Institute on Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "National Heart Lung and Blood Institute"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P30AI051519-01A1",
+            "name": "Center for AIDS Research (CFAR)",
+            "projectNumSplit": {
+                "activityCode": "P30",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "AI",
+                "serialNum": "051519",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2003-05-15",
+            "url": "https://reporter.nih.gov/project-details/6601952"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "U01 HL146208"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "U01 HL146192"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "U01 HL146242"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2026-03-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "The National Institute on Aging",
+                        "NIA",
+                        "NIH NATIONAL INSTITUTE ON AGING",
+                        "U.S. National Institute on Aging"
+                    ],
+                    "identifier": "https://ror.org/049v75w11",
+                    "name": "National Institute on Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIDA",
+                        "Instituto Nacional sobre el Abuso de Drogas",
+                        "Instituto Nacional sobre el Abuso de Drogas de Estados Unidos"
+                    ],
+                    "identifier": "https://ror.org/00fq5cm18",
+                    "name": "National Institute on Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "El Instituto Nacional de Investigaci\u00f3n Dental y Craneofacial",
+                        "Instituto Nacional de Investigaci\u00f3n Dental y Craneofacial",
+                        "NIH National Institute of Dental and Craniofacial Research",
+                        "NIDCR"
+                    ],
+                    "identifier": "https://ror.org/004a2wv92",
+                    "name": "National Institute of Dental and Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "The National Human Genome Research Institute",
+                        "NIH/National Human Genome Research Institute",
+                        "NHGRI"
+                    ],
+                    "identifier": "https://ror.org/00baak391",
+                    "name": "National Human Genome Research Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "National Heart Lung and Blood Institute"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCMHD",
+                        "National Center on Minority Health and Health Disparities",
+                        "NIMHD",
+                        "National Institute on Minority Health & Health Disparities"
+                    ],
+                    "identifier": "https://ror.org/0493hgw16",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NINR",
+                        "National Institute of Nursing Research National Institutes of Health"
+                    ],
+                    "identifier": "https://ror.org/01y3zfr79",
+                    "name": "National Institute of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Neurological Disorders & Stroke",
+                        "NIH/National Institute of Neurological Disorders and Stroke",
+                        "The National Institute of Neurological Disorders and Stroke",
+                        "Instituto Nacional de Trastornos Neurol\u00f3gicos y Accidentes Cerebrovasculares",
+                        "NIH National Institute of Neurological Disorders and Stroke",
+                        "NINDS"
+                    ],
+                    "identifier": "https://ror.org/01s5ya894",
+                    "name": "National Institute of Neurological Disorders and Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01HL146201-01",
+            "name": "Clinical Research Sites for the MACS/WIHS Combined Cohort Study (MACS/WIHS-CCS) - Baltimore/Wash DC Center",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HL",
+                "serialNum": "146201",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2019-04-01",
+            "url": "https://reporter.nih.gov/project-details/9694071"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "U01 HL146193"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "1993-08-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P30AI027763-01",
+            "name": "SAN FRANCISCO CENTER FOR AIDS RESEARCH",
+            "projectNumSplit": {
+                "activityCode": "P30",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "027763",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "1988-09-30",
+            "url": "https://reporter.nih.gov/project-details/3101081"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "1995-03-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01AI035040-01",
+            "name": "NATURAL HISTORY OF AIDS IN HOMOSEXUAL MEN",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "035040",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "1993-04-01",
+            "url": "https://reporter.nih.gov/project-details/3548165"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "U01 HL146194"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "U01 HL146241"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "1993-08-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1P30AI027767-01",
+            "name": "BIRMINGHAM CENTER FOR AIDS RESEARCH",
+            "projectNumSplit": {
+                "activityCode": "P30",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "027767",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "1988-09-30",
+            "url": "https://reporter.nih.gov/project-details/3101088"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2007-07-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIDA",
+                        "Instituto Nacional sobre el Abuso de Drogas",
+                        "Instituto Nacional sobre el Abuso de Drogas de Estados Unidos"
+                    ],
+                    "identifier": "https://ror.org/00fq5cm18",
+                    "name": "National Institute on Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "National Heart Lung and Blood Institute"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "2P30AI050409-04A1",
+            "name": "EMORY/ATLANTA CENTER FOR AIDS RESEARCH(CFAR)",
+            "projectNumSplit": {
+                "activityCode": "P30",
+                "applTypeCode": "2",
+                "fullSupportYear": "04A1",
+                "icCode": "AI",
+                "serialNum": "050409",
+                "suffixCode": "A1",
+                "supportYear": "04"
+            },
+            "startDate": "2002-09-30",
+            "url": "https://reporter.nih.gov/project-details/6465403"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2026-03-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "The National Institute on Aging",
+                        "NIA",
+                        "NIH NATIONAL INSTITUTE ON AGING",
+                        "U.S. National Institute on Aging"
+                    ],
+                    "identifier": "https://ror.org/049v75w11",
+                    "name": "National Institute on Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIDA",
+                        "Instituto Nacional sobre el Abuso de Drogas",
+                        "Instituto Nacional sobre el Abuso de Drogas de Estados Unidos"
+                    ],
+                    "identifier": "https://ror.org/00fq5cm18",
+                    "name": "National Institute on Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "El Instituto Nacional de Investigaci\u00f3n Dental y Craneofacial",
+                        "Instituto Nacional de Investigaci\u00f3n Dental y Craneofacial",
+                        "NIH National Institute of Dental and Craniofacial Research",
+                        "NIDCR"
+                    ],
+                    "identifier": "https://ror.org/004a2wv92",
+                    "name": "National Institute of Dental and Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "The National Human Genome Research Institute",
+                        "NIH/National Human Genome Research Institute",
+                        "NHGRI"
+                    ],
+                    "identifier": "https://ror.org/00baak391",
+                    "name": "National Human Genome Research Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "National Heart Lung and Blood Institute"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCMHD",
+                        "National Center on Minority Health and Health Disparities",
+                        "NIMHD",
+                        "National Institute on Minority Health & Health Disparities"
+                    ],
+                    "identifier": "https://ror.org/0493hgw16",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NINR",
+                        "National Institute of Nursing Research National Institutes of Health"
+                    ],
+                    "identifier": "https://ror.org/01y3zfr79",
+                    "name": "National Institute of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Neurological Disorders & Stroke",
+                        "NIH/National Institute of Neurological Disorders and Stroke",
+                        "The National Institute of Neurological Disorders and Stroke",
+                        "Instituto Nacional de Trastornos Neurol\u00f3gicos y Accidentes Cerebrovasculares",
+                        "NIH National Institute of Neurological Disorders and Stroke",
+                        "NINDS"
+                    ],
+                    "identifier": "https://ror.org/01s5ya894",
+                    "name": "National Institute of Neurological Disorders and Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01HL146333-01",
+            "name": "Los Angeles CRS for the MACS/WIHS Combined Cohort Study",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HL",
+                "serialNum": "146333",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2019-04-15",
+            "url": "https://reporter.nih.gov/project-details/9694107"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIMHD NIH HHS"
+            },
+            "identifier": "R01 MD010680"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "U01 HL146245"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2026-03-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "The National Institute on Aging",
+                        "NIA",
+                        "NIH NATIONAL INSTITUTE ON AGING",
+                        "U.S. National Institute on Aging"
+                    ],
+                    "identifier": "https://ror.org/049v75w11",
+                    "name": "National Institute on Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIDA",
+                        "Instituto Nacional sobre el Abuso de Drogas",
+                        "Instituto Nacional sobre el Abuso de Drogas de Estados Unidos"
+                    ],
+                    "identifier": "https://ror.org/00fq5cm18",
+                    "name": "National Institute on Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "El Instituto Nacional de Investigaci\u00f3n Dental y Craneofacial",
+                        "Instituto Nacional de Investigaci\u00f3n Dental y Craneofacial",
+                        "NIH National Institute of Dental and Craniofacial Research",
+                        "NIDCR"
+                    ],
+                    "identifier": "https://ror.org/004a2wv92",
+                    "name": "National Institute of Dental and Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "The National Human Genome Research Institute",
+                        "NIH/National Human Genome Research Institute",
+                        "NHGRI"
+                    ],
+                    "identifier": "https://ror.org/00baak391",
+                    "name": "National Human Genome Research Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "National Heart Lung and Blood Institute"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCMHD",
+                        "National Center on Minority Health and Health Disparities",
+                        "NIMHD",
+                        "National Institute on Minority Health & Health Disparities"
+                    ],
+                    "identifier": "https://ror.org/0493hgw16",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NINR",
+                        "National Institute of Nursing Research National Institutes of Health"
+                    ],
+                    "identifier": "https://ror.org/01y3zfr79",
+                    "name": "National Institute of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Neurological Disorders & Stroke",
+                        "NIH/National Institute of Neurological Disorders and Stroke",
+                        "The National Institute of Neurological Disorders and Stroke",
+                        "Instituto Nacional de Trastornos Neurol\u00f3gicos y Accidentes Cerebrovasculares",
+                        "NIH National Institute of Neurological Disorders and Stroke",
+                        "NINDS"
+                    ],
+                    "identifier": "https://ror.org/01s5ya894",
+                    "name": "National Institute of Neurological Disorders and Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01HL146204-01",
+            "name": "Clinical Research Sites for the MACS/WIHS Combined Cohort Study  (MACS/WIHS-CCS)",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HL",
+                "serialNum": "146204",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2019-04-01",
+            "url": "https://reporter.nih.gov/project-details/9693975"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2026-03-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "The National Institute on Aging",
+                        "NIA",
+                        "NIH NATIONAL INSTITUTE ON AGING",
+                        "U.S. National Institute on Aging"
+                    ],
+                    "identifier": "https://ror.org/049v75w11",
+                    "name": "National Institute on Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIDA",
+                        "Instituto Nacional sobre el Abuso de Drogas",
+                        "Instituto Nacional sobre el Abuso de Drogas de Estados Unidos"
+                    ],
+                    "identifier": "https://ror.org/00fq5cm18",
+                    "name": "National Institute on Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "El Instituto Nacional de Investigaci\u00f3n Dental y Craneofacial",
+                        "Instituto Nacional de Investigaci\u00f3n Dental y Craneofacial",
+                        "NIH National Institute of Dental and Craniofacial Research",
+                        "NIDCR"
+                    ],
+                    "identifier": "https://ror.org/004a2wv92",
+                    "name": "National Institute of Dental and Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "The National Human Genome Research Institute",
+                        "NIH/National Human Genome Research Institute",
+                        "NHGRI"
+                    ],
+                    "identifier": "https://ror.org/00baak391",
+                    "name": "National Human Genome Research Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "National Heart Lung and Blood Institute"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCMHD",
+                        "National Center on Minority Health and Health Disparities",
+                        "NIMHD",
+                        "National Institute on Minority Health & Health Disparities"
+                    ],
+                    "identifier": "https://ror.org/0493hgw16",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NINR",
+                        "National Institute of Nursing Research National Institutes of Health"
+                    ],
+                    "identifier": "https://ror.org/01y3zfr79",
+                    "name": "National Institute of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Neurological Disorders & Stroke",
+                        "NIH/National Institute of Neurological Disorders and Stroke",
+                        "The National Institute of Neurological Disorders and Stroke",
+                        "Instituto Nacional de Trastornos Neurol\u00f3gicos y Accidentes Cerebrovasculares",
+                        "NIH National Institute of Neurological Disorders and Stroke",
+                        "NINDS"
+                    ],
+                    "identifier": "https://ror.org/01s5ya894",
+                    "name": "National Institute of Neurological Disorders and Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01HL146202-01",
+            "name": "MACS/WIHS Combined Cohort Study: Brooklyn Clinical Research Site (Bklyn CRS)",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HL",
+                "serialNum": "146202",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2019-04-01",
+            "url": "https://reporter.nih.gov/project-details/9694014"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2016-06-30",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH NCATS",
+                        "NCATS",
+                        "NCATS NIH",
+                        "NIH's National Center for Advancing Translational Sciences"
+                    ],
+                    "identifier": "https://ror.org/04pw6fb54",
+                    "name": "National Center for Advancing Translational Sciences",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "8UL1TR000004-07",
+            "name": "Clinical and Translational Science Institute",
+            "projectNumSplit": {
+                "activityCode": "UL1",
+                "applTypeCode": "8",
+                "fullSupportYear": "07",
+                "icCode": "TR",
+                "serialNum": "000004",
+                "suffixCode": "",
+                "supportYear": "07"
+            },
+            "startDate": "2006-09-30",
+            "url": "https://reporter.nih.gov/project-details/8282773"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2026-03-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "The National Institute on Aging",
+                        "NIA",
+                        "NIH NATIONAL INSTITUTE ON AGING",
+                        "U.S. National Institute on Aging"
+                    ],
+                    "identifier": "https://ror.org/049v75w11",
+                    "name": "National Institute on Aging",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIDA",
+                        "Instituto Nacional sobre el Abuso de Drogas",
+                        "Instituto Nacional sobre el Abuso de Drogas de Estados Unidos"
+                    ],
+                    "identifier": "https://ror.org/00fq5cm18",
+                    "name": "National Institute on Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "El Instituto Nacional de Investigaci\u00f3n Dental y Craneofacial",
+                        "Instituto Nacional de Investigaci\u00f3n Dental y Craneofacial",
+                        "NIH National Institute of Dental and Craniofacial Research",
+                        "NIDCR"
+                    ],
+                    "identifier": "https://ror.org/004a2wv92",
+                    "name": "National Institute of Dental and Craniofacial Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "The National Human Genome Research Institute",
+                        "NIH/National Human Genome Research Institute",
+                        "NHGRI"
+                    ],
+                    "identifier": "https://ror.org/00baak391",
+                    "name": "National Human Genome Research Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "National Heart Lung and Blood Institute"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCMHD",
+                        "National Center on Minority Health and Health Disparities",
+                        "NIMHD",
+                        "National Institute on Minority Health & Health Disparities"
+                    ],
+                    "identifier": "https://ror.org/0493hgw16",
+                    "name": "National Institute on Minority Health and Health Disparities",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NINR",
+                        "National Institute of Nursing Research National Institutes of Health"
+                    ],
+                    "identifier": "https://ror.org/01y3zfr79",
+                    "name": "National Institute of Nursing Research",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Neurological Disorders & Stroke",
+                        "NIH/National Institute of Neurological Disorders and Stroke",
+                        "The National Institute of Neurological Disorders and Stroke",
+                        "Instituto Nacional de Trastornos Neurol\u00f3gicos y Accidentes Cerebrovasculares",
+                        "NIH National Institute of Neurological Disorders and Stroke",
+                        "NINDS"
+                    ],
+                    "identifier": "https://ror.org/01s5ya894",
+                    "name": "National Institute of Neurological Disorders and Stroke",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01HL146240-01",
+            "name": "Northwestern CORE Clinical Research Site: Trans-omics for HIV/AIDS Research",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "HL",
+                "serialNum": "146240",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2019-04-10",
+            "url": "https://reporter.nih.gov/project-details/9693999"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHLBI NIH HHS"
+            },
+            "identifier": "U01 HL146203"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2006-07-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NCI",
+                        "Instituto Nacional del C\u00e1ncer"
+                    ],
+                    "identifier": "https://ror.org/040gcmg81",
+                    "name": "National Cancer Institute",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIDA",
+                        "Instituto Nacional sobre el Abuso de Drogas",
+                        "Instituto Nacional sobre el Abuso de Drogas de Estados Unidos"
+                    ],
+                    "identifier": "https://ror.org/00fq5cm18",
+                    "name": "National Institute on Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "National Heart Lung and Blood Institute"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "9P30AI050410-04",
+            "name": "UNC Center for Aids Research",
+            "projectNumSplit": {
+                "activityCode": "P30",
+                "applTypeCode": "9",
+                "fullSupportYear": "04",
+                "icCode": "AI",
+                "serialNum": "050410",
+                "suffixCode": "",
+                "supportYear": "04"
+            },
+            "startDate": "2001-08-20",
+            "url": "https://reporter.nih.gov/project-details/6321754"
+        }
+    ],
+    "genre": "IID",
+    "hasAPI": false,
+    "hasDownload": "Prohibited",
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "infection",
+                "infectious disorder",
+                "communicable disease",
+                "transmissible disease",
+                "infectious",
+                "infectious diseases and manifestations",
+                "infectious disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "fromPMID": true,
+            "identifier": "0005550",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "infectious disease",
+            "originalName": "infectious disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005550"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "AIDS, acquired immunodeficiency syndrome",
+                "acquired immunodeficiency disease",
+                "AIDS",
+                "acquired immune deficiency",
+                "acquired immunodeficiency syndrome, AIDS"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0012268",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "AIDS",
+            "originalName": "AIDS",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0012268"
+        }
+    ],
+    "identifier": "https://mwccs.org/",
+    "inLanguage": {
+        "@type": "Language",
+        "name": "English"
+    },
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://discovery.biothings.io/resource/da18bc66317fc987",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/",
+            "versionDate": "2025-10-16"
+        }
+    ],
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "HIV",
+                "human immunodeficiency virus HIV-1",
+                "human immunodeficiency virus-1 HIV-1",
+                "human immunodeficiency virus 1 HIV-1",
+                "Human immunodeficiencey virus type 1",
+                "human immunodeficiency virus type I HIV-1",
+                "HIV-1",
+                "Human immunodeficiency virus type I",
+                "Human immunodeficiency virus 1",
+                "LAV-1",
+                "human immunodeficiency virus type 1, HIV-1",
+                "AIDS virus",
+                "human immunodeficiency virus type 1 HIV 1",
+                "Human immundeficiency virus type 1",
+                "HIV1",
+                "human immunodeficiency virus type 1 ,HIV-1",
+                "human immunodeficiency virus type-1 HIV-1",
+                "human immunodeficiency virus type 1 HIV1",
+                "human immunodeficiency virus type 1 HIV-1"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "HIV-1",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "HIV-1 | Human immunodeficiency virus type 1",
+            "identifier": "11676",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Human immunodeficiency virus type 1",
+            "originalName": "Human immunodeficiency virus 1",
+            "url": "https://www.uniprot.org/taxonomy/11676"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "HIV",
+                "Human immunodeficiency virus-2",
+                "human immunodeficiency virus type 2 HIV-2",
+                "LAV-2",
+                "human immunodeficiency virus type 2, HIV-2",
+                "HIV-2",
+                "AIDS virus",
+                "HIV2",
+                "HIV type 2",
+                "Human immunodeficiency virus type 2"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Human immunodeficiency virus 2",
+            "identifier": "11709",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Human immunodeficiency virus 2",
+            "originalName": "Human immunodeficiency virus 2",
+            "url": "https://www.uniprot.org/taxonomy/11709"
+        }
+    ],
+    "isBasedOn": [
+        {
+            "@type": "CreativeWork",
+            "alternateName": "MACS",
+            "name": "Multicenter AIDS Cohort Study",
+            "temporalCoverage": "1984/2019"
+        },
+        {
+            "@type": "CreativeWork",
+            "alternateName": "WIHS",
+            "name": "Women\u2019s Interagency HIV Study",
+            "temporalCoverage": "1993/2019"
+        }
+    ],
+    "keywords": [
+        "Cohort Study",
+        "Longitudinal Study",
+        "HIV Surveys, Incidence and Prevalence"
+    ],
+    "license": "https://statepi.jhsph.edu/mwccs/data-sharing/",
+    "mainEntityOfPage": "https://statepi.jhsph.edu/mwccs/",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Survey",
+                "Survey Instrument",
+                "survey"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Survey",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C17176"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Questionnaire",
+                "Questionnaires",
+                "questionnaire"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Questionnaire",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C17048"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "ADO",
+            "isCurated": true,
+            "name": "specimen collection",
+            "url": "http://purl.obolibrary.org/obo/OBI_0000659"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "ECO",
+            "isCurated": true,
+            "name": "hematology assay",
+            "url": "http://purl.obolibrary.org/obo/OBI_0000630"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "ECO",
+            "isCurated": true,
+            "name": "metabolite profiling assay",
+            "url": "http://purl.obolibrary.org/obo/OBI_0000366"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "ECO",
+            "isCurated": true,
+            "name": "urine assay",
+            "url": "http://purl.obolibrary.org/obo/OBI_0003043"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "CHMO",
+            "isCurated": true,
+            "name": "imaging assay",
+            "url": "http://purl.obolibrary.org/obo/OBI_0000185"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "ECO",
+            "isCurated": true,
+            "name": "electrophysiology assay",
+            "url": "http://purl.obolibrary.org/obo/OBI_0002176"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "CHMO",
+            "isCurated": true,
+            "name": "analyte assay",
+            "url": "http://purl.obolibrary.org/obo/OBI_0000443"
+        }
+    ],
+    "name": "The Multicenter AIDS Cohort Study (MACS) / Women\u2019s Interagency HIV Study (WIHS) Combined Cohort Study",
+    "sdPublisher": {
+        "@type": "DataCatalog",
+        "name": "Data Discovery Engine",
+        "url": "https://discovery.biothings.io/portal/nde"
+    },
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "abstract": "The Centers for AIDS Research (CFAR) provides administrative and research support to enhance and coordinate high-quality HIV/AIDS research. This program fosters collaboration across disciplines to advance scientific discoveries and improve patient outcomes.",
+            "alternateName": [
+                "CFAR",
+                "Centers for AIDS Research"
+            ],
+            "correctionApproved": true,
+            "description": "The Centers for AIDS Research (CFAR) program at the National Institutes of Health provides administrative and shared research support to synergistically enhance and coordinate high quality AIDS research projects. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/centers-aids-research",
+            "name": "NIAID CFAR Program",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.niaid.nih.gov/research/about-centers-aids-research"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The HIV Prevention Trials Network (HPTN) conducts clinical trials to evaluate the safety and efficacy of non-vaccine HIV prevention strategies. Research areas include pre-exposure prophylaxis, behavioral interventions, and novel biomedical approaches to reduce HIV transmission.",
+            "alternateName": [
+                "HPTN",
+                "HIV Prevention Trials Network"
+            ],
+            "correctionApproved": true,
+            "description": "The HIV Prevention Trials Network (HPTN) develops and tests the safety and efficacy of primarily non-vaccine interventions designed to prevent the transmission of HIV. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/hiv-prevention-trials-network",
+            "name": "NIAID HPTN Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.hptn.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The HIV Vaccine Trials Network (HVTN) is the world\u2019s largest publicly funded collaboration for evaluating HIV vaccines. In addition to advancing HIV vaccine research, the network contributes to studies on tuberculosis, COVID-19, and immunology.",
+            "alternateName": [
+                "HVTN",
+                "HIV Vaccine Trials Network"
+            ],
+            "correctionApproved": true,
+            "description": "The HIV Vaccine Trials Network (HVTN) is the world\u2019s largest publicly funded international collaboration facilitating the evaluation of vaccines to prevent HIV/AIDS. The HVTN helps advance the fields of vaccinology, social and behavioral sciences, statistics, and immunology, as well as tuberculosis and COVID-19 vaccines. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/hiv-vaccine-trials-network",
+            "name": "NIAID HVTN Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "http://www.hvtn.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Network is a global network conducting clinical trials to prevent and treat HIV in infants, children, adolescents, and pregnant or postpartum women. The network brings together investigators, institutions, and community representatives to advance HIV research and care.",
+            "alternateName": [
+                "IMPAACT",
+                "The International Maternal Pediatric Adolescent AIDS Clinical Trials Network"
+            ],
+            "correctionApproved": true,
+            "description": "The International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Network is a global collaboration of investigators, institutions, community representatives and other partners organized for the purpose of evaluating interventions to treat and prevent HIV infection and its consequences in infants, children, adolescents, and pregnant/postpartum women through the conduct of high quality clinical trials. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/impaact",
+            "name": "NIAID IMPAACT Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.impaactnetwork.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The International Epidemiology Databases to Evaluate AIDS (IeDEA) Cohort Consortium is a global research consortium that harmonizes and pools HIV/AIDS data from seven international regions. This collaborative effort supports large-scale epidemiological studies to improve HIV/AIDS treatment and prevention strategies worldwide.",
+            "alternateName": [
+                "IeDEA",
+                "International Epidemiology Databases to Evaluate AIDS Cohort Consortium"
+            ],
+            "correctionApproved": true,
+            "description": "The International Epidemiology Databases to Evaluate AIDS (IeDEA) Cohort Consortium collaborates to collect and define key variables, harmonize data, and implement methodology to effectively pool data as a cost-effective means of generating large data sets. IeDEA collects HIV/AIDS data from seven international regional data centers, including four in Africa, and one each in the Asia-Pacific region, the Central/South America/Caribbean region, and North America. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/iedea-cohort-consortium",
+            "name": "NIAID IeDEA Consortium",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "http://www.iedea.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The United States President\u2019s Emergency Plan for AIDS Relief (PEPFAR) is a U.S. government initiative dedicated to combating HIV/AIDS worldwide through treatment, prevention, and care programs. It represents the largest international commitment by any nation to fight a single disease.",
+            "alternateName": [
+                "PEPFAR",
+                "U.S. President's Emergency Plan for AIDS Relief"
+            ],
+            "correctionApproved": true,
+            "description": "The United States President\u2019s Emergency Plan for AIDS Relief (PEPFAR) is the U.S. government initiative to help save the lives of those living with and affected by HIV/AIDS around the world. This historic commitment is the largest by any nation to combat a single disease internationally, and PEPFAR investments also help alleviate suffering from other diseases across the global health spectrum. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/president-emergency-plan-aids-relief",
+            "name": "PEPFAR",
+            "parentOrganization": [
+                "U.S. Department of State"
+            ],
+            "url": "https://www.pepfar.gov/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The Division of AIDS (DAIDS) leads the national HIV/AIDS research agenda, supporting a global portfolio to advance biological knowledge and treatment of HIV/AIDS and related co-infections. The division funds studies to develop new therapies, vaccines, and prevention strategies.",
+            "alternateName": [
+                "DAIDS",
+                "The Division of AIDS"
+            ],
+            "correctionApproved": false,
+            "description": "The Division of AIDS (DAIDS) was formed to develop and implement the national research agenda to address the HIV/AIDS epidemic. Toward that end, the division supports a global research portfolio to advance biological knowledge of HIV/AIDS, its related co-infections, and co-morbidities.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/about/daids",
+            "name": "NIAID DAIDS",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.niaid.nih.gov/about/daids"
+        }
+    ],
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Homo sapeins",
+                "Homo sapiens (SIRT6)",
+                "Humo sapiens",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Human",
+                "human",
+                "Home sapiens",
+                "Homo spaiens",
+                "Homo sapian",
+                "Homo sapien",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spiens",
+                "Homo sapience",
+                "Homo sapiens (PARIS)",
+                "Homo sapians"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "Homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "temporalCoverage": {
+        "@type": "TemporalInterval",
+        "duration": "1984/..",
+        "startDate": "1984-01-01",
+        "temporalType": "collection"
+    },
+    "topicCategory": {
+        "@type": "DefinedTerm",
+        "url": [
+            "http://edamontology.org/topic_0804",
+            "http://edamontology.org/topic_3277",
+            "http://edamontology.org/topic_3305",
+            "http://edamontology.org/topic_3324"
+        ]
+    },
+    "url": "https://mwccs.org/",
+    "usageInfo": {
+        "@type": "CreativeWork",
+        "name": "MWCCS DACC Resource Request Info",
+        "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2022/11/MWCCS-DACC-Resource-Request-Form_final11922.pdf"
+    },
+    "variableMeasured": [
+        {
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "ADO",
+            "isCurated": true,
+            "name": "blood measurement",
+            "url": "http://purl.obolibrary.org/obo/CMO_0000035"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "CMO",
+            "isCurated": true,
+            "name": "disease process measurement",
+            "url": "http://purl.obolibrary.org/obo/CMO_0001107"
+        },
+        {
+            "alternateName": [
+                "Not4Curation"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "CMO",
+            "isCurated": true,
+            "name": "mortality/survival measurement",
+            "url": "http://purl.obolibrary.org/obo/CMO_0001020"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "CMO",
+            "isCurated": true,
+            "name": "immune system measurement",
+            "url": "http://purl.obolibrary.org/obo/CMO_0001579"
+        },
+        {
+            "alternateName": [
+                "renal system measurement"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "CMO",
+            "isCurated": true,
+            "name": "renal/urinary measurement",
+            "url": "http://purl.obolibrary.org/obo/CMO_0000080"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "ADO",
+            "isCurated": true,
+            "name": "cardiovascular measurement",
+            "url": "http://purl.obolibrary.org/obo/CMO_0000001"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "EPIO",
+            "isCurated": true,
+            "name": "respiratory system measurement",
+            "url": "http://purl.obolibrary.org/obo/CMO_0000094"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "CMO",
+            "isCurated": true,
+            "name": "nervous system measurement",
+            "url": "http://purl.obolibrary.org/obo/CMO_0001232"
+        },
+        {
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "CMO",
+            "isCurated": true,
+            "name": "tumor measurement",
+            "url": "http://purl.obolibrary.org/obo/CMO_0000341"
+        },
+        {
+            "alternateName": [
+                "whole body physiological measurement"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "CMO",
+            "isCurated": true,
+            "name": "whole body physiology measurement",
+            "url": "http://purl.obolibrary.org/obo/CMO_0003954"
+        }
+    ]
+}

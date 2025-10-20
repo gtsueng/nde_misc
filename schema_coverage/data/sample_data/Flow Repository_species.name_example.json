@@ -1,0 +1,143 @@
+{
+    "@type": "Dataset",
+    "_id": "flow_fr-fcm-z2s6",
+    "_score": 10.037086,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "name": "Institut de recherches cliniques de Montr\u00e9al, Mechanisms of genetic diversity, Montr\u00e9al, Qu\u00e9bec (Canada)"
+                }
+            ],
+            "name": "Javier Di Noia"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "date": "2020-08-01",
+    "dateModified": "2020-08-01",
+    "datePublished": "2020-08-01",
+    "description": "To determine the effect of p53 on the type of lymphomas found in Ung ko, Aicda ko and dKO mice",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "http://flowrepository.org/experiments/510/download_ziped_files",
+        "dateModified": "2020-08-01",
+        "name": "FCS files"
+    },
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "lymphoma (Hodgkin and non-Hodgkin)",
+                "lymphoma (Hodgkin's and non-Hodgkin's)",
+                "malignant lymphoma",
+                "lymphoid cancer",
+                "lymphoma, malignant",
+                "lymphomatous",
+                "lymphoma"
+            ],
+            "curatedBy": {
+                "dateModified": "2024-11-26",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0005062",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "lymphoma",
+            "originalName": "lymphomas",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005062"
+        }
+    ],
+    "identifier": "FR-FCM-Z2S6",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "http://flowrepository.org/id/FR-FCM-Z2S6",
+        "name": "Flow Repository",
+        "url": "http://flowrepository.org/",
+        "versionDate": "2025-07-05"
+    },
+    "keywords": [
+        "p53",
+        "aicda",
+        "ung",
+        "lymphoma incidence"
+    ],
+    "license": "http://flowrepository.org/terms_of_service",
+    "measurementTechnique": {
+        "@type": "DefinedTerm",
+        "curatedBy": {
+            "dateModified": "2025-07-05",
+            "name": "Flow Repository",
+            "url": "http://flowrepository.org/"
+        },
+        "inDefinedTermSet": "MMO",
+        "isCurated": true,
+        "name": "flow cytometry method",
+        "url": "http://purl.obolibrary.org/obo/MMO_0000617"
+    },
+    "name": "Influence of p53 on lymphoma type and incidence",
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "mice"
+            ],
+            "classification": "host",
+            "displayName": "Mus sp.",
+            "fromEXTRACT": true,
+            "identifier": "10095",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Mus sp.",
+            "originalName": "mice",
+            "url": "https://www.uniprot.org/taxonomy/10095"
+        }
+    ],
+    "temporalCoverage": {
+        "@type": "TemporalInterval",
+        "endDate": "2017-01-01",
+        "startDate": "2012-10-01",
+        "temporalType": "study date"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3679",
+            "inDefinedTermSet": "EDAM",
+            "name": "Animal study",
+            "url": "http://edamontology.org/topic_3679"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3053",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genetics",
+            "url": "http://edamontology.org/topic_3053"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2640",
+            "inDefinedTermSet": "EDAM",
+            "name": "Oncology",
+            "url": "http://edamontology.org/topic_2640"
+        }
+    ],
+    "url": "http://flowrepository.org/id/FR-FCM-Z2S6"
+}

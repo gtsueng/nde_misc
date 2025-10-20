@@ -1,0 +1,73 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dataverse_10.7910_dvn_1tcfii",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 7.7842293,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Wroclaw University of Science and Technology"
+            },
+            "name": "Saganowski, Stanis\u0142aw"
+        }
+    ],
+    "date": "2020-06-14",
+    "dateModified": "2020-06-14",
+    "datePublished": "2020-06-14",
+    "description": "The cybersecurity NER corpus 2019 contains two corpora: soft_flaw - 1000 binary annotated tweets (TRUE: tweet mentions a software/system/device related security issue (vulnerability, exploit, patch), a malware, or a hacking method; FALSE: otherwise) class distribution: TRUE - 283, FALSE - 717 soft_flaw_NER - ca. 1000 NER annotations marking the name of the software/system/device/company with a security related issue, or the name of a malware   The same tweet might be included in both corpora, however the vast majority of tweets is different across two corpora. Files are in the jsonl format.",
+    "distribution": [
+        {
+            "@id": "10.7910/DVN/1TCFII/I9UYFA",
+            "@type": "DataDownload",
+            "contentUrl": "https://doi.org/10.7910/DVN/1TCFII/I9UYFA",
+            "description": "1000 binary annotated tweets (TRUE: tweet mentions a software/sytem/device related security issue (vulnerability, exploit, patch), a malware software, or a hacking method; FALSE: otherwise)",
+            "encodingFormat": "application/octet-stream",
+            "name": "soft_flaw.jsonl"
+        },
+        {
+            "@id": "10.7910/DVN/1TCFII/KXA0HL",
+            "@type": "DataDownload",
+            "contentUrl": "https://doi.org/10.7910/DVN/1TCFII/KXA0HL",
+            "description": "ca. 1000 NER annotated tweets (the annotation marks the name of the software/system/device/company with a security related issue, or the name of a malware software",
+            "encodingFormat": "application/octet-stream",
+            "name": "soft_flaw_NER.jsonl"
+        }
+    ],
+    "doi": "https://doi.org/10.7910/DVN/1TCFII",
+    "identifier": "10.7910/DVN/1TCFII",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://doi.org/10.7910/DVN/1TCFII",
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/",
+        "versionDate": "2025-04-07"
+    },
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "classification": "infectiousAgent",
+            "displayName": "Binary",
+            "fromEXTRACT": true,
+            "identifier": "2775475",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Binary",
+            "originalName": "binary",
+            "url": "https://www.uniprot.org/taxonomy/2775475"
+        }
+    ],
+    "keywords": "Computer and Information Science",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "name": "Cybersecurity NER corpus 2019",
+    "sdPublisher": [
+        {
+            "@type": "Organization",
+            "name": "Harvard Dataverse"
+        }
+    ],
+    "url": "https://doi.org/10.7910/DVN/1TCFII"
+}

@@ -1,0 +1,181 @@
+{
+    "@type": "Dataset",
+    "_id": "ndex_795ff1a7-382c-11ec-b3be-0ac135e8bacf",
+    "_score": 8.46287,
+    "author": {
+        "@type": "Person",
+        "name": "Nolan Scheible, Paige M. Henning, Andrew G. McCubbin"
+    },
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Scheible N"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Henning PM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "McCubbin AG"
+                }
+            ],
+            "datePublished": "2024-02-03",
+            "fromPMID": true,
+            "identifier": "PMID:38337984",
+            "journalName": "Plants (Basel, Switzerland)",
+            "name": "Calmodulin-Domain Protein Kinase PiCDPK1 Interacts with the 14-3-3-like Protein NtGF14 to Modulate Pollen Tube Growth.",
+            "pmid": "38337984",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38337984/"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "date": "2024-06-11",
+    "dateCreated": "2021-10-28T20:20:20.770000",
+    "dateModified": "2024-06-11T15:36:00.663000",
+    "description": "STRING generated network of close A. thaliana homologs.\u00a0",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentSize": 388843
+    },
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "no apparent adverse event",
+                "does not apply",
+                "na",
+                "not applicable",
+                "n/a",
+                "no unit of measure required"
+            ],
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "C48660",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Not Applicable",
+            "originalName": "not applicable",
+            "sameas": [
+                {
+                    "identifier": "IMDRF:A25",
+                    "url": "http://purl.obolibrary.org/obo/IMDRF_A25"
+                }
+            ],
+            "url": "http://purl.obolibrary.org/obo/NCIT_C48660"
+        }
+    ],
+    "identifier": "795ff1a7-382c-11ec-b3be-0ac135e8bacf",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ndexbio.org/viewer/networks/795ff1a7-382c-11ec-b3be-0ac135e8bacf",
+        "name": "NDEx",
+        "url": "https://www.ndexbio.org/",
+        "versionDate": "2025-07-05"
+    },
+    "isRelatedTo": [
+        {
+            "url": "https://doi.org/10.3390/plants13030451"
+        }
+    ],
+    "keywords": [
+        "pollen tube elongation",
+        "full STRING network",
+        "first neighbors of GOI"
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "name": "string",
+            "url": "http://purl.obolibrary.org/obo/MI_1014"
+        }
+    ],
+    "name": "First neighbors of GF14",
+    "sameAs": [
+        "https://doi.org/10.3390/plants13030451"
+    ],
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Arabidopsis thaliana (thale cress)",
+                "thale-cress",
+                "Arabis thaliana L., 1753",
+                "Arabis thaliana",
+                "thale cress",
+                "Mouse-ear cress",
+                "Arbisopsis thaliana",
+                "mouse-ear cress",
+                "thale kress",
+                "Arabidopsis thaliana (L.) Heynh., 1842",
+                "Arabidopsis_thaliana"
+            ],
+            "classification": "host",
+            "commonName": "Mouse-ear cress",
+            "curatedBy": {
+                "dateModified": "2024-01-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Mouse-ear cress | Arabidopsis thaliana",
+            "identifier": "3702",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Arabidopsis thaliana",
+            "originalName": "Arabidopsis thaliana",
+            "url": "https://www.uniprot.org/taxonomy/3702"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "identifier": "topic_0602",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular interactions, pathways and networks",
+            "url": "http://edamontology.org/topic_0602"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0780",
+            "inDefinedTermSet": "EDAM",
+            "name": "Plant biology",
+            "url": "http://edamontology.org/topic_0780"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0622",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genomics",
+            "url": "http://edamontology.org/topic_0622"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0091",
+            "inDefinedTermSet": "EDAM",
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
+        }
+    ],
+    "url": "https://www.ndexbio.org/viewer/networks/795ff1a7-382c-11ec-b3be-0ac135e8bacf"
+}

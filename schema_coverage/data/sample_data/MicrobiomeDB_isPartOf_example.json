@@ -5,11 +5,12 @@
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 15.050478,
+    "_score": 14.801707,
     "abstract": "Maturation of the human gut microbiome in the first 2 years of life in children from four particpating sites in the MAL-ED study",
     "alternateName": "MicrobiomeStudyEDA_MALED_healthy_RSRC",
     "author": [
         {
+            "@type": "Person",
             "affiliation": {
                 "name": "Washington University School of Medicine in St. Louis"
             },
@@ -18,6 +19,7 @@
     ],
     "citation": [
         {
+            "@type": "ScholarlyArticle",
             "author": [
                 {
                     "@type": "Person",
@@ -129,18 +131,21 @@
     "description": "The Etiology, Risk Factors, and Interactions of Enteric Infections and Malnutrition and the Consequences for Child Health (MAL-ED) Study, led by the Fogarty International Center of the National Institutes of Health and the Foundation for the National Institutes of Health, has been established at sites in 8 countries with historically high incidence of diarrheal disease and undernutrition to examine the central hypothesis that enteropathogen infection contributes to undernutrition by causing intestinal inflammation and/or by altering intestinal barrier and absorptive function. Although ~60,000 samples were collected longitudinally from 2,145 participants enrolled at 8 sites in MAL-ED cohort study, the MAL-ED healthy sub-study restricted microbiome analyses to ~1000 longitudinal stool samples collected from just 50 participants at 4 sites. These participants were selected as a 'healthy' cohort where health was defined as height-for-age and weight-for-height Z-scores (HAZ, WHZ) consistently no more than 1.5 standard deviations below the median calculated from a WHO reference healthy growth cohort described here.\nThis study set out to define the normal maturation of the gut microbiome during the first 2 years of postnatal life.\n50 children from four sites in the MAL-ED study: Brazil, India, Peru and South Africa.\n1091 stool samples; V4 region of 16S rRNA gene.\nProspective cohort design with monthly sampling for the first ~2 years of life.\nAdditional clinical and epidemiologic data for the same participants is available at ClinEpiDB.org.",
     "distribution": [
         {
+            "@type": "DataDownload",
             "contentUrl": "https://microbiomedb.org/mbio/app/downloads/release-29/72c94486c6946058be76735af82efb99bb023f00",
             "datePublished": "2022-08-30",
             "identifier": "DS_72c94486c6",
             "name": "MicrobiomeStudyEDA_MALED_healthy_RSRC"
         },
         {
+            "@type": "DataDownload",
             "contentUrl": "https://microbiomedb.org/mbio/app/downloads/release-32/72c94486c6946058be76735af82efb99bb023f00",
             "datePublished": "2023-05-30",
             "identifier": "DS_72c94486c6",
             "name": "MicrobiomeStudyEDA_MALED_healthy_RSRC"
         },
         {
+            "@type": "DataDownload",
             "contentUrl": "https://microbiomedb.org/mbio/app/downloads/release-37/72c94486c6946058be76735af82efb99bb023f00",
             "datePublished": "2024-05-07",
             "identifier": "DS_72c94486c6",
@@ -149,9 +154,11 @@
     ],
     "funding": [
         {
+            "@type": "MonetaryGrant",
             "endDate": "2002-08-31",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -177,9 +184,11 @@
             "url": "https://reporter.nih.gov/project-details/2687389"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "1987-12-31",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "NIH/National Institute of Diabetes, Digestive & Kidney Diseases",
                         "NIH National Institute of Diabetes and Digestive and Kidney Diseases",
@@ -207,6 +216,7 @@
     ],
     "healthCondition": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "enteritis of small intestine",
                 "enteritis",
@@ -221,6 +231,7 @@
             "url": "http://purl.obolibrary.org/obo/MONDO_0043579"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "malnourished",
                 "malnutrition"
@@ -238,10 +249,11 @@
         "archivedAt": "https://microbiomedb.org/mbio/app/record/dataset/DS_72c94486c6",
         "name": "MicrobiomeDB",
         "url": "https://microbiomedb.org/mbio/app",
-        "versionDate": "2025-08-23"
+        "versionDate": "2025-10-11"
     },
     "isPartOf": [
         {
+            "@type": "ScholarlyArticle",
             "alternateName": "mbio",
             "name": "MicrobiomeDB"
         }
@@ -261,6 +273,7 @@
     ],
     "name": "MAL-ED 0-2yr",
     "sdPublisher": {
+        "@type": "Organization",
         "identifier": "DS_72c94486c6",
         "name": "ClinEpiDB",
         "url": "https://clinepidb.org/ce/app/record/dataset/DS_3dbf92dc05"

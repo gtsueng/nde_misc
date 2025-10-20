@@ -1,0 +1,220 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "gse232311",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 5.3090935,
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Ciccarelli M"
+        },
+        {
+            "@type": "Person",
+            "name": "Masser AE"
+        },
+        {
+            "@type": "Person",
+            "name": "Mohanakrishnan Kaimal J"
+        },
+        {
+            "@type": "Person",
+            "name": "Planells J"
+        },
+        {
+            "@type": "Person",
+            "name": "Andr\u00e9asson C"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Ciccarelli M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Masser AE"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kaimal JM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Planells J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Andreasson C"
+                }
+            ],
+            "datePublished": "2023-09-01",
+            "fromPMID": true,
+            "identifier": "PMID:37467033",
+            "journalName": "Molecular biology of the cell",
+            "name": "Genetic inactivation of essential HSF1 reveals an isolated transcriptional stress response selectively induced by protein misfolding.",
+            "pmid": "37467033",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37467033/"
+        }
+    ],
+    "date": "2023-08-22",
+    "dateModified": "2023-08-22",
+    "datePublished": "2023-05-11",
+    "description": "Heat Shock Factor 1 (Hsf1) in yeast drives the basal transcription of key proteostasis factors and its activity is induced as part of the core heat shock response. In this study we stringently test the role of Hsf1 under basal and stress conditions using a newly constructed hsf1\u2206 strain.To assess how cells mount transcriptional stress responses when Hsf1 is inactivated, we performed mRNA-sequencing (mRNA-seq) upon hear shock (HS) or treatment with azetidine-2-carboxylic acid (AzC).\nComparative gene expression profiling analysis of mRNA-seq data for the hsf1\u2206, WT, HSF1 and msn2/4\u2206strains. The experimet has been performed in triplicate. The WT strain was used as a control",
+    "distribution": {
+        "@type": "dataDownload",
+        "contentUrl": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE232311"
+    },
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "stress",
+                "Stress"
+            ],
+            "fromPMID": true,
+            "identifier": "C35041",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": false,
+            "name": "Stress",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C35041"
+        }
+    ],
+    "identifier": "GSE232311",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE232311",
+        "name": "NCBI GEO",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/",
+        "versionDate": "2025-02-08"
+    },
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Saccharomyce cerevisiae",
+                "specimen-voucher:NRRL:Y:12632",
+                "Candida robusta",
+                "Saccharomyces oviformis",
+                "Saccharomyces cerevisiae (Desm.) Meyen, 1838",
+                "CBS 1171",
+                "Saccharomyces capensis",
+                "S. cerevisiae",
+                "Saccharomyces uvarum var. melibiosus",
+                "NRRL Y-12632",
+                "ATCC 18824",
+                "Baker's yeast",
+                "Sccharomyces cerevisiae",
+                "Saccharomyces italicus",
+                "Saccaromyces cerevisiae",
+                "Sacchromyces cerevisiae",
+                "baker's yeast",
+                "Saccharomyes cerevisiae",
+                "Mycoderma cerevisiae Desm., 1827",
+                "brewer's yeast",
+                "Mycoderma cerevisiae"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "Baker's yeast",
+            "curatedBy": {
+                "dateModified": "2024-01-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Baker's yeast | Saccharomyces cerevisiae",
+            "identifier": "4932",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Saccharomyces cerevisiae",
+            "originalName": "Saccharomyces cerevisiae",
+            "url": "https://www.uniprot.org/taxonomy/4932"
+        }
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "name": "Expression profiling by high throughput sequencing"
+        }
+    ],
+    "name": "Genetic inactivation of essential HSF1 reveals an isolated transcriptional stress response selectively induced by protein misfolding",
+    "publisher": {
+        "@type": "Organization",
+        "name": "University of Stockholm"
+    },
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Norway rat",
+                "rat",
+                "Wistar rats",
+                "Rat",
+                "rats",
+                "zitter rats",
+                "Rattus norwegicus",
+                "laboratory rat",
+                "Buffalo rat",
+                "Sprague-Dawley rat",
+                "Rattus sp. strain Wistar",
+                "Mus norvegicus",
+                "Mus norvegicus Berkenhout, 1769",
+                "brown rat",
+                "Rattus norvegicus8",
+                "Rattus PC12 clone IS"
+            ],
+            "classification": "host",
+            "commonName": "Rat",
+            "displayName": "Rat | Rattus norvegicus",
+            "fromPMID": true,
+            "identifier": "10116",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Rattus norvegicus",
+            "url": "https://www.uniprot.org/taxonomy/10116"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0749",
+            "inDefinedTermSet": "EDAM",
+            "name": "Transcription factors and regulatory sites",
+            "url": "http://edamontology.org/topic_0749"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3053",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genetics",
+            "url": "http://edamontology.org/topic_3053"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0130",
+            "inDefinedTermSet": "EDAM",
+            "name": "Protein folding, stability and design",
+            "url": "http://edamontology.org/topic_0130"
+        }
+    ],
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE232311"
+}

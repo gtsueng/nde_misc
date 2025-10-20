@@ -1,0 +1,75 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dataverse_10.7910_dvn_1vcors",
+    "_ignored": [
+        "all.keyword",
+        "spatialCoverage.name.keyword"
+    ],
+    "_score": 7.7842293,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Instituto Juan March"
+            },
+            "familyName": "MAYORAL D\u00cdAZ-ASENSIO",
+            "givenName": "JUAN ANTONIO",
+            "name": "JUAN ANTONIO MAYORAL D\u00cdAZ-ASENSIO"
+        }
+    ],
+    "date": "2010-05-24",
+    "dateModified": "2010-05-23",
+    "datePublished": "2010-05-24",
+    "description": "This is a derived dataset from the replication dataset for the \u201cDeveloping Countries and GATT/WTO Dispute Settlement\u201d Journal of World Trade, 37:4 (2003), 719-735 by Eric Reinhardt and completed with the inclusion of new variables: exports, imports, bilateral economic aid, etc. The dataset includes 380 concluded GATT/WTO disputes filed from 1 January 1980 to 31 December 2000.",
+    "distribution": [
+        {
+            "@id": "10.7910/DVN/1VCORS/5JHGWD",
+            "@type": "DataDownload",
+            "contentUrl": "https://doi.org/10.7910/DVN/1VCORS/5JHGWD",
+            "description": "",
+            "encodingFormat": "text/tab-separated-values",
+            "name": "Dataset GATT-WTO Dispute Settement 1980-2000.tab"
+        },
+        {
+            "@id": "10.7910/DVN/1VCORS/3WKL5N",
+            "@type": "DataDownload",
+            "contentUrl": "https://doi.org/10.7910/DVN/1VCORS/3WKL5N",
+            "description": "This file contains information about the variables and codes used in the dataset.",
+            "encodingFormat": "application/msword",
+            "name": "VARIABLES AND CODES.doc"
+        }
+    ],
+    "doi": "https://doi.org/10.7910/DVN/1VCORS",
+    "identifier": "10.7910/DVN/1VCORS",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://doi.org/10.7910/DVN/1VCORS",
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/",
+        "versionDate": "2025-04-07"
+    },
+    "keywords": [],
+    "license": "http://creativecommons.org/publicdomain/zero/1.0",
+    "name": "GATT/WTO Dispute Settlement System (1980-2000)",
+    "sdPublisher": [
+        {
+            "@type": "Organization",
+            "name": "Harvard Dataverse"
+        }
+    ],
+    "spatialCoverage": [
+        {
+            "@type": "Place",
+            "name": "Argentina,Australia,Austria,Brazil,Canada,Chile,Colombia,Costa Rica,Cote d'Ivoire,Czech Republic,Dominican Republic,Ecuador,El Salvador,European Community,Finland,Guatemala,Honduras,Hong Kong,India,Indonesia,Japan,Korea, Republic of,Malaysia,Mexico,Netherlands,New Zealand,Nicaragua,Norway,Pakistan,Panama,Peru,Philippines,Poland,Portugal,Singapore,South Africa,Spain,Sri Lanka,Sweden,Switzerland,Thailand,United Kingdom,United States,Uruguay,Venezuela,Zimbabwe"
+        }
+    ],
+    "temporalCoverage": [
+        {
+            "@type": "TemporalInterval",
+            "duration": "1980/2000"
+        }
+    ],
+    "url": "https://doi.org/10.7910/DVN/1VCORS"
+}

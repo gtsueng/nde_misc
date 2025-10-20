@@ -1,233 +1,79 @@
 {
     "@type": "Dataset",
-    "_id": "mendeley_92vsw5bwr3",
-    "_score": 6.267183,
+    "_id": "mendeley_2w5htc6zg6",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 5.979607,
     "author": [
         {
-            "familyName": "Jackson",
-            "givenName": "Tom",
-            "name": "Tom Jackson"
-        },
-        {
-            "familyName": "Sammut",
-            "givenName": "Eva",
-            "name": "Eva Sammut"
-        },
-        {
-            "familyName": "rinaldi",
-            "givenName": "aldo",
-            "name": "aldo rinaldi"
-        },
-        {
-            "familyName": "razavi",
-            "givenName": "reza",
-            "name": "reza razavi"
-        },
-        {
-            "familyName": "carr-white",
-            "givenName": "gerald",
-            "name": "gerald carr-white"
-        },
-        {
-            "familyName": "Webb",
-            "givenName": "Jessica",
-            "name": "Jessica Webb"
-        },
-        {
-            "familyName": "Claridge",
-            "givenName": "Simon",
-            "name": "Simon Claridge"
-        },
-        {
-            "familyName": "Behar",
-            "givenName": "Jonathan",
-            "name": "Jonathan Behar"
-        },
-        {
-            "familyName": "Sohal",
-            "givenName": "Manav",
-            "name": "Manav Sohal"
-        },
-        {
-            "familyName": "amraoui",
-            "givenName": "sana",
-            "name": "sana amraoui"
-        },
-        {
-            "familyName": "Sienecwicz",
-            "givenName": "Ben",
-            "name": "Ben Sienecwicz"
+            "@type": "Person",
+            "familyName": "Verwaeren",
+            "givenName": "Jan",
+            "name": "Jan Verwaeren"
         }
     ],
     "citation": [
         {
-            "doi": "10.1016/j.ijcha.2017.11.005",
-            "name": "The interaction of QRS duration with cardiac magnetic resonance derived scar and mechanical dyssynchrony in systolic heart failure: Implications for cardiac resynchronization therapy"
+            "@type": "ScholarlyArticle",
+            "doi": "10.1016/j.envres.2019.108619",
+            "name": "Development of a land use regression model for black carbon using mobile monitoring data and its application to pollution-avoiding routing"
         },
         {
+            "@type": "ScholarlyArticle",
             "author": [
                 {
                     "@type": "Person",
-                    "name": "Jackson T"
+                    "name": "Van den Hove A"
                 },
                 {
                     "@type": "Person",
-                    "name": "Amraoui S"
+                    "name": "Verwaeren J"
                 },
                 {
                     "@type": "Person",
-                    "name": "Sohal M"
+                    "name": "Van den Bossche J"
                 },
                 {
                     "@type": "Person",
-                    "name": "Sammut E"
+                    "name": "Theunis J"
                 },
                 {
                     "@type": "Person",
-                    "name": "Behar JM"
-                },
-                {
-                    "@type": "Person",
-                    "name": "Claridge S"
-                },
-                {
-                    "@type": "Person",
-                    "name": "Webb J"
-                },
-                {
-                    "@type": "Person",
-                    "name": "Sienecwicz B"
-                },
-                {
-                    "@type": "Person",
-                    "name": "Razavi R"
-                },
-                {
-                    "@type": "Person",
-                    "name": "Rinaldi CA"
-                },
-                {
-                    "@type": "Person",
-                    "name": "Carr-White G"
+                    "name": "De Baets B"
                 }
             ],
-            "datePublished": "2018-03-01",
+            "datePublished": "2020-04-01",
             "fromPMID": true,
-            "identifier": "PMID:29750182",
-            "journalName": "International journal of cardiology. Heart & vasculature",
-            "name": "The interaction of QRS duration with cardiac magnetic resonance derived scar and mechanical dyssynchrony in systolic heart failure: Implications for cardiac resynchronization therapy.",
-            "pmid": "29750182",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/29750182/"
+            "identifier": "PMID:31836206",
+            "journalName": "Environmental research",
+            "name": "Development of a land use regression model for black carbon using mobile monitoring data and its application to pollution-avoiding routing.",
+            "pmid": "31836206",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31836206/"
         }
     ],
-    "date": "2017-12-27",
-    "dateModified": "2017-11-19",
-    "datePublished": "2017-12-27",
-    "description": "dyssynchrony and scar with QRS duration",
-    "doi": "10.17632/92vsw5bwr3.1",
-    "funding": [
-        {
-            "fromPMID": true,
-            "funder": {
-                "@type": "Organization",
-                "alternateName": [
-                    "BHF",
-                    "the_bhf",
-                    "The British Heart Foundation"
-                ],
-                "identifier": "https://ror.org/02wdwnk04",
-                "name": "British Heart Foundation"
-            },
-            "identifier": "PG/16/108/32593"
-        }
-    ],
-    "healthCondition": [
-        {
-            "alternateName": [
-                "cardiac failure",
-                "heart failure",
-                "insufficiency, Cardiac",
-                "failure, heart",
-                "cardiac insufficiency"
-            ],
-            "fromPMID": true,
-            "identifier": "0005252",
-            "inDefinedTermSet": "MONDO",
-            "isCurated": false,
-            "name": "heart failure",
-            "url": "http://purl.obolibrary.org/obo/MONDO_0005252"
-        },
-        {
-            "fromPMID": true,
-            "identifier": "D006930",
-            "inDefinedTermSet": "MeSH",
-            "isCurated": false,
-            "name": "Hyperalgesia",
-            "url": "https://id.nlm.nih.gov/mesh/D006930.html"
-        },
-        {
-            "fromPMID": true,
-            "identifier": "0006993",
-            "inDefinedTermSet": "MONDO",
-            "isCurated": false,
-            "name": "systolic heart failure",
-            "url": "http://purl.obolibrary.org/obo/MONDO_0006993"
-        }
-    ],
-    "identifier": "92vsw5bwr3",
+    "date": "2021-04-26",
+    "dateModified": "2021-04-26",
+    "datePublished": "2021-04-26",
+    "description": "The file land_use_features_BC.csv is csv-file containing the features used for building the land use regression model at each Point Of Interest (POI), as well as the alpha-trimmed mean (background corrected) black carbon concentrations at that POI. Note that the background has been subtracted, so if an estimate of the 'true'  mean BC concentration is needed, 2.3 \u00b5g/m\u00b3 should be added to these values.\n\n** Import data into R-software using the following instruction:\n\ntheData = read.table(\"land_use_features_BC.csv\", sep=\",\", header=TRUE)\n\n** description of variables:\n\n  - each row represents one point of interest (POI)\n  - description of variables:\n     - POI_number: reference number\n     - BC_concentration_background_corrected: background corrected black carbon concentration at that POI. Reported values are alpha-trimmed means that are backgrond-corrected (see paper)\n     - geometry_lambert_coordinates: Geospatial coordinates of the POIs (using the Lambert 72 coordinate system)\n     - distance_motorway: distance (m) of POI to nearest motorway\n     - nr_houses_100m: number of houses within a radius of 100m around the POI\n     - ..",
+    "doi": "10.17632/2w5htc6zg6.1",
+    "identifier": "2w5htc6zg6",
     "includedInDataCatalog": {
         "@type": "DataCatalog",
-        "archivedAt": "https://data.mendeley.com/datasets/92vsw5bwr3",
+        "archivedAt": "https://data.mendeley.com/datasets/2w5htc6zg6",
         "name": "Mendeley",
         "url": "https://data.mendeley.com/",
-        "versionDate": "2025-08-24T02:49:48.772365"
+        "versionDate": "2025-10-12T02:26:03.828596"
     },
     "keywords": [
-        "Left Ventricular Dyssynchrony",
-        "QRS Interval"
+        "Urban Land Use",
+        "Black Carbon"
     ],
-    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
-    "name": "Data for: The Interaction of QRS Duration with Cardiac Magnetic Resonance Derived Scar and Mechanical Dyssynchrony in Systolic Heart Failure: Implications for Cardiac Resynchronization Therapy.",
+    "license": "http://creativecommons.org/licenses/by/4.0",
+    "name": "Data for: Development of a land use regression model for black carbon using mobile monitoring data and its application to pollution-avoiding routing",
     "sdPublisher": {
+        "@type": "Organization",
         "name": "Mendeley Data"
     },
-    "topicCategory": [
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "GPT-4o-mini",
-                "url": "https://openai.com/index/chatgpt"
-            },
-            "fromGPT": true,
-            "identifier": "topic_4016",
-            "inDefinedTermSet": "EDAM",
-            "name": "Electrocardiography",
-            "url": "http://edamontology.org/topic_4016"
-        },
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "GPT-4o-mini",
-                "url": "https://openai.com/index/chatgpt"
-            },
-            "fromGPT": true,
-            "identifier": "topic_0607",
-            "inDefinedTermSet": "EDAM",
-            "name": "Laboratory information management",
-            "url": "http://edamontology.org/topic_0607"
-        },
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "GPT-4o-mini",
-                "url": "https://openai.com/index/chatgpt"
-            },
-            "fromGPT": true,
-            "identifier": "topic_3335",
-            "inDefinedTermSet": "EDAM",
-            "name": "Cardiology",
-            "url": "http://edamontology.org/topic_3335"
-        }
-    ],
-    "url": "https://data.mendeley.com/datasets/92vsw5bwr3"
+    "url": "https://data.mendeley.com/datasets/2w5htc6zg6"
 }

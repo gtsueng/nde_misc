@@ -1,0 +1,313 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "sdy1995",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 12.628206,
+    "abstract": "This study provides new insight into the host immune response in DENV infection and the role of CD4+CD8+ DP T cells in the pathogenesis of plasma leakage.",
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "La Jolla Institute for Immunology"
+            },
+            "name": "Alessandro Sette"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "La Jolla Institute for Immunology"
+            },
+            "name": "Daniela Weiskopf"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "La Jolla Institute for Immunology"
+            },
+            "name": "Esther Yu"
+        }
+    ],
+    "citedBy": [
+        {
+            "@type": "ScholarlyArticle",
+            "doi": "10.3390/v14010090",
+            "name": "A Population of CD4<sup>+</sup>CD8<sup>+</sup> Double-Positive T Cells Associated with Risk of Plasma Leakage in Dengue Viral Infection.",
+            "pmid": "35062294",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35062294"
+        }
+    ],
+    "conditionsOfAccess": "Closed",
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "ImmPort Data Curation Team"
+    },
+    "date": "2022-09-02",
+    "dateModified": "2022-09-02T00:00:00",
+    "description": "This study provided novel insight into the host immune response during the acute febrile phase of DENV infection and the role of CD4+CD8+ DP T cells in the pathogenesis of plasma leakage using transcriptome analysis. The frequency of CD4+CD8+ double-positive (DP) T cells was significantly increased in patients at risk of developing plasma leakage. Transcriptomic analysis demonstrated that CD4+CD8+ DP cells co-clustered with CD8+ SP cells, and showed a similar expression profile in patients with and without warning signs of plasma leakage, implying a role of CD4+CD8+ DP cells in plasma leakage through a quantitative increase rather than functional alteration.",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://browser.immport.org/browser?path=SDY1995",
+            "dateModified": "2022-09-02T00:00:00",
+            "encodingFormat": "URL"
+        }
+    ],
+    "doi": "10.21430/M3MK2K78L8",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2020-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U19AI118626-01",
+            "name": "Human immune signatures of Dengue virus and Mycobacterium Tuberculosis exposure in infection, disease and vaccination",
+            "projectNumSplit": {
+                "activityCode": "U19",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "118626",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2015-06-15",
+            "url": "https://reporter.nih.gov/project-details/8931820"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "National Institute of Allergy & Infectious Diseases",
+                    "NIAID",
+                    "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                ],
+                "identifier": "https://ror.org/043z4tv69",
+                "name": "National Institute of Allergy and Infectious Diseases",
+                "parentOrganization": "National Institutes of Health"
+            }
+        }
+    ],
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "df",
+                "breakbone fever",
+                "break bone fever",
+                "dengue fever",
+                "dengue virus infectious disease",
+                "dengue virus infection",
+                "dengue virus caused disease or disorder",
+                "classic dengue",
+                "dengue",
+                "dengue virus disease or disorder"
+            ],
+            "curatedBy": {
+                "dateModified": "2023-11-28",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0005502",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "dengue disease",
+            "originalName": "dengue disease",
+            "sameas": [
+                {
+                    "identifier": "DOID:12205",
+                    "url": "http://purl.obolibrary.org/obo/DOID_12205"
+                },
+                {
+                    "identifier": "EFO:0005547",
+                    "url": "http://purl.obolibrary.org/obo/EFO_0005547"
+                },
+                {
+                    "identifier": "GARD:0006254",
+                    "url": "http://purl.obolibrary.org/obo/GARD_0006254"
+                },
+                {
+                    "identifier": "ICD9:061",
+                    "url": "http://purl.obolibrary.org/obo/ICD9_061"
+                },
+                {
+                    "identifier": "MedDRA:10012310",
+                    "url": "http://purl.obolibrary.org/obo/MedDRA_10012310"
+                },
+                {
+                    "identifier": "MESH:D003715",
+                    "url": "http://purl.obolibrary.org/obo/MESH_D003715"
+                },
+                {
+                    "identifier": "NCIT:C34528",
+                    "url": "http://purl.obolibrary.org/obo/NCIT_C34528"
+                },
+                {
+                    "identifier": "Orphanet:99828",
+                    "url": "http://purl.obolibrary.org/obo/Orphanet_99828"
+                },
+                {
+                    "identifier": "SCTID:38362002",
+                    "url": "http://purl.obolibrary.org/obo/SCTID_38362002"
+                },
+                {
+                    "identifier": "UMLS:C0011311",
+                    "url": "http://purl.obolibrary.org/obo/UMLS_C0011311"
+                }
+            ],
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005502"
+        }
+    ],
+    "identifier": [
+        "10.21430/M3MK2K78L8"
+    ],
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://immport.org/shared/study/SDY1995",
+            "name": "ImmPort",
+            "url": "https://immport.org",
+            "versionDate": "2022-09-02T00:00:00"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://immunespace.org/query/study/SDY1995",
+            "name": "ImmuneSpace",
+            "url": "https://immunespace.org",
+            "versionDate": "2025-10-11"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "isBasedOn": [
+        {
+            "@type": "ScholarlyArticle",
+            "additionalType": {
+                "name": "Study Protocol"
+            },
+            "description": "Overview of study rational and subject selection",
+            "identifier": "PTL10781",
+            "name": "2022_Yu_study_protocol.docx",
+            "url": "https://www.immport.org/browser/?path=SDY1995"
+        }
+    ],
+    "keywords": [
+        "Human Immunology Project Consortium (HIPC) RFA-AI-15-041",
+        "RNA sequencing"
+    ],
+    "license": "https://www.immport.org/agreement",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "name": "RNA sequencing"
+        }
+    ],
+    "name": "Association of CD4+ CD8+ T cells with risk of plasma leakage in Dengue disease",
+    "sameAs": "https://doi.org/10.21430/M3MK2K78L8",
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "abstract": "The Human Immunology Project Consortium (HIPC) is a research network that characterizes the diverse states of the human immune system using advanced analytic tools. Researchers study immune responses before and after infection, vaccination, or treatment to improve disease understanding and intervention strategies.",
+            "alternateName": [
+                "HIPC",
+                "Human Immunology Project Consortium"
+            ],
+            "correctionApproved": true,
+            "description": "The Human Immunology Project Consortium (HIPC) is a network of researchers established to create a public resource that characterizes the diverse states of the human immune system. HIPC investigators use modern analytic tools to profile the immune system before and after infection, vaccination, or treatment with an adjuvant.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/human-immunology-project-consortium",
+            "name": "NIAID HIPC Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://immunespace.org/"
+        }
+    ],
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3308",
+            "inDefinedTermSet": "EDAM",
+            "name": "Transcriptomics",
+            "url": "http://edamontology.org/topic_3308"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        }
+    ],
+    "url": "https://immport.org/shared/study/SDY1995"
+}

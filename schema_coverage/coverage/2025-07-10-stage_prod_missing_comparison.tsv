@@ -1,0 +1,81 @@
+	propname	sdPubName	staging_counts	prod_counts
+0	conditionsOfAccess	BioModels	3140	2742
+1	conditionsOfAccess	Cell Collective	241	128
+2	conditionsOfAccess	EGA	19977	16114
+3	conditionsOfAccess	EVA	878	873
+4	conditionsOfAccess	ExpressionAtlas	4475	1491
+5	conditionsOfAccess	FAIRDOMHub	414	415
+6	conditionsOfAccess	GNPS	415	15
+7	conditionsOfAccess	GPMDB	375	375
+8	conditionsOfAccess	JPOST Repository	2499	2473
+9	conditionsOfAccess	MassIVE	3579	3966
+10	conditionsOfAccess	MetaboLights	1577	1577
+11	conditionsOfAccess	MetabolomicsWorkbench	2164	2281
+12	conditionsOfAccess	NODE	5491	5493
+13	conditionsOfAccess	PeptideAtlas	2294	1427
+14	conditionsOfAccess	Physiome Model Repository	1160	57
+15	conditionsOfAccess	Pride	33649	33364
+16	conditionsOfAccess	bioimages	1334	1333
+17	conditionsOfAccess	biostudies-other	10744	8946
+18	conditionsOfAccess	ecrin-mdr-crc	10579	10578
+19	conditionsOfAccess	panorama	357	352
+20	dateCreated	BioModels	3140	2742
+21	dateCreated	Cell Collective	241	128
+22	dateCreated	EGA	19977	16114
+23	dateCreated	EVA	878	873
+24	dateCreated	ExpressionAtlas	4475	1491
+25	dateCreated	FAIRDOMHub	414	415
+26	dateCreated	GNPS	415	15
+27	dateCreated	GPMDB	375	375
+28	dateCreated	JPOST Repository	2499	2473
+29	dateCreated	MassIVE	3579	3966
+30	dateCreated	MetaboLights	1577	1577
+31	dateCreated	MetabolomicsWorkbench	2164	2281
+32	dateCreated	NODE	5491	5493
+33	dateCreated	PeptideAtlas	2294	1427
+34	dateCreated	Physiome Model Repository	1160	57
+35	dateCreated	Pride	33649	33364
+36	dateCreated	bioimages	1334	1333
+37	dateCreated	biostudies-other	10744	8946
+38	dateCreated	ecrin-mdr-crc	10579	10578
+39	dateCreated	panorama	357	352
+40	datePublished	BioModels	3140	2742
+41	datePublished	Cell Collective	241	128
+42	datePublished	EGA	19977	16114
+43	datePublished	EVA	878	873
+44	datePublished	ExpressionAtlas	4475	1491
+45	datePublished	FAIRDOMHub	414	415
+46	datePublished	GNPS	415	15
+47	datePublished	GPMDB	375	375
+48	datePublished	JPOST Repository	2499	2473
+49	datePublished	MassIVE	3579	3966
+50	datePublished	MetaboLights	1577	1577
+51	datePublished	MetabolomicsWorkbench	2164	2281
+52	datePublished	NODE	5491	5493
+53	datePublished	PeptideAtlas	2294	1427
+54	datePublished	Physiome Model Repository	1160	57
+55	datePublished	Pride	33649	33364
+56	datePublished	bioimages	1334	1333
+57	datePublished	biostudies-other	10744	8946
+58	datePublished	ecrin-mdr-crc	10579	10578
+59	datePublished	panorama	357	352
+60	description	BioModels	3140	2742
+61	description	Cell Collective	241	128
+62	description	EGA	19977	16114
+63	description	EVA	878	873
+64	description	ExpressionAtlas	4475	1491
+65	description	FAIRDOMHub	414	415
+66	description	GNPS	415	15
+67	description	GPMDB	375	375
+68	description	JPOST Repository	2499	2473
+69	description	MassIVE	3579	3966
+70	description	MetaboLights	1577	1577
+71	description	MetabolomicsWorkbench	2164	2281
+72	description	NODE	5491	5493
+73	description	PeptideAtlas	2294	1427
+74	description	Physiome Model Repository	1160	57
+75	description	Pride	33649	33364
+76	description	bioimages	1334	1333
+77	description	biostudies-other	10744	8946
+78	description	ecrin-mdr-crc	10579	10578
+79	description	panorama	357	352

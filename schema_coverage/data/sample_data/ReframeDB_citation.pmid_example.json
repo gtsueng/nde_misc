@@ -4,19 +4,22 @@
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 12.793354,
+    "_score": 12.541323,
     "alternateName": "Crypto-C. parvum proliferation (Bunch Grass Farm)",
     "author": [
         {
+            "@type": "Person",
             "name": "California Institute for Biomedical Research (Calibr), La Jolla, CA"
         },
         {
+            "@type": "Person",
             "affiliation": {
                 "name": "California Institute for Biomedical Research (Calibr), La Jolla CA"
             },
             "name": "Case W. McNamara"
         },
         {
+            "@type": "Person",
             "affiliation": {
                 "name": "California Institute for Biomedical Research (Calibr), La Jolla, CA"
             },
@@ -25,6 +28,7 @@
     ],
     "citation": [
         {
+            "@type": "ScholarlyArticle",
             "author": [
                 {
                     "@type": "Person",
@@ -72,9 +76,11 @@
     "description": "Phenotypic high-content imaging-based high-throughput screen against the protozoan pathogen C. parvum to find new small molecule inhibitors of Cryptosporidium, which causes diarrheal disease in humans.\nPurpose\nCryptosporidium parvum and the related species Cryptosporidium hominis cause diarrheal disease in humans. The current standard of care is ineffective in patients most at risk of cryptosporidiosis. This is a phenotypic high-content imaging-based high-throughput screen of the full deck against the protozoan pathogen C. parvum to find new small molecule inhibitors of Cryptosporidium. This is the largest screen against Cryptosporidium and one of the few in a 1536-well format. The assay measures inhibition of parasite proliferation within the human ileocecal colorectal adenocarcinoma cell line HCT-8; a commonly used cell line for studying Cryptosporidium spp. in vitro. HCI detection of this cell-based assay allows for concomitant measurement of Cryptosporidium parasite inhibition and host cell cytotoxicity.\nProtocol\nThis specific ID is for the Bunch Grass Farm strain of C. parvum (IOWA strain), which has been routinely passaged through neonatal calves to propagate. For the assay, HCT-8 cells are seeded into 1536-well clear-bottom plates and incubated at 37C. 24 hours later, compounds are transferred (1.88 uM for primary screening and 25 uM top concentration for dose-response), and then excysted Cryptosporidium sporozoites and oocysts are dispensed onto cells. 48 hours later, cells are fixed with 4% paraformaldehyde. Cells are then washed, permeabilized with 0.25% Triton X-100 in PBS, blocked with SuperBlock (Thermo), and finally stained with a 1:10 dilution of Superblock with 1ug/mL FITC-tagged Vicia Villosa lectin and 3uM DAPI nuclear stain. Cells are then washed with PBS-T to remove residual stain and plates are sealed with aluminum adhesive seals. Plates are imaged (10x objective) on the CX5 Cellomics imager using the SpotDetector algorithm. Compounds that inhibit Cryptosporidium proliferation by >= 70% and do not inhibit HCT-8 growth by more than 40% are picked for dose response testing.\nReadout\nHigh-content imaging; normalized to neutral control minus inhibitor.\nDetection Method\nhigh-content imaging; nitazoxanide and floxuridine are used as positive controls, and dmso is the neutral control. spot counts are normalized by neutral controls minus inhibitors.\nDetection Reagents\nFITC 485/521\nComponents\nC. parvum, HCT-8 cells; Detection reagent\nDrug Concetration\n2  \u00c2\u00b5M",
     "funding": [
         {
+            "@type": "MonetaryGrant",
             "endDate": "2016-06-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "NIGMS",
                         "U.S. National Institute of General Medical Sciences"
@@ -99,9 +105,11 @@
             "url": "https://reporter.nih.gov/project-details/8304225"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2011-06-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "NCRR"
                     ],
@@ -125,9 +133,11 @@
             "url": "https://reporter.nih.gov/project-details/6962012"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2021-07-31",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "NIGMS",
                         "U.S. National Institute of General Medical Sciences"
@@ -152,9 +162,11 @@
             "url": "https://reporter.nih.gov/project-details/9073009"
         },
         {
+            "@type": "MonetaryGrant",
             "endDate": "2014-12-31",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -182,6 +194,7 @@
     ],
     "healthCondition": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Cryptosporidium infection",
                 "Cryptosporidium infectious disease",
@@ -199,6 +212,7 @@
             "url": "http://purl.obolibrary.org/obo/MONDO_0015474"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "infectious diarrheal diseases",
                 "dysenteric diarrhea",
@@ -218,6 +232,7 @@
             "url": "http://purl.obolibrary.org/obo/MONDO_0001517"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Lytotoxicity",
                 "Cytotoxicity"
@@ -236,10 +251,11 @@
         "archivedAt": "https://reframedb.org/assays/A00208",
         "name": "ReframeDB",
         "url": "https://reframedb.org/",
-        "versionDate": "2025-08-23T07:00:13.173573"
+        "versionDate": "2025-10-11T07:00:14.271307"
     },
     "infectiousAgent": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "ATCC 25618",
                 "strain H37 Rv",
@@ -277,6 +293,7 @@
     "isAccessibleForFree": true,
     "measurementTechnique": [
         {
+            "@type": "DefinedTerm",
             "name": "cell based"
         },
         {

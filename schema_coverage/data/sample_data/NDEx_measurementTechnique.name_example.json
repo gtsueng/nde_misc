@@ -1,85 +1,240 @@
 {
     "@type": "Dataset",
-    "_id": "ndex_17a6b7ce-b342-11ef-99aa-005056ae3c32",
+    "_id": "ndex_359bba6c-86da-11e7-a10d-0ac135e8bacf",
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 8.719278,
+    "_score": 8.46287,
     "author": {
-        "name": "jlenkiewicz@ucsd.edu"
+        "@type": "Person",
+        "name": "Justin Huang"
     },
     "citation": [
         {
+            "@type": "ScholarlyArticle",
             "author": [
                 {
                     "@type": "Person",
-                    "name": "Asaga T"
+                    "name": "Huang JK"
                 },
                 {
                     "@type": "Person",
-                    "name": "Suzuki K"
+                    "name": "Carlin DE"
                 },
                 {
                     "@type": "Person",
-                    "name": "Takemiya S"
+                    "name": "Yu MK"
                 },
                 {
                     "@type": "Person",
-                    "name": "Okamoto T"
+                    "name": "Zhang W"
                 },
                 {
                     "@type": "Person",
-                    "name": "Tamura N"
+                    "name": "Kreisberg JF"
                 },
                 {
                     "@type": "Person",
-                    "name": "Umeda M"
+                    "name": "Tamayo P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ideker T"
                 }
             ],
-            "datePublished": "1982-12-01",
+            "datePublished": "2018-04-25",
             "fromPMID": true,
-            "identifier": "PMID:6761228",
-            "journalName": "Gan",
-            "name": "Short-term cultivation of human mammary tumors and normal mammary glands in medium containing human colostrum milk.",
-            "pmid": "6761228",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/6761228/"
+            "identifier": "PMID:29605183",
+            "journalName": "Cell systems",
+            "name": "Systematic Evaluation of Molecular Networks for Discovery of Disease Genes.",
+            "pmid": "29605183",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29605183/"
         }
     ],
     "conditionsOfAccess": "Open",
-    "date": "2024-12-05",
-    "dateCreated": "2024-12-05T19:49:51.780000",
-    "dateModified": "2024-12-05T19:50:27.194000",
-    "description": "Notch-Delta-Jagged signaling. (A) The Notch pathway is activated when the Notch receptor of one cell interacts with the ligand of a neighboring cell leading to cleavage of the Notch intracellular domain (NICD) and its release into the cytoplasm. NICD acts as a transcription factor and controls the expression of many genes, including Notch receptors and ligands. However, while it directly activates the expression of Notch receptors, the Jag1 ligand, and transcription factor Hes1 (which acts as an inhibitor of any gene expression), it indirectly inhibits Dll1 expression through Hes1. The special family of fringe proteins (Lfng and Mfng) increases the Notch receptor\u2019s affinity to bind to Dll1 and decreases it for Jag1, thus promoting lateral inhibition over lateral induction. (B) Jag1/Notch signaling forms a double positive feedback loop between the two neighboring cells and forces them to adopt the same fate/phenotype: high expressions of the Notch receptor, Jag1, Hes1, and low Dll1 expression. The Jag1/Notch cells both send (due to Jag1 ligands) and receive (due to Notch receptors) signals [a so-called hybrid Sender/Receiver (S/R) phenotype]. The mechanism that promotes this phenotype is known as lateral induction. (C) Dll1/Notch signaling causes a double-negative feedback loop between the two neighboring cells promoting them to acquire two opposite fates/phenotypes (a \u201csalt-and pepper\u201d pattern): Sender (S; high Dll1; low Notch, Hes1, and Jag1) and Receiver (R; high Notch and Hes1; low Dll1 and Jag1). The mechanism that promotes the two opposite fates/phenotypes is known as lateral inhibition.\n\n\n\n            ",
+    "date": "2018-06-01",
+    "dateCreated": "2017-08-22T01:35:41.874000",
+    "dateModified": "2018-06-01T18:06:45.556000",
+    "description": "Binary interactions of the MultiNet network with all node names converted to HUGO Gene Symbol and filtered for only interactions between human genes. This network belongs to an\u00a0NDEx Network Set\u00a0associated with the 2018 Huang and Carlin et al. Cell Systems paper.\nThe link to the raw network data source and the processing pipeline for this network can be found in this\u00a0Jupyter notebook.\nAdditional references describing MultiNet:\u00a0- Khurana, E. et al., 2013. Interpretation of genomic variants using a unified biological network approach. PLoS computational biology, 9(3), p.e1002886.\n",
     "distribution": {
-        "contentSize": 13163
+        "@type": "DataDownload",
+        "contentSize": 6407939
     },
-    "identifier": "17a6b7ce-b342-11ef-99aa-005056ae3c32",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHGRI NIH HHS"
+            },
+            "identifier": "R01 HG009979"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIGMS NIH HHS"
+            },
+            "identifier": "R01 GM123313"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NCI NIH HHS"
+            },
+            "identifier": "U01 CA217885"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NCI NIH HHS"
+            },
+            "identifier": "R01 CA121941"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NCI NIH HHS"
+            },
+            "identifier": "U54 CA209891"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NCATS NIH HHS"
+            },
+            "identifier": "OT3 TR002026"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIGMS NIH HHS"
+            },
+            "identifier": "T32 GM008806"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIGMS NIH HHS"
+            },
+            "identifier": "P50 GM085764"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NHGRI NIH HHS"
+            },
+            "identifier": "R01 HG009285"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIGMS NIH HHS"
+            },
+            "identifier": "R01 GM070743"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIGMS NIH HHS"
+            },
+            "identifier": "P41 GM103504"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NCI NIH HHS"
+            },
+            "identifier": "P30 CA023100"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NCI NIH HHS"
+            },
+            "identifier": "R01 CA222826"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NCI NIH HHS"
+            },
+            "identifier": "U24 CA194107"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NCI NIH HHS"
+            },
+            "identifier": "R01 CA154480"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NCI NIH HHS"
+            },
+            "identifier": "U24 CA184427"
+        }
+    ],
+    "identifier": "359bba6c-86da-11e7-a10d-0ac135e8bacf",
     "includedInDataCatalog": {
         "@type": "DataCatalog",
-        "archivedAt": "https://www.ndexbio.org/viewer/networks/17a6b7ce-b342-11ef-99aa-005056ae3c32",
+        "archivedAt": "https://www.ndexbio.org/viewer/networks/359bba6c-86da-11e7-a10d-0ac135e8bacf",
         "name": "NDEx",
         "url": "https://www.ndexbio.org/",
         "versionDate": "2025-07-05"
     },
-    "isRelatedTo": [
-        {
-            "name": "Notch-Delta-Jagged signaling",
-            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6761228/figure/F1/"
-        }
-    ],
     "keywords": [
-        "pathway"
+        "PPI",
+        "Genetic"
     ],
-    "license": "Waiver-No rights reserved (CC0)",
+    "license": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
     "measurementTechnique": [
         {
-            "name": "image processing",
-            "url": "http://purl.obolibrary.org/obo/NCIT_C17606"
+            "@type": "DefinedTerm",
+            "name": "curation",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C48292"
+        },
+        {
+            "@type": "DefinedTerm",
+            "name": "data integration and warehousing",
+            "url": "http://edamontology.org/topic_3366"
         }
     ],
-    "name": "NDEX2 Tutorial: Modify network attributes (replace broken image URLs)",
+    "name": "MultiNet",
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Human",
                 "Homo sapiens Linnaeus, 1758",
@@ -116,6 +271,7 @@
     ],
     "topicCategory": [
         {
+            "@type": "DefinedTerm",
             "identifier": "topic_0602",
             "inDefinedTermSet": "EDAM",
             "name": "Molecular interactions, pathways and networks",
@@ -128,10 +284,10 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_3064",
+            "identifier": "topic_3307",
             "inDefinedTermSet": "EDAM",
-            "name": "Developmental biology",
-            "url": "http://edamontology.org/topic_3064"
+            "name": "Computational biology",
+            "url": "http://edamontology.org/topic_3307"
         },
         {
             "@type": "DefinedTerm",
@@ -140,10 +296,10 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_3070",
+            "identifier": "topic_3574",
             "inDefinedTermSet": "EDAM",
-            "name": "Biology",
-            "url": "http://edamontology.org/topic_3070"
+            "name": "Human genetics",
+            "url": "http://edamontology.org/topic_3574"
         },
         {
             "@type": "DefinedTerm",
@@ -152,11 +308,11 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_2229",
+            "identifier": "topic_0091",
             "inDefinedTermSet": "EDAM",
-            "name": "Cell biology",
-            "url": "http://edamontology.org/topic_2229"
+            "name": "Bioinformatics",
+            "url": "http://edamontology.org/topic_0091"
         }
     ],
-    "url": "https://www.ndexbio.org/viewer/networks/17a6b7ce-b342-11ef-99aa-005056ae3c32"
+    "url": "https://www.ndexbio.org/viewer/networks/359bba6c-86da-11e7-a10d-0ac135e8bacf"
 }

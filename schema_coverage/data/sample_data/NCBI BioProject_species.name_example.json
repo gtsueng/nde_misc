@@ -1,0 +1,53 @@
+{
+    "@type": "Dataset",
+    "_id": "ncbi_bioproject_prjeb28797",
+    "_score": 3.9262645,
+    "date": "2018-10-09",
+    "datePublished": "2018-10-09",
+    "description": "Mapping Emamectin resistance in salmon lice",
+    "identifier": "PRJEB28797",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ncbi.nlm.nih.gov/bioproject/PRJEB28797",
+        "name": "NCBI BioProject",
+        "url": "https://www.ncbi.nlm.nih.gov/bioproject/",
+        "versionDate": "2025-10-11"
+    },
+    "keywords": [
+        "monoisolate"
+    ],
+    "measurementTechnique": {
+        "@type": "DefinedTerm",
+        "name": "Sequencing"
+    },
+    "name": "Mapping Emamectin resistance in salmon lice. Lepeophtheirus salmonis strain:IoA-00",
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "salmon louse",
+                "Lepeoptheirus salmonis",
+                "Salmon louse",
+                "Lepeophtheirus salmonis (Kroyer, 1837)"
+            ],
+            "classification": "host",
+            "commonName": "Salmon louse",
+            "curatedBy": {
+                "dateModified": "2024-01-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Salmon louse | Lepeophtheirus salmonis",
+            "identifier": "72036",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Lepeophtheirus salmonis",
+            "originalName": "Lepeophtheirus salmonis",
+            "url": "https://www.uniprot.org/taxonomy/72036"
+        }
+    ],
+    "url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJEB28797",
+    "variableMeasured": {
+        "name": "Other"
+    }
+}

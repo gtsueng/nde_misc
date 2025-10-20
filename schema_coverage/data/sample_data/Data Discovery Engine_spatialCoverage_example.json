@@ -1,0 +1,1178 @@
+{
+    "@type": "ResourceCatalog",
+    "_id": "dde_8b9a4aa0d78d0659",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 1010.28577,
+    "about": [
+        {
+            "@type": "DefinedTerm",
+            "description": "Not distinct from Specimen as a schema",
+            "displayName": "Sample",
+            "name": "Sample",
+            "url": "http://www.w3.org/ns/sosa/Sample"
+        },
+        {
+            "@type": "DefinedTerm",
+            "description": "Not distinct from study as a schema",
+            "displayName": "Experiment",
+            "name": "Experiment",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C42790"
+        },
+        {
+            "@type": "DefinedTerm",
+            "description": "For schema, consider https://schema.org/MedicalStudy",
+            "displayName": "Clinical Study",
+            "name": "ClinicalStudy",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15206"
+        },
+        {
+            "@type": "DefinedTerm",
+            "description": "For schema, consider https://schema.org/Patient",
+            "displayName": "Patient",
+            "name": "Patient",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C16960"
+        }
+    ],
+    "abstract": "ImmuneSpace is a NIAID supported IID repository that includes multimodal immunological data.",
+    "alternateName": "ITN TrialShare",
+    "author": [
+        {
+            "@type": "Organization",
+            "name": "Human Immunology Project Consortium"
+        },
+        {
+            "@type": "Organization",
+            "name": "Benaroya Research Institute"
+        },
+        {
+            "@type": "Organization",
+            "alternateName": "MIT",
+            "name": "Massachusetts Institute of Technology"
+        },
+        {
+            "@type": "Organization",
+            "name": "Massachusetts General Hospital"
+        },
+        {
+            "@type": "Organization",
+            "name": "Mount Sinai Hospital"
+        },
+        {
+            "@type": "Organization",
+            "name": "Columbia University"
+        },
+        {
+            "@type": "Organization",
+            "name": "Seattle Children\u2019s Research Institute"
+        },
+        {
+            "@type": "Organization",
+            "name": "Icahn School of Medicine at Mount Sinai"
+        },
+        {
+            "@type": "Organization",
+            "name": "Stanford"
+        },
+        {
+            "@type": "Organization",
+            "name": "La Jolla Institute for Immunology"
+        },
+        {
+            "@type": "Organization",
+            "name": "Yale School of Medicine"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Poland GA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Quill H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Togias A"
+                }
+            ],
+            "datePublished": "2013-06-19",
+            "fromPMID": true,
+            "identifier": "PMID:23648045",
+            "journalName": "Vaccine",
+            "name": "Understanding the human immune system in the 21st century: the Human Immunology Project Consortium.",
+            "pmid": "23648045",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23648045/"
+        }
+    ],
+    "citedBy": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Diray-Arce J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Miller HER"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Henrich E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gerritsen B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mule MP"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Fourati S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gygi J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hagan T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tomalin L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rychkov D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kazmin D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chawla DG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Meng H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dunn P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Campbell J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sarwal M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Tsang JS"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Levy O"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pulendran B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sekaly R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Floratos A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gottardo R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kleinstein SH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Suarez-Farinas M"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "Human Immunology Project Consortium (HIPC)"
+                }
+            ],
+            "datePublished": "2022-10-20",
+            "fromPMID": true,
+            "identifier": "PMID:36266291",
+            "journalName": "Scientific data",
+            "name": "The Immune Signatures data resource, a compendium of systems vaccinology datasets.",
+            "pmid": "36266291",
+            "type": "ScholarlyArticle",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36266291/"
+        }
+    ],
+    "collectionSize": {
+        "@type": "PropertyValue",
+        "unitText": "unknown",
+        "value": 0
+    },
+    "collectionType": "Portal",
+    "conditionsOfAccess": "Closed",
+    "date": "2025-05-14",
+    "dateCreated": "2024-01-24",
+    "dateModified": "2025-05-14",
+    "datePublished": "2007-09-21",
+    "description": "\"The Human Immunology Project Consortium (HIPC) program was established in 2010, and renewed in 2015 and in 2022, by the NIAID Division of Allergy, Immunology, and Transplantation as part of the overall NIAID focus on human immunology. Through this program, well-characterized human cohorts are studied using a variety of modern analytic tools, including multiplex transcriptional, cytokine, and proteomic assays; multiparameter phenotyping of leukocyte subsets; assessment of leukocyte functional status; and multiple computational methods. \n\nThrough the HIPC program, centralized research resources and a comprehensive, centralized database will be constructed for use by the greater scientific community. The information gained from the HIPC program will provide a comprehensive understanding of the human immune system and its regulation and will reveal novel associations between components of the immune system and other biological systems, identify novel immune mediators and pathways, establish predictors of vaccine safety in different populations, and enable the rapid evaluation of different vaccine formulations and administration regimens in human populations. This knowledge base will also serve as a foundation for the future study of immune-mediated diseases in the human, such as allergy, asthma, transplant rejection, autoimmune diseases, and a variety of inflammatory diseases.\"",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "http://tools.iedb.org/main/datasets/",
+        "dateModified": "2023-11-10"
+    },
+    "funding": {
+        "@type": "MonetaryGrant",
+        "endDate": "2027-03-31",
+        "funder": [
+            {
+                "@type": "Organization",
+                "alternateName": [
+                    "National Institute of Allergy & Infectious Diseases",
+                    "NIAID",
+                    "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                ],
+                "identifier": "https://ror.org/043z4tv69",
+                "name": "National Institute of Allergy and Infectious Diseases",
+                "parentOrganization": "National Institutes of Health"
+            }
+        ],
+        "identifier": "1U01AI167892-01",
+        "name": "HIPC Data Coordinating Center",
+        "projectNumSplit": {
+            "activityCode": "U01",
+            "applTypeCode": "1",
+            "fullSupportYear": "01",
+            "icCode": "AI",
+            "serialNum": "167892",
+            "suffixCode": "",
+            "supportYear": "01"
+        },
+        "startDate": "2022-04-13",
+        "url": "https://reporter.nih.gov/project-details/10420932"
+    },
+    "genre": "IID",
+    "hasAPI": false,
+    "hasDownload": "Record-level",
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "allergic reaction",
+                "allergic response",
+                "type I hypersensitivity disease",
+                "allergic form of disease or disorder",
+                "allergy",
+                "disorder of type I hypersensitivity",
+                "allergic form of immune system disease",
+                "allergic disease or disorder",
+                "hypersensitivity reaction type I disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0005271",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "allergic disease",
+            "originalName": "allergic disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005271"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "bronchial hyperreactivity"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0004979",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "asthma",
+            "originalName": "asthma",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0004979"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "autoimmune disease or disorder",
+                "autoimmune disease",
+                "disease, autoimmune",
+                "autoimmune disorder"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "identifier": "0007179",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "autoimmune disease",
+            "originalName": "autoimmune disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0007179"
+        }
+    ],
+    "identifier": "https://www.immunespace.org/project/Studies/begin.view?",
+    "inLanguage": {
+        "@type": "inLanguage",
+        "name": "English"
+    },
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://discovery.biothings.io/resource/8b9a4aa0d78d0659",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/",
+            "versionDate": "2025-10-16"
+        }
+    ],
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "HIV",
+                "human immunodeficiency virus HIV-1",
+                "human immunodeficiency virus-1 HIV-1",
+                "human immunodeficiency virus 1 HIV-1",
+                "Human immunodeficiencey virus type 1",
+                "human immunodeficiency virus type I HIV-1",
+                "HIV-1",
+                "Human immunodeficiency virus type I",
+                "Human immunodeficiency virus 1",
+                "LAV-1",
+                "human immunodeficiency virus type 1, HIV-1",
+                "AIDS virus",
+                "human immunodeficiency virus type 1 HIV 1",
+                "Human immundeficiency virus type 1",
+                "HIV1",
+                "human immunodeficiency virus type 1 ,HIV-1",
+                "human immunodeficiency virus type-1 HIV-1",
+                "human immunodeficiency virus type 1 HIV1",
+                "human immunodeficiency virus type 1 HIV-1"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "HIV-1",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "HIV-1 | Human immunodeficiency virus type 1",
+            "identifier": "11676",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Human immunodeficiency virus type 1",
+            "originalName": "Human immunodeficiency virus 1",
+            "url": "https://www.uniprot.org/taxonomy/11676"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "HIV",
+                "Human immunodeficiency virus-2",
+                "human immunodeficiency virus type 2 HIV-2",
+                "LAV-2",
+                "human immunodeficiency virus type 2, HIV-2",
+                "HIV-2",
+                "AIDS virus",
+                "HIV2",
+                "HIV type 2",
+                "Human immunodeficiency virus type 2"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Human immunodeficiency virus 2",
+            "identifier": "11709",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Human immunodeficiency virus 2",
+            "originalName": "Human immunodeficiency virus 2",
+            "url": "https://www.uniprot.org/taxonomy/11709"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "isBasedOn": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Nielsen M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lundegaard C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Worning P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lauemoller SL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lamberth K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Buus S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Brunak S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lund O"
+                }
+            ],
+            "datePublished": "2003-05-01",
+            "fromPMID": true,
+            "identifier": "PMID:12717023",
+            "journalName": "Protein science : a publication of the Protein Society",
+            "name": "Reliable prediction of T-cell epitopes using neural networks with novel sequence representations.",
+            "pmid": "12717023",
+            "type": "ScholarlyArticle",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12717023/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Bui HH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sidney J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Peters B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sathiamurthy M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sinichi A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Purton KA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mothe BR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chisari FV"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Watkins DI"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sette A"
+                }
+            ],
+            "datePublished": "2005-06-01",
+            "fromPMID": true,
+            "identifier": "PMID:15868141",
+            "journalName": "Immunogenetics",
+            "name": "Automated generation and evaluation of specific MHC binding predictive tools: ARB matrix applications.",
+            "pmid": "15868141",
+            "type": "ScholarlyArticle",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15868141/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Peters B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sette A"
+                }
+            ],
+            "datePublished": "2005-05-31",
+            "fromPMID": true,
+            "identifier": "PMID:15927070",
+            "journalName": "BMC bioinformatics",
+            "name": "Generating quantitative models describing the sequence specificity of biological processes with the stabilized matrix method.",
+            "pmid": "15927070",
+            "type": "ScholarlyArticle",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15927070/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Karosiene E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lundegaard C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lund O"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nielsen M"
+                }
+            ],
+            "datePublished": "2012-03-01",
+            "fromPMID": true,
+            "identifier": "PMID:22009319",
+            "journalName": "Immunogenetics",
+            "name": "NetMHCcons: a consensus method for the major histocompatibility complex class I predictions.",
+            "pmid": "22009319",
+            "type": "ScholarlyArticle",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22009319/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Zhang H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lund O"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nielsen M"
+                }
+            ],
+            "datePublished": "2009-05-15",
+            "fromPMID": true,
+            "identifier": "PMID:19297351",
+            "journalName": "Bioinformatics (Oxford, England)",
+            "name": "The PickPocket method for predicting binding specificities for receptors based on receptor pocket similarities: application to MHC-peptide binding.",
+            "pmid": "19297351",
+            "type": "ScholarlyArticle",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19297351/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Tenzer S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Peters B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bulik S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Schoor O"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lemmel C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Schatz MM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kloetzel PM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rammensee HG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Schild H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Holzhutter HG"
+                }
+            ],
+            "datePublished": "2005-05-01",
+            "fromPMID": true,
+            "identifier": "PMID:15868101",
+            "journalName": "Cellular and molecular life sciences : CMLS",
+            "name": "Modeling the MHC class I pathway by combining predictions of proteasomal cleavage, TAP transport and MHC class I binding.",
+            "pmid": "15868101",
+            "type": "ScholarlyArticle",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15868101/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Kesmir C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nussbaum AK"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Schild H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Detours V"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Brunak S"
+                }
+            ],
+            "datePublished": "2002-04-01",
+            "fromPMID": true,
+            "identifier": "PMID:11983929",
+            "journalName": "Protein engineering",
+            "name": "Prediction of proteasome cleavage motifs by neural networks.",
+            "pmid": "11983929",
+            "type": "ScholarlyArticle",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11983929/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Ponomarenko JV"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bourne PE"
+                }
+            ],
+            "datePublished": "2007-10-02",
+            "fromPMID": true,
+            "identifier": "PMID:17910770",
+            "journalName": "BMC structural biology",
+            "name": "Antibody-protein interactions: benchmark datasets and prediction tools evaluation.",
+            "pmid": "17910770",
+            "type": "ScholarlyArticle",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17910770/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Bui HH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sidney J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dinh K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Southwood S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Newman MJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sette A"
+                }
+            ],
+            "datePublished": "2006-03-17",
+            "fromPMID": true,
+            "identifier": "PMID:16545123",
+            "journalName": "BMC bioinformatics",
+            "name": "Predicting population coverage of T-cell epitope-based diagnostics and vaccines.",
+            "pmid": "16545123",
+            "type": "ScholarlyArticle",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16545123/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Haste Andersen P"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nielsen M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Lund O"
+                }
+            ],
+            "datePublished": "2006-11-01",
+            "fromPMID": true,
+            "identifier": "PMID:17001032",
+            "journalName": "Protein science : a publication of the Protein Society",
+            "name": "Prediction of residues in discontinuous B-cell epitopes using protein 3D structures.",
+            "pmid": "17001032",
+            "type": "ScholarlyArticle",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17001032/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Bui HH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sidney J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Li W"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Fusseder N"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sette A"
+                }
+            ],
+            "datePublished": "2007-09-26",
+            "fromPMID": true,
+            "identifier": "PMID:17897458",
+            "journalName": "BMC bioinformatics",
+            "name": "Development of an epitope conservancy analysis tool to facilitate the design of epitope-based diagnostics and vaccines.",
+            "pmid": "17897458",
+            "type": "ScholarlyArticle",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17897458/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Beaver JE"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bourne PE"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ponomarenko JV"
+                }
+            ],
+            "datePublished": "2007-02-21",
+            "fromPMID": true,
+            "identifier": "PMID:17313688",
+            "journalName": "Immunome research",
+            "name": "EpitopeViewer: a Java application for the visualization and analysis of immune epitopes in the Immune Epitope Database and Analysis Resource (IEDB).",
+            "pmid": "17313688",
+            "type": "ScholarlyArticle",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17313688/"
+        }
+    ],
+    "isBasisFor": [
+        {
+            "@type": "ComputationalTool",
+            "identifier": "biotools:immunespacer",
+            "name": "ImmuneSpaceR",
+            "url": "https://bio.tools/immunespacer"
+        }
+    ],
+    "keywords": [
+        "Prediction and recognition",
+        "antigen",
+        "T cell",
+        "immunoglobulin complex, circulating",
+        "Immunity",
+        "infection process",
+        "Major Histocompatibility Complex",
+        "literature curation"
+    ],
+    "license": "https://www.itntrialshare.org/tsstatic/Terms%20Of%20Use.html",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "FLOW CYTOMETRY",
+                "Flow Cytometry",
+                "flow cytometry"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Flow Cytometry",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C16585"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "CyTOF",
+                "Cytometry by Time-of-Flight",
+                "MASS CYTOMETRY",
+                "Mass Cytometry",
+                "Time-of-Flight Cytometry",
+                "ToF Cytometry"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Mass Cytometry",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C187898"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "MASS SPECTROMETRY",
+                "MS",
+                "MS 1",
+                "MS1",
+                "Mass Spec",
+                "Mass Spectrometry",
+                "Mass Spectrum",
+                "MassSpec",
+                "Photometry/Spectrum Analysis, Mass"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Mass Spectrometry",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C17156"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "ECO",
+            "isCurated": true,
+            "name": "transcription profiling assay",
+            "url": "http://purl.obolibrary.org/obo/OBI_0000424"
+        }
+    ],
+    "name": "ImmuneSpace",
+    "sameAs": [
+        "https://fairsharing.org/FAIRsharing.c886cd",
+        "https://en.wikipedia.org/wiki/Immune_Epitope_Database_and_Analysis_Resource",
+        "https://www.wikidata.org/wiki/Q1653430",
+        "https://bio.tools/iedb-v2"
+    ],
+    "sdPublisher": {
+        "@type": "DataCatalog",
+        "name": "Data Discovery Engine",
+        "url": "https://discovery.biothings.io/portal/nde"
+    },
+    "spatialCoverage": [
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "alternateName": "USA",
+            "identifier": "Q30",
+            "locationType": "study location",
+            "name": "United States of America"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q155",
+            "locationType": "study location",
+            "name": "Brazil"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q419",
+            "locationType": "study location",
+            "name": "Peru"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q96",
+            "locationType": "study location",
+            "name": "Mexico"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q881",
+            "locationType": "study location",
+            "name": "Vietnam"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q258",
+            "locationType": "study location",
+            "name": "South Africa"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q928",
+            "locationType": "study location",
+            "name": "Philippines"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q869",
+            "locationType": "study location",
+            "name": "Thailand"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q668",
+            "locationType": "study location",
+            "name": "India"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q1020",
+            "locationType": "study location",
+            "name": "Malawi"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q1036",
+            "locationType": "study location",
+            "name": "Uganda"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q114",
+            "locationType": "study location",
+            "name": "Kenya"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q414",
+            "locationType": "study location",
+            "name": "Argentina"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q790",
+            "locationType": "study location",
+            "name": "Haiti"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q963",
+            "locationType": "study location",
+            "name": "Botswana"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q954",
+            "locationType": "study location",
+            "name": "Zimbabwe"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q16",
+            "locationType": "study location",
+            "name": "Canada"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "identifier": "Q924",
+            "locationType": "study location",
+            "name": "Tanzania"
+        }
+    ],
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Homo sapeins",
+                "Homo sapiens (SIRT6)",
+                "Humo sapiens",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Human",
+                "human",
+                "Home sapiens",
+                "Homo spaiens",
+                "Homo sapian",
+                "Homo sapien",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spiens",
+                "Homo sapience",
+                "Homo sapiens (PARIS)",
+                "Homo sapians"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2025-10-06",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "Homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "temporalCoverage": {
+        "@type": "TemporalInterval",
+        "duration": "1987/..",
+        "startDate": "1987-01-01",
+        "temporalType": "collection"
+    },
+    "topicCategory": {
+        "@type": "DefinedTerm",
+        "url": "http://edamontology.org/topic_0804"
+    },
+    "url": "https://www.immunespace.org",
+    "usageInfo": [
+        {
+            "name": "CC-BY",
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "variableMeasured": [
+        {
+            "alternateName": [
+                "Protein Structure"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Protein Structure",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C13303"
+        },
+        {
+            "alternateName": [
+                "Antigen Binding"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Antigen Binding",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C40474"
+        },
+        {
+            "alternateName": [
+                "T Cell Activation",
+                "T Lymphocyte Activation",
+                "T-Cell Activation",
+                "T-Lymphocyte Activation"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "T-Cell Activation",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C19053"
+        },
+        {
+            "alternateName": [
+                "B-Cell Activation"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-10-16",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "B-Cell Activation",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C19255"
+        }
+    ]
+}

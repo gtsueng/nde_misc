@@ -1,0 +1,45 @@
+{
+    "@type": "Dataset",
+    "_id": "ncbi_bioproject_prjdb611",
+    "_score": 3.9262645,
+    "date": "2014-03-31",
+    "datePublished": "2014-03-31",
+    "description": "For the promotion of various studies, we perform genome sequencing of the important 300 microbial organisms to human and the environment.",
+    "funding": {
+        "@type": "MonetaryGrant",
+        "funder": {
+            "@type": "Organization",
+            "alternateName": "MEXT",
+            "name": "The Ministry of Education, Culture, Sports, Science, and Technology, Japan"
+        },
+        "identifier": "12101536",
+        "name": "National BioResource Project, Genome Information Upgrading Program"
+    },
+    "identifier": "PRJDB611",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ncbi.nlm.nih.gov/bioproject/PRJDB611",
+        "name": "NCBI BioProject",
+        "url": "https://www.ncbi.nlm.nih.gov/bioproject/",
+        "versionDate": "2025-10-11"
+    },
+    "keywords": [
+        "monoisolate"
+    ],
+    "measurementTechnique": {
+        "@type": "DefinedTerm",
+        "name": "Sequencing"
+    },
+    "name": "Genome sequencing of Salmonella enterica subsp. enterica JCM 1652. Salmonella enterica subsp. enterica serovar Typhimurium str. JCM 1652",
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "identifier": "NCBITaxon:1236523",
+            "name": "Salmonella enterica subsp. enterica serovar Typhimurium str. JCM 1652"
+        }
+    ],
+    "url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJDB611",
+    "variableMeasured": {
+        "name": "Genome sequencing and assembly"
+    }
+}

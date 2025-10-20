@@ -1,0 +1,45 @@
+{
+    "@type": "Dataset",
+    "_id": "ndex_2e8d7e5f-e594-11ef-8e41-005056ae3c32",
+    "_score": 8.46287,
+    "author": {
+        "@type": "Person",
+        "name": "geneontology"
+    },
+    "conditionsOfAccess": "Open",
+    "date": "2025-03-28",
+    "dateCreated": "2025-02-07T20:43:27.072000",
+    "dateModified": "2025-03-28T23:11:32.903000",
+    "description": "\n",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentSize": 19991,
+        "encodingFormat": "cx2"
+    },
+    "identifier": "2e8d7e5f-e594-11ef-8e41-005056ae3c32",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ndexbio.org/viewer/networks/2e8d7e5f-e594-11ef-8e41-005056ae3c32",
+        "name": "NDEx",
+        "url": "https://www.ndexbio.org/",
+        "versionDate": "2025-07-05"
+    },
+    "isBasedOn": {
+        "@type": "ScholarlyArticle",
+        "url": "http://model.geneontology.org/632cf60a00000478"
+    },
+    "keywords": [
+        "[\"gomodel:632cf60a00000478\"]"
+    ],
+    "name": "HHV1-US11 inhibition of autophagy via TRIM23-TBK1 (Human-Herpesvirus) ",
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "identifier": "topic_0602",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular interactions, pathways and networks",
+            "url": "http://edamontology.org/topic_0602"
+        }
+    ],
+    "url": "https://www.ndexbio.org/viewer/networks/2e8d7e5f-e594-11ef-8e41-005056ae3c32"
+}

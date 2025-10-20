@@ -1,0 +1,229 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "e-geod-27555",
+    "_score": 6.1492376,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "The First Affiliated Hospital, Chongqing Medical University"
+            },
+            "name": "Chunyan Xiao"
+        },
+        {
+            "@type": "Person",
+            "name": "Bo Qin"
+        },
+        {
+            "@type": "Person",
+            "name": "Limin Chen"
+        },
+        {
+            "@type": "Person",
+            "name": "Lin Gong"
+        },
+        {
+            "@type": "Person",
+            "name": "Hongwei Liu"
+        },
+        {
+            "@type": "Person",
+            "name": "Yanling Zhu"
+        },
+        {
+            "@type": "Person",
+            "name": "Xi Lu"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "doi": "10.1111/j.1365-2893.2011.01471.x"
+        }
+    ],
+    "date": "2025-01-24",
+    "dateCreated": "2025-01-24",
+    "dateModified": "2025-01-24",
+    "datePublished": "2025-01-24",
+    "description": "Preactivation of the interferon signaling in liver is correlated with non-response to interferon alpha therapy in patients chronically infected with hepatitis B virus",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "https://www.omicsdi.org/ws/dataset/atlas-experiments/E-GEOD-27555",
+        "encodingFormat": "XML"
+    },
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Hepatitis B",
+                "Hepatitis B virus caused hepatitis",
+                "viral Hepatitis B",
+                "hepatitis type B",
+                "hepatitis B infection",
+                "Hepatitis B virus hepatitis",
+                "Hepatitis B infection"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "fromEXTRACT": true,
+            "identifier": "0005344",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "hepatitis B virus infection",
+            "originalName": "Hepatitis B",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005344"
+        }
+    ],
+    "identifier": "E-GEOD-27555",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://www.omicsdi.org/dataset/atlas-experiments/E-GEOD-27555",
+            "name": "Omics Discovery Index (OmicsDI)",
+            "url": "https://www.omicsdi.org/",
+            "versionDate": "2025-10-01"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://www.ebi.ac.uk/studies/E-GEOD-27555",
+            "dataset": "https://www.ebi.ac.uk/arrayexpress/studies/E-GEOD-27555",
+            "name": "BioStudies",
+            "url": "https://www.ebi.ac.uk/biostudies/",
+            "versionDate": "2025-07-04"
+        }
+    ],
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "human hepatitis B virus HBV",
+                "hepatitis B virus HBV",
+                "hepatitis B virus, HBV",
+                "Human hepatitis B virus",
+                "HBV",
+                "hepatitis B virus (HBV)"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "HBV",
+            "displayName": "HBV | Hepatitis B virus",
+            "fromEXTRACT": true,
+            "identifier": "10407",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Hepatitis B virus",
+            "originalName": "hepatitis B virus",
+            "url": "https://www.uniprot.org/taxonomy/10407"
+        }
+    ],
+    "isRelatedTo": [
+        {
+            "identifier": "E-GEOD-27555",
+            "url": "https://www.omicsdi.org/dataset/biostudies-arrayexpress/E-GEOD-27555"
+        }
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "name": "transcription profiling by array"
+        },
+        {
+            "@type": "DefinedTerm",
+            "name": "Array assay"
+        },
+        {
+            "@type": "DefinedTerm",
+            "name": "RNA assay"
+        }
+    ],
+    "name": "E-GEOD-27555",
+    "sdPublisher": {
+        "@type": "Organization",
+        "name": "ExpressionAtlas",
+        "url": "https://www.omicsdi.org/dataset/atlas-experiments/E-GEOD-27555"
+    },
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0781",
+            "inDefinedTermSet": "EDAM",
+            "name": "Virology",
+            "url": "http://edamontology.org/topic_0781"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0203",
+            "inDefinedTermSet": "EDAM",
+            "name": "Gene expression",
+            "url": "http://edamontology.org/topic_0203"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        }
+    ],
+    "url": "https://www.omicsdi.org/dataset/atlas-experiments/E-GEOD-27555",
+    "variableMeasured": [
+        {
+            "name": "Genomics"
+        }
+    ]
+}

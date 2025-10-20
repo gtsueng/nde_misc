@@ -5,11 +5,12 @@
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 14.668658,
+    "_score": 14.419231,
     "abstract": "The CAnine Microbiome during Parasitism (CAMP) study explors the impact of natural enteric parasite infection on diarrhea and the gut microbiome in domesticated dogs.",
     "alternateName": "MicrobiomeStudyEDA_CAMP_RSRC",
     "author": [
         {
+            "@type": "Person",
             "affiliation": {
                 "name": "University of Pennsylvania"
             },
@@ -24,12 +25,14 @@
     "description": "Enteric parasitic infections are among the most prevalent infections in the developing world, and have a profound impact on global public health.  While the microbiome is increasingly recognized as a key determinant of gut health and human development, the impact of natural parasite infections on the microbial community in the gut is poorly understood.  There are several challenges to studying parasite-microbiome interactions in a human population, including frequent administration of anti-parasitic treatments, malnourishment, and low prevalence of these infections in developed countries.  In contrast, enteric parasites are routinely identified in annual screens of domestic dogs and cats in the United States, presenting a unique opportunity to investigate the impact of naturally-acquired parasite infections on the microbiome.  Giardia, for example, is among the most prevalent parasites in domestic dogs and cats. Here, we investigated the impact of eukaryotic parasite infection on the composition and diversity of the gut microbiome in a cohort of 270 dogs. Fecal samples of uninfected dogs (43%), dogs infected with a single parasite (48%), and dogs infected with multiple parasites (9%), were obtained from patients at the University of Pennsylvania\u2019s Ryan Veterinary Hospital. The V4 region of the 16S rRNA gene was sequenced at an average depth of 45,000 reads per sample. We observed a significant correlation between parasite infection and beta diversity consistent with the hypothesis that enteric parasites perturb the composition of the bacterial microbiome.  We also observed that, relative to other types of enteric pathogens observed in our dataset, Giardia was associated with a more pronounced perturbation of the microbiome.  Finally, we use publicly available data from large-scale human field studies of enteric diseases to compare and contrast parasite-induced alterations in the microbiome across host species.\nThe CAnine Microbiome during Parasitism (CAMP) study explores the impact of natural enteric parasite infection and diarrhea on the structure and composition of the microbiome.\n155 dogs with confirmed enteric parasite infection and 115 control animals (parasites not detected)\n270 stool samples; V4 region of 16S rRNA gene.\nCase-control (retrospective) design carried out with the Clinical Parasitology Laboratory at PennVet's Ryan Hospital.",
     "distribution": [
         {
+            "@type": "DataDownload",
             "contentUrl": "https://microbiomedb.org/mbio/app/downloads/release-11/5aa0a2e0934c22d1eb4d7b09cb6af2c2caa10762",
             "datePublished": "2019-03-07",
             "identifier": "DS_5aa0a2e093",
             "name": "MicrobiomeStudyEDA_CAMP_RSRC"
         },
         {
+            "@type": "DataDownload",
             "contentUrl": "https://microbiomedb.org/mbio/app/downloads/release-32/5aa0a2e0934c22d1eb4d7b09cb6af2c2caa10762",
             "datePublished": "2023-05-30",
             "identifier": "DS_5aa0a2e093",
@@ -38,6 +41,7 @@
     ],
     "healthCondition": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "diarrheal disease",
                 "diarrhoea",
@@ -65,10 +69,11 @@
         "archivedAt": "https://microbiomedb.org/mbio/app/record/dataset/DS_5aa0a2e093",
         "name": "MicrobiomeDB",
         "url": "https://microbiomedb.org/mbio/app",
-        "versionDate": "2025-08-23"
+        "versionDate": "2025-10-11"
     },
     "infectiousAgent": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "mice gut metagenome"
             ],
@@ -83,6 +88,7 @@
             "url": "https://www.uniprot.org/taxonomy/410661"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Giardia Kunstler, 1882"
             ],
@@ -103,6 +109,7 @@
     "name": "CAMP study",
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "dogs",
                 "beagle dogs",
@@ -130,6 +137,7 @@
             "url": "https://www.uniprot.org/taxonomy/9615"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Humo sapiens",
                 "Home sapiens",
@@ -160,6 +168,7 @@
             "url": "https://www.uniprot.org/taxonomy/9606"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Cat",
                 "cats",

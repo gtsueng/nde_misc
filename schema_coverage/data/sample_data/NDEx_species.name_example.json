@@ -1,35 +1,41 @@
 {
     "@type": "Dataset",
-    "_id": "ndex_11756a8a-84b4-11ec-b3be-0ac135e8bacf",
-    "_ignored": [
-        "all.keyword"
-    ],
-    "_score": 8.719278,
+    "_id": "ndex_2e7876c8-5c6d-11ec-b3be-0ac135e8bacf",
+    "_score": 8.46287,
     "author": {
-        "name": "klaskaris"
+        "@type": "Person",
+        "name": "WikiPathways team"
     },
     "conditionsOfAccess": "Open",
-    "date": "2025-04-01",
-    "dateCreated": "2022-02-03T05:42:26.354000",
-    "dateModified": "2025-04-01T21:52:49.509000",
-    "description": "This network was assembled automatically by INDRA (http://indra.bio) by processing all available biomedical literature with multiple machine reading systems, and integrating curated pathway databases. The network represents mechanistic interactions between genes/proteins that are associated with this GO process.",
+    "date": "2025-04-17",
+    "dateCreated": "2021-12-13T23:34:14.248000",
+    "dateModified": "2025-04-17T00:29:31.981000",
+    "description": "Overlap of cellular insulin and leptin signaling.\n\nProteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP3935 CPTAC Assay Portal]",
     "distribution": {
-        "contentSize": 16642
+        "@type": "DataDownload",
+        "contentSize": 37751,
+        "encodingFormat": "cx2"
     },
-    "identifier": "11756a8a-84b4-11ec-b3be-0ac135e8bacf",
+    "identifier": "2e7876c8-5c6d-11ec-b3be-0ac135e8bacf",
     "includedInDataCatalog": {
         "@type": "DataCatalog",
-        "archivedAt": "https://www.ndexbio.org/viewer/networks/11756a8a-84b4-11ec-b3be-0ac135e8bacf",
+        "archivedAt": "https://www.ndexbio.org/viewer/networks/2e7876c8-5c6d-11ec-b3be-0ac135e8bacf",
         "name": "NDEx",
         "url": "https://www.ndexbio.org/",
         "versionDate": "2025-07-05"
     },
     "keywords": [
+        "insulin signaling pathway",
+        "leptin system pathway",
         "pathway"
     ],
-    "name": "GO:0042490 (mechanoreceptor differentiation)",
+    "name": "WP3935 - Leptin-insulin signaling overlap - Homo sapiens",
+    "sameAs": [
+        "http://identifiers.org/wikipathways/WP3935"
+    ],
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Human",
                 "Homo sapiens Linnaeus, 1758",
@@ -60,12 +66,13 @@
             "inDefinedTermSet": "UniProt",
             "isCurated": true,
             "name": "Homo sapiens",
-            "originalName": "human",
+            "originalName": "homo sapiens",
             "url": "https://www.uniprot.org/taxonomy/9606"
         }
     ],
     "topicCategory": [
         {
+            "@type": "DefinedTerm",
             "identifier": "topic_0602",
             "inDefinedTermSet": "EDAM",
             "name": "Molecular interactions, pathways and networks",
@@ -78,10 +85,10 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_3070",
+            "identifier": "topic_0121",
             "inDefinedTermSet": "EDAM",
-            "name": "Biology",
-            "url": "http://edamontology.org/topic_3070"
+            "name": "Proteomics",
+            "url": "http://edamontology.org/topic_0121"
         },
         {
             "@type": "DefinedTerm",
@@ -90,10 +97,10 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_0091",
+            "identifier": "topic_3407",
             "inDefinedTermSet": "EDAM",
-            "name": "Bioinformatics",
-            "url": "http://edamontology.org/topic_0091"
+            "name": "Endocrinology and metabolism",
+            "url": "http://edamontology.org/topic_3407"
         },
         {
             "@type": "DefinedTerm",
@@ -108,5 +115,5 @@
             "url": "http://edamontology.org/topic_2229"
         }
     ],
-    "url": "https://www.ndexbio.org/viewer/networks/11756a8a-84b4-11ec-b3be-0ac135e8bacf"
+    "url": "https://www.ndexbio.org/viewer/networks/2e7876c8-5c6d-11ec-b3be-0ac135e8bacf"
 }

@@ -1,28 +1,19 @@
 {
     "@context": "https://schema.org/",
     "@type": "Dataset",
-    "_id": "sdy1041",
+    "_id": "sdy1968",
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 12.879556,
-    "abstract": "An analysis of human cytomegalovirus (CMV)-specific T cell responses and CMV persistence in multiple anatomic sites including blood, lymphoid, mucosal and secretory tissues of CMV-seropositive donors.",
-    "author": [
-        {
-            "@type": "Person",
-            "affiliation": {
-                "name": "Columbia University"
-            },
-            "name": "Donna Farber"
-        }
-    ],
+    "_score": 12.628206,
+    "abstract": "Identify age- and response-related metabolic signatures to after influenza vaccination.",
     "citedBy": [
         {
             "@type": "ScholarlyArticle",
-            "doi": "10.1084/jem.20160758",
-            "name": "Tissue reservoirs of antiviral T cell immunity in persistent human CMV infection.",
-            "pmid": "28130404",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/28130404"
+            "doi": "10.1111/acel.13682",
+            "name": "Metabolomic and transcriptomic signatures of influenza vaccine response in healthy young and older adults.",
+            "pmid": "35996998",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35996998"
         }
     ],
     "conditionsOfAccess": "Closed",
@@ -30,23 +21,25 @@
         "@type": "Organization",
         "name": "ImmPort Data Curation Team"
     },
-    "date": "2019-06-19",
-    "dateModified": "2019-06-19T00:00:00",
-    "description": "We present human T cell responses in multiple sites including blood, lymphoid, mucosal and secretory tissues of 20 CMV seropositive donors. Overall, CMV-specific T cells were maintained in distinct distribution patterns, either predominant in blood, bone marrow (BM) and lung, or lymph nodes (LN) with the frequency and function in blood distinct from tissues. Together, our results reveal tissue T cell reservoirs for CMV control, with global effects on T cell homeostasis over the human lifespan.",
+    "date": "2022-09-02",
+    "dateModified": "2022-09-02T00:00:00",
+    "description": "Seasonal epidemics caused by influenza viruses are a major public health concern that result in mild to severe respiratory infections in humans. There is significant morbidity and mortality associated with influenza, particularly among adults aged 65 or older. While three types of effective vaccines (inactivated, live attenuated, and recombinant hemagglutinin antigen (HA) vaccines) have been developed to help improve health outcomes, vaccine response remains poor, particularly in older populations. In this study, we use a combination of transcriptomics and untargeted metabolomics to define signatures of high and low antibody response after vaccination against influenza in a cohort of young and older adults. Through this multi-omics approach, we identify age-related molecular markers associated with influenza vaccine response. Uncovering these molecular profiles will help to identify populations at risk of influenza vaccine failure, as well as to inform design of vaccine development trials to improve vaccine efficacy.",
     "distribution": [
         {
             "@type": "DataDownload",
-            "contentUrl": "https://browser.immport.org/browser?path=SDY1041",
-            "dateModified": "2019-06-19T00:00:00",
+            "contentUrl": "https://browser.immport.org/browser?path=SDY1968",
+            "dateModified": "2022-09-02T00:00:00",
             "encodingFormat": "URL"
         }
     ],
-    "doi": "10.21430/M3MIPLU7ZU",
+    "doi": "10.21430/M320NKDIF3",
     "funding": [
         {
-            "endDate": "2018-05-31",
+            "@type": "MonetaryGrant",
+            "endDate": "2011-06-30",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -57,21 +50,22 @@
                     "parentOrganization": "National Institutes of Health"
                 }
             ],
-            "identifier": "1P01AI106697-01",
-            "name": "Tissue compartmentalization of human lymphocytes",
+            "identifier": "1U19AI089992-01",
+            "name": "Defining signatures for immune responsiveness by functional systems immunology",
             "projectNumSplit": {
-                "activityCode": "P01",
+                "activityCode": "U19",
                 "applTypeCode": "1",
                 "fullSupportYear": "01",
                 "icCode": "AI",
-                "serialNum": "106697",
+                "serialNum": "089992",
                 "suffixCode": "",
                 "supportYear": "01"
             },
-            "startDate": "2013-06-01",
-            "url": "https://reporter.nih.gov/project-details/8552204"
+            "startDate": "2010-07-12",
+            "url": "https://reporter.nih.gov/project-details/7977189"
         },
         {
+            "@type": "MonetaryGrant",
             "funder": {
                 "@type": "Organization",
                 "alternateName": [
@@ -87,70 +81,63 @@
     ],
     "healthCondition": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
-                "Cytomegaloviral infection",
-                "CMV infection",
-                "HCMV infection"
+                "influenza with non-respiratory manifestation",
+                "orthomyxoviridae caused disease or disorder",
+                "Influenza with other manifestations",
+                "orthomyxoviridae disease or disorder",
+                "flu",
+                "influenza infection",
+                "orthomyxoviridae infectious disease"
             ],
-            "curatedBy": {
-                "dateModified": "2024-11-26",
-                "name": "Biothings API",
-                "url": "https://biothings.io/"
-            },
-            "identifier": "0005132",
+            "identifier": "0005812",
             "inDefinedTermSet": "MONDO",
             "isCurated": true,
-            "name": "cytomegalovirus infection",
-            "originalName": "cmv infection",
-            "url": "http://purl.obolibrary.org/obo/MONDO_0005132"
-        },
-        {
-            "name": "cmv-specific t cell differentiation, homeostasis and persistence in blood, lymphoid, and mucosal tissues"
+            "name": "influenza",
+            "originalName": "influenza",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005812"
         }
     ],
     "identifier": [
-        "10.21430/M3MIPLU7ZU"
+        "10.21430/M320NKDIF3"
     ],
     "includedInDataCatalog": [
         {
             "@type": "DataCatalog",
-            "archivedAt": "https://immport.org/shared/study/SDY1041",
+            "archivedAt": "https://immport.org/shared/study/SDY1968",
             "name": "ImmPort",
             "url": "https://immport.org",
-            "versionDate": "2019-06-19T00:00:00"
+            "versionDate": "2022-09-02T00:00:00"
         },
         {
             "@type": "DataCatalog",
-            "archivedAt": "https://immunespace.org/query/study/SDY1041",
+            "archivedAt": "https://immunespace.org/query/study/SDY1968",
             "name": "ImmuneSpace",
             "url": "https://immunespace.org",
-            "versionDate": "2025-08-23"
+            "versionDate": "2025-10-11"
         }
     ],
     "isAccessibleForFree": true,
     "isBasedOn": [
         {
+            "@type": "ScholarlyArticle",
             "additionalType": {
-                "name": "Assay"
+                "name": "Clinical Study Protocol"
             },
-            "description": "All t-cell characeterization protocols from Gordon et al. 2017, JEM",
-            "identifier": "PTL8625",
-            "name": "Gordon - JEM 2017 Protocols.pdf",
-            "url": "https://www.immport.org/browser/?path=SDY1041"
+            "description": "Metabolomics Protocol for HIPC Serum & Plasma Samples Using Multiple LC-MS Methods",
+            "identifier": "PTL9998",
+            "name": "MetabolomicsProtocol_HIPC_serum_plasma.pdf",
+            "url": "https://www.immport.org/browser/?path=SDY1968"
         }
     ],
     "keywords": [
-        "NIAID Investigator Initiated Program Project Applications (P01) PAR-16-413, PAR-13-254",
-        "FCS data classifying T cells"
+        "Human Immunology Project Consortium (HIPC) RFA-AI-15-041",
+        "Mass spectrometry"
     ],
     "license": "https://www.immport.org/agreement",
-    "measurementTechnique": [
-        {
-            "name": "Flow Cytometry"
-        }
-    ],
-    "name": "CMV CD8 T Cells",
-    "sameAs": "https://doi.org/10.21430/M3MIPLU7ZU",
+    "name": "Metabolomic and transcriptomic signatures of influenza vaccine response in healthy young and older adults",
+    "sameAs": "https://doi.org/10.21430/M320NKDIF3",
     "sourceOrganization": [
         {
             "@type": "ResearchProject",
@@ -159,6 +146,7 @@
                 "HIPC",
                 "Human Immunology Project Consortium"
             ],
+            "correctionApproved": true,
             "description": "The Human Immunology Project Consortium (HIPC) is a network of researchers established to create a public resource that characterizes the diverse states of the human immune system. HIPC investigators use modern analytic tools to profile the immune system before and after infection, vaccination, or treatment with an adjuvant.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/human-immunology-project-consortium",
             "name": "NIAID HIPC Network",
             "parentOrganization": [
@@ -169,6 +157,7 @@
     ],
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Human",
                 "Homo sapiens Linnaeus, 1758",
@@ -211,11 +200,35 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
+            "identifier": "topic_3308",
+            "inDefinedTermSet": "EDAM",
+            "name": "Transcriptomics",
+            "url": "http://edamontology.org/topic_3308"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3966",
+            "inDefinedTermSet": "EDAM",
+            "name": "Vaccinology",
+            "url": "http://edamontology.org/topic_3966"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
             "identifier": "topic_0804",
             "inDefinedTermSet": "EDAM",
             "name": "Immunology",
             "url": "http://edamontology.org/topic_0804"
         }
     ],
-    "url": "https://immport.org/shared/study/SDY1041"
+    "url": "https://immport.org/shared/study/SDY1968"
 }

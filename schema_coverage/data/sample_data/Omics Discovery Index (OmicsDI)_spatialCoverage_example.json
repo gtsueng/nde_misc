@@ -1,0 +1,109 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "2379428",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 6.1492376,
+    "date": "2021-06-15",
+    "dateCreated": "2021-06-15",
+    "description": "Long course radiotherapy plus neoadjuvant chemotherapy followed by resection total mesorecta excision has accepted widespread recognized in the treatment of locally advanced rectal cancer (LARC). Tislelizumab, an anti-PD1(programmed death 1) humanized IgG4 (Immunoglomin G4) monoclonal antibody, has been demonstrated with clinical activity and is approved for treating recurrent/refractory classical Hodgkin lymphoma and locally advanced/metastatic urothelial carcinoma in China.\nThe aim of This NCRT-PD-1-LARC trial is to evaluate the efficacy and safety of long course neoadjuvant chemoradiotherapy plus tislelizumab followed by total mesorecta excision for LARC. This NCRT-PD-1-LARC trial will be a prospective, multicenter and phase \u2161 clinical trial designed to evaluate the safety and efficacy of LARC patients treated with long course neoadjuvant chemoradiotherapy plus tislelizumab followed by total mesorecta excision. It will consecutively enroll 50 stage II/III LARC patients (cT3N0M0 and cT1-3N1-2M0) with the tumor distal location \u2264 10cm from anal verge at 7 centers in China. The enrolled patients will receive long course radiotherapy (50 Gy/25 f, 2 Gy/f, 5 days/week) and three 21-day cycles capecitabine (1000 mg/m2, bid, po, day1-14) plus three 21-day cycles tislelizumab (200 mg, iv.gtt, day8), followed by total mesorecta excision 6-12 week after the end of radiotherapy. The primary efficacy endpoint will be the pathological complete response (pCR) rate, which is defined as absence of viable tumor cells in the primary tumor and lymph nodes.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "https://www.omicsdi.org/ws/dataset/ecrin-mdr-crc/2379428",
+        "encodingFormat": "XML"
+    },
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "colorectal tumor",
+                "colorectal neoplasm",
+                "colorectum neoplasm",
+                "large intestine tumour",
+                "tumour of colorectum",
+                "tumor of colorectum",
+                "large bowel tumour",
+                "colorectal tumour",
+                "neoplasm of the large bowel",
+                "tumour of large bowel",
+                "large bowel neoplasm",
+                "colorectum tumor",
+                "colorectum neoplasm (disease)",
+                "tumour of the large bowel",
+                "large bowel tumor",
+                "tumor of large bowel",
+                "large intestinal neoplasm",
+                "colorectum tumour",
+                "tumor of the large bowel",
+                "large intestine neoplasm",
+                "neoplasm of colorectum",
+                "large intestine tumor",
+                "neoplasm of large bowel"
+            ],
+            "curatedBy": {
+                "dateModified": "2024-11-27",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0005335",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "colorectal neoplasm",
+            "originalName": "colorectal neoplasms",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005335"
+        }
+    ],
+    "identifier": "2379428",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.omicsdi.org/dataset/ecrin-mdr-crc/2379428",
+        "name": "Omics Discovery Index (OmicsDI)",
+        "url": "https://www.omicsdi.org/",
+        "versionDate": "2025-10-01"
+    },
+    "isRelatedTo": [
+        {
+            "identifier": "NCT04911517"
+        }
+    ],
+    "keywords": [
+        "Capecitabine",
+        "Neoadjuvant Therapy",
+        "Antibodies, Monoclonal",
+        "Antibodies",
+        "Programmed Cell Death 1 Receptor"
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "name": "Interventional"
+        }
+    ],
+    "name": "Neoadjuvant Chemoradiotherapy Plus Tislelizumab Followed by TME for LARC.",
+    "sameAs": [
+        "https://newmdr.ecrin.org/Study/2379428"
+    ],
+    "sdPublisher": {
+        "@type": "Organization",
+        "name": "ecrin-mdr-crc",
+        "url": "https://www.omicsdi.org/dataset/ecrin-mdr-crc/2379428"
+    },
+    "spatialCoverage": [
+        {
+            "@type": "Place",
+            "name": "China"
+        }
+    ],
+    "temporalCoverage": {
+        "@type": "TemporalInterval",
+        "startDate": "2021-10-01"
+    },
+    "url": "https://www.omicsdi.org/dataset/ecrin-mdr-crc/2379428",
+    "variableMeasured": [
+        {
+            "name": "Clinical"
+        }
+    ]
+}

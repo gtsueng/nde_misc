@@ -1,0 +1,106 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dataverse_10.7910_dvn_1zzuzx",
+    "_score": 7.7842293,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "(Wheaton College)"
+            },
+            "name": "Master, Daniel M."
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "(Harvard University)"
+            },
+            "name": "Stager, Lawrence E."
+        }
+    ],
+    "date": "2022-03-25",
+    "dateModified": "2022-03-25",
+    "datePublished": "2022-03-25",
+    "description": "Link to OCHRE database: http://pi.lib.uchicago.edu/1001/org/ochre/daaaf27a-af45-4290-b21a-eb78ff53c984",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "description": "http://pi.lib.uchicago.edu/1001/org/ochre/daaaf27a-af45-4290-b21a-eb78ff53c984",
+            "encodingFormat": "image/jpeg",
+            "name": "A11_19948.jpg"
+        }
+    ],
+    "doi": "https://doi.org/10.7910/DVN/1ZZUZX",
+    "funding": {
+        "@type": "MonetaryGrant",
+        "funder": [
+            {
+                "@type": "Organization",
+                "name": "The Leon Levy Foundation"
+            }
+        ]
+    },
+    "identifier": "10.7910/DVN/1ZZUZX",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://doi.org/10.7910/DVN/1ZZUZX",
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/",
+        "versionDate": "2025-04-07"
+    },
+    "keywords": "Arts and Humanities",
+    "license": "https://dataverse.harvard.edu/api/datasets/:persistentId/versions/1.0/customlicense?persistentId=doi:10.7910/DVN/1ZZUZX",
+    "name": "A11_19948.jpg",
+    "sdPublisher": [
+        {
+            "@type": "Organization",
+            "name": "Harvard Dataverse"
+        }
+    ],
+    "spatialCoverage": [
+        {
+            "@type": "Place",
+            "name": "Ashkelon"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3489",
+            "inDefinedTermSet": "EDAM",
+            "name": "Database management",
+            "url": "http://edamontology.org/topic_3489"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0219",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data submission, annotation, and curation",
+            "url": "http://edamontology.org/topic_0219"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3372",
+            "inDefinedTermSet": "EDAM",
+            "name": "Software engineering",
+            "url": "http://edamontology.org/topic_3372"
+        }
+    ],
+    "url": "https://doi.org/10.7910/DVN/1ZZUZX"
+}

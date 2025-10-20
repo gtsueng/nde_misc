@@ -1,0 +1,212 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "e-geod-27034",
+    "_score": 6.1492376,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Mayo Clinic"
+            },
+            "name": "Iftikhar Kullo"
+        },
+        {
+            "@type": "Person",
+            "name": "Rizwan Masud"
+        },
+        {
+            "@type": "Person",
+            "name": "Khader Shameer"
+        },
+        {
+            "@type": "Person",
+            "name": "Aparna Dhar"
+        },
+        {
+            "@type": "Person",
+            "name": "Keyue Ding"
+        },
+        {
+            "@type": "Person",
+            "name": "Kullo Iftikhar"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "doi": "10.1186/2043-9113-2-6"
+        }
+    ],
+    "date": "2025-01-24",
+    "dateCreated": "2025-01-24",
+    "dateModified": "2025-01-24",
+    "datePublished": "2025-01-24",
+    "description": "Transcription profiling by array of human peripheral blood mononuclear cells from patients with peripheral arterial disease",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "https://www.omicsdi.org/ws/dataset/atlas-experiments/E-GEOD-27034",
+        "encodingFormat": "XML"
+    },
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "normal"
+            ],
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "C14165",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Normal",
+            "originalName": "normal",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C14165"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "pad",
+                "peripheral arterial disorder"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0005386",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "peripheral arterial disease",
+            "originalName": "peripheral arterial disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005386"
+        }
+    ],
+    "identifier": "E-GEOD-27034",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://www.omicsdi.org/dataset/atlas-experiments/E-GEOD-27034",
+            "name": "Omics Discovery Index (OmicsDI)",
+            "url": "https://www.omicsdi.org/",
+            "versionDate": "2025-10-01"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://www.ebi.ac.uk/studies/E-GEOD-27034",
+            "dataset": "https://www.ebi.ac.uk/arrayexpress/studies/E-GEOD-27034",
+            "name": "BioStudies",
+            "url": "https://www.ebi.ac.uk/biostudies/",
+            "versionDate": "2025-07-04"
+        }
+    ],
+    "isRelatedTo": [
+        {
+            "identifier": "E-GEOD-27034",
+            "url": "https://www.omicsdi.org/dataset/biostudies-arrayexpress/E-GEOD-27034"
+        }
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "name": "transcription profiling by array"
+        },
+        {
+            "@type": "DefinedTerm",
+            "name": "Array assay"
+        },
+        {
+            "@type": "DefinedTerm",
+            "name": "RNA assay"
+        }
+    ],
+    "name": "E-GEOD-27034",
+    "sdPublisher": {
+        "@type": "Organization",
+        "name": "ExpressionAtlas",
+        "url": "https://www.omicsdi.org/dataset/atlas-experiments/E-GEOD-27034"
+    },
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapian",
+                "Homo sapiens Linnaeus, 1758",
+                "Homo sampiens",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapients",
+                "Homo spaiens",
+                "Homo spiens",
+                "Human",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sapiense",
+                "human"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromEXTRACT": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "originalName": "human",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0634",
+            "inDefinedTermSet": "EDAM",
+            "name": "Pathology",
+            "url": "http://edamontology.org/topic_0634"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3308",
+            "inDefinedTermSet": "EDAM",
+            "name": "Transcriptomics",
+            "url": "http://edamontology.org/topic_3308"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        }
+    ],
+    "url": "https://www.omicsdi.org/dataset/atlas-experiments/E-GEOD-27034",
+    "variableMeasured": [
+        {
+            "name": "Genomics"
+        },
+        {
+            "name": "Multiomics"
+        }
+    ]
+}

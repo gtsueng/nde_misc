@@ -1,0 +1,231 @@
+{
+    "@type": "Dataset",
+    "_id": "pdb_7lul",
+    "_score": 5.952618,
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Singer, A.U."
+        },
+        {
+            "@type": "Person",
+            "name": "Teyra, J."
+        },
+        {
+            "@type": "Person",
+            "name": "McLaughlin, M."
+        },
+        {
+            "@type": "Person",
+            "name": "Ernst, A."
+        },
+        {
+            "@type": "Person",
+            "name": "Sicheri, F."
+        },
+        {
+            "@type": "Person",
+            "name": "Sidhu, S.S."
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Teyra, J."
+                },
+                {
+                    "@type": "Person",
+                    "name": "McLaughlin, M."
+                },
+                {
+                    "@type": "Person",
+                    "name": "Singer, A."
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kelil, A."
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ernst, A."
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sicheri, F."
+                },
+                {
+                    "@type": "Person",
+                    "name": "Sidhu, S.S."
+                }
+            ],
+            "datePublished": 2021,
+            "doi": "10.1016/j.jmb.2021.167115",
+            "journalNameAbbrev": "J.Mol.Biol.",
+            "name": "Comprehensive Assessment of the Relationship Between Site -2 Specificity and Helix alpha 2 in the Erbin PDZ Domain.",
+            "pagination": "167115 - 167115",
+            "pmid": 34171344,
+            "volumeNumber": "433"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "The Protein Data Bank",
+        "url": "https://www.rcsb.org/structure/7LUL",
+        "versionDate": "2025-10-11"
+    },
+    "date": "2024-04-03",
+    "dateModified": "2024-04-03",
+    "datePublished": "2021-02-22",
+    "description": "Structure of the MM2 Erbin PDZ variant in complex with a high-affinity peptide",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://www.rcsb.org/fasta/entry/7LUL",
+            "dateModified": "2024-04-03",
+            "encodingFormat": "FASTA"
+        },
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://files.rcsb.org/download/7LUL.cif",
+            "dateModified": "2024-04-03",
+            "encodingFormat": "PDBx/mmCIF"
+        },
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://files.rcsb.org/download/7LUL.xml.gz",
+            "dateModified": "2024-04-03",
+            "encodingFormat": "PDB XML"
+        }
+    ],
+    "doi": "10.2210/pdb_7LUL/pdb",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "name": "Canadian Institutes of Health Research (CIHR)"
+            },
+            "identifier": "MOP-93684"
+        }
+    ],
+    "identifier": "7LUL",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.rcsb.org/structure/7LUL",
+        "name": "Protein Data Bank",
+        "url": "https://www.rcsb.org/",
+        "versionDate": "2025-10-11"
+    },
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "artificial",
+                "artificial gene",
+                "artificial oligonucleotide",
+                "artificial sequence",
+                "SYNTHETIC CONSTRUCT sequences",
+                "synthetic oligonucleotides",
+                "synthetic constructs",
+                "primer",
+                "synthetic",
+                "synthetic DNA"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2024-04-18",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "synthetic construct",
+            "identifier": "32630",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "synthetic construct",
+            "originalName": "synthetic construct",
+            "url": "https://www.uniprot.org/taxonomy/32630"
+        }
+    ],
+    "keywords": [
+        "directed evolution",
+        "specificity",
+        "SIGNALING PROTEIN",
+        "-2 position",
+        "Phage display",
+        "phage library"
+    ],
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "inDefinedTermSet": "CHMO",
+            "name": "X-ray diffraction",
+            "url": "http://purl.obolibrary.org/obo/CHMO_0000156"
+        }
+    ],
+    "name": "Structure of the MM2 Erbin PDZ variant in complex with a high-affinity peptide",
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": {
+        "@type": "DefinedTerm",
+        "inDefinedTermSet": "EDAM",
+        "url": "http://edamontology.org/topic_2814"
+    },
+    "url": "https://www.rcsb.org/structure/7LUL",
+    "usageInfo": {
+        "url": "https://www.rcsb.org/pages/policies"
+    },
+    "variableMeasured": [
+        {
+            "@type": "DefinedTerm",
+            "inDefinedTermSet": "NCIT",
+            "name": "Resolution",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C47876"
+        },
+        {
+            "@type": "DefinedTerm",
+            "inDefinedTermSet": "EDAM",
+            "name": "Protein Structure",
+            "url": "http://edamontology.org/data_1460"
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "@type": "Dataset",
+    "@version": "1",
+    "_id": "radx_110",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 12.741048,
+    "author": [
+        {
+            "@type": "Person",
+            "familyName": "Ly",
+            "givenName": "Jeffrey"
+        }
+    ],
+    "conditionsOfAccess": "Restricted",
+    "date": "2024-08-30",
+    "dateCreated": "2022-01-06",
+    "dateModified": "2022-01-05",
+    "datePublished": "2024-08-30",
+    "description": "This study was designed to develop aptamer-based electrochemical detection platform with SARS-CoV-2 as the model system to demonstrate performance. As this study was a technology development, the data generated did not involve human samples or human subjects. The project's goals were relayed as a data summary in the form of a presentation recapping the study journey and performance characteristics including: LOD, sensitivity, specificity, throughput, etc. of the minimal viable prototype platform developed as a result of this technology-based development project supported by the NIH.",
+    "doi": "10.60773/rqhz-1a60",
+    "funding": {
+        "@type": "MonetaryGrant",
+        "funder": [
+            {
+                "@type": "Organization",
+                "name": "NIDCR"
+            }
+        ]
+    },
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2019 novel coronavirus infection",
+                "2019-nCoV infection",
+                "coronavirus disease 2019",
+                "severe acute respiratory syndrome coronavirus 2 infectious disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0100096",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "COVID-19",
+            "originalName": "COVID-19",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0100096"
+        }
+    ],
+    "identifier": "phs002702",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://radxdatahub.nih.gov/study/110",
+        "name": "RADx Data Hub",
+        "url": "https://radxdatahub.nih.gov/",
+        "versionDate": "2025-03-26"
+    },
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "SARS-CoV",
+                "SARS virus",
+                "SARS coronavirus"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Severe acute respiratory syndrome coronavirus",
+            "fromEXTRACT": true,
+            "identifier": "2901879",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Severe acute respiratory syndrome coronavirus",
+            "originalName": "SARS-CoV-2",
+            "url": "https://www.uniprot.org/taxonomy/2901879"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2019-nCoV",
+                "Wuhan coronavirus",
+                "SARS-2",
+                "SARS-CoV2",
+                "Wuhan seafood market pneumonia virus",
+                "HCoV-19",
+                "COVID19",
+                "COVID-19 virus",
+                "Human coronavirus 2019",
+                "COVID-19"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "2019-nCoV",
+            "curatedBy": {
+                "dateModified": "2025-02-09",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "2019-nCoV | Severe acute respiratory syndrome coronavirus 2",
+            "identifier": "2697049",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Severe acute respiratory syndrome coronavirus 2",
+            "originalName": "Severe acute respiratory syndrome coronavirus 2",
+            "url": "https://www.uniprot.org/taxonomy/2697049"
+        }
+    ],
+    "keywords": [
+        "Novel Biosensing or VOC",
+        "Virological Testing",
+        "Medical Device or Tool Development"
+    ],
+    "license": "https://sharing.nih.gov/accessing-data/accessing-genomic-data/how-to-request-and-access-datasets-from-dbgap",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "0000453",
+            "inDefinedTermSet": "CIDO",
+            "isCurated": true,
+            "name": "COVID-19 diagnostic testing device",
+            "originalName": "Unspecified COVID Testing Device",
+            "url": "http://purl.obolibrary.org/obo/CIDO_0000453"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C139174",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Device Feasibility Study",
+            "originalName": "Device Verification",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C139174"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C16723",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Immunological Test",
+            "originalName": "Immunological",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C16723"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "0010264",
+            "inDefinedTermSet": "BAO",
+            "isCurated": true,
+            "name": "biosensor method",
+            "originalName": "Biosensor",
+            "url": "http://www.bioassayontology.org/bao#BAO_0010264"
+        }
+    ],
+    "name": "A Scalable Aptamer-Based Electrochemical Biosensor for Rapid Detection of SARS-CoV-2 from Saliva",
+    "sdPublisher": {
+        "@type": "Organization",
+        "name": "RADx-rad"
+    },
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "temporalCoverage": {
+        "@type": "temporalInterval",
+        "endDate": "2023-11-30",
+        "startDate": "2020-12-21",
+        "temporalType": "study date"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3306",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biophysics",
+            "url": "http://edamontology.org/topic_3306"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3292",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biochemistry",
+            "url": "http://edamontology.org/topic_3292"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        }
+    ],
+    "url": "https://radxdatahub.nih.gov/study/110",
+    "usageInfo": [
+        {
+            "name": [
+                "General Research Use"
+            ]
+        }
+    ],
+    "variableMeasured": [
+        {
+            "name": "COVID-19 Detection"
+        },
+        {
+            "name": "Aptamer-Based Electrochemical Detection Platform"
+        }
+    ]
+}

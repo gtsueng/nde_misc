@@ -1,0 +1,208 @@
+{
+    "@type": "Dataset",
+    "_id": "pdb_7lth",
+    "_score": 5.952618,
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Miller, F.S."
+        },
+        {
+            "@type": "Person",
+            "name": "Crone, K.K."
+        },
+        {
+            "@type": "Person",
+            "name": "Jensen, M.R."
+        },
+        {
+            "@type": "Person",
+            "name": "Shaw, S."
+        },
+        {
+            "@type": "Person",
+            "name": "Harcombe, W.R."
+        },
+        {
+            "@type": "Person",
+            "name": "Elias, M."
+        },
+        {
+            "@type": "Person",
+            "name": "Freeman, M.F."
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Miller, F.S."
+                },
+                {
+                    "@type": "Person",
+                    "name": "Crone, K.K."
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jensen, M.R."
+                },
+                {
+                    "@type": "Person",
+                    "name": "Shaw, S."
+                },
+                {
+                    "@type": "Person",
+                    "name": "Harcombe, W.R."
+                },
+                {
+                    "@type": "Person",
+                    "name": "Elias, M.H."
+                },
+                {
+                    "@type": "Person",
+                    "name": "Freeman, M.F."
+                }
+            ],
+            "datePublished": 2021,
+            "doi": "10.1038/s41467-021-25575-7",
+            "journalNameAbbrev": "Nat Commun",
+            "name": "Conformational rearrangements enable iterative backbone N-methylation in RiPP biosynthesis.",
+            "pagination": "5355 - 5355",
+            "pmid": 34504067,
+            "volumeNumber": "12"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "curatedBy": {
+        "@type": "Organization",
+        "name": "The Protein Data Bank",
+        "url": "https://www.rcsb.org/structure/7LTH",
+        "versionDate": "2025-10-11"
+    },
+    "date": "2024-10-09",
+    "dateModified": "2024-10-09",
+    "datePublished": "2021-02-19",
+    "description": "Structure of the alpha-N-methyltransferase (SonM mutant Y93F) and RiPP precursor (SonA) heteromeric complex (no cofactor)",
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://www.rcsb.org/fasta/entry/7LTH",
+            "dateModified": "2024-10-09",
+            "encodingFormat": "FASTA"
+        },
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://files.rcsb.org/download/7LTH.cif",
+            "dateModified": "2024-10-09",
+            "encodingFormat": "PDBx/mmCIF"
+        },
+        {
+            "@type": "DataDownload",
+            "contentUrl": "https://files.rcsb.org/download/7LTH.xml.gz",
+            "dateModified": "2024-10-09",
+            "encodingFormat": "PDB XML"
+        }
+    ],
+    "doi": "10.2210/pdb_7LTH/pdb",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2024-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIGMS",
+                        "U.S. National Institute of General Medical Sciences"
+                    ],
+                    "employee": [
+                        {
+                            "familyName": "BOND",
+                            "givenName": "MICHELLE",
+                            "name": "MICHELLE BOND"
+                        }
+                    ],
+                    "identifier": "https://ror.org/04q48ey07",
+                    "name": "National Institute of General Medical Sciences",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1R35GM133475-01",
+            "name": "Discovery and characterization of biocatalysts for ribosomally encoded alpha-N-methylated peptide natural products",
+            "startDate": "2019-08-01",
+            "url": "https://reporter.nih.gov/project-details/9797073"
+        }
+    ],
+    "identifier": "7LTH",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.rcsb.org/structure/7LTH",
+        "name": "Protein Data Bank",
+        "url": "https://www.rcsb.org/",
+        "versionDate": "2025-10-11"
+    },
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Shewanella oneidensis strain MR-1",
+                "Shewanella oneidensis MR-1",
+                "Shewanella oneidensis str. MR-1",
+                "Shewanella oneidensis ATCC 700550",
+                "Shewanella sp. MR-1"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2024-01-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Shewanella oneidensis (strain MR-1)",
+            "identifier": "211586",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Shewanella oneidensis (strain MR-1)",
+            "originalName": "Shewanella oneidensis MR-1",
+            "url": "https://www.uniprot.org/taxonomy/211586"
+        }
+    ],
+    "keywords": [
+        "posttranslational modifications; ribosomally synthesized and posttranslationally modified peptides; alpha-N-methyltransferase; borosin; SAM",
+        "TRANSFERASE"
+    ],
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "inDefinedTermSet": "CHMO",
+            "name": "X-ray diffraction",
+            "url": "http://purl.obolibrary.org/obo/CHMO_0000156"
+        }
+    ],
+    "name": "Structure of the alpha-N-methyltransferase (SonM mutant Y93F) and RiPP precursor (SonA) heteromeric complex (no cofactor)",
+    "topicCategory": {
+        "@type": "DefinedTerm",
+        "inDefinedTermSet": "EDAM",
+        "url": "http://edamontology.org/topic_2814"
+    },
+    "url": "https://www.rcsb.org/structure/7LTH",
+    "usageInfo": {
+        "url": "https://www.rcsb.org/pages/policies"
+    },
+    "variableMeasured": [
+        {
+            "@type": "DefinedTerm",
+            "inDefinedTermSet": "NCIT",
+            "name": "Resolution",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C47876"
+        },
+        {
+            "@type": "DefinedTerm",
+            "inDefinedTermSet": "EDAM",
+            "name": "Protein Structure",
+            "url": "http://edamontology.org/data_1460"
+        }
+    ]
+}

@@ -1,540 +1,125 @@
 {
     "@type": "Dataset",
-    "_id": "hubmap_032d7b6b0b4c3c66772c7dbee2fe9606",
-    "_score": 9.548659,
-    "date": "2023-11-06",
-    "dateCreated": "2022-10-14",
-    "dateModified": "2023-11-06",
-    "datePublished": "2022-10-26",
-    "description": "RNAseq [Salmon] data from the large intestine of a 37-year-old white male",
+    "_id": "hubmap_1c141b155829169d3044d7b163164379",
+    "_score": 9.268525,
+    "date": "2020-08-22",
+    "dateCreated": "2020-07-24",
+    "dateModified": "2020-08-22",
+    "datePublished": "2020-08-22",
+    "description": "RNAseq [Salmon] data from the large intestine of a 67-year-old white female",
     "distribution": [
         {
-            "contentSize": 663923,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/dispersion_plot.pdf",
-            "description": "Disperson plot of gene expression (PDF file)",
-            "encodingFormat": "pdf",
-            "name": "Disperson plot of gene expression"
+            "@type": "DataDownload",
+            "contentSize": 15675328,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/expression_matrices.h5",
+            "name": " (H5 file)"
         },
         {
-            "contentSize": 30463692,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/expr.h5ad",
-            "description": "Raw gene expression, in HDF5 format, readable with the 'anndata' Python package, intronic counts as AnnData layer (H5AD file)",
-            "encodingFormat": "h5ad",
-            "name": "Raw gene expression, in HDF5 format, readable with the 'anndata' Python package, intronic counts as AnnData layer"
+            "@type": "DataDownload",
+            "contentSize": 607244,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/fastqc_output/B001A406_1_fastqc.html",
+            "name": " (HTML file)"
         },
         {
-            "contentSize": 465296,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/fastqc_output/Bei_CO2-18_B008-A-101-TTAATACGCG-ACCCGAGGTG_S26_L001_I1_001_fastqc.html",
-            "description": "FastQC report of input FASTQ file (HTML file)",
-            "name": "FastQC report of input FASTQ file"
+            "@type": "DataDownload",
+            "contentSize": 791974,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/fastqc_output/B001A406_1_fastqc.zip",
+            "name": " (ZIP file)"
         },
         {
-            "contentSize": 481489,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/fastqc_output/Bei_CO2-18_B008-A-101-TTAATACGCG-ACCCGAGGTG_S26_L001_I2_001_fastqc.html",
-            "description": "FastQC report of input FASTQ file (HTML file)",
-            "name": "FastQC report of input FASTQ file"
+            "@type": "DataDownload",
+            "contentSize": 611668,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/fastqc_output/B001A406_2_fastqc.html",
+            "name": " (HTML file)"
         },
         {
-            "contentSize": 508328,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/fastqc_output/Bei_CO2-18_B008-A-101-TTAATACGCG-ACCCGAGGTG_S26_L001_R1_001_fastqc.html",
-            "description": "FastQC report of input FASTQ file (HTML file)",
-            "name": "FastQC report of input FASTQ file"
+            "@type": "DataDownload",
+            "contentSize": 795955,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/fastqc_output/B001A406_2_fastqc.zip",
+            "name": " (ZIP file)"
         },
         {
-            "contentSize": 618217,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/fastqc_output/Bei_CO2-18_B008-A-101-TTAATACGCG-ACCCGAGGTG_S26_L001_R2_001_fastqc.html",
-            "description": "FastQC report of input FASTQ file (HTML file)",
-            "name": "FastQC report of input FASTQ file"
+            "@type": "DataDownload",
+            "contentSize": 927358,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/out/aux_info/ambig_info.tsv",
+            "name": " (TSV file)"
         },
         {
-            "contentSize": 459790,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/fastqc_output/Bei_CO2-18_B008-A-101-TTAATACGCG-ACCCGAGGTG_S26_L002_I1_001_fastqc.html",
-            "description": "FastQC report of input FASTQ file (HTML file)",
-            "name": "FastQC report of input FASTQ file"
+            "@type": "DataDownload",
+            "contentSize": 89,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/out/aux_info/expected_bias.gz",
+            "name": " (GZ file)"
         },
         {
-            "contentSize": 478399,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/fastqc_output/Bei_CO2-18_B008-A-101-TTAATACGCG-ACCCGAGGTG_S26_L002_I2_001_fastqc.html",
-            "description": "FastQC report of input FASTQ file (HTML file)",
-            "name": "FastQC report of input FASTQ file"
+            "@type": "DataDownload",
+            "contentSize": 455,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/out/aux_info/fld.gz",
+            "name": " (GZ file)"
         },
         {
-            "contentSize": 511068,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/fastqc_output/Bei_CO2-18_B008-A-101-TTAATACGCG-ACCCGAGGTG_S26_L002_R1_001_fastqc.html",
-            "description": "FastQC report of input FASTQ file (HTML file)",
-            "name": "FastQC report of input FASTQ file"
-        },
-        {
-            "contentSize": 618513,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/fastqc_output/Bei_CO2-18_B008-A-101-TTAATACGCG-ACCCGAGGTG_S26_L002_R2_001_fastqc.html",
-            "description": "FastQC report of input FASTQ file (HTML file)",
-            "name": "FastQC report of input FASTQ file"
-        },
-        {
-            "contentSize": 462726,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/fastqc_output/Bei_CO2-18_B008-A-101-TTAATACGCG-ACCCGAGGTG_S26_L003_I1_001_fastqc.html",
-            "description": "FastQC report of input FASTQ file (HTML file)",
-            "name": "FastQC report of input FASTQ file"
-        },
-        {
-            "contentSize": 483265,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/fastqc_output/Bei_CO2-18_B008-A-101-TTAATACGCG-ACCCGAGGTG_S26_L003_I2_001_fastqc.html",
-            "description": "FastQC report of input FASTQ file (HTML file)",
-            "name": "FastQC report of input FASTQ file"
-        },
-        {
-            "contentSize": 510064,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/fastqc_output/Bei_CO2-18_B008-A-101-TTAATACGCG-ACCCGAGGTG_S26_L003_R1_001_fastqc.html",
-            "description": "FastQC report of input FASTQ file (HTML file)",
-            "name": "FastQC report of input FASTQ file"
-        },
-        {
-            "contentSize": 617872,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/fastqc_output/Bei_CO2-18_B008-A-101-TTAATACGCG-ACCCGAGGTG_S26_L003_R2_001_fastqc.html",
-            "description": "FastQC report of input FASTQ file (HTML file)",
-            "name": "FastQC report of input FASTQ file"
-        },
-        {
-            "contentSize": 106,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/genome_build.json",
-            "description": "Genome build information in JSON format (JSON file)",
+            "@type": "DataDownload",
+            "contentSize": 1737,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/out/aux_info/meta_info.json",
             "encodingFormat": "json",
-            "name": "Genome build information in JSON format"
+            "name": " (JSON file)"
         },
         {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
+            "@type": "DataDownload",
+            "contentSize": 54,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/out/aux_info/observed_bias.gz",
+            "name": " (GZ file)"
         },
         {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/layers/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
+            "@type": "DataDownload",
+            "contentSize": 54,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/out/aux_info/observed_bias_3p.gz",
+            "name": " (GZ file)"
         },
         {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/layers/spliced/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
+            "@type": "DataDownload",
+            "contentSize": 311126,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/out/B001A406-aux_files.tar.gz",
+            "name": " (GZ file)"
         },
         {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/layers/spliced_unspliced_sum/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/layers/unspliced/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obs/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obs/__categories/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obsm/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obsp/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obsp/connectivities/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/obsp/distances/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/leiden/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/leiden/params/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/neighbors/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/neighbors/params/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/pca/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/pca/params/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/recover_dynamics/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/umap/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/umap/params/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/velocity_graph/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/velocity_graph_neg/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/uns/velocity_params/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/var/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/var/__categories/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/scvelo_annotated.zarr/varm/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of velocity analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/spliced/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/spliced_unspliced_sum/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/unscaled/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/layers/unspliced/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/obs/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/obs/__categories/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/obsm/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/obsp/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/obsp/connectivities/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/obsp/distances/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/annotation_metadata/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/hvg/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/leiden/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/leiden/params/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/neighbors/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/neighbors/params/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/pca/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/pca/params/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/rank_genes_groups/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/rank_genes_groups/params/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/umap/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/umap/params/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/uns/umap_density_params/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/var/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/var/__categories/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 24,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/anndata-zarr/secondary_analysis.zarr/varm/.zgroup",
-            "description": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis. (ZGROUP file)",
-            "name": "AnnData Zarr store for storing and visualizing single cell sequencing outputs of UMAP/clustering analysis."
-        },
-        {
-            "contentSize": 15802,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/output/secondary_analysis.arrow",
-            "description": "Input data relevant for visualization saved in columnar Apache Arrow format. (ARROW file)",
-            "encodingFormat": "arrow",
-            "name": "Input data relevant for visualization saved in columnar Apache Arrow format."
-        },
-        {
-            "contentSize": 12589,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/output/secondary_analysis.cell-sets.json",
-            "description": "JSON-formatted information about the heirarchy scRNA-seq's cells. (JSON file)",
+            "@type": "DataDownload",
+            "contentSize": 394,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/out/B001A406-cmd_info.json",
             "encodingFormat": "json",
-            "name": "JSON-formatted information about the heirarchy scRNA-seq's cells."
+            "name": " (JSON file)"
         },
         {
-            "contentSize": 56113,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/output/secondary_analysis.cells.json",
-            "description": "JSON-formatted information about this scRNA-seq run including scatterplot coordinates and clustering. (JSON file)",
+            "@type": "DataDownload",
+            "contentSize": 8246167,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/out/B001A406-quant.sf",
+            "name": " (SF file)"
+        },
+        {
+            "@type": "DataDownload",
+            "contentSize": 741,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/out/lib_format_counts.json",
             "encodingFormat": "json",
-            "name": "JSON-formatted information about this scRNA-seq run including scatterplot coordinates and clustering."
+            "name": " (JSON file)"
         },
         {
-            "contentSize": 18007,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/output/secondary_analysis.csv",
-            "description": "Input data relevant for visualization saved in columnar comma-separated-file format. (CSV file)",
-            "encodingFormat": "csv",
-            "name": "Input data relevant for visualization saved in columnar comma-separated-file format."
+            "@type": "DataDownload",
+            "contentSize": 11736,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/out/libParams/flenDist.txt",
+            "name": " (TXT file)"
         },
         {
-            "contentSize": 11515,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/hubmap_ui/output/secondary_analysis.factors.json",
-            "description": "JSON-formatted information about this scRNA-seq's clustering. (JSON file)",
-            "encodingFormat": "json",
-            "name": "JSON-formatted information about this scRNA-seq's clustering."
-        },
-        {
-            "contentSize": 3061652,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/qc_results.hdf5",
-            "description": "Quality control results from Scanpy, per-cell and per-gene, in HDF5 format (HDF5 file)",
-            "encodingFormat": "hdf5",
-            "name": "Quality control results from Scanpy, per-cell and per-gene, in HDF5 format"
-        },
-        {
-            "contentSize": 449,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/qc_results.json",
-            "description": "Quality control report in JSON format (JSON file)",
-            "encodingFormat": "json",
-            "name": "Quality control report in JSON format"
-        },
-        {
-            "contentSize": 19651600,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/raw_expr.h5ad",
-            "description": "Raw gene expression, in HDF5 format, readable with the 'anndata' Python package, intronic counts as AnnData layer (H5AD file)",
-            "encodingFormat": "h5ad",
-            "name": "Raw gene expression, in HDF5 format, readable with the 'anndata' Python package, intronic counts as AnnData layer"
-        },
-        {
-            "contentSize": 52845821,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/scvelo_annotated.h5ad",
-            "description": "RNA velocity results, in HDF5 format, readable with the 'anndata' Python package (H5AD file)",
-            "encodingFormat": "h5ad",
-            "name": "RNA velocity results, in HDF5 format, readable with the 'anndata' Python package"
-        },
-        {
-            "contentSize": 219772,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/scvelo_embedding_grid.pdf",
-            "description": "scVelo RNA velocity grid plot (PDF file)",
-            "encodingFormat": "pdf",
-            "name": "scVelo RNA velocity grid plot"
-        },
-        {
-            "contentSize": 96754485,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/secondary_analysis.h5ad",
-            "description": "Normalized gene expression with additional metadata, in HDF5 format, readable with the 'anndata' Python package (H5AD file)",
-            "encodingFormat": "h5ad",
-            "name": "Normalized gene expression with additional metadata, in HDF5 format, readable with the 'anndata' Python package"
-        },
-        {
-            "contentSize": 19789,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/umap_by_leiden_cluster.pdf",
-            "description": "UMAP plot of cells, colored by Leiden cluster ID (PDF file)",
-            "encodingFormat": "pdf",
-            "name": "UMAP plot of cells, colored by Leiden cluster ID"
-        },
-        {
-            "contentSize": 92570,
-            "contentUrl": "https://assets.hubmapconsortium.org/032d7b6b0b4c3c66772c7dbee2fe9606/umap_embedding_density.pdf",
-            "description": "UMAP plot of cells, colored by embedding density (PDF file)",
-            "encodingFormat": "pdf",
-            "name": "UMAP plot of cells, colored by embedding density"
+            "@type": "DataDownload",
+            "contentSize": 4330,
+            "contentUrl": "https://assets.hubmapconsortium.org/1c141b155829169d3044d7b163164379/out/logs/salmon_quant.log",
+            "name": " (LOG file)"
         }
     ],
     "includedInDataCatalog": {
         "@type": "DataCatalog",
-        "archivedAt": "https://portal.hubmapconsortium.org/browse/dataset/032d7b6b0b4c3c66772c7dbee2fe9606",
+        "archivedAt": "https://portal.hubmapconsortium.org/browse/dataset/1c141b155829169d3044d7b163164379",
         "name": "HuBMAP",
         "url": "https://hubmapconsortium.org/",
-        "versionDate": "2025-08-23"
+        "versionDate": "2025-10-11"
     },
     "isAccessibleForFree": true,
     "keywords": [
@@ -543,12 +128,14 @@
         "RNAseq [Salmon]"
     ],
     "measurementTechnique": {
-        "description": "salmon_rnaseq_10x_sn__e79b021fd60b54850cbb5bf45da1b7f5__salmon-rnaseq",
-        "name": "salmon_sn_rnaseq_10x"
+        "@type": "DefinedTerm",
+        "description": "['salmon_rnaseq_bulk__f84c8edc36a65f248c2649ebbe52ad35__salmon-rnaseq-bulk']",
+        "name": "salmon_rnaseq_bulk"
     },
-    "name": "HBM633.JXTC.477",
+    "name": "HBM566.QVLX.393",
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Human",
                 "Homo sapiens Linnaeus, 1758",
@@ -591,10 +178,10 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_3070",
+            "identifier": "topic_3370",
             "inDefinedTermSet": "EDAM",
-            "name": "Biology",
-            "url": "http://edamontology.org/topic_3070"
+            "name": "Analytical chemistry",
+            "url": "http://edamontology.org/topic_3370"
         },
         {
             "@type": "DefinedTerm",
@@ -603,10 +190,10 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_3053",
+            "identifier": "topic_3301",
             "inDefinedTermSet": "EDAM",
-            "name": "Genetics",
-            "url": "http://edamontology.org/topic_3053"
+            "name": "Microbiology",
+            "url": "http://edamontology.org/topic_3301"
         },
         {
             "@type": "DefinedTerm",
@@ -615,11 +202,11 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_0099",
+            "identifier": "topic_3047",
             "inDefinedTermSet": "EDAM",
-            "name": "RNA",
-            "url": "http://edamontology.org/topic_0099"
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
         }
     ],
-    "url": "https://portal.hubmapconsortium.org/browse/dataset/032d7b6b0b4c3c66772c7dbee2fe9606"
+    "url": "https://portal.hubmapconsortium.org/browse/dataset/1c141b155829169d3044d7b163164379"
 }

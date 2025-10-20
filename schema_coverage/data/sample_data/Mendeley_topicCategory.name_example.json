@@ -1,79 +1,63 @@
 {
     "@type": "Dataset",
-    "_id": "mendeley_vyc2hzvjws",
-    "_score": 6.3178887,
+    "_id": "mendeley_2vrwsn867w",
+    "_score": 5.979607,
     "author": [
         {
-            "familyName": "Tefft",
-            "givenName": "Kristy",
-            "name": "Kristy Tefft"
-        },
-        {
-            "familyName": "Shah",
-            "givenName": "Asghar",
-            "name": "Asghar Shah"
-        },
-        {
-            "familyName": "Lipner",
-            "givenName": "Shari",
-            "name": "Shari Lipner"
+            "@type": "Person",
+            "familyName": "Meierrieks",
+            "givenName": "Daniel",
+            "name": "Daniel Meierrieks"
         }
     ],
-    "date": "2022-03-25",
-    "dateModified": "2022-03-25",
-    "datePublished": "2022-03-25",
-    "description": "Supplemental Table",
-    "doi": "10.17632/vyc2hzvjws.1",
-    "identifier": "vyc2hzvjws",
+    "date": "2025-08-11",
+    "dateModified": "2025-08-11",
+    "datePublished": "2025-08-11",
+    "description": "Replication Data for \"Oil Wealth and Property Rights\"",
+    "doi": "10.17632/2vrwsn867w.2",
+    "identifier": "2vrwsn867w",
     "includedInDataCatalog": {
-        "dataset": "https://data.mendeley.com/datasets/vyc2hzvjws",
+        "@type": "DataCatalog",
+        "archivedAt": "https://data.mendeley.com/datasets/2vrwsn867w",
         "name": "Mendeley",
         "url": "https://data.mendeley.com/",
-        "versionDate": "2025-02-09T03:22:24.523351"
+        "versionDate": "2025-10-12T02:25:58.277548"
     },
     "keywords": [
-        "Dermatology",
-        "Peer Review"
+        "Economics",
+        "Oil"
     ],
     "license": "http://creativecommons.org/licenses/by/4.0",
-    "name": "Supplemental Table: Correlations between Characteristics of Preprint Articles and Corresponding Published Articles",
+    "name": "Replication Data for \"Oil Wealth and Property Rights\"",
     "sdPublisher": {
+        "@type": "Organization",
         "name": "Mendeley Data"
     },
     "topicCategory": [
         {
+            "@type": "DefinedTerm",
             "curatedBy": {
                 "name": "GPT-4o-mini",
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_0091",
+            "identifier": "topic_3071",
             "inDefinedTermSet": "EDAM",
-            "name": "Bioinformatics",
-            "url": "http://edamontology.org/topic_0091"
+            "name": "Data management",
+            "url": "http://edamontology.org/topic_3071"
         },
         {
+            "@type": "DefinedTerm",
             "curatedBy": {
                 "name": "GPT-4o-mini",
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_0219",
+            "identifier": "topic_3473",
             "inDefinedTermSet": "EDAM",
-            "name": "Data submission, annotation, and curation",
-            "url": "http://edamontology.org/topic_0219"
-        },
-        {
-            "curatedBy": {
-                "name": "GPT-4o-mini",
-                "url": "https://openai.com/index/chatgpt"
-            },
-            "fromGPT": true,
-            "identifier": "topic_3047",
-            "inDefinedTermSet": "EDAM",
-            "name": "Molecular biology",
-            "url": "http://edamontology.org/topic_3047"
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
         }
     ],
-    "url": "https://data.mendeley.com/datasets/vyc2hzvjws"
+    "url": "https://data.mendeley.com/datasets/2vrwsn867w"
 }

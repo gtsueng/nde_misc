@@ -1,0 +1,164 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "ncbi_sra_drp002129",
+    "_score": 4.8451557,
+    "date": "2022-12-17",
+    "dateModified": "2022-12-17",
+    "datePublished": "2014-05-14",
+    "description": "For the promotion of various studies, we perform genome sequencing of the important 300 microbial organisms to human and the environment.",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ncbi.nlm.nih.gov/sra/DRP002129",
+        "name": "NCBI SRA",
+        "url": "https://www.ncbi.nlm.nih.gov/sra/",
+        "versionDate": "2025-07-02"
+    },
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Rhodococcus imtechensis JCM 13270",
+                "Rhodococcus imtechensis RKJ300 = JCM 13270",
+                "Rhodococcus imtechensis RKJ300",
+                "Rhodococcus imtechensis JCM 13270 = RKJ300"
+            ],
+            "classification": "infectiousAgent",
+            "curatedBy": {
+                "dateModified": "2024-04-19",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Rhodococcus opacus RKJ300 = JCM 13270",
+            "identifier": "1165867",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Rhodococcus opacus RKJ300 = JCM 13270",
+            "originalName": "Rhodococcus imtechensis RKJ300",
+            "url": "https://www.uniprot.org/taxonomy/1165867"
+        }
+    ],
+    "isBasedOn": [
+        {
+            "@type": "ScholarlyArticle",
+            "additionalType": {
+                "name": "BioProject",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C45293"
+            },
+            "identifier": "PRJDB929"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "additionalType": {
+                "name": "Run",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47911"
+            },
+            "datePublished": "2014-05-14",
+            "identifier": "DRR017821",
+            "url": "https://www.ncbi.nlm.nih.gov/sra/DRR017821"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "additionalType": {
+                "name": "Experiment",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C42790"
+            },
+            "identifier": "DRX016075",
+            "name": "Whole genome analysis of Rhodococcus imtechensis JCM13270",
+            "url": "https://www.ncbi.nlm.nih.gov/sra/DRX016075"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "additionalType": {
+                "name": "Sample",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C70699"
+            },
+            "description": "For the promotion of various studies, we perform genome sequencing of the important 300 microbial organisms to human and the environment.",
+            "identifier": "DRS015565",
+            "name": "Whole genome analysis of Rhodococcus imtechensis JCM13270",
+            "url": "https://www.ncbi.nlm.nih.gov/sra/DRS015565"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "additionalType": {
+                "name": "Run",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47911"
+            },
+            "datePublished": "2014-05-14",
+            "identifier": "DRR017822",
+            "url": "https://www.ncbi.nlm.nih.gov/sra/DRR017822"
+        }
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "0002117",
+            "inDefinedTermSet": "OBI",
+            "isCurated": true,
+            "name": "whole genome sequencing assay",
+            "originalName": "WGS",
+            "url": "http://purl.obolibrary.org/obo/OBI_0002117"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "0002117",
+            "inDefinedTermSet": "OBI",
+            "isCurated": true,
+            "name": "whole genome sequencing assay",
+            "originalName": "WGS",
+            "url": "http://purl.obolibrary.org/obo/OBI_0002117"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "0002117",
+            "inDefinedTermSet": "OBI",
+            "isCurated": true,
+            "name": "whole genome sequencing assay",
+            "originalName": "WGS",
+            "url": "http://purl.obolibrary.org/obo/OBI_0002117"
+        }
+    ],
+    "name": "Genome sequencing of Rhodococcus imtechensis JCM 13270",
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3070",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biology",
+            "url": "http://edamontology.org/topic_3070"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3301",
+            "inDefinedTermSet": "EDAM",
+            "name": "Microbiology",
+            "url": "http://edamontology.org/topic_3301"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0622",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genomics",
+            "url": "http://edamontology.org/topic_0622"
+        }
+    ],
+    "url": "https://www.ncbi.nlm.nih.gov/sra/DRP002129"
+}

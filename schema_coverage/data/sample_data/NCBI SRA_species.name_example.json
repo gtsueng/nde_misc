@@ -1,0 +1,143 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "_id": "ncbi_sra_drp002228",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 4.8451557,
+    "date": "2017-09-17",
+    "dateModified": "2017-09-17",
+    "datePublished": "2016-04-01",
+    "description": "DNA extracted from GMP cells of WT mice were first digested with MspI restriction enzyme, followed by the ligation with methylatedadaptors at the both end of DNA fragments.DNA fragments of 150-250bp in length were then subjected to bisulfite conversion and amplified by PCR. Sequence was performed at 36bp single end protocol under illumina platform.",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ncbi.nlm.nih.gov/sra/DRP002228",
+        "name": "NCBI SRA",
+        "url": "https://www.ncbi.nlm.nih.gov/sra/",
+        "versionDate": "2025-07-02"
+    },
+    "isBasedOn": [
+        {
+            "@type": "ScholarlyArticle",
+            "additionalType": {
+                "name": "BioProject",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C45293"
+            },
+            "identifier": "PRJDB1829"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "additionalType": {
+                "name": "Run",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47911"
+            },
+            "datePublished": "2016-03-31",
+            "identifier": "DRR017953",
+            "url": "https://www.ncbi.nlm.nih.gov/sra/DRR017953"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "additionalType": {
+                "name": "Experiment",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C42790"
+            },
+            "identifier": "DRX016197",
+            "name": "RRBS analysis of GMP cells obtained from WT mice",
+            "url": "https://www.ncbi.nlm.nih.gov/sra/DRX016197"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "additionalType": {
+                "name": "Sample",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C70699"
+            },
+            "description": "DNA extracted from GMP cells of WT mice were first digestedwith MspI restriction enzyme, followed by the ligation with methylatedadaptors at the both end of DNA fragments.DNA fragments of 150-250bp in length were then subjected to bisulfite conversion and amplified by PCR. Sequence was performed at 36bp single end protocol under illumina platform.",
+            "identifier": "DRS015664",
+            "name": "RRBS analysis of GMP cells obtained from WT mice",
+            "url": "https://www.ncbi.nlm.nih.gov/sra/DRS015664"
+        }
+    ],
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "0000748",
+            "inDefinedTermSet": "OBI",
+            "isCurated": true,
+            "name": "bisulfite sequencing assay",
+            "originalName": "Bisulfite-Seq",
+            "url": "http://purl.obolibrary.org/obo/OBI_0000748"
+        }
+    ],
+    "name": "RRBS analysis of GMP cells obtained from WT mice",
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Mouse",
+                "LK3 transgenic mice",
+                "Mus musculus Linnaeus, 1758",
+                "Mus sp. 129SV",
+                "house mouse",
+                "mice C57BL/6xCBA/CaJ hybrid",
+                "mouse",
+                "nude mice",
+                "transgenic mice"
+            ],
+            "classification": "host",
+            "commonName": "Mouse",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Mouse | Mus musculus",
+            "identifier": "10090",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Mus musculus",
+            "originalName": "mus musculus",
+            "url": "https://www.uniprot.org/taxonomy/10090"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2229",
+            "inDefinedTermSet": "EDAM",
+            "name": "Cell biology",
+            "url": "http://edamontology.org/topic_2229"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0622",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genomics",
+            "url": "http://edamontology.org/topic_0622"
+        }
+    ],
+    "url": "https://www.ncbi.nlm.nih.gov/sra/DRP002228"
+}

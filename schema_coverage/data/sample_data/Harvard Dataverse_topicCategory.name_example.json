@@ -1,0 +1,75 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dataverse_10.7910_dvn_1rrytt",
+    "_score": 7.7842293,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Virginia"
+            },
+            "name": "Lee, Jae Won"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Central Bank of Brazil and PUC-Rio"
+            },
+            "name": "Carvalho, Carlos"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Finance Denmark"
+            },
+            "name": "Dam, Niels Arne"
+        }
+    ],
+    "date": "2020-06-30",
+    "dateModified": "2020-06-30",
+    "datePublished": "2018-12-13",
+    "description": "Carvalho, Carlos, Dam, Niels Arne, and Lee, Jae Won, (2020) \"The Cross-Sectional Distribution of Price Stickiness Implied by Aggregate Data.\" Review of Economics and Statistics 102:1, 162-179.",
+    "distribution": [
+        {
+            "@id": "10.7910/DVN/1RRYTT/3XBIXE",
+            "@type": "DataDownload",
+            "contentUrl": "https://doi.org/10.7910/DVN/1RRYTT/3XBIXE",
+            "encodingFormat": "application/x-tar",
+            "name": "Code_and_Data_CDL.tar"
+        }
+    ],
+    "doi": "https://doi.org/10.7910/DVN/1RRYTT",
+    "identifier": "10.7910/DVN/1RRYTT",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://doi.org/10.7910/DVN/1RRYTT",
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/",
+        "versionDate": "2025-04-07"
+    },
+    "keywords": "Social Sciences",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "name": "Replication data for: The Cross-Sectional Distribution of Price Stickiness Implied by Aggregate Data",
+    "sdPublisher": [
+        {
+            "@type": "Organization",
+            "name": "Harvard Dataverse"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3473",
+            "inDefinedTermSet": "EDAM",
+            "name": "Data mining",
+            "url": "http://edamontology.org/topic_3473"
+        }
+    ],
+    "url": "https://doi.org/10.7910/DVN/1RRYTT"
+}

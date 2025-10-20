@@ -1,0 +1,277 @@
+{
+    "@type": "Dataset",
+    "@version": "1",
+    "_id": "radx_112",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 12.741048,
+    "author": [
+        {
+            "@type": "Person",
+            "familyName": "Rosen",
+            "givenName": "Clifford James"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Kohut M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Scharnetzki L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pajka J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jacobs EA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Fairfield KM"
+                }
+            ],
+            "datePublished": "2023-06-01",
+            "fromPMID": true,
+            "identifier": "PMID:36864735",
+            "journalName": "Health expectations : an international journal of public participation in health care and health policy",
+            "name": "Decisions about adopting novel COVID-19 vaccines among White adults in a rural state, USA: A qualitative study.",
+            "pmid": "36864735",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36864735/"
+        }
+    ],
+    "conditionsOfAccess": "Restricted",
+    "date": "2024-04-17",
+    "dateCreated": "2022-01-06",
+    "dateModified": "2024-04-17",
+    "datePublished": "2023-08-30",
+    "description": "In collaboration with community partners, a public health intervention was created and impact of the intervention was evaluated in the area of Cumberland County, Maine, to provide outreach, testing, and vaccination education to a large community of immigrants from sub-Saharan Africa, the Middle East, and Central America, higher-risk low-income people accessing a public health facility (with a sexually transmitted infections clinic, needle exchange, and a free clinic), and individuals experiencing homelessness. This included a longitudinal study to understand beliefs about and knowledge of COVID-19, and barriers and beliefs about testing and vaccination. Results informed a community-developed and based intervention to engage the cohort and other members of these populations in testing and vaccine education, and evaluated the impact of this intervention on testing and vaccination uptake in immigrant, low-income, and homeless communities. The Specific Aims were: (Aim 1) To understand patient perceptions of, fears about, and experiences with COVID-19 testing in immigrant, low-income, and homeless populations; (Aim 2a) To use the data from Aim 1 to develop and pilot test public health messaging in these immigrant, low-income, and homeless populations, and to develop a strategy for a testing program; (Aim 2b) To use the data from Aims 1 and 2a to develop, pilot test, and implement a walk-up, COVID-19 testing program to increase testing uptake in these immigrant, low-income, and homeless populations; and (Aim 3) To evaluate the impact of a public health messaging and testing program developed in Aim 2b on rapid COVID-19 testing uptake.",
+    "doi": "10.60773/jv00-r132",
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "name": "NIGMS"
+                }
+            ]
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2022-06-30",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIGMS",
+                        "U.S. National Institute of General Medical Sciences"
+                    ],
+                    "identifier": "https://ror.org/04q48ey07",
+                    "name": "National Institute of General Medical Sciences",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U54GM115516-01A1",
+            "name": "Northern New England Clinical and Translational Research Network",
+            "projectNumSplit": {
+                "activityCode": "U54",
+                "applTypeCode": "1",
+                "fullSupportYear": "01A1",
+                "icCode": "GM",
+                "serialNum": "115516",
+                "suffixCode": "A1",
+                "supportYear": "01"
+            },
+            "startDate": "2017-07-03",
+            "url": "https://reporter.nih.gov/project-details/9361849"
+        }
+    ],
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2019 novel coronavirus infection",
+                "2019-nCoV infection",
+                "coronavirus disease 2019",
+                "severe acute respiratory syndrome coronavirus 2 infectious disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0100096",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "COVID-19",
+            "originalName": "COVID-19",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0100096"
+        }
+    ],
+    "identifier": "phs002707",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://radxdatahub.nih.gov/study/112",
+        "name": "RADx Data Hub",
+        "url": "https://radxdatahub.nih.gov/",
+        "versionDate": "2025-03-26"
+    },
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2019-nCoV",
+                "Wuhan coronavirus",
+                "SARS-2",
+                "SARS-CoV2",
+                "Wuhan seafood market pneumonia virus",
+                "HCoV-19",
+                "COVID19",
+                "COVID-19 virus",
+                "Human coronavirus 2019",
+                "COVID-19"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "2019-nCoV",
+            "curatedBy": {
+                "dateModified": "2025-02-09",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "2019-nCoV | Severe acute respiratory syndrome coronavirus 2",
+            "identifier": "2697049",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Severe acute respiratory syndrome coronavirus 2",
+            "originalName": "Severe acute respiratory syndrome coronavirus 2",
+            "url": "https://www.uniprot.org/taxonomy/2697049"
+        }
+    ],
+    "keywords": [
+        "Pandemic Perceptions or Decision-Making",
+        "Vaccination Rate or Uptake",
+        "Community Outreach Programs",
+        "Rapid Diagnostic Test (RDT)",
+        "Testing Rate or Uptake"
+    ],
+    "license": "https://sharing.nih.gov/accessing-data/accessing-genomic-data/how-to-request-and-access-datasets-from-dbgap",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C17176",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Survey",
+            "originalName": "Survey",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C17176"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C53310",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Cross-Sectional Study",
+            "originalName": "Cross-Sectional",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C53310"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C17176",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Survey",
+            "originalName": "Questionnaire or Survey",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C17176"
+        }
+    ],
+    "name": "Understanding Factors Influencing COVID-19 Testing and Vaccination in Immigrant Low-Income and Homeless Populations and Testing Targeted Interventions",
+    "sdPublisher": {
+        "@type": "Organization",
+        "name": "RADx-UP"
+    },
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "temporalCoverage": {
+        "@type": "temporalInterval",
+        "endDate": "2023-06-30",
+        "startDate": "2021-07-01",
+        "temporalType": "study date"
+    },
+    "url": "https://radxdatahub.nih.gov/study/112",
+    "usageInfo": [
+        {
+            "name": [
+                "General Research Use"
+            ]
+        }
+    ],
+    "variableMeasured": [
+        {
+            "name": "COVID Outreach/Education"
+        },
+        {
+            "field": "variableMeasured",
+            "identifier": "C16326",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Behavior",
+            "originalName": "Behavioral",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C16326"
+        },
+        {
+            "field": "variableMeasured",
+            "identifier": "0000000",
+            "inDefinedTermSet": "CMO",
+            "isCurated": true,
+            "name": "clinical measurement",
+            "originalName": "Clinical",
+            "url": "http://purl.obolibrary.org/obo/CMO_0000000"
+        }
+    ]
+}

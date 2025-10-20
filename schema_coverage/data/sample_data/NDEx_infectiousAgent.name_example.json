@@ -1,67 +1,247 @@
 {
     "@type": "Dataset",
-    "_id": "ndex_1a04f0e4-1c98-11eb-9eee-0ac135e8bacf",
-    "_score": 8.719278,
+    "_id": "ndex_2f38c264-1e05-11ea-bb65-0ac135e8bacf",
+    "_score": 8.46287,
     "author": {
-        "name": "Hsuan-lin Her, Po-Ting Lin, Yu-Wei Wu"
+        "@type": "Person",
+        "name": "Jeffrey Johnson | Jon Budzik"
     },
-    "citation": {
-        "description": "PangenomeNet: A pan-genome-based functional network provide mechanistic view on Meropenem Resistome for Escherichia coli strainsHsuan-Lin Her1, Po-Ting Lin2,3*, and Yu-Wei Wu4,5*"
-    },
-    "conditionsOfAccess": "Open",
-    "date": "2020-12-07",
-    "dateCreated": "2020-11-01T23:15:16.209000",
-    "dateModified": "2020-12-07T00:49:36.825000",
-    "description": "Meropenem Resistance gene co-functional network\n",
-    "distribution": {
-        "contentSize": 1880334
-    },
-    "healthCondition": [
+    "citation": [
         {
-            "name": "Meropenem resistance"
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Penn BH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Netter Z"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Johnson JR"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Von Dollen J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jang GM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Johnson T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ohol YM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Maher C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bell SL"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Geiger K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Golovkine G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Du X"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Choi A"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Parry T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mohapatra BC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Storck MD"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Band H"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Chen C"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jager S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Shales M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Portnoy DA"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hernandez R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Coscoy L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Cox JS"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Krogan NJ"
+                }
+            ],
+            "datePublished": "2018-08-16",
+            "fromPMID": true,
+            "identifier": "PMID:30118682",
+            "journalName": "Molecular cell",
+            "name": "An Mtb-Human Protein-Protein Interaction Map Identifies a Switch between Host Antiviral and Antibacterial Responses.",
+            "pmid": "30118682",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30118682/"
         }
     ],
-    "identifier": "1a04f0e4-1c98-11eb-9eee-0ac135e8bacf",
+    "conditionsOfAccess": "Open",
+    "date": "2020-01-23",
+    "dateCreated": "2019-12-14T00:03:40.415000",
+    "dateModified": "2020-01-23T20:22:56.072000",
+    "description": "Post-translational modifications (phosphorylation and ubiquitylation) are overlayed on the human Mtb protein protein interaction network.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentSize": 131448
+    },
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIAID NIH HHS"
+            },
+            "identifier": "R01 AI120694"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIGMS NIH HHS"
+            },
+            "identifier": "P50 GM082250"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIAID NIH HHS"
+            },
+            "identifier": "DP1 AI124619"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIAID NIH HHS"
+            },
+            "identifier": "U19 AI106754"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIAID NIH HHS"
+            },
+            "identifier": "P01 AI063302"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIAID NIH HHS"
+            },
+            "identifier": "R01 AI027655"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIAID NIH HHS"
+            },
+            "identifier": "K08 AI104766"
+        }
+    ],
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "tuberculosis disease"
+            ],
+            "fromPMID": true,
+            "identifier": "0018076",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "tuberculosis",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0018076"
+        }
+    ],
+    "identifier": "2f38c264-1e05-11ea-bb65-0ac135e8bacf",
     "includedInDataCatalog": {
         "@type": "DataCatalog",
-        "archivedAt": "https://www.ndexbio.org/viewer/networks/1a04f0e4-1c98-11eb-9eee-0ac135e8bacf",
+        "archivedAt": "https://www.ndexbio.org/viewer/networks/2f38c264-1e05-11ea-bb65-0ac135e8bacf",
         "name": "NDEx",
         "url": "https://www.ndexbio.org/",
         "versionDate": "2025-07-05"
     },
     "infectiousAgent": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
-                "IAM 12119",
-                "Bacillus coli",
-                "Bacterium coli",
-                "Bacterium coli commune",
-                "Escherchia coli",
-                "Eschericia coli",
-                "Escherichia sp. MAR",
-                "bacterium E3",
-                "Escherichia/Shigella coli",
-                "Enterococcus coli",
-                "\"Bacillus coli\" Migula 1895",
-                "\"Bacterium coli commune\" Escherich 1885",
-                "\"Bacterium coli\" (Migula 1895) Lehmann and Neumann 1896",
-                "Escherichia coli (Migula 1895) Castellani and Chalmers 1919",
-                "bacterium 10a",
-                "strain U5/41",
-                "E. coli",
-                "ATCC 11775",
-                "CCUG 24",
-                "CCUG 29300",
-                "CIP 54.8",
-                "DSM 30083",
-                "JCM 1649",
-                "LMG 2092",
-                "LMG:2092",
-                "NBRC 102203",
-                "NCCB 54008",
-                "NCTC 9001",
-                "Escherichia sp. 3_2_53FAA",
-                "Achromobacter sp. ATCC 35328"
+                "\"Bacillus tuberculosis\" (Zopf 1883) Klein 1884",
+                "\"Bacterium tuberculosis\" Zopf 1883",
+                "\"Mycobacterium tuberculosis typus humanus\" Lehmann and Neumann 1907",
+                "\"Mycobacterium tuberculosis var. hominis\" Bergey et al. 1934",
+                "Bacillus tuberculosis",
+                "Bacterium tuberculosis",
+                "Mycobacterium tuberculosis typus humanus",
+                "Mycobacterium tuberculosis var. hominis",
+                "Mycobacterium tuberculosis (Zopf 1883) Lehmann and Neumann 1896 (Approved Lists 1980) emend. Riojas et al. 2018",
+                "Mycobacterium tuberculosis variant tuberculosis",
+                "ATCC 25618",
+                "ATCC 27294",
+                "ATCC 9360",
+                "CCUG 37357",
+                "CCUG 38148",
+                "CIP 104475",
+                "CIP 64.31",
+                "CNCTC 7301",
+                "NCTC 13144",
+                "NCTC 7416",
+                "strain H37 Rv",
+                "strain H37Rv"
             ],
             "classification": "infectiousAgent",
             "curatedBy": {
@@ -69,27 +249,54 @@
                 "name": "PubTator",
                 "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
             },
-            "displayName": "Escherichia coli",
-            "identifier": "562",
+            "displayName": "Mycobacterium tuberculosis",
+            "identifier": "1773",
             "inDefinedTermSet": "UniProt",
             "isCurated": true,
-            "name": "Escherichia coli",
-            "originalName": "escherichia coli",
-            "url": "https://www.uniprot.org/taxonomy/562"
+            "name": "Mycobacterium tuberculosis",
+            "originalName": "mycobacterium tuberculosis",
+            "url": "https://www.uniprot.org/taxonomy/1773"
         }
     ],
     "keywords": [
-        "Antibiotic resistance",
-        "bacteria",
-        "Escherichia coli",
-        "pangenome",
-        "horizontal gene transfer",
-        "Co-functional Network"
+        "HPMI"
     ],
-    "license": "MIT license (MIT)",
-    "name": "Meropenem resistant network",
+    "name": "Post-translational modifications in Tuberculosis-Human Protein-Protein Interaction Network",
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromPMID": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
     "topicCategory": [
         {
+            "@type": "DefinedTerm",
             "identifier": "topic_0602",
             "inDefinedTermSet": "EDAM",
             "name": "Molecular interactions, pathways and networks",
@@ -102,10 +309,10 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_4013",
+            "identifier": "topic_3344",
             "inDefinedTermSet": "EDAM",
-            "name": "Antimicrobial Resistance",
-            "url": "http://edamontology.org/topic_4013"
+            "name": "Biomedical science",
+            "url": "http://edamontology.org/topic_3344"
         },
         {
             "@type": "DefinedTerm",
@@ -114,11 +321,11 @@
                 "url": "https://openai.com/index/chatgpt"
             },
             "fromGPT": true,
-            "identifier": "topic_0085",
+            "identifier": "topic_3292",
             "inDefinedTermSet": "EDAM",
-            "name": "Functional genomics",
-            "url": "http://edamontology.org/topic_0085"
+            "name": "Biochemistry",
+            "url": "http://edamontology.org/topic_3292"
         }
     ],
-    "url": "https://www.ndexbio.org/viewer/networks/1a04f0e4-1c98-11eb-9eee-0ac135e8bacf"
+    "url": "https://www.ndexbio.org/viewer/networks/2f38c264-1e05-11ea-bb65-0ac135e8bacf"
 }

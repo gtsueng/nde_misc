@@ -1,0 +1,3021 @@
+{
+    "@type": "Dataset",
+    "_id": "nichd_dash_dataset_13023",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 8.31604,
+    "alternateName": "HPTN 040/P1043",
+    "author": [
+        {
+            "@type": "Person",
+            "name": "HIV Prevention Trials Network (HPTN)"
+        },
+        {
+            "@type": "Person",
+            "name": "Nielsen, Karin"
+        },
+        {
+            "@type": "Person",
+            "name": "Bryson, Yvonne"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "doi": "10.57982/6005-p413",
+            "name": "Nielsen, Karin; Bryson, Yvonne (2017). Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission (Version 1) [dataset]. NICHD Data and Specimen Hub. 10.57982/6005-p413"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Nielsen-Saines K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Watts DH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Veloso VG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bryson YJ"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Joao EC"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pilotto JH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Gray G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Theron G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Santos B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Fonseca R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Kreitchmann R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pinto J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mussi-Pinhata MM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ceriotto M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Machado D"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bethel J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Morgado MG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Dickover R"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Camarca M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mirochnick M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Siberry G"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Grinsztejn B"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Moreira RI"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bastos FI"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Xu J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Moye J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mofenson LM"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "NICHD HPTN 040/PACTG 1043 Protocol Team"
+                }
+            ],
+            "datePublished": "2012-06-21",
+            "fromPMID": true,
+            "identifier": "PMID:22716975",
+            "journalName": "The New England journal of medicine",
+            "name": "Three postpartum antiretroviral regimens to prevent intrapartum HIV infection.",
+            "pmid": "22716975",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22716975/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Mirochnick M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nielsen-Saines K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pilotto JH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pinto J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Veloso VG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Rossi S"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Moye J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bryson Y"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mofenson L"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Camarca M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Watts DH"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "NICHD HPTN 040/PACTG 1043 PROTOCOL Team"
+                }
+            ],
+            "datePublished": "2011-09-01",
+            "fromPMID": true,
+            "identifier": "PMID:21666540",
+            "journalName": "The Pediatric infectious disease journal",
+            "name": "Nelfinavir and Lamivudine pharmacokinetics during the first two weeks of life.",
+            "pmid": "21666540",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21666540/"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Mirochnick M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nielsen-Saines K"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pilotto JH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Pinto J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jimenez E"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Veloso VG"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Parsons T"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Watts DH"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Moye J"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mofenson LM"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Camarca M"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Bryson Y"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "NICHD/HPTN 040/PACTG 1043 Protocol Team"
+                }
+            ],
+            "datePublished": "2008-03-01",
+            "fromPMID": true,
+            "identifier": "PMID:18398973",
+            "journalName": "Journal of acquired immune deficiency syndromes (1999)",
+            "name": "Nevirapine concentrations in newborns receiving an extended prophylactic regimen.",
+            "pmid": "18398973",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18398973/"
+        }
+    ],
+    "conditionsOfAccess": "Closed",
+    "date": "2017-02-28",
+    "datePublished": "2017-02-28",
+    "description": "Drug name, dose, and timing data for non-study related medications (Infant Non-study Medications CRF)\nStudy Description\nCompared the efficacy and safety of three antiretroviral regimens [standard zidovudine (ZDV) regimen vs. ZDV and nevirapine (NVP) vs. ZDV, lamivudine (3TC) and nelfinavir (NFV)] administered for the prevention of vertical HIV-1 transmission to infants born to HIV-1-infected women who did not receive antiretroviral therapy during the current pregnancy. Primary outcome measure was HIV-1 infection at 3 months in infants uninfected at birth. This study was conducted by the National Institute of Allergy and Infectious Diseases (NIAID) HIV Prevention Trials Network (HPTN). Biospecimens are available. HIV positive women (n=1724) in Argentina, Brazil, South Africa, and the U.S. who did not receive antiretroviral therapy during pregnancy and their newborn infants (n=1745); race and ethnicity data below are for mothers only",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "https://dash.nichd.nih.gov/dataset/13023",
+        "encodingFormat": "sas7bdat"
+    },
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "name": "DER - Maternal and Pediatric Infectious Disease Branch (MPIDB)"
+            }
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NICHD NIH HHS"
+            },
+            "identifier": "N01-HD-8-0001"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIDDK NIH HHS"
+            },
+            "identifier": "HHSN267200800001G"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2013-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01AI068632-01",
+            "name": "International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Group",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "068632",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2006-06-29",
+            "url": "https://reporter.nih.gov/project-details/7068332"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2012-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "5UM1AI068632-06",
+            "name": "International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Group",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "5",
+                "fullSupportYear": "06",
+                "icCode": "AI",
+                "serialNum": "068632",
+                "suffixCode": "",
+                "supportYear": "06"
+            },
+            "startDate": "2006-06-29",
+            "url": "https://reporter.nih.gov/project-details/8092782"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2005-06-30",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIDA",
+                        "Instituto Nacional sobre el Abuso de Drogas",
+                        "Instituto Nacional sobre el Abuso de Drogas de Estados Unidos"
+                    ],
+                    "identifier": "https://ror.org/00fq5cm18",
+                    "name": "National Institute on Drug Abuse",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01AI047986-01",
+            "name": "BRAZILIAN AIDS PREVENTION TRIALS INTERNATIONAL NETWORK",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "047986",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2000-07-01",
+            "url": "https://reporter.nih.gov/project-details/6188867"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NICHD NIH HHS"
+            },
+            "identifier": "HHSN267200800001C"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2017-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH NCATS",
+                        "NCATS",
+                        "NCATS NIH",
+                        "NIH's National Center for Advancing Translational Sciences"
+                    ],
+                    "identifier": "https://ror.org/04pw6fb54",
+                    "name": "National Center for Advancing Translational Sciences",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "2UL1TR000454-06",
+            "name": "Atlanta Clinical and Translational Science Institute (ACTSI) Renewal",
+            "projectNumSplit": {
+                "activityCode": "UL1",
+                "applTypeCode": "2",
+                "fullSupportYear": "06",
+                "icCode": "TR",
+                "serialNum": "000454",
+                "suffixCode": "",
+                "supportYear": "06"
+            },
+            "startDate": "2007-09-17",
+            "url": "https://reporter.nih.gov/project-details/8467214"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2013-05-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development at the National Institutes of Health",
+                        "National Institutes of Health/Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "Eunice Kennedy Shriver National Institute of Child Health & Human Development",
+                        "National Institute of Child Health and Human Development",
+                        "Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver",
+                        "NIH/NICHD",
+                        "Eunice Kennedy Shriver National Institute of Child Health and Human Development of the National Institutes of Health",
+                        "NICHD",
+                        "NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+                    ],
+                    "identifier": "https://ror.org/04byxyr05",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "parentOrganization": "National Institutes of Health"
+                },
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "Instituto Nacional de la Salud Mental",
+                        "NIMH",
+                        "Mental Health NIMH"
+                    ],
+                    "identifier": "https://ror.org/04xeg9z08",
+                    "name": "National Institute of Mental Health",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01AI068632-01",
+            "name": "International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Group",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "068632",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2006-06-29",
+            "url": "https://reporter.nih.gov/project-details/7068332"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NIDDK NIH HHS"
+            },
+            "identifier": "HHSN267200800001G"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NICHD NIH HHS"
+            },
+            "identifier": "HHSN267200800001C"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NICHD NIH HHS"
+            },
+            "identifier": "N01-HD33345"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": [
+                null
+            ],
+            "identifier": "N01HD033345-1-0-0",
+            "name": "NICHD INTERNATIONAL PEDIATRIC AND PERINATAL HIV STUDIES NETWORK COORDI-275033345",
+            "url": "https://reporter.nih.gov/project-details/6994765"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NICHD NIH HHS"
+            },
+            "identifier": "N01-HD-8-0001"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2013-12-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "1U01AI069476-01",
+            "name": "The FIOCRUZ Therapeutic and Prevention HIV/AIDS Clinical Trials Unit (FioTrials)",
+            "projectNumSplit": {
+                "activityCode": "U01",
+                "applTypeCode": "1",
+                "fullSupportYear": "01",
+                "icCode": "AI",
+                "serialNum": "069476",
+                "suffixCode": "",
+                "supportYear": "01"
+            },
+            "startDate": "2008-01-15",
+            "url": "https://reporter.nih.gov/project-details/7095666"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "endDate": "2012-12-31",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "alternateName": [
+                        "National Institute of Allergy & Infectious Diseases",
+                        "NIAID",
+                        "Instituto Nacional de Alergias y Enfermedades Infecciosas"
+                    ],
+                    "identifier": "https://ror.org/043z4tv69",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "National Institutes of Health"
+                }
+            ],
+            "identifier": "5UM1AI069476-05",
+            "name": "The FIOCRUZ Therapeutic and Prevention HIV/AIDS Clinical Trials Unit (FioTrials)",
+            "projectNumSplit": {
+                "activityCode": "UM1",
+                "applTypeCode": "5",
+                "fullSupportYear": "05",
+                "icCode": "AI",
+                "serialNum": "069476",
+                "suffixCode": "",
+                "supportYear": "05"
+            },
+            "startDate": "2008-01-15",
+            "url": "https://reporter.nih.gov/project-details/8208878"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "NICHD NIH HHS"
+            },
+            "identifier": "N01-HD33345"
+        }
+    ],
+    "hasPart": {
+        "@type": "ScholarlyArticle",
+        "additionalType": {
+            "name": "Codebook/Variable Dictionary"
+        },
+        "name": "HPTN040_DataDictionary_DVGList_Custom_16Jan2012.zip",
+        "url": "https://dash.nichd.nih.gov/download-api/descriptive/file?id=10826"
+    },
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human immunodeficiency virus disease or disorder",
+                "Human immunodeficiency virus infectious disease",
+                "Human immunodeficiency virus caused disease or disorder",
+                "HIV infection"
+            ],
+            "fromPMID": true,
+            "identifier": "0005109",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "HIV infectious disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005109"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "communicable disease",
+                "infectious diseases and manifestations",
+                "infection",
+                "infectious disorder",
+                "transmissible disease",
+                "infectious disease",
+                "infectious"
+            ],
+            "fromPMID": true,
+            "identifier": "0005550",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "infectious disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005550"
+        }
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://dash.nichd.nih.gov/dataset/13023",
+        "name": "NICHD DASH",
+        "url": "https://dash.nichd.nih.gov/",
+        "versionDate": "2025-07-06"
+    },
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "LAV-1",
+                "human immunodeficiency virus type I HIV-1",
+                "HIV1",
+                "Human immunodeficiency virus type I",
+                "Human immundeficiency virus type 1",
+                "HIV",
+                "Human immunodeficiencey virus type 1",
+                "human immunodeficiency virus type 1 ,HIV-1",
+                "human immunodeficiency virus HIV-1",
+                "human immunodeficiency virus type 1 HIV-1",
+                "human immunodeficiency virus type 1 HIV1",
+                "AIDS virus",
+                "HIV-1",
+                "human immunodeficiency virus-1 HIV-1",
+                "Human immunodeficiency virus type 1",
+                "human immunodeficiency virus type-1 HIV-1",
+                "human immunodeficiency virus type 1 HIV 1",
+                "human immunodeficiency virus type 1, HIV-1",
+                "human immunodeficiency virus 1 HIV-1"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Human immunodeficiency virus 1",
+            "fromPMID": true,
+            "identifier": "11676",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Human immunodeficiency virus 1",
+            "url": "https://www.uniprot.org/taxonomy/11676"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "AIDS virus",
+                "HIV"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Human immunodeficiency virus",
+            "fromPMID": true,
+            "identifier": "12721",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Human immunodeficiency virus",
+            "url": "https://www.uniprot.org/taxonomy/12721"
+        }
+    ],
+    "isBasedOn": {
+        "@type": "ScholarlyArticle",
+        "additionalType": {
+            "name": "De-Identification Methodology"
+        },
+        "name": "Documentation HPTN 040_P1043_Protocol Data De-identification Process_20170209.pdf",
+        "url": "https://dash.nichd.nih.gov/download-api/descriptive/file?id=10828"
+    },
+    "isPartOf": [
+        {
+            "@type": "ScholarlyArticle",
+            "identifier": "NICHD_DASH_Study_13019",
+            "name": "Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "url": "https://dash.nichd.nih.gov/study/13019"
+        }
+    ],
+    "isRelatedTo": [
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13152",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Amniotic Fluid Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13068",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Amniotic Fluid Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13139",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Clinical Site Signature Page Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13055",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Clinical Site Signature Page Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13161",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Confirmation of Maternal HIV-1 Rapid Test Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13077",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Confirmation of Maternal HIV-1 Rapid Test Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13166",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Congenital Anomalies Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13082",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Congenital Anomalies Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13163",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Congenital Anomaly At Newborn Examination Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13079",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Congenital Anomaly At Newborn Examination Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13167",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Congenital Infections Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13169",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Congenital Infections Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13085",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Congenital Infections Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13083",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Congenital Infections Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13114",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Cutaneous Reaction  Conjunctivae Dataset  in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13116",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Cutaneous Reaction  Most Involved Body Sites Dataset  in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13032",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Cutaneous Reaction  Most Involved Body Sites Dataset  in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13030",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Cutaneous Reaction Conjunctivae Dataset  in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13115",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Cutaneous Reaction Evaluation Primary Dataset  in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13031",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Cutaneous Reaction Evaluation Primary Dataset  in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13117",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Cutaneous Reaction Target Lesions Dataset  in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13033",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Cutaneous Reaction Target Lesions Dataset  in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13175",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 DNA Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13091",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 DNA Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13179",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 First Dose of Study Drug Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13095",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 First Dose of Study Drug Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13118",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Flow Cytometry Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13034",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Flow Cytometry Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13119",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Flow Cytometry Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13035",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Flow Cytometry Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13126",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Genital Infections Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13042",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Genital Infections Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13127",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Genital Problems Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13043",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Genital Problems Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13108",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Abnormal Lab Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13024",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Abnormal Lab Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13105",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Blood Products Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13021",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Blood Products Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13157",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Delivery Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13073",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Delivery Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13186",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Eligibility Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13102",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Eligibility Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13110",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Hematology Test Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13026",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Hematology Test Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13106",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Immunizations Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13022",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Immunizations Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13109",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Laboratory Results Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13025",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Laboratory Results Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13111",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Liver Function Tests Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13027",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Liver Function Tests Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13138",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Non-Study HIV Diagnostic Test Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13054",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Non-Study HIV Diagnostic Test Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13107",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Non-Study Medications Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13173",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Physical Examination At Study Visits Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13089",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Infant Physical Examination At Study Visits Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13129",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Invasive Obstetric Procedures Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13045",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Invasive Obstetric Procedures Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13154",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Labor Occurrences Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13070",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Labor Occurrences Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13180",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Lamivudine (3TC)Treatment Record Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13096",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Lamivudine (3TC)Treatment Record Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13113",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Latest Signs and Symptoms Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13029",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Latest Signs and Symptoms Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13148",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal Demographics Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13064",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal Demographics Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13162",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal HIV Confirmatory Test Results Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13078",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal HIV Confirmatory Test Results Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13128",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal Hospital Admission Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13044",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal Hospital Admission Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13149",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal Infection Mode Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13065",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal Infection Mode Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13132",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal Other Significant Medical Conditions Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13048",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal Other Significant Medical Conditions Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13150",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal Other Substance Use Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13066",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal Other Substance Use Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13151",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal Substance Use Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13067",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Maternal Substance Use Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13112",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Medical Events Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13028",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Medical Events Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13131",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Medical and Obstetric History Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13047",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Medical and Obstetric History Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13135",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Missed Visit Report Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13051",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Missed Visit Report Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13187",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Mother Eligibility Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13103",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Mother Eligibility Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13144",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NFV/3TC (Arm C) PK Substudy Eligibility Questionnaire Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13060",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NFV/3TC (Arm C) PK Substudy Eligibility Questionnaire Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13146",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NFV/3TC Pharmacokinetic Substudy Dosing Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13062",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NFV/3TC Pharmacokinetic Substudy Dosing Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13147",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NFV/3TC Pharmacokinetic Substudy Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13063",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NFV/3TC Pharmacokinetic Substudy Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13145",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NFV/3TC Pharmacokinetic Substudy Samples Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13061",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NFV/3TC Pharmacokinetic Substudy Samples Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13140",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NVP (Arm B) PK Substudy Eligibility Questionnaire Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13056",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NVP (Arm B) PK Substudy Eligibility Questionnaire Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13142",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NVP Pharmacokinetic Substudy Dosing Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13058",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NVP Pharmacokinetic Substudy Dosing Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13143",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NVP Pharmacokinetic Substudy Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13059",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NVP Pharmacokinetic Substudy Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13141",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NVP Pharmacokinetic Substudy Samples Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13057",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 NVP Pharmacokinetic Substudy Samples Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13181",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Nelfinavir (NFV) Treatment Record dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13097",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Nelfinavir (NFV) Treatment Record dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13178",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Nelfinavir (NFV) and Lamivudine (3TC) Pharmacokinetic Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13094",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Nelfinavir (NFV) and Lamivudine (3TC) Pharmacokinetic Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13176",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Nevirapine (NVP) Pharmacokinetic Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13092",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Nevirapine (NVP) Pharmacokinetic Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13182",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Nevirapine (NVP) Treatment Record in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13098",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Nevirapine (NVP) Treatment Record in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13171",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 New Congenital Anomalies Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13087",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 New Congenital Anomalies Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13164",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Newborn Examination Findings Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13080",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Newborn Examination Findings Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13165",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Newborn Examination Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13081",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Newborn Examination Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13170",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Newborn Other Medical Conditions Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13168",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Newborn Other Medical Conditions Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13084",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Newborn Other Medical Conditions Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13086",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Newborn Other Medical Conditions Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13130",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Obstetric Complications Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13046",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Obstetric Complications Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13158",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Occurrences During Labor And Delivery Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13074",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Occurrences During Labor And Delivery Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13134",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Off Study Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13050",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Off Study Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13155",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Other Medications During Labor Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13071",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Other Medications During Labor Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13133",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Permanent Discontinuation of 3TC (Lamivudine) Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13049",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Permanent Discontinuation of 3TC (Lamivudine) Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13125",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Permanent Discontinuation of NFV (Nelfinavir) in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13041",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Permanent Discontinuation of NFV (Nelfinavir) in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13124",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Permanent Discontinuation of NVP (Nevirapine) Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13040",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Permanent Discontinuation of NVP (Nevirapine) Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13123",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Permanent Discontinuation of ZDV (Zidovudine) Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13039",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Permanent Discontinuation of ZDV (Zidovudine) Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13159",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Placenta Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13075",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Placenta Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13136",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Primary Death Report Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13052",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Primary Death Report Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13153",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Primary Labor Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13069",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Primary Labor Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13177",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 RNA Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13093",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 RNA Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13188",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Serious Adverse Event Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13104",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Serious Adverse Event Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13137",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Source of Death Information Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13053",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Source of Death Information Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13122",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Syphilis Test Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13038",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Syphilis Test Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13183",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Treatment Record Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13099",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Treatment Record Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13184",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Treatment Record Source Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13100",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Treatment Record Source Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13160",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Umbilical Cord Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13076",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Umbilical Cord Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13174",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Virology Review Committee Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13090",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Virology Review Committee Results Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13120",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Virology and Stored Specimen Details Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13036",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Virology and Stored Specimen Details Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13121",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Virology and Stored Specimen Tracking Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13037",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Virology and Stored Specimen Tracking Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13172",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Visit Report Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13088",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Visit Report Primary Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13156",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Zidovudine (ZDV) During Labor Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13072",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Zidovudine (ZDV) During Labor Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13185",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Zidovudine (ZDV) Treatment Record in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        },
+        {
+            "@type": "Dataset",
+            "hasPart": {
+                "identifier": "NICHD_DASH_Study_13019"
+            },
+            "identifier": "NICHD_DASH_Dataset_13101",
+            "includedInDataCatalog": {
+                "name": "NICHD DASH"
+            },
+            "name": "HPTN 040/P1043 Zidovudine (ZDV) Treatment Record in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+            "relationship": "Datasets in the same study"
+        }
+    ],
+    "keywords": [
+        "Zidovudine (ZDV)",
+        "Pharmacokinetic",
+        "Nevirapine (NVP)",
+        "Nelfinavir (NFV)",
+        "Mother-to-child transmission",
+        "Lamivudine (3TC)",
+        "HIV/AIDS",
+        "Antiretroviral",
+        "HIV/AIDS",
+        "Child Health"
+    ],
+    "mainEntityOfPage": "https://clinicaltrials.gov/ct2/show/NCT00099359",
+    "measurementTechnique": {
+        "@type": "DefinedTerm",
+        "name": "Clinical Trial - NIH defined"
+    },
+    "name": "HPTN 040/P1043 Infant Non-Study Medications Dataset in Phase III Randomized Trial of the Safety and Efficacy of Three Neonatal Antiretroviral Regimens For Prevention Of Intrapartum HIV-1 Transmission",
+    "nctid": "NCT00099359",
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "abstract": "The HIV Prevention Trials Network (HPTN) conducts clinical trials to evaluate the safety and efficacy of non-vaccine HIV prevention strategies. Research areas include pre-exposure prophylaxis, behavioral interventions, and novel biomedical approaches to reduce HIV transmission.",
+            "alternateName": [
+                "HPTN",
+                "HIV Prevention Trials Network"
+            ],
+            "correctionApproved": true,
+            "description": "The HIV Prevention Trials Network (HPTN) develops and tests the safety and efficacy of primarily non-vaccine interventions designed to prevent the transmission of HIV. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/hiv-prevention-trials-network",
+            "name": "NIAID HPTN Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.hptn.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The HIV Vaccine Trials Network (HVTN) is the world\u2019s largest publicly funded collaboration for evaluating HIV vaccines. In addition to advancing HIV vaccine research, the network contributes to studies on tuberculosis, COVID-19, and immunology.",
+            "alternateName": [
+                "HVTN",
+                "HIV Vaccine Trials Network"
+            ],
+            "correctionApproved": true,
+            "description": "The HIV Vaccine Trials Network (HVTN) is the world\u2019s largest publicly funded international collaboration facilitating the evaluation of vaccines to prevent HIV/AIDS. The HVTN helps advance the fields of vaccinology, social and behavioral sciences, statistics, and immunology, as well as tuberculosis and COVID-19 vaccines. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/hiv-vaccine-trials-network",
+            "name": "NIAID HVTN Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "http://www.hvtn.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Network is a global network conducting clinical trials to prevent and treat HIV in infants, children, adolescents, and pregnant or postpartum women. The network brings together investigators, institutions, and community representatives to advance HIV research and care.",
+            "alternateName": [
+                "IMPAACT",
+                "The International Maternal Pediatric Adolescent AIDS Clinical Trials Network"
+            ],
+            "correctionApproved": true,
+            "description": "The International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Network is a global collaboration of investigators, institutions, community representatives and other partners organized for the purpose of evaluating interventions to treat and prevent HIV infection and its consequences in infants, children, adolescents, and pregnant/postpartum women through the conduct of high quality clinical trials. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/impaact",
+            "name": "NIAID IMPAACT Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.impaactnetwork.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The Microbicide Trials Network (MTN) is an NIAID-funded global research network focused on preventing the sexual transmission of HIV. The network conducts clinical trials to evaluate microbicides and other biomedical prevention strategies.",
+            "alternateName": [
+                "MTN",
+                "Microbicide Trials Network"
+            ],
+            "correctionApproved": true,
+            "description": "The Microbicide Trials Network (MTN) is an NIAID-funded worldwide collaborative clinical trials network focused on preventing the sexual transmission of HIV. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/microbicide-trials-network",
+            "name": "NIAID MTN Network",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "http://www.mtnstopshiv.org/"
+        },
+        {
+            "@type": "ResearchProject",
+            "abstract": "The Division of AIDS (DAIDS) leads the national HIV/AIDS research agenda, supporting a global portfolio to advance biological knowledge and treatment of HIV/AIDS and related co-infections. The division funds studies to develop new therapies, vaccines, and prevention strategies.",
+            "alternateName": [
+                "DAIDS",
+                "The Division of AIDS"
+            ],
+            "correctionApproved": false,
+            "description": "The Division of AIDS (DAIDS) was formed to develop and implement the national research agenda to address the HIV/AIDS epidemic. Toward that end, the division supports a global research portfolio to advance biological knowledge of HIV/AIDS, its related co-infections, and co-morbidities.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/about/daids",
+            "name": "NIAID DAIDS",
+            "parentOrganization": [
+                "NIAID"
+            ],
+            "url": "https://www.niaid.nih.gov/about/daids"
+        }
+    ],
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human",
+                "Homo sapian",
+                "Homo spaiens",
+                "Homo spiens",
+                "human",
+                "Homo sapien",
+                "Homo sapients",
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapians",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sampiens",
+                "Homo sapiense",
+                "Homo sapiens Linnaeus, 1758"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromPMID": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "temporalCoverage": [
+        {
+            "@type": "TemporalInterval",
+            "endDate": "2011-04-30",
+            "startDate": "2004-02-27",
+            "temporalType": "collection"
+        },
+        {
+            "@type": "TemporalInterval",
+            "endDate": "2010-07-16",
+            "startDate": "2003-07-08",
+            "temporalType": "study date"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0202",
+            "inDefinedTermSet": "EDAM",
+            "name": "Pharmacology",
+            "url": "http://edamontology.org/topic_0202"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3411",
+            "inDefinedTermSet": "EDAM",
+            "name": "Gynaecology and obstetrics",
+            "url": "http://edamontology.org/topic_3411"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3324",
+            "inDefinedTermSet": "EDAM",
+            "name": "Infectious disease",
+            "url": "http://edamontology.org/topic_3324"
+        }
+    ],
+    "url": "https://dash.nichd.nih.gov/dataset/13023"
+}

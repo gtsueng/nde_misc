@@ -4,12 +4,14 @@
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 14.668658,
+    "_score": 14.419231,
     "author": {
+        "@type": "Person",
         "name": "Alistair Miles",
         "url": "https://www.malariagen.net/person/alistairmilessangeracuk/"
     },
     "citation": {
+        "@type": "ScholarlyArticle",
         "url": "https://www.malariagen.net/data_package/ag310-anopheles-gambiae-data-resource/"
     },
     "conditionsOfAccess": "Restricted",
@@ -18,20 +20,24 @@
     "description": "The MalariaGEN Vector Observatory  Anopheles gambiae  data resource version 3.10 (Ag3.10) contains single nucleotide polymorphism (SNP) calls, copy number variant (CNV) calls and SNP haplotypes from whole-genome sequencing of mosquitoes collected in  Burkina Faso (11), Cameroon (24), Guinea (180), Kenya (4), Mali (262), Senegal (660), South Africa (5), Tanzania (8) and Zimbabwe (10).\u00a0  from 1986 to 2022. Ag3.10 contains 1164 whole genome sequences from  An. coluzzi ,  An. arabiensis ,  An. melas, An. merus,  An. quadriannulatus \u00a0and  An. gambiae . This release includes openly-available data from one literature study: Fontaine M. C., Pease, J. B., Steele A.  et al.  Extensive introgression in a malaria vector species complex revealed by phylogenomics.  Science  347(6217): 1258524-1 (2015).  https://doi.org/10.1126/science.1258524",
     "distribution": [
         {
+            "@type": "DataDownload",
             "contentUrl": "https://www.malariagen.net/partner_study/1188-vo-sn-niang/",
             "name": "Ag3.10 Contributing Studies"
         },
         {
+            "@type": "DataDownload",
             "contentUrl": "mailto:support@malariagen.net",
             "description": "Data from this project will be made publicly available before journal publication. Unless otherwise stated, analyses of project data are ongoing and publications are in preparation by project partners, and it is not permitted to use project data for publication (including any type of communication with the general public) without prior permission from the originating partner studies. Although malaria is generally an endemic rather than an epidemic disease, and the focus of this project is on surveillance of disease vectors rather than pathogens, our data terms of use build on MalariaGEN's approach to data sharing, and adopt norms which have been established for rapid sharing of pathogen genomic data during disease outbreaks. The primary rationale for this approach is that malaria remains a public health emergency, where ethically appropriate and rapid sharing of genomic surveillance data can help to detect and respond to biological threats such as new forms of insecticide resistance, and to adapt malaria vector control strategies to different settings and changing circumstances. If you have any questions regarding these terms of use, please contact  .",
             "name": "Ag3.10 Terms of Use"
         },
         {
+            "@type": "DataDownload",
             "contentUrl": "https://malariagen.github.io/vector-data/ag3/ag3.10.html",
             "description": "Please visit the release page on the   to find out more about how to access the data.",
             "name": "Ag3.10 Data Access"
         },
         {
+            "@type": "DataDownload",
             "contentUrl": "https://www.malariagen.net/data_package/ag310-anopheles-gambiae-data-resource/",
             "description": "Mosquitoes were collected from 36 locations across",
             "name": "Ag3.10 Sample Locations"
@@ -39,6 +45,7 @@
     ],
     "healthCondition": [
         {
+            "@type": "DefinedTerm",
             "curatedBy": {
                 "dateModified": "2025-01-15",
                 "name": "Biothings API",
@@ -58,10 +65,11 @@
         "archivedAt": "https://www.malariagen.net/data_package/ag310-anopheles-gambiae-data-resource/",
         "name": "MalariaGEN",
         "url": "https://www.malariagen.net/",
-        "versionDate": "2025-08-23"
+        "versionDate": "2025-10-11"
     },
     "infectiousAgent": [
         {
+            "@type": "DefinedTerm",
             "classification": "infectiousAgent",
             "displayName": "Vector NC",
             "fromEXTRACT": true,
@@ -85,6 +93,7 @@
     "name": "Ag3.10: Anopheles gambiae data resource",
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Anopheles gambiae sensu stricto",
                 "Anopheles gambiae Giles, 1902",

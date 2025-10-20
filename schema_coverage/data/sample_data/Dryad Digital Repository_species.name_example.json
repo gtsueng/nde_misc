@@ -1,0 +1,234 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dryad_1dh4c",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 6.6650987,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Universidad Nacional Amaz\u00f3nica. Rector\u00eda. Puyo, Ecuador"
+            },
+            "familyName": "Vargas",
+            "givenName": "Julio",
+            "name": "Julio Vargas"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of C\u00f3rdoba",
+                "sameAs": "https://ror.org/04nmbd607"
+            },
+            "familyName": "Landi",
+            "givenName": "Vincenzo",
+            "name": "Vincenzo Landi"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of C\u00f3rdoba",
+                "sameAs": "https://ror.org/04nmbd607"
+            },
+            "familyName": "Martinez",
+            "givenName": "Amparo",
+            "name": "Amparo Martinez"
+        },
+        {
+            "@type": "Person",
+            "familyName": "Gomez",
+            "givenName": "Mayra Mercedez",
+            "name": "Mayra Mercedez Gomez"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Andalusian Institute of Agricultural and Fisheries Research and Training",
+                "sameAs": "https://ror.org/02w21g732"
+            },
+            "familyName": "Camacho",
+            "givenName": "Mar\u00eda Esperanza",
+            "name": "Mar\u00eda Esperanza Camacho"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Universidad Nacional de Colombia",
+                "sameAs": "https://ror.org/059yx9a68"
+            },
+            "familyName": "\u00c1lvarez",
+            "givenName": "Luz \u00c1ngela",
+            "name": "Luz \u00c1ngela \u00c1lvarez"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Universidad Nacional de Loja",
+                "sameAs": "https://ror.org/03a5x6z77"
+            },
+            "familyName": "Aguirre",
+            "givenName": "Lenin",
+            "name": "Lenin Aguirre"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of C\u00f3rdoba",
+                "sameAs": "https://ror.org/04nmbd607"
+            },
+            "familyName": "Delgado",
+            "givenName": "Juan Vicente",
+            "name": "Juan Vicente Delgado"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of C\u00f3rdoba",
+                "sameAs": "https://ror.org/04nmbd607"
+            },
+            "familyName": "G\u00f3mez",
+            "givenName": "Mayra",
+            "name": "Mayra G\u00f3mez"
+        }
+    ],
+    "citation": {
+        "@type": "ScholarlyArticle",
+        "url": "http://doi.org/10.1371/journal.pone.0165398"
+    },
+    "conditionsOfAccess": "Open",
+    "date": "2017-10-14",
+    "datePublished": "2017-10-14",
+    "description": "Macabea cattle are the only Bos taurus breed that have adapted to the wet tropical conditions of the Amazon. This breed has integrated into the culture of the indigenous Shuar-Asuar nations probably since its origins, being one of the few European zoogenetic resources assimilated by the deep-jungle Amazon communities. Despite its potential for local endogenous sustainable development, this breed is currently endangered. The present study used molecular genetics tools to investigate the within- and between-breeds diversity, in order to characterize the breed population, define its associations with other breeds, and infer its origin and evolution. The within-breed genetic diversity showed high values, as indicated by all genetic parameters, such as the mean number of alleles (MNA = 7.25\u00b12.03), the observed heterozygosity (Ho = 0.72\u00b10.02) and the expected heterozygosity (He = 0.72\u00b10.02). The between-breeds diversity analysis, which included factorial correspondence analysis, Reynolds genetic distance, neighbor-joining analysis, and genetic structure analysis, showed that the Macabea breed belongs to the group of the American Creoles, with a Southern-Spain origin. Our outcomes demonstrated that the Macabea breed has a high level of purity and null influences of exotic cosmopolitan breeds with European or Asiatic origin. This breed is an important zoogenetic resource of Ecuador, with relevant and unique attributes; therefore, there is an urgent need to develop conservation strategies for the Macabea breed.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "http://datadryad.org/api/v2/datasets/doi%253A10.5061%252Fdryad.1dh4c/download",
+        "encodingFormat": "application/zip",
+        "hasPart": "http://datadryad.org/downloads/file_stream/57995"
+    },
+    "doi": "10.5061/dryad.1dh4c",
+    "hasPart": {
+        "@type": "ScholarlyArticle",
+        "name": "AllelefrequenciesAllele frequencies of the breed incluted in the paper. EC: Ecuadorian Creole; HV: Hart\u00f3n del Valle; FRI: Holstein Friesian; BON: Blanco Orejinegro; MA: Marisme\u00f1a; BC: Berrenda en Colorado; BWS: Brown Swiss; SIM: Simmental; HER: Herford; CHAR: Charolais; JER: Jersey; RGA: Rubia Gallega; MAC: Macabea; ZE: Zebu; NEL: Nellore; BRH: Brahman; GYR: Gyr"
+    },
+    "identifier": "doi:10.5061/dryad.1dh4c",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.1dh4c",
+            "name": "Dryad Digital Repository",
+            "url": "https://datadryad.org",
+            "versionDate": "2025-06-03"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://zenodo.org/records/4952401",
+            "name": "Zenodo",
+            "url": "https://zenodo.org/",
+            "versionDate": "2025-04-12"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "keywords": [
+        "molecular markers",
+        "Geo-evolution"
+    ],
+    "license": "https://spdx.org/licenses/CC0-1.0.html",
+    "name": "Molecular study of the Amazonian Macabea cattle history",
+    "spatialCoverage": [
+        {
+            "@type": "Place",
+            "name": "Ecuador"
+        },
+        {
+            "@type": "Place",
+            "name": "Colombia"
+        },
+        {
+            "@type": "Place",
+            "name": "Espa\u00f1a"
+        }
+    ],
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "bovine",
+                "ox",
+                "Bovine",
+                "Bos taurus Linnaeus, 1758",
+                "Bos Tauurus",
+                "domestic cattle",
+                "domestic cow",
+                "Bos bovis",
+                "dairy cow",
+                "cattle",
+                "Bos primigenius taurus",
+                "Bovidae sp. Adi Nefas",
+                "cow"
+            ],
+            "classification": "host",
+            "commonName": "Bovine",
+            "displayName": "Bovine | Bos taurus",
+            "fromEXTRACT": true,
+            "identifier": "9913",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Bos taurus",
+            "originalName": "cattle",
+            "url": "https://www.uniprot.org/taxonomy/9913"
+        }
+    ],
+    "temporalCoverage": {
+        "@type": "TemporalInterval",
+        "endDate": "2017-10-14"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3047",
+            "inDefinedTermSet": "EDAM",
+            "name": "Molecular biology",
+            "url": "http://edamontology.org/topic_3047"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3053",
+            "inDefinedTermSet": "EDAM",
+            "name": "Genetics",
+            "url": "http://edamontology.org/topic_3053"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3500",
+            "inDefinedTermSet": "EDAM",
+            "name": "Zoology",
+            "url": "http://edamontology.org/topic_3500"
+        }
+    ],
+    "url": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.1dh4c"
+}

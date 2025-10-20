@@ -2,7 +2,7 @@
     "@context": "https://schema.org/",
     "@type": "Dataset",
     "_id": "sdy1390",
-    "_score": 12.879556,
+    "_score": 12.628206,
     "abstract": "Ex vivo genome editing of primary human T cells can be used to identify viral host factors",
     "author": [
         {
@@ -41,9 +41,11 @@
     "doi": "10.21430/M3R9N6OS6C",
     "funding": [
         {
+            "@type": "MonetaryGrant",
             "endDate": "2020-05-31",
             "funder": [
                 {
+                    "@type": "Organization",
                     "alternateName": [
                         "National Institute of Allergy & Infectious Diseases",
                         "NIAID",
@@ -69,6 +71,7 @@
             "url": "https://reporter.nih.gov/project-details/8929545"
         },
         {
+            "@type": "MonetaryGrant",
             "funder": {
                 "@type": "Organization",
                 "alternateName": [
@@ -84,6 +87,7 @@
     ],
     "healthCondition": [
         {
+            "@type": "DefinedTerm",
             "name": "ex vivo activated primary cd4+ t cells from healthy, anonymous donors"
         }
     ],
@@ -103,11 +107,12 @@
             "archivedAt": "https://immunespace.org/query/study/SDY1390",
             "name": "ImmuneSpace",
             "url": "https://immunespace.org",
-            "versionDate": "2025-08-23"
+            "versionDate": "2025-10-11"
         }
     ],
     "infectiousAgent": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "HIV-2",
                 "LAV-2",
@@ -134,6 +139,7 @@
     "isAccessibleForFree": true,
     "isBasedOn": [
         {
+            "@type": "ScholarlyArticle",
             "additionalType": {
                 "name": "Assay"
             },
@@ -169,6 +175,7 @@
     ],
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Human",
                 "Homo sapiens Linnaeus, 1758",

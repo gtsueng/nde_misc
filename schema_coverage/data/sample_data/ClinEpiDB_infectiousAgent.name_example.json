@@ -4,12 +4,13 @@
     "_ignored": [
         "all.keyword"
     ],
-    "_score": 13.759431,
+    "_score": 13.508937,
     "conditionsOfAccess": "Restricted",
     "description": "Background: In low-endemic malaria settings, screening and\n      treatment near malaria index cases (reactive case detection, RACD) is practiced for surveillance and response. However, since the effectiveness of RACD is limited by the low sensitivity of point-of-care tests to detect low-density chronic infections that perpetuate malaria transmission, other approaches may be more effective. \n      \n      Objectives: This cluster-randomised controlled trial was conducted in a low endemic setting to evaluate the impact of two reactive focal malaria interventions - reactive focal mass drug administration (rfMDA) and reactive focal vector control (RAVC). The objectives were to:\n      \n       \n       \n       Evaluate the effectiveness of rfMDA, RAVC, and their combination to decrease malaria\n       transmission\n       Evaluate the safety of rfMDA and RAVC, alone and in combination\n       \n      \n      \n      Methodology:\n      \n      Geographic Location/Study Sites: Zambezi Region, Namibia\n      \n      Dates of Data Collection: January 2017-December 2017\n      \n      Study Design: Cluster-randomized controlled open label two-by-two\n      factorial design trial\n      \n      Eligibility Criteria: Inclusion and exclusion criteria for the study intervention are shown below:\n      \n\n      \n      \n\n      Study Arms: Fifty-six census enumeration area (EA) clusters were randomized to: 1) RACD or rfMDA, and 2) RAVC or no RAVC.\n      \n       \n       \n       RACD: rapid diagnostic testing and treatment with artemether-lumefantrine\n       (AL)\n       rfMDA: presumptive treatment with AL\n       RAVC: indoor residual spraying using pirimiphos-methyl\n       \n      \n      \n      Data Collection: To evaluate the effectiveness of interventions targeting the parasite reservoir in humans (rfMDA versus RACD), in mosquitos (RAVC versus no RAVC), and in both humans and mosquitoes (rfMDA plus RAVC versus RACD only) on the primary outcome of cluster-level cumulative incidence of locally acquired malaria cases, an intention-to-treat analysis was performed.\n      \n      Interventions were administered to the target population within 500 meters of an index case, as randomized. Index cases were defined as passively detected malaria cases that were confirmed by a rapid diagnostic test (RDT) or microscopy, irrespective of origin (e.g. local or imported), who were confirmed to reside in or have stayed at least one night in study EA in the previous four weeks. Data on malaria incidence and epidemiological data such as demographics, residence location, travel history, and malaria prevention behavior were collected. \n      \n      Field teams aimed to visit the index case household and eligible neighboring households within seven days but up to five weeks from the report of an index case, prioritizing households that were closest to the index case. To cover \u226580% of individuals or households within 500 meters of index cases, field teams aimed to deliver RACD or rfMDA to at least 25 individuals and RAVC (if indicated) to at least 7 households. \n      \n      Epidemiological data were collected on password secured tablets with pre-coded questionnaires programmed in Open Data Kit (ODK version 1.23.3). Tablet data was uploaded to a secure, firewall- and password-protected server. During the RACD intervention and during the endline cross-sectional survey, consenting individuals received malaria RDT testing and a dried blood spot (DBS) was collected for laboratory testing. \n      \n      Study Documentation:\n       \n       \n       \n       Study Protocol\n       EA-level Codebook\n       \n       \n       \n       \n      ClinEpiDB Data Integration: Data files were provided to ClinEpiDB as .csv and .dta files. All identifying information, including geo-coordinates, were removed to protect participants' privacy. These data files were converted to .txt files and merged by unique ID. Redundant or administrative columns were dropped from presentation on ClinEpiDB.org. All dates were obfuscated per participant through the application of a random number algorithm that shifted dates no more than seven days to comply with the ethical conduct of human subjects research.\n      \n      Acknowledgements: Thank you to the residents of the Zambezi region of Namibia who consented and participated in the study, the field staff, and the field supervisors.\n      \n      Financial Support: This work was supported by grants from the Novartis Foundation [A122666]; the Bill and Melinda Gates Foundation [OPP1160129]; and Horchow Family Fund [5300375400]\n      \n      Ethics Statement: Ethics approvals were obtained from Namibia Ministry of Health and Social Services (MoHSS) and the Institutional Review Boards of the University of Namibia, University of California San Francisco, and London School of Hygiene and Tropical Medicine.\n      \n      Last Updated: January 5, 2023A cluster-randomized control trial of reactive focal mass drug administration (rfMDA) and reactive focal vector control (RAVC) to reduce malaria transmission was performed in Namibia. Individuals residing within 500 meters of an index case were recruited. Participant observations were assessed at enrollment and at the endline cross-sectional survey, and data on the cumulative incidence of locally acquired malaria cases (the primary outcome) were extracted from health care facility rapid reports.",
     "disambiguatingDescription": "The \"Namibia rfMDA RAVC Cluster Randomized Trial - EDA data for QA\" explores the impact of two malaria interventions\u2014reactive focal mass drug administration (rfMDA) and reactive focal vector control (RAVC)\u2014in a low-endemic setting. Conducted in 2017, the trial aimed to evaluate their effectiveness in reducing malaria transmission and assess their safety. The study involved households within 500 meters of identified malaria cases, with data collected on malaria incidence along with demographic and behavioral variables. The results are critical for understanding how to optimize malaria surveillance and response strategies in low-endemic regions. The study was conducted in the Zambezi Region of Namibia from January to December 2017, using a two-by-two factorial design for a cluster-randomized controlled trial. Participants included census enumeration area clusters that were randomized to receive either reactive case detection (RACD), reactive focal mass drug administration (rfMDA), reactive focal vector control (RAVC), or a control group. Data were collected via password-secured tablets using Open Data Kit for epidemiological assessments.",
     "healthCondition": [
         {
+            "@type": "DefinedTerm",
             "curatedBy": {
                 "dateModified": "2025-01-15",
                 "name": "Biothings API",
@@ -30,10 +31,11 @@
         "archivedAt": "https://clinepidb.org/ce/app/record/dataset/DS_f559aee789",
         "name": "ClinEpiDB",
         "url": "https://clinepidb.org/ce/app/",
-        "versionDate": "2025-08-23"
+        "versionDate": "2025-10-11"
     },
     "infectiousAgent": [
         {
+            "@type": "DefinedTerm",
             "classification": "infectiousAgent",
             "displayName": "Vector NC",
             "fromEXTRACT": true,
@@ -47,10 +49,12 @@
     ],
     "name": "Namibia rfMDA RAVC Cluster Randomized Trial - EDA data for QA",
     "spatialCoverage": {
+        "@type": "Place",
         "name": null
     },
     "species": [
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "mosquitos"
             ],
@@ -66,6 +70,7 @@
             "url": "https://www.uniprot.org/taxonomy/7157"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Homo Linnaeus, 1758",
                 "humans"
@@ -81,6 +86,7 @@
             "url": "https://www.uniprot.org/taxonomy/9605"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
                 "Humo sapiens",
                 "Home sapiens",

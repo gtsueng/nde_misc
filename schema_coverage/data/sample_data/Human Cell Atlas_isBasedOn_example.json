@@ -1,0 +1,734 @@
+{
+    "@type": "Dataset",
+    "_id": "hca_0b299140-25b5-4861-a69f-7651ff3f46cf",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 11.577236,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Harvard Medical School & Massachusetts Institute of Technology"
+            },
+            "familyName": "Ziegler",
+            "givenName": "Carly",
+            "name": "Carly Ziegler"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Massachusetts Institute of Technology"
+            },
+            "familyName": "Allon",
+            "givenName": "Samuel",
+            "name": "Samuel Allon"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Massachusetts Institute of Technology"
+            },
+            "familyName": "Nyquist",
+            "givenName": "Sarah",
+            "name": "Sarah Nyquist"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Africa Health Research Institute, Durban"
+            },
+            "familyName": "Mbano",
+            "givenName": "Ian",
+            "name": "Ian Mbano"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Harvard Medical School & Massachusetts Institute of Technology"
+            },
+            "familyName": "Miao",
+            "givenName": "Vincent",
+            "name": "Vincent Miao"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Harvard Medical School & Massachusetts Institute of Technology"
+            },
+            "familyName": "Tzouanas",
+            "givenName": "Constantine",
+            "name": "Constantine Tzouanas"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Massachusetts Medical School"
+            },
+            "familyName": "Cao",
+            "givenName": "Yuming",
+            "name": "Yuming Cao"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Harvard Medical School & Massachusetts Institute of Technology"
+            },
+            "familyName": "Yousif",
+            "givenName": "Ashraf",
+            "name": "Ashraf Yousif"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Harvard Medical School & Massachusetts Institute of Technology"
+            },
+            "familyName": "Bals",
+            "givenName": "Julia",
+            "name": "Julia Bals"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Harvard Medical School & Massachusetts Institute of Technology"
+            },
+            "familyName": "Hauser",
+            "givenName": "Blake",
+            "name": "Blake Hauser"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Harvard Medical School & Massachusetts Institute of Technology"
+            },
+            "familyName": "Feldman",
+            "givenName": "Jared",
+            "name": "Jared Feldman"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Broad Institute of MIT and Harvard"
+            },
+            "familyName": "Muus",
+            "givenName": "Christoph",
+            "name": "Christoph Muus"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Massachusetts Institute of Technology"
+            },
+            "familyName": "Wadsworth",
+            "givenName": "Marc",
+            "name": "Marc Wadsworth"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Massachusetts Institute of Technology"
+            },
+            "familyName": "Kazer",
+            "givenName": "Samuel",
+            "name": "Samuel Kazer"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Harvard Medical School & Massachusetts Institute of Technology"
+            },
+            "familyName": "Hughes",
+            "givenName": "Travis",
+            "name": "Travis Hughes"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Massachusetts Institute of Technology"
+            },
+            "familyName": "Doran",
+            "givenName": "Benjamin",
+            "name": "Benjamin Doran"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Massachusetts Institute of Technology"
+            },
+            "familyName": "Gatter",
+            "givenName": "G James",
+            "name": "G James Gatter"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Massachusetts Institute of Technology"
+            },
+            "familyName": "Vukovic",
+            "givenName": "Marko",
+            "name": "Marko Vukovic"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Broad Institute of MIT and Harvard"
+            },
+            "familyName": "Taliaferro",
+            "givenName": "Faith",
+            "name": "Faith Taliaferro"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Massachusetts Institute of Technology"
+            },
+            "familyName": "Mead",
+            "givenName": "Benjamin",
+            "name": "Benjamin Mead"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Massachusetts Medical School"
+            },
+            "familyName": "Guo",
+            "givenName": "Zhiru",
+            "name": "Zhiru Guo"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Massachusetts Medical School"
+            },
+            "familyName": "Wang",
+            "givenName": "Jennifer",
+            "name": "Jennifer Wang"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Aix-Marseille University, INSERM"
+            },
+            "familyName": "Gras",
+            "givenName": "Delphine",
+            "name": "Delphine Gras"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Universit\u00e9 C\u00f4te d'Azur"
+            },
+            "familyName": "Plaisant",
+            "givenName": "Magali",
+            "name": "Magali Plaisant"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Helmholtz Zentrum M\u00fcnchen, Munich"
+            },
+            "familyName": "Ansari",
+            "givenName": "Meshal",
+            "name": "Meshal Ansari"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Helmholtz Zentrum M\u00fcnchen, Munich"
+            },
+            "familyName": "Angelidis",
+            "givenName": "Ilias",
+            "name": "Ilias Angelidis"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Helmholtz Zentrum M\u00fcnchen, Munich"
+            },
+            "familyName": "Adler",
+            "givenName": "Heiko",
+            "name": "Heiko Adler"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Vanderbilt University Medical Center"
+            },
+            "familyName": "Sucre",
+            "givenName": "Jennifer",
+            "name": "Jennifer Sucre"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Vanderbilt University Medical Center"
+            },
+            "familyName": "Taylor",
+            "givenName": "Chase",
+            "name": "Chase Taylor"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Massachusetts General Hospital"
+            },
+            "familyName": "Lin",
+            "givenName": "Brian",
+            "name": "Brian Lin"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Massachusetts General Hospital"
+            },
+            "familyName": "Waghray",
+            "givenName": "Avinash",
+            "name": "Avinash Waghray"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Boston Children's Hospital"
+            },
+            "familyName": "Mitsialis",
+            "givenName": "Vanessa",
+            "name": "Vanessa Mitsialis"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Brigham and Women's Hospital"
+            },
+            "familyName": "Dwyer",
+            "givenName": "Daniel",
+            "name": "Daniel Dwyer"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Brigham and Women's Hospital"
+            },
+            "familyName": "Buchheit",
+            "givenName": "Kathleen",
+            "name": "Kathleen Buchheit"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Brigham and Women's Hospital"
+            },
+            "familyName": "Boyce",
+            "givenName": "Joshua",
+            "name": "Joshua Boyce"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Brigham and Women's Hospital"
+            },
+            "familyName": "Barrett",
+            "givenName": "Nora",
+            "name": "Nora Barrett"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Brigham and Women's Hospital"
+            },
+            "familyName": "Laidlaw",
+            "givenName": "Tanya",
+            "name": "Tanya Laidlaw"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of California, Berkeley"
+            },
+            "familyName": "Carroll",
+            "givenName": "Shaina",
+            "name": "Shaina Carroll"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Washington, Seattle"
+            },
+            "familyName": "Colonna",
+            "givenName": "Lucrezia",
+            "name": "Lucrezia Colonna"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Boston Children's Hospital"
+            },
+            "familyName": "Tkachev",
+            "givenName": "Victor",
+            "name": "Victor Tkachev"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Fred Hutchinson Cancer Research Center, Seattle"
+            },
+            "familyName": "Peterson",
+            "givenName": "Christopher",
+            "name": "Christopher Peterson"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Boston Children's Hospital"
+            },
+            "familyName": "Yu",
+            "givenName": "Alison",
+            "name": "Alison Yu"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Washington, Seattle"
+            },
+            "familyName": "Zheng",
+            "givenName": "Hengqi Betty",
+            "name": "Hengqi Betty Zheng"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Pittsburgh School of Medicine"
+            },
+            "familyName": "Gideon",
+            "givenName": "Hannah",
+            "name": "Hannah Gideon"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Pittsburgh School of Medicine"
+            },
+            "familyName": "Winchell",
+            "givenName": "Caylin",
+            "name": "Caylin Winchell"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Pittsburgh School of Medicine"
+            },
+            "familyName": "Lin",
+            "givenName": "Philana Ling",
+            "name": "Philana Ling Lin"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "The Medical School and The Florey Institute for Host Pathogen Interactions, University of Sheffield"
+            },
+            "familyName": "Bingle",
+            "givenName": "Colin",
+            "name": "Colin Bingle"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Boston Children's Hospital"
+            },
+            "familyName": "Snapper",
+            "givenName": "Scott",
+            "name": "Scott Snapper"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Vanderbilt University Medical Center"
+            },
+            "familyName": "Kropski",
+            "givenName": "Jonathan",
+            "name": "Jonathan Kropski"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Helmholtz Zentrum M\u00fcnchen, Munich"
+            },
+            "familyName": "Theis",
+            "givenName": "Fabian",
+            "name": "Fabian Theis"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Helmholtz Zentrum M\u00fcnchen, Munich"
+            },
+            "familyName": "Schiller",
+            "givenName": "Herbert",
+            "name": "Herbert Schiller"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Universit\u00e9 C\u00f4te d'Azur"
+            },
+            "familyName": "Zaragosi",
+            "givenName": "Laure-Emmanuelle",
+            "name": "Laure-Emmanuelle Zaragosi"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Universit\u00e9 C\u00f4te d'Azur"
+            },
+            "familyName": "Barbry",
+            "givenName": "Pascal",
+            "name": "Pascal Barbry"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Africa Health Research Institute, Durban"
+            },
+            "familyName": "Leslie",
+            "givenName": "Alasdair",
+            "name": "Alasdair Leslie"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Fred Hutchinson Cancer Research Center, Seattle"
+            },
+            "familyName": "Kiem",
+            "givenName": "Hans-Peter",
+            "name": "Hans-Peter Kiem"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Pittsburgh School of Medicine"
+            },
+            "familyName": "Flynn",
+            "givenName": "JoAnne",
+            "name": "JoAnne Flynn"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Harvard Medical School & Massachusetts Institute of Technology"
+            },
+            "familyName": "Fortune",
+            "givenName": "Sarah",
+            "name": "Sarah Fortune"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Massachusetts Institute of Technology"
+            },
+            "familyName": "Berger",
+            "givenName": "Bonnie",
+            "name": "Bonnie Berger"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Massachusetts Medical School"
+            },
+            "familyName": "Finberg",
+            "givenName": "Robert",
+            "name": "Robert Finberg"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Boston Children's Hospital"
+            },
+            "familyName": "Kean",
+            "givenName": "Leslie",
+            "name": "Leslie Kean"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Massachusetts Medical School"
+            },
+            "familyName": "Garber",
+            "givenName": "Manuel",
+            "name": "Manuel Garber"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Harvard Medical School & Massachusetts Institute of Technology"
+            },
+            "familyName": "Schmidt",
+            "givenName": "Aaron",
+            "name": "Aaron Schmidt"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Harvard Medical School & Massachusetts Institute of Technology"
+            },
+            "familyName": "Lingwood",
+            "givenName": "Daniel",
+            "name": "Daniel Lingwood"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Harvard Medical School & Massachusetts Institute of Technology"
+            },
+            "email": "shalek@mit.edu",
+            "familyName": "Shalek",
+            "givenName": "Alex",
+            "name": "Alex Shalek"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "Broad Institute of MIT and Harvard"
+            },
+            "email": "montanes@childrens.harvard.edu",
+            "familyName": "Ordovas-Montanes",
+            "givenName": "Jose",
+            "name": "Jose Ordovas-Montanes"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "EMBL-EBI"
+            },
+            "familyName": "Day",
+            "givenName": "Ami",
+            "name": "Ami Day",
+            "role": "data curator"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "doi": "10.1016/j.cell.2020.04.035",
+            "name": "SARS-CoV-2 Receptor ACE2 Is an Interferon-Stimulated Gene in Human Airway Epithelial Cells and Is Detected in Specific Cell Subsets across Tissues.",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0092867420305006?via%3Dihub#!"
+        }
+    ],
+    "date": "2025-02-14",
+    "dateModified": "2025-02-14",
+    "datePublished": "2022-04-21",
+    "description": "There is pressing urgency to understand the pathogenesis of the severe acute respiratory syndrome coronavirus clade 2 (SARS-CoV-2) which causes the disease COVID-19. SARS-CoV-2 spike (S)-protein binds ACE2, and in concert with host proteases, principally TMPRSS2, promotes cellular entry. The cell subsets targeted by SARS-CoV-2 in host tissues, and the factors that regulate ACE2 expression, remain unknown. Here, we leverage human and mouse single-cell RNA-sequencing (scRNA-seq) datasets across health and disease to uncover putative targets of SARS-CoV-2 amongst tissue-resident cell subsets. Overall design: Samples from 8 datasets are included: single-cell RNA-Seq studies: 2 human adult donors of inferior turbinate scrapings with two replicates each. Four mouse donors of nasal epithelial cells, two stimulated with IFNA and two controls with two replicates from each animal. 13 human ileal small intestine donors. 8 human lung tissue donors with mTB infection, mTB infection and HIV, or no mTB infection. Bulk RNA-seq samples: Two human donors stimulated with three replicates of each stimulation with IFNA, IFNG, IL17A, or IL4, each at increasing doses (0, 0.1 ,0.5, 1, 2, 5, 10 ng/mL) and 12 replicates of unstimulated samples. One mouse donor of cells from the trachea with three replicates of each stimulation with IFNA, IFNB, or IFNG, each at increasing doses (0, 0.1 ,0.5, 1, 2, 5, 10 ng/mL) and 12 replicates of unstimulated samples. One human cell line stimulated with three replicates of each stimulation with IFNA, IFNG, IL17A, or IL4, each at increasing doses (0, 0.1 ,0.5, 1, 2, 5, 10 ng/mL) and 12 replicates of unstimulated samples.",
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "healthy",
+                "well"
+            ],
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "C115935",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Healthy",
+            "originalName": "healthy",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C115935"
+        }
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://data.humancellatlas.org/explore/projects/0b299140-25b5-4861-a69f-7651ff3f46cf",
+        "name": "Human Cell Atlas",
+        "url": "https://data.humancellatlas.org/",
+        "versionDate": "2025-10-11"
+    },
+    "isAccessibleForFree": true,
+    "isBasedOn": [
+        {
+            "@type": "ComputationalTool",
+            "codeRepository": "https://chanzuckerberg.github.io/cellxgene/posts/cellxgene_cziscience_com"
+        }
+    ],
+    "keywords": [
+        "lung",
+        "lung epithelium",
+        "nose",
+        "nasal cavity mucosa",
+        "trachea",
+        "small intestine"
+    ],
+    "mainEntityOfPage": [
+        "https://drive.google.com/drive/folders/1bxCIqNeZ7wLuVOT16gphwj98_cc9KhrV?usp=sharing",
+        "https://singlecell.broadinstitute.org/single_cell/covid19",
+        "https://singlecell.broadinstitute.org/single_cell?scpbr=the-alexandria-project"
+    ],
+    "name": "SARS-CoV-2 receptor ACE2 is an interferon-stimulated gene in human airway epithelial cells and is detected in specific cell subsets across tissues.",
+    "sameAs": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA627454",
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Mouse",
+                "LK3 transgenic mice",
+                "Mus musculus Linnaeus, 1758",
+                "Mus sp. 129SV",
+                "house mouse",
+                "mice C57BL/6xCBA/CaJ hybrid",
+                "mouse",
+                "nude mice",
+                "transgenic mice"
+            ],
+            "classification": "host",
+            "commonName": "Mouse",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Mouse | Mus musculus",
+            "identifier": "10090",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Mus musculus",
+            "originalName": "mus musculus",
+            "url": "https://www.uniprot.org/taxonomy/10090"
+        }
+    ],
+    "url": "https://data.humancellatlas.org/explore/projects/0b299140-25b5-4861-a69f-7651ff3f46cf"
+}

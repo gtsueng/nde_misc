@@ -1,0 +1,315 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "_id": "gse232328",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 5.3090935,
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Wen B"
+        },
+        {
+            "@type": "Person",
+            "name": "Wang Y"
+        },
+        {
+            "@type": "Person",
+            "name": "Hong Q"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Wang Y"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Hong Q"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Xia Y"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Zhang Z"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Wen B"
+                }
+            ],
+            "datePublished": "2023-10-01",
+            "fromPMID": true,
+            "identifier": "PMID:37565374",
+            "journalName": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+            "name": "The Lysine Demethylase KDM7A Regulates Immediate Early Genes in Neurons.",
+            "pmid": "37565374",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37565374/"
+        }
+    ],
+    "date": "2023-11-20",
+    "dateModified": "2023-11-20",
+    "datePublished": "2023-05-11",
+    "description": "There are multiple post-translational modifications on amino acid residues at the N-terminus of histones that affect the structure of chromatin and alter the transcription of genes, thereby regulating a variety of biological processes. Lysine demethylase 7A (KDM7A) mainly removes histone modifications such as H3K9me1/2 and H3K27me1/2. Current research on KDM7A has focused on tumors, metabolism and development, while research on the function of the mammalian nervous system is still lacking. The functions and mechanisms of KDM7A in the regulation of neuronal cell differentiation and cell activity in the nervous system were investigated. Our study found that KDM7A regulates H3K9me2 and H3K27me2 but also affects other inhibitory or active histones, such as H3K9me3 and H3K27ac, thereby disturbing the transcription of some immediate early genes (IEGs) and consequently affecting the differentiation and activity of neuronal cells. IEGs are important for neuron cell proliferation, differentiation, formation of dendrites and neural circuit-related proteins, which are involved in maintaining the normal function of the nervous system. Imbalances in IEG expression have been found in some neurological disorders, such as depression and schizophrenia. Moreover, the changes in various histone modifications in neurodegenerative diseases and brain injury have recently received increasing attention. Therefore, our study provides a basis for revealing the epigenetic regulatory mechanisms of neurological disorders.\nCUT&Tag for  histone modifications H3K27me2, H3K27me3, H3K9me3, H3K27ac and H3K4me3 in shCtrl or shKdm7a N2a cells.",
+    "distribution": {
+        "@type": "dataDownload",
+        "contentUrl": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE232328"
+    },
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "NKRDPC",
+                    "Special Fund for the National Key Research and Development Plan",
+                    "973 Program",
+                    "National Basic Research Program of China",
+                    "NKPs",
+                    "National Plan on Key Basic Research and Development",
+                    "National Program on Key Basic Research Project (973 Program)",
+                    "National Key Research and Development of China",
+                    "\u91cd\u70b9\u57fa\u7840\u7814\u7a76\u53d1\u5c55\u8ba1\u5212",
+                    "National Key R&D Program of China",
+                    "National Key R&D Programmes of China",
+                    "China's National Key R&D Programmes",
+                    "National Basic Research Program",
+                    "National Basic Research Program of China (973 Program)",
+                    "China National Key Research and Development Plan Project",
+                    "National Key Research and Development Program"
+                ],
+                "identifier": "https://ror.org/027s68j25",
+                "name": "National Key Research and Development Program of China",
+                "parentOrganization": "State Council of the People's Republic of China"
+            },
+            "identifier": "2021YFA1100203"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "NNSF of China",
+                    "Gu\u00f3ji\u0101 Z\u00ecr\u00e1n K\u0113xu\u00e9 J\u012bj\u012bn W\u011biyu\u00e1nhu\u00ec",
+                    "NSF of China",
+                    "\u56fd\u5bb6\u81ea\u7136\u79d1\u5b66\u57fa\u91d1\u59d4\u5458\u4f1a",
+                    "National Nature Science Foundation of China",
+                    "NSFC",
+                    "National Science Foundation of China",
+                    "Natural Science Foundation of China",
+                    "NNSFC",
+                    "Chinese National Science Foundation",
+                    "NNSF"
+                ],
+                "identifier": "https://ror.org/01h0zpd94",
+                "name": "National Natural Science Foundation of China"
+            },
+            "identifier": "32130019"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "alternateName": [
+                    "Fujian Provincial Natural Science Foundation",
+                    "Fujian Natural Science Foundation"
+                ],
+                "identifier": "https://ror.org/01h0zpd94",
+                "name": "Natural Science Foundation of Fujian Province"
+            },
+            "identifier": "2022J05206"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "fromPMID": true,
+            "funder": {
+                "@type": "Organization",
+                "name": "Science and Technology Plan Project of Fujian Provincial Health Commission"
+            },
+            "identifier": "2022GGA005"
+        }
+    ],
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "AF",
+                "AFib",
+                "atrial fibrillation (disease)",
+                "atrial fibrillation",
+                "A-fib"
+            ],
+            "fromPMID": true,
+            "identifier": "0004981",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "atrial fibrillation",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0004981"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "nervous system disease",
+                "neurological disease",
+                "neurological disorder",
+                "disorder of nervous system",
+                "neurologic disease",
+                "disease or disorder of nervous system",
+                "nervous system disorder",
+                "disease of nervous system",
+                "neurologic disorder",
+                "nervous system disease or disorder"
+            ],
+            "fromPMID": true,
+            "identifier": "0005071",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "nervous system disorder",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005071"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "neurodegenerative disease",
+                "central nervous system degenerative disorder",
+                "central nervous system neurodegenerative disorder",
+                "degenerative disorder of central nervous system",
+                "brain degeneration"
+            ],
+            "fromPMID": true,
+            "identifier": "0005559",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": false,
+            "name": "neurodegenerative disease",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0005559"
+        }
+    ],
+    "identifier": "GSE232328",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE232328",
+        "name": "NCBI GEO",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/",
+        "versionDate": "2025-02-08"
+    },
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "name": "Genome binding/occupancy profiling by high throughput sequencing"
+        }
+    ],
+    "name": "The histone demethylase 7A regulates immediate early genes in neurons [CUT & Tag]",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Fudan University"
+    },
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Mouse",
+                "LK3 transgenic mice",
+                "Mus musculus Linnaeus, 1758",
+                "Mus sp. 129SV",
+                "house mouse",
+                "mice C57BL/6xCBA/CaJ hybrid",
+                "mouse",
+                "nude mice",
+                "transgenic mice"
+            ],
+            "classification": "host",
+            "commonName": "Mouse",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Mouse | Mus musculus",
+            "identifier": "10090",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Mus musculus",
+            "originalName": "mus musculus",
+            "url": "https://www.uniprot.org/taxonomy/10090"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human",
+                "Homo sapian",
+                "Homo spaiens",
+                "Homo spiens",
+                "human",
+                "Homo sapien",
+                "Homo sapients",
+                "Humo sapiens",
+                "Home sapiens",
+                "Homo sapines",
+                "Homo sapians",
+                "Homo sapeins",
+                "Homo sapience",
+                "Homo sampiens",
+                "Homo sapiense",
+                "Homo sapiens Linnaeus, 1758"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "displayName": "Human | Homo sapiens",
+            "fromPMID": true,
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3295",
+            "inDefinedTermSet": "EDAM",
+            "name": "Epigenetics",
+            "url": "http://edamontology.org/topic_3295"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3334",
+            "inDefinedTermSet": "EDAM",
+            "name": "Neurology",
+            "url": "http://edamontology.org/topic_3334"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_2229",
+            "inDefinedTermSet": "EDAM",
+            "name": "Cell biology",
+            "url": "http://edamontology.org/topic_2229"
+        }
+    ],
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE232328"
+}

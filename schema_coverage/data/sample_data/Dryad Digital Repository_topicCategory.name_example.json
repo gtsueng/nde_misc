@@ -1,0 +1,126 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "_id": "dryad_1dc8q",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 6.6650987,
+    "author": [
+        {
+            "@type": "Person",
+            "familyName": "W\u00fcest",
+            "givenName": "Rafael Otmar",
+            "name": "Rafael Otmar W\u00fcest"
+        },
+        {
+            "@type": "Person",
+            "familyName": "Antonelli",
+            "givenName": "Alexandre",
+            "name": "Alexandre Antonelli"
+        },
+        {
+            "@type": "Person",
+            "familyName": "Zimmermann",
+            "givenName": "Niklaus E.",
+            "name": "Niklaus E. Zimmermann"
+        },
+        {
+            "@type": "Person",
+            "familyName": "Linder",
+            "givenName": "H. Peter",
+            "name": "H. Peter Linder"
+        }
+    ],
+    "citation": {
+        "@type": "ScholarlyArticle",
+        "url": "http://doi.org/10.1086/680551"
+    },
+    "conditionsOfAccess": "Open",
+    "date": "2014-12-18",
+    "datePublished": "2014-12-18",
+    "description": "Climate is a main predictor of biodiversity on a global scale, yet how climate availability affects niche evolution remains poorly explored. Here we assess how intercontinental climate differences may affect the evolution of climate niches and suggest three possible processes: niche truncation along major environmental gradients, intercontinental differences in available climate causing differences in selective regimes, and niche shifts associated with long-distance dispersals leading to a pattern of punctuated evolution. Using the globally distributed danthonioid grasses, we show significant niche differentiation among continents and several instances of niche truncation. The comparison of inferred selective regimes with differences in available climatic space among continents demonstrates adaptation resulting from opportunistic evolution toward available climatic space. Our results suggest that niche evolution in this clade is punctuated, consistent with accelerated niche evolution after long-distance dispersal events. Finally, we discuss how intrinsic constraints (genetic, developmental, or functional) and biotic interactions could have interacted with these three processes during range expansion. Integrating these mechanisms could improve predictions for invasive taxa and long-term evolutionary responses of expanding clades to climate change.",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "http://datadryad.org/api/v2/datasets/doi%253A10.5061%252Fdryad.1dc8q/download",
+        "encodingFormat": "application/zip",
+        "hasPart": "http://datadryad.org/downloads/file_stream/89197"
+    },
+    "doi": "10.5061/dryad.1dc8q",
+    "hasPart": {
+        "@type": "ScholarlyArticle",
+        "name": "Danthonioideae OccurrencesData with geographic locations for the 40,331 Danthoniodieae occurrences. Column names as follows: species name ('species'), longitude ('long') and latitude ('lat'), bioclimatic variables ('bio_1' to 'bio_19'), as extracted from the 'WorldClim' database (definitions see: http://www.worldclim.org/bioclim).   Further information about WorldClim at Hijmans, R.J., S.E. Cameron, J.L. Parra, P.G. Jones and A. Jarvis, 2005. Very high resolution interpolated climate surfaces for global land areas. International Journal of Climatology 25: 1965-1978. http://dx.doi.org/10.1002/joc.1276data.txt"
+    },
+    "identifier": "doi:10.5061/dryad.1dc8q",
+    "includedInDataCatalog": [
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.1dc8q",
+            "name": "Dryad Digital Repository",
+            "url": "https://datadryad.org",
+            "versionDate": "2025-06-03"
+        },
+        {
+            "@type": "DataCatalog",
+            "archivedAt": "https://zenodo.org/records/4933133",
+            "name": "Zenodo",
+            "url": "https://zenodo.org/",
+            "versionDate": "2025-04-12"
+        }
+    ],
+    "isAccessibleForFree": true,
+    "keywords": [
+        "Danthonioideae",
+        "Phylogenetics: comparative",
+        "Geographic ranges"
+    ],
+    "license": "https://spdx.org/licenses/CC0-1.0.html",
+    "name": "Available climate regimes drive niche diversification during range expansion",
+    "spatialCoverage": {
+        "@type": "Place",
+        "name": "Global"
+    },
+    "temporalCoverage": {
+        "@type": "TemporalInterval",
+        "endDate": "2020-07-18"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0610",
+            "inDefinedTermSet": "EDAM",
+            "name": "Ecology",
+            "url": "http://edamontology.org/topic_0610"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3050",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biodiversity",
+            "url": "http://edamontology.org/topic_3050"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3299",
+            "inDefinedTermSet": "EDAM",
+            "name": "Evolutionary biology",
+            "url": "http://edamontology.org/topic_3299"
+        }
+    ],
+    "url": "http://datadryad.org/dataset/doi%253A10.5061%252Fdryad.1dc8q"
+}

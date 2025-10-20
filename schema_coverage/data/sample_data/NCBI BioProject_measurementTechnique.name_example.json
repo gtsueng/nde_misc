@@ -1,0 +1,31 @@
+{
+    "@type": "Dataset",
+    "_id": "ncbi_bioproject_prjeb28693",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 3.9262645,
+    "date": "2018-11-24",
+    "datePublished": "2018-11-24",
+    "description": "T cells were extracted from spleens of CBLA mice and activated in vitro with CD3/28 on day 0. They were spinoculated with retroviruses overexpressing a 3xFLAG-gene of interest on day 1. On day 4, BFP-positive (infected) cells were FACS sorted and measured by ChIPmentation. For input ChIP controls, see E-MTAB-6276",
+    "identifier": "PRJEB28693",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ncbi.nlm.nih.gov/bioproject/PRJEB28693",
+        "name": "NCBI BioProject",
+        "url": "https://www.ncbi.nlm.nih.gov/bioproject/",
+        "versionDate": "2025-10-11"
+    },
+    "keywords": [
+        "monoisolate"
+    ],
+    "measurementTechnique": {
+        "@type": "DefinedTerm",
+        "name": "Sequencing"
+    },
+    "name": "ChIP-seq of Mus musculus T helper cell type 2 with retroviral overexpression of Bhlhe40 and Pparg. ChIP-seq of Mus musculus T helper cell type 2 with retroviral overexpression of Bhlhe40 and Pparg",
+    "url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJEB28693",
+    "variableMeasured": {
+        "name": "Other"
+    }
+}

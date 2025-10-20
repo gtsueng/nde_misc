@@ -1,0 +1,300 @@
+{
+    "@type": "Dataset",
+    "@version": "1",
+    "_id": "radx_142",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 12.741048,
+    "author": [
+        {
+            "@type": "Person",
+            "familyName": "Elkington",
+            "givenName": "Katherine S"
+        }
+    ],
+    "conditionsOfAccess": "Restricted",
+    "date": "2024-04-17",
+    "dateCreated": "2022-02-25",
+    "dateModified": "2024-04-17",
+    "datePublished": "2023-08-30",
+    "description": "Until the advent of treatment or a vaccine, the ability to contain COVID-19 relied on widespread identification of (asymptomatic) positive cases, their subsequent quarantine, and contact tracing of those potentially exposed. Therefore testing efforts must be targeted to those highly vulnerable yet unserved populations, including individuals who use opioids and other substances. These individuals may have had poor respiratory or pulmonary health due to substance use (e.g. opioids, methamphetamine), which may have made them more susceptible to the virus. Also, these individuals were also more likely to have been incarcerated, or reside on the street, in shelters or in crowded accommodation, further placing them at risk for transmission. This study proposed research to establish efficacy and sustainability of a community-social network outreach model that partnered infectious disease health providers with community based organizations to successfully implement (reach, uptake, delivery and sustainment) COVID-19 point of service, rapid-testing among a highly vulnerable and often underserved population, those who use opioids and other substances. Two distinct social network recruitment strategies with demonstrated efficacy identifying hidden populations and increasing uptake of HIV testing will be adapted and compared. Guided by the EPIS framework, social cognitive theory, and Andersen's model, this study comprised three phases. Phase 1: Adaptation of outreach recruitment strategies, worked with the project community advisory board (CAB) to adapt chain-referral and credible messenger strategies for uptake of COVID-19 testing, to finalize recruitment and on-site testing protocols, and to train the CAB in the new protocols and in continuous quality improvement strategies (Aim 1). Phase 2: Strategy Efficacy Trial and Implementation Evaluation, compared the two strategies in a cross-over design at two community based organizations (CBOs) with longstanding history of serving hard-to-reach populations in their communities. The comparison of strategies was not to identify the statistical superiority of one sampling strategy in providing population estimates over the other, but instead to identify the ability of each recruitment strategy to reach the target population and increase uptake of COVID-19 tests. This study examined the impact of each strategy on (i) reach (recruitment of target population), (ii) COVID-19 testing/repeat testing, and (iii) service delivery (i.e. quarantine, medical care and contact tracing) among those who test positive for COVID-19 (exploratory) (Aim 2). Phase 3: Sustainment, CBOs implemented the strategy proven efficacious based on outcomes, and this study examined their sustainment of the program (Aim 3). Implementation evaluation identified participant-, staff-, and organizational-level factors that influence the feasibility, acceptability, and sustainability of each strategy in these CBOs. (Aim 4). This investigation provided much needed information to improve health outcomes and to identify effective system-level responses to prevent or arrest the spread of COVID-19 among the social networks of those who use opioids and other substances, a highly vulnerable and often overlooked population.",
+    "doi": "10.60773/ywfr-4e53",
+    "funding": {
+        "@type": "MonetaryGrant",
+        "funder": [
+            {
+                "@type": "Organization",
+                "name": "NIDA"
+            }
+        ]
+    },
+    "healthCondition": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2019 novel coronavirus infection",
+                "2019-nCoV infection",
+                "coronavirus disease 2019",
+                "severe acute respiratory syndrome coronavirus 2 infectious disease"
+            ],
+            "curatedBy": {
+                "dateModified": "2025-01-15",
+                "name": "Biothings API",
+                "url": "https://biothings.io/"
+            },
+            "identifier": "0100096",
+            "inDefinedTermSet": "MONDO",
+            "isCurated": true,
+            "name": "COVID-19",
+            "originalName": "COVID-19",
+            "url": "http://purl.obolibrary.org/obo/MONDO_0100096"
+        }
+    ],
+    "identifier": "phs002799",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://radxdatahub.nih.gov/study/142",
+        "name": "RADx Data Hub",
+        "url": "https://radxdatahub.nih.gov/",
+        "versionDate": "2025-03-26"
+    },
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "HIV-2",
+                "LAV-2",
+                "HIV2",
+                "HIV type 2",
+                "human immunodeficiency virus type 2 HIV-2",
+                "HIV",
+                "Human immunodeficiency virus-2",
+                "AIDS virus",
+                "Human immunodeficiency virus type 2",
+                "human immunodeficiency virus type 2, HIV-2"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Human immunodeficiency virus 2",
+            "fromEXTRACT": true,
+            "identifier": "11709",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Human immunodeficiency virus 2",
+            "originalName": "HIV",
+            "url": "https://www.uniprot.org/taxonomy/11709"
+        },
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "2019-nCoV",
+                "Wuhan coronavirus",
+                "SARS-2",
+                "SARS-CoV2",
+                "Wuhan seafood market pneumonia virus",
+                "HCoV-19",
+                "COVID19",
+                "COVID-19 virus",
+                "Human coronavirus 2019",
+                "COVID-19"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "2019-nCoV",
+            "curatedBy": {
+                "dateModified": "2025-02-09",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/"
+            },
+            "displayName": "2019-nCoV | Severe acute respiratory syndrome coronavirus 2",
+            "identifier": "2697049",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Severe acute respiratory syndrome coronavirus 2",
+            "originalName": "Severe acute respiratory syndrome coronavirus 2",
+            "url": "https://www.uniprot.org/taxonomy/2697049"
+        }
+    ],
+    "isBasedOn": {
+        "@type": "ScholarlyArticle",
+        "url": "{https://clinicaltrials.gov/study/NCT04873401}"
+    },
+    "keywords": [
+        "Rapid Diagnostic Test (RDT)",
+        "Community Outreach Programs",
+        "Comorbidities",
+        "Substance Use",
+        "Testing Rate or Uptake",
+        "Social Determinants of Health"
+    ],
+    "license": "https://sharing.nih.gov/accessing-data/accessing-genomic-data/how-to-request-and-access-datasets-from-dbgap",
+    "measurementTechnique": [
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C53465",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Rapid Antigen Test",
+            "originalName": "Antigen Testing Device",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C53465"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C16751",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Interview",
+            "originalName": "Interview or Focus Group",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C16751"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C154589",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Focus Group",
+            "originalName": "Interview or Focus Group",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C154589"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C20055",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Nucleic Acid Amplification Test",
+            "originalName": "Molecular Nucleic Acid or PCR Testing Device",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C20055"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "0002740",
+            "inDefinedTermSet": "OBI",
+            "isCurated": true,
+            "name": "organism detection by PCR assay",
+            "originalName": "Molecular Nucleic Acid or PCR Testing Device",
+            "url": "http://purl.obolibrary.org/obo/OBI_0002740"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C17176",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Survey",
+            "originalName": "Survey",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C17176"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C15208",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Cohort Study",
+            "originalName": "Longitudinal Cohort",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15208"
+        },
+        {
+            "@type": "DefinedTerm",
+            "field": "measurementTechnique",
+            "identifier": "C17176",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Survey",
+            "originalName": "Questionnaire or Survey",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C17176"
+        }
+    ],
+    "name": "Leveraging Social Networks to Increase COVID-19 Testing Uptake: A Comparison of Credible Messenger and Chain Referral Recruitment Approaches",
+    "sdPublisher": {
+        "@type": "Organization",
+        "name": "RADx-UP"
+    },
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "temporalCoverage": {
+        "@type": "temporalInterval",
+        "endDate": "2022-10-31",
+        "startDate": "2020-11-01",
+        "temporalType": "study date"
+    },
+    "url": "https://radxdatahub.nih.gov/study/142",
+    "usageInfo": [
+        {
+            "name": [
+                "General Research Use"
+            ]
+        }
+    ],
+    "variableMeasured": [
+        {
+            "name": "Pulmonary Issues"
+        },
+        {
+            "name": "Opioid Users"
+        },
+        {
+            "name": "In-person Testing"
+        },
+        {
+            "name": "Respiratory Issues"
+        },
+        {
+            "field": "variableMeasured",
+            "identifier": "0009100",
+            "inDefinedTermSet": "EFO",
+            "isCurated": true,
+            "name": "social domain measurement",
+            "originalName": "Social",
+            "url": "http://www.ebi.ac.uk/efo/EFO_0009100"
+        },
+        {
+            "field": "variableMeasured",
+            "identifier": "C16326",
+            "inDefinedTermSet": "NCIT",
+            "isCurated": true,
+            "name": "Behavior",
+            "originalName": "Behavioral",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C16326"
+        }
+    ]
+}

@@ -1,148 +1,152 @@
 {
     "@context": "http://schema.org/",
     "@type": "Dataset",
-    "_id": "msv000088068",
-    "_score": 8.220623,
+    "_id": "msv000098925",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 7.947222,
     "author": [
         {
+            "@type": "Person",
             "affiliation": {
-                "name": "University of Strathclyde"
+                "name": "Natural Products Research Institute and Research Institute of Pharmaceutical Sciences, College of Pharmacy, Seoul National University"
             },
-            "email": "katherine.duncan@strath.ac.uk",
-            "name": "Katherine Duncan"
+            "email": "dongchanoh@snu.ac.kr",
+            "name": "Dong-Chan Oh"
         }
     ],
     "conditionsOfAccess": "Open",
-    "date": "2021-09-08",
-    "dateCreated": "2021-09-08",
-    "description": "Extracts from cultures of Dunaliella primolecta, Phaeodactylum tricornutum, and Nannochloropsis grown under varying salinity, NaCl, nitrate, and pH",
+    "date": "2025-08-24",
+    "dateCreated": "2025-08-24",
+    "datePublished": "2025-08-24",
+    "description": "These are the LC-MS/MS analysis result of extracts from strains confirmed to produce cinnamoyl-containing nonribosomal peptides in the paper titled \"Logical Exploration of Cinnamoyl-Containing Nonribosomal Peptides via Metabologenomic Targeting and Regulator Overexpression\".",
     "distribution": {
-        "contentUrl": "ftp://massive.ucsd.edu/v03/MSV000088068"
+        "@type": "DataDownload",
+        "contentUrl": "ftp://massive.ucsd.edu/v10/MSV000098925"
     },
-    "doi": "10.25345/C51C3R",
-    "identifier": "MSV000088068",
+    "doi": "10.25345/C57H1F08G",
+    "identifier": "MSV000098925",
     "includedInDataCatalog": [
         {
             "@type": "DataCatalog",
-            "archivedAt": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=862a5b30ee0c45c8bc54c2760cea33ec",
+            "archivedAt": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=26c915c9b1ee402498da7f406b1666f5",
             "name": "MassIVE",
             "url": "https://massive.ucsd.edu/ProteoSAFe/static/massive.jsp",
-            "versionDate": "2025-08-24"
+            "versionDate": "2025-10-11"
         },
         {
             "@type": "DataCatalog",
-            "archivedAt": "https://www.omicsdi.org/dataset/gnps/MSV000088068",
+            "archivedAt": "https://www.omicsdi.org/dataset/gnps/MSV000098925",
             "name": "Omics Discovery Index (OmicsDI)",
             "url": "https://www.omicsdi.org/",
-            "versionDate": "2025-07-01"
+            "versionDate": "2025-10-01"
         }
     ],
     "infectiousAgent": [
         {
-            "alternateName": [
-                "Nitzschia closterium f. minutissima",
-                "Diatom",
-                "Phaeodactylum tricornutum Bohlin, 1897",
-                "Phaedactylum tricornutum"
-            ],
+            "@type": "DefinedTerm",
             "classification": "infectiousAgent",
-            "commonName": "Diatom",
             "curatedBy": {
                 "dateModified": "2024-01-26",
                 "name": "PubTator",
                 "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
             },
-            "displayName": "Diatom | Phaeodactylum tricornutum",
-            "identifier": "2850",
+            "displayName": "Kitasatospora sp.",
+            "identifier": "1871188",
             "inDefinedTermSet": "UniProt",
             "isCurated": true,
-            "name": "Phaeodactylum tricornutum",
-            "originalName": "Phaeodactylum tricornutum",
-            "url": "https://www.uniprot.org/taxonomy/2850"
+            "name": "Kitasatospora sp.",
+            "originalName": "Kitasatospora",
+            "url": "https://www.uniprot.org/taxonomy/1871188"
         },
         {
+            "@type": "DefinedTerm",
             "alternateName": [
-                "Nannochloris oculata",
-                "Picochlorum oculatum (Droop) Henley et al.",
-                "Picochlorum oculata",
-                "Nannochloris oculata Droop",
-                "Picochlorum oculatum"
+                "Streptomyces sp. HHFA2",
+                "Cladothrix coelicolor",
+                "IFO 12854",
+                "RIA 1173",
+                "VKM Ac-738",
+                "CCUG 11110",
+                "Streptomyces sp. USC051",
+                "\"Cladothrix coelicolor\" (Muller 1908) Mace 1913",
+                "ATCC 23899",
+                "Streptomyces sp. USC067",
+                "Streptomyces sp. USC039",
+                "culture-collection:NRRL:B:2812",
+                "Streptomyces sp. USC045",
+                "NRRL B-2812",
+                "DSM 40233",
+                "Nocardia coelicolor",
+                "NCIMB 9798",
+                "PCM 2324",
+                "BCRC 12067",
+                "\"Nocardia coelicolor\" (Muller 1908) Chalmers and Christopherson 1916",
+                "NBRC 12854",
+                "CBS 795.68",
+                "AS 4.1658",
+                "Actinomyces coelicolor",
+                "CCRC 12067",
+                "Streptomyces sp. VJPR 5",
+                "Streptomyces coelicolor (Muller 1908) Waksman and Henrici 1948",
+                "JCM 4357",
+                "CBS 210.27",
+                "Streptomyces coelicolor subspecies coelicolor",
+                "Streptomyces sp. USC043",
+                "NRRL-ISP 5233",
+                "\"Actinomyces coelicolor\" (Muller 1908) Lieske 1921",
+                "Streptomyces sp. USC064",
+                "Streptomyces sp. USC050",
+                "Streptomyces sp. USC063",
+                "\"Streptothrix coelicolor\" Muller 1908",
+                "Streptothrix coelicolor",
+                "Streptomyces calicolor",
+                "CCRC:12067",
+                "ISP 5233",
+                "culture-collection:AS:4.1658"
             ],
             "classification": "infectiousAgent",
             "curatedBy": {
-                "dateModified": "2024-04-17",
+                "dateModified": "2024-01-26",
                 "name": "PubTator",
                 "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
             },
-            "displayName": "Nannochloropsis oculata",
-            "identifier": "43925",
+            "displayName": "Streptomyces coelicolor",
+            "identifier": "1902",
             "inDefinedTermSet": "UniProt",
             "isCurated": true,
-            "name": "Nannochloropsis oculata",
-            "originalName": "nannochloropsis oculata",
-            "url": "https://www.uniprot.org/taxonomy/43925"
+            "name": "Streptomyces coelicolor",
+            "originalName": "Streptomyces",
+            "url": "https://www.uniprot.org/taxonomy/1902"
         }
     ],
     "keywords": [
-        "microalgae"
+        "Cinnamoyl-containing nonribosomal peptide",
+        "DatasetType:Metabolomics"
     ],
     "license": "http://creativecommons.org/publicdomain/zero/1.0/",
     "measurementTechnique": [
         {
-            "name": "Q Exactive"
+            "@type": "DefinedTerm",
+            "name": "6530A Q-TOF LC/MS"
         },
         {
+            "@type": "DefinedTerm",
             "identifier": "MMO_0000534",
             "name": "Mass Spectrometry",
             "url": "https://ontobee.org/ontology/MMO?iri=http://purl.obolibrary.org/obo/MMO_0000534"
         }
     ],
-    "name": "GNPS Alison Hughes Thesis - Chapter 4: Abiotic Stress",
+    "name": "GNPS - Logical Exploration of Cinnamoyl-Containing Nonribosomal Peptides via Metabologenomic Targeting and Regulator Overexpression",
     "sameAs": [
-        "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=862a5b30ee0c45c8bc54c2760cea33ec"
+        "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=26c915c9b1ee402498da7f406b1666f5"
     ],
     "sdPublisher": {
+        "@type": "Organization",
         "name": "MassIVE"
     },
-    "topicCategory": [
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "GPT-4o-mini",
-                "url": "https://openai.com/index/chatgpt"
-            },
-            "fromGPT": true,
-            "identifier": "topic_3292",
-            "inDefinedTermSet": "EDAM",
-            "name": "Biochemistry",
-            "url": "http://edamontology.org/topic_3292"
-        },
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "GPT-4o-mini",
-                "url": "https://openai.com/index/chatgpt"
-            },
-            "fromGPT": true,
-            "identifier": "topic_3047",
-            "inDefinedTermSet": "EDAM",
-            "name": "Molecular biology",
-            "url": "http://edamontology.org/topic_3047"
-        },
-        {
-            "@type": "DefinedTerm",
-            "curatedBy": {
-                "name": "GPT-4o-mini",
-                "url": "https://openai.com/index/chatgpt"
-            },
-            "fromGPT": true,
-            "identifier": "topic_3855",
-            "inDefinedTermSet": "EDAM",
-            "name": "Environmental sciences",
-            "url": "http://edamontology.org/topic_3855"
-        }
-    ],
-    "url": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=862a5b30ee0c45c8bc54c2760cea33ec",
+    "url": "https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=26c915c9b1ee402498da7f406b1666f5",
     "variableMeasured": [
         {
             "name": "Metabolomics"

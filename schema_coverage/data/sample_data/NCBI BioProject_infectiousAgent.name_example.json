@@ -1,0 +1,54 @@
+{
+    "@type": "Dataset",
+    "_id": "ncbi_bioproject_prjeb25926",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 3.9262645,
+    "date": "2018-04-10",
+    "datePublished": "2018-04-10",
+    "description": "Kluyveromyces marxianus is a thermotolerant yeast and can grow at elevated temperatures (> 40 \u00b0C), however, the growth of K. marxianus is strongly inhibited by accumulated inhibitors at elevated temperatures. The objective of this project is to reveal the transcriptomic responses of K. marxianus to heat and accumulated inhibitors during ethanol fermentation.",
+    "identifier": "PRJEB25926",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://www.ncbi.nlm.nih.gov/bioproject/PRJEB25926",
+        "name": "NCBI BioProject",
+        "url": "https://www.ncbi.nlm.nih.gov/bioproject/",
+        "versionDate": "2025-10-11"
+    },
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Yeast",
+                "Kluyveromyces marxianus DMKU3-1042"
+            ],
+            "classification": "infectiousAgent",
+            "commonName": "Yeast",
+            "curatedBy": {
+                "dateModified": "2023-10-26",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Yeast | Kluyveromyces marxianus (strain DMKU3-1042 / BCC 29191 / NBRC 104275)",
+            "identifier": "1003335",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Kluyveromyces marxianus (strain DMKU3-1042 / BCC 29191 / NBRC 104275)",
+            "originalName": "kluyveromyces marxianus dmku3-1042",
+            "url": "https://www.uniprot.org/taxonomy/1003335"
+        }
+    ],
+    "keywords": [
+        "monoisolate"
+    ],
+    "measurementTechnique": {
+        "@type": "DefinedTerm",
+        "name": "Sequencing"
+    },
+    "name": "Transcriptome of Kluyveromyces marxianus during ethanol fermentation. Transcriptome of Kluyveromyces marxianus during ethanol fermentation",
+    "url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJEB25926",
+    "variableMeasured": {
+        "name": "Other"
+    }
+}

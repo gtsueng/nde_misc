@@ -1,0 +1,115 @@
+{
+    "@type": "Dataset",
+    "_id": "flow_fr-fcm-z2vs",
+    "_score": 10.037086,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": [
+                {
+                    "name": "None"
+                }
+            ],
+            "name": "Eric Avila-Calder\u00f3n"
+        }
+    ],
+    "conditionsOfAccess": "Open",
+    "date": "2020-09-01",
+    "dateModified": "2020-09-01",
+    "datePublished": "2020-09-01",
+    "description": "Pre-stimulated PBMCs were stimulated with OMVs or PHA to observe the modulation of surface markers\nConclusion: \nOMVs from B. melitensis inhibited the expression of PD-L1 on Tcells",
+    "distribution": {
+        "@type": "DataDownload",
+        "contentUrl": "http://flowrepository.org/experiments/510/download_ziped_files",
+        "dateModified": "2020-09-01",
+        "name": "FCS files"
+    },
+    "identifier": "FR-FCM-Z2VS",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "http://flowrepository.org/id/FR-FCM-Z2VS",
+        "name": "Flow Repository",
+        "url": "http://flowrepository.org/",
+        "versionDate": "2025-07-05"
+    },
+    "infectiousAgent": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Brucella melitensis bv. Melitensis"
+            ],
+            "classification": "infectiousAgent",
+            "displayName": "Brucella melitensis biovar Melitensis",
+            "fromEXTRACT": true,
+            "identifier": "274058",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": false,
+            "name": "Brucella melitensis biovar Melitensis",
+            "originalName": "B. melitensis",
+            "url": "https://www.uniprot.org/taxonomy/274058"
+        }
+    ],
+    "keywords": [
+        "PD/PD-L1",
+        "OMVs",
+        "Brucella"
+    ],
+    "license": "http://flowrepository.org/terms_of_service",
+    "measurementTechnique": {
+        "@type": "DefinedTerm",
+        "curatedBy": {
+            "dateModified": "2025-07-05",
+            "name": "Flow Repository",
+            "url": "http://flowrepository.org/"
+        },
+        "inDefinedTermSet": "MMO",
+        "isCurated": true,
+        "name": "flow cytometry method",
+        "url": "http://purl.obolibrary.org/obo/MMO_0000617"
+    },
+    "name": "Modulation of surface markers in PBMCS stimulated with B. melitensis OMVs",
+    "temporalCoverage": {
+        "@type": "TemporalInterval",
+        "startDate": "2020-09-14",
+        "temporalType": "study date"
+    },
+    "topicCategory": [
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3360",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biomarkers",
+            "url": "http://edamontology.org/topic_3360"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_3297",
+            "inDefinedTermSet": "EDAM",
+            "name": "Biotechnology",
+            "url": "http://edamontology.org/topic_3297"
+        },
+        {
+            "@type": "DefinedTerm",
+            "curatedBy": {
+                "name": "GPT-4o-mini",
+                "url": "https://openai.com/index/chatgpt"
+            },
+            "fromGPT": true,
+            "identifier": "topic_0804",
+            "inDefinedTermSet": "EDAM",
+            "name": "Immunology",
+            "url": "http://edamontology.org/topic_0804"
+        }
+    ],
+    "url": "http://flowrepository.org/id/FR-FCM-Z2VS"
+}

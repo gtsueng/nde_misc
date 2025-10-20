@@ -1,0 +1,166 @@
+{
+    "@type": "Dataset",
+    "_id": "hca_0562d2ae-0b8a-459e-bbc0-6357108e5da9",
+    "_ignored": [
+        "all.keyword"
+    ],
+    "_score": 11.577236,
+    "author": [
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Southampton, Cancer Sciences Unit"
+            },
+            "familyName": "Waise",
+            "givenName": "Sara",
+            "name": "Sara Waise"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Southampton, Cancer Sciences Unit"
+            },
+            "familyName": "Parker",
+            "givenName": "Rachel",
+            "name": "Rachel Parker"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Southampton, Cancer Sciences Unit"
+            },
+            "familyName": "Rose-Zerilli",
+            "givenName": "Matthew",
+            "name": "Matthew Rose-Zerilli"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Southampton, Cancer Sciences Unit"
+            },
+            "familyName": "Layfield",
+            "givenName": "David",
+            "name": "David Layfield"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Southampton, Cancer Sciences Unit"
+            },
+            "familyName": "Wood",
+            "givenName": "Oliver",
+            "name": "Oliver Wood"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Southampton, Cancer Sciences Unit"
+            },
+            "familyName": "West",
+            "givenName": "Jonathan",
+            "name": "Jonathan West"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Southampton, Cancer Sciences Unit"
+            },
+            "familyName": "Ottensmeier",
+            "givenName": "Christian",
+            "name": "Christian Ottensmeier"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Southampton, Cancer Sciences Unit"
+            },
+            "email": "g.thomas@soton.ac.uk",
+            "familyName": "Thomas",
+            "givenName": "Gareth",
+            "name": "Gareth Thomas"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "University of Southampton, Cancer Sciences Unit"
+            },
+            "email": "Hanley@soton.ac.uk",
+            "familyName": "Hanley",
+            "givenName": "Christopher",
+            "name": "Christopher Hanley"
+        },
+        {
+            "@type": "Person",
+            "affiliation": {
+                "name": "EMBL-EBI"
+            },
+            "familyName": "Day",
+            "givenName": "Ami",
+            "name": "Ami Day",
+            "role": "data curator"
+        }
+    ],
+    "citation": [
+        {
+            "@type": "ScholarlyArticle",
+            "doi": "10.1038/s41598-019-45842-4",
+            "name": "An optimised tissue disaggregation and data processing pipeline for characterising fibroblast phenotypes using single-cell RNA sequencing.",
+            "url": "https://www.nature.com/articles/s41598-019-45842-4"
+        }
+    ],
+    "date": "2025-02-14",
+    "dateModified": "2025-02-14",
+    "datePublished": "2021-10-12",
+    "description": "Single-cell RNA sequencing (scRNA-Seq) provides a valuable platform for characterising multicellular ecosystems. Fibroblasts are a heterogeneous cell type involved in many physiological and pathological processes, but remain poorly-characterised. Analysis of fibroblasts is challenging: these cells are difficult to isolate from tissues, and are therefore commonly under-represented in scRNA-seq datasets. Here, we describe an optimised approach for fibroblast isolation from human lung tissues. We demonstrate the potential for this procedure in characterising stromal cell phenotypes using scRNA-Seq, analyse the effect of tissue disaggregation on gene expression, and optimise data processing to improve clustering quality. Overall design: mRNA profiles of human lung samples (tumour, inflamed and normal lung) from 3 patients.",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "archivedAt": "https://data.humancellatlas.org/explore/projects/0562d2ae-0b8a-459e-bbc0-6357108e5da9",
+        "name": "Human Cell Atlas",
+        "url": "https://data.humancellatlas.org/",
+        "versionDate": "2025-10-11"
+    },
+    "isAccessibleForFree": true,
+    "keywords": [
+        "lung"
+    ],
+    "name": "Improving fibroblast characterization using single-cell RNA sequencing: an optimized tissue disaggregation and data processing pipeline.",
+    "sameAs": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA521040",
+    "species": [
+        {
+            "@type": "DefinedTerm",
+            "alternateName": [
+                "Human",
+                "Homo sapiens Linnaeus, 1758",
+                "human",
+                "Home sapiens",
+                "Homo sampiens",
+                "Homo sapeins",
+                "Homo sapian",
+                "Homo sapians",
+                "Homo sapien",
+                "Homo sapience",
+                "Homo sapiense",
+                "Homo sapients",
+                "Homo sapines",
+                "Homo spaiens",
+                "Homo spiens",
+                "Humo sapiens"
+            ],
+            "classification": "host",
+            "commonName": "Human",
+            "curatedBy": {
+                "dateModified": "2023-10-05",
+                "name": "PubTator",
+                "url": "https://www.ncbi.nlm.nih.gov/research/pubtator/api.html"
+            },
+            "displayName": "Human | Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "UniProt",
+            "isCurated": true,
+            "name": "Homo sapiens",
+            "originalName": "homo sapiens",
+            "url": "https://www.uniprot.org/taxonomy/9606"
+        }
+    ],
+    "url": "https://data.humancellatlas.org/explore/projects/0562d2ae-0b8a-459e-bbc0-6357108e5da9"
+}
