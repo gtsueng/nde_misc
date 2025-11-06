@@ -1,0 +1,694 @@
+	propertyLabel	propName_record_count	sourceName	propUrl_record_count	propType_record_count
+0	citation	3	AccessClinicalData@NIAID	8	8
+1	citation	0	biotools	0	0
+2	citation	57	ClinEpiDB	57	57
+3	citation	253	Data Discovery Engine	366	366
+4	citation	0	Dryad Digital Repository	40747	40747
+5	citation	0	Figshare	0	0
+6	citation	752	Flow Repository	752	752
+7	citation	0	Harvard Dataverse	0	2867
+8	citation	0	HuBMAP	0	0
+9	citation	512	Human Cell Atlas	493	512
+10	citation	0	ImmPort	0	0
+11	citation	0	ImmuneSpace	0	0
+12	citation	0	LINCS	0	0
+13	citation	0	MalariaGEN	56	56
+14	citation	2479	MassIVE	0	2493
+15	citation	21403	Mendeley	15702	31887
+16	citation	23	MicrobiomeDB	23	23
+17	citation	0	NCBI BioProject	0	0
+18	citation	0	NCBI GEO	0	0
+19	citation	0	NCBI SRA	0	0
+20	citation	1128	NDEx	1171	1404
+21	citation	12273	NICHD DASH	10018	12273
+22	citation	33544	Omics Discovery Index (OmicsDI)	33200	37831
+23	citation	0	Project Tycho	0	0
+24	citation	130692	Protein Data Bank	0	130697
+25	citation	373	Qiita	373	373
+26	citation	91	RADx Data Hub	91	91
+27	citation	10	ReframeDB	10	10
+28	citation	1567	The Database of Genotypes and Phenotypes	1567	1567
+29	citation	77	VDJServer	77	0
+30	citation	2238	VEuPathDB	2238	2238
+31	citation	0	Vivli	0	0
+32	citation	0	Zenodo	38690	38690
+33	citedBy	0	AccessClinicalData@NIAID	0	0
+34	citedBy	0	biotools	0	0
+35	citedBy	0	ClinEpiDB	0	0
+36	citedBy	33	Data Discovery Engine	33	33
+37	citedBy	0	Dryad Digital Repository	0	0
+38	citedBy	0	Figshare	0	0
+39	citedBy	0	Flow Repository	0	0
+40	citedBy	0	Harvard Dataverse	0	0
+41	citedBy	0	HuBMAP	0	0
+42	citedBy	0	Human Cell Atlas	0	0
+43	citedBy	1119	ImmPort	1119	1119
+44	citedBy	145	ImmuneSpace	145	145
+45	citedBy	0	LINCS	0	0
+46	citedBy	0	MalariaGEN	0	0
+47	citedBy	0	MassIVE	0	0
+48	citedBy	0	Mendeley	0	0
+49	citedBy	0	MicrobiomeDB	0	0
+50	citedBy	0	NCBI BioProject	0	0
+51	citedBy	0	NCBI GEO	0	0
+52	citedBy	0	NCBI SRA	0	0
+53	citedBy	0	NDEx	0	0
+54	citedBy	3097	NICHD DASH	3097	3097
+55	citedBy	0	Omics Discovery Index (OmicsDI)	0	0
+56	citedBy	0	Project Tycho	0	0
+57	citedBy	0	Protein Data Bank	0	0
+58	citedBy	0	Qiita	0	0
+59	citedBy	0	RADx Data Hub	0	0
+60	citedBy	0	ReframeDB	0	0
+61	citedBy	0	The Database of Genotypes and Phenotypes	0	0
+62	citedBy	0	VDJServer	0	0
+63	citedBy	0	VEuPathDB	0	0
+64	citedBy	0	Vivli	0	0
+65	citedBy	0	Zenodo	5022	5022
+66	isPartOf	4	AccessClinicalData@NIAID	4	4
+67	isPartOf	0	biotools	0	0
+68	isPartOf	0	ClinEpiDB	0	0
+69	isPartOf	20	Data Discovery Engine	20	20
+70	isPartOf	0	Dryad Digital Repository	0	0
+71	isPartOf	0	Figshare	0	0
+72	isPartOf	0	Flow Repository	0	0
+73	isPartOf	0	Harvard Dataverse	0	0
+74	isPartOf	0	HuBMAP	0	0
+75	isPartOf	0	Human Cell Atlas	0	0
+76	isPartOf	0	ImmPort	0	0
+77	isPartOf	0	ImmuneSpace	0	0
+78	isPartOf	0	LINCS	0	0
+79	isPartOf	56	MalariaGEN	56	56
+80	isPartOf	0	MassIVE	0	0
+81	isPartOf	0	Mendeley	0	0
+82	isPartOf	5	MicrobiomeDB	0	5
+83	isPartOf	0	NCBI BioProject	0	0
+84	isPartOf	0	NCBI GEO	0	0
+85	isPartOf	0	NCBI SRA	0	0
+86	isPartOf	0	NDEx	0	0
+87	isPartOf	12510	NICHD DASH	12510	12510
+88	isPartOf	0	Omics Discovery Index (OmicsDI)	0	0
+89	isPartOf	0	Project Tycho	0	0
+90	isPartOf	0	Protein Data Bank	0	0
+91	isPartOf	0	Qiita	0	0
+92	isPartOf	0	RADx Data Hub	0	0
+93	isPartOf	0	ReframeDB	0	0
+94	isPartOf	0	The Database of Genotypes and Phenotypes	0	0
+95	isPartOf	4481	VDJServer	4481	4481
+96	isPartOf	0	VEuPathDB	0	0
+97	isPartOf	0	Vivli	0	0
+98	isPartOf	0	Zenodo	0	0
+99	hasPart	11	AccessClinicalData@NIAID	11	11
+100	hasPart	0	biotools	0	0
+101	hasPart	0	ClinEpiDB	0	0
+102	hasPart	31	Data Discovery Engine	31	31
+103	hasPart	41691	Dryad Digital Repository	0	41691
+104	hasPart	0	Figshare	0	0
+105	hasPart	0	Flow Repository	0	0
+106	hasPart	0	Harvard Dataverse	0	0
+107	hasPart	0	HuBMAP	0	0
+108	hasPart	0	Human Cell Atlas	0	0
+109	hasPart	0	ImmPort	0	0
+110	hasPart	0	ImmuneSpace	0	0
+111	hasPart	0	LINCS	0	0
+112	hasPart	0	MalariaGEN	0	0
+113	hasPart	0	MassIVE	0	0
+114	hasPart	0	Mendeley	0	0
+115	hasPart	0	MicrobiomeDB	0	0
+116	hasPart	0	NCBI BioProject	0	0
+117	hasPart	0	NCBI GEO	0	0
+118	hasPart	0	NCBI SRA	0	0
+119	hasPart	0	NDEx	0	0
+120	hasPart	12499	NICHD DASH	12499	12499
+121	hasPart	0	Omics Discovery Index (OmicsDI)	0	0
+122	hasPart	0	Project Tycho	0	0
+123	hasPart	0	Protein Data Bank	0	0
+124	hasPart	0	Qiita	0	0
+125	hasPart	0	RADx Data Hub	0	0
+126	hasPart	0	ReframeDB	0	0
+127	hasPart	0	The Database of Genotypes and Phenotypes	0	0
+128	hasPart	0	VDJServer	0	0
+129	hasPart	0	VEuPathDB	0	0
+130	hasPart	0	Vivli	0	0
+131	hasPart	41455	Zenodo	0	41455
+132	isBasedOn	0	AccessClinicalData@NIAID	0	0
+133	isBasedOn	0	biotools	0	0
+134	isBasedOn	0	ClinEpiDB	29	29
+135	isBasedOn	33	Data Discovery Engine	32	33
+136	isBasedOn	0	Dryad Digital Repository	0	0
+137	isBasedOn	0	Figshare	0	0
+138	isBasedOn	0	Flow Repository	0	0
+139	isBasedOn	0	Harvard Dataverse	0	0
+140	isBasedOn	0	HuBMAP	0	0
+141	isBasedOn	0	Human Cell Atlas	0	55
+142	isBasedOn	1306	ImmPort	1306	1306
+143	isBasedOn	177	ImmuneSpace	177	177
+144	isBasedOn	271	LINCS	271	271
+145	isBasedOn	0	MalariaGEN	0	0
+146	isBasedOn	0	MassIVE	0	0
+147	isBasedOn	0	Mendeley	0	0
+148	isBasedOn	0	MicrobiomeDB	0	0
+149	isBasedOn	0	NCBI BioProject	0	0
+150	isBasedOn	0	NCBI GEO	0	0
+151	isBasedOn	388599	NCBI SRA	391038	391038
+152	isBasedOn	7	NDEx	831	838
+153	isBasedOn	12510	NICHD DASH	12510	12510
+154	isBasedOn	0	Omics Discovery Index (OmicsDI)	0	0
+155	isBasedOn	0	Project Tycho	237	237
+156	isBasedOn	0	Protein Data Bank	0	0
+157	isBasedOn	0	Qiita	0	0
+158	isBasedOn	0	RADx Data Hub	36	36
+159	isBasedOn	0	ReframeDB	0	0
+160	isBasedOn	0	The Database of Genotypes and Phenotypes	0	0
+161	isBasedOn	0	VDJServer	0	0
+162	isBasedOn	0	VEuPathDB	0	0
+163	isBasedOn	0	Vivli	0	0
+164	isBasedOn	0	Zenodo	237	237
+165	isBasisFor	0	AccessClinicalData@NIAID	0	0
+166	isBasisFor	0	biotools	0	0
+167	isBasisFor	0	ClinEpiDB	0	0
+168	isBasisFor	25	Data Discovery Engine	25	25
+169	isBasisFor	0	Dryad Digital Repository	0	0
+170	isBasisFor	0	Figshare	0	0
+171	isBasisFor	0	Flow Repository	0	0
+172	isBasisFor	0	Harvard Dataverse	0	0
+173	isBasisFor	0	HuBMAP	0	0
+174	isBasisFor	0	Human Cell Atlas	0	0
+175	isBasisFor	0	ImmPort	0	0
+176	isBasisFor	0	ImmuneSpace	0	0
+177	isBasisFor	0	LINCS	0	0
+178	isBasisFor	0	MalariaGEN	0	0
+179	isBasisFor	0	MassIVE	0	0
+180	isBasisFor	0	Mendeley	0	0
+181	isBasisFor	0	MicrobiomeDB	0	0
+182	isBasisFor	0	NCBI BioProject	0	0
+183	isBasisFor	0	NCBI GEO	0	0
+184	isBasisFor	0	NCBI SRA	0	0
+185	isBasisFor	0	NDEx	0	0
+186	isBasisFor	0	NICHD DASH	0	0
+187	isBasisFor	0	Omics Discovery Index (OmicsDI)	0	0
+188	isBasisFor	0	Project Tycho	0	0
+189	isBasisFor	0	Protein Data Bank	0	0
+190	isBasisFor	0	Qiita	0	0
+191	isBasisFor	0	RADx Data Hub	0	0
+192	isBasisFor	0	ReframeDB	0	0
+193	isBasisFor	0	The Database of Genotypes and Phenotypes	0	0
+194	isBasisFor	0	VDJServer	0	0
+195	isBasisFor	0	VEuPathDB	0	0
+196	isBasisFor	0	Vivli	0	0
+197	isBasisFor	0	Zenodo	0	0
+198	author	0	AccessClinicalData@NIAID	0	0
+199	author	0	biotools	0	0
+200	author	63	ClinEpiDB	0	63
+201	author	588	Data Discovery Engine	12	588
+202	author	64423	Dryad Digital Repository	0	64423
+203	author	2041105	Figshare	0	2041105
+204	author	2277	Flow Repository	0	2277
+205	author	17931	Harvard Dataverse	0	17931
+206	author	2024	HuBMAP	0	3811
+207	author	518	Human Cell Atlas	0	518
+208	author	877	ImmPort	0	877
+209	author	174	ImmuneSpace	0	174
+210	author	424	LINCS	424	424
+211	author	56	MalariaGEN	56	56
+212	author	11719	MassIVE	0	11719
+213	author	127758	Mendeley	0	127758
+214	author	25	MicrobiomeDB	0	25
+215	author	4	NCBI BioProject	0	13799
+216	author	224395	NCBI GEO	0	224395
+217	author	0	NCBI SRA	0	0
+218	author	10843	NDEx	0	10843
+219	author	12510	NICHD DASH	0	12510
+220	author	74127	Omics Discovery Index (OmicsDI)	0	76244
+221	author	597	Project Tycho	237	597
+222	author	130742	Protein Data Bank	0	130742
+223	author	843	Qiita	0	843
+224	author	57	RADx Data Hub	0	178
+225	author	195	ReframeDB	0	195
+226	author	2587	The Database of Genotypes and Phenotypes	0	2587
+227	author	92	VDJServer	0	0
+228	author	3225	VEuPathDB	0	3225
+229	author	7684	Vivli	0	7684
+230	author	425109	Zenodo	237	425109
+231	creator	0	AccessClinicalData@NIAID	0	0
+232	creator	0	biotools	0	0
+233	creator	0	ClinEpiDB	0	0
+234	creator	0	Data Discovery Engine	0	0
+235	creator	0	Dryad Digital Repository	0	0
+236	creator	0	Figshare	0	0
+237	creator	0	Flow Repository	0	0
+238	creator	0	Harvard Dataverse	0	0
+239	creator	0	HuBMAP	0	0
+240	creator	0	Human Cell Atlas	0	0
+241	creator	0	ImmPort	0	0
+242	creator	0	ImmuneSpace	0	0
+243	creator	0	LINCS	0	0
+244	creator	0	MalariaGEN	0	0
+245	creator	0	MassIVE	0	0
+246	creator	0	Mendeley	0	0
+247	creator	0	MicrobiomeDB	0	0
+248	creator	0	NCBI BioProject	0	0
+249	creator	0	NCBI GEO	0	0
+250	creator	0	NCBI SRA	0	0
+251	creator	0	NDEx	0	0
+252	creator	0	NICHD DASH	0	0
+253	creator	0	Omics Discovery Index (OmicsDI)	0	0
+254	creator	0	Project Tycho	0	0
+255	creator	0	Protein Data Bank	0	0
+256	creator	0	Qiita	0	0
+257	creator	0	RADx Data Hub	0	0
+258	creator	0	ReframeDB	0	0
+259	creator	0	The Database of Genotypes and Phenotypes	0	0
+260	creator	0	VDJServer	0	0
+261	creator	0	VEuPathDB	0	0
+262	creator	5415	Vivli	0	5415
+263	creator	0	Zenodo	0	0
+264	includedInDataCatalog	11	AccessClinicalData@NIAID	0	11
+265	includedInDataCatalog	0	biotools	0	0
+266	includedInDataCatalog	65	ClinEpiDB	65	65
+267	includedInDataCatalog	589	Data Discovery Engine	589	589
+268	includedInDataCatalog	64423	Dryad Digital Repository	64423	64423
+269	includedInDataCatalog	2041105	Figshare	2041105	2041105
+270	includedInDataCatalog	2277	Flow Repository	2277	2277
+271	includedInDataCatalog	21012	Harvard Dataverse	21012	21012
+272	includedInDataCatalog	4810	HuBMAP	4810	4810
+273	includedInDataCatalog	518	Human Cell Atlas	518	518
+274	includedInDataCatalog	1320	ImmPort	1320	1320
+275	includedInDataCatalog	181	ImmuneSpace	181	181
+276	includedInDataCatalog	424	LINCS	424	424
+277	includedInDataCatalog	56	MalariaGEN	56	56
+278	includedInDataCatalog	18083	MassIVE	18083	18083
+279	includedInDataCatalog	127758	Mendeley	127758	127758
+280	includedInDataCatalog	25	MicrobiomeDB	25	25
+281	includedInDataCatalog	978487	NCBI BioProject	978487	978487
+282	includedInDataCatalog	264383	NCBI GEO	264383	264383
+283	includedInDataCatalog	391038	NCBI SRA	391038	391038
+284	includedInDataCatalog	10843	NDEx	10843	10843
+285	includedInDataCatalog	12510	NICHD DASH	12510	12510
+286	includedInDataCatalog	107221	Omics Discovery Index (OmicsDI)	107221	107221
+287	includedInDataCatalog	597	Project Tycho	597	597
+288	includedInDataCatalog	130742	Protein Data Bank	130742	130742
+289	includedInDataCatalog	843	Qiita	843	843
+290	includedInDataCatalog	178	RADx Data Hub	178	178
+291	includedInDataCatalog	195	ReframeDB	195	195
+292	includedInDataCatalog	2705	The Database of Genotypes and Phenotypes	2705	2705
+293	includedInDataCatalog	4574	VDJServer	4574	4574
+294	includedInDataCatalog	3225	VEuPathDB	3225	3225
+295	includedInDataCatalog	7684	Vivli	7684	7684
+296	includedInDataCatalog	425109	Zenodo	425109	425109
+297	sdPublisher	0	AccessClinicalData@NIAID	0	0
+298	sdPublisher	0	biotools	0	0
+299	sdPublisher	0	ClinEpiDB	0	0
+300	sdPublisher	421	Data Discovery Engine	61	421
+301	sdPublisher	0	Dryad Digital Repository	0	0
+302	sdPublisher	2041000	Figshare	0	2041105
+303	sdPublisher	0	Flow Repository	0	0
+304	sdPublisher	21012	Harvard Dataverse	0	21012
+305	sdPublisher	0	HuBMAP	0	0
+306	sdPublisher	0	Human Cell Atlas	0	0
+307	sdPublisher	0	ImmPort	0	0
+308	sdPublisher	0	ImmuneSpace	0	0
+309	sdPublisher	0	LINCS	0	0
+310	sdPublisher	0	MalariaGEN	0	0
+311	sdPublisher	18083	MassIVE	0	18083
+312	sdPublisher	127758	Mendeley	0	127758
+313	sdPublisher	3	MicrobiomeDB	3	3
+314	sdPublisher	0	NCBI BioProject	0	0
+315	sdPublisher	0	NCBI GEO	0	0
+316	sdPublisher	0	NCBI SRA	0	0
+317	sdPublisher	5	NDEx	0	5
+318	sdPublisher	0	NICHD DASH	0	0
+319	sdPublisher	107221	Omics Discovery Index (OmicsDI)	102983	107221
+320	sdPublisher	0	Project Tycho	0	0
+321	sdPublisher	0	Protein Data Bank	0	0
+322	sdPublisher	0	Qiita	0	0
+323	sdPublisher	178	RADx Data Hub	0	178
+324	sdPublisher	0	ReframeDB	0	0
+325	sdPublisher	0	The Database of Genotypes and Phenotypes	0	0
+326	sdPublisher	0	VDJServer	0	0
+327	sdPublisher	3225	VEuPathDB	0	3225
+328	sdPublisher	7530	Vivli	0	7684
+329	sdPublisher	122698	Zenodo	122698	122698
+330	funding	3	AccessClinicalData@NIAID	3	11
+331	funding	0	biotools	0	0
+332	funding	37	ClinEpiDB	37	45
+333	funding	421	Data Discovery Engine	459	589
+334	funding	1835	Dryad Digital Repository	25590	28423
+335	funding	0	Figshare	0	0
+336	funding	237	Flow Repository	237	924
+337	funding	0	Harvard Dataverse	0	1994
+338	funding	0	HuBMAP	0	0
+339	funding	0	Human Cell Atlas	0	0
+340	funding	1029	ImmPort	1029	1320
+341	funding	157	ImmuneSpace	157	181
+342	funding	312	LINCS	312	391
+343	funding	0	MalariaGEN	0	0
+344	funding	126	MassIVE	126	172
+345	funding	860	Mendeley	860	15522
+346	funding	19	MicrobiomeDB	19	19
+347	funding	56922	NCBI BioProject	11422	58567
+348	funding	0	NCBI GEO	0	0
+349	funding	0	NCBI SRA	0	0
+350	funding	0	NDEx	0	995
+351	funding	8504	NICHD DASH	8504	12510
+352	funding	8792	Omics Discovery Index (OmicsDI)	8792	18675
+353	funding	0	Project Tycho	0	597
+354	funding	14242	Protein Data Bank	14242	55971
+355	funding	203	Qiita	203	245
+356	funding	66	RADx Data Hub	66	178
+357	funding	9	ReframeDB	9	10
+358	funding	1562	The Database of Genotypes and Phenotypes	1562	2180
+359	funding	42	VDJServer	42	2
+360	funding	1010	VEuPathDB	1010	1372
+361	funding	0	Vivli	0	7673
+362	funding	34576	Zenodo	20994	60270
+363	funding.funder	11	AccessClinicalData@NIAID	0	11
+364	funding.funder	0	biotools	0	0
+365	funding.funder	45	ClinEpiDB	0	45
+366	funding.funder	589	Data Discovery Engine	0	589
+367	funding.funder	27641	Dryad Digital Repository	0	27641
+368	funding.funder	0	Figshare	0	0
+369	funding.funder	353	Flow Repository	0	353
+370	funding.funder	1992	Harvard Dataverse	0	1994
+371	funding.funder	0	HuBMAP	0	0
+372	funding.funder	0	Human Cell Atlas	0	0
+373	funding.funder	1320	ImmPort	236	1320
+374	funding.funder	181	ImmuneSpace	21	181
+375	funding.funder	312	LINCS	0	312
+376	funding.funder	0	MalariaGEN	0	0
+377	funding.funder	172	MassIVE	0	172
+378	funding.funder	15520	Mendeley	0	15520
+379	funding.funder	19	MicrobiomeDB	0	19
+380	funding.funder	58559	NCBI BioProject	0	58559
+381	funding.funder	0	NCBI GEO	0	0
+382	funding.funder	0	NCBI SRA	0	0
+383	funding.funder	995	NDEx	0	995
+384	funding.funder	12510	NICHD DASH	0	12510
+385	funding.funder	18671	Omics Discovery Index (OmicsDI)	0	18671
+386	funding.funder	597	Project Tycho	0	597
+387	funding.funder	55970	Protein Data Bank	0	55970
+388	funding.funder	245	Qiita	0	245
+389	funding.funder	178	RADx Data Hub	0	178
+390	funding.funder	10	ReframeDB	0	10
+391	funding.funder	2179	The Database of Genotypes and Phenotypes	0	2179
+392	funding.funder	51	VDJServer	0	38
+393	funding.funder	1372	VEuPathDB	0	1372
+394	funding.funder	7673	Vivli	0	7673
+395	funding.funder	59521	Zenodo	0	59521
+396	distribution	0	AccessClinicalData@NIAID	0	0
+397	distribution	0	biotools	0	0
+398	distribution	63	ClinEpiDB	0	63
+399	distribution	0	Data Discovery Engine	0	577
+400	distribution	0	Dryad Digital Repository	0	64423
+401	distribution	0	Figshare	0	0
+402	distribution	2277	Flow Repository	0	2277
+403	distribution	20065	Harvard Dataverse	0	20065
+404	distribution	1000	HuBMAP	0	1000
+405	distribution	0	Human Cell Atlas	0	0
+406	distribution	0	ImmPort	0	1320
+407	distribution	0	ImmuneSpace	0	181
+408	distribution	0	LINCS	0	424
+409	distribution	56	MalariaGEN	0	56
+410	distribution	0	MassIVE	0	18083
+411	distribution	0	Mendeley	0	0
+412	distribution	25	MicrobiomeDB	0	25
+413	distribution	0	NCBI BioProject	0	0
+414	distribution	0	NCBI GEO	0	264383
+415	distribution	0	NCBI SRA	0	0
+416	distribution	0	NDEx	0	10843
+417	distribution	0	NICHD DASH	0	12510
+418	distribution	0	Omics Discovery Index (OmicsDI)	0	107221
+419	distribution	0	Project Tycho	0	597
+420	distribution	0	Protein Data Bank	0	130742
+421	distribution	0	Qiita	0	0
+422	distribution	0	RADx Data Hub	0	0
+423	distribution	0	ReframeDB	0	0
+424	distribution	0	The Database of Genotypes and Phenotypes	0	0
+425	distribution	0	VDJServer	0	0
+426	distribution	1815	VEuPathDB	0	1827
+427	distribution	0	Vivli	0	0
+428	distribution	0	Zenodo	0	425109
+429	spatialCoverage	0	AccessClinicalData@NIAID	0	0
+430	spatialCoverage	0	biotools	0	0
+431	spatialCoverage	64	ClinEpiDB	0	65
+432	spatialCoverage	65	Data Discovery Engine	0	75
+433	spatialCoverage	16182	Dryad Digital Repository	0	16182
+434	spatialCoverage	0	Figshare	0	0
+435	spatialCoverage	0	Flow Repository	0	0
+436	spatialCoverage	3711	Harvard Dataverse	0	3711
+437	spatialCoverage	0	HuBMAP	0	0
+438	spatialCoverage	0	Human Cell Atlas	0	0
+439	spatialCoverage	0	ImmPort	0	0
+440	spatialCoverage	0	ImmuneSpace	0	0
+441	spatialCoverage	0	LINCS	0	0
+442	spatialCoverage	0	MalariaGEN	0	0
+443	spatialCoverage	0	MassIVE	0	0
+444	spatialCoverage	0	Mendeley	0	0
+445	spatialCoverage	0	MicrobiomeDB	0	0
+446	spatialCoverage	0	NCBI BioProject	0	0
+447	spatialCoverage	0	NCBI GEO	0	0
+448	spatialCoverage	0	NCBI SRA	0	0
+449	spatialCoverage	0	NDEx	0	0
+450	spatialCoverage	0	NICHD DASH	0	0
+451	spatialCoverage	9834	Omics Discovery Index (OmicsDI)	0	9834
+452	spatialCoverage	597	Project Tycho	0	597
+453	spatialCoverage	0	Protein Data Bank	0	0
+454	spatialCoverage	0	Qiita	0	0
+455	spatialCoverage	0	RADx Data Hub	0	0
+456	spatialCoverage	0	ReframeDB	0	0
+457	spatialCoverage	0	The Database of Genotypes and Phenotypes	0	0
+458	spatialCoverage	499	VDJServer	0	0
+459	spatialCoverage	0	VEuPathDB	0	0
+460	spatialCoverage	5294	Vivli	0	5294
+461	spatialCoverage	16759	Zenodo	0	16759
+462	temporalCoverage	0	AccessClinicalData@NIAID	0	0
+463	temporalCoverage	0	biotools	0	0
+464	temporalCoverage	0	ClinEpiDB	0	63
+465	temporalCoverage	47	Data Discovery Engine	0	75
+466	temporalCoverage	0	Dryad Digital Repository	0	58944
+467	temporalCoverage	0	Figshare	0	0
+468	temporalCoverage	0	Flow Repository	0	2277
+469	temporalCoverage	0	Harvard Dataverse	0	1792
+470	temporalCoverage	0	HuBMAP	0	0
+471	temporalCoverage	0	Human Cell Atlas	0	0
+472	temporalCoverage	0	ImmPort	0	0
+473	temporalCoverage	0	ImmuneSpace	0	0
+474	temporalCoverage	0	LINCS	0	0
+475	temporalCoverage	0	MalariaGEN	0	0
+476	temporalCoverage	0	MassIVE	0	0
+477	temporalCoverage	0	Mendeley	0	0
+478	temporalCoverage	0	MicrobiomeDB	0	0
+479	temporalCoverage	0	NCBI BioProject	0	0
+480	temporalCoverage	0	NCBI GEO	0	0
+481	temporalCoverage	0	NCBI SRA	0	0
+482	temporalCoverage	0	NDEx	0	0
+483	temporalCoverage	0	NICHD DASH	0	12390
+484	temporalCoverage	0	Omics Discovery Index (OmicsDI)	0	10518
+485	temporalCoverage	597	Project Tycho	0	597
+486	temporalCoverage	0	Protein Data Bank	0	0
+487	temporalCoverage	0	Qiita	0	0
+488	temporalCoverage	0	RADx Data Hub	0	178
+489	temporalCoverage	0	ReframeDB	0	0
+490	temporalCoverage	0	The Database of Genotypes and Phenotypes	0	0
+491	temporalCoverage	2355	VDJServer	0	0
+492	temporalCoverage	0	VEuPathDB	0	0
+493	temporalCoverage	0	Vivli	0	5912
+494	temporalCoverage	597	Zenodo	0	58287
+495	infectiousAgent	1	AccessClinicalData@NIAID	1	1
+496	infectiousAgent	0	biotools	0	0
+497	infectiousAgent	1	ClinEpiDB	1	1
+498	infectiousAgent	373	Data Discovery Engine	373	373
+499	infectiousAgent	12374	Dryad Digital Repository	12374	12374
+500	infectiousAgent	0	Figshare	0	0
+501	infectiousAgent	359	Flow Repository	359	359
+502	infectiousAgent	708	Harvard Dataverse	708	708
+503	infectiousAgent	0	HuBMAP	0	0
+504	infectiousAgent	0	Human Cell Atlas	0	0
+505	infectiousAgent	424	ImmPort	424	424
+506	infectiousAgent	3	ImmuneSpace	3	3
+507	infectiousAgent	0	LINCS	0	0
+508	infectiousAgent	36	MalariaGEN	36	36
+509	infectiousAgent	2774	MassIVE	2774	2774
+510	infectiousAgent	16314	Mendeley	16314	16314
+511	infectiousAgent	1	MicrobiomeDB	1	1
+512	infectiousAgent	176677	NCBI BioProject	176677	176677
+513	infectiousAgent	0	NCBI GEO	0	0
+514	infectiousAgent	124807	NCBI SRA	124807	124807
+515	infectiousAgent	96	NDEx	96	96
+516	infectiousAgent	2899	NICHD DASH	2899	2899
+517	infectiousAgent	12489	Omics Discovery Index (OmicsDI)	12489	12489
+518	infectiousAgent	597	Project Tycho	597	597
+519	infectiousAgent	129451	Protein Data Bank	129451	129451
+520	infectiousAgent	272	Qiita	272	272
+521	infectiousAgent	178	RADx Data Hub	178	178
+522	infectiousAgent	128	ReframeDB	128	128
+523	infectiousAgent	158	The Database of Genotypes and Phenotypes	158	158
+524	infectiousAgent	25	VDJServer	25	0
+525	infectiousAgent	1286	VEuPathDB	1286	1286
+526	infectiousAgent	649	Vivli	649	649
+527	infectiousAgent	11923	Zenodo	11923	11923
+528	species	2	AccessClinicalData@NIAID	2	2
+529	species	0	biotools	0	0
+530	species	2	ClinEpiDB	2	2
+531	species	309	Data Discovery Engine	309	309
+532	species	45307	Dryad Digital Repository	45307	45307
+533	species	0	Figshare	0	0
+534	species	404	Flow Repository	404	404
+535	species	1880	Harvard Dataverse	1880	1880
+536	species	4810	HuBMAP	4810	4810
+537	species	518	Human Cell Atlas	518	518
+538	species	944	ImmPort	944	944
+539	species	181	ImmuneSpace	181	181
+540	species	36	LINCS	36	36
+541	species	30	MalariaGEN	30	30
+542	species	7431	MassIVE	7431	7431
+543	species	19166	Mendeley	19166	19166
+544	species	1	MicrobiomeDB	1	1
+545	species	668043	NCBI BioProject	342542	668043
+546	species	264206	NCBI GEO	0	264206
+547	species	194918	NCBI SRA	194918	194918
+548	species	9323	NDEx	9289	9323
+549	species	8426	NICHD DASH	8426	8426
+550	species	35607	Omics Discovery Index (OmicsDI)	34436	35607
+551	species	597	Project Tycho	597	597
+552	species	15880	Protein Data Bank	14311	15880
+553	species	252	Qiita	252	252
+554	species	178	RADx Data Hub	178	178
+555	species	109	ReframeDB	109	109
+556	species	1341	The Database of Genotypes and Phenotypes	1341	1341
+557	species	4574	VDJServer	4574	0
+558	species	468	VEuPathDB	468	468
+559	species	314	Vivli	314	314
+560	species	42197	Zenodo	42197	42197
+561	healthCondition	11	AccessClinicalData@NIAID	10	11
+562	healthCondition	0	biotools	0	0
+563	healthCondition	65	ClinEpiDB	65	65
+564	healthCondition	384	Data Discovery Engine	378	384
+565	healthCondition	5228	Dryad Digital Repository	5194	5228
+566	healthCondition	0	Figshare	0	0
+567	healthCondition	489	Flow Repository	487	489
+568	healthCondition	1064	Harvard Dataverse	1053	1064
+569	healthCondition	0	HuBMAP	0	0
+570	healthCondition	467	Human Cell Atlas	467	467
+571	healthCondition	1319	ImmPort	1286	1319
+572	healthCondition	181	ImmuneSpace	175	181
+573	healthCondition	39	LINCS	39	39
+574	healthCondition	56	MalariaGEN	56	56
+575	healthCondition	1708	MassIVE	1687	1708
+576	healthCondition	12772	Mendeley	12698	12772
+577	healthCondition	23	MicrobiomeDB	23	23
+578	healthCondition	0	NCBI BioProject	0	0
+579	healthCondition	0	NCBI GEO	0	0
+580	healthCondition	59540	NCBI SRA	59368	59540
+581	healthCondition	1121	NDEx	1069	1121
+582	healthCondition	7371	NICHD DASH	7371	7371
+583	healthCondition	46640	Omics Discovery Index (OmicsDI)	44828	46640
+584	healthCondition	597	Project Tycho	597	597
+585	healthCondition	0	Protein Data Bank	0	0
+586	healthCondition	324	Qiita	324	324
+587	healthCondition	178	RADx Data Hub	178	178
+588	healthCondition	195	ReframeDB	101	195
+589	healthCondition	2332	The Database of Genotypes and Phenotypes	2111	2332
+590	healthCondition	3609	VDJServer	2737	131
+591	healthCondition	681	VEuPathDB	681	681
+592	healthCondition	7278	Vivli	6944	7278
+593	healthCondition	5315	Zenodo	5285	5315
+594	measurementTechnique	7	AccessClinicalData@NIAID	7	7
+595	measurementTechnique	0	biotools	0	0
+596	measurementTechnique	63	ClinEpiDB	63	63
+597	measurementTechnique	589	Data Discovery Engine	125	589
+598	measurementTechnique	0	Dryad Digital Repository	0	0
+599	measurementTechnique	0	Figshare	0	0
+600	measurementTechnique	2277	Flow Repository	2277	2277
+601	measurementTechnique	0	Harvard Dataverse	0	0
+602	measurementTechnique	2443	HuBMAP	0	2443
+603	measurementTechnique	0	Human Cell Atlas	0	0
+604	measurementTechnique	583	ImmPort	0	583
+605	measurementTechnique	172	ImmuneSpace	0	172
+606	measurementTechnique	420	LINCS	420	420
+607	measurementTechnique	0	MalariaGEN	0	0
+608	measurementTechnique	18083	MassIVE	18083	18083
+609	measurementTechnique	0	Mendeley	0	0
+610	measurementTechnique	0	MicrobiomeDB	0	0
+611	measurementTechnique	948299	NCBI BioProject	0	948299
+612	measurementTechnique	264383	NCBI GEO	0	264383
+613	measurementTechnique	391038	NCBI SRA	391032	391038
+614	measurementTechnique	63	NDEx	63	63
+615	measurementTechnique	12510	NICHD DASH	0	12510
+616	measurementTechnique	80652	Omics Discovery Index (OmicsDI)	5815	80652
+617	measurementTechnique	597	Project Tycho	597	597
+618	measurementTechnique	130501	Protein Data Bank	130501	130501
+619	measurementTechnique	0	Qiita	0	0
+620	measurementTechnique	178	RADx Data Hub	178	178
+621	measurementTechnique	195	ReframeDB	73	195
+622	measurementTechnique	2041	The Database of Genotypes and Phenotypes	2041	2041
+623	measurementTechnique	4574	VDJServer	0	0
+624	measurementTechnique	3218	VEuPathDB	0	3225
+625	measurementTechnique	4940	Vivli	4940	4940
+626	measurementTechnique	597	Zenodo	597	597
+627	topicCategory	6	AccessClinicalData@NIAID	6	6
+628	topicCategory	0	biotools	0	0
+629	topicCategory	50	ClinEpiDB	50	50
+630	topicCategory	368	Data Discovery Engine	406	406
+631	topicCategory	53903	Dryad Digital Repository	53903	53903
+632	topicCategory	2041105	Figshare	0	2041105
+633	topicCategory	2223	Flow Repository	2223	2223
+634	topicCategory	8604	Harvard Dataverse	8604	8604
+635	topicCategory	1801	HuBMAP	1801	1801
+636	topicCategory	0	Human Cell Atlas	0	0
+637	topicCategory	719	ImmPort	719	719
+638	topicCategory	158	ImmuneSpace	158	158
+639	topicCategory	345	LINCS	345	345
+640	topicCategory	0	MalariaGEN	0	0
+641	topicCategory	1735	MassIVE	1735	1735
+642	topicCategory	51013	Mendeley	51013	51013
+643	topicCategory	0	MicrobiomeDB	0	0
+644	topicCategory	0	NCBI BioProject	0	0
+645	topicCategory	0	NCBI GEO	0	0
+646	topicCategory	243472	NCBI SRA	243472	243472
+647	topicCategory	10843	NDEx	10843	10843
+648	topicCategory	11330	NICHD DASH	11330	11330
+649	topicCategory	47892	Omics Discovery Index (OmicsDI)	47892	47892
+650	topicCategory	597	Project Tycho	597	597
+651	topicCategory	0	Protein Data Bank	130742	130742
+652	topicCategory	703	Qiita	703	703
+653	topicCategory	50	RADx Data Hub	50	50
+654	topicCategory	139	ReframeDB	139	139
+655	topicCategory	2495	The Database of Genotypes and Phenotypes	2495	2495
+656	topicCategory	56	VDJServer	56	56
+657	topicCategory	0	VEuPathDB	0	0
+658	topicCategory	6738	Vivli	6738	6738
+659	topicCategory	54292	Zenodo	54292	54292
+660	about	0	AccessClinicalData@NIAID	0	0
+661	about	0	biotools	0	0
+662	about	0	ClinEpiDB	0	0
+663	about	40	Data Discovery Engine	40	40
+664	about	0	Dryad Digital Repository	0	0
+665	about	0	Figshare	0	0
+666	about	0	Flow Repository	0	0
+667	about	0	Harvard Dataverse	0	0
+668	about	0	HuBMAP	0	0
+669	about	0	Human Cell Atlas	0	0
+670	about	0	ImmPort	0	0
+671	about	0	ImmuneSpace	0	0
+672	about	0	LINCS	0	0
+673	about	0	MalariaGEN	0	0
+674	about	0	MassIVE	0	0
+675	about	0	Mendeley	0	0
+676	about	0	MicrobiomeDB	0	0
+677	about	0	NCBI BioProject	0	0
+678	about	0	NCBI GEO	0	0
+679	about	0	NCBI SRA	0	0
+680	about	0	NDEx	0	0
+681	about	0	NICHD DASH	0	0
+682	about	0	Omics Discovery Index (OmicsDI)	0	0
+683	about	0	Project Tycho	0	0
+684	about	0	Protein Data Bank	0	0
+685	about	0	Qiita	0	0
+686	about	0	RADx Data Hub	0	0
+687	about	0	ReframeDB	0	0
+688	about	0	The Database of Genotypes and Phenotypes	0	0
+689	about	0	VDJServer	0	0
+690	about	0	VEuPathDB	0	0
+691	about	0	Vivli	0	0
+692	about	0	Zenodo	0	0
