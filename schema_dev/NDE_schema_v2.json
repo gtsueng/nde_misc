@@ -19,8 +19,8 @@
       "rdfs:subClassOf": {
         "@id": "niaid:Dataset"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.8 - 2025.09.03"],
-      "dct:provenance":"Changes since previous version: Add 'sample' property to link Dataset to samples. Update 'citation' and 'citedBy' description. Added the creditText property as optional.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.11.12"],
+      "dct:provenance":"Changes since previous version: Improve validation of 'sample' property in Dataset.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -1803,10 +1803,6 @@
             "description": "reusable sample object",
             "type": "object",
             "properties": {
-              "name": {
-                "description": "sample name",
-                "type": "string"
-              },
               "url": {
                 "description": "Link to sample",
                 "type": "string",
@@ -1829,31 +1825,345 @@
                     }
                   }
                 ]
-              }
+              },
+              "associatedPhenotype": {
+                "description": "one or more observable traits or conditions relevant to the source of the sample.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/UPHENO_0001001", "http://purl.obolibrary.org/obo/PATO_0000001"],
+                      "ontology": ["UPHENO","PATO"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/UPHENO_0001001", "http://purl.obolibrary.org/obo/PATO_0000001"],
+                        "ontology": ["UPHENO","PATO"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "associatedGenotype": {
+                "description": "One or more genetic variants or molecular features observed or inferred from the sample.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/NCIT_C16612", "http://purl.obolibrary.org/obo/NCIT_C20181","http://purl.obolibrary.org/obo/NCIT_C17649"],
+                      "ontology": ["NCIT"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/NCIT_C16612", "http://purl.obolibrary.org/obo/NCIT_C20181","http://purl.obolibrary.org/obo/NCIT_C17649"],
+                        "ontology": ["NCIT"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "cellType": {
+                "description": "The type of cell represented in or derived from the biological sample, based on morphology, lineage, or molecular markers.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/CL_0000000", "http://purl.obolibrary.org/obo/CLO_0000031"],
+                      "ontology": ["CL","CLO"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/CL_0000000", "http://purl.obolibrary.org/obo/CLO_0000031"],
+                        "ontology": ["CL","CLO"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "anatomicalSystem": {
+                "description": "Indicate the anatomical system from which the sample is collect, e.g. circulatory, digestive, endocrine, immune and other systems.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/UBERON_0000467"],
+                      "ontology": ["UBERON"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/UBERON_0000467"],
+                        "ontology": ["UBERON"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "anatomicalStructure": {
+                "description": "Indicate the organ, tissues the sample was collected from.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/UBERON_0001062"],
+                      "ontology": ["UBERON"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/UBERON_0001062"],
+                        "ontology": ["UBERON"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "sex": {
+                "description": "The biological sex of the individual from which the sample was obtained.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/PATO_0000047"],
+                      "ontology": ["PATO"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/PATO_0000047"],
+                        "ontology": ["PATO"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "developmentalStage": {
+                "description": "A temporal subdivision of a developmental process, indicating the age or stage of the object when the sample was created.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/UBERON_0000104","http://purl.obolibrary.org/obo/NCIT_C48308"],
+                      "ontology": ["UBERON","NCIT"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/UBERON_0000104","http://purl.obolibrary.org/obo/NCIT_C48308"],
+                        "ontology": ["UBERON","NCIT"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/quantitativevalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/quantitativevalue"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "sampleAvailability": {
+                "description": "A flag to signal that the sample is available for reuse.",
+                "abstract": "availability of the sample",
+                "type": "boolean",
+                "owl:cardinality": "one"
+              },
+              "sampleQuantity": {
+                "description": "A numeric value for a measurement of the size of a sample. If completely unknown, set value = 0, and unitText = 'unknown'",
+                "oneOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/quantitativevalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/quantitativevalue"
+                  }
+                ],
+                "owl:cardinality": "many"             
+              },
+              "sampleType": {
+                "description": "The type of sample or specimen.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                      "ontology": ["OBI"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                        "ontology": ["OBI"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              }                                                 
             },
-            "required": ["url", "identifier"],
-            "recommended": ["name", "includedInDataCatalog"]
+            "recommended": ["url", "identifier", "includedInDataCatalog", "associatedPhenotype", "associatedGenotype", "cellType", "sampleType",
+                           "anatomicalSystem", "anatomicalStrucutre", "sex", "developmentalStage", "sampleAvailability", "sampleQuantity"]
           },
           "samplecollection": {
             "@type": "SampleCollection",
             "description": "reusable sampleCollection object",
             "type": "object",
             "properties": {
-              "name": {
-                "description": "sample collection name",
-                "type": "string"
-              },
               "url": {
-                "description": "Link to sample collection",
+                "description": "Link to sample",
                 "type": "string",
                 "format": "uri"
               },
               "identifier": {
-                "description": "an identifier for the sample collection",
+                "description": "an identifier for the sample",
                 "type": "string"
               },
               "includedInDataCatalog": {
-                "description": "Data or resource catalog where the sample collection is listed",
+                "description": "Data or resource catalog where the sample is listed",
                 "oneOf": [
                   {
                     "$ref": "#/definitions/catalog"
@@ -1865,6 +2175,324 @@
                     }
                   }
                 ]
+              },
+              "associatedPhenotype": {
+                "description": "one or more observable traits or conditions relevant to the source of the sample.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/UPHENO_0001001", "http://purl.obolibrary.org/obo/PATO_0000001"],
+                      "ontology": ["UPHENO","PATO"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/UPHENO_0001001", "http://purl.obolibrary.org/obo/PATO_0000001"],
+                        "ontology": ["UPHENO","PATO"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "associatedGenotype": {
+                "description": "One or more genetic variants or molecular features observed or inferred from the sample.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/NCIT_C16612", "http://purl.obolibrary.org/obo/NCIT_C20181","http://purl.obolibrary.org/obo/NCIT_C17649"],
+                      "ontology": ["NCIT"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/NCIT_C16612", "http://purl.obolibrary.org/obo/NCIT_C20181","http://purl.obolibrary.org/obo/NCIT_C17649"],
+                        "ontology": ["NCIT"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "cellType": {
+                "description": "The type of cell represented in or derived from the biological sample, based on morphology, lineage, or molecular markers.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/CL_0000000", "http://purl.obolibrary.org/obo/CLO_0000031"],
+                      "ontology": ["CL","CLO"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/CL_0000000", "http://purl.obolibrary.org/obo/CLO_0000031"],
+                        "ontology": ["CL","CLO"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "anatomicalSystem": {
+                "description": "Indicate the anatomical system from which the sample is collect, e.g. circulatory, digestive, endocrine, immune and other systems.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/UBERON_0000467"],
+                      "ontology": ["UBERON"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/UBERON_0000467"],
+                        "ontology": ["UBERON"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "anatomicalStructure": {
+                "description": "Indicate the organ, tissues the sample was collected from.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/UBERON_0001062"],
+                      "ontology": ["UBERON"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/UBERON_0001062"],
+                        "ontology": ["UBERON"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "sex": {
+                "description": "The biological sex of the individual from which the sample was obtained.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/PATO_0000047"],
+                      "ontology": ["PATO"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/PATO_0000047"],
+                        "ontology": ["PATO"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "developmentalStage": {
+                "description": "A temporal subdivision of a developmental process, indicating the age or stage of the object when the sample was created.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/UBERON_0000104","http://purl.obolibrary.org/obo/NCIT_C48308"],
+                      "ontology": ["UBERON","NCIT"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/UBERON_0000104","http://purl.obolibrary.org/obo/NCIT_C48308"],
+                        "ontology": ["UBERON","NCIT"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/quantitativevalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/quantitativevalue"
+                  }
+                ],
+                "owl:cardinality": "many"
+              },
+              "sampleAvailability": {
+                "description": "A flag to signal that the sample is available for reuse.",
+                "abstract": "availability of the sample",
+                "type": "boolean",
+                "owl:cardinality": "one"
+              },
+              "sampleQuantity": {
+                "description": "A numeric value for a measurement of the size of a sample. If completely unknown, set value = 0, and unitText = 'unknown'",
+                "oneOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/quantitativevalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/quantitativevalue"
+                  }
+                ],
+                "owl:cardinality": "many"             
+              },
+              "sampleType": {
+                "description": "The type of sample or specimen.",
+                "anyOf": [
+                  {
+                    "description": "collection of vocabulary terms defined in ontologies",
+                    "strict": false,
+                    "type": "string",
+                    "vocabulary": {
+                      "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                      "ontology": ["OBI"]
+                    }
+                  },
+                  {
+                    "items": {
+                      "description": "collection of vocabulary terms defined in ontologies",
+                      "strict": false,
+                      "type": "string",
+                      "vocabulary": {
+                        "children_of": ["http://purl.obolibrary.org/obo/BFO_0000040"],
+                        "ontology": ["OBI"]
+                      }
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/definedterm"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/definedterm"
+                  }
+                ],
+                "owl:cardinality": "many"
               },
               "sampleList": {
                 "description": "Samples listed in the sample collection",
@@ -1879,10 +2507,97 @@
                     }
                   }
                 ]
+              },
+              "collectionSize": {
+                "description": "The number of sample records in the sample collection. Min/max estimates can be used in lieu of actual number. If completely unknown, set value = 0, and unitText = 'unknown'",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/propertyvalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/propertyvalue"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/quantitativevalue"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/quantitativevalue"
+                  }    
+                ],
+                "owl:cardinality": "many"             
               }
             },
-            "required": ["url", "identifier"],
-            "recommended": ["name", "includedInDataCatalog", "sampleList"]
+            "recommended": ["url", "identifier", "includedInDataCatalog", "associatedPhenotype", "associatedGenotype", "cellType", "sampleType",
+                           "anatomicalSystem", "anatomicalStrucutre", "sex", "developmentalStage", "sampleAvailability", "sampleQuantity",
+                           "collectionSize", "sampleList"]
+          },
+          "quantitativevalue": {
+            "@type": "QuantitativeValue",
+            "description": "A numeric value and unit for a property with potentially different units",
+            "type": "object",
+            "properties": {
+              "value": {
+                "description": "A numeric value for the property",
+                "type": "number"
+              },
+              "maxValue": {
+                "description": "An estimated maximum numberic value if the actual value is not known. Ignore if actual numeric value is known.",
+                "type": "number"
+              },
+              "minValue": {
+                "description": "An estimated minumum numeric value if the actual value is not known. Ignore if actual numeric value is known.",
+                "type": "number"
+              },
+              "unitText": {
+                "description": "A unit associated with the value. E.g.- 'records' for the number of records in a database.",
+                "type": "string"
+              }
+            },
+            "required" : ["unitText"],
+            "recommended": ["value"],
+            "optional": ["maxValue","minValue"]
+          },
+          "propertyvalue": {
+            "@type": "PropertyValue",
+            "description": "A numeric value and unit for a property with potentially different units",
+            "type": "object",
+            "properties": {
+              "value": {
+                "description": "A numeric value for the property",
+                "type": "number"
+              },
+              "maxValue": {
+                "description": "An estimated maximum numberic value if the actual value is not known. Ignore if actual numeric value is known.",
+                "type": "number"
+              },
+              "minValue": {
+                "description": "An estimated minumum numeric value if the actual value is not known. Ignore if actual numeric value is known.",
+                "type": "number"
+              },
+              "unitText": {
+                "description": "A unit associated with the value. E.g.- 'records' for the number of records in a database.",
+                "type": "string"
+              },
+              "propertyID": {
+                "description": "A commonly used identifier for the characteristic represented by the property, e.g. a manufacturer or a standard code for a property. propertyID can be (1) a prefixed string, mainly meant to be used with standards for product properties; (2) a site-specific, non-prefixed string (e.g. the primary key of the property or the vendor-specific ID of the property), or (3) a URL indicating the type of the property, either pointing to an external vocabulary, or a Web resource that describes the property (e.g. a glossary entry). Standards bodies should promote a standard prefix for the identifiers of properties from their standards.",
+                "oneOf": [
+                  {"type": "string"},
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                ]
+              }
+            },
+            "required" : ["unitText"],
+            "recommended": ["value","propertyID"],
+            "optional": ["maxValue","minValue"]
           }
         }
       }
@@ -6003,8 +6718,8 @@
           "@id": "nde:ResourceCatalog"
         }
       ],
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.1 - 2025.09.03"],
-      "dct:provenance":"First draft.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.2 - 2025.10.24"],
+      "dct:provenance":"Update developmentalStage to include QuantiativeValue as an expected type.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -6846,6 +7561,15 @@
               },
               {
                 "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/quantitativevalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/quantitativevalue"
               }
             ],
             "owl:cardinality": "many"
@@ -8521,8 +9245,8 @@
           "@id": "nde:ResourceCatalog"
         }
       ],
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.1 - 2025.09.10"],
-      "dct:provenance":"First draft.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.2 - 2025.10.24"],
+      "dct:provenance":"Update developmentalStage to include QuantiativeValue as an expected type.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -9364,6 +10088,15 @@
               },
               {
                 "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/quantitativevalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/quantitativevalue"
               }
             ],
             "owl:cardinality": "many"
