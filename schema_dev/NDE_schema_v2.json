@@ -4470,13 +4470,14 @@
       "rdfs:subClassOf": {
         "@id": "schema:Collection"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.09.03"],
-      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions. Added QuantitativeValue as optional expected type for 'collectionSize'.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v2.0 - 2025.12.08"],
+      "dct:provenance":"Changes since previous version: Add description for the 'about' field.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
         "properties": {
           "about": {
+            "description": "The entity type or class encapsulated by the records in this resource. For example, if a repository has a record on CDK2, and metadata about the genetic sequence, epigentic annotation, gene locus, etc-- the entity type would be Gene, and the resource contains data 'about' Genes. These should be formatted as DefinedTerm objects (mapped to ontology terms) for easier standardization.",
             "oneOf": [
               {
                 "type": "array",
