@@ -2146,7 +2146,7 @@
               }                                                 
             },
             "recommended": ["url", "identifier", "includedInDataCatalog", "associatedPhenotype", "associatedGenotype", "cellType", "sampleType",
-                           "anatomicalSystem", "anatomicalStrucutre", "sex", "developmentalStage", "sampleAvailability", "sampleQuantity"]
+                           "anatomicalSystem", "anatomicalStructure", "sex", "developmentalStage", "sampleAvailability", "sampleQuantity"]
           },
           "samplecollection": {
             "@type": "SampleCollection",
@@ -9062,7 +9062,7 @@
             "owl:cardinality": "many"             
           },
           "itemListElement": {
-            "description": "the samples that are included in the sample collection",
+            "description": "The list of samples that are included in the sample collection",
             "anyOf": [
               {
                 "type": "array",
@@ -9088,7 +9088,7 @@
             "owl:cardinality": "many"
           },
           "aggregateElement": {
-            "description": "the samples that are included in the sample collection",
+            "description": "Aggregate values derived from the samples in the collection.",
             "anyOf": [
               {
                 "type": "array",
