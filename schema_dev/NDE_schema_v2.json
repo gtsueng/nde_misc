@@ -10157,11 +10157,11 @@
                   {
                     "type": "array",
                     "items": {
-                      "$ref": "#/definitions/sample"
+                      "$ref": "#/definitions/minsample"
                     }
                   },
                   {
-                      "$ref": "#/definitions/sample"
+                      "$ref": "#/definitions/minsample"
                   }
                 ],
                 "owl:cardinality": "many"
@@ -10191,11 +10191,11 @@
                   {
                     "type": "array",
                     "items": {
-                      "$ref": "#/definitions/sample"
+                      "$ref": "#/definitions/minsample"
                     }
                   },
                   {
-                      "$ref": "#/definitions/sample"
+                      "$ref": "#/definitions/minsample"
                   }
                 ],
                 "owl:cardinality": "many"
@@ -10224,11 +10224,11 @@
                   {
                     "type": "array",
                     "items": {
-                      "$ref": "#/definitions/sample"
+                      "$ref": "#/definitions/minsample"
                     }
                   },
                   {
-                      "$ref": "#/definitions/sample"
+                      "$ref": "#/definitions/minsample"
                   }
                 ],
                 "owl:cardinality": "many"
@@ -10259,11 +10259,11 @@
                   {
                     "type": "array",
                     "items": {
-                      "$ref": "#/definitions/sample"
+                      "$ref": "#/definitions/minsample"
                     }
                   },
                   {
-                      "$ref": "#/definitions/sample"
+                      "$ref": "#/definitions/minsample"
                   }
                 ]
               },
@@ -10292,11 +10292,11 @@
                   {
                     "type": "array",
                     "items": {
-                      "$ref": "#/definitions/sample"
+                      "$ref": "#/definitions/minsample"
                     }
                   },
                   {
-                      "$ref": "#/definitions/sample"
+                      "$ref": "#/definitions/minsample"
                   }
                 ],
                 "owl:cardinality": "many"
@@ -10327,11 +10327,11 @@
                   {
                     "type": "array",
                     "items": {
-                      "$ref": "#/definitions/sample"
+                      "$ref": "#/definitions/minsample"
                     }
                   },
                   {
-                      "$ref": "#/definitions/sample"
+                      "$ref": "#/definitions/minsample"
                   }
                 ]
               },
