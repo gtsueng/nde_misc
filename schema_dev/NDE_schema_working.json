@@ -6439,13 +6439,10 @@
       "rdfs:subClassOf": [
         {
           "@id": "bioschemastypesdrafts:BioSample"
-        },
-        {
-          "@id": "nde:ResourceCatalog"
         }
       ],
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.2 - 2025.10.24"],
-      "dct:provenance":"Update developmentalStage to include QuantiativeValue as an expected type.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.3 - 2025.12.17"],
+      "dct:provenance":"Changes since previous version: Changed the parent class of Sample schema to reflect changes to SampleCollection schema.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
