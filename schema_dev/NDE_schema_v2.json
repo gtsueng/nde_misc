@@ -6444,8 +6444,8 @@
           "@id": "schema:CreativeWork"
         }
       ],
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.3 - 2025.12.17"],
-      "dct:provenance":"Changes since previous version: Changed the parent class of Sample schema to reflect changes to SampleCollection schema.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.4 - 2026.01.20"],
+      "dct:provenance":"Changes since previous version: Added the 'additionalProperty' field from Bioschemas BioSample. Updated associatedPhenotype to allow for QuantiativeValue objects (like weight and height)",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -6583,6 +6583,15 @@
               },
               {
                 "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/quantitativevalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/quantitativevalue"
               }
             ],
             "owl:cardinality": "many"
@@ -8393,11 +8402,26 @@
             "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the sample.",
             "type": "string",
             "owl:cardinality": "one"
+          },
+          "additionalProperty": {
+            "description": "Other Property/Value pairs that describe the sample.",
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/propertyvalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/propertyvalue"
+              }
+            ],
+            "owl:cardinality": "many"
           }
         },
         "required": ["name", "url", "identifier", "includedInDataCatalog", "author", "date"],
         "recommended": ["description", "sameAs", "conditionsOfAccess", "usageInfo", "license", "cellType", "infectiousAgent", "species", "healthCondition", "funding", "creditText", "anatomicalStructure", "sex", "developmentalStage", "sampleAvailability", "sampleProcess", "sampleType", "collectionMethod", "instrument", "collector", "contributor", "locationOfOrigin", "citation", "dateModified", "dateCollected", "dateProcessed", "interactionStatistic", "keywords", "sdPublisher", "sourceOrganization", "topicCategory", "creditText"],
-        "optional": ["associatedPhenotype", "associatedGenotype", "citedBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage"],
+        "optional": ["associatedPhenotype", "associatedGenotype", "citedBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage", "additionalProperty"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -8953,6 +8977,23 @@
             },
             "required": ["url", "identifier"],
             "recommended": ["name", "includedInDataCatalog"]
+          },
+          "propertyvalue": {
+            "@type": "PropertyValue",
+            "description": "A property value pair",
+            "type": "object",
+            "properties": {
+              "value": {
+                "description": "A value for the property",
+                "type": "string"
+              },
+              "name": {
+                "description": "Name of the property",
+                "type": "string"
+              }
+            },
+            "required" : ["name"],
+            "recommended": ["value"]
           }
         }
       }
