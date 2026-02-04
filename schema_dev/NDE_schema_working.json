@@ -6444,8 +6444,8 @@
           "@id": "schema:CreativeWork"
         }
       ],
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.4 - 2026.01.20"],
-      "dct:provenance":"Changes since previous version: Added the 'additionalProperty' field from Bioschemas BioSample. Updated associatedPhenotype to allow for QuantiativeValue objects (like weight and height)",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.5 - 2026.02.04"],
+      "dct:provenance":"Changes since previous version: Allow DefinedTerm as an expected type for experimentalPurpose.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -7690,7 +7690,7 @@
           },
           "experimentalPurpose": {
             "description": "Describe the planned or executed experimental procedures involving the samples.",
-            "oneOf": [
+            "anyOf": [
               {
                 "type": "string"
               },
@@ -7699,6 +7699,15 @@
                   "type": "string"
                 },
                 "type": "array"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
               }
             ],
             "owl:cardinality": "many"
@@ -11640,8 +11649,8 @@
       "rdfs:subClassOf": {
         "@id": "nde:Dataset"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.1 - 2025.12.18"],
-      "dct:provenance":"Changes since previous version: None, this is the first draft of the DataCollection schema.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.2 - 2026.02.04"],
+      "dct:provenance":"Changes since previous version: Updated exampleOfWork object to include 'additionalProperty'.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -13148,9 +13157,24 @@
                     "format": "uri"
                   }
                 ]
+              },
+              "additionalProperty": {
+                "description": "Other Property/Value pairs that describe the example.",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/propvalpair"
+                    }
+                  },
+                  {
+                    "$ref": "#/definitions/propvalpair"
+                  }
+                ],
+                "owl:cardinality": "many"
               }
             },
-            "recommended": ["about", "encodingFormat", "schemaVersion", "potentialAction"]
+            "recommended": ["about", "encodingFormat", "schemaVersion", "potentialAction", "additionalProperty"]
           },
           "action": {
             "@type": "Action",
@@ -14082,6 +14106,38 @@
             "required" : ["unitText"],
             "recommended": ["value","propertyID"],
             "optional": ["maxValue","minValue"]
+          },
+          "propvalpair": {
+            "@type": "PropertyValue",
+            "description": "A numeric value and unit for a property with potentially different units",
+            "type": "object",
+            "properties": {
+              "value": {
+                "description": "A numeric value for the property",
+                "type": "number"
+              },
+              "name": {
+                "description": "The name of the property.",
+                "type": "string"
+              },
+              "unitText": {
+                "description": "A unit associated with the value. E.g.- 'records' for the number of records in a database.",
+                "type": "string"
+              },
+              "propertyID": {
+                "description": "A commonly used identifier for the characteristic represented by the property, e.g. a manufacturer or a standard code for a property. propertyID can be (1) a prefixed string, mainly meant to be used with standards for product properties; (2) a site-specific, non-prefixed string (e.g. the primary key of the property or the vendor-specific ID of the property), or (3) a URL indicating the type of the property, either pointing to an external vocabulary, or a Web resource that describes the property (e.g. a glossary entry). Standards bodies should promote a standard prefix for the identifiers of properties from their standards.",
+                "oneOf": [
+                  {"type": "string"},
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                ]
+              }
+            },
+            "required" : ["name"],
+            "recommended": ["value","propertyID"],
+            "optional": ["unitText"]
           }
         }
       }
@@ -14891,6 +14947,23 @@
           "@id": "schema:URL"
         }
       ]
+    },
+    {
+      "@id": "nde:additionalProperty",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Other properties listed in the item metadata record.",
+      "rdfs:label": "additionalProperty",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Sample"
+        },
+        {
+          "@id": "schema:CreativeWork"
+        }
+      ],
+      "schema:rangeIncludes": {
+        "@id": "schema:PropertyValue"
+      }
     }
   ]
 }
