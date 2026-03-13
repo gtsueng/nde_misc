@@ -1,2 +1,7 @@
 .ipynb_checkpoints
 unique_value_check/data/*.pickle
+data_collection_test/raw_fetch/*
+data_collection_test/checkpoints/*
+data_collection_test/outputs/*
+/**/__pycache__/*
+*.pyc

@@ -1,0 +1,2867 @@
+ncbi_taxonomy_code,natural_source_organism
+2,unclassified Bacteria
+33,
+34,Myxococcus xanthus
+41,Stigmatella aurantiaca
+48,Archangium gephyra
+114,Gemmata obscuriglobus
+119,Rubinisphaera brasiliensis DSM 5305
+139,
+154,Spirochaeta thermophila
+158,Treponema denticola
+172,Leptospira biflexa
+173,Leptospira interrogans
+192,Azospirillum brasilense
+197,Campylobacter jejuni
+210,
+223,Achromobacter cycloclastes
+235,Brucella abortus
+264,Francisella tularensis subsp. novicida
+265,
+266,Paracoccus denitrificans
+267,Paracoccus sp.
+274,
+276,Thermus filiformis
+286,
+287,Pseudomonas aeruginosa
+294,Pseudomonas fluorescens
+297,Hydrogenophilus thermoluteolus
+301,Pseudomonas oleovorans
+305,
+306,Pseudomonas sp.
+316,Pseudomonas stutzeri
+317,Pseudomonas syringae
+319,
+338,
+346,Xanthomonas citri
+347,Xanthomonas oryzae pv. oryzae MAFF 311018
+354,Azotobacter vinelandii
+358,Agrobacterium tumefaciens
+362,Agrobacterium radiobacter
+381,Mesorhizobium loti MAFF303099
+382,Sinorhizobium meliloti
+398,
+408,Methylorubrum extorquens
+414,Methylococcus capsulatus
+428,Methylosinus sporium
+436,Gluconacetobacter hansenii ATCC 23769
+442,
+446,Legionella pneumophila
+469,Acinetobacter sp. NEB 394
+470,Acinetobacter baumannii
+485,Neisseria gonorrhoeae
+486,
+487,
+491,
+518,Bordetella bronchiseptica
+520,
+536,Chromobacterium violaceum
+543,Enterobacteriaceae
+546,Citrobacter freundii
+550,Enterobacter cloacae
+552,Erwinia amylovora
+556,Dickeya chrysanthemi
+561,Escherichia
+562,Escherichia coli
+564,Escherichia fergusonii
+571,Escherichia coli K-12
+573,Klebsiella pneumoniae
+582,Morganella morganii
+584,Proteus mirabilis
+588,Providencia stuartii
+590,Salmonella
+613,Serratia
+615,Serratia marcescens
+622,Shigella dysenteriae
+623,Shigella flexneri
+624,Escherichia phage Lambda
+628,Xenorhabdus nematophila
+630,Yersinia enterocolitica
+632,Yersinia pestis
+633,Yersinia pseudotuberculosis
+644,Aeromonas hydrophila
+645,Aeromonas salmonicida
+659,Photobacterium phosphoreum
+662,Vibrio parahaemolyticus
+663,Vibrio alginolyticus
+666,Vibrio cholerae
+668,Aliivibrio fischeri
+669,Vibrio harveyi
+670,
+672,Vibrio vulnificus
+674,
+680,Vibrio campbellii
+686,Vibrio cholerae O1 biovar El Tor
+691,Vibrio natriegens
+703,Plesiomonas shigelloides
+714,Aggregatibacter actinomycetemcomitans
+727,Haemophilus influenzae
+729,Haemophilus parainfluenzae
+745,Pasteurella
+747,Pasteurella multocida
+770,Anaplasma marginale
+777,Coxiella burnetii
+813,Chlamydia trachomatis
+816,Bacteroides thetaiotaomicron
+817,Bacteroides fragilis
+818,
+831,Butyrivibrio fibrisolvens
+837,Porphyromonas gingivalis
+844,Wolinella succinogenes
+847,Oxalobacter formigenes
+851,
+873,Desulfocurvibacter africanus
+881,Desulfovibrio vulgaris
+882,
+906,Megasphaera
+920,Acidithiobacillus ferrooxidans
+927,Halothiobacillus neapolitanus
+935,Thiomicrospira sp.
+940,Hydrogenobacter thermophilus DSM 653
+959,Bdellovibrio bacteriovorus
+986,Flavobacterium johnsoniae
+1017,Capnocytophaga gingivalis
+1041,Erythrobacter
+1049,synthetic construct
+1050,Thermochromatium tepidum
+1052,Halorhodospira halochloris
+1053,Halorhodospira halophila
+1061,Rhodobacter capsulatus
+1063,
+1071,Rhodopila globiformis
+1074,Rhodoblastus acidophilus
+1076,Rhodopseudomonas palustris
+1079,Blastochloris viridis
+1083,Magnetospirillum molischianum
+1085,Rhodospirillum rubrum
+1097,Lama glama
+1108,Chloroflexus aurantiacus
+1129,Synechococcus
+1140,
+1142,
+1147,synthetic construct
+1148,Synechocystis sp. PCC 6803
+1163,Anabaena
+1166,Dolichospermum flos-aquae
+1167,Synechococcus elongatus
+1180,Nostoc sp.
+1181,Desmonostoc sp. PCC 7906
+1218,
+1239,Bacillota
+1254,
+1270,Micrococcus luteus
+1279,
+1280,Staphylococcus aureus
+1282,Staphylococcus epidermidis
+1283,Staphylococcus haemolyticus
+1299,Deinococcus radiodurans
+1301,
+1304,Streptococcus salivarius
+1305,
+1306,
+1307,Streptococcus suis
+1308,
+1311,Streptococcus agalactiae
+1313,
+1314,
+1320,
+1338,Streptococcus intermedius
+1339,Streptococcus macacae NCTC 11558
+1351,Enterococcus faecalis
+1352,Enterococcus faecium
+1354,Enterococcus hirae
+1358,Lactococcus lactis
+1359,Lactococcus lactis subsp. cremoris
+1360,Lactococcus lactis subsp. lactis
+1363,
+1379,
+1386,Bacillus
+1390,Bacillus amyloliquefaciens
+1392,Bacillus anthracis
+1396,Bacillus cereus
+1397,
+1406,Paenibacillus polymyxa
+1408,Bacillus pumilus
+1409,Bacillus sp. in: firmicutes
+1422,Geobacillus stearothermophilus
+1423,Bacillus subtilis
+1427,Bacillus thermoproteolyticus
+1428,Bacillus thuringiensis
+1430,Bacillus thuringiensis serovar israelensis
+1462,Geobacillus kaustophilus
+1464,Escherichia coli BW25113
+1474,Sporosarcina pasteurii
+1488,Clostridium acetobutylicum
+1491,
+1496,Clostridioides difficile
+1498,Hathewaya histolytica
+1502,
+1505,Homo sapiens
+1509,
+1512,Clostridium symbiosum
+1513,Clostridium tetani
+1515,Acetivibrio thermocellus
+1520,Clostridium beijerinckii
+1525,Moorella thermoacetica
+1542,Clostridium novyi
+1547,Thomasclavelia ramosa
+1553,Clostridium tetanomorphum
+1579,Lactobacillus acidophilus
+1599,Listeria monocytogenes
+1634,Latilactobacillus sakei L45
+1639,Listeria monocytogenes
+1640,
+1642,Listeria innocua
+1667,Arthrobacter sp.
+1703,Brevibacterium linens
+1717,Corynebacterium diphtheriae
+1718,Corynebacterium glutamicum
+1747,Cutibacterium acnes
+1760,
+1771,
+1772,Mycolicibacterium smegmatis
+1773,Mycobacterium tuberculosis
+1781,Mycobacterium marinum strain ATCC BAA-535 / M
+1785,Mycobacterium sp.
+1797,Mycolicibacterium thermoresistibile
+1800,Mycolicibacterium chubuense
+1827,Rhodococcus
+1829,Rhodococcus rhodochrous
+1831,Rhodococcus sp. in: high G C Gram-positive bacteria
+1836,Saccharopolyspora erythraea
+1839,Nocardioides
+1871,Actinoplanes sp.
+1883,
+1888,Streptomyces albus
+1895,Streptomyces avidinii
+1902,Streptomyces coelicolor
+1911,Streptomyces griseus
+1916,Streptomyces lividans
+1929,Streptomyces rubiginosus
+1931,Streptomyces sp.
+1961,Streptomyces virginiae
+2014,Nocardiopsis dassonvillei
+2021,Thermobifida fusca strain YX
+2026,Thermoactinomyces vulgaris
+2033,Microbacterium testaceum
+2047,Rothia dentocariosa
+2097,Mycoplasmoides genitalium
+2104,Mycoplasma pneumoniae
+2111,Metamycoplasma arthritidis
+2118,Mycoplasma mobile
+2157,Archaea
+2189,Methanotorris igneus
+2190,Methanocaldococcus jannaschii
+2209,Methanosarcina mazei
+2210,Methanosarcina thermophila
+2214,Methanosarcina acetivorans
+2234,Archaeoglobus fulgidus
+2238,Escherichia coli BW25113
+2242,Halobacterium salinarum
+2246,Haloferax volcanii
+2250,Halococcus morrhuae
+2252,Haloferax mediterranei
+2260,Pyrococcus
+2261,Pyrococcus furiosus
+2280,
+2283,Acidianus ambivalens
+2285,Sulfolobus acidocaldarius
+2287,Saccharolobus solfataricus
+2303,Thermoplasma acidophilum
+2325,Thermoanaerobacter kivui
+2334,Bacillus sp. PS3
+2336,Thermotoga maritima
+2374,Acetonema longum
+2706,Citrus
+2708,Citrus limon
+2711,Citrus sinensis
+2762,Cyanophora paradoxa
+2771,Cyanidium caldarium
+2785,
+2850,Phaeodactylum tricornutum
+2880,synthetic construct
+2903,Emiliania huxleyi
+2949,Symbiodinium
+2950,Symbiodinium sp.
+2961,Amphidinium carterae
+3039,Euglena gracilis
+3046,Dunaliella salina
+3047,Dunaliella tertiolecta
+3049,Polytomella
+3055,Chlamydomonas reinhardtii
+3076,Chlorella sorokiniana
+3133,Codium fragile
+3197,Marchantia polymorpha
+3218,Physcomitrium patens
+3329,Picea abies
+3505,Betula pendula
+3561,Spinacia oleracea
+3562,Spinacia oleracea
+3635,Gossypium hirsutum
+3701,Arabidopsis thaliana
+3702,Arabidopsis thaliana
+3712,Brassica oleracea
+3715,Brassica oleracea var. botrytis
+3728,Sinapis alba
+3750,Malus domestica
+3801,Bacteriophage sp.
+3818,Arachis hypogaea
+3823,Canavalia ensiformis
+3847,Glycine max
+3880,Medicago truncatula
+3885,Phaseolus vulgaris
+3888,Pisum sativum
+3906,Vicia faba
+3916,Vigna radiata var. radiata
+4006,Linum usitatissimum
+4081,Solanum lycopersicum
+4097,Nicotiana tabacum
+4100,Nicotiana benthamiana
+4120,
+4362,Dionaea muscipula
+4442,
+4498,Avena sativa
+4513,Hordeum vulgare
+4527,synthetic construct
+4530,
+4555,Setaria italica
+4564,Canis lupus familiaris
+4565,
+4568,Triticum monococcum
+4569,
+4577,Zea mays
+4615,Ananas comosus
+4621,Thaumatococcus daniellii
+4679,Allium cepa
+4787,Phytophthora infestans
+4892,Saccharomycetales
+4896,Schizosaccharomyces pombe
+4903,Cyberlindnera jadinii
+4909,Pichia kudriavzevii
+4911,Kluyveromyces marxianus
+4921,Pichia norvegensis
+4922,Komagataella pastoris
+4930,Saccharomyces
+4931,Saccharomyces cerevisiae
+4932,Saccharomyces cerevisiae
+4934,Lachancea kluyveri
+4952,Yarrowia lipolytica
+5037,
+5061,Aspergillus niger
+5067,Aspergillus parasiticus
+5073,Penicillium
+5076,Penicillium chrysogenum
+5141,Neurospora crassa
+5145,Podospora anserina
+5207,Cryptococcus neoformans
+5270,Ustilago maydis
+5286,Rhodosporidium toruloides
+5322,Pleurotus ostreatus
+5476,Candida albicans
+5478,
+5480,Candida parapsilosis
+5518,Fusarium graminearum
+5541,
+5580,
+5599,Alternaria alternata
+5656,Crithidia fasciculata
+5661,Leishmania donovani
+5664,Leishmania major
+5665,Leishmania tarentolae
+5671,Leishmania infantum
+5689,Leishmania tarentolae
+5691,Trypanosoma brucei
+5693,Trypanosoma cruzi
+5702,Trypanosoma brucei brucei
+5722,Trichomonas vaginalis
+5741,
+5755,Jyvaskylavirus
+5762,Homo sapiens
+5801,Homo sapiens
+5807,Cryptosporidium parvum
+5811,Toxoplasma gondii
+5821,Sus scrofa
+5833,
+5843,
+5855,Plasmodium vivax
+5888,Paramecium tetraurelia
+5890,Tetrahymena
+5911,Tetrahymena thermophila
+6035,Encephalitozoon cuniculi
+6039,Vairimorpha necatrix
+6100,
+6108,Anemonia sulcata
+6123,Stichodactyla helianthus
+6136,Renilla reniformis
+6182,Drosophila melanogaster
+6183,Schistosoma mansoni
+6237,Caenorhabditis
+6239,Caenorhabditis elegans
+6289,Haemonchus contortus
+6359,Platynereis dumerilii
+6376,Alvinella pompejana
+6396,
+6398,Lumbricus terrestris
+6492,Homo sapiens
+6494,Homo sapiens
+6500,Aplysia californica
+6526,Biomphalaria glabrata
+6637,Todarodes pacificus
+6661,Artemia franciscana
+6850,Limulus polyphemus
+6858,Periplaneta americana
+6884,
+6906,
+6925,Latrodectus tredecimguttatus
+6938,Rhipicephalus appendiculatus
+6945,Homo sapiens
+6978,
+7029,Acyrthosiphon pisum
+7049,Oryctolagus cuniculus
+7054,Homo sapiens
+7067,Zophobas morio densovirus
+7070,Tribolium castaneum
+7091,Bombyx mori
+7102,Heliothis virescens
+7106,
+7107,Homo sapiens
+7108,
+7111,
+7113,Helicoverpa zea
+7130,Manduca sexta
+7137,Galleria mellonella
+7159,Aedes aegypti
+7160,Aedes albopictus
+7165,Anopheles gambiae
+7167,Homo sapiens
+7200,Homo sapiens
+7207,Tabanus atratus
+7215,Drosophila
+7227,Drosophila melanogaster
+7230,Drosophila mojavensis
+7370,Musca domestica
+7460,Apis mellifera
+7461,Apis cerana
+7668,Strongylocentrotus purpuratus
+7719,Ciona intestinalis
+7740,
+7741,Branchiostoma belcheri
+7757,Saccharomyces cerevisiae
+7787,Tetronarce californica
+7788,Torpedo marmorata
+7797,Squalus acanthias
+7938,Anguilla rostrata
+7955,Danio rerio
+8005,Electrophorus electricus
+8022,Oncorhynchus mykiss
+8025,Oncorhynchus sp.
+8030,Homo sapiens
+8090,Oryzias latipes
+8187,Lates calcarifer
+8236,Thunnus albacares
+8333,Escherichia coli K-12
+8342,Anura
+8353,Xenopus
+8354,Homo sapiens
+8355,
+8364,
+8392,Homo sapiens
+8400,Lithobates catesbeianus
+8496,Alligator mississippiensis
+8554,Homo sapiens
+8616,Bungarus multicinctus
+8618,Homo sapiens
+8620,Homo sapiens
+8631,Laticauda semifasciata
+8649,Homo sapiens
+8717,Homo sapiens
+8839,
+9030,
+9031,
+9096,
+9103,
+9157,Parus major
+9163,Pitta sordida
+9310,Potorous tridactylus
+9483,Callithrix jacchus
+9527,Cercopithecidae
+9534,Chlorocebus aethiops
+9539,
+9541,Macaca fascicularis
+9544,Macaca mulatta
+9546,Human immunodeficiency virus 1
+9598,
+9605,Homo
+9606,Homo sapiens
+9612,
+9615,
+9616,
+9627,Severe acute respiratory syndrome coronavirus 2
+9646,Ailuropoda melanoleuca
+9669,Mustela putorius furo
+9683,
+9685,Felis catus
+9739,Tursiops truncatus
+9796,Equus caballus
+9822,Sus
+9823,Sus scrofa
+9825,
+9833,Severe acute respiratory syndrome coronavirus 2
+9835,Camelidae
+9836,Camelus
+9837,
+9838,
+9839,Lama
+9844,
+9874,Odocoileus virginianus
+9880,Odocoileus virginianus texanus
+9901,Bison bison
+9913,
+9915,Bos indicus
+9925,Capra hircus
+9940,Ovis aries
+9984,Canis lupus familiaris
+9986,Oryctolagus cuniculus
+10016,
+10029,
+10034,Rattus norvegicus
+10036,
+10047,Meriones unguiculatus
+10060,Hepatitis B virus
+10066,Muridae
+10069,
+10088,
+10090,Mus musculus
+10095,
+10096,Mus spretus
+10103,Mus spicilegus
+10114,Rattus
+10116,Rattus norvegicus
+10117,
+10118,Rattus sp.
+10141,
+10160,Homo sapiens
+10181,Heterocephalus glaber
+10228,Trichoplax adhaerens
+10239,Viruses
+10243,Cowpox virus
+10244,
+10245,
+10249,
+10253,Vaccinia virus
+10254,Vaccinia virus WR
+10258,Orf virus
+10259,Orf virus strain NZ2
+10292,Herpesviridae
+10298,
+10299,
+10304,
+10306,Human alphaherpesvirus 1 strain KOS
+10310,
+10313,
+10314,Human herpesvirus 2 strain G
+10315,Mus musculus
+10320,bovine alphaherpesvirus 1
+10325,
+10335,Human alphaherpesvirus 3
+10345,Suid alphaherpesvirus 1
+10346,Suid herpesvirus 1 strain Becker
+10358,Cytomegalovirus
+10359,Human betaherpesvirus 5
+10360,Human herpesvirus 5 strain AD169
+10363,Human cytomegalovirus strain Towne
+10366,
+10367,Murine cytomegalovirus strain Smith
+10376,
+10377,
+10407,
+10409,Hepatitis B virus genotype C subtype adr strain Japan/adr4/1983
+10419,
+10432,Woodchuck hepatitis virus 7
+10497,African swine fever virus
+10498,African swine fever virus BA71V
+10499,African swine fever virus LIS57
+10506,Paramecium bursaria Chlorella virus 1
+10507,Chiloscyllium plagiosum
+10510,Bovine adenovirus 3
+10514,Canine adenovirus 2
+10515,
+10519,Human adenovirus B serotype 7
+10524,Human adenovirus 41
+10527,
+10530,Murine norovirus 1
+10534,Human adenovirus 6
+10535,
+10541,
+10559,
+10566,Human papillomavirus
+10571,Bovine papillomavirus
+10580,
+10585,Human papillomavirus type 31
+10586,Human papillomavirus type 33
+10593,
+10598,Human papillomavirus type 58
+10618,Human papillomavirus type 52
+10629,BK polyomavirus
+10632,
+10633,Simian virus 40
+10636,
+10658,Enterobacteria phage PRD1
+10661,
+10665,
+10666,
+10677,Enterobacteria phage Mu
+10678,Escherichia phage P1
+10679,Enterobacteria phage P4
+10680,Enterobacteria phage P4
+10682,
+10683,Bacillus phage PBS1
+10685,Bacillus phage SP01
+10708,Pseudomonas aeruginosa strain UCBPP-PA14
+10710,
+10711,Enterobacteria phage P21
+10719,Lomovskayavirus C31
+10724,Bacillus phage SPP1
+10725,Bacillus phage SPR
+10726,Escherichia phage T5
+10730,
+10736,Bacillus phage phi3T
+10742,Escherichia coli strain K12
+10743,Phage 21
+10752,
+10754,Enterobacteria phage P22
+10756,Bacillus phage phi29
+10759,Enterobacteria phage T3
+10760,
+10761,Shigella phage Sf6
+10773,
+10780,Parvoviridae
+10781,Parvovirus
+10786,
+10788,
+10792,Mink enteritis virus
+10794,Minute virus of mice
+10798,Human parvovirus B19
+10799,H-1 parvovirus
+10804,
+10823,Maize streak virus genotype A isolate Nigeria
+10841,Microviridae
+10847,Enterobacteria phage phiX174
+10855,Spiromicrovirus SpV4
+10863,Enterobacteria phage f1
+10864,Enterobacteria phage fd
+10867,
+10870,synthetic construct
+10879,
+10884,Mammalian orthoreovirus 3 Dearing
+10886,Mammalian orthoreovirus 3 Dearing
+10891,Reovirus sp.
+10893,Broadhaven virus
+10905,Bluetongue virus serotype 1 / isolate South Africa
+10912,Rotavirus
+10923,Simian rotavirus A/SA11
+10927,Bovine rotavirus
+10934,
+10979,
+10981,
+10991,Rice dwarf virus
+10995,Infectious bursal disease virus
+11002,Infectious pancreatic necrosis virus
+11008,Saccharomyces cerevisiae virus L-A
+11019,
+11020,
+11021,Eastern equine encephalitis virus
+11029,Ross River virus
+11032,
+11033,
+11034,Sindbis virus
+11036,Venezuelan equine encephalitis virus
+11037,
+11039,
+11041,Rubella virus
+11043,Rubella virus strain M33
+11053,Dengue virus 1
+11060,
+11065,Dengue virus 2 Thailand/NGS-C/1944
+11069,
+11070,dengue virus type 4
+11072,Japanese encephalitis virus
+11077,Kunjin virus
+11078,Kunjin virus STRAIN MRM61C
+11079,Binjari virus
+11082,
+11083,Powassan virus
+11084,Tick-borne encephalitis virus
+11085,Langat virus
+11087,
+11088,Tick-borne encephalitis virus
+11089,Yellow fever virus
+11090,
+11096,
+11102,Hepacivirus
+11103,
+11104,Oryctolagus cuniculus
+11118,Coronaviridae
+11120,Infectious bronchitis virus
+11135,Feline infectious peritonitis virus
+11137,
+11138,Murine hepatitis virus
+11142,
+11161,Mumps virus
+11168,
+11176,Newcastle disease virus
+11191,Murine respirovirus
+11207,Parainfluenza virus 5
+11208,Simian virus 5 strain W3
+11216,Human respirovirus 3
+11217,Homo sapiens
+11232,Canine morbillivirus
+11234,Measles virus
+11250,
+11259,
+11260,Human respiratory syncytial virus A strain Long
+11269,
+11276,
+11277,Vesicular stomatitis Indiana virus
+11279,Vesicular stomatitis Indiana virus strain Mudd-Summers
+11285,Vesicular stomatitis Indiana virus strain San Juan
+11292,
+11300,Rabies virus strain SAD B19
+11309,unidentified influenza virus
+11318,Dhori thogotovirus
+11320,
+11520,
+11552,Canis lupus
+11569,Thogotovirus thogotoense
+11577,
+11588,Rift Valley fever virus
+11589,Rift valley fever virus STRAIN ZH-548 M12
+11598,
+11599,Hantaan virus
+11602,Hantaan virus 76-118
+11606,
+11618,Arenavirus
+11620,Lassa mammarenavirus
+11622,Lassa virus Josiah
+11623,
+11624,Lymphocytic choriomeningitis virus strain Armstrong
+11628,Machupo mammarenavirus
+11640,Spumavirus
+11642,Simian foamy virus
+11646,
+11661,Caprine arthritis encephalitis virus
+11665,Equine infectious anemia virus
+11670,
+11676,
+11678,
+11698,
+11706,
+11709,Human immunodeficiency virus 2
+11720,
+11723,Simian immunodeficiency virus
+11742,Visna lentivirus strain 1514
+11757,Mouse mammary tumor virus
+11786,
+11796,Mus musculus
+11801,Moloney murine leukemia virus
+11855,Mason-Pfizer monkey virus
+11864,Avian leukosis virus
+11886,Rous sarcoma virus
+11888,Rous sarcoma virus - Prague C
+11908,Human T-cell leukemia virus type I
+11963,Human spumaretrovirus
+11976,Rabbit hemorrhagic disease virus
+11978,Feline calicivirus
+11981,Feline calicivirus strain F9
+11983,Norwalk virus
+11986,Carnation mottle virus
+11988,Turnip crinkle virus
+12022,
+12023,Pseudomonas phage PP7
+12037,Barley yellow dwarf virus
+12043,Beet western yellows virus-FL1
+12045,Potato leafroll virus
+12059,Human enterovirus D68
+12062,
+12063,
+12065,Bovine enterovirus strain VG-5-27
+12066,
+12067,Human coxsackievirus A9 strain Griggs
+12068,Coxsackievirus A9
+12069,Mus musculus
+12071,
+12072,
+12074,Coxsackievirus B5
+12078,
+12080,
+12081,
+12082,Homo sapiens
+12083,Poliovirus 2
+12086,Human poliovirus 3
+12089,Coxsackievirus A24
+12092,Hepatitis A virus
+12098,Human hepatitis A virus Hu/Australia/HM175/1976
+12104,
+12107,Escherichia coli
+12110,
+12111,Foot-and-mouth disease virus A
+12112,Foot-and-mouth disease virus strain A10-61
+12118,
+12130,rhinovirus A2
+12131,
+12136,
+12138,Maize chlorotic mottle virus
+12143,Cucumber necrosis virus
+12183,Potato virus X
+12209,Pepper mottle virus
+12211,Plum pox virus
+12215,Potato virus A
+12216,Potato virus Y
+12225,
+12227,Tobacco etch virus
+12230,Turnip mosaic virus
+12235,Cucumber green mottle mosaic virus
+12242,Tobacco mosaic virus
+12243,
+12246,Tobacco mosaic virus strain Dahlemense
+12264,Cowpea mosaic virus
+12267,Red clover necrotic mosaic virus
+12271,
+12274,Grapevine fanleaf virus
+12287,Flock House virus
+12302,Brome mosaic virus
+12303,Cowpea chlorotic mottle virus
+12305,
+12323,Alfalfa mosaic virus strain 425 / isolate Madison
+12327,
+12420,Filamentous phage
+12445,Satellite tobacco necrosis virus 1
+12455,Borna disease virus
+12456,
+12461,Hepatitis E virus
+12475,Hepatitis delta virus
+12530,
+12541,Nudaurelia capensis omega virus
+12637,
+12643,Ectromelia virus strain Moscow
+12663,Feline coronavirus
+12702,Human astrovirus
+12721,
+12814,
+12844,Ipomoea batatas
+12908,unclassified sequences
+13158,human
+13221,Chrysotila carterae
+13773,Pyrobaculum aerophilum
+14605,Listeria monocytogenes 10403S
+15368,Brachypodium distachyon
+25618,Mycobacterium tuberculosis
+28049,Acidothermus cellulolyticus
+28087,Legionella sainthelensi
+28126,Segatella buccae
+28173,Vibrio nigripulchritudo
+28197,Arcobacter butzleri
+28221,Deltaproteobacteria
+28227,Malacoplasma penetrans
+28232,
+28275,Human adenovirus D10
+28285,Human adenovirus 5
+28292,Homo sapiens
+28295,Porcine epidemic diarrhea virus
+28314,Aleutian mink disease virus
+28360,Phage M13mp18
+28384,other sequences
+28450,Burkholderia pseudomallei
+28565,Thermomyces dupontii
+28875,Rotavirus A
+28876,Rotavirus B
+28901,Salmonella enterica
+28985,Kluyveromyces lactis
+29003,Cercospora nicotianae
+29017,
+29022,Scutigera coleoptrata
+29078,Eptesicus fuscus
+29176,Neospora caninum
+29205,Stephanocyclus meneghinianus
+29255,Giardia lamblia virus
+29256,
+29292,
+29322,
+29323,Thermoanaerobacter brockii
+29339,Bacillus thuringiensis serovar kurstaki
+29358,Paraclostridium ghonii
+29388,Staphylococcus capitis
+29438,Pseudomonas savastanoi
+29466,Veillonella parvula
+29471,Pectobacterium atrosepticum
+29482,Salmonella enterica subsp. enterica serovar Abony
+29487,Escherichia coli K-12
+29488,Photorhabdus luminescens
+29910,Homo sapiens
+29932,
+30521,Mycobacterium tuberculosis
+30522,Bos indicus x Bos taurus
+30538,Vicugna pacos
+30645,Ctenomyidae
+31033,
+31276,Perkinsus marinus
+31285,Trypanosoma brucei gambiense
+31330,
+31535,Pseudomonas phage D3
+31552,Human papillomavirus type 6
+31631,Human coronavirus OC43
+31634,Dengue virus 2 Thailand/16681/84
+31638,
+31646,Oryctolagus cuniculus
+31704,
+31742,Johnsongrass mosaic virus
+31767,Homo sapiens
+31915,Human enterovirus 70 strain J670/71
+31958,Amycolatopsis orientalis
+32008,Bacillus anthracis
+32025,Helicobacter hepaticus
+32042,Pseudomonas stutzeri ATCC 14405 CCUG 16156
+32046,
+32049,Synechococcus sp. PCC 7002
+32053,Thermosynechococcus vulcanus
+32281,Drosophila
+32360,synthetic construct
+32600,synthetic construct
+32630,
+32644,
+33049,Rhodobacter veldkampii
+33059,Acidithiobacillus caldus
+33070,Thermostichus lividus
+33072,Gloeobacter violaceus
+33178,Aspergillus terreus
+33656,Phaeocystis
+33657,Phaeocystis antarctica
+33703,Suid herpesvirus 1 strain Kaplan
+33708,Murid gammaherpesvirus 4
+33727,
+33728,Lake Victoria marburgvirus - Popp
+33734,
+33747,Homo sapiens
+33892,Mycobacterium tuberculosis variant bovis BCG
+33910,Amycolatopsis mediterranei
+33940,Geobacillus thermodenitrificans
+33952,Acetobacterium woodii
+34073,Variovorax paradoxus
+34078,Scytonema hofmannii
+34081,Stanieria sp.
+34085,Riemerella anatipestifer
+34087,Sphingobacterium faecium
+34305,Lotus japonicus
+34373,Blumeria graminis
+34573,Nautilus pompilius
+34631,
+34880,Nyctereutes procyonoides
+35128,
+35241,Lactococcus phage Tuc2009
+35268,Retro-transcribing viruses
+35269,Woodchuck hepatitis virus
+35286,Bamboo mosaic virus
+35292,
+35293,
+35304,Bunyamwera virus
+35323,
+35327,Bluetongue virus 1
+35339,LuIII virus
+35345,Lactococcus phage TP901-1
+35554,
+35631,
+35688,Porphyridium purpureum
+35689,Griffithsia pacifica
+35722,Parasitella parasitica
+35799,Nitrosospira briensis
+35936,Lablab purpureus
+36095,Haliotis diversicolor
+36176,Chlorella virus
+36329,Plasmodium falciparum 3D7
+36345,Human alphaherpesvirus 1 strain R-15
+36351,Human herpesvirus 6 strain Z29
+36363,Homo sapiens
+36374,
+36415,Tomato spotted wilt virus strain Bulgarian L3
+36421,
+36436,Simian rotavirus A/SA11-4F
+36470,Streptococcus pyogenes
+36630,Aspergillus fischeri
+36646,
+36809,Mycobacteroides abscessus
+36826,Clostridium botulinum A
+37099,Isochrysis galbana
+37115,Human papillomavirus type 59
+37124,
+37133,
+37296,
+37487,Marichromatium purpuratum
+37501,Maackia amurensis
+37502,Polytomella sp. Pringsheim 198.80
+37554,
+37653,Octopus bimaculoides
+37762,Escherichia coli B
+37930,Glutamicibacter protophormiae
+37961,Atkinsonella hypoxylon
+37998,Parengyodontium album
+38018,
+38170,Avian orthoreovirus
+38251,Goose parvovirus
+38300,Homo sapiens
+38323,Bartonella henselae
+38407,Diguetia canities
+38415,Homo sapiens
+38785,Arabidopsis thaliana
+38868,Salvia officinalis
+39054,
+39152,Methanococcus maripaludis
+39367,Salvia rosmarinus
+39491,Eubacterium rectale
+39723,
+39803,Enterobacteria phage Qbeta
+39946,
+39947,
+40051,
+40263,
+40324,Stenotrophomonas maltophilia
+40353,
+40477,Mycoplasma mycoides subsp. capri str. GM12
+40523,Listeria virus A511
+40542,Leptotrichia buccalis
+40602,Claviceps fusiformis
+40674,Mammalia
+41459,Nicotiana tabacum
+41834,
+41846,
+41870,
+42005,Porcine hemagglutinating encephalomyelitis virus
+42094,Ureaplasma diversum
+42384,Hyphochytrium catenoides
+42478,
+42566,Halomonas eurihalina
+42752,Conus marmoreus
+42769,Coxsackievirus A10
+42787,
+42789,
+42858,Staphylococcus lentus
+42906,Serratia entomophila
+43080,
+43179,Ictidomys tridecemlineatus
+43338,
+43657,Pseudoalteromonas luteoviolacea
+43687,Metallosphaera sedula
+43696,Chara corallina
+44001,Caldicellulosiruptor saccharolyticus
+44560,Ageratum yellow vein virus
+44576,Nitrosomonas halophila
+44685,Panax japonicus
+44689,
+45031,Bluetongue virus 23
+45202,Saccharomyces cerevisiae strain ATCC 204508 / S288c
+45237,
+45351,Nematostella vectensis
+45384,Porichthys notatus
+45441,Enterobacteria phage L
+45455,Mus musculus
+45610,Psychrobacter urativorans
+45617,Human endogenous retrovirus K
+45647,
+45655,Desulfonema magnum
+45657,Desulfonema ishimotonii
+45659,
+45667,Halobacillus
+46015,Autographa californica nucleopolyhedrovirus
+46018,
+46221,Porcine circovirus
+46350,Adeno-associated virus - 3
+46633,Echovirus E1
+46758,Lobophyllia hemprichii
+46928,Human adenovirus 26
+47000,
+47470,Streptococcus pneumoniae G54
+47506,Echovirus E18
+47516,
+47664,
+47678,Bacteroides caccae
+47741,Atkinsonella hypoxylon virus
+47763,Streptomyces lydicus
+47929,macacine betaherpesvirus 3
+48221,Carnobacterium sp. AT7
+48465,
+48466,Prosthecobacter dejongeii
+48498,Orbicella faveolata
+48849,Passer domesticus
+49899,Thermococcus profundus
+49928,Bacteria
+51313,Helicoverpa armigera nucleopolyhedrovirus
+51453,
+51669,Tetragenococcus halophilus
+52133,
+52276,Snow Mountain virus
+52970,Rhodomonas salina
+53246,DNA molecule
+53326,Ancylostoma ceylanicum
+53344,Staphylococcus delphini
+53369,
+53953,Pyrococcus horikoshii
+54256,Pyrodictium abyssi
+54299,Chroococcidiopsis thermalis PCC 7203
+54571,Streptomyces venezuelae
+54914,Brevibacillus parabrevis
+55084,Pandinus imperator
+55205,Caldicellulosiruptor owensensis
+55429,Megathura crenulata
+55510,Staphylococcus virus Twort
+55529,Guillardia theta
+55544,synthetic construct
+55729,
+56615,Puccinia graminis f. sp. tritici
+56636,Aeropyrum pernix
+56688,Halorubrum pleomorphic virus 6
+56689,Mycolicibacterium mucogenicum
+57266,
+57267,Plasmodium falciparum Dd2
+57486,Mus musculus molossinus
+57579,Adeno-associated virus
+57667,Simian-Human immunodeficiency virus
+58023,Tracheophyta
+58290,Archaeoglobus veneficus
+58535,Deer tick virus
+58839,Encephalitozoon intestinalis
+59204,Salmonella enterica subsp. diarizonae
+59264,Homo sapiens
+59284,
+59300,Getah virus
+59301,Mayaro virus
+59375,
+59463,Myotis lucifugus
+59473,
+59474,
+59477,unclassified Coronavirinae
+59527,Beatragus hunteri
+59729,Taeniopygia guttata
+59732,Chryseobacterium
+59823,synthetic construct
+59894,Ficedula albicollis
+59919,
+60172,Penicillium solitum
+60710,Chlorocebus pygerythrus
+60711,Chlorocebus sabaeus
+60742,
+61742,Sepioloidea lineolata
+61853,
+62977,Acinetobacter baylyi ADP1
+63330,Hendra henipavirus
+63363,Aquifex aeolicus
+63627,Trichonympha
+63628,Trichonympha agilis
+64091,Halobacterium salinarum NRC-1
+64152,Channa striata
+64187,
+64286,Usutu virus
+64318,Spondweni virus
+64320,
+64422,Komagataella phaffii
+64895,Borrelia burgdorferi group
+65093,Halothece sp. PCC 7418
+65672,Serendipita indica
+65743,
+66797,Spbetavirus SPbeta
+67263,Streptomyces griseus subsp. griseus
+67305,
+67351,
+67478,Trichonympha sp.
+67593,
+67723,
+68212,Streptomyces graminofaciens
+68725,Canis mesomelas
+68742,Adeno-associated virus 3B
+68872,Arabidopsis thaliana
+68876,
+69014,Thermococcus kodakarensis KOD1
+69328,Pseudomonas sp. VLB120
+70146,Measles virus strain Edmonston-B
+70347,Acinetobacter genomosp. 16BJ
+70448,Ostreococcus tauri
+70601,
+70733,Tick-borne encephalitis virus strain HYPR
+70791,Nectria haematococca strain 77-13-4 / ATCC MYA-4622 / FGSC 9596 / MPVI
+70863,
+71421,Haemophilus influenzae Rd KW20
+71910,Pleurocybella porrigens
+72149,Aichi virus 1
+72407,Klebsiella pneumoniae subsp. pneumoniae
+72859,Rhipicephalus pulchellus
+73141,Thiocystis violascens
+74109,Photobacterium profundum
+74201,
+74308,Niallia circulans subsp. circulans
+74570,Rhodopseudomonas palustris ATCC 17001
+74724,Canine calicivirus
+75800,Coelastrella
+75869,Western equine encephalitis virus
+76759,Pseudomonas monteilii
+77009,Hordeum vulgare subsp. spontaneum
+77133,gut metagenome
+77763,Banna virus
+77856,Beak and feather disease virus
+77920,
+78057,Paenibacillus popilliae
+78245,Escherichia coli
+78331,
+78447,Corallina pilulifera
+78579,Thermothelomyces thermophilus
+79880,Alkalihalobacillus clausii
+79885,
+79929,Methanothermobacter marburgensis str. Marburg
+80816,
+80880,Hylemonella gracilis
+81032,Hyphomonas neptunium
+81077,Homo sapiens
+81408,Actinomadura oligospora ATCC 43269
+81985,Capsella rubella
+82300,
+82541,Cupriavidus gilardii
+82830,
+82981,Leminorella grimontii
+83332,Mycobacterium tuberculosis H37Rv
+83333,Escherichia coli K-12
+83334,Escherichia coli O157:H7
+83401,Roseospirillum parvum
+83404,Azoarcus sp. HxN1
+83558,Chlamydia pneumoniae
+84112,Eggerthella lenta
+84159,Magnetospirillum magneticum
+85057,Trypanosoma cruzi strain CL Brener
+85106,Adeno-associated virus - 1
+85454,Alternanthera mosaic virus
+85549,Artemia salina
+85698,Achromobacter xylosoxidans
+85708,Porcine circovirus 2
+85962,Helicobacter pylori 26695
+85963,Helicobacter pylori
+86061,
+86107,
+86332,Mogibacterium pumilum
+86473,uncultured Gammaproteobacteria bacterium
+86521,Homo sapiens
+86600,
+86665,Halalkalibacterium halodurans
+86668,Neobacillus niacini
+88058,Treponema primitia
+88059,Human adenovirus 19a
+88431,Dorea longicatena
+88776,
+89248,
+89463,Sacbrood virus
+90370,Salmonella enterica subsp. enterica serovar Typhi
+90371,Salmonella enterica subsp. enterica serovar Typhimurium
+91464,Synechococcus sp. PCC 7335
+91891,Legionella pneumophila subsp. pneumophila
+92637,Metarhizium acridum
+92835,Microbacterium ketosireducens
+92907,Cirsium vulgare
+93061,
+93062,
+93678,
+93929,Thermotoga petrophila
+94122,Shewanella sp. ANA-3
+94694,Desulfurococcus amylolyticus
+94770,Ranoidea citropa
+94956,Sarbecovirus
+95341,
+95486,Burkholderia cenocepacia
+96584,Pseudoplectania nigrella
+96773,Thauera chlorobenzoica
+97265,Cyclostomatida
+97469,Alphavirus M1
+97477,Acetomicrobium mobile
+98360,Salmonella dublin
+98439,Fischerella thermalis PCC 7521
+99287,
+99565,Homo sapiens
+100226,Streptomyces coelicolor A3 2
+100641,Lactococcus lactis phage p2
+100673,Influenza C virus C/Johannesburg/1/66
+101116,
+101688,Apple latent spherical virus
+102617,Helicobacter pylori SS1
+102793,
+102862,Proteus penneri
+103442,
+103690,
+103903,Coxsackievirus B3 strain Nancy
+103905,Coxsackievirus B4 strain E2
+103929,Homo sapiens
+103944,Protobothrops mucrosquamatus
+104259,Penicillium brasilianum
+104954,Uperoleia mjobergii
+105231,Klebsormidium nitens
+105295,
+106516,Human Norovirus GII.3 TCH04-577
+107709,Opitutus terrae
+107710,Escherichia coli strain K12
+109376,Arabidopsis thaliana
+109757,Mesocricetus auratus
+109760,synthetic construct
+110195,Sus scrofa
+110321,Sinorhizobium medicae
+110456,
+110829,
+111792,
+112229,Pepino mosaic virus
+114525,Saccharomyces mikatae
+114727,
+114729,Homo sapiens
+115547,
+115991,Homo sapiens
+115992,
+116057,Ranoidea raniformis
+118562,
+119072,Caldanaerobacter subterraneus subsp. tengcongensis
+119210,
+119219,Homo sapiens
+119856,Francisella tularensis subsp. tularensis
+120086,
+120961,Roseiflexus
+120962,Roseiflexus castenholzii
+121224,Pediculus humanus corporis
+121277,Pyrobaculum arsenaticum
+121791,
+121794,Human rotavirus B strain CAL-1
+122280,Potato virus Y strain NTN
+122586,Neisseria meningitidis MC58
+122960,Alicyclobacillus herbarius
+126787,Bacillus sp. DSM 5850
+126793,Plasmodium vivax
+126796,Thogoto virus isolate SiAr 126
+127906,
+128780,Stenotrophomonas acidaminiphila
+128947,Homo sapiens
+128951,
+128952,"Ebola virus - Mayinga, Zaire, 1976"
+128987,Grass carp reovirus
+129000,"Ebola virus - Eckron Zaire, 1976"
+129862,
+129951,Human mastadenovirus C
+129958,Carboxydothermus hydrogenoformans
+130081,Galdieria sulphuraria
+130663,Fowl aviadenovirus 4
+130704,Bombus ignitus
+134047,Salmonella enterica subsp. enterica serovar Bredeney
+134375,Achromobacter sp.
+136187,Equine coronavirus
+137071,Plasmodium falciparum HB3
+137992,
+138119,Desulfitobacterium hafniense Y51
+138408,Helenium autumnale
+138950,
+139025,
+139438,Geovibrio thiophilus
+141305,Fittonia albivenis
+141949,Thermomonas haemolytica
+142102,Saccharomyces cerevisiae
+142786,Norovirus
+142805,Rice dwarf virus isolate O
+143221,
+143775,Populus tremula x Populus tremuloides
+145259,Leptospira biflexa serovar Patoc
+145262,Methanothermobacter thermautotrophicus
+145263,Methanothermobacter marburgensis
+145522,Nannochloropsis oceanica
+145856,Human picobirnavirus
+146500,Watermelon mosaic virus
+146537,Streptomyces azureus
+146724,Terebralia palustris
+146786,
+146817,Dendrosporobacter quercicolus
+146920,Acidianus tengchongensis
+147711,Rhinovirus A
+147714,Human rhinovirus B5
+148814,Apilactobacillus kunkeei
+150248,Anoxybacillus pushchinoensis
+151458,HIV-1 vector pNL4-3
+153964,Arthrospira platensis
+154784,Acinetobacter phage AP205
+155864,Escherichia phage Lambda
+155892,Caulobacter vibrioides
+155978,
+156454,Anaeroglobus
+157691,Leptotrichia shahii
+157791,Vigna radiata
+157899,Sulfolobus islandicus rod-shaped virus 2
+158372,Penicillium chrysogenum virus
+158836,Enterobacter hormaechei
+158877,
+158879,Staphylococcus aureus subsp. aureus N315
+160233,Ignicoccus hospitalis
+160488,Pseudomonas putida KT2440
+160490,Streptococcus pyogenes M1 GAS
+161675,Tamana bat virus
+161997,
+162145,
+164756,Helicobacter pylori
+165179,Segatella copri
+165432,Cucumber leaf spot virus
+166314,Synechococcus sp. WH 8109
+167375,Cyanobium
+168807,Escherichia coli O127:H6
+169683,
+169963,
+170187,Streptococcus pneumoniae TIGR4
+171101,
+171549,Bacteroidales bacterium
+172049,Thermococcus sibiricus
+172314,Ljungan virus
+172827,Meiothermus taiwanensis
+173492,Prasiola crispa
+173977,Chroomonas placoidea
+174633,Candidatus Kuenenia stuttgartiensis
+176106,Sulfolobus islandicus filamentous virus
+176279,Staphylococcus epidermidis RP62A
+176299,
+176652,
+176853,Crepidula fornicata
+180281,Cyanobium sp. PCC 7001
+180434,Morganella morganii subsp. morganii
+181210,Emiliania huxleyi virus 201
+181486,Pyrobaculum calidifontis
+182710,Oceanobacillus iheyensis
+184592,Chaetoceros gracilis
+184922,
+185431,Trypanosoma brucei brucei TREU927
+185783,Golden shiner reovirus
+185880,
+185954,Mal de Rio Cuarto virus
+186458,Orthobornavirus
+186497,Pyrococcus furiosus DSM 3638
+186536,Ebola virus
+186538,Zaire ebolavirus
+186540,
+186765,Lambdavirus
+186794,Lederbergvirus
+186931,Thioalkalivibrio nitratireducens
+187420,Methanothermobacter thermautotrophicus str. Delta H
+187764,
+187878,Thermococcus gammatolerans
+188350,Pseudomonas virus PaP3
+188477,Elysia chlorotica
+188570,Rhinolophus lepidus
+188937,Methanosarcina acetivorans C2A
+189830,Snake adenovirus 1
+190063,Fowl aviadenovirus C
+190486,
+190650,Caulobacter vibrioides CB15
+192073,Shewanella denitrificans
+192773,Influenza A virus
+192944,unclassified Rhodococcus
+192952,Methanosarcina mazei Go1
+193556,
+194439,Chlorobaculum tepidum TLS
+194699,
+194966,Enterobacteria phage SP6
+195055,Human parechovirus 3
+196242,Bacteriophage phi c
+196296,Sarbecovirus
+196620,Staphylococcus aureus subsp. aureus MW2
+196627,Corynebacterium glutamicum ATCC 13032
+196889,Bat AAV SC2991
+197221,
+198110,Pseudomonas phage 201phi2-1
+198112,Deformed wing virus
+198251,Candidatus pelagibacter
+198312,Erythrobacter sanguineus
+198628,
+198730,Talaromyces verruculosus
+199310,
+200253,Deinococcus aerius
+202812,Adeno-associated virus - 7
+202813,
+203119,Acetivibrio thermocellus ATCC 27405
+203124,Trichodesmium erythraeum IMS101
+203682,Planctomycetes bacterium
+204038,Dickeya dadantii
+204090,Staphylococcus phage P68
+205488,Ebola virus sp.
+205868,Mycobacterium virus Che8
+205874,Mycobacterium phage Rosebush
+205895,Cypovirus
+207559,Helicobacter pylori
+207920,Homo sapiens
+208439,Amycolatopsis japonica
+208509,Dendrolimus punctatus cypovirus 1
+208726,Human hepatitis A virus
+208893,Human respiratory syncytial virus A
+208895,Mus musculus
+208963,Pseudomonas aeruginosa strain UCBPP-PA14
+208964,
+209285,
+210840,
+211044,Influenza A virus A/Puerto Rico/8/1934 H1N1
+211586,Shewanella oneidensis MR-1
+212017,Lethocerus indicus
+212035,Acanthamoeba polyphaga mimivirus
+212717,
+212767,Mycobacterium sp. JS623
+213387,
+213765,Arthrospira platensis FACHB-439
+215158,Salmonella phage epsilon15
+215580,Caldimonas thermodepolymerans
+215796,uncultured cyanophage
+216371,
+216591,Burkholderia cenocepacia J2315
+216592,
+216594,Mycobacterium marinum
+216597,
+216816,Bifidobacterium longum
+218491,Pectobacterium atrosepticum SCRI1043
+220341,
+220664,Pseudomonas protegens Pf-5
+220686,Bacillus subtilis subsp. subtilis str. 168
+222557,Macrobrachium rosenbergii nodavirus
+223283,Pseudomonas syringae pv. tomato str. DC3000
+223926,
+223935,Mus musculus
+223997,Murine norovirus 1
+224308,Bacillus subtilis subsp. subtilis str. 168
+224324,
+224325,
+224326,Borreliella burgdorferi B31
+225833,Artabotrys hexapetalus
+226185,
+226186,Bacteroides thetaiotaomicron VPI-5482
+227321,Aspergillus nidulans FGSC A4
+227859,
+227984,SARS coronavirus Tor2
+228330,SARS coronavirus Urbani
+228407,SARS coronavirus BJ01
+228410,Nitrosomonas europaea ATCC 19718
+229032,Porcine epidemic diarrhea virus CV777
+229920,Homo sapiens
+230089,Photorhabdus thracensis
+230603,
+230871,Streptococcus phage C1
+231513,Civet SARS CoV SZ3/2003
+232237,Xanthomonas virus Xp10
+232323,Hypsibius dujardini
+235221,Paranosema locustae
+235266,Acidianus filamentous virus 1
+235443,Cryptococcus neoformans var. grubii H99
+235455,Adeno-associated virus 9
+235457,
+235458,Adeno-associated virus 12
+237368,Candidatus Scalindua brodae
+237561,Candida albicans SC5314
+237631,Ustilago maydis strain 521 / FGSC 9021
+238817,Maporal virus
+240364,Chaetoceros neogracilis
+241631,Calicivirus isolate 2117
+242231,Neisseria gonorrhoeae FA 1090
+242619,
+243230,
+243231,
+243232,
+243233,Methylococcus capsulatus str. Bath
+243265,Photorhabdus laumondii subsp. laumondii TTO1
+243273,
+243274,
+243277,Vibrio cholerae O1 biovar El Tor str. N16961
+243517,Hasarius adansoni
+244319,Escherichia coli KTE73
+244589,Sulfolobus spindle-shaped virus 1
+246194,Carboxydothermus hydrogenoformans
+246196,Mycolicibacterium smegmatis MC2 155
+246197,Myxococcus xanthus DK 1622
+246878,Canine parvovirus 2
+247080,Ralstonia phage p12J
+248461,Ribosome display vector pRDV
+249024,Sarbecovirus
+251221,Gloeobacter violaceus PCC 7421
+251229,
+252602,Snake adeno-associated virus
+254252,
+256318,metagenome
+256737,Latrodectus hesperus
+256845,Verrucomicrobiota
+257310,Bordetella bronchiseptica RB50
+258594,Rhodopseudomonas palustris strain ATCC BAA-98 / CGA009
+260554,Bacillus halotolerans
+260964,Henipavirus
+261665,Enterobacteria phage PR772
+262014,Xenopus
+262698,Escherichia coli O157:H7
+262724,
+262968,Singapore grouper iridovirus
+263532,Possum enterovirus W6
+264199,Streptococcus thermophilus strain ATCC BAA-250 / LMG 18311
+264462,Bdellovibrio bacteriovorus HD100
+264730,
+265872,Homo sapiens
+265874,Ectromelia virus
+266264,Cupriavidus metallidurans CH34
+266835,Mesorhizobium loti MAFF303099
+267377,
+267748,Mycoplasma mobile 163K
+268748,Prochlorococcus phage P-SSP7
+269084,
+269145,
+269261,Nitratifractor salsuginis
+269446,Rous sarcoma virus strain Schmidt-Ruppin A
+269635,Homo sapiens
+269660,Methylobacterium brachiatum
+269796,
+269799,Geobacter metallireducens
+269800,Thermobifida fusca
+270338,Human poliovirus 3 strain Sabin
+271776,Malacoceros fuliginosus
+271848,Burkholderia thailandensis E264
+272131,Nostoc punctiforme
+272558,
+272559,Bacteroides fragilis NCTC 9343
+272562,Clostridium acetobutylicum ATCC 824
+272563,Clostridioides difficile 630
+272564,Desulfitobacterium hafniense DCB-2
+272567,Geobacillus stearothermophilus 10
+272569,Haloarcula marismortui ATCC 43049
+272620,Klebsiella pneumoniae 342
+272624,
+272626,
+272630,
+272634,
+272636,
+272844,Pyrococcus abyssi GE5
+272942,Rhodobacter capsulatus SB 1003
+272943,Cereibacter sphaeroides 2.4.1
+273036,Staphylococcus aureus strain bovine RF122 / ET3-1
+273057,Saccharolobus solfataricus P2
+273063,Sulfurisphaera tokodaii str. 7
+273075,Thermoplasma acidophilum strain ATCC 25905 / DSM 1728 / JCM 9062 / NBRC 15155 / AMRC-C165
+273119,Ureaplasma parvum serovar 3 strain ATCC 700970
+273133,Pseudomonas phage EL
+273913,Homo sapiens
+274590,Chikungunya virus strain S27-African prototype
+277944,Human coronavirus NL63
+277988,
+279238,
+279369,
+279692,Caenorhabditis elegans/Monacrosporium haptotylum mixed EST library
+279974,
+280463,Emiliania huxleyi CCMP1516
+280699,
+280700,
+281120,Candidatus Amoebophilus asiaticus
+282345,Enterovirus B75
+283676,Arabis mosaic virus isolate Syrah
+283824,Faba bean necrotic stunt virus
+284218,
+284590,
+284591,Yarrowia lipolytica strain CLIB 122 / E 150
+284812,
+284813,Encephalitozoon cuniculi GB-M1
+285006,
+285686,Teranympha mirabilis
+285945,Civet SARS CoV 007/2004
+286156,Escherichia coli K-12
+286706,Halyomorpha halys
+289365,Human parvovirus 4
+290028,Human coronavirus HKU1
+290633,Gluconobacter oxydans
+291112,
+291484,Hepatitis E virus
+292633,Dragon grouper nervous necrosis virus
+292800,Flavonifractor plautii
+293227,Cyphellophora europaea CBS 101466
+294365,Israeli acute paralysis virus
+294381,Entamoeba histolytica HM-1:IMSS
+295027,Human cytomegalovirus strain Merlin
+296210,
+296543,Thalassiosira pseudonana CCMP1335
+296745,Caldalkalibacillus thermarum
+297245,Legionella pneumophila str. Lens
+298386,Photobacterium profundum SS9
+299768,Streptococcus thermophilus
+300852,
+301246,Azotobacter vinelandii DJ
+301447,
+302272,Sendai virus strain Ohita
+302630,
+303371,Tribonema minus
+305406,
+306323,
+307456,Autographa californica multiple nucleopolyhedrovirus
+307796,
+307898,Staphylococcus phage 812
+308116,Dokdonia eikasta
+309800,Haloferax volcanii DS2
+311400,Thermococcus kodakarensis
+311553,Oryza sativa Indica Group x Oryza nivara
+312008,Citrus sudden death-associated virus
+312017,Tetrahymena thermophila SB210
+312027,SARS coronavirus WH20
+314538,Oryctolagus cuniculus
+315393,Mimivirus
+315953,Acidianus two-tailed virus
+316056,Rhodopseudomonas palustris BisB18
+316276,Thermochromatium tepidum ATCC 43061
+316284,Streptomyces noursei ATCC 11455
+316385,
+316401,Escherichia coli ETEC H10407
+316407,Escherichia coli strain K12
+318586,Paracoccus denitrificans PD1222
+319224,Shewanella putrefaciens CN-32
+320849,
+322159,Streptococcus phage D1811
+322710,Azotobacter vinelandii DJ
+323259,Methanospirillum hungatei JF-1
+324602,Chloroflexus aurantiacus J-10-fl
+324833,Streptomyces lasalocidi
+325651,Bryopsis corticulans
+326574,Haloarcula hispanica virus SH1
+326630,
+327255,Homo sapiens
+329109,Homo sapiens
+329639,Canine minute virus
+329641,
+329726,Acaryochloris marina MBIC11017
+329852,
+330779,Sulfolobus acidocaldarius DSM 639
+330879,Aspergillus fumigatus
+331111,Escherichia coli O139:H28 strain E24377A / ETEC
+331278,Yersinia phage phiR1-37
+331975,
+332186,Shewanella xiamenensis
+333278,Mus musculus
+333754,
+333760,
+333761,Homo sapiens
+333990,
+337041,Human papillomavirus 16
+337042,Alphapapillomavirus 7
+338101,Escherichia phage ID21
+340016,uncultured virus
+340921,
+341671,Avian adeno-associated virus
+341938,
+341980,
+342108,Magnetospirillum magneticum AMB-1
+342109,Xanthomonas oryzae pv. oryzae
+342409,White spot syndrome virus
+342613,Streptococcus agalactiae 18RS21
+342948,
+343517,Paenibacillus barengoltzii
+344022,
+345073,Vibrio cholerae O395
+345074,Lama glama
+346882,Acidianus filamentous virus 6
+347325,Pseudomonas phage 73
+347330,Pseudomonas phage PA7
+347515,Leishmania major strain Friedlin
+347834,Rhizobium etli CFN 42
+348604,Enterobacteria phage T4 sensu lato
+348842,Desulfovirgula thermocuniculi
+349124,
+349344,Homo sapiens
+351054,unclassified Rudivirus
+351073,Mammalian orthoreovirus
+351264,Influenza A virus A/Hong Kong/26/1983 H3N2
+351607,Acidothermus cellulolyticus 11B
+352520,
+353153,
+353565,Polytomella magna
+354242,Campylobacter jejuni
+354590,Rhodomonas lens
+357231,Murine norovirus
+358681,Brevibacillus brevis NBRC 100599
+359391,Brucella abortus 2308
+360094,
+360293,Leeuwenhoekiella blandensis
+362663,Escherichia coli 536
+362948,Ligilactobacillus salivarius UCC118
+363066,Homo sapiens
+363716,Nora virus
+364106,
+365048,Geobacillus phage GBSV1
+365609,Bovine parvovirus-1
+366501,Dictyostelium discoideum AX2
+367110,
+367737,Mus musculus
+367830,Staphylococcus aureus subsp. aureus USA300
+369643,Pepper cryptic virus 1
+370804,uncultured Prevotellaceae bacterium
+371094,Chikungunya virus strain S27-African prototype
+371095,Chikungunya virus strain Senegal 37997
+373045,
+373153,
+374598,Eastern equine encephalitis virus
+374990,Mayaro virus strain Brazil
+375939,Heligmosomoides bakeri
+376619,
+376620,Gluconobacter japonicus
+376686,Flavobacterium johnsoniae UW101
+376758,
+376876,Homo sapiens
+378809,"Ravn virus - Ravn, Kenya, 1987"
+378830,synthetic construct
+381124,Zea mays subsp. mays
+381512,Homo sapiens
+381518,Influenza A virus A/Wilson-Smith/1933 H1N1
+382781,Influenza A virus A/Singapore/1/1957 H2N2
+382835,Influenza A virus A/WSN/1933 H1N1
+383372,Roseiflexus castenholzii DSM 13941
+383379,Toxoplasma gondii RH
+384505,
+385620,Influenza A virus A/turkey/Wisconsin/1/1966 H9N2
+385640,Homo sapiens
+386033,Sudan ebolavirus
+386891,
+387139,Influenza A virus A/Aichi/2/1968 H3N2
+387161,Mus musculus
+387344,Levilactobacillus brevis ATCC 367
+388413,Algoriphagus machipongonensis
+390157,
+390333,
+391605,Pyrodictium abyssi DSM 6158
+392423,Hydrogenivirga sp. 128-5-R1-1
+392809,
+393133,Listera
+395355,uncultured Bdellovibrionales bacterium
+396334,Actinia fragacea
+396588,
+398580,Dinoroseobacter shibae DFL 12 DSM 16493
+398720,Leeuwenhoekiella blandensis MED217
+398812,TGEV virulent Purdue
+399394,
+399550,
+399742,Enterobacter sp. 638
+399795,Comamonas testosteroni KF-1
+400092,Pontibacter korlensis
+400667,Acinetobacter baumannii ATCC 17978
+400727,Pomacea canaliculata
+400788,Influenza A virus A/Indonesia/5/2005 H5N1
+401614,
+403191,Haloferax elongans
+404331,
+405532,Bacillus cereus B4264
+406340,Ralstonia solanacearum
+406552,Natrinema sp. J7-2
+406817,Xenorhabdus nematophila ATCC 19061
+407148,Campylobacter jejuni subsp. jejuni 81116
+408686,Dengue virus 4 Philippines/H241/1956
+408929,
+409438,
+410289,Mycobacterium tuberculosis variant bovis BCG str. Pasteur 1173P2
+410359,Pyrobaculum calidifontis JCM 11548
+411463,Eubacterium ventriosum ATCC 27560
+412133,Trichomonas vaginalis G3
+412384,Bacillus aryabhattai
+412963,
+414452,Cryptosporidium parvum Iowa
+416870,Lactococcus lactis subsp. cremoris MG1363
+418103,Plasmodium Plasmodium
+418240,Blautia wexlerae
+418699,Azoarcus olearius
+418908,Chrysotila roscoffensis
+419612,Camelus ferus
+419947,Mycobacterium tuberculosis H37Ra
+420246,
+421052,
+421072,Epilithonimonas lactis
+421628,Ectothiorhodospira haloalkaliphila ATCC 51935
+421750,Orange-spotted grouper nervous necrosis virus
+424718,Shigella flexneri 5a
+425563,synthetic construct
+426118,Saccharolobus islandicus M.16.4
+426430,
+428128,Eubacterium siraeum DSM 15702
+429344,Maribacter polysiphoniae
+430911,Penaeus vannamei nodavirus
+431944,Magnetospirillum gryphiswaldense MSR-1
+431947,Porphyromonas gingivalis ATCC 33277
+432528,
+433685,Takifugu rubripes
+436113,Mycoplasma mycoides subsp. capri
+436308,Nitrosopumilus maritimus SCM1
+438482,Synechococcus phage Syn5
+438506,Machilis hrabei
+441770,Clostridium botulinum A str. ATCC 19397
+441771,Clostridium botulinum A str. Hall
+443239,
+443240,Human coronavirus HKU1 isolate N2
+443241,
+443947,Xenopus laevis laevis
+444185,
+445336,Clostridium botulinum
+445683,Synechococcus phage S-ShM2
+446462,Actinosynnema mirum DSM 43827
+447135,
+451444,Xenopus calcaratus
+451751,Clostridium perfringens B
+451753,Clostridium perfringens
+451804,Aspergillus fumigatus
+452467,
+452471,Candidatus Amoebophilus asiaticus 5a2
+452646,
+452680,Pseudomonas sp. UK4
+453582,Rhodobacter aestuarii
+454377,Murine norovirus 6
+456327,Xanthomonas euvesicatoria
+456481,
+456827,synthetic construct
+456876,Streptococcus plurextorum
+458033,
+458132,Slow bee paralysis virus
+458682,Scylla serrata reovirus SZ-2007
+458696,Tripterygium wilfordii
+460519,
+461739,
+463676,Rhinovirus C
+463708,Murine norovirus GV
+463722,Murine norovirus GV/CR6/2005/USA
+464417,Influenza B virus B/Malaysia/2506/2004
+464623,
+466051,Thermus phage P2345
+466052,Oshimavirus P7426
+469008,
+469382,Halogeometricum borinquense DSM 11551
+474186,Enterococcus faecalis OG1RF
+475609,Escherichia coli Xuzhou21
+479442,
+480019,Influenza A virus
+480119,Acinetobacter baumannii AB0057
+480520,Myroides profundi
+481805,
+482058,Ralstonia phage RSL1
+482133,Hepatitis B virus adr/Japan/Nishioka/1983
+483913,Bacillus inaquosorum
+488241,Influenza A virus strain A/Korea/426/1968 H2N2
+489455,Homo sapiens
+489469,Hepatitis B virus ayw/China/Tibet127/2002
+489484,HBV genotype E
+489543,Hepatitis B virus duck/DHBV-16
+489821,Norovirus GII.4
+490133,
+490712,Apocrypta bakeri
+491915,
+493803,Merkel cell polyomavirus
+497961,Canine parvovirus 2a
+498716,human intestinal bacterium PUE
+501327,Adeno-associated virus 13
+502025,
+502057,Vaccinia virus GLV-1h68
+505693,Chromera velia
+506347,Homo sapiens
+506350,
+507522,Klebsiella pneumoniae
+507601,Toxoplasma gondii GT1
+508771,Toxoplasma gondii
+509173,
+511145,
+511693,
+512169,Tulane virus
+512285,synthetic viruses
+512566,
+516360,Streptomyces hygrospinosus
+518766,
+518922,Influenza A virus A/Beijing/262/1995 H1N1
+519039,Rhinolophus landeri
+519082,
+519440,Deinococcus aquatilis
+521165,Trichonympha campanula
+523794,
+523850,Thermococcus onnurineus strain NA1
+524364,Norovirus Hu/1968/US
+524650,Muromegalovirus G4
+528321,Mycobacterium phage Adjutor
+535026,Bacillus subtilis subsp. subtilis NCIB 3610 ATCC 6051 DSM 10
+536230,Escherichia Coli
+536231,Roseburia intestinalis L1-82
+536233,Clostridium botulinum E1 str. BoNT E Beluga
+537012,Bacteroides cellulosilyticus DSM 14838
+538123,Mammalian orthoreovirus 3
+539221,Enterobacteria phage CUS-3
+543939,Sputnik virophage
+544406,
+546805,Mycobacterium phage Myrna
+550542,Geobacillus sp. strain Y412MC52
+550676,
+551290,
+551760,Aromatoleum aromaticum
+553480,Photorhabdus asymbiotica
+553982,Allochromatium tepidum
+555217,Zymomonas mobilis subsp. mobilis ATCC 10988
+555461,Mycobacterium tuberculosis 98-R604 INH-RIF-EM
+555778,
+556484,Phaeodactylum tricornutum CCAP 1055/1
+557600,Acinetobacter baumannii AB307-0294
+557760,Cereibacter sphaeroides
+559292,
+559515,
+561445,African swine fever virus pig/Kenya/KEN-50/1950
+561879,Bacillus safensis
+563041,Helicobacter pylori G27
+565050,
+565648,Enterococcus faecalis JH1
+565995,
+566546,
+568701,Moorea bouillonii PNG5-198
+568708,Salmonella enterica subsp. enterica serovar Typhimurium str. D23580
+568986,Canine parvovirus 2b
+568996,Oryctolagus cuniculus cuniculus
+570415,
+572477,Allochromatium vinosum DSM 180
+573729,Thermothelomyces thermophilus ATCC 42464
+573977,
+574521,Escherichia coli O127:H6 str. E2348/69
+574566,Coccomyxa subellipsoidea C-169
+575584,Acinetobacter baumannii ATCC 19606 CIP 70.34 JCM 6841
+579112,
+580239,Saccharomyces cerevisiae
+580240,
+582817,Recombinant vesicular stomatitis Indiana virus rVSV-G/GFP
+585035,Escherichia coli O157:H7
+585055,
+585057,Escherichia coli H420
+585394,
+585397,Escherichia coli ED1a
+586425,Senecavirus
+587204,HIV-1 06TG.HT032
+587209,HIV-1 06TG.HT038
+587638,
+587753,Pseudomonas chlororaphis
+588596,Rhizophagus irregularis
+591285,Vibrio cholerae
+592022,
+593572,Broad bean stain virus
+595536,Methylosinus trichosporium OB3b
+604162,
+607682,Adeno-associated virus
+608538,
+622637,Methylocystis sp. ATCC 49242
+626947,Parasutterella secunda
+629396,Acinetobacter phage AP205
+630397,Streptomyces sp. Sp080513GE-23
+631362,Thiorhodovibrio sp. 970
+632518,Caldicellulosiruptor owensensis strain ATCC 700167 / DSM 13100 / OL
+634168,Halorubrum pleomorphic virus 1
+634468,Escherichia coli
+637887,
+637910,Citrobacter rodentium ICC168
+638313,Human bocavirus 3
+641147,
+641501,
+641809,Influenza A virus A/California/07/2009 H1N1
+644223,Komagataella phaffii GS115
+645098,
+645118,
+645161,Human bocavirus 4
+645463,Clostridioides difficile R20291
+645657,Bacillus subtilis subsp. natto strain BEST195
+645908,
+647332,Human picobirnavirus strain Human/Thailand/Hy005102/-
+648242,
+649188,
+650130,
+650132,
+652611,Pseudomonas aeruginosa PA14
+652961,
+654905,
+655184,
+656400,Escherichia coli 2362-75
+656403,Escherichia coli MS 84-1
+656408,Escherichia coli H591
+656414,Escherichia coli H736
+656420,Escherichia coli KTE64
+656433,
+657321,Ruminococcus bromii L2-63
+658904,Rosellinia necatrix megabirnavirus 1/W779
+659425,Thermoclostridium caenicola
+660122,Fusarium vanettenii 77-13-4
+662475,Haloarcula californiae ATCC 33799
+662541,Escherichia coli NCTC 86
+662598,Neisseria meningitidis alpha14
+666207,Homo sapiens
+667126,Methanocaldococcus villosus
+668369,Escherichia coli DH5 alpha
+668994,
+670897,Escherichia coli
+672471,
+674954,Trichomonas vaginalis virus 2
+679895,Escherichia coli BW25113
+680693,Influenza A virus A/Netherlands/219/2003 H7N7
+683125,Sphingobacterium wenxiniae
+683837,Listeria seeligeri serovar 1/2b str. SLCC3954
+684738,Lactococcus lactis subsp. lactis
+686944,Seneca Valley virus USA/SSV-001
+687329,TTV-like mini virus
+689403,
+692036,Tuwongella immobilis
+693140,Tiarina fusa
+693272,Cafeteria roenbergensis virus BV-PW1
+693995,
+693996,Alphacoronavirus
+693998,Rhinolophus bat coronavirus HKU2
+694002,Betacoronavirus
+694007,Homo sapiens
+694008,
+694009,
+694015,Beluga whale coronavirus SW1
+694067,Human metapneumovirus strain CAN97-83
+694448,unidentified human coronavirus
+694581,synthetic construct
+696863,
+696871,
+698761,Rhizobium tropici
+700512,
+700542,Aeropyrum pernix bacilliform virus 1
+703611,Macaca mulatta rhadinovirus
+709032,Sulfuricurvum kujiense DSM 16994
+714943,Mucilaginibacter paludis DSM 18603
+714995,Komagataeibacter hansenii ATCC 23769
+722911,Bifidobacterium longum subsp. longum F8
+727944,Homo sapiens
+740934,Turkey parvovirus 260
+740950,Bat adeno-associated virus
+740971,Bat adenovirus
+741093,Escherichia coli 2-427-07_S4_C3
+741942,Lactococcus phage 1358
+746128,Neosartorya fumigata strain CEA10 / CBS 144.89 / FGSC A1163
+747305,
+749533,Escherichia coli strain K12
+749537,Escherichia coli
+749539,Escherichia coli 908573
+749549,Escherichia coli 3-373-03_S4_C2
+749906,
+753758,Omono River virus
+754004,
+754047,Neisseria lactamica
+754059,Synechococcus phage S-CBP4
+754067,Salicola phage CGphi29
+754441,Chaetoceros lorenzianus DNA virus
+756272,Rubinisphaera brasiliensis
+758678,Clostridium botulinum F str. 230613
+759272,
+760066,Influenza A virus
+763552,Mouse papillomavirus 1
+764298,Streptococcus macacae
+764561,Brochothrix phage NF5
+765873,
+765910,Marichromatium purpuratum 984
+765911,Thiocystis violascens DSM 198
+766138,Escherichia coli K-12
+767463,Streptococcus thermophilus ND03
+767473,Caulobacter phage phiCb5
+768486,Enterococcus hirae ATCC 9790
+795694,Porcine bocavirus 1 pig/ZJD/China/2006
+796606,Bacillus methanolicus MGA3
+860228,
+862507,Homo sapiens
+864596,
+864686,Gorilla bocavirus
+866768,Escherichia coli BL21-Gold DE3 pLysS AG
+868136,Escherichia coli O7:K1 strain IAI39 / ExPEC
+868160,Escherichia coli DEC6A
+868565,Human herpesvirus 8
+869211,
+869678,Escherichia coli O26:H11
+869681,
+869688,Escherichia coli B185
+869750,Arabidopsis thaliana x Arabidopsis lyrata
+870730,
+874272,Lizard adenovirus 2
+875071,Rhesus macaque recovirus
+879186,Human adenovirus 57
+879462,Escherichia coli str. K-12 substr. MG1655
+880079,Rhododendron dauricum
+880156,Photorhabdus heterorhabditis
+880565,
+884048,Desulfitobacterium hafniense TCE1
+884424,Baccilus phage phi29
+885276,Escherichia coli
+886921,
+887062,Hylemonella gracilis ATCC 19624
+888064,
+889517,synthetic construct
+903610,
+905079,Guillardia theta CCMP2712
+905931,
+908820,unidentified
+911321,Calcarisporiella thermophila
+912801,Dietzia sp. DQ12-45-1b
+913028,Yersinia enterocolitica W22703
+926560,Calidithermus chliarophilus DSM 9957
+929102,Lactococcus lactis subsp. lactis CV56
+930945,Sulfolobus islandicus REY15A
+931626,Acetobacterium woodii DSM 1030
+932662,
+933093,Legionella pneumophila subsp. pneumophila ATCC 43290
+935293,Yersinia entomophaga
+935549,Rhizobium leguminosarum bv. trifolii SRDI565
+941442,Giardia intestinalis assemblage A
+946362,Salpingoeca rosetta
+946522,Human alphaherpesvirus 1 strain RH2
+947166,Xenopus borealis
+947985,Homo sapiens
+953739,Streptomyces venezuelae ATCC 10712
+977912,
+979525,Vibrio phage ICP1
+979527,Vibrio phage ICP1_2004_A
+980415,Lethenteron camtschaticum
+980427,
+981222,Chloracidobacterium thermophilum
+981350,
+985683,Donggang virus
+990147,Human poliovirus 2 strain Sabin
+990288,Acidithiobacillus caldus strain SM-1
+991915,Escherichia coli 2-427-07_S4_C3
+991919,Escherichia coli chi7122
+992210,
+992212,SFTS virus HB29
+995038,Cryobacterium levicorallinum
+998086,Pseudomonas phage PhiPA3
+999424,Streptococcus pyogenes serotype M1
+1000373,Rosellinia necatrix quadrivirus 1
+1002364,Hafnia alvei ATCC 51873
+1003835,
+1004150,Thermothelomyces thermophilus
+1005442,
+1005443,Escherichia coli 0.1197
+1005926,Flagellimonas taeanensis
+1009714,Pseudomonas aeruginosa PAK
+1028307,Klebsiella aerogenes KCTC 2190
+1028322,Murine norovirus GV/NIH-2410/2005/USA
+1032745,Trachydiscus minutus
+1033739,Kurthia massiliensis
+1034127,
+1041504,Candidatus Arthromitus sp. SFB-rat-Yit
+1041806,Lake Sinai virus 1
+1041831,Lake Sinai virus 2
+1045010,
+1048260,Leptospirillum ferriphilum
+1049564,endosymbiont of Tevnia jerichonana vent Tica
+1049972,Leptospira licerasiae serovar Varillal str. VAR 010
+1053222,Bacillus cereus
+1053225,
+1055524,Homo sapiens
+1073196,Pseudoxanthomonas wuyuanensis
+1073754,Virus-associated RNAs
+1074308,Mycobacterium phage Patience
+1075089,Bos taurus
+1076937,Fontimonas thermophila
+1078020,Mycolicibacterium thermoresistibile ATCC 19527
+1079985,
+1080068,Leptolyngbya sp. O-77
+1084719,Bacillus virus G
+1086030,Shigella flexneri 5a str. M90T
+1088890,Halastavi arva RNA virus
+1090134,Salmonella phage SPN3US
+1091494,
+1094619,Phytophthora sojae strain P6497
+1097017,Norovirus Hu/GI.7/TCH-060/USA/2003
+1108044,synthetic construct
+1111111,Not Applicable
+1111120,Acidaminococcus sp. BV3L6
+1111139,
+1111708,
+1114302,Micrurus tener tener
+1114792,Equus ferus
+1116234,Acinetobacter baumannii AB5075
+1116482,Pectobacterium phage phiTE
+1117646,Elizabethkingia anophelis Ag1
+1122247,Mycolicibacterium hassiacum DSM 44199
+1123270,Novosphingopyxis baekryungensis DSM 16222
+1123288,Sporomusa ovata DSM 2662
+1123386,Thermus antranikianii DSM 12462
+1123958,Chimpanzee adenovirus Y25
+1124849,Pseudomonas phage OBP
+1125411,Candidatus Thioglobus singularis PS1
+1126212,Macrophomina phaseolina MS6
+1127516,Pectobacterium phage ZF40
+1127767,
+1129347,Influenza A virus A/little yellow-shouldered bat/Guatemala/060/2010 H17N10
+1129792,Weissella oryzae
+1130061,Paracoccus sp. SSG05
+1131730,Neobacillus vireti LMG 21834
+1144663,
+1144670,
+1145611,
+1147145,Enterobacteria phage T6
+1147787,Pseudomonas aeruginosa PAO1H2O
+1150591,Mycobacterium xenopi RIVM700367
+1154689,Haloarcula hispanica icosahedral virus 2
+1156721,Halorubrum
+1158660,Enterococcus faecalis EnGen0302
+1159901,Deltacoronavirus
+1160778,"Salmonella enterica subsp. salamae serovar 58:l,z13,z28:z6"
+1161931,Agrobacterium phage 7-7-1
+1162296,Klebsiella pneumoniae subsp. pneumoniae DSM 30104 JCM 1662 NBRC 14940
+1162305,Clostridium perfringens
+1169330,Escherichia coli KTE10
+1169357,Escherichia coli
+1169376,Escherichia coli 113303
+1169636,Rhinolophus macrotis
+1171373,Acidipropionibacterium acidipropionici ATCC 4875
+1173018,Phlebovirus WCH/97/HN/China/2011
+1173138,
+1177187,Cricket paralysis virus
+1182032,Homo sapiens
+1182144,Norovirus Hu/GII.4/Minerva/2006/USA
+1182671,Escherichia coli DEC1D
+1182680,Escherichia coli G3/10
+1182682,Escherichia coli M863
+1183239,
+1185650,Mycobacteroides abscessus subsp. abscessus
+1185654,
+1185920,Rhodobacter veldkampii DSM 11550
+1188247,Rhodothalassium salexigens DSM 2132
+1188250,Fuscovulum blasticum DSM 2131
+1188256,Rhodovulum sulfidophilum DSM 1374
+1196322,Clostridium sp. Maddingley MBC34-26
+1196866,Saccharomyces cerevisiae S228
+1204178,Helicobacter phage KHP40
+1204343,Bacillus subtilis BEST7613
+1204385,Litorilinea aerophila
+1206108,Escherichia coli J96
+1208236,Helicobacter phage KHP
+1209382,Bufavirus-1
+1209383,Bufavirus-2
+1209493,Halomicronema hongdechloris
+1211386,Pectobacterium phage PhiM1
+1211579,
+1211845,Escherichia coli MC1061
+1212546,Anoxybacillus kamchatkensis G10
+1213463,Mycoplasmoides pneumoniae 19294
+1214568,Diaporthe amygdali
+1216345,Saccharomyces cerevisiae BMN1-35
+1217068,Salmonella enterica
+1217649,
+1217710,
+1219353,HBV genotype D3
+1220924,Cyphellophora europaea
+1221996,
+1223260,Pseudomonas phage JBD30
+1223261,Pseudomonas phage JBD5
+1223565,Rhizobium sp. Pop5
+1224744,Methylococcus capsulatus str. Texas ATCC 19069
+1225789,Enterobacteria phage SfI
+1231903,Eilat virus
+1235640,Enterobacteria phage M
+1235996,Human betacoronavirus 2c EMC/2012
+1241935,Sulfolobus islandicus LAL14/1
+1241973,
+1245466,Pomacea maculata
+1246486,synthetic Enterobacteria phage phiX174.1f
+1247190,Saccharomyces cerevisiae BY4741
+1248331,Bovine enterovirus type 1
+1250315,RNA satellites
+1254443,Cytaeis uchidae
+1259812,Vibrio mimicus CAIM 602
+1261657,Murid betaherpesvirus 8
+1262775,Clostridium sp. CAG:138
+1263010,Firmicutes bacterium CAG:227
+1263720,
+1266529,Homo sapiens
+1268061,Streptococcus thermophilus DGCC 7710
+1268360,Homo sapiens
+1268975,
+1268976,
+1268978,Escherichia coli K-12
+1268986,Escherichia coli UMEA 3718-1
+1268998,
+1269007,Escherichia coli 2.3916
+1278251,Paramecium bursaria Chlorella virus CZ-2
+1279007,Pseudomonas aeruginosa PA1
+1280998,Bos taurus
+1281024,Escherichia coli 4.0522
+1281200,Escherichia coli K-12
+1281269,Escherichia coli TA054
+1282887,Lachnospira multipara ATCC 19207
+1283191,Influenza B virus B/Memphis/13/2003
+1285422,
+1285598,
+1287827,Influenza A virus
+1289471,
+1291540,Candidatus Methanomethylophilus alvus
+1292036,Paeniclostridium sordellii strain ATCC 9714 / DSM 2141 / JCM 3814 / LMG 15708 / NCIMB 10717 / 211
+1293037,Thermococcus celer Vu 13 JCM 8558
+1294023,Syntrophomonas palmitatica JCM 14374
+1294328,
+1294333,Saccharomyces cerevisiae
+1296592,
+1300146,algae metagenome
+1307437,Pseudoalteromonas aestuariivivens
+1310618,Acinetobacter baumannii 118362
+1310637,
+1310678,
+1312852,Thermoanaerobaculum aquaticum
+1313215,Aichi virus
+1313421,Aureispira sp. CCB-QB1
+1314795,Penicillium fellutanum ATCC 48694
+1316125,Homo sapiens
+1318616,
+1319510,Streptomyces fradiae ATCC 10745 DSM 40063
+1321139,Homo sapiens
+1324935,Limisphaera ngatamarikiensis
+1329650,Bat circovirus
+1330457,Escherichia coli K-12
+1332244,Influenza A virus A/Shanghai/02/2013 H7N9
+1333499,Nannochloropsis oceanica strain IMET1
+1334388,Influenza B virus B/Acre/117700/2012
+1334389,Influenza B virus B/Kaliningrad/RII06/2012
+1334565,Listeria monocytogenes EGD
+1335626,
+1339250,Meiothermus taiwanensis
+1340708,Mycobacterium phage Bobi
+1340829,Mycobacterium phage Muddy
+1341692,Clostridium autoethanogenum DSM 10061
+1344584,Archaeoglobus fulgidus DSM 8774
+1347105,Homo sapiens
+1348623,Priestia megaterium NBRC 15308 ATCC 14581
+1349410,Pandoravirus salinus
+1351702,Sulfolobus monocaudavirus SMV1
+1353263,Synechococcus sp. 63AY4M1
+1354003,
+1354269,Plesiomonas shigelloides ATCC 14029
+1357423,Sinorhizobium phage phiM12
+1357732,Anabaena phage A-4L
+1358809,Spraguea lophii 42_110
+1366055,Pseudoalteromonas phage TW1
+1368314,
+1378066,Chroococcidiopsis sp. TS-821
+1379270,Gemmatimonas phototrophica
+1380908,Klebsiella pneumoniae JM45
+1385427,Enterobacteria phage T4 Bacteriophage T4
+1385624,
+1390929,Saccharomyces cerevisiae BY4741
+1391667,Bufavirus-3
+1391702,Tomato mottle mosaic virus
+1392499,Klebsiella pneumoniae subsp. pneumoniae 1158
+1393122,Thermoflavifilum thermophilum
+1395181,Mumps virus genotype A
+1395980,Influenza A virus
+1398853,Influenza A virus
+1399798,Parageobacillus caldoxylosilyticus
+1403831,Escherichia coli str. K-12 substr. MC4100
+1408284,Clostridium botulinum Prevot_594
+1408323,Lachnospiraceae bacterium MA2020
+1410628,Lachnospiraceae bacterium ND2006
+1414736,Lactobacillus phage J-1
+1415160,Rhodobacter capsulatus DE442
+1415161,Rhodobacter capsulatus
+1415167,Bacillus subtilis PY79
+1415851,Bat SARS-like coronavirus RsSHC014
+1415852,Bat SARS-like coronavirus WIV1
+1418121,Saccharomyces cerevisiae
+1423799,Ligilactobacillus salivarius DSM 20555 ATCC 11741
+1425170,Homo heidelbergensis
+1425366,Virus-associated RNAs
+1431340,
+1433215,Bottlenose dolphin coronavirus HKU22
+1440122,Murid herpesvirus 68
+1443105,Pseudomonas aeruginosa SG17M
+1444252,Escherichia coli MS 117-3
+1444266,
+1444275,Escherichia coli
+1445611,
+1446753,Escherichia coli K-12
+1449976,Kutzneria albida DSM 43870
+1452269,
+1453500,Schleiferia thermophila str. Yellowstone
+1454201,Nonlabens marinus S1-08
+1455601,Escherichia coli MS 198-1
+1458856,Listeria phage LP-101
+1461100,Samba virus
+1463165,Klebsiella quasipneumoniae
+1463588,AAV expression vector pTR-UF50-BC
+1465644,Deltacoronavirus PDCoV/USA/Illinois121/2014
+1469607,Scytonema hofmanni UTEX 2349
+1474807,Mojiang virus
+1474867,Aureococcus anophagefferens virus
+1477405,Faustovirus
+1477414,Deltacoronavirus PDCoV/USA/Ohio137/2014
+1485947,Chaetomium thermophilum
+1489714,Tanay virus
+1499968,
+1502658,Escherichia coli O127:H6
+1503296,BtRf-BetaCoV/HeB2013
+1503301,BtRs-BetaCoV/GX2013
+1503303,BtRs-BetaCoV/YN2013
+1503304,BtTp-BetaCoV/GX2012
+1504969,
+1506574,Protoparvovirus
+1507389,Influenza A virus
+1508202,Cell-free gateway cloning vector C-term 8xHis pCellFree_G02
+1508220,
+1508644,Candidatus Arthromitus sp. SFB-mouse-NL
+1511084,Influenza D virus
+1511879,Bocavirus gorilla/GBoV1/2009
+1511891,
+1513237,Lloviu cuevavirus
+1513271,Catenovulum maritimum
+1513458,Acanthamoeba castellanii
+1516127,Chaetoceros tenuissimus DNA virus type-II
+1516128,Chaetoceros tenuissimus RNA virus type-II
+1519788,Escherichia phage vB_EcoP_SU10
+1539066,Sulfuricurvum sp. PC08-66
+1541205,Bat Hp-betacoronavirus/Zhejiang2013
+1541887,Chivirus chi
+1549217,Aspergillus stellatus
+1549864,Tilapia lake virus
+1560340,Tusavirus 1
+1560514,Melbournevirus
+1561998,Caenorhabditis tropicalis
+1567006,
+1567404,Fako virus
+1570291,
+1574408,
+1579311,Influenza A virus A/Brevig Mission/1/1918 H1N1
+1579424,Streptococcus azizii
+1586324,
+1601067,
+1631306,Norovirus 06-AM-11/2006/GII.4/Yerseke/2006a
+1641165,Halomicronema hongdechloris C2206
+1642950,Semliki Forest virus 4
+1647551,Moraxella phage Mcat5
+1673428,Cuniculiplasma divulgatum
+1678143,Paslahepevirus balayani
+1678145,Homo sapiens
+1678905,Leishmania RNA virus 1 - LgM5313
+1679038,
+1682391,Microdochium sorghi
+1698800,Pseudoalteromonas
+1702221,Faecalibaculum rodentium
+1705394,Candidatus Thioglobus autotrophicus
+1705564,Candidatus Methanofastidiosum methylthiophilus
+1708253,"Marburg virus - Musoke, Kenya, 1980"
+1712665,Agathobacter ruminis
+1714621,Borna disease virus 1
+1746090,Anaeramoeba ignava
+1750719,Kurthia sp. 11kri321
+1752929,Ixodes scapularis
+1761874,Paenibacillus sp. 453mf
+1765684,
+1768108,Deinococcus wulumuqiensis
+1774208,Mus musculus
+1775256,Nostoc phage A1
+1777792,
+1788315,Rat bocavirus
+1796616,Blautia pseudococcoides
+1797889,Deltaproteobacteria bacterium RIFCSPLOWO2_12_FULL_43_16
+1801703,Nitrospirae bacterium RBG_13_39_12
+1805481,Nematocida sp. ERTm5
+1805483,Nematocida displodere
+1805492,
+1807358,Stanieria sp. NIES-3757
+1815509,Bacillus phage AR9
+1815987,Erwinia phage vB_EamM_RAY
+1826170,Tokyovirus A1
+1826778,unidentified bacterium
+1838066,Gordonia phage Cozz
+1841598,Candidatus Heimdallarchaeota archaeon LC_3
+1841599,Candidatus Odinarchaeota archaeon LCB_4
+1851544,Orrella dioscoreae
+1852835,Candidatus Cloacimonetes bacterium ADurb.Bin088
+1852848,Candidatus Hydrogenedentes bacterium ADurb.Bin170
+1855288,Cohnella sp. OV330
+1867125,Cutavirus
+1868482,Carlito syrichta
+1869227,bacterium
+1871037,Flavobacteriaceae bacterium
+1872660,Aureispira sp.
+1879010,Bacillota bacterium
+1891730,
+1891762,Homo sapiens
+1891767,synthetic construct
+1898104,
+1898203,synthetic construct
+1903187,Microcystis aeruginosa PCC 7806SL
+1904864,Bacillales bacterium
+1906674,Betanodavirus sp.
+1907210,
+1915412,Candidatus Methanosuratincola
+1922775,Escherichia coli K-12
+1923671,Wenzhou tombus-like virus 18
+1925777,Biggievirus Mos11
+1927717,Influenza A virus A/Hong Kong/01/1968 H3N2
+1930083,Rabbit hemorrhagic disease virus 2
+1936271,Candidatus Odinarchaeota
+1947434,Ruminococcus sp. UBA7013
+1958907,Staphylococcus phage Andhra
+1960940,
+1968240,Homo sapiens
+1970083,Hyperthermus sp.
+1972429,
+1977402,synthetic construct
+1977881,
+1979165,Mumps rubulavirus
+1980456,Orthohantavirus andesense
+1980471,Hantaan orthohantavirus
+1980486,
+1980491,Sin Nombre orthohantavirus
+1980494,Tula orthohantavirus
+1980519,Crimean-Congo hemorrhagic fever virus strain IbAr10200
+1980925,Ralstonia virus RSL2
+1982658,Sulfolobus polyhedral virus 1
+1985803,Influenza A virus A/red knot/Delaware Bay/310/2016 H10N4
+1987159,Escherichia virus CBA120
+1987257,Homo sapiens
+2005468,
+2005482,
+2011081,Pseudomonas virus Pf1
+2013680,synthetic construct
+2014367,Pseudobutyrivibrio sp.
+2014529,Nostoc sp. Peltigera membranacea cyanobiont 210A
+2015550,enterovirus D94
+2015818,Mycobacterium phage Cain
+2020423,Tequatrovirus T4
+2023716,Flavobacterium phage FLiP
+2024304,Shigella phage Sf14
+2024553,Candidatus Viridilinea mediisalina
+2026186,Bacillus paranthracis
+2026720,Candidatus Saccharibacteria bacterium
+2026735,Deltaproteobacteria
+2026747,Candidatus Heimdallarchaeota archaeon
+2026780,
+2026887,Nitrospirota bacterium
+2027243,Leviviridae sp.
+2030808,Candidatus Cloacimonadota bacterium
+2030927,
+2032731,Swine acute diarrhea syndrome coronavirus
+2033014,
+2033435,Rhodobacteraceae bacterium QY30
+2034344,Pseudomonas phage vB_PaeP_DEV
+2034346,Pseudomonas phage vB_PaeM_E217
+2041200,Xenopus laevis
+2041508,Streptococcus phage STP1
+2042537,Bat coronavirus
+2043570,Homo sapiens
+2044939,Clostridia bacterium
+2049431,synthetic construct
+2053611,Selenomonas sp.
+2056194,Sulfolobus ellipsoid virus 1
+2056315,Escherichia coli O121:H19
+2056631,Thermoproteota archaeon
+2056767,Escherichia phage YDC107_1
+2058668,Streptococcus phage vB_SthS-VA214
+2060721,Homo sapiens
+2060946,Acinetobacter phage SH-Ab 15497
+2066504,Klebsiella phage SH-Kp 152410
+2070202,Klebsiella phage KP1
+2070761,Paucibacter aquatile
+2078987,Morbillivirus sp.
+2079601,Red-crowned crane parvovirus
+2080449,Acanthamoeba castellanii medusavirus
+2086595,synthetic construct
+2099640,Mycobacterium phage Ogopogo
+2100421,uncultured Caudovirales phage
+2108111,
+2116482,Wuhan asiatic toad influenza virus
+2116483,Wuhan spiny eel influenza virus
+2138576,Vitiosangium sp. GDMCC 1.1324
+2144189,JCVI-Syn3A
+2169442,Sapovirus Hu/GI.6/Nichinan/FP05284/2005/JPN
+2169654,Hendrixvirus
+2169701,Onyong-nyong virus
+2169725,Chaetoceros socialis forma radians RNA virus 1
+2169971,
+2169991,
+2170008,Megrivirus E
+2170195,Eastern chimpanzee simian foamy virus
+2170205,White-tufted-ear marmoset simian foamy virus
+2171376,Mus musculus papillomavirus type 1
+2185275,Lawsonibacter sp.
+2202144,Spirochaetota bacterium
+2202564,Myoviridae sp.
+2211376,Candidatus Methylomirabilis lanthanidiphila
+2211467,Pseudomonas aeruginosa phage DMS3mVir
+2218628,Photorhabdus laumondii
+2219103,Enterobacteria phage f1
+2233851,Blastochloris tepida
+2267226,Psychromonas sp. B3M02
+2282196,Shigella phage Sf11 SMD-2017
+2282904,Ralstonia phage GP4
+2291324,Bifidobacteriaceae bacterium
+2292895,Firmicutes bacterium AM43-11BH
+2301220,Desulfofustis sp. PB-SRB1
+2301536,Thermus phage phiLo
+2301731,Bacteroides phage crAss001
+2304198,Sulfolobus filamentous virus 1
+2305258,
+2419608,
+2419741,
+2419949,Arthrobacter phage Bridgette
+2449148,
+2487147,Homo sapiens
+2491899,Sulfolobus spindle-shaped virus
+2492962,Escherichia phage T1
+2495421,Bacillus sp. HMF5848
+2496550,
+2497433,African cichlid nackednavirus
+2501962,Rousettus bat coronavirus GCCDC1
+2502409,Escherichia phage vB_EcoM_Goslar
+2507575,Haloferax tailed virus 1
+2508883,Bacillus subtilis A29
+2509494,
+2509511,
+2530183,Shigella phage Buco
+2555680,Klebsiella phage 020009
+2557550,Agrobacterium phage Milano
+2560010,Actinomyces procaprae
+2560319,Avian orthoavulavirus 1
+2560547,La Crosse orthobunyavirus
+2560602,Mumps orthorubulavirus
+2571082,
+2585262,
+2586965,Nanobdella aerobiophila
+2587410,Thermothielavioides terrestris
+2587456,Microcystis phage Mic1
+2588572,Insecta environmental sample
+2590837,Pseudomonas virus Pa193
+2590840,Pseudomonas virus Pa223
+2590919,Dinoroseobacter phage vB_DshS-R4C
+2591193,Gordonia phage Ziko
+2593122,ssDNA virus sp.
+2594042,anaerobic archaeon MK-D1
+2605378,Plasmodium berghei
+2649997,Chlorella ohadii
+2656516,Pseudomonas phage vB_PA32_GUMS
+2662396,Syngnathus scovelli chapparvovirus
+2664183,Middle East respiratory syndrome-related coronavirus
+2664184,Erinaceus hedgehog coronavirus HKU31
+2664420,
+2665953,Homo sapiens environmental sample
+2672571,Penaeus monodon metallodensovirus
+2676140,Cyanobacterium aponinum 0216
+2679898,Bacillus phage GA-1
+2679905,Escherichia phage phiEco32
+2680749,
+2681598,
+2681603,
+2681606,Escherichia phage DT57C
+2681610,Streptomyces phage phi-C31
+2681611,
+2681617,Escherichia phage HK97
+2691590,Pipistrellus bat coronavirus HKU5
+2695836,Escherichia phage T5
+2697049,Severe acute respiratory syndrome coronavirus 2
+2708335,Pangolin coronavirus
+2709072,Bat coronavirus RaTG13
+2713266,Microbacterium phage Oxtober96
+2715679,Dissulfurispira thermophila
+2719594,
+2720215,Escherichia phage EC6098
+2721177,Bilabrum
+2729638,Pseudomonas phage sp.
+2731619,Caudoviricetes
+2732249,Gemmatimonas groenlandica
+2732706,
+2733105,Goslarvirus
+2734748,Heardaxius
+2739835,Phytophthora sojae
+2742642,Citrobacter sp. RHBSTW-00271
+2743575,
+2744002,
+2748688,Vibrio phage XM1
+2748958,Dabie bandavirus
+2750924,
+2755281,Zophobas morio densovirus
+2759736,Lacticaseibacillus
+2760382,Cloning vector pgRNA-ccdB-1
+2764122,hepatitis B virus genotype C
+2775498,Metallosphaera javensis ex Sakai et al. 2022
+2777034,Salamander influenza-like virus
+2777035,Siamese algae-eater influenza-like virus
+2786000,ssRNA phage ESE017
+2787854,Homo sapiens
+2788787,unclassified Caudoviricetes
+2789016,Mus musculus
+2801834,Klebsiella phage vB_KpM_FBKp24
+2810814,unclassified Densovirinae
+2813486,Mimivirus reunion
+2825290,Siphoviridae sp. ct0106
+2833184,
+2836123,Bat SARS-like coronavirus Khosta-1
+2836124,
+2836329,Scolopendra mutilans
+2839035,Clostridium perfringens
+2841677,Candidatus Pseudothioglobus
+2845798,Pepevirus rubrum
+2848310,Langat virus strain TP21
+2851982,Shigella flexneri
+2852021,Escherichia phage EmilHeitz
+2852035,Escherichia phage JohannRWettstein
+2853804,
+2857077,Anthocerotibacter panamensis
+2867507,Rhodomonas sp. NIES-2332
+2884424,Bacillus phage phi29
+2884427,Bacillus phage SPO1
+2885909,Methylorubrum extorquens
+2886042,Shigella virus Moo19
+2886925,Escherichia phage N4
+2886926,Escherichia phage P1
+2886930,Escherichia coli K-12
+2895524,Paracandidimonas lactea
+2895559,Subtercola endophyticus
+2899558,Periplaneta americana
+2901879,
+2902792,Mycobacterium phage 244
+2902907,
+2905945,Pseudomonas phage phiKZ
+2905959,
+2907829,Mycobacterium phage Che8
+2907957,Sabia virus
+2908019,Streptococcus phage 2972
+2908114,Staphylococcus phage 52A
+2908151,Staphylococcus phage 92
+2908168,Salmonella phage P22
+2911440,Staphylococcus phage 80alpha
+2913378,Staphylococcus phage S6
+2914505,Prochlorococcus phage P-SCSP1u
+2927983,Escherichia phage T4
+2929177,Homo sapiens
+2932878,Bacillus phage SPBc2
+2932880,Pseudomonas phage D3
+2936515,Klebsiella phage Kp7
+2936516,Klebsiella phage Kp9
+2951803,Candidatus Lokiarchaeum ossiferum
+2954378,Candidatus Accumulibacter adiacens
+2955291,Macaca mulatta
+2968270,Shigella phage B2
+2971765,Langya virus
+2974046,Angavokely henipavirus
+2981586,Pseudanabaena phage Pan3
+2994041,Shigella flexneri
+3017290,Shigella phage SFP21A
+3020200,Homo sapiens
+3030542,Sarbecovirus sp. RhGB07
+3037664,Homo sapiens
+3044760,synthetic construct
+3049170,Candidatus Harpocratesius repetitus
+3052222,Thermotoga maritima MSB8
+3052223,Henipavirus hendraense
+3052225,
+3052230,Hepacivirus hominis
+3052303,Mammarenavirus choriomeningitidis
+3052317,Mammarenavirus machupoense
+3052342,Morbillivirus canis
+3052465,Orthoflavivirus encephalitidis
+3052505,Orthomarburgvirus marburgense
+3052585,Orthotospovirus tomatomaculae
+3052762,
+3060194,Medusavirus medusae
+3067280,Candidatus Lokiarchaeia archaeon
+3067671,Zophobas morio densovirus
+3068538,Horseshoe bat sarbecovirus
+3072909,Candidatus Pseudothioglobus sp.
+3073602,Oxyplasma meridianum
+3075937,Clostridioides phage phiCD508
+3077549,Human cytomegalovirus strain AD169
+3092168,SARS-CoV-2 pseudovirus
+3102713,Escherichia phage
+3136680,Escherichia phage FCWL1
+3144506,Rhodobacter phage Ebor
+3349809,Mycolicibacterium phage Mycofy1
+3373405,Acinetobacter phage Mystique
+3374911,Xanthomonas phage phiXacJX1
+3377957,
+3385543,Ushikuvirus sp.
+6798959,
