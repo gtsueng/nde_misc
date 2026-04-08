@@ -1,0 +1,993 @@
+[
+  {
+    "@type": "DataCollection",
+    "name": "Brief Cognitive Function Substudy",
+    "description": "Data collected from 4342 English speaking men and women living with and without HIV at all sites. This data can help researchers learn more about What factors positively and negatively affect memory, thinking, and learning in people living with HIV; How cognitive function changes over time; What are the different cognitive profiles of people living with and without HIV",
+    "species": {
+      "name": "Homo sapiens"
+    },
+    "measurementTechnique": [
+      {
+        "name": "BRACE (Brainbaseline 10- min Assessment of Cognition and Everyday Function)"
+      },
+      {
+        "name": "Trials A&B"
+      },
+      {
+        "name": "Stroop Color"
+      },
+      {
+        "name": "Visual Spatial Learning Test (VSLT)"
+      },
+      {
+        "name": "Abbreviated Patient’s Assessment of Own Functioning Inventory (PAOFI)"
+      },
+      {
+        "name": "Patient Health Questionnaire-2 (PHQ-2)"
+      }
+    ],
+    "variableMeasured": [
+      {
+        "name": "Cognitive function (memory, thinking, and learning)"
+      }
+    ],
+    "author": [
+      {
+        "name": "Leah Rubin",
+        "givenName": "Leah",
+        "familyName": "Rubin"
+      },
+      {
+        "name": "David Vance",
+        "givenName": "David",
+        "familyName": "Vance"
+      }
+    ],
+    "collectionSize": [
+      {
+        "minVal": 4342,
+        "unitText": "Study Subjects"
+      }
+    ],
+    "sample": {
+      "@type": "Sample",
+      "sex": [
+        "Men",
+        "Women"
+      ],
+      "age": {
+        "minVal": 57,
+        "unitText": "years",
+        "valueType": "median"
+      },
+      "sampleQuantity": [
+        {
+          "minVal": 2822,
+          "unitText": "living with HIV"
+        },
+        {
+          "minVal": 1520,
+          "unitText": "living without HIV"
+        },
+        {
+          "minVal": 2345,
+          "unitText": "Women"
+        },
+        {
+          "minVal": 1997,
+          "unitText": "Men"
+        }
+      ]
+    },
+    "temporalCoverage": {
+      "startDate": "2021-10-01",
+      "endDate": "2026-09-30",
+      "temporalType": "collection"
+    },
+    "healthCondition": [
+      {
+        "name": "cognitive impairment"
+      },
+      {
+        "name": "HIV infection"
+      }
+    ],
+    "infectiousAgent": [
+      {
+        "name": "HIV-1"
+      },
+      {
+        "name": "HIV-2"
+      }
+    ],
+    "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Brief_Cognitive_Function_Substudy_VisualAbstract_12.08.25.pdf",
+    "includedInDataCatalog": {
+      "name": "MWCCS"
+    }
+  },
+  {
+    "@type": "DataCollection",
+    "name": "Echocardiogram Substudy",
+    "description": "Data collected from 2988 men and women 40 yrs+ living with and without HIV at all sites. This data can help researchers learn more about How HIV and HIV-related factors affect the start of heart problems or make heart problems worse",
+    "species": {
+      "name": "Homo sapiens"
+    },
+    "measurementTechnique": [
+      {
+        "name": "Echocardiogram examination (an ultrasound that takes pictures of the heart and records blood flow through the heart and attached blood vessels)"
+      }
+    ],
+    "variableMeasured": [
+      {
+        "name": "The structure of the heart and its function"
+      }
+    ],
+    "author": [
+      {
+        "name": "Joao Lima",
+        "givenName": "Joao",
+        "familyName": "Lima"
+      },
+      {
+        "name": "Jorge Kizer",
+        "givenName": "Jorge",
+        "familyName": "Kizer"
+      },
+      {
+        "name": "Katherine Wu",
+        "givenName": "Katherine",
+        "familyName": "Wu"
+      },
+      {
+        "name": "Kimberly Keck",
+        "givenName": "Kimberly",
+        "familyName": "Keck"
+      }
+    ],
+    "collectionSize": [
+      {
+        "minVal": 2988,
+        "unitText": "Study Subjects"
+      },
+      {
+        "minVal": 2988,
+        "unitText": "Assessments"
+      }
+    ],
+    "sample": {
+      "@type": "Sample",
+      "sex": [
+        "Men",
+        "Women"
+      ],
+      "age": {
+        "minVal": 58,
+        "unitText": "years",
+        "valueType": "median"
+      },
+      "sampleQuantity": [
+        {
+          "minVal": 1942,
+          "unitText": "living with HIV"
+        },
+        {
+          "minVal": 1046,
+          "unitText": "living without HIV"
+        },
+        {
+          "minVal": 1554,
+          "unitText": "Women"
+        },
+        {
+          "minVal": 1434,
+          "unitText": "Men"
+        }
+      ]
+    },
+    "temporalCoverage": {
+      "startDate": "2022-10-01",
+      "endDate": "2026-09-30",
+      "temporalType": "collection"
+    },
+    "healthCondition": [
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "heart disease"
+      },
+      {
+        "name": "HIV infection"
+      }
+    ],
+    "infectiousAgent": [
+      {
+        "name": "HIV-1"
+      },
+      {
+        "name": "HIV-2"
+      }
+    ],
+    "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Echo_Substudy_VisualAbstract_12.8.25.pdf",
+    "includedInDataCatalog": {
+      "name": "MWCCS"
+    }
+  },
+  {
+    "@type": "DataCollection",
+    "name": "Fibroscan Substudy",
+    "description": "Data collected from 4449 men and women living with and without HIV at all sites* *excludes those with implant devices or pregnant. This data can help researchers learn more about What factors are linked to worsening fat and scarring in the liver; How HIV affects liver health; How common liver fat or scarring is and how risk changes over time",
+    "species": {
+      "name": "Homo sapiens"
+    },
+    "measurementTechnique": [
+      {
+        "name": "Fibroscan with Controlled Attenuation Parameter (CAP)"
+      },
+      {
+        "name": "ultrasound"
+      }
+    ],
+    "variableMeasured": [
+      {
+        "name": "amount of liver fibrosis (liver scarring)"
+      },
+      {
+        "name": "amount of liver steatosis (fat)"
+      }
+    ],
+    "author": [
+      {
+        "name": "Phyllis Tien",
+        "givenName": "Phyllis",
+        "familyName": "Tien"
+      },
+      {
+        "name": "Jennifer Price",
+        "givenName": "Jennifer",
+        "familyName": "Price"
+      },
+      {
+        "name": "Heather Freasier",
+        "givenName": "Heather",
+        "familyName": "Freasier"
+      }
+    ],
+    "collectionSize": [
+      {
+        "minVal": 4449,
+        "unitText": "Study Subjects"
+      },
+      {
+        "minVal": 8898,
+        "unitText": "Scans"
+      }
+    ],
+    "sample": {
+      "@type": "Sample",
+      "sex": [
+        "Men",
+        "Women"
+      ],
+      "age": {
+        "minVal": 57,
+        "unitText": "years",
+        "valueType": "median"
+      },
+      "description": "Excluded: participants with implant devices; pregnant participants",
+      "sampleQuantity": [
+        {
+          "minVal": 2892,
+          "unitText": "living with HIV"
+        },
+        {
+          "minVal": 1557,
+          "unitText": "living without HIV"
+        },
+        {
+          "minVal": 2358,
+          "unitText": "Women"
+        },
+        {
+          "minVal": 2091,
+          "unitText": "Men"
+        }
+      ]
+    },
+    "temporalCoverage": {
+      "startDate": "2020-10-01",
+      "endDate": "2026-09-30",
+      "temporalType": "collection"
+    },
+    "healthCondition": [
+      {
+        "name": "liver fibrosis"
+      },
+      {
+        "name": "liver steatosis"
+      },
+      {
+        "name": "HIV infection"
+      }
+    ],
+    "infectiousAgent": [
+      {
+        "name": "HIV-1"
+      },
+      {
+        "name": "HIV-2"
+      }
+    ],
+    "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Fibroscan_Substudy_VisualAbstract_12.8.25.pdf",
+    "includedInDataCatalog": {
+      "name": "MWCCS"
+    }
+  },
+  {
+    "@type": "DataCollection",
+    "name": "Full Cognitive Function Substudy",
+    "description": "Data collected from 3696 English speaking men and women living with and without HIV at all sites. This data can help researchers learn more about What factors positively and negatively affect memory, thinking, and learning in people living with HIV; What cognitive abilities change as people age; The impact of HIV on brain health and cognition",
+    "species": {
+      "name": "Homo sapiens"
+    },
+    "measurementTechnique": [
+      {
+        "name": "BRACE+ (Brainbaseline 60-75 min Assessment of Cognition and Everyday Function Plus)"
+      },
+      {
+        "name": "Fine Motor"
+      },
+      {
+        "name": "Trials A&B"
+      },
+      {
+        "name": "Digit Symbol Substitution Test (DSST)"
+      },
+      {
+        "name": "Finger Tapping"
+      },
+      {
+        "name": "Flanker"
+      },
+      {
+        "name": "N-back"
+      },
+      {
+        "name": "Spatial working memory (SPWN)"
+      },
+      {
+        "name": "Stroop color & inference"
+      },
+      {
+        "name": "Posner Cueing Task"
+      },
+      {
+        "name": "Verbal learning & recall"
+      },
+      {
+        "name": "Visual search"
+      },
+      {
+        "name": "Go/no-go"
+      },
+      {
+        "name": "Visual Spatial Learning Test (VSLT)"
+      },
+      {
+        "name": "Abbreviated Patient’s Assessment of Own Functioning Inventory (PAOFI)"
+      },
+      {
+        "name": "Patient Health Questionnaire-2 (PHQ-2)"
+      }
+    ],
+    "variableMeasured": [
+      {
+        "name": "Cognitive function (memory, learning, and executive functioning, etc.)"
+      }
+    ],
+    "author": [
+      {
+        "name": "Leah Rubin",
+        "givenName": "Leah",
+        "familyName": "Rubin"
+      },
+      {
+        "name": "David Vance",
+        "givenName": "David",
+        "familyName": "Vance"
+      }
+    ],
+    "collectionSize": [
+      {
+        "minVal": 3696,
+        "unitText": "Study Subjects"
+      }
+    ],
+    "sample": {
+      "@type": "Sample",
+      "sex": [
+        "Men",
+        "Women"
+      ],
+      "age": {
+        "minVal": 57,
+        "unitText": "years",
+        "valueType": "median"
+      },
+      "sampleQuantity": [
+        {
+          "minVal": 2402,
+          "unitText": "living with HIV"
+        },
+        {
+          "minVal": 1294,
+          "unitText": "living without HIV"
+        },
+        {
+          "minVal": 2070,
+          "unitText": "Women"
+        },
+        {
+          "minVal": 1626,
+          "unitText": "Men"
+        }
+      ]
+    },
+    "temporalCoverage": {
+      "startDate": "2022-10-01",
+      "endDate": "2026-09-30",
+      "temporalType": "collection"
+    },
+    "healthCondition": [
+      {
+        "name": "cognitive impairment"
+      },
+      {
+        "name": "HIV infection"
+      }
+    ],
+    "infectiousAgent": [
+      {
+        "name": "HIV-1"
+      },
+      {
+        "name": "HIV-2"
+      }
+    ],
+    "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Full_Cognitive_Function_Substudy_VisualAbstract_12.08.25.pdf",
+    "includedInDataCatalog": {
+      "name": "MWCCS"
+    }
+  },
+  {
+    "@type": "DataCollection",
+    "name": "Hearing and Balance Substudy",
+    "description": "Data collected from 3727 men and women living with and without HIV at all sites. This data can help researchers learn more about How common are symptoms for:; trouble with hearing; vertigo (feeling like you or the space around you is spinning) And is it different in people living with and without HIV? Relationship between hearing and vertigo symptoms and how well the brain functions (thinking, remembering)",
+    "species": {
+      "name": "Homo sapiens"
+    },
+    "measurementTechnique": [
+      {
+        "name": "10-minute National Health and Nutrition Examination Survey (NHANES) hearing and balance survey"
+      }
+    ],
+    "variableMeasured": [
+      {
+        "name": "Hearing and balance"
+      },
+      {
+        "name": "How common are symptoms for:"
+      }
+    ],
+    "author": [
+      {
+        "name": "Michael Plankey",
+        "givenName": "Michael",
+        "familyName": "Plankey"
+      }
+    ],
+    "collectionSize": [
+      {
+        "minVal": 3727,
+        "unitText": "Study Subjects"
+      },
+      {
+        "minVal": 3727,
+        "unitText": "Assessments"
+      }
+    ],
+    "sample": {
+      "@type": "Sample",
+      "sex": [
+        "Men",
+        "Women"
+      ],
+      "age": {
+        "minVal": 57,
+        "unitText": "years",
+        "valueType": "median"
+      },
+      "sampleQuantity": [
+        {
+          "minVal": 2311,
+          "unitText": "living with HIV"
+        },
+        {
+          "minVal": 1416,
+          "unitText": "living without HIV"
+        },
+        {
+          "minVal": 2013,
+          "unitText": "Women"
+        },
+        {
+          "minVal": 1714,
+          "unitText": "Men"
+        }
+      ]
+    },
+    "temporalCoverage": {
+      "startDate": "2020-10-01",
+      "endDate": "2022-09-30",
+      "temporalType": "collection"
+    },
+    "healthCondition": [
+      {
+        "name": "hearing disorder"
+      },
+      {
+        "name": "vertigo"
+      },
+      {
+        "name": "HIV infection"
+      }
+    ],
+    "infectiousAgent": [
+      {
+        "name": "HIV-1"
+      },
+      {
+        "name": "HIV-2"
+      }
+    ],
+    "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Hearing_and_Balance_Substudy_VisualAbstract_12.15.25.pdf",
+    "includedInDataCatalog": {
+      "name": "MWCCS"
+    }
+  },
+  {
+    "@type": "DataCollection",
+    "name": "Microbiome Substudy",
+    "description": "Data collected from 3434 men and women living with and without HIV at all sites. This data can help researchers learn more about The relationship between the gut microbiome and different health conditions including:; insulin resistance; diabetes; high cholesterol; high blood pressure; fatty liver disease; emphysema/COPD; inflammation markers Microbes (e.g., bacteria, viruses) linked to common metabolic and immune disorders",
+    "species": {
+      "name": "Homo sapiens"
+    },
+    "measurementTechnique": [
+      {
+        "name": "Stool home collection kit (paper FTA card, sample collection tube)"
+      },
+      {
+        "name": "5 question survey related to stool sample"
+      }
+    ],
+    "variableMeasured": [
+      {
+        "name": "Gut microbiome - Millions of microorganisms (mainly bacteria) and their genetic material (DNA) in the intestines"
+      }
+    ],
+    "author": [
+      {
+        "name": "Robert Burk",
+        "givenName": "Robert",
+        "familyName": "Burk"
+      }
+    ],
+    "collectionSize": [
+      {
+        "minVal": 3434,
+        "unitText": "Study Subjects"
+      },
+      {
+        "minVal": 3434,
+        "unitText": "Assessments"
+      }
+    ],
+    "sample": {
+      "@type": "Sample",
+      "sex": [
+        "Men",
+        "Women"
+      ],
+      "age": {
+        "minVal": 57,
+        "unitText": "years",
+        "valueType": "median"
+      },
+      "sampleQuantity": [
+        {
+          "minVal": 2163,
+          "unitText": "living with HIV"
+        },
+        {
+          "minVal": 1271,
+          "unitText": "living without HIV"
+        },
+        {
+          "minVal": 1717,
+          "unitText": "Women"
+        },
+        {
+          "minVal": 1717,
+          "unitText": "Men"
+        }
+      ]
+    },
+    "temporalCoverage": {
+      "startDate": "2020-10-01",
+      "endDate": "2026-09-30",
+      "temporalType": "collection"
+    },
+    "healthCondition": [
+      {
+        "name": "gut microbiome alteration"
+      },
+      {
+        "name": "insulin resistance"
+      },
+      {
+        "name": "diabetes mellitus"
+      },
+      {
+        "name": "hypercholesterolemia"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "fatty liver disease"
+      },
+      {
+        "name": "emphysema"
+      },
+      {
+        "name": "chronic obstructive pulmonary disease"
+      },
+      {
+        "name": "HIV infection"
+      }
+    ],
+    "infectiousAgent": [
+      {
+        "name": "HIV-1"
+      },
+      {
+        "name": "HIV-2"
+      }
+    ],
+    "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Microbiome_Substudy_VisualAbstract_12.10.25.pdf",
+    "includedInDataCatalog": {
+      "name": "MWCCS"
+    }
+  },
+  {
+    "@type": "DataCollection",
+    "name": "Pulmonary Function Substudy",
+    "description": "Data collected from 3765 men and women living with and without HIV at all sites. This data can help researchers learn more about How lung disease develops and relates to other health conditions in people living with HIV; Identify targets to prevent lung disease and maintain lung health; Develop strategies to manage lung disease in people living with HIV",
+    "species": {
+      "name": "Homo sapiens"
+    },
+    "measurementTechnique": [
+      {
+        "name": "Spirometry"
+      },
+      {
+        "name": "Diffusion capacity for carbon monoxide (DLCO)"
+      },
+      {
+        "name": "St. Georges Respiratory Questionnaire"
+      },
+      {
+        "name": "Modified Medical Research Council Dyspnea scale"
+      }
+    ],
+    "variableMeasured": [
+      {
+        "name": "Pulmonary function and symptoms"
+      }
+    ],
+    "author": [
+      {
+        "name": "M. Bradley Drummond",
+        "givenName": "M.",
+        "familyName": "Drummond"
+      },
+      {
+        "name": "Ken Kunisaki",
+        "givenName": "Ken",
+        "familyName": "Kunisaki"
+      },
+      {
+        "name": "Alison Morris",
+        "givenName": "Alison",
+        "familyName": "Morris"
+      }
+    ],
+    "collectionSize": [
+      {
+        "minVal": 3765,
+        "unitText": "Study Subjects"
+      },
+      {
+        "minVal": 3765,
+        "unitText": "Assessments"
+      }
+    ],
+    "sample": {
+      "@type": "Sample",
+      "sex": [
+        "Men",
+        "Women"
+      ],
+      "age": {
+        "minVal": 56,
+        "unitText": "years",
+        "valueType": "median"
+      },
+      "sampleQuantity": [
+        {
+          "minVal": 2485,
+          "unitText": "living with HIV"
+        },
+        {
+          "minVal": 1280,
+          "unitText": "living without HIV"
+        },
+        {
+          "minVal": 2033,
+          "unitText": "Women"
+        },
+        {
+          "minVal": 1732,
+          "unitText": "Men"
+        }
+      ]
+    },
+    "temporalCoverage": {
+      "startDate": "2021-10-01",
+      "endDate": "2025-09-30",
+      "temporalType": "collection"
+    },
+    "healthCondition": [
+      {
+        "name": "lung disease"
+      },
+      {
+        "name": "pulmonary disease"
+      },
+      {
+        "name": "HIV infection"
+      }
+    ],
+    "infectiousAgent": [
+      {
+        "name": "HIV-1"
+      },
+      {
+        "name": "HIV-2"
+      }
+    ],
+    "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_PFT_Substudy_Visual_Abstract_12.09.25.pdf",
+    "includedInDataCatalog": {
+      "name": "MWCCS"
+    }
+  },
+  {
+    "@type": "DataCollection",
+    "name": "Tooth Count Substudy",
+    "description": "Data collected from 3349 men and women living with and without HIV at all sites. This data can help researchers learn more about How common mouth/dental diseases and conditions are; The relationship between mouth/dental disease and demographic, socioeconomic, and environmental factors; How mouth/dental disease and its negative effect on the environment in a person’s mouth/teeth are linked to health conditions in people living with HIV",
+    "species": {
+      "name": "Homo sapiens"
+    },
+    "measurementTechnique": [
+      {
+        "name": "Photographs of the inside of the mouth:"
+      },
+      {
+        "name": "upper and lower parts of mouth"
+      },
+      {
+        "name": "any visible dental sores"
+      },
+      {
+        "name": "areas of the mouth that look different than expected"
+      }
+    ],
+    "variableMeasured": [
+      {
+        "name": "Tooth count and visual inspection of oral disease/conditions"
+      },
+      {
+        "name": "How common mouth/dental diseases and conditions are"
+      }
+    ],
+    "author": [
+      {
+        "name": "Apoena de Aguiar Ribeiro",
+        "givenName": "Apoena",
+        "familyName": "Ribeiro"
+      },
+      {
+        "name": "Carrigan Parish",
+        "givenName": "Carrigan",
+        "familyName": "Parish"
+      },
+      {
+        "name": "Catalina Ramirez",
+        "givenName": "Catalina",
+        "familyName": "Ramirez"
+      }
+    ],
+    "collectionSize": [
+      {
+        "minVal": 3349,
+        "unitText": "Study Subjects"
+      },
+      {
+        "minVal": 3349,
+        "unitText": "Assessments"
+      }
+    ],
+    "sample": {
+      "@type": "Sample",
+      "sex": [
+        "Men",
+        "Women"
+      ],
+      "age": {
+        "minVal": 55,
+        "unitText": "years",
+        "valueType": "median"
+      },
+      "sampleQuantity": [
+        {
+          "minVal": 2177,
+          "unitText": "living with HIV"
+        },
+        {
+          "minVal": 1172,
+          "unitText": "living without HIV"
+        },
+        {
+          "minVal": 1708,
+          "unitText": "Women"
+        },
+        {
+          "minVal": 1641,
+          "unitText": "Men"
+        }
+      ]
+    },
+    "temporalCoverage": {
+      "startDate": "2022-10-01",
+      "endDate": "2026-09-30",
+      "temporalType": "collection"
+    },
+    "healthCondition": [
+      {
+        "name": "oral disease"
+      },
+      {
+        "name": "dental disease"
+      },
+      {
+        "name": "HIV infection"
+      }
+    ],
+    "infectiousAgent": [
+      {
+        "name": "HIV-1"
+      },
+      {
+        "name": "HIV-2"
+      }
+    ],
+    "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Tooth_Count_Substudy_VisualAbstract_12.09.25.pdf",
+    "includedInDataCatalog": {
+      "name": "MWCCS"
+    }
+  },
+  {
+    "@type": "DataCollection",
+    "name": "Mental Health and Substance Use Substudy",
+    "description": "Data collected from 3361 men and women living with and without HIV at all 13 sites 57 years old (range 18-97 yrs) median age. This data can help researchers learn more about How common mental health disorders are; How common substance use disorders are; Relationship between behavioral and physical health conditions; How behavioral health disorders affect HIV treatment and outcomes as people age",
+    "species": {
+      "name": "Homo sapiens"
+    },
+    "measurementTechnique": [
+      {
+        "name": "? What is being measured: Lifetime and past 12-month mental health and substance use disorders Measure: WHO Composite International Diagnostic Interview (CIDI) as defined by American Psychiatric Association Diagnostic and Statistical Manual-5"
+      }
+    ],
+    "variableMeasured": [
+      {
+        "name": "Lifetime and past 12-month mental health and substance use disorders"
+      },
+      {
+        "name": "How common mental health disorders are"
+      },
+      {
+        "name": "How common substance use disorders are"
+      }
+    ],
+    "author": [
+      {
+        "name": "Judith Cook",
+        "givenName": "Judith",
+        "familyName": "Cook"
+      }
+    ],
+    "collectionSize": [
+      {
+        "minVal": 3361,
+        "unitText": "Study Subjects"
+      },
+      {
+        "minVal": 3361,
+        "unitText": "Assessments"
+      }
+    ],
+    "sample": {
+      "@type": "Sample",
+      "sex": [
+        "Men",
+        "Women"
+      ],
+      "sampleQuantity": [
+        {
+          "minVal": 2185,
+          "unitText": "living with HIV"
+        },
+        {
+          "minVal": 1176,
+          "unitText": "living without HIV"
+        },
+        {
+          "minVal": 1781,
+          "unitText": "Women"
+        },
+        {
+          "minVal": 1580,
+          "unitText": "Men"
+        }
+      ]
+    },
+    "temporalCoverage": {
+      "startDate": "2021-10-01",
+      "endDate": "2025-09-30",
+      "temporalType": "collection"
+    },
+    "healthCondition": [
+      {
+        "name": "mental disorder"
+      },
+      {
+        "name": "substance use disorder"
+      },
+      {
+        "name": "HIV infection"
+      }
+    ],
+    "infectiousAgent": [
+      {
+        "name": "HIV-1"
+      },
+      {
+        "name": "HIV-2"
+      }
+    ],
+    "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/10/Substudy_visualabstract_CIDI_10.23.25.pdf",
+    "includedInDataCatalog": {
+      "name": "MWCCS"
+    }
+  }
+]
