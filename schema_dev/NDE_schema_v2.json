@@ -19,8 +19,8 @@
       "rdfs:subClassOf": {
         "@id": "niaid:Dataset"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v2.0 - 2025.12.12"],
-      "dct:provenance":"Changes since previous version: Update the validation of the 'sample' property in the Dataset to match the changes to the SampleCollection Type.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v2.1 - 2026.04.08"],
+      "dct:provenance":"Changes since previous version: Add 'creativeWorkStatus' property.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -720,6 +720,12 @@
             ],
             "owl:cardinality": "many"
           },
+          "creativeWorkStatus": {
+            "description": "The status of the Dataset. Expected to be one of the following values: Draft (The dataset is not yet ready), Active (The dataset is currently working and available), Retired (The dataset is no longer available).",
+            "type": "string",
+            "enum": ["Draft", "Active", "Retired"],
+            "owl:cardinality": "one"
+          },
           "dateCreated": {
             "description": "Date the work was created.",
             "format": "date",
@@ -1303,7 +1309,7 @@
         },
         "required": ["date", "funding", "distribution", "includedInDataCatalog", "measurementTechnique", "author", "description", "name", "url"],
         "recommended": ["citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory"],
-        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "nctid", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship","sourceOrganization", "sample","creditText"],
+        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "nctid", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship","sourceOrganization", "sample","creditText","creativeWorkStatus"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -2336,8 +2342,8 @@
       "rdfs:subClassOf": {
         "@id": "niaid:ComputationalTool"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.09.03"],
-      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions. Added the creditText property as optional.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v2.0 - 2026.04.08"],
+      "dct:provenance":"Changes since previous version: Add 'creativeWorkStatus' property.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -3598,11 +3604,17 @@
             "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the tool.",
             "type": "string",
             "owl:cardinality": "one"
+          },
+          "creativeWorkStatus": {
+            "description": "The status of the ComputationalTool. Expected to be one of the following values: Draft (The tool is under development), Active (The tool is currently working and available), Maintenance (The tool is temporarily unavailable for maintenance), Accepting Data (The tool is Active AND Accepting submissions), Not Accepting Data (The tool is Active but is NOT Accepting submissions), Retired (The tool is no longer being maintained).",
+            "type": "string",
+            "enum": ["Draft", "Active", "Maintenance", "Accepting Data", "Not Accepting Data", "Retired"],
+            "owl:cardinality": "one"
           }
         },
         "required": ["date", "includedInDataCatalog", "funding", "author", "description", "name"],
         "recommended": ["citedBy", "doi", "topicCategory", "codeRepository", "programmingLanguage", "applicationCategory", "applicationSubCategory", "input", "output", "featureList", "operatingSystem", "softwareRequirements", "softwareVersion", "citation", "conditionsOfAccess", "dateModified", "interactionStatistic", "license", "identifier", "url"],
-        "optional": ["isBasisFor", "isRelatedTo", "isSimilarTo", "infectiousAgent", "healthCondition", "species", "applicationSuite", "availableOnDevice", "downloadUrl", "processorRequirements", "softwareAddOn", "softwareHelp", "aggregateRating", "contributor", "creator", "dateCreated", "datePublished", "discussionUrl", "hasPart", "inLanguage", "isAccessibleForFree", "isBasedOn", "isPartOf", "keywords", "provider", "sdPublisher", "thumbnailUrl", "mainEntityOfPage", "sameAs","sourceOrganization", "creditText"],
+        "optional": ["isBasisFor", "isRelatedTo", "isSimilarTo", "infectiousAgent", "healthCondition", "species", "applicationSuite", "availableOnDevice", "downloadUrl", "processorRequirements", "softwareAddOn", "softwareHelp", "aggregateRating", "contributor", "creator", "dateCreated", "datePublished", "discussionUrl", "hasPart", "inLanguage", "isAccessibleForFree", "isBasedOn", "isPartOf", "keywords", "provider", "sdPublisher", "thumbnailUrl", "mainEntityOfPage", "sameAs","sourceOrganization", "creditText", "creativeWorkStatus"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -4195,8 +4207,8 @@
       "rdfs:subClassOf": {
         "@id": "schema:Collection"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v2.0 - 2025.12.08"],
-      "dct:provenance":"Changes since previous version: Add description for the 'about' field.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v2.1 - 2026.04.08"],
+      "dct:provenance":"Changes since previous version: Add 'creativeWorkStatus' property.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -5525,11 +5537,17 @@
             "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the resource.",
             "type": "string",
             "owl:cardinality": "one"
+          },
+          "creativeWorkStatus": {
+            "description": "The status of the ResourceCatalog. Expected to be one of the following values: Draft (The resources is under development), Active (The resource is currently working and available), Maintenance (The resource is temporarily unavailable for maintenance), Accepting Data (The resource is Active AND Accepting submissions), Not Accepting Data (The resource is Active but is NOT Accepting submissions), Retired (The resource is no longer available).",
+            "type": "string",
+            "enum": ["Draft", "Active", "Maintenance", "Accepting Data", "Not Accepting Data", "Retired"],
+            "owl:cardinality": "one"
           }
         },
         "required": ["date", "funding", "measurementTechnique", "description", "name", "url", "about","genre", "includedInDataCatalog"],
         "recommended": ["author", "citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory", "collectionSize", "hasAPI", "hasDownload", "collectionType"],
-        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "distribution", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship", "sourceOrganization", "archivedAt","creditText"],
+        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "distribution", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship", "sourceOrganization", "archivedAt","creditText", "creativeWorkStatus"],
         "definitions": {
           "citation": {
             "description": "A citation object for a publication which is cited by the resource catalog (ie- is a derivative of the resource catalog), related to the resource catalog, or from which the resource catalog was based on (ie- is derived from).",
@@ -6444,8 +6462,8 @@
           "@id": "schema:CreativeWork"
         }
       ],
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.5 - 2026.02.04"],
-      "dct:provenance":"Changes since previous version: Allow DefinedTerm as an expected type for experimentalPurpose.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.7 - 2026.04.08"],
+      "dct:provenance":"Changes since previous version: Add 'creativeWorkStatus' property.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -8412,6 +8430,12 @@
             "type": "string",
             "owl:cardinality": "one"
           },
+          "creativeWorkStatus": {
+            "description": "The status of the Sample. Expected to be one of the following values: Bespoke (The sample is made-to-order), Available (The sample is currently available), Backordered (The sample is temporarily unavailable or out-of-stock), Retired (The sample is no longer available).",
+            "type": "string",
+            "enum": ["Bespoke", "Available", "Backordered", "Retired"],
+            "owl:cardinality": "one"
+          },
           "additionalProperty": {
             "description": "Other Property/Value pairs that describe the sample.",
             "anyOf": [
@@ -8426,11 +8450,26 @@
               }
             ],
             "owl:cardinality": "many"
+          },
+          "additionalType": {
+            "description": "The subclassification of the Sample based on where it was intended to be indexed. Use 'ExperimentalRunSample' for samples intended for sequencing and other experimental run repositories vs 'BioSample' for samples intended for biospecimen, biobank, or other biological reagent repositories. If a sample is expected to be indexed in both types, use an array and list both types.",
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              {
+                "type": "string"
+              }
+            ],
+            "owl:cardinality": "many"
           }
         },
         "required": ["name", "url", "identifier", "includedInDataCatalog", "author", "date"],
         "recommended": ["description", "sameAs", "conditionsOfAccess", "usageInfo", "license", "cellType", "infectiousAgent", "species", "healthCondition", "funding", "creditText", "anatomicalStructure", "sex", "developmentalStage", "sampleAvailability", "sampleProcess", "sampleType", "collectionMethod", "instrument", "collector", "contributor", "locationOfOrigin", "citation", "dateModified", "dateCollected", "dateProcessed", "interactionStatistic", "keywords", "sdPublisher", "sourceOrganization", "topicCategory", "creditText"],
-        "optional": ["associatedPhenotype", "associatedGenotype", "citedBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage", "additionalProperty"],
+        "optional": ["associatedPhenotype", "associatedGenotype", "citedBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage", "additionalProperty","additionalType"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
