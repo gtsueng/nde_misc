@@ -1,0 +1,94 @@
+{
+  "@type": "DataCollection",
+  "name": "Mental Health and Substance Use Substudy",
+  "description": "Data collected from 3361 men and women living with and without HIV at all 13 sites 57 years old (range 18-97 yrs) median age. This data can help researchers learn more about How common mental health disorders are; How common substance use disorders are; Relationship between behavioral and physical health conditions; How behavioral health disorders affect HIV treatment and outcomes as people age",
+  "species": {
+    "name": "Homo sapiens"
+  },
+  "measurementTechnique": [
+    {
+      "name": "? What is being measured: Lifetime and past 12-month mental health and substance use disorders Measure: WHO Composite International Diagnostic Interview (CIDI) as defined by American Psychiatric Association Diagnostic and Statistical Manual-5"
+    }
+  ],
+  "variableMeasured": [
+    {
+      "name": "Lifetime and past 12-month mental health and substance use disorders"
+    },
+    {
+      "name": "How common mental health disorders are"
+    },
+    {
+      "name": "How common substance use disorders are"
+    }
+  ],
+  "author": [
+    {
+      "name": "Judith Cook",
+      "givenName": "Judith",
+      "familyName": "Cook"
+    }
+  ],
+  "collectionSize": [
+    {
+      "minVal": 3361,
+      "unitText": "Study Subjects"
+    },
+    {
+      "minVal": 3361,
+      "unitText": "Assessments"
+    }
+  ],
+  "sample": {
+    "@type": "Sample",
+    "sex": [
+      "Men",
+      "Women"
+    ],
+    "sampleQuantity": [
+      {
+        "minVal": 2185,
+        "unitText": "living with HIV"
+      },
+      {
+        "minVal": 1176,
+        "unitText": "living without HIV"
+      },
+      {
+        "minVal": 1781,
+        "unitText": "Women"
+      },
+      {
+        "minVal": 1580,
+        "unitText": "Men"
+      }
+    ]
+  },
+  "temporalCoverage": {
+    "startDate": "2021-10-01",
+    "endDate": "2025-09-30",
+    "temporalType": "collection"
+  },
+  "healthCondition": [
+    {
+      "name": "mental disorder"
+    },
+    {
+      "name": "substance use disorder"
+    },
+    {
+      "name": "HIV infection"
+    }
+  ],
+  "infectiousAgent": [
+    {
+      "name": "HIV-1"
+    },
+    {
+      "name": "HIV-2"
+    }
+  ],
+  "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/10/Substudy_visualabstract_CIDI_10.23.25.pdf",
+  "includedInDataCatalog": {
+    "name": "MWCCS"
+  }
+}

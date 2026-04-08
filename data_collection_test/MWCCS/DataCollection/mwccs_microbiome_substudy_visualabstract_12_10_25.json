@@ -1,0 +1,114 @@
+{
+  "@type": "DataCollection",
+  "name": "Microbiome Substudy",
+  "description": "Data collected from 3434 men and women living with and without HIV at all sites. This data can help researchers learn more about The relationship between the gut microbiome and different health conditions including:; insulin resistance; diabetes; high cholesterol; high blood pressure; fatty liver disease; emphysema/COPD; inflammation markers Microbes (e.g., bacteria, viruses) linked to common metabolic and immune disorders",
+  "species": {
+    "name": "Homo sapiens"
+  },
+  "measurementTechnique": [
+    {
+      "name": "Stool home collection kit (paper FTA card, sample collection tube)"
+    },
+    {
+      "name": "5 question survey related to stool sample"
+    }
+  ],
+  "variableMeasured": [
+    {
+      "name": "Gut microbiome - Millions of microorganisms (mainly bacteria) and their genetic material (DNA) in the intestines"
+    }
+  ],
+  "author": [
+    {
+      "name": "Robert Burk",
+      "givenName": "Robert",
+      "familyName": "Burk"
+    }
+  ],
+  "collectionSize": [
+    {
+      "minVal": 3434,
+      "unitText": "Study Subjects"
+    },
+    {
+      "minVal": 3434,
+      "unitText": "Assessments"
+    }
+  ],
+  "sample": {
+    "@type": "Sample",
+    "sex": [
+      "Men",
+      "Women"
+    ],
+    "age": {
+      "minVal": 57,
+      "unitText": "years",
+      "valueType": "median"
+    },
+    "sampleQuantity": [
+      {
+        "minVal": 2163,
+        "unitText": "living with HIV"
+      },
+      {
+        "minVal": 1271,
+        "unitText": "living without HIV"
+      },
+      {
+        "minVal": 1717,
+        "unitText": "Women"
+      },
+      {
+        "minVal": 1717,
+        "unitText": "Men"
+      }
+    ]
+  },
+  "temporalCoverage": {
+    "startDate": "2020-10-01",
+    "endDate": "2026-09-30",
+    "temporalType": "collection"
+  },
+  "healthCondition": [
+    {
+      "name": "gut microbiome alteration"
+    },
+    {
+      "name": "insulin resistance"
+    },
+    {
+      "name": "diabetes mellitus"
+    },
+    {
+      "name": "hypercholesterolemia"
+    },
+    {
+      "name": "hypertension"
+    },
+    {
+      "name": "fatty liver disease"
+    },
+    {
+      "name": "emphysema"
+    },
+    {
+      "name": "chronic obstructive pulmonary disease"
+    },
+    {
+      "name": "HIV infection"
+    }
+  ],
+  "infectiousAgent": [
+    {
+      "name": "HIV-1"
+    },
+    {
+      "name": "HIV-2"
+    }
+  ],
+  "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Microbiome_Substudy_VisualAbstract_12.10.25.pdf",
+  "includedInDataCatalog": {
+    "name": "MWCCS"
+  }
+}

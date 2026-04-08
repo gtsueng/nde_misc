@@ -1,0 +1,106 @@
+{
+  "@type": "DataCollection",
+  "name": "Brief Cognitive Function Substudy",
+  "description": "Data collected from 4342 English speaking men and women living with and without HIV at all sites. This data can help researchers learn more about What factors positively and negatively affect memory, thinking, and learning in people living with HIV; How cognitive function changes over time; What are the different cognitive profiles of people living with and without HIV",
+  "species": {
+    "name": "Homo sapiens"
+  },
+  "measurementTechnique": [
+    {
+      "name": "BRACE (Brainbaseline 10- min Assessment of Cognition and Everyday Function)"
+    },
+    {
+      "name": "Trials A&B"
+    },
+    {
+      "name": "Stroop Color"
+    },
+    {
+      "name": "Visual Spatial Learning Test (VSLT)"
+    },
+    {
+      "name": "Abbreviated Patient’s Assessment of Own Functioning Inventory (PAOFI)"
+    },
+    {
+      "name": "Patient Health Questionnaire-2 (PHQ-2)"
+    }
+  ],
+  "variableMeasured": [
+    {
+      "name": "Cognitive function (memory, thinking, and learning)"
+    }
+  ],
+  "author": [
+    {
+      "name": "Leah Rubin",
+      "givenName": "Leah",
+      "familyName": "Rubin"
+    },
+    {
+      "name": "David Vance",
+      "givenName": "David",
+      "familyName": "Vance"
+    }
+  ],
+  "collectionSize": [
+    {
+      "minVal": 4342,
+      "unitText": "Study Subjects"
+    }
+  ],
+  "sample": {
+    "@type": "Sample",
+    "sex": [
+      "Men",
+      "Women"
+    ],
+    "age": {
+      "minVal": 57,
+      "unitText": "years",
+      "valueType": "median"
+    },
+    "sampleQuantity": [
+      {
+        "minVal": 2822,
+        "unitText": "living with HIV"
+      },
+      {
+        "minVal": 1520,
+        "unitText": "living without HIV"
+      },
+      {
+        "minVal": 2345,
+        "unitText": "Women"
+      },
+      {
+        "minVal": 1997,
+        "unitText": "Men"
+      }
+    ]
+  },
+  "temporalCoverage": {
+    "startDate": "2021-10-01",
+    "endDate": "2026-09-30",
+    "temporalType": "collection"
+  },
+  "healthCondition": [
+    {
+      "name": "cognitive impairment"
+    },
+    {
+      "name": "HIV infection"
+    }
+  ],
+  "infectiousAgent": [
+    {
+      "name": "HIV-1"
+    },
+    {
+      "name": "HIV-2"
+    }
+  ],
+  "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Brief_Cognitive_Function_Substudy_VisualAbstract_12.08.25.pdf",
+  "includedInDataCatalog": {
+    "name": "MWCCS"
+  }
+}

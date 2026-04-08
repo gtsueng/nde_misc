@@ -1,0 +1,110 @@
+{
+  "@type": "DataCollection",
+  "name": "Fibroscan Substudy",
+  "description": "Data collected from 4449 men and women living with and without HIV at all sites* *excludes those with implant devices or pregnant. This data can help researchers learn more about What factors are linked to worsening fat and scarring in the liver; How HIV affects liver health; How common liver fat or scarring is and how risk changes over time",
+  "species": {
+    "name": "Homo sapiens"
+  },
+  "measurementTechnique": [
+    {
+      "name": "Fibroscan with Controlled Attenuation Parameter (CAP)"
+    },
+    {
+      "name": "ultrasound"
+    }
+  ],
+  "variableMeasured": [
+    {
+      "name": "amount of liver fibrosis (liver scarring)"
+    },
+    {
+      "name": "amount of liver steatosis (fat)"
+    }
+  ],
+  "author": [
+    {
+      "name": "Phyllis Tien",
+      "givenName": "Phyllis",
+      "familyName": "Tien"
+    },
+    {
+      "name": "Jennifer Price",
+      "givenName": "Jennifer",
+      "familyName": "Price"
+    },
+    {
+      "name": "Heather Freasier",
+      "givenName": "Heather",
+      "familyName": "Freasier"
+    }
+  ],
+  "collectionSize": [
+    {
+      "minVal": 4449,
+      "unitText": "Study Subjects"
+    },
+    {
+      "minVal": 8898,
+      "unitText": "Scans"
+    }
+  ],
+  "sample": {
+    "@type": "Sample",
+    "sex": [
+      "Men",
+      "Women"
+    ],
+    "age": {
+      "minVal": 57,
+      "unitText": "years",
+      "valueType": "median"
+    },
+    "description": "Excluded: participants with implant devices; pregnant participants",
+    "sampleQuantity": [
+      {
+        "minVal": 2892,
+        "unitText": "living with HIV"
+      },
+      {
+        "minVal": 1557,
+        "unitText": "living without HIV"
+      },
+      {
+        "minVal": 2358,
+        "unitText": "Women"
+      },
+      {
+        "minVal": 2091,
+        "unitText": "Men"
+      }
+    ]
+  },
+  "temporalCoverage": {
+    "startDate": "2020-10-01",
+    "endDate": "2026-09-30",
+    "temporalType": "collection"
+  },
+  "healthCondition": [
+    {
+      "name": "liver fibrosis"
+    },
+    {
+      "name": "liver steatosis"
+    },
+    {
+      "name": "HIV infection"
+    }
+  ],
+  "infectiousAgent": [
+    {
+      "name": "HIV-1"
+    },
+    {
+      "name": "HIV-2"
+    }
+  ],
+  "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Fibroscan_Substudy_VisualAbstract_12.8.25.pdf",
+  "includedInDataCatalog": {
+    "name": "MWCCS"
+  }
+}

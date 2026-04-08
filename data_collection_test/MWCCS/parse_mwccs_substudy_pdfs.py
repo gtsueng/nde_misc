@@ -192,6 +192,10 @@ def normalize_study_key(name: str) -> str:
     return normalize_whitespace(name).lower()
 
 
+def slugify(value: str) -> str:
+    return re.sub(r"[^A-Za-z0-9]+", "_", value).strip("_").lower()
+
+
 def find_first_number_line(lines: list[str]) -> tuple[int | None, int | None]:
     for index, line in enumerate(lines):
         if re.fullmatch(r"\d{3,6}", line):
@@ -614,11 +618,23 @@ def build_datacollection(parsed: ParsedStudy) -> dict[str, object]:
     return obj
 
 
+def write_datacollection_files(results: list[tuple[ParsedStudy, dict[str, object]]], output_dir: Path) -> list[Path]:
+    output_dir.mkdir(parents=True, exist_ok=True)
+    written_paths: list[Path] = []
+
+    for parsed, obj in results:
+        output_path = output_dir / f"{slugify(parsed.pdf_path.stem)}.json"
+        output_path.write_text(json.dumps(obj, indent=2, ensure_ascii=False), encoding="utf-8")
+        written_paths.append(output_path)
+
+    return written_paths
+
+
 def parse_args(argv: Iterable[str]) -> argparse.Namespace:
     default_input = Path(__file__).resolve().with_name("Substudies")
-    default_output = Path(__file__).resolve().with_name("mwccs_substudies_datacollections.json")
+    default_output = Path(__file__).resolve().with_name("DataCollection")
     parser = argparse.ArgumentParser(
-        description="Parse MWCCS substudy PDFs into JSON DataCollection objects."
+        description="Parse MWCCS substudy PDFs into per-study JSON DataCollection objects."
     )
     parser.add_argument(
         "--input-dir",
@@ -628,7 +644,7 @@ def parse_args(argv: Iterable[str]) -> argparse.Namespace:
     parser.add_argument(
         "--output",
         default=str(default_output),
-        help="Output JSON path.",
+        help="Output directory for per-study JSON files. Default: MWCCS/DataCollection",
     )
     parser.add_argument(
         "--page-url",
@@ -647,7 +663,7 @@ def parse_args(argv: Iterable[str]) -> argparse.Namespace:
 def main(argv: Iterable[str]) -> int:
     args = parse_args(argv)
     input_dir = Path(args.input_dir).resolve()
-    output_path = Path(args.output).resolve()
+    output_dir = Path(args.output).resolve()
 
     if not input_dir.exists():
         print(f"Input directory not found: {input_dir}", file=sys.stderr)
@@ -659,10 +675,13 @@ def main(argv: Iterable[str]) -> int:
         return 2
 
     source_urls = fetch_source_urls(args.page_url, timeout=args.timeout)
-    results = [build_datacollection(parse_study(pdf_path, source_urls.get(pdf_path.name))) for pdf_path in pdf_paths]
+    results = []
+    for pdf_path in pdf_paths:
+        parsed = parse_study(pdf_path, source_urls.get(pdf_path.name))
+        results.append((parsed, build_datacollection(parsed)))
 
-    output_path.write_text(json.dumps(results, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"Wrote {len(results)} DataCollection objects to {output_path}")
+    written_paths = write_datacollection_files(results, output_dir)
+    print(f"Wrote {len(written_paths)} DataCollection JSON files to {output_dir}")
     return 0
 
 

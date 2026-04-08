@@ -1,0 +1,96 @@
+{
+  "@type": "DataCollection",
+  "name": "Hearing and Balance Substudy",
+  "description": "Data collected from 3727 men and women living with and without HIV at all sites. This data can help researchers learn more about How common are symptoms for:; trouble with hearing; vertigo (feeling like you or the space around you is spinning) And is it different in people living with and without HIV? Relationship between hearing and vertigo symptoms and how well the brain functions (thinking, remembering)",
+  "species": {
+    "name": "Homo sapiens"
+  },
+  "measurementTechnique": [
+    {
+      "name": "10-minute National Health and Nutrition Examination Survey (NHANES) hearing and balance survey"
+    }
+  ],
+  "variableMeasured": [
+    {
+      "name": "Hearing and balance"
+    },
+    {
+      "name": "How common are symptoms for:"
+    }
+  ],
+  "author": [
+    {
+      "name": "Michael Plankey",
+      "givenName": "Michael",
+      "familyName": "Plankey"
+    }
+  ],
+  "collectionSize": [
+    {
+      "minVal": 3727,
+      "unitText": "Study Subjects"
+    },
+    {
+      "minVal": 3727,
+      "unitText": "Assessments"
+    }
+  ],
+  "sample": {
+    "@type": "Sample",
+    "sex": [
+      "Men",
+      "Women"
+    ],
+    "age": {
+      "minVal": 57,
+      "unitText": "years",
+      "valueType": "median"
+    },
+    "sampleQuantity": [
+      {
+        "minVal": 2311,
+        "unitText": "living with HIV"
+      },
+      {
+        "minVal": 1416,
+        "unitText": "living without HIV"
+      },
+      {
+        "minVal": 2013,
+        "unitText": "Women"
+      },
+      {
+        "minVal": 1714,
+        "unitText": "Men"
+      }
+    ]
+  },
+  "temporalCoverage": {
+    "startDate": "2020-10-01",
+    "endDate": "2022-09-30",
+    "temporalType": "collection"
+  },
+  "healthCondition": [
+    {
+      "name": "hearing disorder"
+    },
+    {
+      "name": "vertigo"
+    },
+    {
+      "name": "HIV infection"
+    }
+  ],
+  "infectiousAgent": [
+    {
+      "name": "HIV-1"
+    },
+    {
+      "name": "HIV-2"
+    }
+  ],
+  "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Hearing_and_Balance_Substudy_VisualAbstract_12.15.25.pdf",
+  "includedInDataCatalog": {
+    "name": "MWCCS"
+  }
+}

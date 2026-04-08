@@ -1,0 +1,115 @@
+{
+  "@type": "DataCollection",
+  "name": "Tooth Count Substudy",
+  "description": "Data collected from 3349 men and women living with and without HIV at all sites. This data can help researchers learn more about How common mouth/dental diseases and conditions are; The relationship between mouth/dental disease and demographic, socioeconomic, and environmental factors; How mouth/dental disease and its negative effect on the environment in a person’s mouth/teeth are linked to health conditions in people living with HIV",
+  "species": {
+    "name": "Homo sapiens"
+  },
+  "measurementTechnique": [
+    {
+      "name": "Photographs of the inside of the mouth:"
+    },
+    {
+      "name": "upper and lower parts of mouth"
+    },
+    {
+      "name": "any visible dental sores"
+    },
+    {
+      "name": "areas of the mouth that look different than expected"
+    }
+  ],
+  "variableMeasured": [
+    {
+      "name": "Tooth count and visual inspection of oral disease/conditions"
+    },
+    {
+      "name": "How common mouth/dental diseases and conditions are"
+    }
+  ],
+  "author": [
+    {
+      "name": "Apoena de Aguiar Ribeiro",
+      "givenName": "Apoena",
+      "familyName": "Ribeiro"
+    },
+    {
+      "name": "Carrigan Parish",
+      "givenName": "Carrigan",
+      "familyName": "Parish"
+    },
+    {
+      "name": "Catalina Ramirez",
+      "givenName": "Catalina",
+      "familyName": "Ramirez"
+    }
+  ],
+  "collectionSize": [
+    {
+      "minVal": 3349,
+      "unitText": "Study Subjects"
+    },
+    {
+      "minVal": 3349,
+      "unitText": "Assessments"
+    }
+  ],
+  "sample": {
+    "@type": "Sample",
+    "sex": [
+      "Men",
+      "Women"
+    ],
+    "age": {
+      "minVal": 55,
+      "unitText": "years",
+      "valueType": "median"
+    },
+    "sampleQuantity": [
+      {
+        "minVal": 2177,
+        "unitText": "living with HIV"
+      },
+      {
+        "minVal": 1172,
+        "unitText": "living without HIV"
+      },
+      {
+        "minVal": 1708,
+        "unitText": "Women"
+      },
+      {
+        "minVal": 1641,
+        "unitText": "Men"
+      }
+    ]
+  },
+  "temporalCoverage": {
+    "startDate": "2022-10-01",
+    "endDate": "2026-09-30",
+    "temporalType": "collection"
+  },
+  "healthCondition": [
+    {
+      "name": "oral disease"
+    },
+    {
+      "name": "dental disease"
+    },
+    {
+      "name": "HIV infection"
+    }
+  ],
+  "infectiousAgent": [
+    {
+      "name": "HIV-1"
+    },
+    {
+      "name": "HIV-2"
+    }
+  ],
+  "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Tooth_Count_Substudy_VisualAbstract_12.09.25.pdf",
+  "includedInDataCatalog": {
+    "name": "MWCCS"
+  }
+}

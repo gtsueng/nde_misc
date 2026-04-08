@@ -1,0 +1,108 @@
+{
+  "@type": "DataCollection",
+  "name": "Echocardiogram Substudy",
+  "description": "Data collected from 2988 men and women 40 yrs+ living with and without HIV at all sites. This data can help researchers learn more about How HIV and HIV-related factors affect the start of heart problems or make heart problems worse",
+  "species": {
+    "name": "Homo sapiens"
+  },
+  "measurementTechnique": [
+    {
+      "name": "Echocardiogram examination (an ultrasound that takes pictures of the heart and records blood flow through the heart and attached blood vessels)"
+    }
+  ],
+  "variableMeasured": [
+    {
+      "name": "The structure of the heart and its function"
+    }
+  ],
+  "author": [
+    {
+      "name": "Joao Lima",
+      "givenName": "Joao",
+      "familyName": "Lima"
+    },
+    {
+      "name": "Jorge Kizer",
+      "givenName": "Jorge",
+      "familyName": "Kizer"
+    },
+    {
+      "name": "Katherine Wu",
+      "givenName": "Katherine",
+      "familyName": "Wu"
+    },
+    {
+      "name": "Kimberly Keck",
+      "givenName": "Kimberly",
+      "familyName": "Keck"
+    }
+  ],
+  "collectionSize": [
+    {
+      "minVal": 2988,
+      "unitText": "Study Subjects"
+    },
+    {
+      "minVal": 2988,
+      "unitText": "Assessments"
+    }
+  ],
+  "sample": {
+    "@type": "Sample",
+    "sex": [
+      "Men",
+      "Women"
+    ],
+    "age": {
+      "minVal": 58,
+      "unitText": "years",
+      "valueType": "median"
+    },
+    "sampleQuantity": [
+      {
+        "minVal": 1942,
+        "unitText": "living with HIV"
+      },
+      {
+        "minVal": 1046,
+        "unitText": "living without HIV"
+      },
+      {
+        "minVal": 1554,
+        "unitText": "Women"
+      },
+      {
+        "minVal": 1434,
+        "unitText": "Men"
+      }
+    ]
+  },
+  "temporalCoverage": {
+    "startDate": "2022-10-01",
+    "endDate": "2026-09-30",
+    "temporalType": "collection"
+  },
+  "healthCondition": [
+    {
+      "name": "cardiovascular disease"
+    },
+    {
+      "name": "heart disease"
+    },
+    {
+      "name": "HIV infection"
+    }
+  ],
+  "infectiousAgent": [
+    {
+      "name": "HIV-1"
+    },
+    {
+      "name": "HIV-2"
+    }
+  ],
+  "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Echo_Substudy_VisualAbstract_12.8.25.pdf",
+  "includedInDataCatalog": {
+    "name": "MWCCS"
+  }
+}

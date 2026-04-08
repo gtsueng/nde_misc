@@ -1,0 +1,112 @@
+{
+  "@type": "DataCollection",
+  "name": "Pulmonary Function Substudy",
+  "description": "Data collected from 3765 men and women living with and without HIV at all sites. This data can help researchers learn more about How lung disease develops and relates to other health conditions in people living with HIV; Identify targets to prevent lung disease and maintain lung health; Develop strategies to manage lung disease in people living with HIV",
+  "species": {
+    "name": "Homo sapiens"
+  },
+  "measurementTechnique": [
+    {
+      "name": "Spirometry"
+    },
+    {
+      "name": "Diffusion capacity for carbon monoxide (DLCO)"
+    },
+    {
+      "name": "St. Georges Respiratory Questionnaire"
+    },
+    {
+      "name": "Modified Medical Research Council Dyspnea scale"
+    }
+  ],
+  "variableMeasured": [
+    {
+      "name": "Pulmonary function and symptoms"
+    }
+  ],
+  "author": [
+    {
+      "name": "M. Bradley Drummond",
+      "givenName": "M.",
+      "familyName": "Drummond"
+    },
+    {
+      "name": "Ken Kunisaki",
+      "givenName": "Ken",
+      "familyName": "Kunisaki"
+    },
+    {
+      "name": "Alison Morris",
+      "givenName": "Alison",
+      "familyName": "Morris"
+    }
+  ],
+  "collectionSize": [
+    {
+      "minVal": 3765,
+      "unitText": "Study Subjects"
+    },
+    {
+      "minVal": 3765,
+      "unitText": "Assessments"
+    }
+  ],
+  "sample": {
+    "@type": "Sample",
+    "sex": [
+      "Men",
+      "Women"
+    ],
+    "age": {
+      "minVal": 56,
+      "unitText": "years",
+      "valueType": "median"
+    },
+    "sampleQuantity": [
+      {
+        "minVal": 2485,
+        "unitText": "living with HIV"
+      },
+      {
+        "minVal": 1280,
+        "unitText": "living without HIV"
+      },
+      {
+        "minVal": 2033,
+        "unitText": "Women"
+      },
+      {
+        "minVal": 1732,
+        "unitText": "Men"
+      }
+    ]
+  },
+  "temporalCoverage": {
+    "startDate": "2021-10-01",
+    "endDate": "2025-09-30",
+    "temporalType": "collection"
+  },
+  "healthCondition": [
+    {
+      "name": "lung disease"
+    },
+    {
+      "name": "pulmonary disease"
+    },
+    {
+      "name": "HIV infection"
+    }
+  ],
+  "infectiousAgent": [
+    {
+      "name": "HIV-1"
+    },
+    {
+      "name": "HIV-2"
+    }
+  ],
+  "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_PFT_Substudy_Visual_Abstract_12.09.25.pdf",
+  "includedInDataCatalog": {
+    "name": "MWCCS"
+  }
+}
