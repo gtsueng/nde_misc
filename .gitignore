@@ -1,8 +1,10 @@
 .ipynb_checkpoints
 unique_value_check/data/*.pickle
 data_collection_test/raw_fetch/*
-data_collection_test/checkpoints/*
-data_collection_test/outputs/*
-data_collection_test/BEI_resources/records/*
+data_collection_test/*/checkpoints/*
+data_collection_test/*/outputs/*
+data_collection_test/*/records/*
+data_collection_test/*/raw_fetch/*
 /**/__pycache__/*
 *.pyc
+GH_reporter/config.json
