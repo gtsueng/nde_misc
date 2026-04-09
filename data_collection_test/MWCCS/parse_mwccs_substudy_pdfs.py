@@ -20,37 +20,8 @@ from pypdf import PdfReader
 
 SUBSTUDY_PAGE_URL = "https://statepi.jhsph.edu/mwccs/substudy-science/"
 USER_AGENT = "mwccs-substudy-parse/1.0"
-JSONLD_CONTEXT = {
-    "schema": "http://schema.org/",
-    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-    "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
-    "niaid": "https://discovery.biothings.io/ns/niaid/",
-    "nde": "https://discovery.biothings.io/ns/nde/",
-}
-ABOUT_PATIENT = {
-    "@type": "DefinedTerm",
-    "description": "For schema, consider https://schema.org/Patient",
-    "displayName": "Patient",
-    "name": "Patient",
-    "url": "http://purl.obolibrary.org/obo/NCIT_C16960",
-}
-DEFINED_TERM_INFECTIOUS_AGENT_MAP = {
-    "hiv-1": {
-        "@type": "DefinedTerm",
-        "name": "Human immunodeficiency virus 1",
-        "identifier": "11676",
-        "inDefinedTermSet": "NCBITAXON",
-        "url": "http://purl.obolibrary.org/obo/NCBITaxon_11676",
-    },
-    "hiv-2": {
-        "@type": "DefinedTerm",
-        "name": "Human immunodeficiency virus 2",
-        "identifier": "11709",
-        "inDefinedTermSet": "NCBITAXON",
-        "url": "http://purl.obolibrary.org/obo/NCBITaxon_11709",
-    },
-}
+DEFAULTS_PATH = Path(__file__).resolve().with_name("mwccs_datacollection_defaults.json")
+CATALOG_FIELDS_PATH = Path(__file__).resolve().with_name("mwccs_catalog_record_fields.json")
 MONTHS = {
     "jan": 1,
     "feb": 2,
@@ -72,63 +43,6 @@ NUMBER_WORDS = {
     "three": 3,
     "four": 4,
     "five": 5,
-}
-STUDY_OVERRIDES = {
-    "fibroscan substudy": {
-        "healthCondition": ["liver fibrosis", "liver steatosis", "HIV infection"],
-        "infectiousAgent": ["HIV-1", "HIV-2"],
-        "measurementTechnique": [
-            "Fibroscan with Controlled Attenuation Parameter (CAP)",
-            "ultrasound",
-        ],
-        "variableMeasured": [
-            "amount of liver fibrosis (liver scarring)",
-            "amount of liver steatosis (fat)",
-        ],
-        "sample_exclusions": ["participants with implant devices", "pregnant participants"],
-    },
-    "echocardiogram substudy": {
-        "healthCondition": ["cardiovascular disease", "heart disease", "HIV infection"],
-        "infectiousAgent": ["HIV-1", "HIV-2"],
-    },
-    "brief cognitive function substudy": {
-        "healthCondition": ["cognitive impairment", "HIV infection"],
-        "infectiousAgent": ["HIV-1", "HIV-2"],
-    },
-    "full cognitive function substudy": {
-        "healthCondition": ["cognitive impairment", "HIV infection"],
-        "infectiousAgent": ["HIV-1", "HIV-2"],
-    },
-    "hearing and balance substudy": {
-        "healthCondition": ["hearing disorder", "vertigo", "HIV infection"],
-        "infectiousAgent": ["HIV-1", "HIV-2"],
-    },
-    "microbiome substudy": {
-        "healthCondition": [
-            "gut microbiome alteration",
-            "insulin resistance",
-            "diabetes mellitus",
-            "hypercholesterolemia",
-            "hypertension",
-            "fatty liver disease",
-            "emphysema",
-            "chronic obstructive pulmonary disease",
-            "HIV infection",
-        ],
-        "infectiousAgent": ["HIV-1", "HIV-2"],
-    },
-    "pulmonary function substudy": {
-        "healthCondition": ["lung disease", "pulmonary disease", "HIV infection"],
-        "infectiousAgent": ["HIV-1", "HIV-2"],
-    },
-    "tooth count substudy": {
-        "healthCondition": ["oral disease", "dental disease", "HIV infection"],
-        "infectiousAgent": ["HIV-1", "HIV-2"],
-    },
-    "mental health and substance use substudy": {
-        "healthCondition": ["mental disorder", "substance use disorder", "HIV infection"],
-        "infectiousAgent": ["HIV-1", "HIV-2"],
-    },
 }
 
 
@@ -180,6 +94,20 @@ class PdfLinkParser(HTMLParser):
             self.links[Path(urlparse(self._href).path).name] = self._href
         self._href = None
         self._text = []
+
+
+def load_defaults(path: Path = DEFAULTS_PATH) -> dict[str, object]:
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+DEFAULTS = load_defaults()
+
+
+def load_catalog_fields(path: Path = CATALOG_FIELDS_PATH) -> dict[str, object]:
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+CATALOG_FIELDS = load_catalog_fields()
 
 
 def fetch_text(url: str, timeout: int) -> str:
@@ -281,6 +209,34 @@ def split_measure_items(measures_text: str) -> list[str]:
         items[-1] = collapse_value(f"{items[-1]} {clean}")
 
     return [item for item in items if item]
+
+
+def split_variable_measured_items(value_text: str) -> list[str]:
+    if not value_text:
+        return []
+
+    raw_lines = [line.rstrip() for line in value_text.splitlines() if line.strip()]
+    if not raw_lines:
+        return []
+
+    items: list[str] = []
+    for raw_line in raw_lines:
+        stripped = raw_line.strip()
+        is_bullet = stripped.startswith(("•", "-", "*"))
+        clean = collapse_value(stripped.lstrip("•-*").strip())
+        if not clean:
+            continue
+
+        if is_bullet or not items:
+            items.append(clean)
+            continue
+
+        if re.match(r"^(and\b|or\b|with\b|without\b|of\b|in\b|the\b|[a-z])", clean):
+            items[-1] = collapse_value(f"{items[-1]} {clean}")
+        else:
+            items.append(clean)
+
+    return items
 
 
 def parse_learning_points(text: str) -> list[str]:
@@ -411,8 +367,18 @@ def make_property_values(values: Iterable[str]) -> list[dict[str, str]]:
 
 def infer_health_conditions(parsed: ParsedStudy, override: dict[str, object]) -> list[dict[str, str]]:
     explicit = override.get("healthCondition")
+    fallback = DEFAULTS.get("fallback_healthCondition")
+    fallback_name = ""
+    if isinstance(fallback, dict):
+        fallback_name = collapse_value(str(fallback.get("name", "")))
+
     if isinstance(explicit, list):
-        return make_property_values(str(item) for item in explicit)
+        values = [str(item) for item in explicit if "hiv" not in str(item).lower()]
+        terms = make_property_values(values)
+        if isinstance(fallback, dict) and fallback_name:
+            terms = [term for term in terms if collapse_value(term.get("name", "")).lower() != fallback_name.lower()]
+            terms.append(dict(fallback))
+        return terms
 
     inferred = []
     measured = parsed.what_is_measured.lower()
@@ -434,51 +400,21 @@ def infer_health_conditions(parsed: ParsedStudy, override: dict[str, object]) ->
         inferred.append("mental disorder")
     if "substance" in measured:
         inferred.append("substance use disorder")
-    if "hiv" in parsed.participant_description.lower() or "hiv" in " ".join(parsed.learning_points).lower():
-        inferred.append("HIV infection")
-    return make_property_values(inferred)
+    terms = make_property_values(inferred)
+    if isinstance(fallback, dict) and fallback_name:
+        terms = [term for term in terms if "hiv" not in collapse_value(term.get("name", "")).lower()]
+        if not any(collapse_value(term.get("name", "")).lower() == fallback_name.lower() for term in terms):
+            terms.append(dict(fallback))
+    return terms
 
 
 def infer_measurement_techniques(parsed: ParsedStudy, override: dict[str, object]) -> list[dict[str, str]]:
-    explicit = override.get("measurementTechnique")
-    if isinstance(explicit, list):
-        return make_property_values(str(item) for item in explicit)
     return make_property_values(parsed.measures)
 
 
 def infer_variable_measured(parsed: ParsedStudy, override: dict[str, object]) -> list[dict[str, str]]:
-    explicit = override.get("variableMeasured")
-    if isinstance(explicit, list):
-        return make_property_values(str(item) for item in explicit)
-
-    values = [parsed.what_is_measured]
-    for point in parsed.learning_points:
-        if point.lower().startswith("how common"):
-            values.append(point)
+    values = split_variable_measured_items(parsed.what_is_measured)
     return make_property_values(values)
-
-
-def infer_infectious_agents(parsed: ParsedStudy, override: dict[str, object]) -> list[dict[str, str]]:
-    explicit = override.get("infectiousAgent")
-    if isinstance(explicit, list):
-        items = []
-        seen: set[str] = set()
-        for item in explicit:
-            key = collapse_value(str(item)).lower()
-            if key in seen:
-                continue
-            seen.add(key)
-            mapped = DEFINED_TERM_INFECTIOUS_AGENT_MAP.get(key)
-            if mapped is not None:
-                items.append(dict(mapped))
-            else:
-                items.append({"@type": "DefinedTerm", "name": collapse_value(str(item))})
-        return items
-
-    combined = " ".join([parsed.participant_description, parsed.what_is_measured] + parsed.learning_points)
-    if "HIV" in combined:
-        return [{"@type": "DefinedTerm", "name": "Human immunodeficiency virus"}]
-    return []
 
 
 def parse_frequency_multiplier(how_often: str) -> tuple[int | None, str | None]:
@@ -600,10 +536,9 @@ def build_collection_size(parsed: ParsedStudy) -> list[dict[str, object]]:
     if parsed.participant_count is not None:
         sizes.append(
             {
-                "@type": "QuantitativeValue",
+                **DEFAULTS["collection_size_defaults"],
                 "minVal": parsed.participant_count,
                 "unitText": "Study Subjects",
-                "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189",
             }
         )
 
@@ -611,38 +546,30 @@ def build_collection_size(parsed: ParsedStudy) -> list[dict[str, object]]:
     if parsed.participant_count is not None and multiplier and unit:
         count = parsed.participant_count * multiplier
         unit_text = f"{unit}s" if count != 1 else unit
-        sizes.append(
-            {
-                "@type": "QuantitativeValue",
-                "minVal": count,
-                "unitText": unit_text,
-                "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189",
-            }
-        )
+        sizes.append({**DEFAULTS["collection_size_defaults"], "minVal": count, "unitText": unit_text})
 
     return sizes
 
 
 def build_sample(parsed: ParsedStudy, override: dict[str, object]) -> dict[str, object]:
-    sample = {
-        "@type": "Sample",
-        "sex": ["Men", "Women"],
-    }
+    sample = dict(DEFAULTS["sample_defaults"])
 
     quantities: list[dict[str, object]] = []
     hiv_count = compute_count_from_percent(parsed.participant_count, parsed.hiv_percent)
     if hiv_count is not None:
-        quantities.append({"@type": "QuantitativeValue", "minVal": hiv_count, "unitText": "living with HIV"})
+        quantities.append({**DEFAULTS["sample_quantity_defaults"], "minVal": hiv_count, "unitText": "living with HIV"})
         without_hiv = parsed.participant_count - hiv_count if parsed.participant_count is not None else None
         if without_hiv is not None:
-            quantities.append({"@type": "QuantitativeValue", "minVal": without_hiv, "unitText": "living without HIV"})
+            quantities.append(
+                {**DEFAULTS["sample_quantity_defaults"], "minVal": without_hiv, "unitText": "living without HIV"}
+            )
 
     women_count = compute_count_from_percent(parsed.participant_count, parsed.women_percent)
     if women_count is not None:
-        quantities.append({"@type": "QuantitativeValue", "minVal": women_count, "unitText": "Women"})
+        quantities.append({**DEFAULTS["sample_quantity_defaults"], "minVal": women_count, "unitText": "Women"})
         men_count = parsed.participant_count - women_count if parsed.participant_count is not None else None
         if men_count is not None:
-            quantities.append({"@type": "QuantitativeValue", "minVal": men_count, "unitText": "Men"})
+            quantities.append({**DEFAULTS["sample_quantity_defaults"], "minVal": men_count, "unitText": "Men"})
 
     exclusions = override.get("sample_exclusions")
     if isinstance(exclusions, list) and exclusions:
@@ -655,21 +582,21 @@ def build_sample(parsed: ParsedStudy, override: dict[str, object]) -> dict[str, 
 
 
 def build_datacollection(parsed: ParsedStudy) -> dict[str, object]:
-    override = STUDY_OVERRIDES.get(normalize_study_key(parsed.name), {})
+    override = DEFAULTS["study_overrides"].get(normalize_study_key(parsed.name), {})
     obj: dict[str, object] = {
-        "@context": JSONLD_CONTEXT,
+        "@context": DEFAULTS["jsonld_context"],
         "@type": "DataCollection",
         "name": parsed.name,
         "description": build_description(parsed),
         "dateCreated": parse_date_created(parsed.pdf_path),
-        "about": ABOUT_PATIENT,
-        "species": {
-            "@type": "DefinedTerm",
-            "name": "Homo sapiens",
-            "identifier": "9606",
-            "inDefinedTermSet": "NCBITAXON",
-            "url": "http://purl.obolibrary.org/obo/NCBITaxon_9606",
-        },
+        "about": DEFAULTS["about"],
+        "isBasedOn": DEFAULTS["isBasedOn"],
+        "usageInfo": CATALOG_FIELDS["usageInfo"],
+        "funding": CATALOG_FIELDS["funding"],
+        "license": CATALOG_FIELDS["license"],
+        "topicCategory": CATALOG_FIELDS["topicCategory"],
+        "species": CATALOG_FIELDS["species"],
+        "infectiousAgent": CATALOG_FIELDS["infectiousAgent"],
         "measurementTechnique": infer_measurement_techniques(parsed, override),
         "variableMeasured": infer_variable_measured(parsed, override),
         "author": [make_author_object(name) for name in parsed.authors],
@@ -685,14 +612,10 @@ def build_datacollection(parsed: ParsedStudy) -> dict[str, object]:
     if health_condition:
         obj["healthCondition"] = health_condition
 
-    infectious_agent = infer_infectious_agents(parsed, override)
-    if infectious_agent:
-        obj["infectiousAgent"] = infectious_agent
-
     if parsed.source_url:
         obj["url"] = parsed.source_url
 
-    obj["includedInDataCatalog"] = {"name": "MWCCS"}
+    obj["includedInDataCatalog"] = DEFAULTS["includedInDataCatalog"]
     return obj
 
 

@@ -1,0 +1,171 @@
+{
+  "jsonld_context": {
+    "schema": "http://schema.org/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
+    "niaid": "https://discovery.biothings.io/ns/niaid/",
+    "nde": "https://discovery.biothings.io/ns/nde/"
+  },
+  "about": {
+    "@type": "DefinedTerm",
+    "description": "For schema, consider https://schema.org/Patient",
+    "displayName": "Patient",
+    "name": "Patient",
+    "url": "http://purl.obolibrary.org/obo/NCIT_C16960"
+  },
+  "includedInDataCatalog": {
+    "name": "The Multicenter AIDS Cohort Study (MACS) / Women’s Interagency HIV Study (WIHS) Combined Cohort Study (MWCCS)"
+  },
+  "isBasedOn": [
+    {
+      "@type": "Action",
+      "name": "DataCollection Generation Process in the NIAID Data Ecosystem",
+      "description": "How this MWCCS Study Subjects DataCollection Record was generated for the NIAID Data Ecosystem.",
+      "actionProcess": {
+        "@type": "HowTo",
+        "step": ["Step 1. Use a crawler to download the Substudy visual summary pdfs", "Step 2: Parse the relevant information directly from each pdf", "Step 3: Calculate sampleSize information based on the provided percentages in the pdf", "Step 4. Fill in manually curated fields from the MWCCS resource catalog record such as 'usageInfo', 'license', 'topicCategory', 'conditionsOfAccess', 'about'."]
+      }
+    },
+    {
+      "@type": "nde:ResourceCatalog",
+      "name": "The Multicenter AIDS Cohort Study (MACS) / Women’s Interagency HIV Study (WIHS) Combined Cohort Study",
+      "alternateName": "MWCCS",
+      "url": "https://data.niaid.nih.gov/resources?id=dde_da18bc66317fc987"
+    }
+  ],
+  "fallback_healthCondition": {
+    "@type": "DefinedTerm",
+    "name": "HIV Infectious Disease",
+    "url": "http://purl.obolibrary.org/obo/MONDO_0005109",
+    "identifier": "MONDO_0005109",
+    "inDefinedTermSet": "MONDO"
+  },
+  "fallback_infectious_agent": {
+    "@type": "DefinedTerm",
+    "name": "Human immunodeficiency virus"
+  },
+  "collection_size_defaults": {
+    "@type": "QuantitativeValue",
+    "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
+  },
+  "sample_defaults": {
+    "@type": "Sample",
+    "sex": [
+      "Men",
+      "Women"
+    ]
+  },
+  "sample_quantity_defaults": {
+    "@type": "QuantitativeValue"
+  },
+  "study_overrides": {
+    "fibroscan substudy": {
+      "healthCondition": [
+        "liver fibrosis",
+        "liver steatosis",
+        "HIV infection"
+      ],
+      "infectiousAgent": [
+        "HIV-1",
+        "HIV-2"
+      ],
+      "sample_exclusions": [
+        "participants with implant devices",
+        "pregnant participants"
+      ]
+    },
+    "echocardiogram substudy": {
+      "healthCondition": [
+        "cardiovascular disease",
+        "heart disease",
+        "HIV infection"
+      ],
+      "infectiousAgent": [
+        "HIV-1",
+        "HIV-2"
+      ]
+    },
+    "brief cognitive function substudy": {
+      "healthCondition": [
+        "cognitive impairment",
+        "HIV infection"
+      ],
+      "infectiousAgent": [
+        "HIV-1",
+        "HIV-2"
+      ]
+    },
+    "full cognitive function substudy": {
+      "healthCondition": [
+        "cognitive impairment",
+        "HIV infection"
+      ],
+      "infectiousAgent": [
+        "HIV-1",
+        "HIV-2"
+      ]
+    },
+    "hearing and balance substudy": {
+      "healthCondition": [
+        "hearing disorder",
+        "vertigo",
+        "HIV infection"
+      ],
+      "infectiousAgent": [
+        "HIV-1",
+        "HIV-2"
+      ]
+    },
+    "microbiome substudy": {
+      "healthCondition": [
+        "gut microbiome alteration",
+        "insulin resistance",
+        "diabetes mellitus",
+        "hypercholesterolemia",
+        "hypertension",
+        "fatty liver disease",
+        "emphysema",
+        "chronic obstructive pulmonary disease",
+        "HIV infection"
+      ],
+      "infectiousAgent": [
+        "HIV-1",
+        "HIV-2"
+      ]
+    },
+    "pulmonary function substudy": {
+      "healthCondition": [
+        "lung disease",
+        "pulmonary disease",
+        "HIV infection"
+      ],
+      "infectiousAgent": [
+        "HIV-1",
+        "HIV-2"
+      ]
+    },
+    "tooth count substudy": {
+      "healthCondition": [
+        "oral disease",
+        "dental disease",
+        "HIV infection"
+      ],
+      "infectiousAgent": [
+        "HIV-1",
+        "HIV-2"
+      ]
+    },
+    "mental health and substance use substudy": {
+      "healthCondition": [
+        "mental disorder",
+        "substance use disorder",
+        "HIV infection"
+      ],
+      "infectiousAgent": [
+        "HIV-1",
+        "HIV-2"
+      ]
+    }
+  }
+}
