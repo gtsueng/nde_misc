@@ -1,28 +1,53 @@
 {
+  "@context": {
+    "schema": "http://schema.org/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
+    "niaid": "https://discovery.biothings.io/ns/niaid/",
+    "nde": "https://discovery.biothings.io/ns/nde/"
+  },
   "@type": "DataCollection",
   "name": "Mental Health and Substance Use Substudy",
   "description": "Data collected from 3361 men and women living with and without HIV at all 13 sites 57 years old (range 18-97 yrs) median age. This data can help researchers learn more about How common mental health disorders are; How common substance use disorders are; Relationship between behavioral and physical health conditions; How behavioral health disorders affect HIV treatment and outcomes as people age",
+  "dateCreated": "2025-10-23",
+  "about": {
+    "@type": "DefinedTerm",
+    "description": "For schema, consider https://schema.org/Patient",
+    "displayName": "Patient",
+    "name": "Patient",
+    "url": "http://purl.obolibrary.org/obo/NCIT_C16960"
+  },
   "species": {
-    "name": "Homo sapiens"
+    "@type": "DefinedTerm",
+    "name": "Homo sapiens",
+    "identifier": "9606",
+    "inDefinedTermSet": "NCBITAXON",
+    "url": "http://purl.obolibrary.org/obo/NCBITaxon_9606"
   },
   "measurementTechnique": [
     {
+      "@type": "DefinedTerm",
       "name": "? What is being measured: Lifetime and past 12-month mental health and substance use disorders Measure: WHO Composite International Diagnostic Interview (CIDI) as defined by American Psychiatric Association Diagnostic and Statistical Manual-5"
     }
   ],
   "variableMeasured": [
     {
+      "@type": "DefinedTerm",
       "name": "Lifetime and past 12-month mental health and substance use disorders"
     },
     {
+      "@type": "DefinedTerm",
       "name": "How common mental health disorders are"
     },
     {
+      "@type": "DefinedTerm",
       "name": "How common substance use disorders are"
     }
   ],
   "author": [
     {
+      "@type": "Person",
       "name": "Judith Cook",
       "givenName": "Judith",
       "familyName": "Cook"
@@ -30,12 +55,16 @@
   ],
   "collectionSize": [
     {
+      "@type": "QuantitativeValue",
       "minVal": 3361,
-      "unitText": "Study Subjects"
+      "unitText": "Study Subjects",
+      "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
     },
     {
+      "@type": "QuantitativeValue",
       "minVal": 3361,
-      "unitText": "Assessments"
+      "unitText": "Assessments",
+      "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
     }
   ],
   "sample": {
@@ -46,45 +75,61 @@
     ],
     "sampleQuantity": [
       {
+        "@type": "QuantitativeValue",
         "minVal": 2185,
         "unitText": "living with HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1176,
         "unitText": "living without HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1781,
         "unitText": "Women"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1580,
         "unitText": "Men"
       }
     ]
   },
   "temporalCoverage": {
+    "@type": "TemporalInterval",
     "startDate": "2021-10-01",
     "endDate": "2025-09-30",
     "temporalType": "collection"
   },
   "healthCondition": [
     {
+      "@type": "DefinedTerm",
       "name": "mental disorder"
     },
     {
+      "@type": "DefinedTerm",
       "name": "substance use disorder"
     },
     {
+      "@type": "DefinedTerm",
       "name": "HIV infection"
     }
   ],
   "infectiousAgent": [
     {
-      "name": "HIV-1"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 1",
+      "identifier": "11676",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11676"
     },
     {
-      "name": "HIV-2"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 2",
+      "identifier": "11709",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11709"
     }
   ],
   "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/10/Substudy_visualabstract_CIDI_10.23.25.pdf",

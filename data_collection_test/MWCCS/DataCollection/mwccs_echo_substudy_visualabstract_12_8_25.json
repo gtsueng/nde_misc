@@ -1,37 +1,63 @@
 {
+  "@context": {
+    "schema": "http://schema.org/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
+    "niaid": "https://discovery.biothings.io/ns/niaid/",
+    "nde": "https://discovery.biothings.io/ns/nde/"
+  },
   "@type": "DataCollection",
   "name": "Echocardiogram Substudy",
   "description": "Data collected from 2988 men and women 40 yrs+ living with and without HIV at all sites. This data can help researchers learn more about How HIV and HIV-related factors affect the start of heart problems or make heart problems worse",
+  "dateCreated": "2025-12-08",
+  "about": {
+    "@type": "DefinedTerm",
+    "description": "For schema, consider https://schema.org/Patient",
+    "displayName": "Patient",
+    "name": "Patient",
+    "url": "http://purl.obolibrary.org/obo/NCIT_C16960"
+  },
   "species": {
-    "name": "Homo sapiens"
+    "@type": "DefinedTerm",
+    "name": "Homo sapiens",
+    "identifier": "9606",
+    "inDefinedTermSet": "NCBITAXON",
+    "url": "http://purl.obolibrary.org/obo/NCBITaxon_9606"
   },
   "measurementTechnique": [
     {
+      "@type": "DefinedTerm",
       "name": "Echocardiogram examination (an ultrasound that takes pictures of the heart and records blood flow through the heart and attached blood vessels)"
     }
   ],
   "variableMeasured": [
     {
+      "@type": "DefinedTerm",
       "name": "The structure of the heart and its function"
     }
   ],
   "author": [
     {
+      "@type": "Person",
       "name": "Joao Lima",
       "givenName": "Joao",
       "familyName": "Lima"
     },
     {
+      "@type": "Person",
       "name": "Jorge Kizer",
       "givenName": "Jorge",
       "familyName": "Kizer"
     },
     {
+      "@type": "Person",
       "name": "Katherine Wu",
       "givenName": "Katherine",
       "familyName": "Wu"
     },
     {
+      "@type": "Person",
       "name": "Kimberly Keck",
       "givenName": "Kimberly",
       "familyName": "Keck"
@@ -39,12 +65,16 @@
   ],
   "collectionSize": [
     {
+      "@type": "QuantitativeValue",
       "minVal": 2988,
-      "unitText": "Study Subjects"
+      "unitText": "Study Subjects",
+      "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
     },
     {
+      "@type": "QuantitativeValue",
       "minVal": 2988,
-      "unitText": "Assessments"
+      "unitText": "Assessments",
+      "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
     }
   ],
   "sample": {
@@ -53,52 +83,63 @@
       "Men",
       "Women"
     ],
-    "age": {
-      "minVal": 58,
-      "unitText": "years",
-      "valueType": "median"
-    },
     "sampleQuantity": [
       {
+        "@type": "QuantitativeValue",
         "minVal": 1942,
         "unitText": "living with HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1046,
         "unitText": "living without HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1554,
         "unitText": "Women"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1434,
         "unitText": "Men"
       }
     ]
   },
   "temporalCoverage": {
+    "@type": "TemporalInterval",
     "startDate": "2022-10-01",
     "endDate": "2026-09-30",
     "temporalType": "collection"
   },
   "healthCondition": [
     {
+      "@type": "DefinedTerm",
       "name": "cardiovascular disease"
     },
     {
+      "@type": "DefinedTerm",
       "name": "heart disease"
     },
     {
+      "@type": "DefinedTerm",
       "name": "HIV infection"
     }
   ],
   "infectiousAgent": [
     {
-      "name": "HIV-1"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 1",
+      "identifier": "11676",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11676"
     },
     {
-      "name": "HIV-2"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 2",
+      "identifier": "11709",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11709"
     }
   ],
   "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Echo_Substudy_VisualAbstract_12.8.25.pdf",

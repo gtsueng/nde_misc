@@ -1,25 +1,49 @@
 {
+  "@context": {
+    "schema": "http://schema.org/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
+    "niaid": "https://discovery.biothings.io/ns/niaid/",
+    "nde": "https://discovery.biothings.io/ns/nde/"
+  },
   "@type": "DataCollection",
   "name": "Microbiome Substudy",
   "description": "Data collected from 3434 men and women living with and without HIV at all sites. This data can help researchers learn more about The relationship between the gut microbiome and different health conditions including:; insulin resistance; diabetes; high cholesterol; high blood pressure; fatty liver disease; emphysema/COPD; inflammation markers Microbes (e.g., bacteria, viruses) linked to common metabolic and immune disorders",
+  "dateCreated": "2025-12-10",
+  "about": {
+    "@type": "DefinedTerm",
+    "description": "For schema, consider https://schema.org/Patient",
+    "displayName": "Patient",
+    "name": "Patient",
+    "url": "http://purl.obolibrary.org/obo/NCIT_C16960"
+  },
   "species": {
-    "name": "Homo sapiens"
+    "@type": "DefinedTerm",
+    "name": "Homo sapiens",
+    "identifier": "9606",
+    "inDefinedTermSet": "NCBITAXON",
+    "url": "http://purl.obolibrary.org/obo/NCBITaxon_9606"
   },
   "measurementTechnique": [
     {
+      "@type": "DefinedTerm",
       "name": "Stool home collection kit (paper FTA card, sample collection tube)"
     },
     {
+      "@type": "DefinedTerm",
       "name": "5 question survey related to stool sample"
     }
   ],
   "variableMeasured": [
     {
+      "@type": "DefinedTerm",
       "name": "Gut microbiome - Millions of microorganisms (mainly bacteria) and their genetic material (DNA) in the intestines"
     }
   ],
   "author": [
     {
+      "@type": "Person",
       "name": "Robert Burk",
       "givenName": "Robert",
       "familyName": "Burk"
@@ -27,12 +51,16 @@
   ],
   "collectionSize": [
     {
+      "@type": "QuantitativeValue",
       "minVal": 3434,
-      "unitText": "Study Subjects"
+      "unitText": "Study Subjects",
+      "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
     },
     {
+      "@type": "QuantitativeValue",
       "minVal": 3434,
-      "unitText": "Assessments"
+      "unitText": "Assessments",
+      "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
     }
   ],
   "sample": {
@@ -41,70 +69,87 @@
       "Men",
       "Women"
     ],
-    "age": {
-      "minVal": 57,
-      "unitText": "years",
-      "valueType": "median"
-    },
     "sampleQuantity": [
       {
+        "@type": "QuantitativeValue",
         "minVal": 2163,
         "unitText": "living with HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1271,
         "unitText": "living without HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1717,
         "unitText": "Women"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1717,
         "unitText": "Men"
       }
     ]
   },
   "temporalCoverage": {
+    "@type": "TemporalInterval",
     "startDate": "2020-10-01",
     "endDate": "2026-09-30",
     "temporalType": "collection"
   },
   "healthCondition": [
     {
+      "@type": "DefinedTerm",
       "name": "gut microbiome alteration"
     },
     {
+      "@type": "DefinedTerm",
       "name": "insulin resistance"
     },
     {
+      "@type": "DefinedTerm",
       "name": "diabetes mellitus"
     },
     {
+      "@type": "DefinedTerm",
       "name": "hypercholesterolemia"
     },
     {
+      "@type": "DefinedTerm",
       "name": "hypertension"
     },
     {
+      "@type": "DefinedTerm",
       "name": "fatty liver disease"
     },
     {
+      "@type": "DefinedTerm",
       "name": "emphysema"
     },
     {
+      "@type": "DefinedTerm",
       "name": "chronic obstructive pulmonary disease"
     },
     {
+      "@type": "DefinedTerm",
       "name": "HIV infection"
     }
   ],
   "infectiousAgent": [
     {
-      "name": "HIV-1"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 1",
+      "identifier": "11676",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11676"
     },
     {
-      "name": "HIV-2"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 2",
+      "identifier": "11709",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11709"
     }
   ],
   "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Microbiome_Substudy_VisualAbstract_12.10.25.pdf",

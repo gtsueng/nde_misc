@@ -1,44 +1,73 @@
 {
+  "@context": {
+    "schema": "http://schema.org/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
+    "niaid": "https://discovery.biothings.io/ns/niaid/",
+    "nde": "https://discovery.biothings.io/ns/nde/"
+  },
   "@type": "DataCollection",
   "name": "Tooth Count Substudy",
   "description": "Data collected from 3349 men and women living with and without HIV at all sites. This data can help researchers learn more about How common mouth/dental diseases and conditions are; The relationship between mouth/dental disease and demographic, socioeconomic, and environmental factors; How mouth/dental disease and its negative effect on the environment in a person’s mouth/teeth are linked to health conditions in people living with HIV",
+  "dateCreated": "2025-12-09",
+  "about": {
+    "@type": "DefinedTerm",
+    "description": "For schema, consider https://schema.org/Patient",
+    "displayName": "Patient",
+    "name": "Patient",
+    "url": "http://purl.obolibrary.org/obo/NCIT_C16960"
+  },
   "species": {
-    "name": "Homo sapiens"
+    "@type": "DefinedTerm",
+    "name": "Homo sapiens",
+    "identifier": "9606",
+    "inDefinedTermSet": "NCBITAXON",
+    "url": "http://purl.obolibrary.org/obo/NCBITaxon_9606"
   },
   "measurementTechnique": [
     {
+      "@type": "DefinedTerm",
       "name": "Photographs of the inside of the mouth:"
     },
     {
+      "@type": "DefinedTerm",
       "name": "upper and lower parts of mouth"
     },
     {
+      "@type": "DefinedTerm",
       "name": "any visible dental sores"
     },
     {
+      "@type": "DefinedTerm",
       "name": "areas of the mouth that look different than expected"
     }
   ],
   "variableMeasured": [
     {
+      "@type": "DefinedTerm",
       "name": "Tooth count and visual inspection of oral disease/conditions"
     },
     {
+      "@type": "DefinedTerm",
       "name": "How common mouth/dental diseases and conditions are"
     }
   ],
   "author": [
     {
+      "@type": "Person",
       "name": "Apoena de Aguiar Ribeiro",
       "givenName": "Apoena",
       "familyName": "Ribeiro"
     },
     {
+      "@type": "Person",
       "name": "Carrigan Parish",
       "givenName": "Carrigan",
       "familyName": "Parish"
     },
     {
+      "@type": "Person",
       "name": "Catalina Ramirez",
       "givenName": "Catalina",
       "familyName": "Ramirez"
@@ -46,12 +75,16 @@
   ],
   "collectionSize": [
     {
+      "@type": "QuantitativeValue",
       "minVal": 3349,
-      "unitText": "Study Subjects"
+      "unitText": "Study Subjects",
+      "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
     },
     {
+      "@type": "QuantitativeValue",
       "minVal": 3349,
-      "unitText": "Assessments"
+      "unitText": "Assessments",
+      "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
     }
   ],
   "sample": {
@@ -60,52 +93,63 @@
       "Men",
       "Women"
     ],
-    "age": {
-      "minVal": 55,
-      "unitText": "years",
-      "valueType": "median"
-    },
     "sampleQuantity": [
       {
+        "@type": "QuantitativeValue",
         "minVal": 2177,
         "unitText": "living with HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1172,
         "unitText": "living without HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1708,
         "unitText": "Women"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1641,
         "unitText": "Men"
       }
     ]
   },
   "temporalCoverage": {
+    "@type": "TemporalInterval",
     "startDate": "2022-10-01",
     "endDate": "2026-09-30",
     "temporalType": "collection"
   },
   "healthCondition": [
     {
+      "@type": "DefinedTerm",
       "name": "oral disease"
     },
     {
+      "@type": "DefinedTerm",
       "name": "dental disease"
     },
     {
+      "@type": "DefinedTerm",
       "name": "HIV infection"
     }
   ],
   "infectiousAgent": [
     {
-      "name": "HIV-1"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 1",
+      "identifier": "11676",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11676"
     },
     {
-      "name": "HIV-2"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 2",
+      "identifier": "11709",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11709"
     }
   ],
   "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Tooth_Count_Substudy_VisualAbstract_12.09.25.pdf",

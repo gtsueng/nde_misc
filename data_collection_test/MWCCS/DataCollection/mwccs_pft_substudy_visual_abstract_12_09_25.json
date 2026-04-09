@@ -1,41 +1,69 @@
 {
+  "@context": {
+    "schema": "http://schema.org/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
+    "niaid": "https://discovery.biothings.io/ns/niaid/",
+    "nde": "https://discovery.biothings.io/ns/nde/"
+  },
   "@type": "DataCollection",
   "name": "Pulmonary Function Substudy",
   "description": "Data collected from 3765 men and women living with and without HIV at all sites. This data can help researchers learn more about How lung disease develops and relates to other health conditions in people living with HIV; Identify targets to prevent lung disease and maintain lung health; Develop strategies to manage lung disease in people living with HIV",
+  "dateCreated": "2025-12-09",
+  "about": {
+    "@type": "DefinedTerm",
+    "description": "For schema, consider https://schema.org/Patient",
+    "displayName": "Patient",
+    "name": "Patient",
+    "url": "http://purl.obolibrary.org/obo/NCIT_C16960"
+  },
   "species": {
-    "name": "Homo sapiens"
+    "@type": "DefinedTerm",
+    "name": "Homo sapiens",
+    "identifier": "9606",
+    "inDefinedTermSet": "NCBITAXON",
+    "url": "http://purl.obolibrary.org/obo/NCBITaxon_9606"
   },
   "measurementTechnique": [
     {
+      "@type": "DefinedTerm",
       "name": "Spirometry"
     },
     {
+      "@type": "DefinedTerm",
       "name": "Diffusion capacity for carbon monoxide (DLCO)"
     },
     {
+      "@type": "DefinedTerm",
       "name": "St. Georges Respiratory Questionnaire"
     },
     {
+      "@type": "DefinedTerm",
       "name": "Modified Medical Research Council Dyspnea scale"
     }
   ],
   "variableMeasured": [
     {
+      "@type": "DefinedTerm",
       "name": "Pulmonary function and symptoms"
     }
   ],
   "author": [
     {
+      "@type": "Person",
       "name": "M. Bradley Drummond",
       "givenName": "M.",
       "familyName": "Drummond"
     },
     {
+      "@type": "Person",
       "name": "Ken Kunisaki",
       "givenName": "Ken",
       "familyName": "Kunisaki"
     },
     {
+      "@type": "Person",
       "name": "Alison Morris",
       "givenName": "Alison",
       "familyName": "Morris"
@@ -43,12 +71,16 @@
   ],
   "collectionSize": [
     {
+      "@type": "QuantitativeValue",
       "minVal": 3765,
-      "unitText": "Study Subjects"
+      "unitText": "Study Subjects",
+      "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
     },
     {
+      "@type": "QuantitativeValue",
       "minVal": 3765,
-      "unitText": "Assessments"
+      "unitText": "Assessments",
+      "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
     }
   ],
   "sample": {
@@ -57,52 +89,63 @@
       "Men",
       "Women"
     ],
-    "age": {
-      "minVal": 56,
-      "unitText": "years",
-      "valueType": "median"
-    },
     "sampleQuantity": [
       {
+        "@type": "QuantitativeValue",
         "minVal": 2485,
         "unitText": "living with HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1280,
         "unitText": "living without HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 2033,
         "unitText": "Women"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1732,
         "unitText": "Men"
       }
     ]
   },
   "temporalCoverage": {
+    "@type": "TemporalInterval",
     "startDate": "2021-10-01",
     "endDate": "2025-09-30",
     "temporalType": "collection"
   },
   "healthCondition": [
     {
+      "@type": "DefinedTerm",
       "name": "lung disease"
     },
     {
+      "@type": "DefinedTerm",
       "name": "pulmonary disease"
     },
     {
+      "@type": "DefinedTerm",
       "name": "HIV infection"
     }
   ],
   "infectiousAgent": [
     {
-      "name": "HIV-1"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 1",
+      "identifier": "11676",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11676"
     },
     {
-      "name": "HIV-2"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 2",
+      "identifier": "11709",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11709"
     }
   ],
   "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_PFT_Substudy_Visual_Abstract_12.09.25.pdf",

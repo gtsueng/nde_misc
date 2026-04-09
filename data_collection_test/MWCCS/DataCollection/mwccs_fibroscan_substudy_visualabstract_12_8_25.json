@@ -1,38 +1,65 @@
 {
+  "@context": {
+    "schema": "http://schema.org/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
+    "niaid": "https://discovery.biothings.io/ns/niaid/",
+    "nde": "https://discovery.biothings.io/ns/nde/"
+  },
   "@type": "DataCollection",
   "name": "Fibroscan Substudy",
   "description": "Data collected from 4449 men and women living with and without HIV at all sites* *excludes those with implant devices or pregnant. This data can help researchers learn more about What factors are linked to worsening fat and scarring in the liver; How HIV affects liver health; How common liver fat or scarring is and how risk changes over time",
+  "dateCreated": "2025-12-08",
+  "about": {
+    "@type": "DefinedTerm",
+    "description": "For schema, consider https://schema.org/Patient",
+    "displayName": "Patient",
+    "name": "Patient",
+    "url": "http://purl.obolibrary.org/obo/NCIT_C16960"
+  },
   "species": {
-    "name": "Homo sapiens"
+    "@type": "DefinedTerm",
+    "name": "Homo sapiens",
+    "identifier": "9606",
+    "inDefinedTermSet": "NCBITAXON",
+    "url": "http://purl.obolibrary.org/obo/NCBITaxon_9606"
   },
   "measurementTechnique": [
     {
+      "@type": "DefinedTerm",
       "name": "Fibroscan with Controlled Attenuation Parameter (CAP)"
     },
     {
+      "@type": "DefinedTerm",
       "name": "ultrasound"
     }
   ],
   "variableMeasured": [
     {
+      "@type": "DefinedTerm",
       "name": "amount of liver fibrosis (liver scarring)"
     },
     {
+      "@type": "DefinedTerm",
       "name": "amount of liver steatosis (fat)"
     }
   ],
   "author": [
     {
+      "@type": "Person",
       "name": "Phyllis Tien",
       "givenName": "Phyllis",
       "familyName": "Tien"
     },
     {
+      "@type": "Person",
       "name": "Jennifer Price",
       "givenName": "Jennifer",
       "familyName": "Price"
     },
     {
+      "@type": "Person",
       "name": "Heather Freasier",
       "givenName": "Heather",
       "familyName": "Freasier"
@@ -40,12 +67,16 @@
   ],
   "collectionSize": [
     {
+      "@type": "QuantitativeValue",
       "minVal": 4449,
-      "unitText": "Study Subjects"
+      "unitText": "Study Subjects",
+      "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
     },
     {
+      "@type": "QuantitativeValue",
       "minVal": 8898,
-      "unitText": "Scans"
+      "unitText": "Scans",
+      "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
     }
   ],
   "sample": {
@@ -54,53 +85,64 @@
       "Men",
       "Women"
     ],
-    "age": {
-      "minVal": 57,
-      "unitText": "years",
-      "valueType": "median"
-    },
     "description": "Excluded: participants with implant devices; pregnant participants",
     "sampleQuantity": [
       {
+        "@type": "QuantitativeValue",
         "minVal": 2892,
         "unitText": "living with HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1557,
         "unitText": "living without HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 2358,
         "unitText": "Women"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 2091,
         "unitText": "Men"
       }
     ]
   },
   "temporalCoverage": {
+    "@type": "TemporalInterval",
     "startDate": "2020-10-01",
     "endDate": "2026-09-30",
     "temporalType": "collection"
   },
   "healthCondition": [
     {
+      "@type": "DefinedTerm",
       "name": "liver fibrosis"
     },
     {
+      "@type": "DefinedTerm",
       "name": "liver steatosis"
     },
     {
+      "@type": "DefinedTerm",
       "name": "HIV infection"
     }
   ],
   "infectiousAgent": [
     {
-      "name": "HIV-1"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 1",
+      "identifier": "11676",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11676"
     },
     {
-      "name": "HIV-2"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 2",
+      "identifier": "11709",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11709"
     }
   ],
   "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Fibroscan_Substudy_VisualAbstract_12.8.25.pdf",

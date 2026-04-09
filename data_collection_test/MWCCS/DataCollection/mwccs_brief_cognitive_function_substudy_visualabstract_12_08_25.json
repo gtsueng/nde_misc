@@ -1,42 +1,71 @@
 {
+  "@context": {
+    "schema": "http://schema.org/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
+    "niaid": "https://discovery.biothings.io/ns/niaid/",
+    "nde": "https://discovery.biothings.io/ns/nde/"
+  },
   "@type": "DataCollection",
   "name": "Brief Cognitive Function Substudy",
   "description": "Data collected from 4342 English speaking men and women living with and without HIV at all sites. This data can help researchers learn more about What factors positively and negatively affect memory, thinking, and learning in people living with HIV; How cognitive function changes over time; What are the different cognitive profiles of people living with and without HIV",
+  "dateCreated": "2025-12-08",
+  "about": {
+    "@type": "DefinedTerm",
+    "description": "For schema, consider https://schema.org/Patient",
+    "displayName": "Patient",
+    "name": "Patient",
+    "url": "http://purl.obolibrary.org/obo/NCIT_C16960"
+  },
   "species": {
-    "name": "Homo sapiens"
+    "@type": "DefinedTerm",
+    "name": "Homo sapiens",
+    "identifier": "9606",
+    "inDefinedTermSet": "NCBITAXON",
+    "url": "http://purl.obolibrary.org/obo/NCBITaxon_9606"
   },
   "measurementTechnique": [
     {
+      "@type": "DefinedTerm",
       "name": "BRACE (Brainbaseline 10- min Assessment of Cognition and Everyday Function)"
     },
     {
+      "@type": "DefinedTerm",
       "name": "Trials A&B"
     },
     {
+      "@type": "DefinedTerm",
       "name": "Stroop Color"
     },
     {
+      "@type": "DefinedTerm",
       "name": "Visual Spatial Learning Test (VSLT)"
     },
     {
+      "@type": "DefinedTerm",
       "name": "Abbreviated Patient’s Assessment of Own Functioning Inventory (PAOFI)"
     },
     {
+      "@type": "DefinedTerm",
       "name": "Patient Health Questionnaire-2 (PHQ-2)"
     }
   ],
   "variableMeasured": [
     {
+      "@type": "DefinedTerm",
       "name": "Cognitive function (memory, thinking, and learning)"
     }
   ],
   "author": [
     {
+      "@type": "Person",
       "name": "Leah Rubin",
       "givenName": "Leah",
       "familyName": "Rubin"
     },
     {
+      "@type": "Person",
       "name": "David Vance",
       "givenName": "David",
       "familyName": "Vance"
@@ -44,8 +73,10 @@
   ],
   "collectionSize": [
     {
+      "@type": "QuantitativeValue",
       "minVal": 4342,
-      "unitText": "Study Subjects"
+      "unitText": "Study Subjects",
+      "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189"
     }
   ],
   "sample": {
@@ -54,49 +85,59 @@
       "Men",
       "Women"
     ],
-    "age": {
-      "minVal": 57,
-      "unitText": "years",
-      "valueType": "median"
-    },
     "sampleQuantity": [
       {
+        "@type": "QuantitativeValue",
         "minVal": 2822,
         "unitText": "living with HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1520,
         "unitText": "living without HIV"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 2345,
         "unitText": "Women"
       },
       {
+        "@type": "QuantitativeValue",
         "minVal": 1997,
         "unitText": "Men"
       }
     ]
   },
   "temporalCoverage": {
+    "@type": "TemporalInterval",
     "startDate": "2021-10-01",
     "endDate": "2026-09-30",
     "temporalType": "collection"
   },
   "healthCondition": [
     {
+      "@type": "DefinedTerm",
       "name": "cognitive impairment"
     },
     {
+      "@type": "DefinedTerm",
       "name": "HIV infection"
     }
   ],
   "infectiousAgent": [
     {
-      "name": "HIV-1"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 1",
+      "identifier": "11676",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11676"
     },
     {
-      "name": "HIV-2"
+      "@type": "DefinedTerm",
+      "name": "Human immunodeficiency virus 2",
+      "identifier": "11709",
+      "inDefinedTermSet": "NCBITAXON",
+      "url": "http://purl.obolibrary.org/obo/NCBITaxon_11709"
     }
   ],
   "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2025/12/MWCCS_Brief_Cognitive_Function_Substudy_VisualAbstract_12.08.25.pdf",

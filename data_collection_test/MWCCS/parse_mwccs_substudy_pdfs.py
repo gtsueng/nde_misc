@@ -20,6 +20,37 @@ from pypdf import PdfReader
 
 SUBSTUDY_PAGE_URL = "https://statepi.jhsph.edu/mwccs/substudy-science/"
 USER_AGENT = "mwccs-substudy-parse/1.0"
+JSONLD_CONTEXT = {
+    "schema": "http://schema.org/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
+    "niaid": "https://discovery.biothings.io/ns/niaid/",
+    "nde": "https://discovery.biothings.io/ns/nde/",
+}
+ABOUT_PATIENT = {
+    "@type": "DefinedTerm",
+    "description": "For schema, consider https://schema.org/Patient",
+    "displayName": "Patient",
+    "name": "Patient",
+    "url": "http://purl.obolibrary.org/obo/NCIT_C16960",
+}
+DEFINED_TERM_INFECTIOUS_AGENT_MAP = {
+    "hiv-1": {
+        "@type": "DefinedTerm",
+        "name": "Human immunodeficiency virus 1",
+        "identifier": "11676",
+        "inDefinedTermSet": "NCBITAXON",
+        "url": "http://purl.obolibrary.org/obo/NCBITaxon_11676",
+    },
+    "hiv-2": {
+        "@type": "DefinedTerm",
+        "name": "Human immunodeficiency virus 2",
+        "identifier": "11709",
+        "inDefinedTermSet": "NCBITAXON",
+        "url": "http://purl.obolibrary.org/obo/NCBITaxon_11709",
+    },
+}
 MONTHS = {
     "jan": 1,
     "feb": 2,
@@ -332,10 +363,24 @@ def parse_temporal_coverage(date_phrase: str) -> dict[str, str] | None:
     end_year = int(match.group(4))
     end_day = calendar.monthrange(end_year, end_month)[1]
     return {
+        "@type": "TemporalInterval",
         "startDate": f"{start_year:04d}-{start_month:02d}-01",
         "endDate": f"{end_year:04d}-{end_month:02d}-{end_day:02d}",
         "temporalType": "collection",
     }
+
+
+def parse_date_created(pdf_path: Path) -> str | None:
+    match = re.search(r"(\d{1,2})\.(\d{1,2})\.(\d{2,4})$", pdf_path.stem)
+    if not match:
+        return None
+
+    month = int(match.group(1))
+    day = int(match.group(2))
+    year = int(match.group(3))
+    if year < 100:
+        year += 2000
+    return f"{year:04d}-{month:02d}-{day:02d}"
 
 
 def compute_count_from_percent(total: int | None, percent: int | None) -> int | None:
@@ -360,7 +405,7 @@ def make_property_values(values: Iterable[str]) -> list[dict[str, str]]:
         if lowered in seen:
             continue
         seen.add(lowered)
-        items.append({"name": clean})
+        items.append({"@type": "DefinedTerm", "name": clean})
     return items
 
 
@@ -416,11 +461,23 @@ def infer_variable_measured(parsed: ParsedStudy, override: dict[str, object]) ->
 def infer_infectious_agents(parsed: ParsedStudy, override: dict[str, object]) -> list[dict[str, str]]:
     explicit = override.get("infectiousAgent")
     if isinstance(explicit, list):
-        return make_property_values(str(item) for item in explicit)
+        items = []
+        seen: set[str] = set()
+        for item in explicit:
+            key = collapse_value(str(item)).lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            mapped = DEFINED_TERM_INFECTIOUS_AGENT_MAP.get(key)
+            if mapped is not None:
+                items.append(dict(mapped))
+            else:
+                items.append({"@type": "DefinedTerm", "name": collapse_value(str(item))})
+        return items
 
     combined = " ".join([parsed.participant_description, parsed.what_is_measured] + parsed.learning_points)
     if "HIV" in combined:
-        return make_property_values(["HIV"])
+        return [{"@type": "DefinedTerm", "name": "Human immunodeficiency virus"}]
     return []
 
 
@@ -514,8 +571,9 @@ def parse_study(pdf_path: Path, source_url: str | None) -> ParsedStudy:
 def make_author_object(name: str) -> dict[str, str]:
     parts = [part for part in name.split() if part]
     if not parts:
-        return {"name": name}
+        return {"@type": "Person", "name": name}
     return {
+        "@type": "Person",
         "name": name,
         "givenName": parts[0],
         "familyName": parts[-1],
@@ -540,13 +598,27 @@ def build_description(parsed: ParsedStudy) -> str:
 def build_collection_size(parsed: ParsedStudy) -> list[dict[str, object]]:
     sizes: list[dict[str, object]] = []
     if parsed.participant_count is not None:
-        sizes.append({"minVal": parsed.participant_count, "unitText": "Study Subjects"})
+        sizes.append(
+            {
+                "@type": "QuantitativeValue",
+                "minVal": parsed.participant_count,
+                "unitText": "Study Subjects",
+                "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189",
+            }
+        )
 
     multiplier, unit = parse_frequency_multiplier(parsed.how_often)
     if parsed.participant_count is not None and multiplier and unit:
         count = parsed.participant_count * multiplier
         unit_text = f"{unit}s" if count != 1 else unit
-        sizes.append({"minVal": count, "unitText": unit_text})
+        sizes.append(
+            {
+                "@type": "QuantitativeValue",
+                "minVal": count,
+                "unitText": unit_text,
+                "unitCode": "http://purl.obolibrary.org/obo/NCIT_C41189",
+            }
+        )
 
     return sizes
 
@@ -560,20 +632,17 @@ def build_sample(parsed: ParsedStudy, override: dict[str, object]) -> dict[str, 
     quantities: list[dict[str, object]] = []
     hiv_count = compute_count_from_percent(parsed.participant_count, parsed.hiv_percent)
     if hiv_count is not None:
-        quantities.append({"minVal": hiv_count, "unitText": "living with HIV"})
+        quantities.append({"@type": "QuantitativeValue", "minVal": hiv_count, "unitText": "living with HIV"})
         without_hiv = parsed.participant_count - hiv_count if parsed.participant_count is not None else None
         if without_hiv is not None:
-            quantities.append({"minVal": without_hiv, "unitText": "living without HIV"})
+            quantities.append({"@type": "QuantitativeValue", "minVal": without_hiv, "unitText": "living without HIV"})
 
     women_count = compute_count_from_percent(parsed.participant_count, parsed.women_percent)
     if women_count is not None:
-        quantities.append({"minVal": women_count, "unitText": "Women"})
+        quantities.append({"@type": "QuantitativeValue", "minVal": women_count, "unitText": "Women"})
         men_count = parsed.participant_count - women_count if parsed.participant_count is not None else None
         if men_count is not None:
-            quantities.append({"minVal": men_count, "unitText": "Men"})
-
-    if parsed.median_age is not None:
-        sample["age"] = {"minVal": parsed.median_age, "unitText": "years", "valueType": "median"}
+            quantities.append({"@type": "QuantitativeValue", "minVal": men_count, "unitText": "Men"})
 
     exclusions = override.get("sample_exclusions")
     if isinstance(exclusions, list) and exclusions:
@@ -588,10 +657,19 @@ def build_sample(parsed: ParsedStudy, override: dict[str, object]) -> dict[str, 
 def build_datacollection(parsed: ParsedStudy) -> dict[str, object]:
     override = STUDY_OVERRIDES.get(normalize_study_key(parsed.name), {})
     obj: dict[str, object] = {
+        "@context": JSONLD_CONTEXT,
         "@type": "DataCollection",
         "name": parsed.name,
         "description": build_description(parsed),
-        "species": {"name": "Homo sapiens"},
+        "dateCreated": parse_date_created(parsed.pdf_path),
+        "about": ABOUT_PATIENT,
+        "species": {
+            "@type": "DefinedTerm",
+            "name": "Homo sapiens",
+            "identifier": "9606",
+            "inDefinedTermSet": "NCBITAXON",
+            "url": "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+        },
         "measurementTechnique": infer_measurement_techniques(parsed, override),
         "variableMeasured": infer_variable_measured(parsed, override),
         "author": [make_author_object(name) for name in parsed.authors],
