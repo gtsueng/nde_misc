@@ -1,0 +1,100 @@
+{
+  "@type": "nde:Sample",
+  "@context": {
+    "schema": "http://schema.org/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dct": "http://purl.org/dc/terms/",
+    "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
+    "bioschemastypesdrafts": "https://discovery.biothings.io/ns/bioschemastypesdrafts/",
+    "niaid": "http://discovery.biothings.io/ns/niaid/",
+    "nde": "https://discovery.biothings.io/ns/nde/"
+  },
+  "name": "DIGEORGE SYNDROME (DGS) DNA from LCL",
+  "description": "DIGEORGE SYNDROME; DGS. Clinically affected; affected mother is ID00014",
+  "identifier": "ID00016",
+  "url": "https://www.coriell.org/0/sections/Search/Sample_Detail.aspx?Ref=ID00016",
+  "usageInfo": {
+    "@type": "CreativeWork",
+    "url": "https://www.coriell.org/0/Sections/Collections/USIDNET/Ordering.aspx?PgId=162&coll=ID",
+    "name": "How To Order"
+  },
+  "conditionsOfAccess": "Open",
+  "isAccessibleForFree": false,
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "USIDNET DNA and Cell Repository",
+    "url": "https://www.coriell.org/1/USIDNET",
+    "versionDate": "2026-04-16"
+  },
+  "associatedPhenotype": {
+    "@type": "DefinedTerm",
+    "name": "Hypoplasia of the thymus"
+  },
+  "cellType": {
+    "@type": "DefinedTerm",
+    "name": "B-Lymphocyte"
+  },
+  "healthCondition": {
+    "@type": "DefinedTerm",
+    "name": "Digeorge Syndrome; Dgs"
+  },
+  "species": {
+    "@type": "DefinedTerm",
+    "name": "Homo sapiens"
+  },
+  "anatomicalSystem": {
+    "@type": "DefinedTerm",
+    "name": "Blood"
+  },
+  "anatomicalStructure": {
+    "@type": "DefinedTerm",
+    "name": "Peripheral vein"
+  },
+  "sex": {
+    "@type": "DefinedTerm",
+    "name": "Male"
+  },
+  "developmentalStage": {
+    "@type": "QuantitativeValue",
+    "value": 11,
+    "unitText": "years old"
+  },
+  "sampleAvailability": true,
+  "sampleQuantity": {
+    "@type": "QuantitativeValue",
+    "value": 50,
+    "unitText": "\u00b5g"
+  },
+  "sampleStorageTemperature": {
+    "@type": "QuantitativeValue",
+    "value": -20,
+    "unitText": "C"
+  },
+  "sampleType": {
+    "@type": "DefinedTerm",
+    "name": "DNA"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Abigail Amberson",
+    "familyName": "Amberson",
+    "givenName": "Abigail",
+    "affiliation": {
+      "@type": "Thing",
+      "name": "Coriell Institute for Medical Research",
+      "sameAs": "https://ror.org/04npwsp41"
+    },
+    "title": "Senior Project Manager"
+  },
+  "collector": {
+    "@type": "Organization",
+    "name": "USIDNET"
+  },
+  "keywords": [
+    "Heritable Diseases",
+    "Disorders of Uncertain Biochemical Etiology"
+  ],
+  "creativeWorkStatus": "Available",
+  "additionalType": "BioSample"
+}

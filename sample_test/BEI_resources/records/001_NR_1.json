@@ -1,0 +1,37 @@
+{
+  "index": 1,
+  "bei_number": "NR-1",
+  "listing_title": "Vaccinia Virus Modified Vaccinia Ankara (MVA)",
+  "listing_category": "",
+  "listing_bei_level": "",
+  "source_url": "https://www.beiresources.org/Catalog/animalviruses/NR-1.aspx",
+  "page_heading": "Product Highlights for NR-1",
+  "downloaded_at_utc": "2026-03-16T20:10:49.726215+00:00",
+  "sections": {
+    "Product Name": "Modified Vaccinia Ankara (MVA)",
+    "Manufacturer": "BEI Resources",
+    "Taxonomy": "Virus Classification : Poxviridae, Orthopoxvirus Species : Vaccinia Virus (VACV) Strain/Isolate : Modified VACV Ankara (MVA)",
+    "Product Description": "Original Source : The early passage history of MVA is complex. 1 Comments : The complete genomic sequence of MVA has been determined (GenBank: U94848 ). 2 MVA is a highly attenuated strain of vaccinia virus and does not appear to replicate in most mammalian cells. 3",
+    "Material Provided": "Each vial contains approximately 1.0 mL of cell lysate and supernatant from SL-29 chicken embryo fibroblast (CEF; ATCC ® CRL-1590™) cells infected with VACV, MVA. Note: If homogeneity is required for your intended use, please purify prior to initiating work.",
+    "Packing/Storage": "NR-1 was packaged aseptically in cryovials. The product is provided frozen and should be stored at -60°C or colder immediately upon arrival. For long-term storage, the vapor phase of a liquid nitrogen freezer is recommended. Freeze-thaw cycles should be avoided.",
+    "Growth Conditions": "Host : Chicken embryo fibroblast (SL-29 CEF) cells (ATCC ® CRL-1590™) Growth Medium : Dulbecco’s Modified Eagle’s Medium with 5% fetal bovine serum and 5% tryptose phosphate broth, or equivalents Infection : Cells should be 80% to 90% confluent Incubation : 3 to 5 days at 37°C and 5% CO 2 Cytopathic Effect : Cell rounding and sloughing",
+    "Disclaimers": "You are authorized to use this product for research use only. It is not intended for human use. Use of this product is subject to the terms and conditions of the BEI Resources Material Transfer Agreement (MTA). The MTA is available on our Web site at www.beiresources.org. While BEI Resources uses reasonable efforts to include accurate and up-to-date information on this product sheet, neither ATCC ® nor the U.S. Government makes any warranties or representations as to its accuracy. Citations from scientific literature and patents are provided for informational purposes only. Neither ATCC ® nor the U.S. Government warrants that such information has been confirmed to be accurate. This product is sent with the condition that you are responsible for its safe storage, handling, use and disposal. ATCC ® and the U.S. Government are not liable for any damages or injuries arising from receipt and/ or use of this product. While reasonable effort is made to ensure authenticity and reliability of materials on deposit, the U.S. Government, ATCC ® , their suppliers and contributors to BEI Resources are not liable for damages arising from the misidentification or misrepresentation of products.",
+    "References": "1. Mayr, A., V. Hochstein-Mintzel, and H. Stickl. ”Passage History, Properties, and Applicability of the Attenuated Vaccinia Virus Strain MVA.” Infection 3 (1975): 6-14. 2. Antoine, G., F. Scheiflinger, F. Dorner, and F. G. Falkner. “The Complete Genomic Sequence of the Modified Vaccinia Ankara Strain: Comparison with Other Orthopoxviruses.” Virology 244 (1998): 365-396. PubMed: 9601507. GenBank: U94848. 3. Wyatt, L. S., et al. “Marker Rescue of the Host Range Restriction Defects of Modified Vaccinia Virus Ankara.” Virology 251 (1998): 334-342. PubMed: 9837798.",
+    "Citation": "Acknowledgment for publications should read “The following reagent was obtained through BEI Resources, NIAID, NIH: Vaccinia Virus, Modified Vaccinia Ankara (MVA), NR-1.”",
+    "Biosafety Level": "2"
+  },
+  "attachments": [
+    {
+      "label": "3564849",
+      "url": "https://www.beiresources.org/ProductInformationSheet/tabid/784/Default.aspx?doc=94316.pdf"
+    },
+    {
+      "label": "7704329",
+      "url": "https://www.beiresources.org/ProductInformationSheet/tabid/784/Default.aspx?doc=94317.pdf"
+    },
+    {
+      "label": "Adobe Reader",
+      "url": "https://www.adobe.com/products/acrobat/readstep2.html"
+    }
+  ]
+}

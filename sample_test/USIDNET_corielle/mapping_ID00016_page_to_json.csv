@@ -1,0 +1,26 @@
+﻿json_property,json_value,page_location,page_value,mapping_type,notes
+identifier,ID00016,"Banner (lblRef)",ID00016,direct,Exact match
+url,https://www.coriell.org/0/sections/Search/Sample_Detail.aspx?Ref=ID00016,"Request URL / form action","./Sample_Detail.aspx?Ref=ID00016",direct,Canonicalized to absolute URL
+sampleType.name,DNA,"Banner product source","DNA from LCL",direct,Sample type extracted from bold label
+"name","DIGEORGE SYNDROME (DGS) DNA from LCL","Banner + Description","DIGEORGE SYNDROME; DGS + DNA from LCL",derived,Semicolon disease alias reformatted to parentheses
+"description","DIGEORGE SYNDROME; DGS. Clinically affected; affected mother is ID00014","Description + Phenotypic Data/Remarks","DIGEORGE SYNDROME; DGS + Clinically affected; affected mother is ID00014",derived,Concatenated disease text and remarks
+sex.name,Male,"Quick Info (lblGender)",Male,direct,Exact match
+developmentalStage.value,11,"Quick Info (lblAge)",11,direct,Parsed integer
+developmentalStage.unitText,years old,"Quick Info (lblAgeunit_id)",YR,derived,Unit normalized
+anatomicalSystem.name,Blood,"Overview / Tissue Type",Blood,direct,Exact match
+anatomicalStructure.name,Peripheral vein,"Overview / Biopsy Source",Peripheral vein,direct,Exact match
+cellType.name,B-Lymphocyte,"Overview / Cell Type",B-Lymphocyte,direct,Exact match
+sampleQuantity.value,50,"Overview / Quantity",50 Âµg,direct,Numeric parsed
+sampleQuantity.unitText,µg,"Overview / Quantity",50 Âµg,direct,Unit parsed and normalized
+keywords[0],Heritable Diseases,"Overview / Subcollection",Heritable Diseases,direct,Exact match
+keywords[1],Disorders of Uncertain Biochemical Etiology,"Overview / Class",Disorders of Uncertain Biochemical Etiology,direct,Exact match
+usageInfo.url,https://www.coriell.org/0/Sections/Collections/USIDNET/Ordering.aspx?PgId=162&coll=ID,"How to Order panel / Ordering Instructions link","/0/Sections/Collections/USIDNET/Ordering.aspx?PgId=162&coll=ID",direct,Relative URL resolved to absolute
+usageInfo.name,How To Order,"How to Order panel",How to Order,derived,Capitalization normalized
+includedInDataCatalog.name,USIDNET DNA and Cell Repository,"Repository + site catalog context","NIAID - USIDnet",derived,Mapped to preferred catalog title
+includedInDataCatalog.url,https://www.coriell.org/1/USIDNET,"Catalog context (USIDNET collection page)",NIAID - USIDnet,derived,Repository label mapped to collection URL
+healthCondition.name,DiGeorge syndrome,"Description / OMIM rows","DIGEORGE SYNDROME; DGS",derived,Normalized case and synonym handling
+associatedPhenotype.name,Hypoplasia of the thymus,"External Links / Omim Description","HYPOPLASIA OF THYMUS AND PARATHYROIDS",derived,Ontology-preferred label chosen from OMIM description
+isAccessibleForFree,false,"Pricing panel","Commercial: $295.00; Academic & Non-profit: $205.00",inferred,Priced sample implies not free
+sampleAvailability,true,"Add to Cart control",Add to Cart,inferred,Treated as available when purchasable
+collector.name,USIDNET,"Repository context","NIAID - USIDnet",derived,Repository owner normalized to collector label
+creativeWorkStatus,Available,"Add to Cart control",Add to Cart,inferred,Availability status inferred from orderability

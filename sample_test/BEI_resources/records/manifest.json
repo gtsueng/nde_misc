@@ -1,0 +1,902 @@
+[
+  {
+    "index": 1,
+    "bei_number": "NR-1",
+    "title": "Vaccinia Virus Modified Vaccinia Ankara (MVA)",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-1.aspx",
+    "saved_path": "001_NR_1.json",
+    "format": "json",
+    "section_count": 11
+  },
+  {
+    "index": 2,
+    "bei_number": "NR-3",
+    "title": "Escherichia coli EDL931 (Serotype O157:H7)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-3.aspx",
+    "saved_path": "002_NR_3.json",
+    "format": "json",
+    "section_count": 12
+  },
+  {
+    "index": 3,
+    "bei_number": "NR-4",
+    "title": "Escherichia coli H10407 (Serotype O78:H11)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-4.aspx",
+    "saved_path": "003_NR_4.json",
+    "format": "json",
+    "section_count": 12
+  },
+  {
+    "index": 4,
+    "bei_number": "NR-5",
+    "title": "Escherichia coli E2539-C1 (Serotype O25:K98:NM)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-5.aspx",
+    "saved_path": "004_NR_5.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 5,
+    "bei_number": "NR-6",
+    "title": "Escherichia coli B6914-MS1 (Serotype O157:H7)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-6.aspx",
+    "saved_path": "005_NR_6.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 6,
+    "bei_number": "NR-7",
+    "title": "Escherichia coli EDL932 (Serotype O157:H7)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-7.aspx",
+    "saved_path": "006_NR_7.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 7,
+    "bei_number": "NR-8",
+    "title": "Escherichia coli A (Serotype O157:H7)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-8.aspx",
+    "saved_path": "007_NR_8.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 8,
+    "bei_number": "NR-9",
+    "title": "Escherichia coli 94-G7771 (Serotype O157:NM)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-9.aspx",
+    "saved_path": "008_NR_9.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 9,
+    "bei_number": "NR-10",
+    "title": "Escherichia coli BDMS 770 (Serotype O157:H7)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-10.aspx",
+    "saved_path": "009_NR_10.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 10,
+    "bei_number": "NR-11",
+    "title": "Escherichia coli EDL933 (Serotype O157:H7)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-11.aspx",
+    "saved_path": "010_NR_11.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 11,
+    "bei_number": "NR-12",
+    "title": "Escherichia coli RIMD 0509952 (Serotype O157:H7)",
+    "record_url": "https://www.beiresources.org/Catalog/bacteria/NR-12.aspx",
+    "saved_path": "011_NR_12.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 12,
+    "bei_number": "NR-13",
+    "title": "Francisella tularensis subsp. novicida Utah 112",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-13.aspx",
+    "saved_path": "012_NR_13.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 13,
+    "bei_number": "NR-14",
+    "title": "Francisella tularensis subsp. holarctica 15 (Gaisky Live Vaccine Strain)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-14.aspx",
+    "saved_path": "013_NR_14.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 14,
+    "bei_number": "NR-15",
+    "title": "Yersinia pestis A1122",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-15.aspx",
+    "saved_path": "014_NR_15.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 15,
+    "bei_number": "NR-17",
+    "title": "Yersinia pestis TWJ",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-17.aspx",
+    "saved_path": "015_NR_17.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 16,
+    "bei_number": "NR-20",
+    "title": "Yersinia pestis 125 B. plague Bombay",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-20.aspx",
+    "saved_path": "016_NR_20.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 17,
+    "bei_number": "NR-21",
+    "title": "Burkholderia mallei China 5 (NBL 4)",
+    "record_url": "https://www.beiresources.org/Catalog/bacteria/NR-21.aspx",
+    "saved_path": "017_NR_21.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 18,
+    "bei_number": "NR-22",
+    "title": "Burkholderia mallei Ivan (NCTC 10230)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-22.aspx",
+    "saved_path": "018_NR_22.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 19,
+    "bei_number": "NR-23",
+    "title": "Burkholderia mallei China 7 (NBL 7)",
+    "record_url": "https://www.beiresources.org/Catalog/bacteria/NR-23.aspx",
+    "saved_path": "019_NR_23.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 20,
+    "bei_number": "NR-24",
+    "title": "Burkholderia pseudomallei China 3 (MP-H, NBL 104)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-24.aspx",
+    "saved_path": "020_NR_24.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 21,
+    "bei_number": "NR-25",
+    "title": "Burkholderia pseudomallei NCTC 4845 (S. 397, NRRL B-1112, CCEB 472)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-25.aspx",
+    "saved_path": "021_NR_25.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 22,
+    "bei_number": "NR-27",
+    "title": "Monkeypox Virus WRAIR 7-61",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-27.aspx",
+    "saved_path": "022_NR_27.json",
+    "format": "json",
+    "section_count": 10
+  },
+  {
+    "index": 23,
+    "bei_number": "NR-29",
+    "title": "Bacillus anthracis NRS 1007",
+    "record_url": "https://www.beiresources.org/Catalog/bacteria/NR-29.aspx",
+    "saved_path": "023_NR_29.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 24,
+    "bei_number": "NR-30",
+    "title": "Bacillus anthracis Davis",
+    "record_url": "https://www.beiresources.org/Catalog/bacteria/NR-30.aspx",
+    "saved_path": "024_NR_30.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 25,
+    "bei_number": "NR-33",
+    "title": "Bacillus anthracis 107-NP2-R1",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-33.aspx",
+    "saved_path": "025_NR_33.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 26,
+    "bei_number": "NR-34",
+    "title": "Bacillus anthracis 116-NP1-R2",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-34.aspx",
+    "saved_path": "026_NR_34.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 27,
+    "bei_number": "NR-36",
+    "title": "Bacillus anthracis NRS 1008",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-36.aspx",
+    "saved_path": "027_NR_36.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 28,
+    "bei_number": "NR-38",
+    "title": "Bacillus anthracis Pasteur Vaccine No. 1",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-38.aspx",
+    "saved_path": "028_NR_38.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 29,
+    "bei_number": "NR-39",
+    "title": "Bacillus anthracis NRS 1013",
+    "record_url": "https://www.beiresources.org/Catalog/bacteria/NR-39.aspx",
+    "saved_path": "029_NR_39.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 30,
+    "bei_number": "NR-40",
+    "title": "Bacillus anthracis AMC1",
+    "record_url": "https://www.beiresources.org/Catalog/bacteria/NR-40.aspx",
+    "saved_path": "030_NR_40.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 31,
+    "bei_number": "NR-41",
+    "title": "Bacillus anthracis Graves",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-41.aspx",
+    "saved_path": "031_NR_41.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 32,
+    "bei_number": "NR-43",
+    "title": "Bacillus anthracis NRS 1014",
+    "record_url": "https://www.beiresources.org/Catalog/bacteria/NR-43.aspx",
+    "saved_path": "032_NR_43.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 33,
+    "bei_number": "NR-46",
+    "title": "Bacillus anthracis 46-PY-5",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-46.aspx",
+    "saved_path": "033_NR_46.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 34,
+    "bei_number": "NR-49",
+    "title": "Bacillus anthracis SDR-44",
+    "record_url": "https://www.beiresources.org/Catalog/bacteria/NR-49.aspx",
+    "saved_path": "034_NR_49.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 35,
+    "bei_number": "NR-50",
+    "title": "Francisella tularensis subsp. tularensis NIH B-38",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-50.aspx",
+    "saved_path": "035_NR_50.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 36,
+    "bei_number": "NR-51",
+    "title": "Vaccinia Virus Lister (Elstree)",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-51.aspx",
+    "saved_path": "036_NR_51.json",
+    "format": "json",
+    "section_count": 12
+  },
+  {
+    "index": 37,
+    "bei_number": "NR-52",
+    "title": "Vaccinia Virus IHD",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-52.aspx",
+    "saved_path": "037_NR_52.json",
+    "format": "json",
+    "section_count": 11
+  },
+  {
+    "index": 38,
+    "bei_number": "NR-53",
+    "title": "Vaccinia Virus Lederle-Chorioallantoic",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-53.aspx",
+    "saved_path": "038_NR_53.json",
+    "format": "json",
+    "section_count": 11
+  },
+  {
+    "index": 39,
+    "bei_number": "NR-54",
+    "title": "Vaccinia Virus New York City Board of Health (Wyeth, Calf Adapted)",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-54.aspx",
+    "saved_path": "039_NR_54.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 40,
+    "bei_number": "NR-55",
+    "title": "Vaccinia Virus Western Reserve (NIAID, Tissue Culture Adapted)",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-55.aspx",
+    "saved_path": "040_NR_55.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 41,
+    "bei_number": "NR-56",
+    "title": "Vaccinia Virus Western Reserve (Mouse adapted)",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-56.aspx",
+    "saved_path": "041_NR_56.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 42,
+    "bei_number": "NR-58",
+    "title": "Rickettsia prowazekii Madrid E-Derivative 83-2P",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-58.aspx",
+    "saved_path": "042_NR_58.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 43,
+    "bei_number": "NR-59",
+    "title": "Rickettsia prowazekii 87-17",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-59.aspx",
+    "saved_path": "043_NR_59.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 44,
+    "bei_number": "NR-60",
+    "title": "Rickettsia prowazekii Madrid E-Derivative 103-2P",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-60.aspx",
+    "saved_path": "044_NR_60.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 45,
+    "bei_number": "NR-63",
+    "title": "Venezuelan equine encephalitis virus TC-83 (subtype IA/B)",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-63.aspx",
+    "saved_path": "045_NR_63.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 46,
+    "bei_number": "NR-69",
+    "title": "Brucella abortus 544",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-69.aspx",
+    "saved_path": "046_NR_69.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 47,
+    "bei_number": "NR-72",
+    "title": "West Nile Virus B 956",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-72.aspx",
+    "saved_path": "047_NR_72.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 48,
+    "bei_number": "NR-80",
+    "title": "Dengue virus type 3 Philippines/H87/1956",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-80.aspx",
+    "saved_path": "048_NR_80.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 49,
+    "bei_number": "NR-82",
+    "title": "Dengue Virus Type 1 (DEN-1), Hawaii",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-82.aspx",
+    "saved_path": "049_NR_82.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 50,
+    "bei_number": "NR-83",
+    "title": "Dengue virus type 1 TH-Sman",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-83.aspx",
+    "saved_path": "050_NR_83.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 51,
+    "bei_number": "NR-84",
+    "title": "Dengue virus type 2 New Guinea C (NGC)",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-84.aspx",
+    "saved_path": "051_NR_84.json",
+    "format": "json",
+    "section_count": 12
+  },
+  {
+    "index": 52,
+    "bei_number": "NR-86",
+    "title": "Dengue Virus Type 4 H241 (Tissue Culture Adapted)",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-86.aspx",
+    "saved_path": "052_NR_86.json",
+    "format": "json",
+    "section_count": 12
+  },
+  {
+    "index": 53,
+    "bei_number": "NR-88",
+    "title": "Cowpox Virus Brighton Red",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-88.aspx",
+    "saved_path": "053_NR_88.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 54,
+    "bei_number": "NR-89",
+    "title": "California encephalitis virus BFS-283",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-89.aspx",
+    "saved_path": "054_NR_89.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 55,
+    "bei_number": "NR-90",
+    "title": "Japanese encephalitis virus Nakayama",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-90.aspx",
+    "saved_path": "055_NR_90.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 56,
+    "bei_number": "NR-91",
+    "title": "Japanese encephalitis virus Okayama Culex tritaeniorhynchus (OCT)-541, Line 35-24",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-91.aspx",
+    "saved_path": "056_NR_91.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 57,
+    "bei_number": "NR-92",
+    "title": "Japanese encephalitis virus Nakayama (NIAID V-537-001-522)",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-92.aspx",
+    "saved_path": "057_NR_92.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 58,
+    "bei_number": "NR-96",
+    "title": "Escherichia coli B2F1 (Serotype O91:H21)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-96.aspx",
+    "saved_path": "058_NR_96.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 59,
+    "bei_number": "NR-97",
+    "title": "Escherichia coli H414-36/89 (Serotype O91:H21)",
+    "record_url": "https://www.beiresources.org/Catalog/bacteria/NR-97.aspx",
+    "saved_path": "059_NR_97.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 60,
+    "bei_number": "NR-99",
+    "title": "Escherichia coli CDC (ATCC ® 12807™) (Serotype O126:K71(B16:H)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-99.aspx",
+    "saved_path": "060_NR_99.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 61,
+    "bei_number": "NR-100",
+    "title": "Escherichia coli 1885-77 (Serotype O29:NM)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-100.aspx",
+    "saved_path": "061_NR_100.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 62,
+    "bei_number": "NR-101",
+    "title": "Escherichia coli NCDC 909-51 (Serotype O28a,O28c:K73(B18):NM)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-101.aspx",
+    "saved_path": "062_NR_101.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 63,
+    "bei_number": "NR-102",
+    "title": "Escherichia coli NCDC U14-41 (Serotype O3:K2a,2b(L):H2)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-102.aspx",
+    "saved_path": "063_NR_102.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 64,
+    "bei_number": "NR-103",
+    "title": "Escherichia coli E 10 (Serotype O77:K96:NM)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-103.aspx",
+    "saved_path": "064_NR_103.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 65,
+    "bei_number": "NR-104",
+    "title": "Escherichia coli RDEC-1 (Serotype O15:NM)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-104.aspx",
+    "saved_path": "065_NR_104.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 66,
+    "bei_number": "NR-105",
+    "title": "Listeria monocytogenes 53 XXIII",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-105.aspx",
+    "saved_path": "066_NR_105.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 67,
+    "bei_number": "NR-106",
+    "title": "Listeria monocytogenes Li 20",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-106.aspx",
+    "saved_path": "067_NR_106.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 68,
+    "bei_number": "NR-107",
+    "title": "Listeria monocytogenes Li 21",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-107.aspx",
+    "saved_path": "068_NR_107.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 69,
+    "bei_number": "NR-108",
+    "title": "Listeria monocytogenes Li 22",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-108.aspx",
+    "saved_path": "069_NR_108.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 70,
+    "bei_number": "NR-109",
+    "title": "Listeria monocytogenes Li 23",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-109.aspx",
+    "saved_path": "070_NR_109.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 71,
+    "bei_number": "NR-110",
+    "title": "Listeria monocytogenes Li 2",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-110.aspx",
+    "saved_path": "071_NR_110.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 72,
+    "bei_number": "NR-111",
+    "title": "Listeria monocytogenes Li 2107",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-111.aspx",
+    "saved_path": "072_NR_111.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 73,
+    "bei_number": "NR-112",
+    "title": "Listeria monocytogenes Li 2108",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-112.aspx",
+    "saved_path": "073_NR_112.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 74,
+    "bei_number": "NR-113",
+    "title": "Listeria monocytogenes Li 2109",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-113.aspx",
+    "saved_path": "074_NR_113.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 75,
+    "bei_number": "NR-114",
+    "title": "Listeria monocytogenes EGD-e",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-114.aspx",
+    "saved_path": "075_NR_114.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 76,
+    "bei_number": "NR-116",
+    "title": "Yellow fever virus 17D",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-116.aspx",
+    "saved_path": "076_NR_116.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 77,
+    "bei_number": "NR-119",
+    "title": "Venezuelan equine encephalitis virus 3880 (subtype ID)",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-119.aspx",
+    "saved_path": "077_NR_119.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 78,
+    "bei_number": "NR-120",
+    "title": "Venezuelan equine encephalitis virus Mena II (subtype IE)",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-120.aspx",
+    "saved_path": "078_NR_120.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 79,
+    "bei_number": "NR-122",
+    "title": "Mycobacterium tuberculosis subsp. tuberculosis H37Ra",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-122.aspx",
+    "saved_path": "079_NR_122.json",
+    "format": "json",
+    "section_count": 12
+  },
+  {
+    "index": 80,
+    "bei_number": "NR-123",
+    "title": "Mycobacterium tuberculosis H37Rv",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-123.aspx",
+    "saved_path": "080_NR_123.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 81,
+    "bei_number": "NR-124",
+    "title": "Campylobacter jejuni subsp. doylei 093",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-124.aspx",
+    "saved_path": "081_NR_124.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 82,
+    "bei_number": "NR-125",
+    "title": "Campylobacter jejuni subsp. jejuni CIP 702",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-125.aspx",
+    "saved_path": "082_NR_125.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 83,
+    "bei_number": "NR-126",
+    "title": "Campylobacter jejuni subsp. jejuni NCTC 11168",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-126.aspx",
+    "saved_path": "083_NR_126.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 84,
+    "bei_number": "NR-128",
+    "title": "Campylobacter jejuni subsp. jejuni LRA 094.06.89",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-128.aspx",
+    "saved_path": "084_NR_128.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 85,
+    "bei_number": "NR-134",
+    "title": "Coxiella burnetii Nine Mile Phase I / RSA 411",
+    "record_url": "https://www.beiresources.org/Catalog/bacteria/NR-134.aspx",
+    "saved_path": "085_NR_134.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 86,
+    "bei_number": "NR-135",
+    "title": "Coxiella burnetii Nine Mile Q",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-135.aspx",
+    "saved_path": "086_NR_135.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 87,
+    "bei_number": "NR-137",
+    "title": "Hepatitis A virus HM175/18f",
+    "record_url": "https://www.beiresources.org/Catalog/animalviruses/NR-137.aspx",
+    "saved_path": "087_NR_137.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 88,
+    "bei_number": "NR-140",
+    "title": "Anthrax Protective Antigen (PA), Recombinant from Bacillus anthracis",
+    "record_url": "https://www.beiresources.org/Catalog/toxins/NR-140.aspx",
+    "saved_path": "088_NR_140.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 89,
+    "bei_number": "NR-144",
+    "title": "Vibrio cholerae MO45",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-144.aspx",
+    "saved_path": "089_NR_144.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 90,
+    "bei_number": "NR-145",
+    "title": "Vibrio cholerae MO3",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-145.aspx",
+    "saved_path": "090_NR_145.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 91,
+    "bei_number": "NR-146",
+    "title": "Vibrio cholerae 2125",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-146.aspx",
+    "saved_path": "091_NR_146.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 92,
+    "bei_number": "NR-147",
+    "title": "Vibrio cholerae N16961",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-147.aspx",
+    "saved_path": "092_NR_147.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 93,
+    "bei_number": "NR-148",
+    "title": "Vibrio cholerae CVD 101",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-148.aspx",
+    "saved_path": "093_NR_148.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 94,
+    "bei_number": "NR-149",
+    "title": "Vibrio cholerae Nanking 32/123",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-149.aspx",
+    "saved_path": "094_NR_149.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 95,
+    "bei_number": "NR-150",
+    "title": "Vibrio cholerae El Tor 34-D 23",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-150.aspx",
+    "saved_path": "095_NR_150.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 96,
+    "bei_number": "NR-151",
+    "title": "Vibrio cholerae Kasauli 73 (NCTC 4716)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-151.aspx",
+    "saved_path": "096_NR_151.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 97,
+    "bei_number": "NR-152",
+    "title": "Vibrio cholerae Nanking 32/124 (NCTC 8042)",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-152.aspx",
+    "saved_path": "097_NR_152.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 98,
+    "bei_number": "NR-153",
+    "title": "Vibrio cholerae PR508",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-153.aspx",
+    "saved_path": "098_NR_153.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 99,
+    "bei_number": "NR-154",
+    "title": "Vibrio cholerae BG202",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-154.aspx",
+    "saved_path": "099_NR_154.json",
+    "format": "json",
+    "section_count": 4
+  },
+  {
+    "index": 100,
+    "bei_number": "NR-155",
+    "title": "Vibrio cholerae PR542",
+    "record_url": "https://www.beiresources.org/Catalog/Bacteria/NR-155.aspx",
+    "saved_path": "100_NR_155.json",
+    "format": "json",
+    "section_count": 4
+  }
+]
