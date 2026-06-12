@@ -15,3 +15,5 @@ mainEntityOfPage
 sameAs
 relationship
 sourceOrganization.name
+creativeWorkStatus
+creditText

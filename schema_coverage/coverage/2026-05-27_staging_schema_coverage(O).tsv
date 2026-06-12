@@ -1,0 +1,18 @@
+	property	All	AccessClinicalData@NIAID	biotools	ClinEpiDB	Data Discovery Engine	Dryad Digital Repository	Figshare	Flow Repository	Harvard Dataverse	HuBMAP	Human Cell Atlas	ImmPort - Bioinformatics For the Future of Immunology	ImmuneSpace	LINCS	MalariaGEN	MassIVE	Mendeley	MicrobiomeDB	NCBI BioProject	NCBI GEO	NCBI SRA	NDEX	NICHD DASH	National Omics Data Encyclopedia	Omics Discovery Index (OmicsDI)	Project Tycho	Protein Data Bank	ProteomeXchange	Qiita	RADx Data Hub	ReframeDB	SAGE ARK Portal	The Database of Genotypes and Phenotypes	VDJServer	VEuPathDB	Vivli	Zenodo
+0	isRelatedTo	224765	4	0	0	3	0	0	0	0	0	0	0	0	424	0	0	0	5	0	0	0	0	9414	99590	45418	0	0	622	0	0	0	5	0	0	0	0	0
+1	isSimilarTo	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2	isBasisFor	7986980	0	0	0	27	0	0	0	0	4895	0	0	0	0	0	0	0	0	0	7977186	0	0	0	37	0	0	0	0	0	0	0	0	0	4661	0	0	0
+3	nctid	15567	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9030	0	0	0	0	0	0	0	0	0	0	0	0	6529	0
+4	abstract	1527	12	0	0	43	0	0	0	0	0	0	1447	210	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5	aggregateRating	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6	creator	14404	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5946	0
+7	hasPart	21593	11	0	0	33	6249	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12499	0	0	0	0	0	0	0	0	0	0	0	0	0	6122
+8	inLanguage	61652	0	0	0	43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	61609
+9	isAccessibleForFree	222509	0	0	0	42	26025	0	0	0	13644	524	1447	210	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	408	0	0	4749	3225	8616	16038
+10	isPartOf	15553267	4	0	0	23	0	0	0	0	0	0	0	0	0	60	0	0	5	0	0	0	0	12510	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+11	version	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12	alternateName	14432	0	0	0	42	0	0	0	0	0	0	1447	210	0	0	0	0	25	0	0	0	0	12510	0	0	0	0	0	0	0	408	0	0	0	0	0	0
+13	mainEntityOfPage	42881	11	0	0	1	0	0	0	0	0	219	0	0	0	0	0	0	0	0	0	0	0	9030	0	0	0	0	0	680	13	0	0	0	0	0	0	0
+14	sameAs	5928382	0	0	0	33	0	0	0	0	0	474	1447	210	0	0	19	0	0	988	5439087	0	0	0	0	103221	597	39418	41038	0	0	0	0	0	0	0	0	343582
+15	relationship	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16	sourceOrganization.name	25744	10	0	5	585	53	89	77	26	0	0	505	210	0	0	0	44	0	927	5489	0	0	2818	0	522	0	2342	283	23	18	0	26	304	20	157	0	19

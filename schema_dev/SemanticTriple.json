@@ -1,0 +1,460 @@
+{
+  "@context": {
+    "schema": "http://schema.org/",
+    "nde": "https://discovery.biothings.io/ns/nde/"
+  },
+  "@graph": [
+    {
+      "@id": "nde:SemanticTriple",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The SemanticTriple is a structured representation of a subject–predicate–object assertion, modeled after the RDF triple pattern used in knowledge graphs and linked data systems. While schema.org/Statement provides a general mechanism for reifying claims about entities, SemanticTriple makes the triple structure explicit and unambiguous, enabling direct, lossless translation between schema.org markup and RDF-based knowledge graph formats such as RDF/XML, Turtle, JSON-LD, and N-Triples.",
+      "rdfs:label": "SemanticTriple",
+      "rdfs:subClassOf": {
+        "@id": "schema:Statement"
+      },
+      "$validation": {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "type": "object",
+        "properties": {
+          "isSymmetric": {
+            "description": "A boolean indicating whether the triple's predicate asserts a symmetric relationship — that is, if A relates to B, then B relates to A by the same predicate. For example, biolink:correlated_with is symmetric, while biolink:regulates is not. Corresponds to owl:SymmetricProperty in OWL and symmetric: true in the Biolink Model.",
+            "owl:cardinality": "one",
+            "type": "boolean"
+          },
+          "inversePredicate": {
+            "description": "The predicate that expresses the inverse of this triple's relationship. The predicate which would be used if subject and object were swapped. Only meaningful when isSymmetric is false. For example, the inverse of biolink:regulates is biolink:regulated_by. Corresponds to owl:inverseOf in OWL and the inverse: slot on predicate definitions in the Biolink Model.",
+            "owl:cardinality": "one",
+            "oneOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "string"
+              }
+            ]
+          },
+          "tripleObject": {
+            "description": "The value or entity the predicate points to (corresponding to the RDF object). ",
+            "owl:cardinality": "one",
+            "oneOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "string"
+              }
+            ]
+          },
+          "triplePredicate": {
+            "description": "The relationship being asserted, observed, inferred, between the subject and the object (corresponding to the RDF predicate)",
+            "owl:cardinality": "one",
+            "oneOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "string"
+              }
+            ]
+          },
+          "tripleSubject": {
+            "description": "The entity the assertion, observation, or inference is about (corresponding to the RDF subject). ",
+            "owl:cardinality": "one",
+            "oneOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "string"
+              }
+            ]
+          },
+          "tripleObjectQualifier": {
+            "description": "Contextual or qualifying information about the object of the assertion, observation, or inference. For example, a chemical entity object may be qualified by its form (e.g. abundance or activity of a gene product), or a phenotypic feature object may be qualified by its severity, onset, or frequency in the context of a given disease association. Corresponds to object-level qualifiers in RDF-star annotations or RDF literal metadata.",
+            "owl:cardinality": "many",
+            "anyOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/propertyvalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ]
+          },
+          "tripleSubjectQualifier": {
+            "description": "Contextual or qualifying information about the subject of the assertion, observation, or inference. For example, a disease subject may be qualified by the anatomical location or cell type in which it manifests. Corresponds to subject-level qualifiers in RDF-star annotations or named graph metadata.",
+            "owl:cardinality": "many",
+            "anyOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/propertyvalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ]
+          },
+          "triplePredicateQualifier": {
+            "description": "Contextual or qualifying information about the predicate of the assertion, observation, or inference. For example, a 'gene associated with disease' predicate may be qualified by the association type (e.g. causal vs. correlated), the direction of effect (e.g. gain-of-function vs. loss-of-function), or the knowledge source (e.g. curated vs. inferred). Corresponds to predicate-level qualifiers in RDF-star annotations or property path metadata.",
+            "owl:cardinality": "many",
+            "anyOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/propertyvalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ]
+          },
+          "name": {
+            "description": "The name of the item.",
+            "owl:cardinality": "one",
+            "type": "string"
+          }
+        },
+        "required": [
+          "tripleObject",
+          "triplePredicate",
+          "tripleSubject"
+        ],
+        "recommended": [
+          "isSymmetric",
+          "inversePredicate",
+          "tripleObjectQualifier",
+          "tripleSubjectQualifier",
+          "triplePredicateQualifier"
+        ],
+        "optional": [
+          "name"
+        ],
+        "definitions": {
+          "definedterm": {
+            "@type": "DefinedTerm",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "The name of the item.",
+                "owl:cardinality": "one",
+                "type": "string"
+              },
+              "identifier": {
+                "description": "The identifier property represents any kind of identifier for any kind of Thing, such as ISBNs, GTIN codes, UUIDs etc. Schema.org provides dedicated properties for representing many of these, either as textual strings or as URL (URI) links. See background notes for more details.",
+                "owl:cardinality": "one",
+                "type": "string"
+              },
+              "url": {
+                "description": "URL of the item.",
+                "owl:cardinality": "one",
+                "type": "string",
+                "format": "uri"
+              },
+              "termCode": {
+                "description": "A code that identifies this DefinedTerm within a DefinedTermSet.",
+                "type": "string"
+              },
+              "description": {
+                "description": "A description of the item.",
+                "type": "string"
+              },
+              "inDefinedTermSet": {
+                "description": "A DefinedTermSet that contains this term.",
+                "type": "string"
+              },
+              "originalName": {
+                "description": "The original name of the item, before any metadata standardization/normalization",
+                "type": "string"
+              },
+              "isCurated": {
+                "description": "A boolean indicator describing whether or not this DefinedTerm was curated as the value of a property.",
+                "type": "boolean"
+              }
+            },
+            "required": []              
+          },
+          "propertyvalue": {
+            "@type": "PropertyValue",
+            "description": "A property-value pair, e.g. representing a feature of a product or place. Use the 'name' property for the name of the property. If there is an additional human-readable version of the value, put that into the 'description' property.",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "The name of the property.",
+                "type": "string"
+              },
+              "value": {
+                "description": "The value of a QuantitativeValue (including Observation) or property value node.",
+                "oneOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  {
+                    "type": "number"
+                  }
+                ]
+              },
+              "unitText": {
+                "description": "A unit associated with the value. E.g.- 'records' for the number of records in a database.",
+                "type": "string"
+              },
+              "propertyID": {
+                "description": "A commonly used identifier for the characteristic represented by the property...",
+                "oneOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                ]
+              }
+            },
+            "required": [
+                "name",
+                "value"
+            ],
+            "recommended": [
+                "propertyID"
+            ],
+            "optional": [
+                "unitText"
+            ]
+             
+          }
+        }
+      },
+      "schemaVersion": [
+        "https://schema.org/docs/releases.html#v30.0"
+      ]
+    },
+    {
+      "@id": "nde:isSymmetric",
+      "@type": "rdf:Property",
+      "rdfs:comment": "A boolean indicating whether the triple's predicate asserts a symmetric relationship — that is, if A relates to B, then B relates to A by the same predicate. For example, biolink:correlated_with is symmetric, while biolink:regulates is not. Corresponds to owl:SymmetricProperty in OWL and symmetric: true in the Biolink Model.",
+      "rdfs:label": "isSymmetric",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": {
+        "@id": "schema:Boolean"
+      }
+    },
+    {
+      "@id": "nde:inversePredicate",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The predicate that expresses the inverse of this triple's relationship. The predicate which would be used if subject and object were swapped. Only meaningful when isSymmetric is false. For example, the inverse of biolink:regulates is biolink:regulated_by. Corresponds to owl:inverseOf in OWL and the inverse: slot on predicate definitions in the Biolink Model.",
+      "rdfs:label": "inversePredicate",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:Text"
+        }
+      ]
+    },
+    {
+      "@id": "nde:tripleObject",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The value or entity the predicate points to (corresponding to the RDF object). ",
+      "rdfs:label": "tripleObject",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:Text"
+        }
+      ]
+    },
+    {
+      "@id": "nde:triplePredicate",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The relationship being asserted, observed, inferred, between the subject and the object (corresponding to the RDF predicate)",
+      "rdfs:label": "triplePredicate",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:Text"
+        }
+      ]
+    },
+    {
+      "@id": "nde:tripleSubject",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The entity the assertion, observation, or inference is about (corresponding to the RDF subject). ",
+      "rdfs:label": "tripleSubject",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:Text"
+        }
+      ]
+    },
+    {
+      "@id": "nde:tripleObjectQualifier",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Contextual or qualifying information about the object of the assertion, observation, or inference. For example, a chemical entity object may be qualified by its form (e.g. abundance or activity of a gene product), or a phenotypic feature object may be qualified by its severity, onset, or frequency in the context of a given disease association. Corresponds to object-level qualifiers in RDF-star annotations or RDF literal metadata.",
+      "rdfs:label": "tripleObjectQualifier",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:Text"
+        }
+      ]
+    },
+    {
+      "@id": "nde:tripleSubjectQualifier",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Contextual or qualifying information about the subject of the assertion, observation, or inference. For example, a disease subject may be qualified by the anatomical location or cell type in which it manifests. Corresponds to subject-level qualifiers in RDF-star annotations or named graph metadata.",
+      "rdfs:label": "tripleSubjectQualifier",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:Text"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        }
+      ]
+    },
+    {
+      "@id": "nde:triplePredicateQualifier",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Contextual or qualifying information about the predicate of the assertion, observation, or inference. For example, a 'gene associated with disease' predicate may be qualified by the association type (e.g. causal vs. correlated), the direction of effect (e.g. gain-of-function vs. loss-of-function), or the knowledge source (e.g. curated vs. inferred). Corresponds to predicate-level qualifiers in RDF-star annotations or property path metadata.",
+      "rdfs:label": "triplePredicateQualifier",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:Text"
+        }
+      ]
+    }
+  ]
+}

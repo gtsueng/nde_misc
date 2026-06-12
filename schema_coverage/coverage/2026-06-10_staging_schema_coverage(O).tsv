@@ -1,0 +1,20 @@
+	property	All	AccessClinicalData@NIAID	biotools	ClinEpiDB	Data Discovery Engine	Dryad Digital Repository	Figshare	Flow Repository	Harvard Dataverse	HuBMAP	Human Cell Atlas	ImmPort - Bioinformatics For the Future of Immunology	ImmuneSpace	LINCS	MalariaGEN	MassIVE	Mendeley	MicrobiomeDB	NCBI BioProject	NCBI GEO	NCBI SRA	NDEX	NICHD DASH	National Omics Data Encyclopedia	Omics Discovery Index (OmicsDI)	Project Tycho	Protein Data Bank	ProteomeXchange	Qiita	RADx Data Hub	ReframeDB	SAGE ARK Portal	The Database of Genotypes and Phenotypes	VDJServer	VEuPathDB	Vivli	Zenodo
+0	isRelatedTo	225130	4	0	0	3	0	0	0	0	0	0	0	0	424	0	0	0	5	0	0	0	0	9414	99590	45418	0	0	622	0	0	0	5	0	0	0	0	0
+1	isSimilarTo	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2	isBasisFor	8016461	0	0	0	27	0	0	0	0	4914	0	0	0	0	0	0	0	0	0	7977186	0	0	0	37	0	0	0	0	0	0	0	0	0	4661	0	0	0
+3	nctid	15572	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9030	0	0	0	0	0	0	0	0	0	0	0	0	6534	0
+4	abstract	1538	12	0	0	43	0	0	0	0	0	0	1458	210	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5	aggregateRating	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6	creator	81552	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5951	0
+7	hasPart	21594	11	0	0	33	6249	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12499	0	0	0	0	0	0	0	0	0	0	0	0	0	6122
+8	inLanguage	61652	0	0	0	43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	61609
+9	isAccessibleForFree	389600	0	0	0	42	26025	0	0	0	13885	524	1458	210	0	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	408	0	0	4749	3225	8621	16038
+10	isPartOf	15553310	4	0	0	23	0	0	0	0	0	0	0	0	0	60	0	0	5	0	0	0	0	12510	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+11	version	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12	alternateName	14443	0	0	0	42	0	0	0	0	0	0	1458	210	0	0	0	0	25	0	0	0	0	12510	0	0	0	0	0	0	0	408	0	0	0	0	0	0
+13	mainEntityOfPage	42881	11	0	0	1	0	0	0	0	0	219	0	0	0	0	0	0	0	0	0	0	0	9030	0	0	0	0	0	680	13	0	0	0	0	0	0	0
+14	sameAs	5956583	0	0	0	33	0	0	0	0	0	474	1458	210	0	0	26	0	0	988	5439087	0	0	0	0	103221	597	39742	41038	0	0	0	0	0	0	0	0	343582
+15	relationship	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16	sourceOrganization.name	93489	10	0	5	585	53	89	77	26	0	0	507	210	0	0	0	46	0	933	5489	0	0	2818	0	522	0	2355	283	23	18	0	28	304	20	157	0	19
+17	creativeWorkStatus	32792	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+18	creditText	149449	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1099	0	597	0	0	0	0	0	29	0	0	3225	0	597
