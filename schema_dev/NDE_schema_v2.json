@@ -19,8 +19,8 @@
       "rdfs:subClassOf": {
         "@id": "niaid:Dataset"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v2.1 - 2026.04.08"],
-      "dct:provenance":"Changes since previous version: Add 'creativeWorkStatus' property.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v2.0 - 2025.12.12"],
+      "dct:provenance":"Changes since previous version: Update the validation of the 'sample' property in the Dataset to match the changes to the SampleCollection Type.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -720,12 +720,6 @@
             ],
             "owl:cardinality": "many"
           },
-          "creativeWorkStatus": {
-            "description": "The status of the Dataset. Expected to be one of the following values: Draft (The dataset is not yet ready), Active (The dataset is currently working and available), Retired (The dataset is no longer available).",
-            "type": "string",
-            "enum": ["Draft", "Active", "Retired"],
-            "owl:cardinality": "one"
-          },
           "dateCreated": {
             "description": "Date the work was created.",
             "format": "date",
@@ -1309,7 +1303,7 @@
         },
         "required": ["date", "funding", "distribution", "includedInDataCatalog", "measurementTechnique", "author", "description", "name", "url"],
         "recommended": ["citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory"],
-        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "nctid", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship","sourceOrganization", "sample","creditText","creativeWorkStatus"],
+        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "nctid", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship","sourceOrganization", "sample","creditText"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -2342,8 +2336,8 @@
       "rdfs:subClassOf": {
         "@id": "niaid:ComputationalTool"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v2.0 - 2026.04.08"],
-      "dct:provenance":"Changes since previous version: Add 'creativeWorkStatus' property.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v1.9 - 2025.09.03"],
+      "dct:provenance":"Changes since previous version: Update 'citation' and 'citedBy' descriptions. Added the creditText property as optional.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -3604,17 +3598,11 @@
             "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the tool.",
             "type": "string",
             "owl:cardinality": "one"
-          },
-          "creativeWorkStatus": {
-            "description": "The status of the ComputationalTool. Expected to be one of the following values: Draft (The tool is under development), Active (The tool is currently working and available), Maintenance (The tool is temporarily unavailable for maintenance), Accepting Data (The tool is Active AND Accepting submissions), Not Accepting Data (The tool is Active but is NOT Accepting submissions), Retired (The tool is no longer being maintained).",
-            "type": "string",
-            "enum": ["Draft", "Active", "Maintenance", "Accepting Data", "Not Accepting Data", "Retired"],
-            "owl:cardinality": "one"
           }
         },
         "required": ["date", "includedInDataCatalog", "funding", "author", "description", "name"],
         "recommended": ["citedBy", "doi", "topicCategory", "codeRepository", "programmingLanguage", "applicationCategory", "applicationSubCategory", "input", "output", "featureList", "operatingSystem", "softwareRequirements", "softwareVersion", "citation", "conditionsOfAccess", "dateModified", "interactionStatistic", "license", "identifier", "url"],
-        "optional": ["isBasisFor", "isRelatedTo", "isSimilarTo", "infectiousAgent", "healthCondition", "species", "applicationSuite", "availableOnDevice", "downloadUrl", "processorRequirements", "softwareAddOn", "softwareHelp", "aggregateRating", "contributor", "creator", "dateCreated", "datePublished", "discussionUrl", "hasPart", "inLanguage", "isAccessibleForFree", "isBasedOn", "isPartOf", "keywords", "provider", "sdPublisher", "thumbnailUrl", "mainEntityOfPage", "sameAs","sourceOrganization", "creditText", "creativeWorkStatus"],
+        "optional": ["isBasisFor", "isRelatedTo", "isSimilarTo", "infectiousAgent", "healthCondition", "species", "applicationSuite", "availableOnDevice", "downloadUrl", "processorRequirements", "softwareAddOn", "softwareHelp", "aggregateRating", "contributor", "creator", "dateCreated", "datePublished", "discussionUrl", "hasPart", "inLanguage", "isAccessibleForFree", "isBasedOn", "isPartOf", "keywords", "provider", "sdPublisher", "thumbnailUrl", "mainEntityOfPage", "sameAs","sourceOrganization", "creditText"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -4207,8 +4195,8 @@
       "rdfs:subClassOf": {
         "@id": "schema:Collection"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v2.1 - 2026.04.08"],
-      "dct:provenance":"Changes since previous version: Add 'creativeWorkStatus' property.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v2.0 - 2025.12.08"],
+      "dct:provenance":"Changes since previous version: Add description for the 'about' field.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -5537,17 +5525,11 @@
             "description": "Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work. For example, how a user should cite the resource.",
             "type": "string",
             "owl:cardinality": "one"
-          },
-          "creativeWorkStatus": {
-            "description": "The status of the ResourceCatalog. Expected to be one of the following values: Draft (The resources is under development), Active (The resource is currently working and available), Maintenance (The resource is temporarily unavailable for maintenance), Accepting Data (The resource is Active AND Accepting submissions), Not Accepting Data (The resource is Active but is NOT Accepting submissions), Retired (The resource is no longer available).",
-            "type": "string",
-            "enum": ["Draft", "Active", "Maintenance", "Accepting Data", "Not Accepting Data", "Retired"],
-            "owl:cardinality": "one"
           }
         },
         "required": ["date", "funding", "measurementTechnique", "description", "name", "url", "about","genre", "includedInDataCatalog"],
         "recommended": ["author", "citedBy", "doi", "infectiousAgent", "healthCondition", "species", "variableMeasured", "citation", "conditionsOfAccess", "dateCreated", "dateModified", "datePublished", "interactionStatistic", "isBasedOn", "keywords", "license", "sdPublisher", "spatialCoverage", "temporalCoverage", "usageInfo", "identifier", "topicCategory", "collectionSize", "hasAPI", "hasDownload", "collectionType"],
-        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "distribution", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship", "sourceOrganization", "archivedAt","creditText", "creativeWorkStatus"],
+        "optional": ["isRelatedTo", "isSimilarTo", "isBasisFor", "distribution", "abstract", "aggregateRating", "creator", "hasPart", "inLanguage", "isAccessibleForFree", "isPartOf", "version", "alternateName", "mainEntityOfPage", "sameAs", "relationship", "sourceOrganization", "archivedAt","creditText"],
         "definitions": {
           "citation": {
             "description": "A citation object for a publication which is cited by the resource catalog (ie- is a derivative of the resource catalog), related to the resource catalog, or from which the resource catalog was based on (ie- is derived from).",
@@ -6462,8 +6444,8 @@
           "@id": "schema:CreativeWork"
         }
       ],
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.7 - 2026.04.08"],
-      "dct:provenance":"Changes since previous version: Add 'creativeWorkStatus' property.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v0.5 - 2026.02.04"],
+      "dct:provenance":"Changes since previous version: Allow DefinedTerm as an expected type for experimentalPurpose.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -8430,12 +8412,6 @@
             "type": "string",
             "owl:cardinality": "one"
           },
-          "creativeWorkStatus": {
-            "description": "The status of the Sample. Expected to be one of the following values: Bespoke (The sample is made-to-order), Available (The sample is currently available), Backordered (The sample is temporarily unavailable or out-of-stock), Retired (The sample is no longer available).",
-            "type": "string",
-            "enum": ["Bespoke", "Available", "Backordered", "Retired"],
-            "owl:cardinality": "one"
-          },
           "additionalProperty": {
             "description": "Other Property/Value pairs that describe the sample.",
             "anyOf": [
@@ -8450,26 +8426,11 @@
               }
             ],
             "owl:cardinality": "many"
-          },
-          "additionalType": {
-            "description": "The subclassification of the Sample based on where it was intended to be indexed. Use 'ExperimentalRunSample' for samples intended for sequencing and other experimental run repositories vs 'BioSample' for samples intended for biospecimen, biobank, or other biological reagent repositories. If a sample is expected to be indexed in both types, use an array and list both types.",
-            "anyOf": [
-              {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              },
-              {
-                "type": "string"
-              }
-            ],
-            "owl:cardinality": "many"
           }
         },
         "required": ["name", "url", "identifier", "includedInDataCatalog", "author", "date"],
         "recommended": ["description", "sameAs", "conditionsOfAccess", "usageInfo", "license", "cellType", "infectiousAgent", "species", "healthCondition", "funding", "creditText", "anatomicalStructure", "sex", "developmentalStage", "sampleAvailability", "sampleProcess", "sampleType", "collectionMethod", "instrument", "collector", "contributor", "locationOfOrigin", "citation", "dateModified", "dateCollected", "dateProcessed", "interactionStatistic", "keywords", "sdPublisher", "sourceOrganization", "topicCategory", "creditText"],
-        "optional": ["associatedPhenotype", "associatedGenotype", "citedBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage", "additionalProperty","additionalType"],
+        "optional": ["associatedPhenotype", "associatedGenotype", "citedBy", "isRelatedTo", "isSimilarTo", "isBasisFor", "isBasedOn", "hasPart","isPartOf", "anatomicalSystem", "sampleQuantity", "sampleState", "sampleStorageTemperature", "distribution", "measurementTechnique", "variableMeasured", "environmentalSystem", "aggregateRating", "experimentalPurpose", "maintainer", "itemLocation", "dateCreated", "datePublished", "spatialCoverage", "temporalCoverage", "additionalProperty"],
         "definitions": {
           "citation": {
             "description": "A citation object for a resource which is cited by the dataset (ie- is a derivative of the dataset) , related to the dataset, or from which the dataset was based on (ie- is derived from).",
@@ -11679,7 +11640,7 @@
         }
       }
     },
-        {
+    {
       "@id": "nde:DataCollection",
       "@type": "rdfs:Class",
       "rdfs:comment": "Data collections contained in the NIAID Data Ecosystem. A data collection is a collection of data records from other sources that have been grouped by common search fields. The NIAID Data Ecosystem is an environment to find and access and infectious and immune-mediated disease data and resources to speed the development of diagnostics, therapeutics, and vaccines. The NIAID Data Ecosystem Discovery Portal aggregates metadata from repository of various data types and harmonizes them to this schema to enable easy cross-platform resource searching and filtering. Data collections are essentially artificial datasets that exist in the NIAID Data Ecosystem to extend the discovery of resources beyond the current scope of the data classes included in the Discovery Portal.",
@@ -14180,6 +14141,458 @@
           }
         }
       }
+    },
+    {
+      "@id": "nde:SemanticTriple",
+      "@type": "rdfs:Class",
+      "rdfs:comment": "The SemanticTriple is a structured representation of a subject–predicate–object assertion, modeled after the RDF triple pattern used in knowledge graphs and linked data systems. While schema.org/Statement provides a general mechanism for reifying claims about entities, SemanticTriple makes the triple structure explicit and unambiguous, enabling direct, lossless translation between schema.org markup and RDF-based knowledge graph formats such as RDF/XML, Turtle, JSON-LD, and N-Triples.",
+      "rdfs:label": "SemanticTriple",
+      "rdfs:subClassOf": {
+        "@id": "schema:Statement"
+      },
+      "$validation": {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "type": "object",
+        "properties": {
+          "isSymmetric": {
+            "description": "A boolean indicating whether the triple's predicate asserts a symmetric relationship — that is, if A relates to B, then B relates to A by the same predicate. For example, biolink:correlated_with is symmetric, while biolink:regulates is not. Corresponds to owl:SymmetricProperty in OWL and symmetric: true in the Biolink Model.",
+            "owl:cardinality": "one",
+            "type": "boolean"
+          },
+          "inversePredicate": {
+            "description": "The predicate that expresses the inverse of this triple's relationship. The predicate which would be used if subject and object were swapped. Only meaningful when isSymmetric is false. For example, the inverse of biolink:regulates is biolink:regulated_by. Corresponds to owl:inverseOf in OWL and the inverse: slot on predicate definitions in the Biolink Model.",
+            "owl:cardinality": "one",
+            "oneOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "string"
+              }
+            ]
+          },
+          "tripleObject": {
+            "description": "The value or entity the predicate points to (corresponding to the RDF object). ",
+            "owl:cardinality": "one",
+            "oneOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "string"
+              }
+            ]
+          },
+          "triplePredicate": {
+            "description": "The relationship being asserted, observed, inferred, between the subject and the object (corresponding to the RDF predicate)",
+            "owl:cardinality": "one",
+            "oneOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "string"
+              }
+            ]
+          },
+          "tripleSubject": {
+            "description": "The entity the assertion, observation, or inference is about (corresponding to the RDF subject). ",
+            "owl:cardinality": "one",
+            "oneOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "string"
+              }
+            ]
+          },
+          "tripleObjectQualifier": {
+            "description": "Contextual or qualifying information about the object of the assertion, observation, or inference. For example, a chemical entity object may be qualified by its form (e.g. abundance or activity of a gene product), or a phenotypic feature object may be qualified by its severity, onset, or frequency in the context of a given disease association. Corresponds to object-level qualifiers in RDF-star annotations or RDF literal metadata.",
+            "owl:cardinality": "many",
+            "anyOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/propertyvalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ]
+          },
+          "tripleSubjectQualifier": {
+            "description": "Contextual or qualifying information about the subject of the assertion, observation, or inference. For example, a disease subject may be qualified by the anatomical location or cell type in which it manifests. Corresponds to subject-level qualifiers in RDF-star annotations or named graph metadata.",
+            "owl:cardinality": "many",
+            "anyOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/propertyvalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ]
+          },
+          "triplePredicateQualifier": {
+            "description": "Contextual or qualifying information about the predicate of the assertion, observation, or inference. For example, a 'gene associated with disease' predicate may be qualified by the association type (e.g. causal vs. correlated), the direction of effect (e.g. gain-of-function vs. loss-of-function), or the knowledge source (e.g. curated vs. inferred). Corresponds to predicate-level qualifiers in RDF-star annotations or property path metadata.",
+            "owl:cardinality": "many",
+            "anyOf": [
+              {
+                "$ref": "#/definitions/propertyvalue"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/propertyvalue"
+                }
+              },
+              {
+                "$ref": "#/definitions/definedterm"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/definedterm"
+                }
+              },
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ]
+          },
+          "name": {
+            "description": "The name of the item.",
+            "owl:cardinality": "one",
+            "type": "string"
+          }
+        },
+        "required": [
+          "tripleObject",
+          "triplePredicate",
+          "tripleSubject"
+        ],
+        "recommended": [
+          "isSymmetric",
+          "inversePredicate",
+          "tripleObjectQualifier",
+          "tripleSubjectQualifier",
+          "triplePredicateQualifier"
+        ],
+        "optional": [
+          "name"
+        ],
+        "definitions": {
+          "definedterm": {
+            "@type": "DefinedTerm",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "The name of the item.",
+                "owl:cardinality": "one",
+                "type": "string"
+              },
+              "identifier": {
+                "description": "The identifier property represents any kind of identifier for any kind of Thing, such as ISBNs, GTIN codes, UUIDs etc. Schema.org provides dedicated properties for representing many of these, either as textual strings or as URL (URI) links. See background notes for more details.",
+                "owl:cardinality": "one",
+                "type": "string"
+              },
+              "url": {
+                "description": "URL of the item.",
+                "owl:cardinality": "one",
+                "type": "string",
+                "format": "uri"
+              },
+              "termCode": {
+                "description": "A code that identifies this DefinedTerm within a DefinedTermSet.",
+                "type": "string"
+              },
+              "description": {
+                "description": "A description of the item.",
+                "type": "string"
+              },
+              "inDefinedTermSet": {
+                "description": "A DefinedTermSet that contains this term.",
+                "type": "string"
+              },
+              "originalName": {
+                "description": "The original name of the item, before any metadata standardization/normalization",
+                "type": "string"
+              },
+              "isCurated": {
+                "description": "A boolean indicator describing whether or not this DefinedTerm was curated as the value of a property.",
+                "type": "boolean"
+              }
+            },
+            "required": []              
+          },
+          "propertyvalue": {
+            "@type": "PropertyValue",
+            "description": "A property-value pair, e.g. representing a feature of a product or place. Use the 'name' property for the name of the property. If there is an additional human-readable version of the value, put that into the 'description' property.",
+            "type": "object",
+            "properties": {
+              "name": {
+                "description": "The name of the property.",
+                "type": "string"
+              },
+              "value": {
+                "description": "The value of a QuantitativeValue (including Observation) or property value node.",
+                "oneOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  {
+                    "type": "number"
+                  }
+                ]
+              },
+              "unitText": {
+                "description": "A unit associated with the value. E.g.- 'records' for the number of records in a database.",
+                "type": "string"
+              },
+              "propertyID": {
+                "description": "A commonly used identifier for the characteristic represented by the property...",
+                "oneOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                ]
+              }
+            },
+            "required": [
+                "name",
+                "value"
+            ],
+            "recommended": [
+                "propertyID"
+            ],
+            "optional": [
+                "unitText"
+            ]
+             
+          }
+        }
+      },
+      "schemaVersion": [
+        "https://schema.org/docs/releases.html#v30.0"
+      ]
+    },
+    {
+      "@id": "nde:isSymmetric",
+      "@type": "rdf:Property",
+      "rdfs:comment": "A boolean indicating whether the triple's predicate asserts a symmetric relationship — that is, if A relates to B, then B relates to A by the same predicate. For example, biolink:correlated_with is symmetric, while biolink:regulates is not. Corresponds to owl:SymmetricProperty in OWL and symmetric: true in the Biolink Model.",
+      "rdfs:label": "isSymmetric",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": {
+        "@id": "schema:Boolean"
+      }
+    },
+    {
+      "@id": "nde:inversePredicate",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The predicate that expresses the inverse of this triple's relationship. The predicate which would be used if subject and object were swapped. Only meaningful when isSymmetric is false. For example, the inverse of biolink:regulates is biolink:regulated_by. Corresponds to owl:inverseOf in OWL and the inverse: slot on predicate definitions in the Biolink Model.",
+      "rdfs:label": "inversePredicate",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:Text"
+        }
+      ]
+    },
+    {
+      "@id": "nde:tripleObject",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The value or entity the predicate points to (corresponding to the RDF object). ",
+      "rdfs:label": "tripleObject",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:Text"
+        }
+      ]
+    },
+    {
+      "@id": "nde:triplePredicate",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The relationship being asserted, observed, inferred, between the subject and the object (corresponding to the RDF predicate)",
+      "rdfs:label": "triplePredicate",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:Text"
+        }
+      ]
+    },
+    {
+      "@id": "nde:tripleSubject",
+      "@type": "rdf:Property",
+      "rdfs:comment": "The entity the assertion, observation, or inference is about (corresponding to the RDF subject). ",
+      "rdfs:label": "tripleSubject",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:Text"
+        }
+      ]
+    },
+    {
+      "@id": "nde:tripleObjectQualifier",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Contextual or qualifying information about the object of the assertion, observation, or inference. For example, a chemical entity object may be qualified by its form (e.g. abundance or activity of a gene product), or a phenotypic feature object may be qualified by its severity, onset, or frequency in the context of a given disease association. Corresponds to object-level qualifiers in RDF-star annotations or RDF literal metadata.",
+      "rdfs:label": "tripleObjectQualifier",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:Text"
+        }
+      ]
+    },
+    {
+      "@id": "nde:tripleSubjectQualifier",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Contextual or qualifying information about the subject of the assertion, observation, or inference. For example, a disease subject may be qualified by the anatomical location or cell type in which it manifests. Corresponds to subject-level qualifiers in RDF-star annotations or named graph metadata.",
+      "rdfs:label": "tripleSubjectQualifier",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:Text"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        }
+      ]
+    },
+    {
+      "@id": "nde:triplePredicateQualifier",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Contextual or qualifying information about the predicate of the assertion, observation, or inference. For example, a 'gene associated with disease' predicate may be qualified by the association type (e.g. causal vs. correlated), the direction of effect (e.g. gain-of-function vs. loss-of-function), or the knowledge source (e.g. curated vs. inferred). Corresponds to predicate-level qualifiers in RDF-star annotations or property path metadata.",
+      "rdfs:label": "triplePredicateQualifier",
+      "schema:domainIncludes": {
+        "@id": "nde:SemanticTriple"
+      },
+      "schema:rangeIncludes": [
+        {
+          "@id": "schema:DefinedTerm"
+        },
+        {
+          "@id": "schema:PropertyValue"
+        },
+        {
+          "@id": "schema:Text"
+        }
+      ]
     },
     {
       "@id": "nde:citedBy",
