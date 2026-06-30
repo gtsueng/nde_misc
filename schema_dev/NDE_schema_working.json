@@ -4207,8 +4207,8 @@
       "rdfs:subClassOf": {
         "@id": "schema:Collection"
       },
-      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v2.1 - 2026.04.08"],
-      "dct:provenance":"Changes since previous version: Add 'creativeWorkStatus' property.",
+      "schema:schemaVersion":["https://schema.org/docs/releases.html#v18.0","v2.2 - 2026.06.30"],
+      "dct:provenance":"Changes since previous version: Add 'Aggregate data' option for 'hasDownload' property.",
       "$validation": {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -4951,10 +4951,10 @@
             "owl:cardinality": "one"
           },
           "hasDownload": {
-            "description": "The resource provides downloads of its contents. Options: All content (e.g. entire data builds, tools, etc.), Partial content (just data, or just tools, etc.), Record-level (individual records, or selections of records), No downloads (information is viewable but not downloadable, users must resort to copy/paste, screenshots, etc.), Prohibited (downloading, copy/pasting, screenshotting the data is prohibited).",
+            "description": "The resource provides downloads of its contents. Options: All content (e.g. entire data builds, tools, etc.), Partial content (just data, or just tools, etc.), Record-level (individual records, or selections of records), Aggregate data (aggregations or analyses of the data are downloadable, but not the data itself), No downloads (information is viewable but not downloadable, users must resort to copy/paste, screenshots, etc.), Prohibited (downloading, copy/pasting, screenshotting the data is prohibited).",
             "abstract": "Download availability",
             "type": "string",
-            "enum": ["All content", "Partial content", "Record-level", "No downloads", "Prohibited"],
+            "enum": ["All content", "Partial content", "Record-level", "Aggregate data", "No downloads", "Prohibited"],
             "owl:cardinality": "one"
           },
           "hasPart": {
@@ -16754,7 +16754,7 @@
     {
       "@id": "nde:hasDownload",
       "@type": "rdf:Property",
-      "rdfs:comment": "The resource/resource catalog provides download access to its content. Options: All content (e.g. entire data builds, tools, etc.), Partial content (just data, or just tools, etc.), Record-level (individual records, or selections of records), No downloads (information is viewable but not downloadable, users must resort to copy/paste, screenshots, etc.), Prohibited (downloading, copy/pasting, screenshotting the data is prohibited).",
+      "rdfs:comment": "The resource/resource catalog provides download access to its content. Options: All content (e.g. entire data builds, tools, etc.), Partial content (just data, or just tools, etc.), Record-level (individual records, or selections of records), Aggregate data (aggregations or analyses of the data are downloadable, but not the data itself), , No downloads (information is viewable but not downloadable, users must resort to copy/paste, screenshots, etc.), Prohibited (downloading, copy/pasting, screenshotting the data is prohibited).",
       "rdfs:label": "hasDownload",
       "schema:domainIncludes": [
         {
