@@ -1436,6 +1436,64 @@
                 "description": "Abstract of the referenced work",
                 "type": "string"
               },
+              "additionalType": {
+                "description": "Additional type of the referenced work, such as a Sample, Run, Experiment, etc.",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "items": {
+                      "properties": {
+                        "name": {
+                          "type": "string"
+                        },
+                        "url": {
+                          "format": "uri",
+                          "type": "string"
+                        }
+                      },
+                      "required": ["name"],
+                      "recommended": ["url"],
+                      "type": "object",
+                      "@type": "DefinedTerm"                
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "format": "uri",
+                        "type": "string"
+                      }
+                    },
+                    "required": ["name"],
+                    "recommended": ["url"],
+                    "type": "object",
+                    "@type": "DefinedTerm"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }    
+                ]
+              },
               "datePublished": {
                 "description": "Date the referenced work was published",
                 "format": "date",
@@ -1489,7 +1547,7 @@
               }
             },
             "required": ["name"],
-            "recommended": ["author", "datePublished", "doi", "identifier", "includedInDataCatalog", "relationship", "url"],
+            "recommended": ["author", "additionalType", "datePublished", "doi", "identifier", "includedInDataCatalog", "relationship", "url"],
             "optional": ["abstract", "citation", "description", "hasPart"]
           },
           "topic": {
@@ -3781,8 +3839,17 @@
                 "type": "string"
               },
               "additionalType": {
-                "description": "Additional type of the referenced work, such as a Sample, Run, Experiment, or BioProject",
-                "oneOf": [
+                "description": "Additional type of the referenced work, such as a Sample, Run, Experiment, etc.",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  {
+                    "type": "string"
+                  },
                   {
                     "items": {
                       "properties": {
@@ -3796,10 +3863,37 @@
                       },
                       "required": ["name"],
                       "recommended": ["url"],
-                      "type": "object"
+                      "type": "object",
+                      "@type": "DefinedTerm"                
                     },
                     "type": "array"
-                  }
+                  },
+                  {
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "format": "uri",
+                        "type": "string"
+                      }
+                    },
+                    "required": ["name"],
+                    "recommended": ["url"],
+                    "type": "object",
+                    "@type": "DefinedTerm"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }    
                 ]
               },
               "datePublished": {
@@ -5712,6 +5806,64 @@
                 "format": "date",
                 "type": "string"
               },
+              "additionalType": {
+                "description": "Additional type of the referenced work, such as a Sample, Run, Experiment, etc.",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "items": {
+                      "properties": {
+                        "name": {
+                          "type": "string"
+                        },
+                        "url": {
+                          "format": "uri",
+                          "type": "string"
+                        }
+                      },
+                      "required": ["name"],
+                      "recommended": ["url"],
+                      "type": "object",
+                      "@type": "DefinedTerm"                
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "format": "uri",
+                        "type": "string"
+                      }
+                    },
+                    "required": ["name"],
+                    "recommended": ["url"],
+                    "type": "object",
+                    "@type": "DefinedTerm"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }    
+                ]
+              },
               "description": {
                 "description": "Description of the referenced work",
                 "type": "string"
@@ -5760,7 +5912,7 @@
               }
             },
             "required": ["name"],
-            "recommended": ["author", "datePublished", "doi", "identifier", "includedInDataCatalog", "relationship", "url"],
+            "recommended": ["author", "datePublished", "doi", "identifier", "includedInDataCatalog", "relationship", "url", "additionalType"],
             "optional": ["abstract", "citation", "description", "hasPart"]
           },
           "topic": {
@@ -8495,7 +8647,51 @@
               },
               {
                 "type": "string"
-              }
+              },
+              {
+                "items": {
+                  "properties": {
+                    "name": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "format": "uri",
+                      "type": "string"
+                    }
+                  },
+                  "required": ["name"],
+                  "recommended": ["url"],
+                  "@type": "DefinedTerm",        
+                  "type": "object"
+                },
+                "type": "array"
+              },
+              {
+                "properties": {
+                  "name": {
+                    "type": "string"
+                  },
+                  "url": {
+                    "format": "uri",
+                    "type": "string"
+                  }
+                },
+                "required": ["name"],
+                "recommended": ["url"],
+                "@type": "DefinedTerm",            
+                "type": "object"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "format": "uri"
+                }
+              },
+              {
+                "type": "string",
+                "format": "uri"
+              }    
             ],
             "owl:cardinality": "many"
           }
@@ -8629,6 +8825,64 @@
                 "description": "Abstract of the referenced work",
                 "type": "string"
               },
+              "additionalType": {
+                "description": "Additional type of the referenced work, such as a Sample, Run, Experiment, etc.",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "items": {
+                      "properties": {
+                        "name": {
+                          "type": "string"
+                        },
+                        "url": {
+                          "format": "uri",
+                          "type": "string"
+                        }
+                      },
+                      "required": ["name"],
+                      "recommended": ["url"],
+                      "type": "object",
+                      "@type": "DefinedTerm"                
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "format": "uri",
+                        "type": "string"
+                      }
+                    },
+                    "required": ["name"],
+                    "recommended": ["url"],
+                    "type": "object",
+                    "@type": "DefinedTerm"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }    
+                ]
+              },
               "datePublished": {
                 "description": "Date the referenced work was published",
                 "format": "date",
@@ -8682,7 +8936,7 @@
               }
             },
             "required": ["name"],
-            "recommended": ["author", "datePublished", "doi", "identifier", "includedInDataCatalog", "relationship", "url"],
+            "recommended": ["author", "additionalType", "datePublished", "doi", "identifier", "includedInDataCatalog", "relationship", "url"],
             "optional": ["abstract", "citation", "description", "hasPart"]
           },
           "topic": {
@@ -9354,6 +9608,64 @@
                 "description": "Abstract of the referenced work",
                 "type": "string"
               },
+              "additionalType": {
+                "description": "Additional type of the referenced work, such as a Sample, Run, Experiment, etc.",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "items": {
+                      "properties": {
+                        "name": {
+                          "type": "string"
+                        },
+                        "url": {
+                          "format": "uri",
+                          "type": "string"
+                        }
+                      },
+                      "required": ["name"],
+                      "recommended": ["url"],
+                      "type": "object",
+                      "@type": "DefinedTerm"                
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "format": "uri",
+                        "type": "string"
+                      }
+                    },
+                    "required": ["name"],
+                    "recommended": ["url"],
+                    "type": "object",
+                    "@type": "DefinedTerm"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }    
+                ]
+              },
               "datePublished": {
                 "description": "Date the referenced work was published",
                 "format": "date",
@@ -9407,7 +9719,7 @@
               }
             },
             "required": ["name"],
-            "recommended": ["author", "datePublished", "doi", "identifier", "includedInDataCatalog", "relationship", "url"],
+            "recommended": ["author", "additionalType", "datePublished", "doi", "identifier", "includedInDataCatalog", "relationship", "url"],
             "optional": ["abstract", "citation", "description", "hasPart"]
           },
           "topic": {
@@ -13060,6 +13372,64 @@
                 "description": "Abstract of the referenced work",
                 "type": "string"
               },
+              "additionalType": {
+                "description": "Additional type of the referenced work, such as a Sample, Run, Experiment, etc.",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "items": {
+                      "properties": {
+                        "name": {
+                          "type": "string"
+                        },
+                        "url": {
+                          "format": "uri",
+                          "type": "string"
+                        }
+                      },
+                      "required": ["name"],
+                      "recommended": ["url"],
+                      "type": "object",
+                      "@type": "DefinedTerm"                
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "format": "uri",
+                        "type": "string"
+                      }
+                    },
+                    "required": ["name"],
+                    "recommended": ["url"],
+                    "type": "object",
+                    "@type": "DefinedTerm"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }    
+                ]
+              },
               "datePublished": {
                 "description": "Date the referenced work was published",
                 "format": "date",
@@ -13113,7 +13483,7 @@
               }
             },
             "required": ["name"],
-            "recommended": ["author", "datePublished", "doi", "identifier", "includedInDataCatalog", "relationship", "url"],
+            "recommended": ["author", "additionalType", "datePublished", "doi", "identifier", "includedInDataCatalog", "relationship", "url"],
             "optional": ["abstract", "citation", "description", "hasPart"]
           },
           "examplework": {
@@ -16018,6 +16388,64 @@
                 "description": "Abstract of the referenced work",
                 "type": "string"
               },
+              "additionalType": {
+                "description": "Additional type of the referenced work, such as a Sample, Run, Experiment, etc.",
+                "anyOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "items": {
+                      "properties": {
+                        "name": {
+                          "type": "string"
+                        },
+                        "url": {
+                          "format": "uri",
+                          "type": "string"
+                        }
+                      },
+                      "required": ["name"],
+                      "recommended": ["url"],
+                      "type": "object",
+                      "@type": "DefinedTerm"                
+                    },
+                    "type": "array"
+                  },
+                  {
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "format": "uri",
+                        "type": "string"
+                      }
+                    },
+                    "required": ["name"],
+                    "recommended": ["url"],
+                    "type": "object",
+                    "@type": "DefinedTerm"
+                  },
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "uri"
+                    }
+                  },
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  }    
+                ]
+              },
               "datePublished": {
                 "description": "Date the referenced work was published",
                 "format": "date",
@@ -16063,7 +16491,7 @@
               }
             },
             "required": ["name"],
-            "recommended": ["author", "datePublished", "doi", "identifier", "includedInDataCatalog", "relationship", "url"],
+            "recommended": ["additionalType", "datePublished", "doi", "identifier", "includedInDataCatalog", "relationship", "url"],
             "optional": ["abstract", "citation", "description", "hasPart"]
           },
           "thing": {
@@ -17278,6 +17706,31 @@
       "schema:rangeIncludes": {
         "@id": "schema:PropertyValue"
       }
+    },
+    {
+      "@id": "nde:additionalType",
+      "@type": "rdf:Property",
+      "rdfs:comment": "An additional type for the item, typically used for adding more specific types from external vocabularies in microdata syntax. This is a relationship between something and a class that the thing is in. Typically the value is a URI-identified RDF class, and in this case corresponds to the use of rdf:type in RDF. Text values can be used sparingly, for cases where useful information can be added without their being an appropriate schema to reference. In the case of text values, the class label should follow the schema.org style guide.",
+      "rdfs:label": "additionalType",
+      "schema:domainIncludes": [
+        {
+          "@id": "nde:Sample"
+        },
+        {
+          "@id": "schema:CreativeWork"
+        }
+      ],
+      "schema:rangeIncludes": [
+        {
+          "@id": "nde:DefinedTerm"
+        },
+        {
+          "@id": "schema:Text"
+        },
+        {
+          "@id": "schema:URL"
+        }
+      ]
     }
   ]
 }
